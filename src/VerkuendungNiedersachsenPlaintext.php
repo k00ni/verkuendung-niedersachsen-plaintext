@@ -140,10 +140,10 @@ class VerkuendungNiedersachsenPlaintext
             $lineEntries = [];
 
             foreach ($columnNames as $name) {
-                $value = $entry[$name] ?? '';
+                $value = (string) ($entry[$name] ?? '');
                 $value = str_replace('"', "'", $value);
 
-                $lineEntries[] = '"'. $value.'"';
+                $lineEntries[] = '"'. trim($value).'"';
             }
 
             $fileContent .= implode(',', $lineEntries).PHP_EOL;
