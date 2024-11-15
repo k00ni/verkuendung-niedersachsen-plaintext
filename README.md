@@ -32,6 +32,15 @@ In den Metadaten findet man diesen in der Spalte `mainDocment`.
 
 **Hier ein Beispiel:** PDF-Datei der Verkündung heißt `mbl-2024-559.pdf` und die zugehörige Plaintext-Datei heißt `mbl-2024-559.txt` und befindet sich unter [plaintext/mbl-2024-559.txt](./plaintext/mbl-2024-559.txt).
 
+### Aktualisierung der Daten
+
+Für die lokale Ausführung des Skriptes zur Datenabholung und -aufbereitung steht ein [Docker](./docker) Container bereit.
+Diesen einfach bauen und danach starten, z.B. unter Linux über das Terminal mittels `cd docker && make`.
+Im Container selbst einfach make eingeben und die Daten werden auf den neusten Stand gebraucht.
+
+Für alle, die ohne Docker arbeiten wollen: der Hauptteil des Programm ist lokalisiert unter [./src/VerkuendungNiedersachsenPlaintext.php](./src/VerkuendungNiedersachsenPlaintext.php).
+Im [bin](./bin) Ordner ist eine kleine run-Datei für einfachere Nutzung über das Terminal.
+
 ## Projektstatus
 
 Das Projekt befindet sich noch in einem sehr frühen Status und kann daher noch Fehler in den Daten enthalten.
