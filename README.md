@@ -22,7 +22,7 @@ Die hier publizierten Daten stammen ursprünglich von Verkündungen staatlicher 
 ![](./csv-screenshot.png)
 
 In der [metadata.csv](./metadata.csv) sind alle Metadaten zu den erfassten Verkündungen in strukturierter Form zu finden.
-Die Daten stammen direkt von der Verkündungsplattform (hier ein [Beispiel](https://www.verkuendung-niedersachsen.de/ndsgvbl/2024/94/)) und wurde nur minimal für die CSV-Nutzung angepasst.
+Die Daten stammen direkt von der Verkündungsplattform (hier ein [Beispiel](https://www.verkuendung-niedersachsen.de/ndsgvbl/2024/94/)) und wurden nur minimal für die CSV-Nutzung angepasst.
 Es wird empfohlen diese Datei als Ausgangspunkt bei einer automatisierten Auswertung zu verwenden.
 Die Plaintext-Varianten der Verkündungen befinden sich im Ordner [plaintext](./plaintext).
 
