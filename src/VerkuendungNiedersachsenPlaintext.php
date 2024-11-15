@@ -131,6 +131,11 @@ class VerkuendungNiedersachsenPlaintext
 
         $fileContent = implode(',', $columnNames).PHP_EOL;
 
+        // sort by proclamation_nr
+        usort($verkuendungenArr, function($a, $b) {
+            return $a['proclamation_nr'] < $b['proclamation_nr'] ? 1 : -1;
+        });
+
         foreach ($verkuendungenArr as $entry) {
             $lineEntries = [];
 

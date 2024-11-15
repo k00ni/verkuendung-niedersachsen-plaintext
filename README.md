@@ -1,6 +1,6 @@
 # Verkündung Niedersachsen Plaintext
 
-Plaintext-Varianten der Verkündungen (PDF) auf der Verkündungsplattform (https://www.verkuendung-niedersachsen.de/).
+Plaintext-Varianten der Verkündungen (PDF) von der Verkündungsplattform (https://www.verkuendung-niedersachsen.de/).
 
 Ziel dieses Projektes ist es, die Inhalte der Verkündungsplattform, sogenannte Verkündungen, maschinell besser zugänglich zu machen.
 Aktuell werden die Verkündungen nur als PDF bereitgestellt.
