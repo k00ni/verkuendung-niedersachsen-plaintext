@@ -1,0 +1,311 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 30. Oktober 2024 Nummer 497
+
+Ministerium für Inneres und Sport
+
+Umsetzung der NIS-2-Richtlinie in Niedersachsen (NIS2UmsRdErl)
+*
+
+Gem. RdErl. d. MI, d. StK u. d. übr. Min. v. 29.10.2024 – 01220- 1000- 0001 –
+– VORIS 20500 –
+
+Bezug: Beschl. d. LReg v. 29.10.2024 (Nds. MBl. 2024 Nr. 496)
+– VORIS 20500 –
+Die LReg hat in ihrer Sitzung am 29.10.2024 den nachstehenden Gem. RdErl. zur Umsetzung der NIS-2-
+Richtlinie in Niedersachsen (NIS2UmsRdErl) beschlossen.
+Vorbemerkung
+Die Bedrohungslage für Netz- und Informationssysteme aufgrund von Cybersicherheitsrisiken hat sich in
+den letzten Jahren drastisch verschärft und erreicht mittlerweile ein beispielloses Ausmaß. Cyberangriffe sind
+zu einer allgegenwärtigen Gefahr geworden, die den Staat, die Wirtschaft sowie die Gesellschaft in gleichem
+Maße bedrohen.
+Am 16. Januar 2023 ist die Richtlinie (EU) 2022/2555 nach Veröffentlichung am 27.12.2022 im Amtsblatt
+der Europäischen Union in Kraft getreten. Die Mitgliedstaaten müssen die Richtlinie bis zum 17.10.2024 in
+nationales Recht umgesetzt haben.
+Die NIS-2-Richtlinie löst die Richtlinie (EU) 2016/1148 des Europäischen Parlaments und des Rates vom
+6. Juli 2016 über Maßnahmen zur Gewährleistung eines hohen gemeinsamen Sicherheitsniveaus von Netz-
+und Informationssystemen in der Union (ABl. L 194 vom 19.7.2016, S. 1; L 33 vom 7.2.2018, S. 5) (im Folgen-
+den: NIS-Richtlinie) ab und verfolgt das übergreifende Ziel, den europäischen Binnenmarkt resilienter gegen-
+über Bedrohungen aus dem Cyberraum zu machen. Große Unterschiede zwischen den Mitgliedstaaten sollen
+beseitigt werden, indem insbesondere Mindestvorschriften für einen funktionierenden und koordinierten
+Rechtsrahmen festgelegt werden, Mechanismen für die wirksame Zusammenarbeit zwischen den zuständigen
+Behörden in den einzelnen Mitgliedstaaten vorgesehen werden, die Liste der Sektoren und Tätigkeiten, die
+Pflichten im Hinblick auf die Cybersicherheit unterliegen, aktualisiert wird und wirksame Abhilfemaßnahmen
+und Durchsetzungsmaßnahmen eingeführt werden.
+Die Umsetzung der NIS-2-Richtlinie erfolgt für den Mitgliedstaat Deutschland im Wesentlichen durch Bun-
+desrecht. Der Bund kann jedoch nur solche Vorgaben der NIS-2-Richtlinie umsetzen, für die ihm das
+
+*
+Dieser Gem. RdErl. dient der Umsetzung der Richtlinie (EU) 2022/2555 des Europäischen Parlaments und des Rates vom 14. Dezem-
+ber 2022 über Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union, zur Änderung der Verordnung (EU)
+Nr. 910/2014 und der Richtlinie (EU) 2018/1972 sowie zur Aufhebung der Richtlinie (EU) 2016/1148 (NIS -2-Richtlinie) (ABl. L 333 vom
+27.12.20 22, S. 80; 2023/90206, 22.12.2023).
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 2
+Grundgesetz die Befugnis zur Gesetzgebung eröffnet. Die NIS-2-Richtlinie adressiert neben Unternehmen in
+kritischen Sektoren auch Einrichtungen der öffentlichen Verwaltung auf regionaler Ebene, die nach einer risi-
+kobasierten Bewertung Dienste erbringen, deren Störung erhebliche Auswirkungen auf kritische gesellschaft-
+liche oder wirtschaftliche Tätigkeiten haben könnte. Unter regionaler Ebene ist im europarechtlichen Kontext
+die Ebene der Landesverwaltungen zu verstehen. Da der Bund mangels Gesetzgebungskompetenz diesbe-
+züglich keine Regelungen treffen kann, sind die Länder ebenso zur Umsetzung verpflichtet.
+Dieser Gem. RdErl. dient der Umsetzung der NIS-2-Richtlinie in Niedersachsen.
+1. Aufgaben der zuständigen Behörde gemäß Artikel 8 Abs. 1 NIS-2-Richtlinie
+1.1 MI nimmt die Aufgaben als zuständige Behörde für Cybersicherheit für das Land Niedersachsen und
+die in Kapitel VII der NIS-2- Richtlinie genannten Aufsichtsaufgaben auf der Ebene der unmittelbaren Landes-
+verwaltung wahr (zuständige Behörde) – vgl. Bezugsbeschluss.
+1.2 Die zuständige Behörde handelt in dieser Funktion unabhängig. Sie hat ein direktes Vortragsrecht im
+Niedersächsischen IT-Planungsrat und berichtet diesem erstmalig zum 31.10.2025 und anschließend jährlich
+über die Anwendung der NIS-2-Richtlinie.
+1.3 Die zuständige Behörde berät und unterstützt wichtige Einrichtungen nach Nummer 3.1 bei der Um-
+setzung der Anforderungen nach diesem Gem. RdErl. und stellt konkrete, praxisnahe Hilfsmittel zur Umset-
+zung von Informationssicherheitsvorgaben im Rahmen der eigenen Kapazitäten bereit.
+1.4 Die zuständige Behörde ist im Rahmen verfügbarer Haushaltsmittel mit angemessenen Ressourcen
+auszustatten, damit die übertragenen Aufgaben wirksam und effizient wahrgenommen werden können und
+somit die Ziele der NIS-2- Richtlinie erreicht werden.
+1.5 Die Identität der zuständigen Behörde, ihre Aufgaben sowie etwaige spätere Änderungen dieser An-
+gaben sind der Europäischen Kommission unverzüglich zu notifizieren.
+1.6 Die zuständige Behörde arbeitet zur Erfüllung ihrer Aufgaben mit den zuständigen Behörden der an-
+deren Länder, dem Bundesamt für Sicherheit in der Informationstechnik als zentrale Anlaufstelle, den Com-
+puter-Notfallteams, den Strafverfolgungsbehörden, den Datenschutzbehörden, den nationalen Behörden ge-
+mäß den Verordnungen (EG) Nr. 300/2008 des Europäischen Parlaments und des Rates vom 11. März 2008
+über gemeinsame Vorschriften für die Sicherheit in der Zivilluftfahrt und zur Aufhebung der Verordnung (EG)
+Nr. 2320/2002 (ABl. L 97 vom 9.4.2008, S. 72; L 164 vom 23.6.2012, S. 18), geändert durch die Verordnung
+(EU) Nr. 18/2010 der Kommission vom 8. Januar 2010 (ABl. L 7 vom 12.1.2010, S. 3), und (EU) 2018/1139
+des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für
+die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Ände-
+rung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und
+der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung
+der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates
+und der Verordnung (EWG) Nr. 3922/91 des Rates (ABl. L 212 vom 22.8.2018, S. 1; L 296 vom 22.11.2018,
+S. 41), geändert durch die Delegierte Verordnung (EU) 2021/1087 der Kommission vom 7. April 2021
+(ABl. L 236 vom 5.7.2021, S. 1), den Aufsichtsstellen gemäß der Verordnung (EU) Nr. 910/2014 des Europä-
+ischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste
+für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257
+vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44), geändert durch die Verordnung
+(EU) 2024/1183 des Europäischen Parlaments und des Rates vom 11. April 2024 (ABl. L, 2024/1183,
+30.4.2024), den gemäß der Verordnung (EU) 2022/2554 des Europäischen Parlaments und des Rates vom
+14. Dezember 2022 über die digitale operationale Resilienz im Finanzsektor und zur Änderung der Verord-
+nungen (EG) Nr. 1060/2009, (EU) Nr. 648/2012, (EU) Nr. 600/2014, (EU) Nr. 909/2014 und (EU) 2016/1011
+(ABl. L 333 vom 27.12.2022, S. 1) zuständigen Behörden, den nationalen Regulierungsbehörden gemäß der
+Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den
+europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36; L 334 vom
+27.12.2019, S. 164), den gemäß der Richtlinie (EU) 2022/2557 des Europäischen Parlaments und des Rates
+vom 14. Dezember 2022 über die Resilienz kritischer Einrichtungen und zur Aufhebung der Richtlinie
+2008/114/EG des Rates (ABl. L 333 vom 27.12.2022, S. 164) zuständigen Behörden sowie im Rahmen
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 3
+anderer sektorspezifischer Rechtsakte der Europäischen Union innerhalb des jeweiligen Mitgliedstaats zu-
+ständiger Behörden zusammen.
+2. Computer-Notfallteam
+2.1 Die Zentralstelle für Informationssicherheit i. S. von § 14 Abs. 1 NDIG nimmt die Aufgaben als Com-
+puter-Notfallteam (Computer Security Incident Response Team – CSIRT) i. S. von Artikel 10 Abs. 1 NIS-2-
+Richtlinie auf der Ebene der unmittelbaren Landesverwaltung wahr – vgl. Bezugsbeschluss.
+2.2 Das Computer-Notfallteam gewährleistet folgende Anforderungen:
+a) Das Computer-Notfallteam sorgt für einen hohen Grad der Verfügbarkeit seiner Kommunikationskanäle,
+indem es punktuellen Ausfällen vorbeugt und mehrere Kanäle bereitstellt, damit es jederzeit erreichbar
+bleibt und selbst mit Anderen Kontakt aufnehmen kann; es legt die Kommunikationskanäle genau fest
+und macht sie den wichtigen Einrichtungen nach Nummer 3.1 bekannt.
+b) Die Räumlichkeiten des Computer-Notfallteams und die unterstützenden Informationssysteme werden
+an sicheren Standorten eingerichtet.
+c) Das Computer-Notfallteam muss über ein geeignetes System zur Verwaltung und Weiterleitung von
+Anfragen verfügen, insbesondere um wirksame und effiziente Übergaben zu erleichtern.
+d) Das Computer-Notfallteam stellt die Vertraulichkeit und Vertrauenswürdigkeit seiner Tätigkeiten sicher.
+e) Das Computer-Notfallteam muss personell so ausgestattet sein, dass es eine ständige Bereitschaft sei-
+ner Dienste gewährleisten kann, und es muss sicherstellen, dass sein Personal entsprechend geschult
+ist.
+f) Das Computer-Notfallteam muss über Redundanzsysteme und Ausweicharbeitsräume verfügen, um
+die Kontinuität seiner Dienste sicherzustellen.
+2.3 Das Computer-Notfallteam nimmt folgende Aufgaben wahr:
+a) Überwachung und Analyse von Cyberbedrohungen, Schwachstellen und Sicherheitsvorfällen auf Ebe-
+ne der unmittelbaren Landesverwaltung und auf Anfrage Bereitstellung von Unterstützung für wichtige
+Einrichtungen nach Nummer 3.1 hinsichtlich der Überwachung ihrer Netz- und Informationssysteme in
+Echtzeit oder nahezu in Echtzeit;
+b) Ausgabe von Frühwarnungen und Alarmmeldungen sowie Bekanntmachung und Weitergabe von In-
+formationen über Cyberbedrohungen, Schwachstellen und Sicherheitsvorfälle an wichtige Einrichtun-
+gen nach Nummer 3.1 sowie an das Bundesamt für Sicherheit in der Informationstechnik als zentrale
+Anlaufstelle, möglichst echtzeitnah;
+c) Reaktion auf Sicherheitsvorfälle und gegebenenfalls Unterstützung der wichtigen Einrichtungen nach
+Nummer 3.1;
+d) Erhebung und Analyse forensischer Daten sowie dynamische Analyse von Risiken und Sicherheitsvor-
+fällen sowie Lagebeurteilung im Hinblick auf die Cybersicherheit;
+e) auf Ersuchen einer wichtigen Einrichtung nach Nummer 3.1 eine proaktive Überprüfung der Netz- und
+Informationssysteme der betreffenden Einrichtung auf Schwachstellen mit potenziell signifikanten Aus-
+wirkungen (Schwachstellenscan);
+f) Beitrag zum Einsatz sicherer Instrumente für den Informationsaustausch gemäß Artikel 10 Abs. 3 NIS-
+2-Richtlinie.
+2.4 Das Computer-Notfallteam wird auf Anforderung in der Wahrnehmung seiner Aufgaben nach Num-
+mer 2.3 durch die IT betreibenden Stellen des Landes unterstützt. Das Computer-Notfallteam erstattet der
+ersuchten Stelle Auslagen, die den allgemeinen Verwaltungsaufwand übersteigen, sofern die ersuchte Stelle
+dies verlangt.
+2.5 Die Landesregierung gewährleistet, dass das Computer-Notfallteam im Rahmen verfügbarer Haus-
+haltsmittel mit angemessenen Ressourcen ausgestattet wird, damit es seine Aufgaben nach Nummer 2.3 wirk-
+sam erfüllen kann.
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 4
+2.6 Die Identität des Computer-Notfallteams, seine Aufgaben in Bezug auf wichtige Einrichtungen nach
+Nummer 3.1 sowie etwaige spätere Änderungen dieser Angaben sind der Europäischen Kommission unver-
+züglich zu notifizieren.
+3. Geltungsbereich
+3.1 Als wichtige Einrichtung i. S. von Artikel 3 Abs. 2 Satz 1 i. V. m. Nr. 10 Alternative 2 Anhang I NIS-2-
+Richtlinie gilt gemäß Artikel 2 Abs. 2 Buchst. f Doppelbuchst. ii NIS-2-Richtlinie eine Einrichtung der öffentli-
+chen Verwaltung des Landes Niedersachsen, die nach einer risikobasierten Bewertung Dienste erbringt, deren
+Störung erhebliche Auswirkungen auf kritische gesellschaftliche oder wirtschaftliche Tätigkeiten haben könnte.
+Zur Ermittlung ist das vom IT-Planungsrat Bund/Länder in seiner 42. Sitzung am 03.11.2023 beschlossene
+Identifizierungskonzept (Beschluss 2023/39) heranzuziehen. Sofern der IT-Planungsrat Bund/Länder das
+Identifizierungskonzept aktualisiert, ist die jeweils aktuellste Fassung anzuwenden.
+3.2 Die StK und die Ministerien sind wichtige Einrichtungen i. S. von Nummer 3.1 Satz 1.
+3.3 Die StK und die Ministerien wenden das Identifizierungskonzept nach Nummer 3.1 Sätze 2 und 3 in
+eigener Verantwortung in ihrem jeweiligen Geschäftsbereich an und identifizieren darüber Einrichtungen, die
+in den Anwendungsbereich der NIS-2-Richtlinie fallen.
+3.4 Die StK und die Ministerien übermitteln der zuständigen Behörde erstmalig spätestens zum
+17.01.2025 folgende Informationen zu der eigenen Behörde sowie zu den nach Nummer 3.3 identifizierten
+Einrichtungen in ihrem jeweiligen Geschäftsbereich:
+a) Name der Behörde,
+b) Anschrift der Behörde und aktuelle Kontaktdaten, einschließlich E-Mail-Adresse und Telefonnummer
+einer Ansprechperson sowie einer Vertreterin oder eines Vertreters, sowie
+c) IP-Adressbereiche.
+Die StK und die Ministerien teilen der zuständigen Behörde alle Änderungen an den übermittelten Angaben
+unverzüglich mit, in jedem Fall jedoch innerhalb von zwei Wochen ab dem Zeitpunkt der Änderung.
+3.5 Die StK und die Ministerien überprüfen in eigener Verantwortung in ihrem jeweiligen Geschäftsbereich
+die Identifizierung nach Nummer 3.3 alle zwei Jahre und teilen das Ergebnis der zuständigen Behörde mit.
+3.6 Die zuständige Behörde erstellt bis zum 28.02.2025 eine Liste von wichtigen Einrichtungen nach Num-
+mer 3.1 und aktualisiert diese alle zwei Jahre. Die Liste ist zu klassifizieren.
+3.7 Die zuständige Behörde übermittelt der zentralen Anlaufstelle nach Artikel 8 Abs. 3 NIS-2-Richtlinie
+erstmalig zum 31.03.2025 und danach alle zwei Jahre die Anzahl der wichtigen Einrichtungen nach Num-
+mer 3.1.
+4. Pflichten
+4.1 Wichtige Einrichtungen nach Nummer 3.1 sind verpflichtet, geeignete, verhältnismäßige und wirksame
+technische und organisatorische Maßnahmen zu ergreifen, um Störungen der Verfügbarkeit, Integrität und
+Vertraulichkeit der informationstechnischen Systeme, Komponenten und Prozesse, die sie für die Erbringung
+ihrer Dienste nutzen, zu vermeiden und Auswirkungen von Sicherheitsvorfällen auf ihre oder andere Dienste
+zu verhindern oder möglichst gering zu halten. Die Einhaltung der Verpflichtung nach Satz 1 ist durch die
+jeweilige Einrichtung zu dokumentieren.
+4.2 Maßnahmen nach Nummer 4.1 müssen den Stand der Technik einhalten und unter Berücksichtigung
+der einschlägigen europäischen und internationalen Normen sowie der Umsetzungskosten ein Sicherheitsni-
+veau der informationstechnischen Systeme, Komponenten und Prozesse gewährleisten, das dem bestehen-
+den Risiko angemessen ist. Bei der Bewertung, ob Maßnahmen dem bestehenden Risiko angemessen sind,
+sind das Ausmaß der Risikoexposition und die Größe der Einrichtung sowie die Eintrittswahrscheinlichkeit und
+Schwere von Sicherheitsvorfällen sowie ihre gesellschaftlichen und wirtschaftlichen Auswirkungen zu berück-
+sichtigen.
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 5
+4.3 Maßnahmen nach Nummer 4.1 müssen auf einem gefahrenübergreifenden Ansatz beruhen, der da-
+rauf abzielt, die informationstechnischen Systeme, Komponenten und Prozesse und die physische Umwelt
+dieser Systeme vor Sicherheitsvorfällen zu schützen, und zumindest Folgendes umfassen:
+a) Konzepte in Bezug auf die Risikoanalyse und Sicherheit für Informationssysteme,
+b) Bewältigung von Sicherheitsvorfällen,
+c) Aufrechterhaltung des Betriebs, wie Backup- Management und Wiederherstellung nach einem Notfall,
+und Krisenmanagement,
+d) Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zwischen den
+einzelnen Einrichtungen und ihren unmittelbaren Anbietern oder Diensteanbietern,
+e) Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von informationstechnischen Systemen,
+Komponenten und Prozessen, einschließlich Management und Offenlegung von Schwachstellen,
+f) Konzepte und Verfahren zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen im Be-
+reich der Cybersicherheit,
+g) grundlegende Verfahren im Bereich der Cyberhygiene und Schulungen im Bereich der Cybersicherheit,
+h) Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselung,
+i) Sicherheit des Personals, Konzepte für die Zugriffskontrolle und Management von Anlagen,
+j) Verwendung von Lösungen zur Multi-F aktor-Authentifizierung oder kontinuierlichen Authentifizierung,
+gesicherte Sprach- , Video- und Textkommunikation sowie ggf. gesicherte Notfallkommunikationssys-
+teme innerhalb der Einrichtung.
+4.4 Soweit die Europäische Kommission einen Durchführungsrechtsakt gemäß Artikel 21 Abs. 5 Unter-
+abs. 2 NIS-2-Richtlinie erlässt, in dem die technischen und methodischen Anforderungen sowie erforderlichen-
+falls die sektoralen Anforderungen der in Nummer 4.3 genannten Maßnahmen festgelegt werden, so gehen
+diese Anforderungen vor.
+5. Nachweispflichten
+5.1 Wichtige Einrichtungen nach Nummer 3.1 weisen die Erfüllung der Anforderungen nach Nummer 4
+spätestens drei Jahre nach Inkrafttreten dieses Gem. RdErl. und anschließend regelmäßig der zuständigen
+Behörde nach deren Vorgaben nach.
+5.2 Zur Überprüfung der Umsetzung der Anforderungen nach Nummer 4 kann die zuständige Behörde
+die erforderlichen Auskünfte und die Überlassung von entsprechenden Unterlagen der wichtigen Einrichtun-
+gen nach Nummer 3.1 verlangen. Zu diesem Zweck darf sie eigene Revisionen durchführen.
+6. Meldepflichten bei erheblichen Sicherheitsvorfällen
+6.1 Wichtige Einrichtungen nach Nummer 3.1 sind verpflichtet, folgende Informationen an das Computer-
+Notfallteam zu melden:
+6.1.1 unverzüglich, spätestens jedoch innerhalb von 24 Stunden nach Kenntniserlangung von einem erhebli-
+chen Sicherheitsvorfall, eine frühe Erstmeldung, in der angegeben wird, ob der Verdacht besteht, dass
+der erhebliche Sicherheitsvorfall auf rechtswidrige oder böswillige Handlungen zurückzuführen ist oder
+grenzüberschreitende Auswirkungen haben könnte;
+6.1.2 unverzüglich, spätestens jedoch innerhalb von 72 Stunden nach Kenntniserlangung von einem erhebli-
+chen Sicherheitsvorfall, eine Meldung über diesen Sicherheitsvorfall, in der die in Nummer 1 genannten
+Informationen bestätigt oder aktualisiert werden und eine erste Bewertung des erheblichen Sicherheits-
+vorfalls, einschließlich seines Schweregrads und seiner Auswirkungen, sowie ggf. die Kompromittie-
+rungsindikatoren angegeben werden;
+6.1.3 auf Ersuchen des Computer-Notfallteams eine Zwischenmeldung über relevante Statusaktualisierun-
+gen;
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 6
+6.1.4 spätestens einen Monat nach Übermittlung der Meldung des Sicherheitsvorfalls eine Abschlussmel-
+dung, die Folgendes enthält:
+a) eine ausführliche Beschreibung des Sicherheitsvorfalls, einschließlich seines Schweregrads und
+seiner Auswirkungen,
+b) Angaben zur Art der Bedrohung beziehungsweise zugrunde liegenden Ursache, die wahrschein-
+lich den Sicherheitsvorfall ausgelöst hat,
+c) Angaben zu den getroffenen und laufenden Abhilfemaßnahmen,
+d) gegebenenfalls die grenzüberschreitenden Auswirkungen des Sicherheitsvorfalls.
+6.2 Dauert der Sicherheitsvorfall zum in Nummer 6.1.4 dargestellten Zeitpunkt noch an, legt die betref-
+fende Einrichtung statt einer Abschlussmeldung zu diesem Zeitpunkt eine Fortschrittsmeldung und eine Ab-
+schlussmeldung innerhalb eines Monats nach Abschluss der Bearbeitung des Sicherheitsvorfalls vor.
+6.3 Das Computer-Notfallteam übermittelt der meldenden Einrichtung unverzüglich und nach Möglichkeit
+innerhalb von 24 Stunden nach Eingang der Frühwarnung gemäß Nummer 6.1.1 eine Antwort, einschließlich
+einer ersten Rückmeldung zu dem erheblichen Sicherheitsvorfall und, auf Ersuchen der Einrichtung, Orientie-
+rungshilfen oder operative Beratung für die Durchführung möglicher Abhilfemaßnahmen.
+6.4 Das Computer-Notfallteam leistet auf Ersuchen der betreffenden Einrichtung zusätzliche technische
+Unterstützung.
+6.5 Das Computer-Notfallteam gibt wichtigen Einrichtungen nach Nummer 3.1 Orientierungshilfen für die
+Meldung eines Sicherheitsvorfalls an die Strafverfolgungsbehörden und an den Verfassungsschutz Nieder-
+sachsen. Wird bei dem erheblichen Sicherheitsvorfall ein krimineller Hintergrund vermutet, informiert die be-
+troffene wichtige Einrichtung nach Nummer 3.1 die Zentrale Ansprechstelle Cybercrime (ZAC) beim Landes-
+kriminalamt Niedersachsen. Wird bei dem erheblichen Sicherheitsvorfall ein nachrichtendienstlicher Hinter-
+grund vermutet, informiert die betroffene wichtige Einrichtung nach Nummer 3.1 den Verfassungsschutz Nie-
+dersachsen.
+6.6 Das Computer-Notfallteam meldet der zentralen Anlaufstelle nach Artikel 8 Abs. 3 NIS-2-Richtlinie
+unverzüglich grenzübergreifende erhebliche Sicherheitsvorfälle.
+6.7 Ein erheblicher Sicherheitsvorfall im Sinne dieses Gem. RdErl. ist ein Sicherheitsvorfall, der
+a) schwerwiegende Betriebsstörungen der Dienste oder finanzielle Verluste für die betreffende Einrichtung
+oder das Land Niedersachsen verursacht hat oder verursachen kann oder
+b) andere natürliche oder juristische Personen durch erhebliche materielle oder immaterielle Schäden be-
+einträchtigt hat oder beeinträchtigen kann.
+6.8 Soweit die Europäische Kommission für Einrichtungen der öffentlichen Verwaltung einen Durchfüh-
+rungsrechtsakt gemäß Artikel 23 Abs. 11 Unterabs. 1 NIS-2- Richtlinie erlässt, in dem die Art der Angaben,
+das Format oder das Verfahren der Meldungen festgelegt oder näher bestimmt werden, sind dessen Vorgaben
+einzuhalten.
+6.9 Wichtige Einrichtungen nach Nummer 3.1 können ergänzend zu den Meldungen nach Nummer 6.1
+und unbeschadet der bestehenden Verpflichtungen aus den Informationssicherheitsrichtlinien des Landes zu
+Meldungen freiwillig Meldung machen über sie betreffende aktuelle
+6.9.1 sonstige Sicherheitsvorfälle sowie
+6.9.2 Beinahe- Vorfälle.
+7. Umsetzungs-, Überwachungs- und Schulungspflicht für Behördenleitungen wichtiger Einrichtungen
+7.1 Behördenleitungen wichtiger Einrichtungen nach Nummer 3.1 sind für die Umsetzung der nach Num-
+mer 4 zu ergreifenden Risikomanagementmaßnahmen verantwortlich. Sie veranlassen die erforderlichen
+Maßnahmen und überwachen deren Umsetzung.
+
+Nds. MBl. 2024 Nr. 497 vom 30. Oktober 2024 Seite 7
+7.2 Die Behördenleitungen wichtiger Einrichtungen nach Nummer 3.1 nehmen regelmäßig an Schulungen
+teil, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken sowie Manage-
+mentpraktiken im Bereich der Sicherheit in der Informationstechnik und deren Auswirkungen auf die von der
+Einrichtung erbrachten Dienste zu erwerben.
+7.3 Die zuständige Behörde erstellt Konzepte für die Schulung von Behördenleitungen und stellt diese
+den wichtigen Einrichtungen nach Nummer 3.1 zur Verfügung. Die zuständige Behörde bietet bei Bedarf jähr-
+lich eine eigene Schulung nach Nummer 7.2 an.
+8. Cybersicherheitsstrategie des Landes Niedersachsen
+8.1 Es ist eine Cybersicherheitsstrategie des Landes Niedersachsen zu erstellen, die die strategischen
+Ziele, die zur Erreichung der Ziele der NIS-2- Richtlinie erforderlichen Ressourcen sowie angemessene politi-
+sche und regulatorische Maßnahmen zur Erreichung und Aufrechterhaltung eines hohen Cybersicherheitsni-
+veaus enthält.
+8.2 Die Cybersicherheitsstrategie ist der Europäischen Kommission innerhalb von drei Monaten nach ih-
+rem Erlass zu notifizieren.
+8.3 Die Cybersicherheitsstrategie ist regelmäßig, mindestens aber alle fünf Jahre, auf der Grundlage we-
+sentlicher Leistungsindikatoren zu bewerten und erforderlichenfalls zu aktualisieren.
+9. Schlussbestimmungen
+Dieser Gem. RdErl. tritt am 29.10.2024 in Kraft.
+
+An die
+Dienststellen der Landesverwaltung
+Nachrichtlich:
+An den
+Niedersächsischen Landtag
+Niedersächsischen Landesrechnungshof
+Landesbeauftragten für den Datenschutz Niedersachsen

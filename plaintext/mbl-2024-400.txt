@@ -1,0 +1,739 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 11. September 2024 Nummer 400
+
+Ministerium für Inneres und Sport
+
+Organisation der Polizei des Landes Niedersachsen;
+Bearbeitungszuständigkeiten der Zentralen Kriminalinspektionen,
+der Zentralen Kriminaldienste, der Kriminal- und Ermittlungsdienste,
+der Polizeistationen und der Wasserschutzpolizeistationen
+RdErl. d. MI v. 11.09.2024 – 23.11- 01512/1- 3.1 –
+– VORIS 21021 –
+
+Bezug: a) RdErl. v. 21.09.2021 – 21/23- 01512/1 – n. v.
+b) RdErl. v. 22.12.2022 (Nds. MBl. 2023 S. 128)
+– VORIS 21132 –
+c) RdErl. v. 11.10.2019 – 21.1-01512/1 – n. v.
+
+Inhaltsübersicht
+1. Allgemeines
+2. Anzeigen- und Tatortaufnahme
+2.1 Anzeigenaufnahme
+2.2 Allgemeine Tatortaufnahme
+2.3 Spezialisierte Tatortaufnahme
+3. Bearbeitungszuständigkeiten
+3.1 Grundsatz
+3.2 Zentrale Kriminalinspektion (ZKI)
+3.2.1 Fachkommissariat Forensik
+3.2.2 Fachkommissariat Cybercrime
+3.2.3 Fachkommissariat Organisierte Kriminalität – Komplexe Kriminelle Strukturen
+3.2.4 Fachkommissariat Wirtschafts- und Korruptionskriminalität
+3.2.5 Fachkommissariat Polizeilicher Staatsschutz (ST)
+3.3 Zentraler Kriminaldienst (ZKD)
+3.3.1 ZKD Fahndungsgruppen
+3.3.2 Ständige Ermittlungsgruppe Komplexe Kriminelle Strukturen (SEG KKS)
+3.3.3 Fachkommissariat 1
+3.3.4 Fachkommissariat 2
+3.3.5 Fachkommissariat 3
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 2
+3.3.6 Fachkommissariat 4
+3.3.7 Fachkommissariat Forensik
+3.3.8 Fachkommissariat 6
+3.3.9 Fachkommissariat 7
+3.4 Kriminal- und Ermittlungsdienst (KED)
+3.4.1 Aufgabenfeld 1
+3.4.2 Aufgabenfeld 2
+3.4.3 Aufgabenfeld 3
+3.4.4 Aufgabenfeld 4
+3.4.5 Aufgabenfeld 5
+3.4.6 Kriminal- und Ermittlungsdienst des Polizeikommissariats Bundesautobahn
+3.4.7 Kriminaltechnik
+3.5 Polizeistation (PSt)
+3.6 Wasserschutzpolizeistation (WSPSt)
+4. Sonstige Regelungen
+4.1 Dienst- und Fachaufsicht
+4.2 Befugnisse der Leitung des ZKD
+4.3 Besondere Aufbauorganisationen (BAO)
+4.4 Präventionsteams, Beauftragte für Jugendsachen und für Kriminalprävention, Verkehrssicherheitsberaterinnen und Verkehrssi-
+cherheitsberater
+4.5 Dislozierung
+5. Besonderheiten bei der Polizeidirektion Hannover
+6. Schlussbestimmungen
+
+1. Allgemeines
+Mit der Festlegung der Bearbeitungszuständigkeiten der polizeilichen Sachbearbeitung – insbesondere in
+der Kriminalitätsbekämpfung – der Landespolizei Niedersachsen sollen vor allem
+– die Qualität der polizeilichen Sachbearbeitung und Effektivität der Kriminalitätsbekämpfung dauerhaft
+verbessert,
+– ein sachgerechter Einsatz der Personalressourcen erzielt,
+– eine einheitliche Bearbeitungs - und Zuständigkeitsstruktur erzeugt und
+– die grundsätzlich dezentrale Ausrichtung der polizeilichen Aufgabenwahrnehmung bei grundsätzlich
+gleichen Organisationsstrukturen realisiert
+werden.
+Unbeschadet der nachfolgenden Regelungen stellt jede zuerst mit der Sache befasste Dienststelle/Orga-
+nisationseinheit unaufschiebbare Maßnahmen der Gefahrenabwehr, der Strafverfolgung und/oder der Verfol-
+gung von Ordnungswidrigkeiten sicher. Darüber hinaus unterstützen sich die Dienststellen und Organisations-
+einheiten untereinander und arbeiten eng und vertrauensvoll zusammen.
+2. Anzeigen- und Tatortaufnahme
+2.1 Anzeigenaufnahme
+Die Anzeigenaufnahme umfasst die Aufnahme des deliktischen Grundsachverhalts, die Sicherung von Be-
+weismitteln und ggf. die Durchführung notwendiger Sofortmaßnahmen wie z. B. die fotografische Dokumenta-
+tion von Verletzungen, die Kurzvernehmung von Zeuginnen oder Zeugen und Tatverdächtigen sowie die Initi-
+ierung von Fahndungsmaßnahmen und die Sicherung flüchtiger, auch digitaler Spuren. Anzeigen können zu-
+dem über die Online- Wache Niedersachsen (https://portal.onlinewache.polizei.de/de/
+) erstattet werden.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 3
+2.2 Allgemeine Tatortaufnahme
+Die allgemeine Tatortaufnahme beinhaltet die Erhebung des objektiven und des subjektiven Tatbefundes
+einschließlich der kriminaltechnischen Maßnahmen der Spurensuche und -sicherung an einfach gelagerten
+Tatorten der leichten und der mittleren Kriminalität.
+Die Anzeigenaufnahme und die allgemeine Tatortaufnahme sind Aufgaben des Einsatz- und Streifendiens-
+tes (ESD) bei der Polizeiinspektion (PI) und bei den Polizeikommissariaten (PK). Die PSten und die Wasser-
+schutzpolizeistationen (WSPSt) nehmen die Aufgaben im Rahmen ihrer Möglichkeiten wahr.
+Die zuerst mit der Sache befasste Stelle entscheidet, ob sie eine sachgerechte Bearbeitung der Anzeigen-
+/Tatortaufnahme gewährleisten kann oder ob Kräfte der entsprechenden sachbearbeitenden Organisations-
+einheit oder der Tatortgruppe (TOG) oder des Kriminaldauerdienstes (KDD) hinzuzuziehen sind.
+Versetzte Dienste, Anrufbereitschaften und ähnliche Dienstgestaltungen der Fachkommissariate (FK) der
+ZKD und der Aufgabenfelder (AF) der KED, die nur eine Anzeigenaufnahme gewährleisten sollen, sind nicht
+zulässig.
+2.3 Spezialisierte Tatortaufnahme
+Die spezialisierte Tatortaufnahme beinhaltet die Erhebung des objektiven und des subjektiven Tatbefundes
+einschließlich der kriminaltechnischen Maßnahmen der Spurensuche und Spurensicherung an
+– Tatorten der schweren und schwersten Kriminalität (z. B. Tötungsdelikte, Sexualstraftaten, Brandursa-
+chenermittlungen, qualifizierte Raubdelikte),
+– spurenintensiven Tatorten der mittleren Kriminalität,
+– Tatorten, bei denen aufgrund der Tatbegehungsweise von gewerbs- oder bandenmäßig oder überörtlich
+agierenden Täterinnen oder Tätern ausgegangen werden muss,
+– an Tatorten, die aufgrund des Modus Operandi besondere Anforderungen an die Tatortaufnahme stel-
+len, sowie
+– die Befundaufnahme bei Anhaltspunkten für einen nicht natürlichen Tod oder wenn der Leichnam ei-
+ner/eines Unbekannten gefunden wird.
+Der ESD am Sitz der PI ist mit den Mitarbeitenden der TOG für die spezialisierte Tatortaufnahme im ge-
+samten Inspektionsbereich zuständig. An Standorten, an denen ein KDD eingerichtet ist, obliegen diesem die
+Aufgaben der spezialisierten Tatortaufnahme.
+Für die spezialisierte Tatortaufnahme sind Kräfte mit spezialfachlicher Fortbildung und einschlägiger Be-
+rufserfahrung zuständig. Diese unterstützen und entlasten die für die allgemeine Tatortaufnahme zuständigen
+Stellen im Rahmen ihrer Möglichkeiten.
+Die Dienst- und Fachaufsicht über die TOG wird inspektionsweit von der Dienstabteilungsleitung im ESD
+der PI oder der Wachgruppenleitung des KDD wahrgenommen.
+Die FK des ZKD und die AF des KED, insbesondere die Fachkräfte für die kriminaltechnische Tatortauf-
+nahme, sind nach den Erfordernissen des Einzelfalles hinzuzuziehen.
+3. Bearbeitungszuständigkeiten
+3.1 Grundsatz
+Mit der Festlegung der Bearbeitungszuständigkeiten wird für die ZKI, den ZKD, den KED, die PSt und die
+WSPSt ein einheitlicher Zuständigkeitsrahmen definiert.
+Im Intranet der Polizei, PSN Null1|5, ist ein durch das Landeskriminalamt Niedersachsen (LKA NI) stetig
+aktualisiertes Raster (Straftatenkatalog der Polizeilichen Kriminalstatik – PKS –) abrufbar, das bei einer mög-
+lichen Zuständigkeitsentscheidung, soweit sie sich nicht schon aus der kriminologischen Begrifflichkeit oder
+deren Nähe zu genannten Deliktsgruppen ableiten lässt, als Anhalt dienen soll.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 4
+Die Polizeidirektionen (PD) können in Modifikation der grundsätzlichen Regelungen bei Vorliegen beson-
+derer struktureller Erfordernisse Bearbeitungszuständigkeiten auf die jeweils nachgeordnete Organisations-
+ebene verlagern (Öffnungsklausel).
+Unter Anlegung eines strengen Maßstabes müssen dabei kumulativ folgende Kriterien erfüllt sein:
+– Die räumliche Entfernung zur an sich zuständigen Dienststelle/Organisationsebene ist unverhältnismä-
+ßig weit.
+– Eine ausreichende Falldichte/Fallzahl gewährleistet eine kontinuierliche Vorgangsbelastung, die Erhal-
+tung einer Bearbeitungsroutine und damit einhergehender Bearbeitungsqualität.
+– Eine qualifizierte Fachaufsicht ist sichergestellt.
+– Die bearbeitende Organisationsebene verfügt über eine entsprechende Anzahl qualifizierter Sachbear-
+beiterinnen und Sachbearbeiter.
+Auf die weiterhin von der Inanspruchnahme der Öffnungsklausel ausgeschlossenen Bereiche der struktu-
+rellen Korruption und Cybercrime im engeren Sinne wird hingewiesen.
+Zudem besteht die Möglichkeit der Zuweisung von Bearbeitungszuständigkeiten an (Gemeinsame) Ermitt-
+lungsgruppen.
+3.2 Zentrale Kriminalinspektion (ZKI)
+Die ZKI ist als zentrale Dienststelle der PD vorrangig für die Aufgabenbereiche
+– Organisierte Kriminalität (OK),
+– Prüfung und Bewertung von Ermittlungsverfahren auf OK -Relevanz,
+– besondere Fälle von Komplexen Kriminellen Strukturen (KKS),
+– besondere Fälle der Bandenkriminalität,
+– besondere Fälle der Wirtschaftskriminalität,
+– Cybercrime in bestimmten und herausragenden Fällen,
+– Korruptionskriminalität (sofern strukturell),
+– Finanzermittlungen,
+– besondere Fälle der Politisch motivierten Kriminalität (PMK) sowie
+– Durchführung besonderer Analyseprojekte/Strukturermittlungsverfahren
+zuständig.
+Der ZKI obliegt zudem gemäß Einzelzuweisung die Bearbeitung herausragender, zentral zu führender Er-
+mittlungsverfahren für den Bereich der PD. Neben den o. g. Aufgabenbereichen ist sie für die Aufgabe der
+Durchführung von einsatz- und ermittlungsunterstützenden operativen Maßnahmen (Mobiles Einsatzkom-
+mando, Direktionsfahndung und Einsatz von Vertrauenspersonen) zuständig.
+3.2.1 Fachkommissariat Forensik
+Das FK Forensik ist darauf ausgerichtet, Analyse und Ermittlungsservices gebündelt in der ZKI zur Verfü-
+gung zu stellen, um eine bestmögliche Unterstützung der Vorgangssachbearbeitung (auch für die FK Polizei-
+licher Staatsschutz) zu gewährleisten.
+Das FK Forensik ist insbesondere zuständig für die Aufgabenerfüllung in den Bereichen der
+– IT-Forensik (u. a. IT-forensische Sicherungsmaßnahmen),
+– Daten- Forensik (u. a. Bearbeitung digitaler Spuren und Massendaten, Durchführung besonderer Ana-
+lyseprojekte/Strukturermittlungsverfahren, Prüfung/Bewertung von Ermittlungsverfahren auf OK-Rele-
+vanz),
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 5
+– verfahrensunabhängigen sowie verfahrensintegrierten Finanzermittlungen (u. a. Geldwäscheverdachts-
+meldungen, Vermögensermittlungen),
+– Zentralen Aufgaben,
+– Asservatenstelle und Administration (u. a. Verwahrung aller digitalen und gegenständlichen Asservate).
+Die Aufgaben und Bearbeitungszuständigkeiten – insbesondere zu Ausnahmen von einer grundsätzlichen
+Analogie zu den ZKD in den Bereichen IT- und Daten- Forensik, Zentrale Aufgaben sowie Asservatenstelle
+und Administration – sind weitergehend den Nummern 5.4.1 ff. des Abschlussberichts der Landesarbeits-
+gruppe „Analyseservice/KT“ vom 30.04.2021 zu entnehmen.
+In Fällen leichtfertiger Geldwäsche gemäß § 261 Abs. 6 StGB erfolgt die weitere Bearbeitung der Ver-
+dachtsmeldungen grundsätzlich in den PI bzw. PK, sofern keine Erkenntnisse zu organisierten Strukturen oder
+Zusammenhängen vorliegen. Die Bearbeitung von Strukturermittlungsverfahren in Fällen leichtfertiger Geld-
+wäsche sowie die Durchführung von Sofortmaßnahmen (beispielsweise bei Fristfällen) erfolgen durch die ZKI
+oder die Polizeiliche Gewinn- und Vermögensabschöpfung (PGV).
+Zur Vermeidung von Überschneidungen in den Ermittlungen und Nutzung von Synergieeffekten sollte die
+Bearbeitung der leichtfertigen Geldwäsche in den PI/PK grundsätzlich in der Organisationeinheit erfolgen, in
+der auch das Grunddelikt (Vortat) bearbeitet wird. Sofern das Grunddelikt nicht bekannt ist, soll eine Bearbei-
+tung im FK 3 des ZKD oder im AF 3 des KED erfolgen.
+3.2.2 Fachkommissariat Cybercrime
+Im FK Cybercrime (CC) werden Delikte von Cybercrime im engeren Sinne sowie sonstige Delikte von Cy-
+bercrime mit herausragender Bedeutung (Nummer 3.1 des Bezugserlasses zu a) bearbeitet.
+Eine originäre Zuständigkeit ergibt sich für folgende Delikte:
+– § 202 a StGB – Ausspähen von Daten,
+– § 202 b StGB – Abfangen von Daten,
+– § 202 c StGB – Vorbereiten des Ausspähens und Abfangens von Daten,
+– § 202 d StGB – Datenhehlerei,
+– § 269 StGB – Fälschung beweiserheblicher Daten,
+– § 270 StGB – Täuschung im Rechtsverkehr bei Datenverarbeitung,
+– § 303 a StGB – Datenveränderung,
+– § 303 b StGB – Computersabotage und
+– § 253 StGB – Erpressung im Zusammenhang mit Ransomware,
+sofern diese Delikte im Zusammenhang stehen mit Ransomware, DDos-Angriffen, Betrug im Zusammenhang
+mit dem Onlinebanking oder dem Betreiben krimineller Handelsplattformen.
+Sonstige Delikte von Cybercrime (im weiteren Sinne) können in den FK CC bearbeitet werden, sofern sei-
+tens des FK CC das Erfordernis der Bearbeitung durch die ZKI gesehen wird und nachfolgende Indikatoren
+für die besondere Bedeutung einzeln oder kumulativ vorliegen:
+– besondere Methodenkompetenz (IT-Kenntnis/-Nutzung) erforderlich,
+– komplexe Schadsoftware oder Manipulation von IT-Anlagen oder Prozessen,
+– besonders hohe Schadenssummen, eine Vielzahl von oder besonders herausragende Geschädigte,
+– besondere Resonanz in der Öffentlichkeit,
+– in Fällen, bei denen Hinweise auf organisierte oder bandenmäßige Strukturen vorliegen und
+– in Fällen, in denen der Einsatz von virtuellen verdeckten Ermittlerinnen und Ermittlern (VVE) oder VP-
+IT erforderlich ist.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 6
+Die Behörden können in Abstimmung mit dem Landespolizeipräsidium weitergehende behördenweite Zu-
+ständigkeitsregelungen für das FK CC vornehmen.
+3.2.3 Fachkommissariat Organisierte Kriminalität/Komplexe Kriminelle Strukturen
+Im Fachkommissariat OK/KKS erfolgt die Bearbeitung von Verfahren, die der OK oder KKS zugeordnet
+werden können.
+Organisierte Kriminalität
+OK ist die von Gewinn- oder Machtstreben bestimmte planmäßige Begehung von Straftaten, die einzeln
+oder in ihrer Gesamtheit von erheblicher Bedeutung sind, wenn mehr als zwei Beteiligte auf längere oder
+unbestimmte Dauer arbeitsteilig
+– unter Verwendung gewerblicher oder geschäftsähnlicher Strukturen,
+– unter Anwendung von Gewalt oder anderer zur Einschüchterung geeigneter Mittel oder
+– unter Einflussnahme auf Politik, Medien, öffentliche Verwaltung, Justiz oder Wirtschaft
+zusammenwirken. Der Begriff umfasst nicht Straftaten des Terrorismus. Die Erscheinungsformen der OK sind
+vielgestaltig.
+Komplexe Kriminelle Strukturen
+Die Erscheinungsformen von KKS sind vielfältig, deliktisch nicht auf bestimmte Phänomene begrenzt und
+insbesondere durch Indikatoren, wie
+– ein professionelles, zumeist arbeitsteiliges Agieren,
+– eine zu Beginn häufig nicht erkennbare Komplexität der Ermittlungen,
+– eine Abschottung und Verschleierung (u. a. Nutzung falscher Identitäten, Einsatz von Strohleuten und
+Logistikern, Nutzung diverser nicht überwachbarer Kommunikationsmittel) und
+– die Ausrichtung auf die Legalisierung von Gewinnen
+gekennzeichnet.
+3.2.4 Fachkommissariat Wirtschafts- und Korruptionskriminalität
+Das FK Wirtschafts- und Korruptionskriminalität bearbeitet grundsätzlich herausragende Fälle der Wirt-
+schaftskriminalität und Fälle im Bereich der strukturellen Korruption, bei denen eine besondere Verfahrens-
+komplexität gegeben oder eine hervorgehobene Fachlichkeit erforderlich ist.
+Wirtschaftskriminalität
+Die Deliktsgruppen der Wirtschaftskriminalität werden oftmals gewerbsmäßig und auch bandenmäßig be-
+gangen und umfassen im Wesentlichen die folgenden Phänomenbereiche:
+– Anlagedelikte,
+– Finanzierungsdelikte,
+– Insolvenzdelikte,
+– Arbeitsdelikte,
+– Wettbewerbsdelikte,
+– Gesundheitsdelikte und
+– Qualifizierte Betrugsdelikte.
+Korruptionskriminalität
+Bei struktureller Korruption handelt es sich um Fälle, bei denen die Korruptionshandlung auf der Grundlage
+längerfristig angelegter korruptiver Beziehungen bereits im Vorfeld der Tatbegehung bewusst geplant wurde.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 7
+Es liegen demnach konkrete und geistige Vorbereitungshandlungen vor, die eine Spontanität der Handlung
+ausschließen.
+Die Korruptionskriminalität gliedert sich grundsätzlich in folgende Phänomenbereiche auf:
+– Wählerbestechung/Abgeordnetenbestechung (§ 108 b/§ 108 e StGB),
+– Bestechlichkeit und Bestechung im geschäftlichen Verkehr (§ 299 StGB),
+– Bestechlichkeit und Bestechung im Gesundheitswesen (§ 299 a, § 299 b StGB),
+– Vorteilsannahme/Bestechlichkeit/Vorteilsgewährung/Bestechung (§§ 331 bis 335 StGB),
+– ausländische und internationale Bedienstete (§ 335 a StGB),
+– Sportwettbetrug (§ 265 c StGB),
+– Manipulation von berufssportlichen Wettbewerben (§ 265 d StGB) und
+– besonders schwere Fälle des Sportwettbetrugs und der Manipulation von berufssportlichen Wettbewer-
+ben (§ 265 e StGB).
+3.2.5 Fachkommissariat Polizeilicher Staatsschutz (ST)
+Das FK ST nimmt staatsschutzpolizeiliche Aufgaben auf Behördenebene wahr.
+Es führt Ermittlungen in schwierigen oder besonders gelagerten Einzelfällen der PMK und sonst herausge-
+hobener Bedeutung durch.
+Darunter können unter anderem
+– Ermittlungsverfahren gemäß den §§ 129 a und 129 b StGB von minderer Bedeutung
+1)
+oder
+– ähnlich ermittlungsintensive Delikte, wie Sachverhalte gemäß den §§ 89 a, 89 b und 89 c StGB oder
+– Strafverfahren auf Zuweisung des Dezernats 11 der PD
+fallen.
+Weitere Kriterien für eine Zuständigkeit des FK ST können die
+– Gefährlichkeit oder Bedeutung der Zielperson( -en), insbesondere die Einstufung als Gefährder oder
+Relevante Person der PMK,
+– herausgehobene Gefährdungssachbearbeitung (Prüfung der Gefährdungsrelevanz von Erkenntnissen
+und Durchführung von Gefährdungsbewertungen unter Einbindung der nebenamtlichen Sachbearbei-
+tenden Gefährdungsbewertung) gemäß der geltenden Richtlinie
+2)
+,
+– besondere Form der Tatbegehung (Tatobjekt/Tatmittel/Tatmotivation),
+– überregionale/länderübergreifende Zusammenhänge des Täters/der Täterstruktur,
+– Erforderlichkeit operativer Informationsgewinnung,
+– Erforderlichkeit verdeckter Maßnahmen,
+– Erforderlichkeit besonderer oder intensiver Analysetätigkeiten oder
+– Zusammenhänge zu anderen Deliktsbereichen (Waffen/Sprengmittel/Betäubungsmittel/Finanzen/Wirt-
+schaft)
+darstellen.
+
+1)
+Die Einordnung eines Verfahrens als Sache minderer Bedeutung obliegt dem Generalbundesanwalt (§ 142 a Abs. 2 Nr. 2 i. V. m.
+§ 120 GVG). Die Entscheidung über die Wahrnehmung der polizeilichen Ermittlungen in Sachen minderer Bedeutung durch das
+LKA NI oder durch die regionalen Polizeibehörden obliegt dem LKA NI, ggf. in Abstimmung mit der sachleitenden Staatsanwalt-
+schaft.
+2)
+Richtlinie LKA NI (VS-NfD), Gefährdungsmanagement Politisch motivierte Kriminalität (PMK), Az. 12360- 201, in der gültigen Fas-
+sung, n. v.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 8
+3.3 Zentraler Kriminaldienst (ZKD)
+Dem ZKD obliegt die Aufgabe der spezialisierten Kriminalitätsbekämpfung im gesamten Zuständigkeitsbe-
+reich einer PI. Er ist darüber hinaus für die Bekämpfung der allgemeinen Kriminalität am Sitz der PI zuständig.
+Unabhängig von den in den Sätzen 1 und 2 sowie den in den Nummern 3.3.1 bis 3.6 festgelegten Bearbei-
+tungszuständigkeiten ist der ZKD für die Fallbearbeitung zuständig, wenn Anhaltspunkte für
+– das Vorliegen einer qualifizierten Straftatenserie,
+– eine gewerbs- oder bandenmäßige Tatbegehung,
+– eine Tatbegehung durch überörtlich agierende Täterinnen oder Täter,
+– einen besonderen Modus Operandi (z. B. Tageswohnungseinbrüche mit besonderer Arbeitsweise)
+gegeben sind oder
+– Anhaltspunkte für die Bearbeitung von Delikten von Cybercrime im engeren Sinne vorliegen soweit sie
+nicht zentral in der ZKI (FK Cybercrime) bearbeitet werden
+oder
+– wenn im Einzelfall ein herausragendes öffentliches Interesse an der polizeilichen Aufgabenwahrneh-
+mung zu erwarten ist (Medienwirkung).
+Die Zuständigkeiten der ZKI werden durch diese Regelungen nicht berührt.
+Die Zuständigkeiten des ZKD einer PI ergeben sich im Wesentlichen aus den Nummern 3.3.1 bis 3.3.9.
+3.3.1 ZKD Fahndungsgruppen
+Die Organisationseinheit ZKD Fahndungsgruppe ist – unbeschadet allgemeiner und gezielter Fahndungs-
+aufgaben aller Dienststellen oder Organisationseinheiten – im Zuständigkeitsbereich der PI für die allgemeine
+und gezielte Suche nach Personen und Sachen sowie die operative Ermittlungsunterstützung zuständig.
+Den ZKD Fahndungsgruppen obliegen folgende Kernaufgaben:
+– Monitoring von Haftbefehlen sowie Koordinierung und Durchführung von Haftbefehlsvollstreckungen,
+– verdeckte operative Maßnahmen,
+– Einsatz von Operativtechnik (ohne Ortungstechnik),
+– Beratungs- und Unterstützungsfunktion,
+– milieuspezifische Informationsgewinnung in der örtlichen Szene und
+– Mitwirkung bei der Vorbereitung von Kontrollstellen und Razzien.
+3.3.2 Ständige Ermittlungsgruppe Komplexe Kriminelle Strukturen (SEG KKS)
+Die Zuständigkeit umfasst insbesondere die Bearbeitung von Umfangsverfahren aus dem Bereich der KKS,
+sofern diese nicht in die Bearbeitungszuständigkeit der ZKI fallen oder eine Bearbeitung in den ZKI aus ande-
+ren Gründen nicht darstellbar ist.
+3.3.3 Fachkommissariat 1
+Die Zuständigkeit umfasst insbesondere
+– Straftaten gegen das Leben,
+– Todesursachenermittlungen,
+– Gewaltdarstellung (§ 131 StGB),
+– Straftaten gegen die sexuelle Selbstbestimmung (einschließlich § 173 StGB) mit Ausnahme des § 184 i
+StGB (Sexuelle Belästigung),
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 9
+– Vermisstensachen Erwachsener und Minderjähriger, die nach Bewertung des Einzelfalles zeitnah zu
+melden sind,
+– Körperverletzungsdelikte (§§ 226, 227 und 231 StGB),
+– unterlassene Hilfeleistung mit Todesfolge oder schwerer Körperverletzung,
+– Arztdelikte (ärztliche Kunstfehler),
+– Arbeits- und Betriebsunfälle mit Todesfolge oder schwerer Körperverletzung,
+– Brandstiftungen,
+– Brandursachenermittlungen,
+– Sprengstoffverbrechen,
+– Straftaten gegen die persönliche Freiheit (§§ 234, 234 a, 235 Abs. 4 und 5, 236, 237, 238 Abs. 2 und 3,
+239 Abs. 3 und 4, 239 b, 315 und 316 c StGB) in besonderen Fällen,
+– Menschenhandel zum Zwecke der sexuellen Ausbeutung,
+– Straftaten im Zusammenhang mit Prostitutionsausübung,
+– Rotlicht- und Milieukriminalität,
+– Straftaten nach dem WaffG und dem Kriegswaffenkontrollgesetz und
+– Straftaten nach dem LuftVG .
+Darüber hinaus ist das FK 1 an den Standorten, an denen kein PK eingerichtet ist, für die Aufgaben des
+AF 1 (Nummer 3.4.1) zuständig.
+3.3.4 Fachkommissariat 2
+Die Zuständigkeit umfasst insbesondere
+– besondere Raubdelikte wie Raub auf Geldinstitute, Spielhallen, Tankstellen oder ähnliche Tatobjekte
+sowie Raubüberfälle in Wohnungen,
+– Straftaten gegen die persönliche Freiheit, sofern sie nicht in den Zuständigkeitsbereich des FK 1 fallen,
+– Erpressung,
+– Wohnungseinbruchdiebstahldelikte gemäß § 244 Abs. 4 StGB,
+– Diebstähle ohne erschwerende Umstände und unter erschwerenden Umständen von
+– Antiquitäten, Kunst- und sakralen Gegenständen,
+– Schusswaffen,
+– Betäubungsmitteln aus Apotheken, Arztpraxen, Krankenhäusern und vergleichbaren Orten,
+– Kraftfahrzeugsachwertdelikte,
+– Hehlerei, sofern das Grunddelikt in die Zuständigkeit des FK 2 fällt und
+– Delikte nach dem BtmG, KCanG, MedCanG
+3)
+sowie nach dem NpSG
+4)
+.
+Darüber hinaus ist das FK 2 an den Standorten, an denen kein PK eingerichtet ist, für die Aufgaben des
+AF 2 (Nummer 3.4.2) zuständig.
+
+
+
+3)
+Mit Ausnahme von Delikten nach dem MedCanG, die im Zusammenhang mit der Ausübung medizinischer Tätigkeiten stehen (hier
+insbesondere § 25 Abs. 1 Nr. 2 MedCanG – siehe Nummer 3.3.5 17. Spiegelstrich) .
+4)
+Mit Ausnahme konsumorientierter Delikte und des sog. Kleinhandels.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 10
+3.3.5 Fachkommissariat 3
+Die Zuständigkeit umfasst insbesondere
+– Wirtschaftskriminalität,
+– besondere Betrugsdelikte, insbesondere Meineid (§ 154 StGB) und Falsche Versicherung an Eides
+Statt (§ 156 StGB),
+– Geld- und Wertzeichenfälschungen,
+– Fälschungen von Zahlungskarten,
+– Hehlerei, sofern das Grunddelikt in die Zuständigkeit des FK 3 fällt,
+– Insolvenzdelikte,
+– Wettbewerbs-, Korruptions
+5)
+- und Amtsdelikte,
+– Cybercrime im engeren Sinne, sofern keine Bearbeitung durch das FK Cybercrime der ZKI erfolgt,
+– Cybercrime im weiteren Sinne in bedeutenden Fällen, die nicht in anderen FK des ZKD bearbeitet wer-
+den kann,
+– Delikte nach strafrechtlichen Nebengesetzen auf dem Wirtschaftssektor,
+– Straftaten gegen die Umwelt,
+– Straftaten nach dem LFGB ,
+– Straftaten nach dem AufenthG und Asylverfahrensrecht
+6)
+,
+– Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft,
+– Datenschutzdelikte,
+– verfahrensintegrierte Vermögensabschöpfung (fachkommissariats- und dienststellenübergreifend) und
+– Straftaten nach dem AMG und AntiDopG sowie Delikte nach dem MedCanG, die im Zusammenhang
+mit der Ausübung medizinischer Tätigkeiten stehen (hier insbesondere § 25 Abs. 1 Nr. 2 MedCanG)
+Darüber hinaus ist das FK 3 an den Standorten, an denen kein PK eingerichtet ist, für die Aufgaben des
+AF 3 (Nummer 3.4.3) zuständig.
+In Fällen leichtfertiger Geldwäsche gemäß § 261 Abs. 6 StGB erfolgt die weitere Bearbeitung der Ver-
+dachtsmeldungen grundsätzlich in den PI oder den PK, sofern keine Erkenntnisse zu organisierten Strukturen
+oder Zusammenhängen vorliegen. Die Bearbeitung von Strukturermittlungsverfahren in Fällen leichtfertiger
+Geldwäsche sowie die Durchführung von Sofortmaßnahmen (beispielsweise bei Fristfällen) erfolgen durch die
+ZKI oder die PGV.
+Zur Vermeidung von Überschneidungen in den Ermittlungen und Nutzung von Synergieeffekten sollte die
+Bearbeitung der leichtfertigen Geldwäsche in den PI/PK grundsätzlich in der Organisationeinheit erfolgen, in
+der auch das Grunddelikt (Vortat) bearbeitet wird. Sofern das Grunddelikt nicht bekannt ist, soll eine Bearbei-
+tung im FK 3 des ZKD oder im AF 3 des KED erfolgen.
+3.3.6 Fachkommissariat 4
+Die Zuständigkeit umfasst insbesondere
+– die Bearbeitung von Delikten der Politisch motivierten Kriminalität (PMK) und von Verstößen gegen das
+NVersG (Straftaten und Ordnungswidrigkeiten),
+
+5)
+Fälle situativer Korruption.
+6)
+Sofern die Zollbehörden im Rahmen ihrer Zuständigkeit die Bearbeitung aus dem Bereich der illegalen (Ausländer-) Beschäftigung
+übernehmen, kann die Bearbeitung der davon nicht betroffenen Straftaten nach dem Ausländer-/Asylverfahrensrecht vom FK 3 in
+das FK 1 verlagert werden.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 11
+– Maßnahmen der Gefahrenabwehr in staatsschutzpolizeilichen Angelegenheiten (insbesondere Aufklä-
+rung, Datenerhebungen, Personenschutz, Personenüberprüfungen, Gefahrenermittlungen, Gefährder-
+ansprachen),
+– die Aufgabenwahrnehmung im Bereich der Prävention der Politisch motivierten Kriminalität (P PMK),
+– die Einhaltung der den Polizeilichen Staatsschutz betreffenden Regularien,
+– die Durchführung phänomenbezogener Analysen (ggf. in Abstimmung mit dem FK Forensik),
+– die Durchführung von Gefährdungsbewertungen gemäß der geltenden Richtlinie
+2)
+,
+– Gefährdungssachbearbeitung (Prüfung der Gefährdungsrelevanz von Erkenntnissen und Durchführung
+von Gefährdungsbewertungen unter Einbindung der nebenamtlichen Sachbearbeitenden Gefähr-
+dungsbewertung) gemäß der gültigen Richtlinie,
+– die fachbezogene Mitwirkung in ausländerrechtlichen, vereinsrechtlichen und versammlungsrechtlichen
+Angelegenheiten und
+– die Zusammenarbeit mit den Nachrichtendiensten.
+Die PK und PSt unterstützen das FK 4 in staatsschutzpolizeilichen Angelegenheiten.
+3.3.7 Fachkommissariat Forensik
+Das FK Forensik ist darauf ausgerichtet, Analyse und Ermittlungsservices sowie die Kriminaltechnik ge-
+bündelt in der PI zur Verfügung zu stellen, um eine bestmögliche Unterstützung der Vorgangssachbearbeitung
+(auch für die FK 4) zu gewährleisten.
+Die Aufgaben des FK Forensik umfassen insbesondere die
+– Kriminaltechnik (u. a. Spurensuche und - sicherung an Tat- und Ereignisorten, Bearbeitung von Spuren-
+trägern),
+– IT-Forensik (u. a. Spurensuche und -sicherung an Tat- und Ereignisorten, IT-forensische Sicherungs-
+maßnahmen),
+– Daten- Forensik (u. a. Bearbeitung digitaler Spuren und Massendaten, Durchführung gezielter Recher-
+chen, Datenspeicherung und -pflege u. a. in der Elektronischen Kriminalakte (ELKA) sowie POLAS/IN-
+POL Datenbestände, Behördenbeauskunftung),
+– Zentrale Aufgaben (u. a. Gewährleistung eines engen Austauschs zwischen der Vorgangssachbearbei-
+tung und den Sachbearbeiterinnen und Sachbearbeitern des FK Forensik),
+– Asservatenstelle und Administration (u. a. Zuständigkeit und Gesamtverantwortlichkeit für die Asserva-
+tenstellen).
+Die Aufgaben und Bearbeitungszuständigkeiten – insbesondere Ausnahmen von einer grundsätzlichen
+Analogie zu den ZKI in den Bereichen IT-/Daten-Forensik, Zentrale Aufgaben sowie Asservatenstelle und
+Administration – sind weitergehend der Nummer 5.3.1 ff. des Abschlussberichts der Landesarbeitsgruppe
+„Analyseservice/KT“ vom 30.04.2021 zu entnehmen.
+3.3.8 Fachkommissariat 6
+Das FK 6 ist am Sitz der PI für alle Jugendsachen zuständig. Jugendsachen i. S. dieses RdErl. sind alle
+polizeilichen Ermittlungsvorgänge in Straf - und Bußgeldverfahren gegen Kinder, Jugendliche und Heranwach-
+sende oder Personen, bei denen nicht zweifelsfrei bewiesen ist, dass sie noch nicht das 18. Lebensjahr voll-
+endet haben.
+Darüber hinaus ist das FK 6 inspektionsweit grundsätzlich für die Bearbeitung von Verfahren gegen min-
+derjährige und heranwachsende Schwellen- und Intensivtäterinnen und Schwellen- und Intensivtäter (JuSIT)
+in besonderen Fällen zuständig.
+Für die Ermittlungen gelten grundsätzlich das Wohnortprinzip sowie der deliktsübergreifende und täterori-
+entierte Ansatz.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 12
+Soweit über die Bearbeitung von Jugendsachen hinausgehende Spezialkenntnisse erforderlich sind (z. B.
+bei Kapital- oder Staatsschutzdelikten), erfolgt die Sachbearbeitung in dem jeweils zuständigen FK unter per-
+soneller Beteiligung des FK 6.
+Vermisstensachen Minderjähriger, sog. Abgängiger, bei denen aufgrund der vorliegenden Erkenntnisse
+nicht von einer besonderen Gefährdungslage auszugehen ist (z. B. vielfach Abgängige), werden im FK 6 be-
+arbeitet. In Zweifelsfällen ist das FK 1 des ZKD zuständig.
+Die Bearbeitung von Verkehrsdelikten Minderjähriger erfolgt grundsätzlich im FK 7 oder im Verkehrsunfall-
+dienst (VUD) oder im Zentralen Verkehrsdienst (ZVD). Das FK 6 ist nur zuständig, wenn eine besondere kri-
+minelle Energie, die Gefahr der Entwicklung einer kriminellen Karriere oder ein Tatzusammenhang mit einem
+bereits dort bearbeiteten oder in der Bearbeitung befindlichen Delikt erkennbar ist.
+Darüber hinaus ist das FK 6 an den Standorten, an denen kein PK eingerichtet ist, für die Aufgaben des
+Aufgabenfeldes 4 (Nummer 3.4.4) zuständig (Bezugserlass zu b).
+3.3.9 Fachkommissariat 7
+Die Zuständigkeit umfasst insbesondere
+– Verkehrsunfälle mit Getöteten oder Schwerverletzten,
+– Verkehrsunfälle mit sonstigem Personenschaden,
+– schwerwiegende Verkehrsunfälle mit Sachschaden,
+– Verkehrsstraftaten und Verkehrsordnungswidrigkeiten,
+– Verstöße gegen das Pflichtversicherungsgesetz und
+– fingierte oder manipulierte Verkehrsunfälle mit betrügerischem Hintergrund, in Abstimmung mit dem
+FK 3.
+In PIen, in denen ein VUD oder ZVD eingerichtet ist, übernimmt dieser die Aufgaben des FK 7. Eine grund-
+sätzliche qualitative Differenzierung zwischen den Aufgaben des AF 5 und des FK 7 erfolgt nicht.
+3.4 Kriminal- und Ermittlungsdienst (KED)
+Dem KED obliegt die allgemeine Kriminalitätsbekämpfung im Zuständigkeitsbereich eines PK. Die Zustän-
+digkeiten ergeben sich im Wesentlichen aus den Nummern 3.4.1. bis 3.4.7.
+3.4.1 Aufgabenfeld 1
+Die Zuständigkeit des AF 1 umfasst insbesondere
+– Vermisstensachen Erwachsener und Minderjähriger,
+– Straftaten gemäß § 184 i StGB (Sexuelle Belästigung),
+– Körperverletzungsdelikte, soweit nicht die Zuständigkeit des FK 1 gegeben ist,
+– Arbeits- und Betriebsunfälle,
+– Straftaten gegen die persönliche Freiheit, soweit nicht die Zuständigkeit des FK 1 gegeben ist,
+– Widerstand gegen die Staatsgewalt,
+– Straftaten gegen die öffentliche Ordnung,
+– Cybercrime im weiteren Sinne, soweit das Grunddelikt in die Zuständigkeit des AF 1 fällt,
+– einfach gelagerte Fälle von Straftaten gegen das WaffG,
+– Wildereidelikte und Verstöße gegen andere jagdrechtliche Bestimmungen und
+– Sachbeschädigung durch Feuer.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 13
+Zusätzlich können dem AF 1 (im Rahmen der Inanspruchnahme der Öffnungsklausel unter Anlegung des
+in der Nummer 3.1 beschriebenen strengen Maßstabes) Aufgaben aus dem Katalog der Bearbeitungszustän-
+digkeiten des FK 1 übertragen werden. Die Zuweisungsentscheidung trifft die PD.
+An den Standorten, an denen keine PSt eingerichtet ist, ist das AF 1 (Nummer 3.4.1) darüber hinaus für
+die sich aus der Sachnähe ergebenden Aufgaben der PSt zuständig.
+3.4.2 Aufgabenfeld 2
+Die Zuständigkeit umfasst insbesondere
+– Raubdelikte (Zechanschlussraub und Handtaschenraub oder vergleichbare Fälle),
+– Diebstähle ohne erschwerende Umstände und unter erschwerenden Umständen, sofern diese nicht
+in die Zuständigkeit des FK 2 fallen,
+– Unterschlagungen,
+– Hehlerei, sofern das Grunddelikt in die Zuständigkeit des AF 2 fällt,
+– Cybercrime im weiteren Sinne, soweit das Grunddelikt in die Zuständigkeit des AF 2 fällt,
+– Sachbeschädigungen und
+– konsumorientierte Delikte nach dem BtMG, dem KCanG, dem MedCanG
+3)
+sowie Delikte nach dem
+NpSG und Kleinhandel sowie damit im Zusammenhang stehende Beschaffungskriminalität.
+Zusätzlich können dem AF 2 (im Rahmen der Inanspruchnahme der Öffnungsklausel unter Anlegung des
+in der Nummer 3.1 beschriebenen strengen Maßstabes) Aufgaben aus dem Katalog der Bearbeitungszustän-
+digkeiten des FK 2 übertragen werden. Die Zuweisungsentscheidung trifft die PD. An den Standorten, an
+denen keine PSt eingerichtet ist, ist das AF 2 darüber hinaus für die sich aus der Sachnähe ergebenden
+Aufgaben der PSt (Nummer 3.5) zuständig.
+3.4.3 Aufgabenfeld 3
+Die Zuständigkeit umfasst insbesondere
+– Betrugsdelikte (z. B. Waren- und Kreditbetrug, Erschleichen von Leistungen, Leistungs- und Einmiete-
+betrug),
+– Cybercrime im weiteren Sinne, soweit das Grunddelikt in die Zuständigkeit des AF 3 fällt,
+– Veruntreuungen, sofern sie nicht im Zusammenhang mit dem Wirtschaftsleben stehen,
+– Urkundenfälschung,
+– Hehlerei, sofern das Grunddelikt in die Zuständigkeit des AF 3 fällt,
+– Straftaten gegen die Umwelt (§§ 324, 324 a, 325, 325 a, 326 ohne Abs. 2 und § 327 StGB),
+– Straftaten gegen den Personenstand, die Ehe und die Familie (mit Ausnahme des § 173 StGB),
+– Delikte nach dem AufenthG , dem AsylG (sofern nicht gewerbs- oder bandenmäßige Begehung erkenn-
+bar ist) und
+– Delikte nach dem TierGesG.
+An den Standorten, an denen keine PSt eingerichtet ist, ist das AF 3 darüber hinaus für die sich aus der
+Sachnähe ergebenden Aufgaben der PSt zuständig.
+3.4.4 Aufgabenfeld 4
+Das AF 4 ist im Zuständigkeitsbereich des PK grundsätzlich für alle Jugendsachen zuständig. Jugendsa-
+chen i. S. dieses RdErl. sind alle polizeilichen Ermittlungsvorgänge in Straf- und Bußgeldverfahren gegen
+Kinder, Jugendliche und Heranwachsende oder Personen, bei denen nicht zweifelsfrei bewiesen ist, dass sie
+über 18 Jahre alt sind .
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 14
+Die Bearbeitungszuständigkeit von Verfahren gegen minderjährige und heranwachsende Schwellen- und
+Intensivtäterinnen und Schwellen- und Intensivtäter (JuSIT) ist im Einzelfall mit dem FK 6 abzustimmen.
+Für die Ermittlungen gelten grundsätzlich das Wohnortprinzip sowie der deliktsübergreifende und täterori-
+entierte Ansatz. Soweit über die Bearbeitung von Jugendsachen hinausgehende Spezialkenntnisse erforder-
+lich sind, erfolgt die Sachbearbeitung in dem jeweils zuständigen AF oder FK des ZKD unter personeller Be-
+teiligung des AF 4.
+Vermisstensachen Minderjähriger, sog. Abgängiger, bei denen aufgrund der vorliegenden Erkenntnisse
+nicht von einer besonderen Gefährdungslage auszugehen ist (z. B. vielfach Abgängige), werden im AF 4 be-
+arbeitet. In Zweifelsfällen ist das AF 1 bzw. das FK 1 des ZKD zuständig.
+Die Bearbeitung von Verkehrsdelikten Minderjähriger erfolgt grundsätzlich im AF 5. Das AF 4 ist zuständig,
+wenn eine besondere kriminelle Energie, die Gefahr der Entwicklung einer kriminellen Karriere oder ein Tat-
+zusammenhang mit einem bereits dort bearbeiteten oder in der Bearbeitung befindlichen Delikt erkennbar ist.
+Zudem obliegt ihm die Bearbeitung von Cybercrime im weiteren Sinne, soweit das Grunddelikt in die Zu-
+ständigkeit des AF 4 fällt (Bezugserlass zu b) .
+3.4.5 Aufgabenfeld 5
+Die Zuständigkeit umfasst insbesondere
+– Verkehrsunfälle mit Getöteten oder Schwerverletzten,
+– Verkehrsunfälle mit sonstigem Personenschaden,
+– schwerwiegende Verkehrsunfälle mit Sachschaden,
+– Verkehrsstraftaten und Verkehrsordnungswidrigkeiten,
+– Verstöße gegen das Pflichtversicherungsgesetz und
+– fingierte oder manipulierte Verkehrsunfälle mit betrügerischem Hintergrund
+7)
+, in Abstimmung mit dem
+FK 3.
+Eine grundsätzliche qualitative Differenzierung zwischen den Aufgaben des AF 5 und dem FK 7 erfolgt
+nicht.
+An den Standorten, an denen keine PSt eingerichtet ist, ist das AF 5 darüber hinaus für die sich aus der
+Sachnähe ergebenden Aufgaben der PSt zuständig.
+3.4.6 Kriminal- und Ermittlungsdienst des Polizeikommissariats Bundesautobahn
+Der KED eines Polizeikommissariats Bundesautobahn (PK BAB) ist organisatorisch nicht untergliedert.
+Die Zuständigkeit umfasst insbesondere die Bearbeitung BAB-typischer Delikte aus dem Aufgabenspekt-
+rum des KED (Nummer 3.4).
+3.4.7 Kriminaltechnik
+Der KED als sachbearbeitende Organisationseinheit kann die allgemeine Tatortaufnahme durchführen, so-
+fern diese nicht durch den ESD gewährleistet werden kann (vgl. Nummer 2.2). Im Bereich der spezialisierten
+Tatortaufnahme kann nach den Erfordernissen des Einzelfalles eine Unterstützung durch die AF des KED,
+insbesondere die Fachkräfte für die kriminaltechnische Tatortaufnahme, erfolgen (vgl. Nummer 2.3).
+Kriminaltechnische Laboraufgaben und die Aufgaben der IT-Forensik werden ausschließlich im FK Fo-
+rensik wahrgenommen. Bei Vorliegen einer abgeschlossenen Ausbildung Kriminaltechnik/Qualitätssicherung
+kann die Qualitätskontrolle auch auf Ebene der Polizeikommissariate durchgeführt werden. Bei der Auswahl
+ist ein strenger Maßstab anzusetzen.
+Die besondere kriminaltechnische Tatortaufnahme wird durch eine enge Kooperation mit dem FK Forensik
+gewährleistet. In Zweifelsfällen obliegt dem FK Forensik die Sachleitung bei der Tatortaufnahme.
+
+7)
+Bearbeitungszuständigkeit nur in Abstimmung mit dem AF 3.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 15
+3.5 Polizeistation (PSt)
+Die Zuständigkeit umfasst insbesondere
+– Körperverletzungsdelikte, einschließlich der gefährlichen Körperverletzung, insbesondere auf Straßen,
+Wegen und Plätzen,
+– Nötigungen,
+– Bedrohungen,
+– Diebstähle unter erschwerenden Umständen von Fahrrädern, Mofas und Mopeds und vergleichbaren
+Gegenständen,
+– Diebstähle ohne erschwerende Umstände,
+– Erschleichen von Leistungen,
+– einfach gelagerte Betrugsfälle,
+– einfach gelagerte Unterschlagungen,
+– einfach gelagerte Urkundenfälschungen,
+– Verstöße gegen das Pflichtversicherungsgesetz,
+– Hausfriedensbruch,
+– Hehlerei, sofern das Grunddelikt in die Zuständigkeit der PSt fällt,
+– Straftaten gegen die Umwelt (§§ 324, 324 a, 325 StGB),
+– Unterhaltspflichtverletzungen,
+– Beleidigungen, üble Nachrede, Verleumdung,
+– Sachbeschädigungen und
+– einfach gelagerte Verkehrsunfälle (Aufnahme und Endbearbeitung).
+Im Einzelfall kann die Bearbeitung polizeilicher Ermittlungsvorgänge in Straf- und Bußgeldverfahren gegen
+Kinder, Jugendliche und Heranwachsende oder Personen, bei denen nicht zweifelsfrei bewiesen ist, dass sie
+über 18 Jahre alt sind, auch auf der Ebene der PSt erfolgen, sofern spezialfortgebildete Jugendsachbearbei-
+terinnen oder Jugendsachbearbeiter zur Verfügung stehen. Verfahren gegen minderjährige und heranwach-
+sende Intensivtäterinnen und Intensivtäter sind hiervon grundsätzlich ausgeschlossen.
+Zusätzlich können der PSt nach Maßgabe der Öffnungsklausel (Nummer 3.1 Abs. 3) Bearbeitungszustän-
+digkeiten der Aufgabenfelder 1 bis 5 des KED übertragen werden. Diese Zuweisungsentscheidung trifft die PI
+in Abstimmung mit der PD (Bezugserlass zu b).
+3.6 Wasserschutzpolizeistation (WSPSt)
+Die WSPSt nehmen in ihrem örtlichen Zuständigkeitsbereich die Aufgaben wahr, die schifffahrtspezifisches
+Wissen oder nautischen Sachverstand erfordern. Die Zuständigkeit umfasst insbesondere
+– Verstöße gegen schifffahrtsrechtliche und schifffahrtsverkehrsrechtliche Vorschriften im See- und Bin-
+nenbereich,
+– Verstöße gegen strompolizeiliche Vorschriften,
+– Verstöße gegen Vorschriften zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren (ISPS-
+Code),
+– Verstöße gegen Umweltvorschriften im Zusammenhang mit der Schifffahrt und der jeweiligen Um-
+schlagstätigkeit,
+– Verstöße gegen schifffahrtsrechtliche Gefahrgutvorschriften,
+– Verstöße gegen haf enrechtliche Vorschriften und Befahrensregelungen,
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 16
+– die Aufnahme und Bearbeitung von Sportboot- und Schiffsunfällen einschließlich Schiffsbetriebsunfäl-
+len,
+– wasserschutzpolizeispezifische Präventionsarbeit,
+– Bearbeitung von Ersuchen mit Schifffahrtsrelevanz und
+– Aufnahme und Bearbeitung von Straftaten und Ordnungswidrigkeiten im örtlichen Zuständigkeitsbereich
+im Zusammenhang mit der Schifffahrt.
+Bei Maßnahmen der Anzeigen- /Tatortaufnahme (Nummer 2) wird die WSPSt im erforderlichen Umfang
+durch die örtlich zuständige PI oder das örtlich zuständige PK unterstützt. Bei der Aufnahme und Bearbeitung
+von Schiffs- und Schiffsbetriebsunfällen mit Getöteten oder Bränden übernimmt der ZKD der örtlich zuständi-
+gen PI die Todes- oder Brandursachenermittlung. Der ZKD führt die Ermittlungen mit Unterstützung der Was-
+serschutzpolizei durch.
+Soweit bei der Bearbeitung anderer Fälle außerhalb des wasserschutzpolizeilichen Aufgabenbereichs was-
+serschutzpolizeispezifische Kenntnisse erforderlich sind, kann der ZKD, der KED oder die PSt der örtlich zu-
+ständigen PI die nächstgelegene WSPSt hinzuziehen.
+4. Sonstige Regelungen
+4.1 Dienst- und Fachaufsicht
+Die Leitungen der ZKD, die Leiterinnen und Leiter Ermittlungen, die Leitungen der FK und gleichwertiger
+Dienstbereiche (wie z. B. Ermittlungsgruppen und Sonderkommissionen) sowie die Leitungen der KED üben
+die Dienst- und Fachaufsicht über den ihnen nachgeordneten Bereich aus.
+Die dienst- und fachaufsichtliche Anbindung der SEG KKS und der Fahndung erfolgt unmittelbar bei der
+Leitung des ZKD, die der Kriminaltechnik des Polizeikommissariats unmittelbar bei der Leitung des KED.
+Die Dienst- und Fachaufsicht über die und in den PSt und den WSPSt wird von der PD festgelegt.
+4.2 Befugnisse der Leitung des ZKD
+Die Leiterin oder der Leiter des ZKD ist verantwortlich für die Kriminalitätsbekämpfung innerhalb einer PI.
+Sie oder er kommuniziert direkt mit den Verantwortlichen für die Kriminalitätsbekämpfung in den PK und in
+den PSt und entscheidet über die Zuweisung der Ermittlungsführung, den notwendigen Kräfteansatz, die Ein-
+richtung von Sonderkommissionen und Ermittlungsgruppen und die sonstigen Rahmenbedingungen.
+4.3 Besondere Aufbauorganisationen (BAO)
+Sonderkommissionen werden grundsätzlich auf der Ebene der PI gebildet. Ermittlungsgruppen können
+auch in PK eingerichtet werden.
+Mordkommissionen werden ausschließlich auf Ebene der PI eingerichtet, ihre fachliche Leitung obliegt
+grundsätzlich dem FK 1.
+4.4 Präventionsteams, Beauftragte für Jugendsachen und für Kriminalprävention, Verkehrssicherheitsbera-
+terinnen und Verkehrssicherheitsberater
+Die FK des ZKD, die AF des KED, die Kontaktbereichsbeamtinnen und - beamten (Bezugserlass zu c)
+sowie die PSt pflegen einen engen Austausch mit dem Präventionsteam bei der PI und mit der Ansprechpart-
+nerin oder dem Ansprechpartner für Präventionsaufgaben der PK. Sie informieren insbesondere über aktuelle
+Hinweise zu Phänomenveränderungen, spezifische Modi Operandi und viktimologische Erkenntnisse.
+Die Beauftragten für Jugendsachen und die Beauftragten für Kriminalprävention sowie die Verkehrssicher-
+heitsberaterinnen und Verkehrssicherheitsberater sind befugt, in Ermittlungsvorgänge Einsicht zu nehmen, die
+ihren Funktionsbereich berühren, sofern sie die Verfahrenserkenntnisse für die Wahrnehmung ihrer Aufgaben
+benötigen.
+4.5 Dislozierung
+Mit Ausnahme der für den Polizeilichen Staatsschutz getroffenen Regelung ist die dislozierte Unterbringung
+von Organisationseinheiten oder Kräftekontingenten zu vermeiden.
+
+Nds. MBl. 2024 Nr. 400 vom 11. September 2024 Seite 17
+5. Besonderheiten bei der Polizeidirektion Hannover
+Die Bearbeitungszuständigkeit der PD Hannover orientiert sich im Grundsatz an den vorgenannten Rege-
+lungen. Die teilweise abweichende Organisationsstruktur der PD Hannover erfordert entsprechende Modifi-
+zierungen in den Bearbeitungszuständigkeiten; sie sind im Zuweisungsraster der Polizeidirektion Hannover
+dargestellt, welches im Intranet der Polizei, PSN Null1|5, abrufbar und durch die PD Hannover bei Erfordernis
+zu aktualisieren ist. Die Vorlage über geplante Änderungen sind zeitgerecht vor Veröffentlichung mit dem LPP
+abzustimmen. Die übrigen Regelungen dieses RdErl. finden unmittelbare bzw. analoge Anwendung.
+6. Schlussbestimmungen
+Dieser RdErl. tritt a m 11.09.2024 in Kraft.
+
+An die
+Polizeibehörden
+Polizeiakademie Niedersachsen

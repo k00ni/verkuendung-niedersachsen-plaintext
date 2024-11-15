@@ -1,0 +1,2 @@
+default:
+	php bin/run

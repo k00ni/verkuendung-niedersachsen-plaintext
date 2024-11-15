@@ -1,0 +1,186 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 5. Juni 2024 Nummer 251
+
+Staatliches Gewerbeaufsichtsamt Hildesheim
+
+Bekanntmachung über die bundeseinheitliche Praxis
+bei der Überwachung der Emissionen
+aus Kleinfeuerungsanlagen
+Bek. des GAA Hildesheim vom 05 .06.2024 – 40501/44 –
+
+Aufgrund von Nummer 8.1.2.1 der Anlage zu § 1 ZustVO -Umwelt-Arbeitsschutz wird auf Grundlage der
+Bekanntmachung des Umweltbundesamtes über Empfehlungen zur Bekanntmachung über die bundesein-
+heitliche Praxis bei der Überwachung der Emissionen aus Kleinfeuerungsanlagen vom 19.03.2024 (BAnz AT
+10.05.2024 B8) die Eignung folgender Messgeräte zur Überwachung der Emissionen aus Kleinfeuerungsan-
+lagen bekannt gemacht.
+Die Bekanntmachung gilt in Verbindung mit künftigen im Bundesanzeiger veröffentlichten Mitteilungen zu
+eignungsgeprüften und bekanntgegebenen Messgeräten i n der letzten gültigen Fassung.
+1. Messgeräte zur Abgasverlustbestimmung und zur Überwachung der Emis sionsgrenzwerte an
+Gas- und Ölfeuerungsanlagen sowie zur Überwachung des CO -Grenzwertes und zur Ermittlung der
+Abgaskomponente O
+2 und der Abgastemperatur von Feuerungsanlagen für feste Brennstoffe entspre-
+chend 1. BImSchV sowie an nicht genehmigungsbedürfti gen mittelgroßen Feuerungsanlagen mit einer
+Feuerungswärmeleistung von weniger als 10 Megawatt entsprechend 44. BImSchV
+1.1 Kombinationsmessgerät Typ Wöhler A450
+Hersteller:
+Wöhler Technik GmbH, Bad Wünnenberg.
+Messkomponenten:
+Funktionsmodul zur O
+2-Bestimmung,
+Funktionsmodul zur CO-Bestimmung,
+Funktionsmodul zur NO-Bestimmung,
+Funktionsmodul zur Bestimmung der Verbrennungslufttemperatur,
+Funktionsmodul zur Bestimmung der Abgastemperatur,
+Funktionsmodul zur Bestimmung des Drucks.
+Einsatzbereich:
+Messgerät zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an Gas- und Ölfeu-
+erungsanlagen entsprechend 1. BImSchV sowie an nicht genehmigungsbedürftigen mittelgroßen Feuerungs-
+anlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt entsprechend der 44. BImSchV.
+Messgerät zur Überwachung des CO-Grenzwertes und zur Ermittlung der Abgaskomponente O
+2 und der
+Abgastemperatur an Feuerungsanlagen für feste Brennstoffe.
+
+Nds. MBl. 2024 Nr. 251 vom 5. Juni 2024 Seite 2
+Messbereich in der Eignungsprüfung:
+O
+2 0 bis 21,0 Vol.-%
+CO 0 bis 25 0 00 mg/m
+3
+
+NO 0 bis 804 mg/m
+3
+
+Abgastemperatur T
+A 0 bis 400 °C
+Verbrennungslufttemperatur T
+L 0 bis 100 °C
+Druck - 50 bis 200 Pa
+Softwareversionen:
+Firmware Wöhler A450 Version 2.01
+Mess-Modul Version 2.00
+Einschränkungen:
+Keine.
+Hinweise:
+1. Ein Sensorwechsel ist nur durch den Hersteller oder durch vom Hersteller autorisiertes Fachpersonal
+zulässig.
+2. Die Funktionen „WLAN“ und „Bluetooth“ dürfen für Messungen im Rahmen der 1. BImSchV und der
+44. BImSchV nicht verwendet werden.
+3. Das Kombinationsmessgerät ist nicht für den Außeneinsatz geeignet.
+4. Ergänzungsprüfung zu der Bekanntmachung des Umweltbundesamtes vom 28.06.2022 (BAnz AT
+28.07.2022 B3, Kapitel I Nummer 1.2 ) hinsichtlich der Eignung zur Überwachung des CO-Grenzwertes
+und zur Ermittlung der Abgaskomponente O
+2 und der Abgastemperatur an Feuerungsanlagen für feste
+Brennstoffe entsprechend 1. BImSchV.
+Prüfinstitut:
+TÜV SÜD Industrie Service GmbH
+Prüfkennzeichen:
+TÜV By RgG 316
+Prüfbericht:
+Bericht Nr. M- BI 1206-04/23 vom 22.09.2023
+
+2. Messgeräte zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an
+Gas- und Ölfeuerungsanlagen sowie zur Überwachung des CO-Grenzwertes und zur Ermittlung der
+Abgaskomponente O
+2 und der Abgastemperatur von Feuerungsanlagen für feste Brennstoffe entspre-
+chend 1. BImSchV sowie an nicht genehmigungsbedürftigen mittelgroßen Feuerungsanlagen mit einer
+Feuerungswärmeleistung von weniger als 10 Megawatt entsprechend 44. BImSchV und zur Ermittlung
+der Feuchte von stückigem Holz
+2.1 Kombinationsmessgerät Typ Wöhler A550
+Hersteller:
+Wöhler Technik GmbH, Bad Wünnenberg.
+Messkomponenten:
+Funktionsmodul zur O
+2-Bestimmung,
+Funktionsmodul zur CO-Bestimmung,
+Funktionsmodul zur NO-Bestimmung,
+Funktionsmodul zur Bestimmung der Verbrennungslufttemperatur,
+Funktionsmodul zur Bestimmung der Abgastemperatur,
+
+Nds. MBl. 2024 Nr. 251 vom 5. Juni 2024 Seite 3
+Funktionsmodul zur Bestimmung des Drucks,
+Funktionsmodul zur Ermittlung der Feuchte von stückigem Holz.
+Einsatzbereich:
+Messgerät zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an Gas- und Ölfeu-
+erungsanlagen entsprechend 1. BImSchV sowie an nicht genehmigungsbedürftigen mittelgroßen Feuerungs-
+anlagen mit einer Feuerungswärmeleistung von weniger als 10 Megawatt, entsprechend 44. BImSchV. Mess-
+gerät zur Überwachung des CO-Grenzwertes und zur Ermittlung der Abgaskomponente O
+2 und der Abgas-
+temperatur an Feuerungsanlagen für feste Brennstoffe.
+Messgerät zur Ermittlung der Feuchte von stückigem Holz.
+Messbereich in der Eignungsprüfung:
+O
+2 0 bis 21,0 Vol. -%
+CO 0 bis 25 00 0 mg/m
+3
+NO 0 bis 804 mg/m³
+Abgastemperatur T
+A 0 bis 400 °C
+Verbrennungslufttemperatur T
+L 0 bis 100 °C
+Druck -5 0 bis 200 Pa
+Feuchte von stückigem Holz 10 bis 40 %
+Softwareversion:
+Firmware Wöhler A550 Version 2.01
+Mess-Modul Version 2.00
+Einschränkungen:
+Keine.
+Hinweise:
+1. Ein Sensorwechsel ist nur durch den Hersteller oder durch vom Hersteller autorisiertes Fachpersonal
+zulässig.
+2. Die Funktionen „Bluetooth“ darf für Messungen im Rahmen der 1. BImSchV und der 44. BImSchV nicht
+verwendet werden.
+3. Das Kombinationsmessgerät ist nicht für den Außeneinsatz geeignet.
+4. Ergänzungsprüfung zu der Bekanntmachung des Umweltbundesamtes vom 28. 06.2022 (BAnz AT
+28.07.2022 B3, Kapitel I Nummer 1.3) hinsichtlich der Eignung zur Überwachung des CO-Grenzwertes
+und zur Ermittlung der Abgaskomponente O
+2 und der Abgastemperatur an Feuerungsanlagen für feste
+Brennstoffe entsprechend 1. BImSchV.
+Prüfinstitut:
+TÜV SÜD Industrie Service GmbH.
+Prüfkennzeichen:
+TÜV By RgG 297.
+Prüfbericht:
+Bericht Nr. M- BI 1156-05 /23 vom 22. 09.2023.
+
+3. Messgeräte zur Ermittlung von partikelförmigen Emissionen und der gasförmigen Abgaskom-
+ponente O
+2 und CO an Kleinfeuerungsanlagen
+3.1 Kombinationsmessgerät Typ Wöhler SM550
+Hersteller:
+Wöhler Technik GmbH, Bad Wünnenberg.
+
+Nds. MBl. 2024 Nr. 251 vom 5. Juni 2024 Seite 4
+Eignung:
+Messgerät zur Überwachung der Staub- und CO-Grenzwerte der 1. BImSchV gemäß § 5 Absatz 1 Stufe 1 und
+2 sowie § 25 Absatz 2 an Feuerungsanlagen für feste Brennstoffe nach § 3 Absatz 1 Nummer 1 bis 8 sowie
+zur Ermittlung der Abgaskomponente O
+2.
+Messgerät zur Überwachung der Staub- und CO-Grenzwerte der 1. BImSchV gemäß § 4 Abschnitt 5 an
+Grundöfen sowie § 26 Absatz 1 an Einzelraumfeuerungsanlagen für feste Brennstoffe nach § 3 Absatz 1
+Nummer 1 bis 5 a sowie zur Ermittlung der Abgaskomponente O
+2.
+Messbereiche der Eignungsprüfung:
+partikelförmige Emissionen 10 bis 300 mg/m³
+O
+2 0 bis 21,0 Vol. -%
+CO 0 bis 25 000 mg/m³
+Softwareversion:
+Firmware Staubmessgerät Version 1.01
+Einschränkungen:
+Keine.
+Hinweise:
+1. Das Staubmessgerät ist nicht für den Außeneinsatz geeignet.
+2. Für den Betrieb des Staubmessgerätes Typ Wöhler SM550 sowie für die Überwachung des CO-Grenz-
+wertes und die Ermittlung der Abgaskomponente O
+2 müssen das Abgasanalysemessgerät Typ Wöhler
+A450 ab Firmwarestand 2.01 und Messmodulversion 2.00 beziehungsweise das Abgasanalysemess-
+gerät Typ Wöhler A550 ab Firmwarestand 2.01 und Messmodulversion 2.00 verwendet werden.
+Prüfinstitut:
+TÜV SÜD Industrie Service GmbH.
+Prüfkennzeichen:
+TÜV By RgG 326.
+Prüfbericht:
+Bericht Nr. M- BI 1242-00/23_V0 vom 18.09.2023.

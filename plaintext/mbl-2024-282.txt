@@ -1,0 +1,1064 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 25. Juni 2024 Nummer 282
+
+Ministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+
+Verwaltungsvorschriften zum ROG und zum NROG
+für die Durchführung von Zielabweichungsverfahren (VV-ROG/NROG-ZAV)
+RdErl. d. ML v. 25.06.2024 – 302-20002- 611/2024- 5047/2024 –
+– VORIS 23100 –
+
+Bezug: RdErl. v. 05.04.2017 (Nds. MBl. S. 541), geändert durch
+RdErl. v. 02.05.2018 (Nds. MBl. S. 454)
+– VORIS 23100 –
+
+Inhaltsübersicht
+1. Zweck, Anlass und Grenzen des Zielabweichungsverfahrens
+1.1 Zweck des Zielabweichungsverfahrens
+1.2 Anlass für Zielabweichungsverfahren und notwendige Prüfungen im Vorfeld
+1.2.1 Raumbedeutsamkeit des Vorhabens
+1.2.2 Bestehen einer Bindung des Vorhabens an Ziele der Raumordnung
+1.2.3 Zielqualität der Festlegung, mit der das Vorhaben kollidieren könnte
+1.2.4 Verstoß des Vorhabens gegen ein Ziel der Raumordnung
+1.2.5 Vermeidbarkeit eines Zielabweichungsverfahrens durch Modifizierung der Planung oder des Vorhabens
+1.3 Grenzen des Zielabweichungsverfahrens (Erforderlichkeit einer Planänderung)
+1.4 Antragserfordernis, Antragsberechtigung (§ 6 Abs. 2 Sätze 2 und 3 ROG), Inhalt und Umfang des Antrags
+2. Voraussetzungen für die Zielabweichung
+2.1 Raumordnerische Vertretbarkeit einer Abweichung vom Ziel der Raumordnung
+2.1.1 Vorliegen einer (unbeabsichtigten) Planungslücke
+2.1.2 Zulässigkeit einer Raumordnungsplanung, die das Vorhaben ermöglicht hätte (Planbarkeit)
+2.1.3 Raumverträglichkeit der mit der Zielabweichung verfolgten Planung oder Maßnahme
+2.1.4 Raumordnerische Vertretbarkeit während einer laufenden Änderung oder Aufhebung des betroffenen Zieles
+2.2 Nichtberührtsein der Grundzüge der Planung
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 2
+2.2.1 Ermittlung der Grundzüge der Planung anhand der verfolgten Sicherungs-, Ordnungs- oder Entwicklungsinteressen in
+dem vom Vorhaben betroffenen räumlichen Bereich
+2.2.2 Kein Wiederaufbrechen bereits gelöster Konflikte; kein Entstehen neuer Konflikte
+2.2.3 Keine Präzedenzwirkung
+2.2.4 Keine Durchbrechung eines gesamträumlichen Konzepts
+2.2.4.1 Fallkonstellation Vorrang und Ausschluss
+2.2.4.2 Fallkonstellation Vorranggebiete
+2.2.4.3 Fallkonstellation Zentrale Orte
+2.2.5 Nichtberührtsein der Grundzüge der Planung bei Vorgriff auf eine laufende Änderung oder Aufhebung des betroffenen
+Zieles
+2.2.6 Berührtsein der Grundzüge der Planung bei voraussichtlich erheblichen Umweltauswirkungen
+2.3 Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen
+2.3.1 In ihren Belangen berührte öffentliche Stellen
+2.3.2 Einholung des Einvernehmens, Anschreiben
+2.3.3 Umsetzung in der Entscheidung der Landesplanungsbehörde
+2.4 Benehmen mit den betroffenen Gemeinden
+2.5 Soll-Entscheidung; Ermessenserwägungen
+2.6 Befristet geltende Voraussetzungen einer Zielabweichung für die bauleitplanerische Ausweisung von Windenergiegebie-
+ten nach § 245 e Abs. 5 BauGB
+3. Zuständige Stellen
+3.1 Zuständigkeitsverteilung zwischen den Landesplanungsbehörden; Zustimmung zum Verfahrensergebnis
+3.2 Sonderfragen der Zuständigkeitsverteilung: Zielabweichungsverfahren im Verhältnis zu Raumverträglichkeitsprüfungen
+und Planfeststellungsverfahren
+3.2.1 Zeitliches Zusammentreffen von Zielabweichungsverfahren und Raumverträglichkeitsprüfung
+3.2.2 Zielabweichungsverfahren im Vorfeld von Zulassungsverfahren
+3.2.3 Zeitliches Zusammentreffen von Zielabweichungsverfahren und Planfeststellungsverfahren oder immissionsschutzrecht-
+lichen Zulassungsverfahren
+4. Weitere Verfahrens- und Formerfordernisse, Kosten
+4.1 Weitere Verfahrens- und Formerfordernisse
+4.2 Kosten
+5. Sonderfall: feststellender Bescheid über Nichtvorliegen eines Zielverstoßes
+6. Schlussbestimmungen
+
+Zur Ausführung von § 6 Abs. 2 ROG vom 22.12.2008 (BGBl. I S. 2986), zuletzt geändert durch Artikel 1
+des Gesetzes vom 22.03.2023 (BGBl. 2023 I Nr. 88), i. V. m. § 8 NROG i. d. F. vom 06.12.2017 (Nds. GVBl.
+S. 456), zuletzt geändert durch Artikel 3 des Gesetzes vom 17.0 4.2024 (Nds. GVBl. 2024 Nr. 31) werden
+folgende VV erlassen:
+1. Z
+
+1.1 Zweck des Zielabweichungsverfahrens Zielabweichungsverfahren dienen dazu, in besonders gelagerten Einzelfällen zu prüfen, ob ein raumbe-
+deutsames Vorhaben ausnahmsweise von der gemäß § 4 ROG geltenden Beachtung eines Zieles der Raum-
+ordnung befreit werden kann. An dem bestehenden raumordnerischen Ziel wird aber generell festgehalten.
+Ein raumbedeutsames Vorhaben kann sowohl eine raumbedeutsame Planung sein (z. B. eine Bauleitplanung,
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 3
+durch die ein raumbedeutsames Bauvorhaben ermöglicht wird; z . B. ein Regionales Raumordnungsprogramm
+[RROP], das von einem Ziel des Landes-Raumordnungsprogramms [LROP] abweichen soll), als auch ein
+raumbedeutsames Bauvorhaben.
+1.2 A
+Zielabweichungsverfahren und notwendige Prüfungen im Vorfeld Um festzustellen, ob überhaupt Anlass für ein Zielabweichungsverfahren besteht, ist im Vorfeld Folgendes
+zu prüfen:
+1.2.1 R
+Raumbedeutsame Vorhaben bestimmen sich dadurch, dass sie „raumbeanspruchend“ oder „raum-
+beeinflussend“ sind (vgl. § 3 Abs. 1 Nr. 6 ROG). Ob ein Vorhaben raumbedeutsam ist, ist anhand
+der Gegebenheiten des jeweiligen Einzelfalles zu entscheiden. Für nicht raumbedeutsame Vorhaben
+ist kein Zielabweichungsverfahren nötig.
+1.2.2 B
+Für raumbedeutsame Vorhaben kann ein Anlass für ein Zielabweichungsverfahren nur entstehen,
+wenn das Vorhaben den Bindungswirkungen nach § 4 ROG unterliegt. Ist dies nicht der Fall, besteht
+von vornherein keine Zielbeachtungspflicht, sodass es keines separaten Zielabweichungsverfahrens
+bedarf.
+Eine Zielbeachtungspflicht betrifft in erster Linie öffentliche Planungen und Maßnahmen und die Ent-
+scheidungen über deren Zulassung.
+Für raumbedeutsame Vorhaben von Privatpersonen oder privatwirtschaftlichen Unternehmen haben
+Ziele der Raumordnung nur in den in § 4 ROG genannten Fällen Bindungswirkungen. Dies ist der
+Fall bei raumbedeutsamen Vorhaben eines Unternehmens, wenn dieses damit öffentliche Aufgaben
+wahrnimmt (z. B. Energieversorgung), wenn an dem Unternehmen mehrheitlich öffentliche Stellen
+beteiligt sind oder die Finanzierung des Vorhabens überwiegend mit öffentlichen Mitteln erfolgt. Auch
+wenn raumbedeutsame Vorhaben Privater einer Planfeststellungspflicht unterliegen, sind in diesem
+Verfahren die Ziele der Raumordnung zu beachten. Bei anderen, nicht mit einer Planfeststellung
+vergleichbaren Zulassungsverfahren besteht für Privatvorhaben eine Bindung an raumordnerische
+Ziele nur, wenn und soweit das jeweilige Fachrecht dies ausdrücklich regelt (§ 4 Abs. 2 ROG) und
+das Ziel der Raumordnung zu den Genehmigungsvoraussetzungen zählt. Das ist z. B. der Fall, wenn
+bauliche Anlagen im Außenbereich realisiert werden sollen, weil § 35 Abs. 3 Sätze 2 und 3 BauGB
+Regelungen enthält, nach denen auch Ziele der Raumordnung öffentliche Belange sind, die der Zu-
+lassung raumbedeutsamer Außenbereichsvorhaben entgegenstehen können. Fehlt eine solche
+„Raumordnungsklausel“ im Fachrecht (z. B. in den §§ 34 oder 30 BauGB), besteht keine Bindungs-
+wirkung von Zielen der Raumordnung im Genehmigungsverfahren; ein Zielabweichungsverfahren
+ist somit weder erforderlich noch zulässig.
+Eine Zielbindung besteht ferner dann nicht, wenn in Fällen des § 5 ROG der Bindungswirkung eines
+Zieles ordnungsgemäß widersprochen wurde oder fachgesetzliche Sonderregelungen dies unter be-
+stimmten Voraussetzungen vorsehen (z. B. § 5 Abs. 2 oder § 18 Abs. 3 b NABEG oder § 43 Abs. 3
+EnWG).
+1.2.3 Z
+Ob die raumordnerische Festlegung Zielqualität i. S. des § 3 Abs. 1 Nr. 2 ROG entfaltet, ergibt sich
+aus ihrer Formulierung und der Begründung des Raumordnungsplans ( Bestimmtheit, Schlussabge-
+wogenheit). Außerdem sind Ziele der Raumordnung in Raumordnungsplänen besonders gekenn-
+zeichnet (textliche Ziele durch Fettdruck , zeichnerische Ziele durch Kennzeichnung als Ziel der
+Raumordnung in der Legende der Plankarte).
+Auf Grundsätze der Raumordnung (einschließlich der Vorbehaltsgebiete), die nach Maßgabe des
+§ 4 ROG einer weniger strikten Bindungswirkung als Ziele unterliegen, sind die Bestimmungen über
+Zielabweichungsverfahren nicht – auch nicht entsprechend – anwendbar.
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 4
+1.2.4 Verstoß des Vorhabens gegen ein Ziel der Raumordnung
+Ein Zielabweichungsverfahren kommt nur in Betracht, wenn eine raumbedeutsame Planung
+(z. B. Flächennutzungsplan, Bebauungsplan) oder Maßnahme (z. B. Baugenehmigung für ein kon-
+kretes Bauvorhaben im Außenbereich) im konkreten Anwendungsfall tatsächlich gegen die als Ziel
+der Raumordnung gesicherten Funktionen oder Nutzungen verstoßen würde.
+Zu prüfen ist regelmäßig, ob und inwieweit das Ziel zulässige Konkretisierungsspielräume für nach-
+folgende Planungs- und Zulassungsverfahren und deren zielkonforme Umsetzung belässt. Dies
+kann beispielsweise bei zeichnerisch festgelegten Zielen aufgrund der kleinen Maßstabsebene der
+Landesplanung (1 : 500 000) gegeben sein, wenn ein Vorhaben knapp mit einer raumordnerischen
+Vorranggebietsfestlegung zugunsten einer anderen Nutzung zu kollidieren scheint, auf der nachfol-
+genden Regionalplanungsebene mit größerem Maßstab aber keine Kollision mehr erkennbar wird.
+Der erste Anschein eines Verstoßes gegen ein Ziel des LROP wird durch die nachfolgende Konkre-
+tisierung ausgeräumt. Entsprechendes kann gelten im Verhältnis der Maßstabsebene der Regional-
+planung zur Bauleitplanung.
+Ergibt sich im Zuge der maßstabsabhängig genaueren Prüfung im Zulassungsverfahren, dass in
+bestimmten kleinräumigen, im Maßstab des Raumordnungsprogramms nicht sichtbaren Bereichen
+innerhalb eines Vorranggebietes die angenommenen Voraussetzungen der vorrangigen Funktion
+oder Nutzung nicht vorliegen ( z. B. dass in einem Vorranggebiet Rohstoffgewinnung auf der von dem
+Vorhaben beanspruchten Teilfläche der Rohstoff nicht in abbaufähigem Maße, nicht in der für den
+Abbau erforderlichen Qualität oder gar nicht vorkommt und der Vorhabenträger dies nachweist, etwa
+durch eine Bestätigung der für die Beurteilung von Rohstoffvorkommen zuständigen Fachbehörde) ,
+liegt insoweit kein Zielverstoß vor und ein Zielabweichungsverfahren ist nicht erforderlich.
+Beispielsweise in den nachfolgenden Fällen steht eine Vorrangnutzung oder - funktion dem Vorhaben
+aufgrund dessen konkreter Ausgestaltung nicht entgegen:
+– Bei einem Windpark in einem Vorranggebiet Freiraumfunktionen, das ausschließlich die Funk-
+tionen des Raums als Frischluftschneise oder Kaltluftentstehungsgebiet schützen soll, wäre
+die klimatische Ausgleichsfunktion in der Regel nicht erheblich beeinträchtigt und eine Wind-
+energienutzung stünde nicht im Konflikt mit dem Vorrangzweck.
+– Sofern ein flächiges Vorranggebiet Biotopverbund allein auf die Entwicklung von Magerrasen
+als Teil vernetzter Lebensräume für Schmetterlinge abzielt, wäre damit eine Windenergienut-
+zung vereinbar, soweit durch Maststandorte und Zuwegungen kein erheblicher Eingriff in be-
+stehende Magerrasenstandorte verbunden ist. Dies kann auch bei einem Vorranggebiet Natur
+und Landschaft mit einem vergleichbaren Schutzzweck möglich sein, solange dies nicht zu-
+gleich ausdrücklich auch auf den Schutz des Landschaftsbildes abzielt.
+– Ein raumbedeutsames Vorhaben verstößt nicht gegen ein Vorranggebiet Torferhaltung, wenn
+das betroffene Torfvolumen so gering ist, dass die Torfzehrung innerhalb des Gebietes nicht
+wesentlich beschleunigt und der Zweck der Vorranggebietsfestlegung somit nicht erheblich
+beeinträchtigt wird.
+In solchen Fällen wäre das Vorhaben mit dem gesicherten Vorrang vereinbar und ein Zielabwei-
+chungsverfahren gar nicht erforderlich.
+Weitere Konstellationen, in denen kein Zielabweichungsverfahren erforderlich ist, können ferner ins-
+besondere bei Vorranggebieten Rohstoffgewinnung eintreten:
+– Ist in einem Vorranggebiet Rohstoffgewinnung der Rohstoff bereits vollständig ausgebeutet
+und die raumordnerisch gesicherte Nutzung abgeschlossen, können dort Planungen für an-
+dere Folgenutzungen möglich sein, ohne dass noch ein Konflikt mit der Vorrangfestlegung
+besteht, weil die konkurrierende Nutzung mit der gesicherten Nutzung inhaltlich nicht (mehr)
+unvereinbar sein kann. Der Nachweis, dass kein Konflikt (mehr) mit der Vorrangfestlegung
+besteht, ist vom Vorhabenträger zu erbringen.
+– D urch das Torfabbauverbot nach § 8 Abs. 2 NNatSchG sind in vielen Fällen Vorranggebiete
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 5
+Rohstoffgewinnung – Torf – funktionslos geworden.
+Ist im Raumordnungsprogramm eine Ausnahmeregelung i. S. von § 6 Abs. 1 ROG vorgesehen und
+sind die Voraussetzungen dieser Ausnahme erfüllt, besteht ebenfalls kein Anlass für ein Zielabwei-
+chungsverfahren.
+Wird das Vorhaben von der Landesplanungsbehörde als zielkonform angesehen, sodass kein An-
+lass für ein Zielabweichungsverfahren besteht, ist dies dem Vorhabenträger in der Regel formlos
+mitzuteilen. Zum Sonderfall eines feststellenden Bescheides siehe Nummer 5.
+1.2.5 V
+Zielabweichungsverfahrens durch Modifizierung der Planung oder des Vorha-
+bens Könnte eine raumbedeutsame Planung bei Beachtung bestimmter Vorkehrungen oder Änderungen
+mit dem betroffenen Ziel vereinbart werden, soll die zuständige Landesplanungsbehörde möglichst
+frühzeitig beratend auf die raumordnungskonforme Ausgestaltung hinwirken. Die Modifizierung der
+Planung kann etwa darin bestehen, sie kleinräumig so zu verschieben, dass die räumliche Berührt-
+heit eines zunächst betroffenen, entgegenstehenden Vorranggebiet es entfällt. Gestaltet der Pla-
+nungsträger die Planung dann zielkonform, ist ein Zielabweichungsverfahren nicht erforderlich.
+Bedürfen raumbedeutsame Vorhaben einer Zulassung (z. B. Genehmigung oder Planfeststellung),
+soll zunächst geprüft werden, ob durch Nebenbestimmungen zur Zulassungsentscheidung i. S. von
+§ 36 VwVfG erreicht werden kann, dass das Vorhaben unter Einhaltung der Ziele der Raumordnung
+realisiert wird. Ein Zielabweichungsverfahren ist nur erforderlich, wenn eine solche Nebenbestim-
+mung die Auswirkungen des Vorhabens zwar mildern, aber eine Verletzung eines Zieles der Raum-
+ordnung nicht ausschließen könnte.
+1.3 G
+Planänderung) Das Zielabweichungsverfahren ist ein Instrument für besonders gelagerte Einzelfallkonstellationen, die bei
+der Programmaufstellung nicht erkennbar waren und somit nicht bei der Aufstellung des Zieles berücksichtigt
+wurden. Es ermöglicht, unbeabsichtigte Planungslücken zu schließen oder unbeabsichtigte Planungskonse-
+quenzen zu korrigieren, ohne dass die mit der Planaufstellung festgelegten Grundzüge der Planung aufgegeben
+werden. Das Ziel bleibt im Raumordnungsprogramm bestehen, es braucht lediglich in dem konkreten Einzelfall
+nicht beachtet zu werden.
+Das Zielabweichungsverfahren ist weder ein Planungsinstrument noch ein Ersatz hierfür und darf nicht dazu
+verwendet werden, für wiederkehrende, gleichgelagerte und damit „typische“ Fälle Abweichungen zu ermögli-
+chen. Haben sich durch neue Entwicklungen die Rahmenbedingungen einer Raumordnungsplanung grundle-
+gend derart verändert, dass wiederkehrende Fälle zu erwarten sind, ist das Raumordnungsprogramm zu ändern
+oder neu aufzustellen. Auch in Fällen, in denen erhebliche Umweltauswirkungen zu erwarten sind, ist nur eine
+Planänderung zulässig (vgl. Nummer 2.2.6).
+1.4 A
+(§ 6 Abs. 2 Sätze 2 und 3 ROG), Inhalt und Umfang des
+Antrags Hat ein Antrag auf Zielabweichung schon nach überschlägiger Prüfung eindeutig keine Aussicht auf Erfolg,
+sind die Gründe hierfür dem Antragsteller zunächst formlos mitzuteilen, verbunden mit der Anregung, den An-
+trag zurückzunehmen. Wird ein Antrag aufrechterhalten, ist das Verfahren durch eine (negative) Entscheidung
+über den Antrag abzuschließen.
+Öffentliche Stellen sind antragsbefugt, wenn sie selbst Träger einer raumbedeutsamen Planung oder Maß-
+nahme oder Genehmigungsbehörde im Hinblick auf eine Planung oder Maßnahme einer anderen öffentlichen
+Stelle sind. So besteht insbesondere eine Antragsbefugnis einer Gemeinde, um ihre Bauleitplanung abwei-
+chend von Zielen der Raumordnung dahingehend ändern zu dürfen, dass ein raumbedeutsames Projekt pla-
+nungsrechtlich zulässig wird.
+Antragsbefugt sind öffentliche Stellen ferner , wenn sie über die Zulassung eines raumbedeutsamen Vorha-
+bens einer Person des Privatrechts entscheiden und hierbei auch Ziele der Raumordnung zu beachten sind
+(§ 4 Abs. 1 Satz 1 Nr. 3 ROG, § 4 Abs. 2 ROG).
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 6
+Private Vorhabenträger sind im Zulassungsverfahren antragsbefugt, wenn ihr Vorhaben einer Planfeststel-
+lung bedarf (§ 4 Abs. 1 Satz 1 Nr. 3 ROG) oder wenn bei der Genehmigung ihres Vorhabens auch die Einhal-
+tung von Zielen der Raumordnung als Genehmigungs - oder Zulassungsvoraussetzung vorgeschrieben ist
+(Raumordnungsklausel, § 4 Abs. 2 ROG). Daher dürfen z. B. private Investorinnen und Investoren, deren Vor-
+haben im Außenbereich genehmigt werden soll, einen Zielabweichungsantrag stellen, weil § 35 Abs. 3 Sätze 2
+und 3 BauGB Regelungen enthält, nach denen auch Ziele der Raumordnung öffentliche Belange sind, die der
+Zulassung raumbedeutsamer Außenbereichsvorhaben entgegenstehen können. Fehlt eine solche „Raumord-
+nungsklausel“ im Fachrecht (z. B. in den § § 34 oder 30 BauGB), ist mangels einer Bindungswirkung von Zielen
+der Raumordnung im Genehmigungsverfahren ein Zielabweichungsantrag weder erforderlich noch zulässig.
+Private Vorhabenträger sind nicht befugt, einen Zielabweichungsantrag für eine Bauleitplanung zu stellen,
+die ihr Bauvorhaben ermöglichen soll.
+Mehrere Antragsberechtigungen können nebeneinander bestehen (z. B. Zulassungsbehörde und Vorhaben-
+träger).
+Andere als die in § 6 Abs. 2 Sätze 2 und 3 ROG genannten Stellen und Personen (z. B. Verbände) sind nicht
+antragsbefugt. Wird ein solcher Antrag dennoch gestellt, ist er ohne inhaltliche Prüfung als unzulässig zurück-
+zuweisen.
+Der Antrag hat sämtliche für die Beurteilung notwendigen Angaben zu enthalten. Dies umschließt auch eine
+Darlegung des Antragsstellers, warum aus seiner Sicht die Voraussetzungen einer Zielabweichung erfüllt sind.
+Fehlen notwendige Angaben, ist der Antrag nicht entscheidungsreif und der Antragsteller ist zur Vervollständi-
+gung aufzufordern.
+2. V
+Eine Zielabweichung setzt voraus, dass alle Tatbestandsmerkmale kumulativ erfüllt sind (Tatbestandsseite)
+und dass die zuständige Behörde bei ihrer Entscheidung über die Zielabweichung ihre Entscheidungsbefug-
+nisse fehlerfrei ausgeübt hat (Rechtsfolgenseite).
+Es ist zu prüfen, ob der vorliegende Sachverhalt die einzelnen Tatbestandsmerkmale des § 6 Abs. 2 ROG
+und des § 8 NROG erfüllt, also dass
+– di
+
+– die Grundzüge der Planung nicht berührt werden (siehe Nummer 2.2),
+– das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
+und
+– das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4). Die Atypik des Einzelfalles ist kein eigenständiges gesetzliches Tatbestandsmerkmal, aber nach ständiger
+Rechtsprechung bei der Prüfung zur raumordnerischen Vertretbarkeit und zum Nichtberührtsein der Grundzüge
+der Planung als Prüfkriterium mit heranzuziehen.
+Zu besonderen Voraussetzungen für Zielabweichungen, die eine Ausweisung von Windenergiegebieten
+durch gemeindliche Bauleitplanung ermöglichen sollen, siehe Nummer 2.6.
+Sind alle Tatbestandsmerkmale erfüllt, hat die zuständige Landesplanungsbehörde dem Zielabweichungs-
+antrag – ggf. unter Nebenbestimmungen – in der Regel zu entsprechen ( Sollvorschrift des § 6 Abs. 2 ROG,
+siehe Nummer 2.5).
+Liegen Verstöße gegen mehrere Ziele der Raumordnung vor, ist ein Vorhaben nur zulässig, wenn in Bezug
+auf jedes einzelne Ziel eine Zielabweichung positiv beschieden werden kann. Die Voraussetzungen einer Ziel-
+abweichung (Tatbestandsvoraussetzungen und Ermessensausübung) müssen in Bezug auf jedes Ziel geprüft
+und dargelegt werden.
+2.1 R
+Eine Zielabweichung ist raumordnerisch vertretbar, wenn
+– s
+dient
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 7
+(dazu Nummer 2.1.1),
+– eine entsprechende Planung zulässig wäre und anzunehmen ist, dass das Vorhaben – bei rechtzeitigem
+Erkennen der Planungslücke – durch eine Regelung im Raumordnungsplan ermöglicht worden wäre
+(Planbarkeit, dazu Nummer 2.1.2) und
+– das Vorhaben raumverträglich ist (dazu Nummer 2.1.3).
+Eine Zielabweichung, die in Bezug auf einen bestehenden Raumordnungsplan beantragt wird, zu dessen
+Änderung aber bereits ein Planentwurf vorliegt, ist nur dann raumordnerisch vertretbar, wenn die mit der Ziel-
+abweichung verfolgte Planung oder Maßnahme mit dem in Aufstellung befindlichen Ziel in Einklang steht und
+die Fertigstellung der Planung nicht abgewartet werden kann (dazu Nummer 2.1.4).
+Im Einzelnen ist dazu Folgendes zu prüfen:
+2.1.1 V
+Nur wenn es für den Einzelfall neue oder veränderte (atypische) Aspekte gibt, die so bei der Planauf-
+stellung noch nicht erwogen wurden (unbeabsichtigte Planungslücke oder unbeabsichtigte Planungs-
+konsequenz), ist eine vom Raumordnungsprogramm abweichende Bewertung der raumordnerischen
+Vertretbarkeit möglich. Eine Zielabweichung scheidet aus, wenn diese Aspekte schon bei der Aufstel-
+lung des Raumordnungsprogramms bekannt waren, weil sich der Planungsträger im Rahmen seiner
+Abwägung bewusst für eine andere planerische Regelung und damit gegen das mit der Zielabwei-
+chung verfolgte Ergebnis entschieden hat. Die Atypik eines Vorhabens kann ein Indiz für eine unbe-
+absichtigte Planungslücke darstellen.
+Eine unbeabsichtigte Planungslücke kann von Beginn der Planung an bestehen oder im Nachhinein
+durch eine Änderung der Umstände im Planungsraum entstehen.
+2.1.2 Z
+Raumordnerisch vertretbar ist nur ein Ergebnis, das – bei Kenntnis der Einzelfallumstände – im Raum-
+ordnungsprogramm hätte geplant werden dürfen (Planbarkeit). Rechtswidrige Zustände, die nicht
+planbar gewesen wären, können auch nicht über eine Zielabweichung gestattet werden.
+Die Art und Weise der Planbarkeit ist unerheblich. Zur Planbarkeit zählen ein Regelungsverzicht, die
+Möglichkeit, das Ziel generell anders zu fassen wie auch die Möglichkeit, es durch eine Ausnahme
+nach § 6 Abs. 1 ROG zu ergänzen und es dadurch für eine bestimmte Fallkonstellation zu öffnen.
+Rechtliche Grenzen für die Planbarkeit ergeben sich einerseits aus fachrechtlichen Vorgaben, ande-
+rerseits aus dem gesetzlichen Auftrag der Raumordnung, Vorsorge für einzelne Nutzungen und Funk-
+tionen des Raumes zu treffen (§ 1 Abs. 1 Satz 2 Nr. 2 ROG). Raumordnungspläne müssen die im
+Raumordnungsrecht normierten Leitvorstellungen zur nachhaltigen Raumentwicklung (§ 1 Abs. 2
+ROG), die gesetzlichen Grundsätze (§ 2 Abs. 2 ROG, § 2 NROG) sowie die Grundsätze höherrangi-
+ger Raumordnungspläne berücksichtigen und Ziele höherrangiger Raumordnungspläne beachten.
+Auch die Gewichtigkeit der im Planungsraum gesicherten Funktion oder Nutzung, die durch das zu
+beurteilende Vorhaben berührt wird, kann einen Anhaltspunkt darstellen. Je bedeutsamer, verände-
+rungssensibler oder seltener die gesicherte Raumfunktion oder Nutzung ist, umso unwahrscheinlicher
+erscheint die theoretische Planbarkeit einer abweichenden Regelung und umso weniger kann die Zu-
+lassung des entgegenstehenden Vorhabens raumordnerisch vertretbar sein.
+Einen weiteren Anhaltspunkt für fehlende Planbarkeit kann die Summe oder die Ausprägung der durch
+das Vorhaben ausgelösten Konflikte darstellen, insbesondere wenn mehrere Ziele der Raumordnung
+betroffen sind. Je mehr Nutzungen und Funktionen betroffen sind und umso stärker in ein Interessen-
+geflecht eingegriffen wird, desto unwahrscheinlicher erscheint ein anderes Planergebnis.
+2.1.3 R
+Raumordnerisch vertretbar können nur Planungen oder Maßnahmen sein, die im betroffenen Raum
+oder am vorgesehenen Standort voraussichtlich ohne wesentliche nachteilige Raum- und Umweltaus-
+wirkungen realisiert werden können und raumverträglich sind. Lässt sich die voraussichtliche
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 8
+Raumverträglichkeit nur durch eine formalisierte Raumverträglichkeitsprüfung i. S. des § 15 ROG be-
+urteilen, ist eine solche vor Abschluss des Zielabweichungsverfahrens durchzuführen.
+2.1.4 R
+während einer laufenden Änderung oder Aufhebung des betroffe-
+nen Zieles Auch Zielfestlegungen, deren Anpassung bereits in die Wege geleitet wurde, gelten grundsätzlich bis
+zum Inkrafttreten eines neuen oder geänderten Zieles fort, z. B. Vorranggebiet Leitungstrasse (zur
+besonderen Konstellation, dass ein Ziel wegen vollständiger Umsetzung der gesicherten Nutzung kei-
+nen inhaltlich entgegenstehenden Vorrang bilden kann, siehe Beispiel bei Nummer 1.2.4 Abs. 6 erster
+Spiegelstrich). Mehrjährige Planänderungs- oder -aufstellungsverfahren können zur Verzögerung ei-
+nes Vorhabens führen. Im Einzelfall kann es im Hinblick auf die zu erwartende Planänderung raum-
+ordnerisch vertretbar sein, nicht das Inkrafttreten des geänderten Raumordnungsprogramms abwar-
+ten zu müssen, sondern übergangsweise von dem (noch) geltenden Ziel abweichen zu dürfen. An-
+stelle der Voraussetzungen nach den Nummern 2.1.1 und 2.1.2 ist eine solche Zielabweichung im
+Vorgriff auf eine zu erwartende Planänderung raumordnerisch vertretbar, wenn nach dem Planentwurf
+das bisherige Ziel nicht mehr aufrechterhalten wird.
+Ist mit der Planänderung nicht nur die Aufhebung eines Zieles, sondern zugleich eine inhaltliche Neu-
+festlegung beabsichtigt, muss für die raumordnerische Vertretbarkeit ferner eine Prognose hinzutre-
+ten, dass die beabsichtigte Planung oder Maßnahme mit dem in Aufstellung befindlichen Ziel voraus-
+sichtlich in Einklang steht. Diese Prognose setzt einen hinreichend fortgeschrittenen Planungs- und
+Verfahrensstand für die Änderung oder Neuaufstellung des Raumordnungsprogramms und des be-
+treffenden in Aufstellung befindlichen Zieles voraus. Der maßgebliche Verfahrensstand ist durch die
+Einführung der Legaldefinition eines „in Aufstellung befindlichen Zieles“ in § 3 Abs. 1 Nr. 4 a ROG
+vorgegeben:
+– Das Beteiligungsverfahren nach § 9 Abs. 2 ROG zu einem ersten Planentwurf muss abge-
+schlossen sein.
+– Die in diesem Beteiligungsverfahren eingegangenen Stellungnahmen müssen ausgewertet
+sein und es muss unter Würdigung der Ergebnisse eine planerische Abwägung erfolgt sein,
+ob das vorgesehene Ziel unverändert oder in modifizierter Form Eingang in den endgültigen
+Raumordnungsplan finden soll.
+– Den nach § 9 Abs. 2 ROG am Verfahren beteiligten öffentlichen Stellen und der Öffentlichkeit
+wurde die vorgesehene Fassung der Zielfestlegung, die Eingang in den endgültigen Raum-
+ordnungsplan finden soll, zur Kenntnis gegeben. Es genügt nicht, nur isoliert die Zielfestlegung
+zur Kenntnis zu geben, sondern der Zusammenhang des Zieles mit den übrigen Planinhalten
+muss erkennbar sein. Für die konkrete Art des Kenntnisgebens bestehen keine Vorgaben, es
+muss lediglich gewährleistet sein, dass der zum Zeitpunkt der Zielabweichungsentscheidung
+maßgebliche Stand der Planung einsehbar ist, beispielsweise auf den Internetseiten des Pla-
+nungsträgers.
+Ist nach Abschluss des Beteiligungsverfahrens i. S. von § 9 Abs. 2 ROG, d. h. des ersten Beteili-
+gungsverfahrens, kein weiteres Beteiligungsverfahren (mehr) nötig, ist der Planentwurf bereits vor
+dem RROP-Satzungsbeschluss oder vor der Genehmigung des RROP – unter Kenntlichmachung
+seines Status – bekannt zu machen. Erst dann liegt ein „in Aufstellung befindliches Ziel“ i. S. des § 3
+Abs. 1 Nr. 4 a ROG vor.
+Wird der Planentwurf dergestalt überarbeitet, dass zu Teilen eine ergänzende Beteiligung nach § 9
+Abs. 3 ROG nötig ist, muss der Bekanntmachung über die Einleitung des erneuten Beteiligungsver-
+fahrens zu entnehmen sein, dass die übrigen Planteile unverändert bleiben und wo diese unverän-
+derten Planteile eingesehen werden können. Werden nur die geänderten Planteile veröffentlicht, ist
+die Fundstelle der früheren Entwurfsfassung anzugeben. Wird eine Lesefassung des vollständigen
+Planentwurfs veröffentlicht, in der die Änderungen besonders gekennzeichnet sind, genügt dies.
+Sind zwar bereits allgemeine Planungsabsichten bekannt gemacht, aber ist das erste Beteiligungs-
+verfahren noch nicht eingeleitet oder noch nicht abgeschlossen, darf eine Zielabweichung im Vorgriff
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 9
+auf die Planänderung noch nicht zugelassen werden. In dieser Planungsphase liegt noch gar kein in
+Aufstellung befindliches Ziel vor, das geprüft werden könnte. In dieser Planungsphase könnte eine
+Zielabweichung nur zugelassen werden, wenn die Voraussetzungen nach den Nummern 2.1.1 und
+2.1.2 gegeben sind.
+Steht das beabsichtigte Vorhaben mit einem solchermaßen in Aufstellung befindlichen Ziel voraus-
+sichtlich in Einklang, und ist ferner seine Raumverträglichkeit nach Nummer 2.1.3 gewährleistet,
+kommt es auf seine Atypik in dieser Fallkonstellation nicht an.
+Soll eine Zielabweichung für ein Vorhaben im Vorgriff auf den Abschluss eines laufenden Verfahrens
+zur Änderung eines Raumordnungsprogramms zugelassen werden, muss aber schließlich noch
+deutlich werden, aus welchen Gründen das Inkrafttreten der Planänderung im Einzelfall nicht abge-
+wartet werden kann. Es reicht nicht allein aus, die allgemeine – und für jedes Vorhaben zutreffende
+– Verfahrensdauer von Planänderungsverfahren als Begründung anzuführen, sondern die Dringlich-
+keit muss sich aus Umständen ergeben, die direkt mit dem konkreten Vorhaben verbunden sind.
+2.2 N
+An den grundlegenden planerischen Intentionen (oder dem Grundgerüst) des jeweiligen Raumordnungs-
+plans ist zu messen, ob sich das Vorhaben darauf mehr als nur unwesentlich auswirkt. Grundzüge der Planung
+sind immer dann berührt, wenn die Zielabweichung den durch die planerische Abwägung geschaffenen Inte-
+ressenausgleich stört oder dessen Fortbestand gefährdet. Das bei Aufstellung des Raumordnungsprogramms
+erzielte Abwägungsergebnis darf durch eine Zielabweichung nicht nachträglich derart verändert werden, dass
+neue Konflikte entstehen oder bereits durch Planung gelöste Konflikte wieder aufbrechen. Die Verletzung der
+Grundzüge der Planung ist insbesondere anzunehmen, wenn die Zulassung der Zielabweichung Präzedenz-
+wirkung für Folgefälle hätte.
+Im Einzelnen ist Folgendes zu prüfen:
+2.2.1 E
+Sicherungs-, Ordnungs- oder Entwick-
+lungsinteressen in dem vom Vorhaben betroffenen räumlichen Bereich Die Grundzüge der Planung ergeben sich aus der jeweiligen Planungskonzeption zur Sicherung, Ord-
+nung und Entwicklung der Raumnutzungen und - funktionen und den ihr zugrunde liegenden Leitvor-
+stellungen und Belangen. Anhand des Koordinierungs- und Abwägungsergebnisses der unterschied-
+lichen Belange und anhand einer Zusammenschau der zentralen Festlegungen des jeweiligen Raum-
+ordnungsprogramms ist zu ermitteln, welche grundlegenden Anliegen mit der Raumplanung und dem
+konkreten Ziel, von dem abgewichen werden soll, sachlich und räumlich verfolgt werden. Dabei kann
+insbesondere die Begründung des Raumordnungsprogramms Ausgangspunkt sein, um zu prüfen,
+was Grundzüge der Planung sind und inwieweit diese durch die angestrebte Zielabweichung berührt
+werden.
+2.2.2 K
+kein Entstehen neuer Konflikte Raumordnungspläne dienen der Konfliktlösung und - vermeidung und sollen unterschiedliche Funkti-
+onen und Nutzungen aufeinander abstimmen. Die Grundzüge der Planung sind berührt, wenn der
+durch den Raumordnungsplan erreichte Interessenausgleich zerstört oder dessen Fortbestand ge-
+fährdet wird. Die Zielabweichung ist abzulehnen, wenn die mit der Zielabweichung verfolgte Planung
+oder Maßnahme raumbedeutsame Folgewirkungen auf andere Planungen, Maßnahmen, Funktionen,
+Schutzgüter etc. hervorrufen würde, die ihrerseits neue Konflikte entstehen lassen würden.
+Je mehr Ziele eines Raumordnungsprogramms von der Planung oder Maßnahme betroffen sind,
+umso wahrscheinlicher ist es, dass neue Konflikte entstehen/resultieren und insoweit die Grundzüge
+der Planung berührt werden (dann ist ggf. eine Planänderung erforderlich, siehe Nummer 1.3).
+2.2.3 K
+Präzedenzwirkung Grundzüge der Planung sind auch dann berührt, wenn erwartbar ist, dass die Zielabweichung zu Fol-
+gefällen führt. Der Gleichbehandlungsgrundsatz (Willkürverbot) verbietet den zuständigen Behörden,
+gleichartig gelagerte Fälle uneinheitlich zu behandeln. Der erste Zielabweichungsfall begründet eine
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 10
+Selbstbindung der Verwaltung für künftige Entscheidungen, denen ein gleicher Sachverhalt zugrunde
+liegt. Durch die (eventuelle) Mehrzahl oder Vielzahl von Zielabweichungsentscheidungen in gleicher
+Sache könnte insofern der durch die planerische Abwägung hergestellte Interessenausgleich im
+Nachhinein wieder entfallen. Sind diese Auswirkungen zu befürchten, wären bereits durch den ersten
+Zulassungsfall die Grundzüge der Planung berührt.
+Die klare Atypik der zu entscheidenden Fallkonstellation kann als Indiz dafür dienen, dass die Grund-
+züge der Planung nicht berührt sind, da (atypische) Einzelfälle gerade keine Präzedenzwirkung zu
+begründen vermögen. Dabei kann sich der Einzelfallcharakter sowohl aus der Atypik des Vorhabens
+als auch aus der Atypik der Umstände oder der räumlichen Gegebenheiten des Standortes ergeben.
+Ein Einzelfall kann beispielsweise vorliegen, wenn Gegenstand des Verfahrens ein Vorhaben ist, das
+sich durch besondere oder neue Faktoren (z. B. technische Konstruktion, Betriebsweise, Sortiment)
+von anderen bekannten Vorhabentypen deutlich abhebt. Gibt es im Planungsraum vergleichbar gela-
+gerte Vorhaben oder sind diese prognostisch zu befürchten, ist das Vorhaben nicht als Einzelfall zu
+betrachten.
+Ein Einzelfall kann ferner vorliegen, wenn das mit der Zielabweichung beabsichtigte Vorhaben nicht
+überall im Raum verwirklicht werden kann, sondern etwa von besonderen topographischen, geologi-
+schen, siedlungs- und infrastrukturellen Voraussetzungen abhängt und daher nur ein potenzieller
+Standort betroffen sein kann.
+Eine Einzelfallkonstellation kann ferner gegeben sein, wenn sich nur punktuell im Planungsraum die
+dem Ziel zugrunde liegenden Rahmenbedingungen gravierend geändert haben ( z. B. durch Aufgabe
+einer einzelnen Standortplanung, die durch ein Ziel gesichert wird) und daher allein zu diesem Stand-
+ort für ein anderes Vorhaben über eine Zielabweichung zu entscheiden wäre.
+2.2.4 K
+Die Grundzüge der Planung sind in der Regel berührt, wenn es um eine Abweichung von einem ge-
+samträumlichen Planungskonzept geht und dadurch dessen Grundstruktur betroffen ist. In solchen
+Fällen besteht in besonders hohem Maße die Gefahr, dass Konflikte aufbrechen oder neu entstehen
+oder eine Präzedenzwirkung erzeugt wird. Es gibt verschiedene Arten von gesamträumlichen Kon-
+zepten. Sie haben gemeinsam, dass sich die Zuordnung von Funktionen oder Flächennutzungen nach
+generalisierenden Kriterien richtet, die einheitlich für den gesamten Planungsraum gelten.
+2.2.4.1 F
+Als gesamträumliche Konzepte „mit Ausschlusswirkung“ sind solche Konzepte einzustufen,
+bei denen einerseits Vorranggebiete für eine bestimmte Nutzung ausgewiesen sind, diese
+Nutzung andererseits aber im restlichen Planungsraum oder Teilen davon nach § 7 Abs. 3
+Satz 3 ROG ausgeschlossen wurde. Anwendungsfälle sind beispielsweise Konzepte zur
+Steuerung des Rohstoffabbaus sowie übergangsweise auch noch Konzepte zur Steuerung
+der Windenergienutzung. Zu den Grundzügen solcher gesamträumlichen Konzepte gehört,
+dass
+– die Bewertung der Flächen unter Abwägung unterschiedlichster Belange (auch) auf
+der Einhaltung generalisierter Kriterien beruhen, die einheitlich für den gesamten
+Planungsraum gelten, und
+– das Verhältnis der positiven Vorrangfestlegungen und der negativen ausschließen-
+den Festlegungen gewährleisten muss, dass der betroffenen Nutzung substanziell
+Raum geschaffen wird.
+Wird von den generalisierenden Kriterien wesentlich abgewichen oder werden auf den Po-
+sitivflächen andere Nutzungen in einem so hohen Maß zugelassen, dass der gesicherten
+Nutzung nicht mehr substanziell Raum verschafft wird, sind Grundzüge der Planung berührt.
+Die Grundzüge der Planung sind z. B. im Einzelfall dann nicht berührt, wenn bereits bei
+Aufstellung des Plans bestimmte Unsicherheitsfaktoren in Bezug auf die Realisierung von
+vorrangig gesicherten Vorhaben bekannt waren und über das Erforderliche hinaus ein
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 11
+gewisser „Puffer“ eingeplant wurde, damit auch bei fehlender Nutzbarkeit von Flächen oder
+Flächenanteilen immer noch substanziell Raum verbleibt.
+2.2.4.2 F
+Bei gesamträumlichen Planungskonzepten, die Grundlage einer reinen Vorranggebietsku-
+lisse sind, besteht das Erfordernis des substanziell Raum Verschaffens nicht. Bei solchen
+Konzepten können die Grundzüge der Planung dann berührt sein, wenn – insbesondere in
+einer Vielzahl von Fällen – von den Planungskriterien abgewichen wird (Präzedenzwirkung).
+Bei Zulassung von Vorhaben in einem Vorranggebiet Windenergienutzung ist ferner zu be-
+rücksichtigen, dass eine Zielabweichung zur Folge haben kann, dass die betroffene Fläche
+nicht mehr auf das nach dem WindBG und dem NWindG zu erreichende Teilflächenziel an-
+gerechnet werden dürfte.
+2.2.4.3 F
+Ein anders geartetes gesamträumliches Konzept stellt das Zentrale- Orte-System dar. Zent-
+rale Orte unterschiedlicher Stufen werden für den gesamten Planungsraum nach einheitlich
+geltenden Kriterien festgelegt. Hieran sind dann weitere, für sich selbständige Ziele der
+Raumordnung geknüpft, die den zentralen Orten einer bestimmten Stufe verschiedene
+Funktionen und Nutzungen ausdrücklich zuweisen. Würden bestimmte, ausschließlich den
+zentralen Orten zugewiesene Nutzungen oder Einrichtungen (z. B. Einzelhandelsgroßpro-
+jekte, die nur innerhalb des zentralen Siedlungsgebietes zulässig sind – Konzentrationsge-
+bot) durch Zielabweichung auch außerhalb der z entralen Orte zugelassen, würde in das
+zentralörtliche Gefüge von Funktions-, Erreichbarkeits- und Tragfähigkeitserwägungen ein-
+gegriffen. In aller Regel sind hierdurch die Grundzüge der Planung berührt, wenn nicht be-
+sonders gelagerte Umstände des Einzelfalles hinzutreten.
+2.2.5 N
+
+bung des betroffenen Zieles Maßstab für die Beurteilung, ob die Grundzüge der Planung berührt werden, ist bei einem Zielabwei-
+chungsverfahren, das im Vorgriff auf das geänderte oder neu aufgestellte Raumordnungsprogramm
+stattfinden soll, einerseits das noch bestehende Ziel, andererseits die zu erwartende neue Planung.
+Aufgrund der Gleichbehandlungspflicht und des Prinzips der Selbstbindung der Verwaltung ist davon
+auszugehen, dass sich die Bewertung des ersten Anwendungsfalles entscheidungsleitend auch für
+eine Mehrzahl von Folgefällen auswirken wird. Handelt es sich um „Standardvorhaben“, müssen unter
+Umständen eine Vielzahl von Vorhaben vorab im Wege der Zielabweichung zugelassen werden. Sie
+würden den Planungsraum prägen und Bestandschutz genießen.
+Dies hat zum einen Bedeutung für den Fall, dass die bestehende Planung weitergilt, falls die neue
+Planung (z. B. aus politischen Gründen, durch Ablauf der Legislaturperiode, durch Änderung der fach-
+lichen, rechtlichen oder politischen Rahmenbedingungen oder durch fehlende Genehmigungsfähigkeit
+des Plans) doch nicht in Kraft treten sollte. Ein durch Zielabweichung zugelassenes Vorhaben darf
+keine Umstände entstehen lassen, durch die die Vollziehbarkeit eines fortbestehenden Zieles unmög-
+lich gemacht oder wesentlich erschwert würde. Seit § 3 Abs. 1 Nr. 4 a ROG einen gesetzlichen „Ver-
+festigungsgrad“ eines in Aufstellung befindlichen Zieles erfordert (vgl. Nummer 2.1.4), ist dieses Risiko
+gesunken. Erforderlichenfalls ist die Zielabweichung unter Bedingungen, Auflagen oder anderen Ne-
+benbestimmungen zuzulassen oder abzulehnen .
+Zum anderen darf die Verwirklichung der vorgesehenen neuen Planung nicht durch vorgezogene Ein-
+zelfallentscheidungen wesentlich erschwert oder unterlaufen werden.
+Möglich ist eine Zielabweichung insofern nur, soweit das Vorhaben im Einklang mit den zu ändernden
+Grundzügen der Planung steht. Voraussetzung für diese Beurteilung ist ein hinreichend fortgeschrit-
+tener Verfahrensstand als Prognosegrundlage über die Ausgestaltung und Reichweite des neuen Zie-
+les (siehe hierzu Nummer 2.1.4). Nur so kann einer unerwünschten Präzedenzwirkung wirksam ent-
+gegengetreten werden.
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 12
+2.2.6 Berührtsein der Grundzüge der Planung bei voraussichtlich erheblichen Umweltauswirkungen
+In seinem Urteil vom 28.09.2023 (Az. 4 C 6.21) führt das Bundesverwaltungsgericht aus, dass Zielab-
+weichungen nur dann zugelassen werden dürfen, wenn voraussichtlich erhebliche Umweltauswirkun-
+gen ausgeschlossen sind. Die Zielabweichung dürfe nicht die Vorgaben der Richtlinie über die Stra-
+tegische Umweltprüfung von Plänen unterlaufen. Werden durch ein Vorhaben erhebliche Umweltaus-
+wirkungen hervorgerufen, könne es ausschließlich durch eine Planänderung ermöglicht werden, weil
+nur bei Planänderungen, nicht aber bei Zielabweichungsentscheidungen, eine Strategische Umwelt-
+prüfung durchgeführt werde: „Die Grundzüge der Planung sind berührt, wenn voraussichtlich erhebli-
+che Umweltauswirkungen durch die Zielabweichung nicht ausgeschlossen werden können, die auf
+dieser Planungsebene erkennbar sind und bei der planerischen Entscheidung über den Raumord-
+nungsplan nicht berücksichtigt wurden“.
+Wird eine Zielabweichung beantragt, ist unter entsprechender Heranziehung der Kriterien der An-
+lage 2 zu § 8 Abs. 2 ROG überschlägig zu prüfen, ob das Vorhaben erhebliche Umweltauswirkungen
+haben könnte. Das Bundesverwaltungsgericht führt dazu aus: „ Der Umfang und die räumliche Aus-
+dehnung der Auswirkungen und damit die Größe der von der Abweichung erfassten Fläche spielen
+ebenso eine Rolle wie ihre Bedeutung und Sensibilität. Maßgeblich ist ferner, um welche Art von Ziel-
+festlegung – flächendeckend oder spezifisch – es geht. Dient die Zielabweichung der Änderung eines
+spezifisch festgelegten Standorts für ein raumbedeutsames Vorhaben, werden die Grundzüge der
+Planung in der Regel berührt sein“.
+Unspezifisch sind nach dem Urteil beispielsweise Vorranggebiete Landwirtschaft, spezifisch beispiels-
+weise Vorranggebiete Industrie und Gewerbe. Eine erhöhte Sensibilität kann sich beispielsweise aus
+der Nähe der betroffenen Fläche zu einem Europäischen Vogelschutzgebiet ergeben.
+2.3 E
+Das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen ist kein bloßes Verfahrenserfor-
+dernis (zum Verfahren siehe Nummer 4), sondern ebenfalls eine materielle tatbestandliche Voraussetzung einer
+Zielabweichung. Eine Entscheidung im Einvernehmen erfordert die eindeutige Zustimmung aller fachlich be-
+rührten Stellen.
+Ist offenkundig und eindeutig, dass eine Zielabweichung für das Vorhaben nicht raumordnerisch vertretbar
+ist und/oder dass die Grundzüge der Planung berührt sind, kann eine ablehnende Entscheidung auch allein auf
+die Nichterfüllung der Tatbestandsmerkmale des § 6 Abs. 2 ROG gestützt werden. Die Beteiligung der fachlich
+berührten Stellen (und der betroffenen Gemeinden) ist dann nicht erforderlich. Da alle Tatbestandsvorausset-
+zungen kumulativ erfüllt sein müssen, könnte auch ein erteiltes Einvernehmen keine Zielabweichung ermögli-
+chen.
+Wird eine Zielabweichung raumordnerisch in Betracht gezogen oder ist noch ergebnisoffen, ob eine Zielab-
+weichung für das Vorhaben raumordnerisch vertretbar ist und die Grundzüge der Planung nicht berührt sind, ist
+zwingend eine Beteiligung der in ihren Belangen berührten öffentlichen Stellen (und der betroffenen Gemein-
+den) notwendig.
+2.3.1 I
+Welche öffentlichen Stellen in ihren Belangen, d. h. fachlich berührt sein können, ist im Einzelfall durch die
+zuständige Landesplanungsbehörde zu entscheiden und richtet sich nach dem konkreten Ziel der Raumord-
+nung, von dem abgewichen werden soll, sowie dessen Verflechtung mit anderen Belangen.
+Verbände (z. B. Wirtschaftsverbände, Naturschutzverbände) und ähnliche Interessenvertretungen sind –
+anders als bei der Beteiligung im Aufstellungsverfahren für das Raumordnungsprogramm – nicht einbezogen.
+Fachlich berührt können nur öffentliche Stellen sein, deren Aufgabenkreis fachlich und räumlich von der
+Zielabweichung beeinflusst wird und die deshalb ein begründetes Interesse an der Entscheidung haben. Erfasst
+sind dabei nur in Niedersachsen zuständige Stellen, nicht öffentliche Stellen benachbarter Länder oder Staaten.
+Ihre Beteiligung kann sinnvoll sein, jedoch geht damit kein Einvernehmenserfordernis einher.
+Einvernehmen ist nur von denjenigen Stellen erforderlich, die einen überörtlichen Zuständigkeitsbereich
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 13
+übertragen bekommen haben. Die Unterscheidung zwischen öffentlichen Stellen, deren Einvernehmen erfor-
+derlich ist und öffentlichen Stellen, deren Benehmen genügt (Gemeinden), ist nicht anhand der Wahrnehmung
+von Aufgaben im eigenen oder im übertragenen Wirkungskreis zu treffen. Die Unterscheidung in § 8 NROG
+ergibt sich vielmehr aus dem überörtlichen Auftrag der Raumordnung. In Betracht kommen öffentliche Stellen
+wie betroffene Landkreise, Fachbehörden oder Kammern. Hat das Vorhaben, für das eine Zielabweichung be-
+antragt wird, sehr weiträumige Auswirkungen (z. B. bei Einzelhandelsgroßprojekten) können auch benachbarte
+(niedersächsische) Regionalplanungsträger oder Industrie- und Handelskammern der benachbarten Zuständig-
+keitsbezirke zu beteiligen sein.
+Die fachliche Berührtheit und das Einvernehmenserfordernis bestehen nur insoweit, wie die Belange der
+jeweiligen öffentlichen Stelle räumlich oder sachlich tatsächlich betroffen sind. In räumlicher Hinsicht darf die
+Einvernehmensprüfung nur auf eine Berührtheit von Belangen in denjenigen Teilen des Zuständigkeitsbereichs
+bezogen werden, die von den Auswirkungen des Vorhabens nachteilig berührt wären. In sachlicher Hinsicht
+darf die Einvernehmensprüfung nur auf eine Berührtheit von Belangen bezogen werden, für die der öffentlichen
+Stelle eine konkrete Verantwortlichkeit zugewiesen wurde. So haben Träger der Regionalplanung in Bezug auf
+die Sicherung zentraler Orte nur die Kompetenz, Grundzentren sowie Grundzentren mit mittelzentralen Teil-
+funktionen in ihrem Planungsraum festzulegen. Nur in Bezug auf diese Aufgaben besteht ein Einvernehmens-
+erfordernis, beispielsweise anlässlich eines Zielabweichungsverfahrens für ein Einzelhandelsgroßprojekt. Die
+Festlegung von Mittel- und Oberzentren zählt hingegen nicht zu den Aufgaben der Regionalplanung, sondern
+erfolgt im LROP, so dass Träger der Regionalplanung in dieser Hinsicht nicht in ihren Belangen berührt sind
+und insoweit daher auch kein Einvernehmen erteilen oder versagen können.
+Gemeinden sind durch raumbedeutsame Planungen und Maßnahmen in aller Regel als Träger der gemeind-
+lichen Planungshoheit und damit in einer rein örtlichen Angelegenheit betroffen. Auch soweit Gemeinden –
+z. B. großen selbständigen Städten oder kreisfreien Städten – durch entsprechende Regelungen einzelne Auf-
+gaben der Landesverwaltung übertragen wurden, die sie im übertragenen Wirkungskreis wahrnehmen (z. B. als
+untere Naturschutzbehörde), ist diese Zuständigkeit räumlich auf das Gemeindegebiet begrenzt und nicht
+„überörtlich“ im raumordnungsrechtlichen Sinne. Ihr Einvernehmen ist daher nicht erforderlich, sondern es er-
+folgt eine Benehmensherstellung (siehe Nummer 2.4). Der Gesetzgeber hat im Wortlaut des § 8 NROG keine
+Differenzierung nach verschiedenen Aufgaben von Gemeinden getroffen, sondern ihre Beteiligung einheitlich
+geregelt.
+Die obere Landesplanungsbehörde als Genehmigungsbehörde des RROP ist dann fachlich berührte Stelle,
+wenn es um eine Zielabweichung im Vorgriff auf eine laufende Änderung oder Aufhebung eines betroffenen
+Zieles in einem RROP geht. Die Zielabweichung setzt eine Prognose über die Rechtmäßigkeit und Genehmi-
+gungsfähigkeit der neuen Planung voraus. Für diese Einschätzung sind der oberen Landesplanungsbehörde
+bei Bedarf die erforderlichen Unterlagen (z. B. Stellungnahmen, Abwägungssynopsen) zur Verfügung zu stel-
+len. Das Einvernehmen der oberen Landesplanungsbehörde zu einer solchen Zielabweichung ist keine Vor-
+weggenehmigung der RROP-Festlegung gemäß § 5 Abs. 5 Satz 2 NROG.
+Bei gleichzeitigen Abweichungen von Zielen des LROP und des RROP ist das Einvernehmen der obersten
+Landesplanungsbehörde erforderlich. Wenn eine Zielabweichung vom LROP erfolgen soll, berührt dies auch
+die Belange der obersten Landesplanungsbehörde als planaufstellende Behörde, insoweit ist nach § 8 NROG
+auch ihr Einvernehmen einzuholen.
+Stellt sich heraus, dass eine zunächst vorsorglich beteiligte Stelle fachlich doch nicht berührt ist, so ist ihr
+Einvernehmen nicht mehr erforderlich. Sieht sich eine nicht beteiligte Stelle als fachlich berührt an und äußert
+sich zu dem Vorhaben, hat die Landesplanungsbehörde zu entscheiden, ob es sich um eine fachlich berührte
+Stelle handelt. Ändert sich die Einschätzung, wer fachlich berührt ist, im Laufe des Verfahrens, ist darauf in der
+Begründung der Entscheidung über die Zielabweichung einzugehen.
+Die Einholung der Zustimmung der obersten Landesplanungsbehörde zum Verfahrensergebnis nach § 19
+Abs. 2 Satz 3 NROG ist ein zusätzlicher , von der Einholung des Einvernehmens unabhängiger Verfahrensschritt
+(dazu siehe Nummer 3.1).
+2.3.2 E
+Im Beteiligungsanschreiben ist eine eindeutige Erklärung zu erbitten, ob das Einvernehmen erteilt oder
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 14
+versagt wird.
+Die Landesplanungsbehörde soll nicht nur deutlich machen, dass aus ihrer Sicht eine Beteiligung als in ihren
+Belangen berührte öffentliche Stelle erfolgt, sondern das Anschreiben soll auch Hinweise darauf enthalten, in
+Bezug auf welche räumlichen Bereiche oder in Bezug auf welche Belange die Landesplanungsbehörde eine
+räumliche oder sachliche Berührtheit der jeweiligen öffentlichen Stelle sieht.
+Bestehen Zweifel der Landesplanungsbehörde an der fachlichen Berührtheit, soll im Beteiligungsschreiben
+darauf hingewiesen werden, dass ohne Rückäußerung bis zu einem angegebenen Datum davon ausgegangen
+wird, dass sich die Stelle als fachlich nicht berührt ansieht und demzufolge kein Einvernehmen erforderlich ist.
+Die Frist, innerhalb der Stellung genommen werden kann, ist im Hinblick auf den Einzelfall zu bestimmen.
+Sie sollte mindestens einen Monat betragen; in einfach gelagerten Fällen kann sie verkürzt werden.
+Bei der Einholung des Einvernehmens soll die Landesplanungsbehörde darauf hinweisen, dass eine etwaige
+Verweigerung des Einvernehmens anhand der von der beteiligten Stelle zu vertretenden fachlichen Belange
+nachvollziehbar begründet werden muss. Auch die G ründe für die Erteilung des Einvernehmens sollten darge-
+legt werden, weil auch das Einvernehmen einer vollen gerichtlichen Nachprüfbarkeit unterliegt.
+2.3.3 U
+Die Auseinandersetzung mit dem Einvernehmen anderer Stellen tritt neben die (eigene) Prüfung der übrigen
+Tatbestandsmerkmale sowie die Ermessensausübung.
+Insofern entbindet die (in der Zielabweichungsentscheidung unter dem Prüfungspunkt „Einvernehmen“ zu-
+lässige) „Aneinanderreihung“ von Einvernehmensausführungen der fachlich berührten Stellen die Landespla-
+nungsbehörde weder von der Aufgabe, selbst die raumordnerische Vertretbarkeit einer Zielabweichung und das
+Nichtberührtsein der Grundzüge der Planung nach § 6 Abs. 2 ROG zu prüfen, noch von der Pflicht, ihr – aller-
+dings durch Soll-Vorgabe begrenztes – Ermessen auszuüben, wenn alle Tatbestandsmerkmale nach § 6 Abs. 2
+ROG und § 8 NROG erfüllt sind.
+Knüpft eine fachlich berührte Stelle ihr Einvernehmen an bestimmte, konkret überprüfbare und rechtlich in
+einem Zielabweichungsbescheid umsetzbare Voraussetzungen, so gilt das Einvernehmen nur als hergestellt,
+sofern der Zielabweichungsbescheid mit entsprechenden Nebenbestimmungen versehen werden kann.
+Soweit das Einvernehmen an Bedingungen geknüpft wird, die erkennbar außerhalb des raumordnerischen
+Prüfrahmens oder der Kompetenzen der beteiligten Stelle liegen oder allein auf die Erfüllung von Anforderungen
+durch Dritte gerichtet sind, ist die beteiligte Stelle darüber zu informieren, dass das Einvernehmen zur Abwei-
+chung von einem Ziel der Raumordnung nicht von derartigen Bedingungen abhängig gemacht werden kann
+oder dass solche Forderungen erst auf Ebene nachfolgender Verfahren eingebracht werden können.
+Ist Gegenstand der Zielabweichung beispielsweise eine raumbedeutsame Planung, können sich Neben-
+bestimmungen nur auf rechtlich mögliche Planinhalte beziehen. Vorbehalte einer fachlich berührten Stelle, die
+sich auf die Ausführung eines konkreten Vorhabens beziehen, auf die der Plan aber keinen Einfluss nehmen
+kann, können durch Nebenbestimmungen zur Zielabweichungsentscheidung nicht ausgeräumt werden. Ist
+z. B. Gegenstand des Zielabweichungsverfahren ein Flächennutzungsplan, der ein konkretes Vorhaben im
+Außenbereich ermöglichen soll, und knüpft eine fachlich berührte Stelle ihr Einvernehmen an eine bestimmte
+bauliche Gestaltung, so betrifft diese Vorgabe allein die Zulassung und Ausführung des Vorhabens und kann
+nicht als Nebenbestimmung für die Änderung des Flächennutzungsplans vorgegeben werden.
+Ist beispielsweise Gegenstand der Zielabweichung ein raumbedeutsames Vorhaben einer Person des Pri-
+vatrechts, können Nebenbestimmungen nur solche sein, die der Vorhabenträger selbst umsetzen kann. Die
+Zielabweichung kann nicht über Nebenbestimmungen an Maßnahmen geknüpft werden, die nur eine öffentli-
+che Stelle oder eine andere Privatperson verwirklichen könnte. Ist z. B. zunächst eine Änderung eines Bebau-
+ungsplans erforderlich, eine begleitende Straßenbaumaßnahme auf öffentlichen Flächen oder eine Maß-
+nahme auf benachbarten Privatgrundstücken, kann der private Vorhabenträger dies gerade nicht selbst erfül-
+len.
+Wird das Einvernehmen nicht erteilt, liegt kein Einvernehmen vor. Gibt die fachlich berührte Stelle eindeutig
+zu erkennen, dass sie grundsätzlich mit dem in Rede stehenden Vorhaben einverstanden ist, ist das
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 15
+Einvernehmen erteilt, auch wenn das Einvernehmen an Vorgaben oder Nebenbestimmungen geknüpft ist, die
+noch nicht im Zielabweichungsbescheid, sondern erst auf nachfolgenden Verfahrensstufen umsetzbar sind.
+Wird das Einvernehmen ohne nachvollziehbare fachliche Begründung an Vorbehalte geknüpft, hat die Lan-
+desplanungsbehörde eine Begründung nachzufordern.
+Können fachlich begründete Vorbehalte nicht – auch nicht durch Nebenbestimmungen im Zielabweichungs-
+bescheid oder auf nachfolgenden Verfahrensstufen – ausgeräumt werden, fehlt es an einer Zustimmung; ein
+Einvernehmen i. S. des § 8 NROG liegt dann nicht vor.
+Formuliert eine fachlich berührte Stelle Vorgaben, die das Vorhaben inhaltlich so stark verändern würden,
+dass es nicht mehr dem Willen des Vorhabenträgers entspricht, ist das Einvernehmen zu dem beantragten
+Vorhaben nicht erteilt.
+Äußert sich eine fachlich berührte Stelle trotz Nachfragen nicht oder nicht eindeutig oder erteilt das Einver-
+nehmen nicht, kann die Landesplanungsbehörde dieses nicht ersetzen.
+Da gemäß § 6 Abs. 2 ROG im Regelfall die Zielabweichung zuzulassen ist, wenn die raumordnerische Ver-
+tretbarkeit gegeben ist und die Grundzüge der Planung gewahrt sind, wäre es im Regelfall unzulässig, die Ziel-
+abweichung abzulehnen, wenn sich eine berührte öffentliche Stelle überhaupt nicht äußert oder sich auf unzu-
+treffende Gründe stützt. Sieht die Landesplanungsbehörde die Voraussetzungen einer Zielabweichung als ge-
+geben an, hat sie im Falle einer Nichtrückäußerung oder aus ihrer Sicht unberechtigten Verweigerung des Ein-
+vernehmens in der Regel die für die betreffende öffentliche Stelle zuständige Aufsichtsbehörde einzuschalten ,
+da nur diese die Befugnis hätte, ein verweigertes Einvernehmen anzuordnen oder selbst zu erteilen (z. B. nach
+§ 174 NKomVG).
+Wird das Einvernehmen auch nur von einer ihren Belangen berührten öffentlichen Stelle nicht erteilt, kann
+eine Zielabweichung nicht zugelassen werden.
+2.4 B
+Bei einer Entscheidung im Benehmen muss den betroffenen Gemeinden Gelegenheit gegeben werden, die
+eigenen Vorstellungen darzulegen. Welche Gemeinden betroffen sind, ist im Einzelfall durch die zuständige
+Behörde zu entscheiden und richtet sich nach der Reichweite und Intensität der Auswirkungen des mit der
+Zielabweichung verfolgten Vorhabens. Von einer Gemeinde, die selbst Antragsteller der Zielabweichung ist, ist
+keine Stellungnahme nötig.
+Zwingend zu beteiligen sind niedersächsische Gemeinden; die Beteiligung von Gemeinden aus benachbar-
+ten Ländern oder Staaten kann ebenfalls sinnvoll sein (z. B. die in Abschnitt 2.2 Ziffer 06 Satz 3 LROP genann-
+ten Städte mit oberzentraler Bedeutung für das niedersächsische Umland).
+Stellt sich heraus, dass eine zunächst beteiligte Gemeinde doch nicht betroffen ist, so ist ihr Benehmen nicht
+mehr erforderlich. Dies ist in der Begründung des Bescheides darzulegen.
+Eine Verpflichtung der Gemeinden zur Rückäußerung besteht nicht.
+Anders als beim Einvernehmen muss keine Einigung erreicht werden. Dies gilt unabhängig davon, ob das
+Zielabweichungsverfahren positiv oder negativ abgeschlossen wird. Liegen alle sonstigen Voraussetzungen für
+eine Zielabweichung vor, kann die Landesplanungsbehörde auch eine von der Stellungnahme einer Gemeinde
+abweichende Entscheidung treffen. Aus dem Zielabweichungsbescheid muss hervorgehen, wie die Stellung-
+nahmen gewürdigt wurden.
+2.5 So
+-Entscheidung; Ermessenserwägungen Bei Vorliegen aller Tatbestandsvoraussetzungen ist im Regelfall die Zielabweichung zuzulassen (Soll-Ent-
+scheidung, § 6 Abs. 2 ROG ). In aller Regel ist davon auszugehen, dass das Interesse an einer abweichenden
+Einzelfalllösung für das betroffene Vorhaben in einer Gesamtschau mit anderen berührten Interessen (etwa der
+beteiligten Gemeinden sowohl in eigenen als auch in von staatlicher Seite übertragenen Aufgaben) überwiegt.
+Soweit die Zielabweichung zugunsten eines Vorhabens erfolgen soll, das der Erzeugung erneuerbarer Energien
+dient, ist bei der Ermessensausübung zudem zu berücksichtigen, dass dem Ausbau erneuerbarer Energien
+gesetzlich besonderes Gewicht eingeräumt wurde (vgl. § 2 EEG). Nur unter besonderen Umständen darf eine
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 16
+Zielabweichung trotz Vorliegen der raumordnerischen Vertretbarkeit und trotz Wahrung der Grundzüge der Pla-
+nung abgelehnt werden.
+Bestehen mehrere Möglichkeiten, wie die Behörde ihre Entscheidung ausgestalten kann, etwa wenn die
+Frage besteht, ob und inwieweit eine Zielabweichung einschränkungslos oder nur unter Nebenbestimmungen
+i. S. von § 36 VwVfG (z. B. Auflagen, Bedingungen, Befristungen) zugelassen wird, steht ihr ein Auswahlermes-
+sen zu. Grundsätzlich ist unter mehreren geeigneten Alternativen das für den Vorhabenträger mildeste Mittel
+zu wählen; zugleich ist aber auch auf die Angemessenheit und Effektivität von Nebenbestimmungen zu achten.
+Zu einer ordnungsgemäßen Bescheidung gehört auch die Dokumentation der Entscheidungserwägungen.
+Aufgrund der gesetzlichen Soll- Vorgabe können die Erwägungen, ob überhaupt eine Zielabweichung zugelas-
+sen werden soll, knappgehalten werden. Nachvollziehbar zu begründen sind die Ermessenserwägungen, wie
+die Zielabweichungsentscheidung konkret ausgestaltet werden soll, vor allem im Falle von Nebenbestimmun-
+gen. Eine nachvollziehbare Begründung ist ferner insbesondere auch dann erforderlich, wenn in besonders
+gelagerten Fällen entgegen der Soll-Vorgabe eine Zielabweichung trotz Vorliegen aller Voraussetzungen abge-
+lehnt wird.
+Gemäß § 3 Abs. 3 NKlimaG liegt die Durchführung von Vorhaben, die der Erreichung der in § 3 Abs. 1 Satz 1
+NKlimaG genannten Klimaziele dienen, im überragenden öffentlichen Interesse des Landes; dieses Interesse
+ist entsprechend zu gewichten. Die Landesverwaltung soll diesbezügliche Verfahren vorrangig führen. Im Übri-
+gen sind die Klimaziele des Landes zu berücksichtigen. Hierzu sind die jeweiligen Treibhausgaseinsparungen
+und -emissionen zu ermitteln; dies gilt nicht, soweit die Anforderung nach Halbsatz 1 nicht mit angemessenem
+Aufwand zu erfüllen ist.
+Die fehlende Darlegung notwendiger Entscheidungs- und Ermessenserwägungen führt zur gerichtlichen
+Aufhebbarkeit der Zielabweichungsentscheidung und zur Anfechtbarkeit der darauf aufbauenden Entscheidun-
+gen. Eine gänzlich unterbliebene Darlegung vo n Ermessenserwägungen kann nicht nachgeholt werden. Ledig-
+lich wenn die in einem Verwaltungsakt dargelegten Erwägungen nicht umfassend genug begründet wurden,
+kann im Einzelfall die Begründung nachträglich ergänzt werden (§ 45 VwVfG, § 114 VwGO). Sollten in einer
+Zielabweichungsentscheidung Entscheidungs - und Ermessenserwägungen gänzlich unterlieben sein, kommt
+nur in Betracht, die bestehende rechtswidrige Entscheidung schnellstmöglich aufzuheben und durch eine neue
+rechtmäßige Entscheidung zu ersetzen.
+2.6 B
+bauleitplanerische Ausweisung von
+Windenergiegebieten nach § 245 e Abs. 5 BauGB Träger der Bauleitplanung sind auch bei der Ausweisung von Gebieten für die Windenergienutzung an die
+Ziele der Raumordnung gebunden. § 249 Abs. 5 Satz 1 BauGB, wonach die Ziele der Raumordnung bei der
+Planung von Windenergiegebieten erforderlichenfalls nicht beachtet werden müssen, gilt nur für die Träger der
+Regionalplanung. Möchten Gemeinden und Samtgemeinden Windenergiegebiete bauleitplanerisch auf Flächen
+ausweisen, die im Bereich einer raumplanerischen Ausschlusswirkung, im Bereich eines Vorranggebietes für
+eine andere Nutzung oder im Anwendungsbereich eines sonstigen entgegenstehenden Zieles der Raumord-
+nung liegen sollen, ist dies nur im Wege einer Zielabweichung möglich.
+Für bestimmte Fallkonstellationen gelten hierfür – unbeschadet der Möglichkeit einer regulären Zielabwei-
+chung – besondere Voraussetzungen (§ 245 e Abs. 5 BauGB), die gemäß § 27 Abs. 4 ROG Vorrang vor den
+Bestimmungen des § 6 Abs. 2 ROG haben. Mithilfe des § 245 e BauGB lassen sich Ziele überwinden, die einen
+reinen Ausschluss von Windenergieanlagen bewirken. F estlegungen zu einer reinen Flächenfreihaltung ohne
+Positivfestlegung (sog. Negativziele) sind z. B. eine planerische Ausschlusswirkung für die Windenergienut-
+zung, Vorgaben zu Abständen zwischen Windparks, Vorgaben zu Abständen von Wohngebäuden zu Wind-
+energieanlagen oder Vorgaben zum Ausschluss der Windenergienutzung beispielsweise auf sämtlichen Wald-
+flächen. Solange solche Festlegungen – unabhängig von ihrer rechtlichen Zulässigkeit – in einem Raumord-
+nungsplan bestehen, sind sie grundsätzlich anzuwenden und nur durch Zielabweichung überwindbar.
+Die Anforderungen des § 6 Abs. 2 ROG, dass die Zielabweichung raumordnerisch vertretbar sein muss und
+die Grundzüge der Planung nicht berührt werden, gelten für Zielabweichungen zur Überwindung einer Aus-
+schlusswirkung nicht. Stattdessen setzt eine Zielabweichung i. S. des § 245 e Abs. 5 BauGB nur voraus, dass
+– die Gemeinde ein Gebiet zugunsten der Windenergienutzung plant, dass die Anforderungen des § 2
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 17
+Nr. 1 WindBG erfüllt und
+– ein Raumordnungsplan an der von der Gemeinde für Windenergienutzung geplanten Stelle kein Gebiet
+für eine mit der Windenergienutzung unvereinbare Nutzung oder Funktion festlegt.
+Gebiete, für die ein Raumordnungsplan eine mit der Windenergienutzung unvereinbare Nutzung oder Funk-
+tion festlegt, sind Gebiete, die in einem Raumordnungsplan räumlich bestimmt oder bestimmbar abgegrenzt
+sind und auf denen eine „Positivfestlegung“ zu gunsten einer konkreten Funktion oder Nutzung erfolgt ist, die
+gesichert oder entwickelt werden soll. Solche Gebiete sind insbesondere:
+– Vorranggebiete,
+– Zentrale Siedlungsgebiete i . S. von Kapitel 2.2 Ziffer 04 LROP,
+– Gebietsfestlegungen von städtebaulich integrierten Lagen (Versorgungskerne),
+– Standorte mit herausgehobener Bedeutung für die Nahversorgung i. S. von Kapitel 2.3 Ziffer 10 LROP,
+– Standorte für die Sicherung und Entwicklung von Wohnstätten,
+– Standorte für die Sicherung und Entwicklung von Arbeitsstätten,
+– Standorte mit der besonderen Entwicklungsaufgabe Erholung, wenn deren räumlicher Geltungsbereich
+und ihre Grenze hinreichend konkretisierbar ist ,
+– Standorte mit der besonderen Entwicklungsaufgabe Tourismus, wenn deren räumlicher Geltungsbe-
+reich und ihre Grenze hinreichend konkretisierbar ist.
+Keine „Gebiete“ sind Standorte, für die nur reine Punktsymbole festgelegt sind, sofern deren räumlicher
+Geltungsbereich und ihre Grenze nicht hinreichend konkretisierbar ist.
+Keine „Gebiete“ i. S. der Rückausnahme des § 245 e Abs. 5 BauGB sind Vorbehaltsgebiete oder Eignungs-
+gebiete, weil diesen die innergebietliche Verbindlichkeit und Qualität eines Ziele s der Raumordnung fehlt (ein
+Zielabweichungsverfahren also gar nicht erforderlich ist).
+Ob die Gebietsfestlegung tatsächlich mit der geplanten Windenergiegebietsplanung im Einklang steht oder
+mit der Windenergienutzung unvereinbar ist, ist anhand des jeweils konkreten Falls zu prüfen (vgl. Nummer
+1.2.4).
+Die ergänzenden landesrechtlichen Tatbestandsmerkmale des § 8 NROG, dass
+– das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
+und
+– das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4)
+bleiben unberührt (§ 27 Abs. 3 ROG).
+Die sachliche und räumliche Betroffenheit kann sich dabei zum einen aus den Auswirkungen ergeben, die
+eine Windenergieanlage auf andere Nutzungen oder Funktionen hat.
+Geht es um Auswirkungen auf den Ausschlussflächen, so können Bedenken nur insoweit geltend gemacht
+werden, wie es um rechtliche Verbote und Grenzen geht, die auch im immissionsschutzrechtlichen Zulassungs-
+verfahren zu beachten wären (z. B. Mindestabstände). Auf abwägbare Belange kann eine Versagung des Ein-
+vernehmens oder eine Ablehnung des Windenergievorhabens nicht gestützt werden (z. B. Vorsorgeabstände),
+weil § 245 e Abs. 5 BauGB gerade ihrer Überwindung dienen soll. Das gleiche gilt für Belange, die zu einer
+Windenergienutzung nicht im Widerspruch stehen.
+Hierauf, auf den Umstand, dass es um eine Zielabweichung zugunsten der Ausweisung von Windenergie-
+gebieten i. S. des § 245 e Abs. 5 BauGB geht sowie auf die damit verbundenen besonderen Voraussetzungen,
+hat die Landesplanungsbehörde in dem Anschreiben, mit dem die fachlich berührte Stellen um die Erteilung
+oder Versagung ihres Einvernehmens gebeten werden, hinzuweisen.
+Verweigert eine beteiligte Stelle ihr Einvernehmen aus Erwägungen, die ni
+cht auf der Betroffenheit der von
+ihr zu vertretenden Belange beruhen, gelten die Ausführungen zu N ummer 2.3.3 entsprechend: die
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 18
+Landesplanungsbehörde darf ein Einvernehmen weder annehmen noch ersetzen, sondern hat erforderlichen-
+falls die jeweilige Aufsichtsbehörde einzuschalten.
+Ist das beabsichtigte Windenergiegebiet mit Positiv-Festlegungen zugunsten anderer Funktionen oder Nut-
+zungen vereinbar und liegt der Zielverstoß lediglich in einem Widerspruch zu einer planerischen Ausschluss-
+wirkung oder zu einem „Negativziel“ begründet, hat die zuständige Landesplanungsbehörde dem Zielabwei-
+chungsantrag - ggf. unter Nebenbestimmungen - in der Regel zu entsprechen. Insbesondere auf eine Atypik
+oder eine eventuelle Präzedenzwirkung für vergleichbar gelagerte Folgefälle kommt es nicht an, da der Gesetz-
+geber die Regelhaftigkeit der Zielabweichung in den Fällen nach § 245 e Abs. 5 BauGB in Kauf genommen hat.
+Eine Ablehnung darf und sollte jedoch dann erfolgen, wenn der Landesplanungsbehörde im Bereich der
+Ausschlussfläche Umstände bekannt sind, die zweifelsfrei dazu führen, dass sich das beabsichtigte Windener-
+giegebiet auf der vorgesehenen Fläche nicht realisieren lässt (insbesondere Unvereinbarkeit mit rechtlichen
+Anforderungen/„harten Tabuzonen“). In einem solchen Fall besteht an einer Zielabweichung kein rechtliches
+Interesse.
+Eine Zielabweichung auf Basis des § 245 e Abs. 5 BauGB ist ebenfalls abzulehnen, wenn das beabsichtigte
+Windenergiegebiet mit Positiv-Festlegungen zugunsten anderer Funktionen oder Nutzungen nicht vereinbar ist.
+§ 245 e Abs. 5 BauGB schließt rechtlich nicht aus, die Zielabweichung nachrangig auch unter den Voraus-
+setzungen des § 6 Abs. 2 ROG i. V. m. § 8 NROG zu prüfen. Zu prüfen wäre dann, ob aufgrund besonders
+gelagerter Umstände des Einzelfalles die Abweichung von den entgegenstehenden Positiv-Festlegungen raum-
+ordnerisch vertretbar wäre und die Grundzüge der Planung nicht berührt wären.
+§ 245 e Abs. 5 BauGB ist nicht mehr anzuwenden, wenn das Erreichen des jeweiligen regionalen Teilflä-
+chenzieles für den Windenergieausbau festgestellt wurde, spätestens aber mit Ablauf des 31.12.2027. Antrags-
+berechtigt sind nicht auch die privaten Vorhabenträger, sondern ausschließlich die Träger der Bauleitplanung.
+3. Z
+
+3.1 Zuständigkeitsverteilung zwischen den Landesplanungsbehörden; Zustimmung zum Verfahrenser- gebnis
+Sind Ziele eines RROP und Ziele des LROP betroffen, ist die untere Landesplanungsbehörde zuständig. Die
+untere Landesplanungsbehörde hat die oberste Landesplanungsbehörde frühzeitig zu informieren, wenn ein
+Zielabweichungsantrag zu einem LROP- Ziel gestellt wurde. Ebenso hat sie die oberste Landesplanungsbe-
+hörde zu informieren, wenn die Betroffenheit oder Verletzung eines LROP-Zieles unklar ist und die Erforderlich-
+keit eines Zielabweichungsantrags zu einem LROP-Ziel zu prüfen ist.
+Hinsichtlich der Abweichung vom LROP hat die untere Landesplanungsbehörde das Einvernehmen der
+obersten Landesplanungsbehörde einzuholen (siehe Nummer 2.3).
+Gemäß § 19 Abs. 2 Satz 3 NROG bedarf das Verfahrensergebnis – zusätzlich zu einem erteilten Einverneh-
+men – der vorherigen Zustimmung der obersten Landesplanungsbehörde. Das Verfahrensergebnis umfasst
+sowohl die Entscheidung über die Abweichung vom RROP als auch die Entscheidung über die Abweichung
+vom LROP. Die Zustimmung umschließt eine vollständige Rechts- und Zweckmäßigkeitsprüfung des Entschei-
+dungsvorschlags der unteren Landesplanungsbehörde. Hierzu zählt nicht nur die Prüfung, ob die tatbestandli-
+chen Zielabweichungsvoraussetzungen vollständig geprüft wurden oder ob das Ermessen ordnungsgemäß
+ausgeübt wurde, sondern beispielsweise auch die Entscheidungsbefugnis, dass nach Bewertung aller (auch
+nicht-raumordnerischer) Umstände das Ermessen anders ausgeübt werden soll und zu einem anderen Verfah-
+rensergebnis führen soll, als von der unteren Landesplanungsbehörde vorgeschlagen (z. B. Ablehnung der Ziel-
+abweichung statt Zulassung oder umgekehrt).
+Das Zustimmungserfordernis zum Verfahrensergebnis besteht immer, also sowohl für den Fall, dass der
+Zielabweichung von einem Ziel des LROP stattgegeben werden soll, als auch in Fällen, in denen die Abwei-
+chung von einem Ziel des LROP abgelehnt wird oder in denen die untere Landesplanungsbehörde eine bean-
+tragte Abweichung von einem LROP-Ziel deshalb nicht zulässt, weil sie dieses Ziel für nicht verletzt hält.
+Die oberste Landesplanungsbehörde kann das Verfahren gemäß § 19 Abs. 2 Satz 4 NROG an sich ziehen,
+wenn es um ein Vorhaben mit besonderer Bedeutung geht, z. B. Ländergrenzen übergreifende Vorhaben mit
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 19
+hoher landespolitischer Bedeutung.
+3.2 S
+mverträg-
+lichkeitsprüfungen und Planfeststellungsverfahren Bei Vorhaben, für die ein förmliches Verfahren zur Prüfung der Raumverträglichkeit i. S. des § 15 ROG
+(Raumverträglichkeitsprüfung) erforderlich ist und bei Vorhaben, die einer Planfeststellungspflicht unterliegen,
+sind unterschiedliche Zeitpunkte denkbar, in denen sich die Notwendigkeit eines Zielabweichungsverfahrens
+ergibt. Je nachdem, wann konkret erkannt wird, ob eine raumbedeutsame Planung oder Maßnahme mit einem
+Ziel der Raumordnung in Widerspruch steht und inwieweit es zur Weiterverfolgung eines Vorhabens notwendig
+ist, frühzeitig über eine Zielabweichung zu entscheiden, sind folgende Ausführungen zur Zuständigkeit für die
+Verfahrensführung zu beachten.
+3.2.1 Z
+Raumverträglichkeitsprüfung Werden Zielkonflikte bereits während einer Raumverträglichkeitsprüfung i. S. des § 15 ROG erkannt, ist es
+in der Regel Aufgabe der Raumverträglichkeitsprüfung, abzustimmen, ob es raumverträglichere Alternativen
+gibt oder wie das Vorhaben bereits in einer frühen Planungsphase – z. B. mit einem parallel zur Raumverträg-
+lichkeitsprüfung geführten Zielabweichungsverfahren – mit den Zielen der Raumordnung in Einklang gebracht
+werden kann.
+Die Landesplanerische Feststellung, mit der die Raumverträglichkeitsprüfung i. S. des § 15 ROG endet, hat
+lediglich gutachtlichen Charakter.
+Wegen der unterschiedlichen Rechtsform der Entscheidungen kann die Landesplanerische Feststellung
+nach § 11 NROG nicht die an die gesetzlichen Voraussetzungen von § 6 Abs. 2 ROG und § 8 NROG gebun-
+dene, verbindliche Entscheidung über eine Zielabweichung ersetzen. Wird das Zielabweichungsverfahren zeit-
+lich parallel mit einer Raumverträglichkeitsprüfung durchgeführt und vor Fertigstellung der Landesplanerischen
+Feststellung abgeschlossen, ist auf das Ergebnis des Zielabweichungsverfahrens in der Landesplanerischen
+Feststellung einzugehen.
+Für das separat zu führende Zielabweichungsverfahren gelten die Ausführungen zur Zuständigkeit in Num-
+mer 3.1.
+3.2.2 Z
+Zulassungsverfahren Insbesondere planfeststellungsbedürftige Vorhaben erfordern regelmäßig zeit- und kostenintensive Vorar-
+beiten. Ähnlich wie eine Raumverträglichkeitsprüfung i. S. des § 15 ROG sollte auch ein Zielabweichungsver-
+fahren frühzeitig und vorab als selbständiges Verfahren durchgeführt werden, um die (unabdingbare) Verein-
+barkeit eines Vorhabens mit den Zielen der Raumordnung und seine raumordnerische Zulässigkeit bereits in
+einer frühen Planungsphase herzustellen oder Planungsvarianten auszuschließen, die nicht realisierungsfähig
+sind. Ein dem Zulassungsverfahren vorgeschaltetes Zielabweichungsverfahren wird nicht von der Konzentrati-
+onswirkung eines Planfeststellungsverfahrens oder einer immissionsschutzrechtlichen Zulassung erfasst, da
+sich die Konzentrationswirkung nur auf der konkreten Zulassungsebene, nicht aber auf einer zeitlich vorgela-
+gerten Verfahrensstufe entfalten kann. Vielmehr bedarf es bei frühzeitig erkannten Zielkonflikten einer Zulas-
+sung der Zielabweichung durch die nach § 19 NROG zuständige Landesplanungsbehörde. Es gelten die Aus-
+führungen zur Zuständigkeit in Nummer 3.1.
+3.2.3 Z
+oder im-
+missionsschutzrechtlichem Zulassungsverfahren Wird die Notwendigkeit einer Zielabweichung erst im Planfeststellungsverfahren oder im immissionsschutz-
+rechtlichen Zulassungsverfahren erkannt und erst dann über die raumordnerische Zulässigkeit eines Vorhabens
+entschieden, entscheidet die Planfeststellungs- oder Immissionsschutzbehörde innerhalb des Zulassungsver-
+fahrens über die Zielabweichung (formelle Konzentrationswirkung). Nach außen tritt nur die Zulassungsbehörde
+in Erscheinung, die Verfahrensvorschriften des Fach- und Raumordnungsrechts werden durch das Zulassungs-
+verfahren ersetzt und die Zielabweichungsentscheidung ist Bestandteil des Planfeststellungsbeschlusses oder
+der immissionsschutzrechtlichen Zulassungsentscheidung.
+Die inhaltlichen Anforderungen an eine Zielabweichung bleiben hingegen auch im Planfeststellungs- oder
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 20
+immissionsschutzrechtlichen Zulassungsverfahren bestehen (keine materielle Konzentrationswirkung).
+Das bedeutet für Planfeststellungsverfahren: Anders als Grundsätze der Raumordnung, in Aufstellung be-
+findliche Ziele und sonstige Erfordernisse der Raumordnung unterfallen Ziele der Raumordnung als zwingend
+zu beachtende Vorgaben nicht der Abwägung der Planfeststellungsbehörde (§ 4 Abs. 1 Satz 1 Nr. 3 ROG).
+Die Zielkonformität ist unabdingbare Zulassungsvoraussetzung für das planfeststellungspflichtige Vorhaben
+(die Bindungswirkung von Zielen der Raumordnung entfällt nur in solchen Fällen, wo dies durch Fachgesetz
+oder durch § 5 ROG vorgesehen ist). Eine Planfeststellung kann bei Vorliegen eines Zielverstoßes nur erfol-
+gen, wenn die Voraussetzungen zur Zulassung einer Zielabweichung gemäß § 6 Abs. 2 ROG und § 8 NROG
+erfüllt sind, wenn also neben der raumordnerischen Vertretbarkeit der Abweichung und der Einhaltung der
+Grundzüge der Raumordnungsplanung die Planfeststellungsbehörde das Benehmen mit den betroffenen Ge-
+meinden hergestellt hat und alle von der Zielabweichung in ihren Belangen berührten öffentlichen Stellen ge-
+genüber der Planfeststellungsbehörde ihr Einvernehmen erteilt haben.
+Für immissionsschutzrechtliche Zulassungsverfahren bedeutet es: sofern die Ziele der Raumordnung im
+Zulassungsverfahren gemäß § 4 Abs. 1 Satz 1 Nrn. 1 und 2, Sätze 2 und 3, Abs. 2 oder Abs. 3 ROG zu beachten
+sind, ist die Zielkonformität unabdingbare Zulassungsvoraussetzung. Eine immissionsschutzrechtliche Geneh-
+migung kann bei Vorliegen eines Zielverstoßes nur erfolgen, wenn die Voraussetzungen zur Zulassung einer
+Zielabweichung gemäß § 6 Abs. 2 ROG und § 8 NROG erfüllt sind, wenn also neben der raumordnerischen
+Vertretbarkeit der Abweichung und der Einhaltung der Grundzüge der Raumordnungsplanung die Immissions-
+schutzbehörde das Benehmen mit den betroffenen Gemeinden hergestellt hat und alle von der Zielabweichung
+in ihren Belangen berührten öffentlichen Stellen gegenüber der Genehmigungsbehörde ihr Einvernehmen erteilt
+haben.
+Zu den in ihren Belangen berührten öffentlichen Stellen zählen bei Betroffenheit eines RROP unabdingbar
+die zuständigen Regionalplanungsträger sowie bei Betroffenheit des LROP die oberste Landesplanungsbe-
+hörde. Bei einer Zielabweichung für in Aufstellung befindliche Ziele in einem RROP ist auch die obere Landes-
+planungsbehörde zu beteiligen (vgl. Nummer 2.3.1).
+Die Einvernehmenserteilung geht über die im Zulassungsverfahren durchzuführende Anhörung berührter
+öffentlicher Stellen hinaus, weil das Einvernehmen oder dessen Verweigerung keiner Abwägung der Planfest-
+stellungs- oder Immissionsschutzbehörde zugänglich ist. Bei der Erteilung des Einvernehmens handelt es sich
+insofern nicht um eine bloße Stellungnahme im Rahmen der normalen Beteiligung. Da ein nicht erteiltes Ein-
+vernehmen mangels gesetzlicher Ermächtigungsgrundlage nicht ersetzt werden kann (siehe Nummer 2.3.3),
+kann die Planfeststellungs- oder Immissionsschutzbehörde bei fehlendem Einvernehmen die Zielabweichung
+nicht zulassen und folglich den Planfeststellungsbeschluss oder die Genehmigung nicht erlassen.
+Die vorgenannten Erfordernisse bestehen auch, wenn im Vorfeld des Planfeststellungs- oder Genehmi-
+gungsverfahrens bereits eine Raumverträglichkeitsprüfung durchgeführt und mit einer Landesplanerischen
+Feststellung abgeschlossen wurde. Wegen der Selbständigkeit der Verfahren und ihrer unterschiedlichen
+Rechtswirkungen kann eine Landesplanerische Feststellung nach § 11 NROG nicht das Einvernehmen der
+Landesplanungsbehörde zu einer Zielabweichung ersetzen.
+Stellt eine im Planfeststellungsverfahren oder immissionsschutzrechtlichen Genehmigungsverfahren betei-
+ligte untere Landesplanungsbehörde fest, dass das beantragte Vorhaben gegen ein im LROP festgelegtes Ziel
+der Raumordnung verstößt, soll sie die Planfeststellungsbehörde auf die Notwendigkeit des Einvernehmens der
+obersten Landesplanungsbehörde zu einer etwaigen Zielabweichung hinweisen. Sie soll außerdem die oberste
+Landesplanungsbehörde informieren.
+4. W
+- und Formerfordernisse, Kosten
+4.1 Weitere Verfahrens- und Formerfordernisse Erfolgt die Zielabweichungsentscheidung allein zwischen Behörden – unabhängig davon, ob diese dem glei-
+chen oder unterschiedlichen Rechtsträgern angehören – liegt in der Regel mangels Außenwirkung kein Verwal-
+tungsakt vor (z. B. von der unteren Landesplanungsbehörde bei einem Landkreis an eine andere Stelle des
+Landkreises, die für die Zulassung eines raumbedeutsamen Vorhabens zuständig ist, zu dessen Gunsten eine
+Zielabweichung beantragt wurde). Ergeht die Zielabweichungsentscheidung gegenüber einer Privatperson oder
+gegenüber einer anderen öffentlichen Stelle im eigenen Wirkungskreis ( z. B. durch die untere
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 21
+Landesplanungsbehörde gegenüber einer Gemeinde als Trägerin der Bauleitplanung), ist aufgrund der Außen-
+wirkung ein Verwaltungsakt gegeben.
+Adressat des Bescheides ist der Antragsteller. Wird die Zielabweichung für eine Maßnahme durch einen
+privaten Vorhabenträger beantragt, kann der Bescheid auch an die öffentliche Stelle gerichtet werden, die über
+die Genehmigung für die Maßnahme zu entscheiden hat. Zumindest ist der Bescheid über die Zielabweichung
+dieser Stelle nachrichtlich bekannt zu geben.
+Soweit ein Zielabweichungsbescheid mit Außenwirkung als raumordnerischer Verwaltungsakt ergeht, finden
+ergänzend die Bestimmungen des VwVfG i. V. m. § 1 NVwVfG Anwendung, insbesondere die besonderen
+Bestimmungen der §§ 35 ff. VwVfG. Vor Ablehnung der beantragten Zielabweichung oder vor Zulassung der
+Zielabweichung unter belastenden Nebenbestimmungen soll der Antragsteller Gelegenheit zur Stellungnahme
+erhalten (§ 28 VwVfG).
+Die Entscheidung über die Zielabweichung ist zu begründen (§ 39 VwVfG). Dabei sind neben den Rechts-
+grundlagen die wesentlichen tatsächlichen und rechtlichen Gründe mitzuteilen, die die Behörde zu ihrer Ent-
+scheidung bewogen haben. Die Begründungspflicht bezieht sich auf jedes einzelne Tatbestandsmerkmal und
+auf die Entscheidungserwägungen, insbesondere, wenn entgegen der Soll-Vorgabe die Zielabweichung trotz
+Vorliegen der raumordnerischen Vertretbarkeit und der Wahrung der Grundzüge der Planung nicht zugelassen
+wird. Wird dies nicht ausreichend nachvollziehbar in der Entscheidung dokumentiert, führt dies nicht nur zur
+Anfechtbarkeit der Zielabweichungsentscheidung, sondern auch zur rechtlichen Angreifbarkeit der auf der Ziel-
+abweichung beruhenden weiteren Planungen oder Genehmigungen. Etwaige Nebenbestimmungen (§ 36
+VwVfG) sind ebenfalls zu begründen.
+Liegt mangels Außenwirkung kein Verwaltungsakt vor, sind die Vorschriften über Nebenbestimmungen und
+zur Begründung von Verwaltungsakten analog anzuwenden. Die Begründung der Zielabweichung einschließlich
+eventueller Nebenbestimmungen nach außen erfolgt in diesen Fällen im Rahmen der zugrundeliegenden
+Hauptentscheidung, beispielsweise der Entscheidung über die Genehmigung eines Flächennutzungsplans oder
+eines Bauvorhabens.
+Ergeht der Zielabweichungsbescheid als Verwaltungsakt der Landesplanungsbehörde, ist er mit einer
+Rechtsbehelfsbelehrung (§ 37 Abs. 6 VwVfG) nach folgendem Muster zu versehen:
+„Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Klage bei dem Verwaltungsgericht
+(einfügen: Bezeichnung des zuständigen Verwaltungsgerichts) in (einfügen: Sitz des zuständigen Verwaltungs-
+gerichts) erhoben werden.“
+Ist die Belehrung unterblieben oder fehlerhaft, läuft gemäß § 58 Abs. 2 VwGO grundsätzlich die Jahresfrist
+für die Einlegung eines Rechtsbehelfs.
+Wird ein Antrag auf Zielabweichung während des Verfahrens zurückgezogen und ein Verfahren vor der
+Entscheidung eingestellt, sind die bis dahin beteiligten Stellen über die Einstellung des Verfahrens zu informie-
+ren.
+4.2 K
+Außer in Fällen des § 2 NVwKostG ist die Entscheidung über eine Zielabweichung sowohl im Falle der Zu-
+lassung als auch im Falle der Ablehnung gebührenpflichtig; die Höhe der Gebühren richtet sich nach Num-
+mer 71 des Gebührentarifs der AllGO. Für die Erstattung etwaiger notwendiger Auslagen gilt § 13 NVwKostG.
+In der Entscheidung über die Zielabweichung ist eine Kostenentscheidung dem Grunde nach zu treffen und
+zu bestimmen, wer nach § 5 NVwKostG etwaige Kosten zu tragen hat. Die genaue Festsetzung der Höhe der
+Kosten kann in einem separaten, mit einer Rechtsbehelfsbelehrung verbundenen Kostenfestsetzungsbescheid
+erfolgen.
+Wird über eine Zielabweichung innerhalb eines Verfahrens mit Konzentrationswirkung entschieden (siehe
+Nummer 3.2.3), ist zu prüfen, ob ein Anwendungsfall der Kostenbeteiligungs-Verordnung vom 10.06.1991 (Nds.
+GVBl. S. 215) nach § 4 Abs. 2 NVwKostG für eine Mitwirkungsleistung der Landesplanungsbehörde vorliegt.
+Andernfalls können keine Kosten für die Entscheidung über eine Zielabweichung geltend gemacht werden.
+
+Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024 Seite 22
+5. Sonderfall: feststellender Bescheid über Nichtvorliegen eines Zielverstoßes
+Im Einzelfall kann zwischen Vorhabenträgern und betroffenen Dritten Uneinigkeit darüber bestehen, ob ein
+raumbedeutsames Vorhaben mit den Zielen der Raumordnung unvereinbar ist. Geht die zuständige Landes-
+planungsbehörde von der Vereinbarkeit mit den Zielen der Raumordnung aus, ergeht im Normalfall kein förm-
+licher Bescheid, sondern allenfalls ein formloses Anschreiben mit einem entsprechenden Hinweis, dass das
+Vorhaben im Einklang mit dem Ziel der Raumordnung realisiert werden kann und daher auch ein Zielabwei-
+chungsverfahren nicht erforderlich ist. Mangels eines rechtlich angreifbaren Verfahrensgegenstandes würde
+eine gerichtliche Klärung der Streitfrage erst inzident im Rahmen einer Klage gegen die Planung oder gegen
+die Vorhabensgenehmigung erfolgen können.
+Insbesondere wenn ein Vorhaben zeit- und kostenintensive Vorarbeiten erfordert, kann ein erhebliches In-
+teresse der Beteiligten an einer frühzeitigen und isolierten Vorabklärung der Raumordnungskonformität beste-
+hen. Zur Erreichung einer frühzeitigen Rechtssicherheit für den Vorhabenträger besteht die Möglichkeit, durch
+feststellenden Verwaltungsakt die Vereinbarkeit eines raumbedeutsamen Vorhabens mit Zielen der Raumord-
+nung festzustellen. Ein solch feststellender Bescheid ist selbstständig gerichtlich anfechtbar. Ein feststellender
+Bescheid ist kein Ersatzinstrument für andere Prüfverfahren. Sind für die Beurteilung ( insbesondere der Raum-
+verträglichkeit) beispielsweise zunächst eine Raumverträglichkeitsprüfung oder die Erstellung von Gutachten
+erforderlich, kann ein Vorhabenträger sie nicht durch einen Antrag auf feststellenden Bescheid umgehen.
+6. S
+Dieser RdErl. tritt am 25.06.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass tritt
+mit Ablauf des 24.06.2024 außer Kraft.
+
+An
+die Region Hannover, Landkreise und kreisfreien Städte, Stadt Göttingen
+den Regionalverband Großraum Braunschweig
+die Ämter für regionale Landesentwicklung
+Nachrichtlich:
+A
+n die
+Arbeitsgemeinschaft der kommunalen Spitzenverbände

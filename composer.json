@@ -1,0 +1,31 @@
+{
+    "name": "k00ni/verkuendung-niedersachsen-plaintext",
+    "description": "Inhalte von Verkündungsplattform (verkuendung-niedersachsen.de) bereitgestellt als Plaintext.",
+    "keywords": [],
+    "type": "project",
+    "license": "CC-BY-4.0",
+    "authors": [
+        {
+            "name": "Konrad Abicht",
+            "email": "hi@inspirito.de"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "smalot/pdfparser": "^2.11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VerkuendungNiedersachsenPlaintext\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PerformanceTests\\": "tests/Performance/",
+            "PHPUnitTests\\": "tests/PHPUnit/"
+        }
+    },
+    "config": {
+        "process-timeout": 1200
+    }
+}

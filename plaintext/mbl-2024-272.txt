@@ -1,0 +1,634 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 13. Juni 2024 Nummer 272
+
+Ministerium für Inneres und Sport
+
+Satzung
+über die Grundsätze zur Sicherung guter wissenschaftlicher Praxis und
+Verfahrensregeln für den Umgang mit wissenschaftlichem Fehlverhalten
+an der Polizeiakademie Niedersachsen
+Bek. d. MI v. 13.06.2024 – 01515 –
+
+Die Konferenz der Polizeiakademie Niedersachsen hat gemäß § 2 Abs. 1 Nrn. 4 und 5 i. V. m. § 7 Abs. 2
+Nr. 1 des Gesetzes über die Polizeiakademie Niedersachsen vom 13.09.2007 (Nds. GVBl. S. 444) auf ihrer
+60. Sitzung vom 18.09.2023 die nachfolgende Satzung beschlossen:
+Satzung
+über die Grundsätze zur Sicherung guter wissenschaftlicher Praxis und
+Verfahrensregeln für den Umgang mit wissenschaftlichem Fehlverhalten
+an der Polizeiakademie Niedersachsen
+
+Inhaltsübersicht
+Präambel
+Abschnitt I: Prinzipien guter wissenschaftlicher Praxis
+§ 1 Reichweite dieser Richtlinie
+§ 2 Einzelne Prinzipien guter wissenschaftlicher Praxis
+§ 3 Berufsethos der wissenschaftlich Tätigen
+§ 4 Organisationsverantwortung der Leitung der Polizeiakademie Niedersachsen
+§ 5 Verantwortung der Leiterinnen und Leiter von Arbeitseinheiten
+§ 6 Bewertung wissenschaftlicher Leistung
+§ 7 Phasenübergreifende Qualitätssicherung
+§ 8 Beteiligte Akteure, Verantwortlichkeiten, Rollen
+§ 9 Forschungsdesign
+§ 10 Rechtliche und ethische Rahmenbedingungen der Forschung
+§ 11 Nutzungsrechte
+§ 12 Methoden und Standards
+§ 13 Dokumentation
+§ 14 Herstellung von öffentlichem Zugang zu Forschungsergebnissen
+§ 15 Autorschaft
+§ 16 Publikationsorgane
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 2
+§ 17 Vertraulichkeit und Neutralität bei Begutachtungen und Beratungen
+Abschnitt II: Ombudswesen
+§ 18 Ombudspersonen
+§ 19 Ombudstätigkeit
+Abschnitt III: Verfahren im Umgang mit wissenschaftlichem Fehlverhalten
+§ 20 Allgemeine Prinzipien für den Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens
+§ 21 Tatbestände wissenschaftlichen Fehlverhaltens
+§ 22 Einleitung einer Untersuchung
+§ 23 Vorprüfung
+§ 24 Untersuchungskommission
+§ 25 Gang der förmlichen Untersuchung
+§ 26 Abschluss des Verfahrens
+§ 27 Mögliche Sanktionen und Maßnahmen
+§ 28 Übergangsvorschriften/Anwendung bei Verlassen der Polizeiakademie Niedersachsen
+§ 29 Inkrafttreten
+
+Präambel
+¹Im Sinne des Leitbildes der Polizeiakademie Niedersachsen (PA NI) kommt der Wissensgewinnung und
+Reflexion in der Polizei eine wichtige Rolle zu. ² Die den unabhängigen , kritischen und allein wissenschaftlichen
+Gütekriterien verpflichtete Forschung wird auch zu diesem Zweck gefördert. ³ Jede Wissenschaftlerin und jeder
+Wissenschaftler trägt die Verantwortung dafür, dass das eigene Verhalten den Standards guter wissenschaft-
+licher Praxis entspricht. ⁴ Die Leitung der PA NI trägt die Zuständigkeit und die Organisationsverantwortung für
+die Einhaltung der guten wissenschaftlichen Praxis an der PA NI.
+⁵Die mit Inkrafttreten geltenden Prinzipien guter wissenschaftlicher Praxis wurden auf der Grundlage der
+„Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG) vom
+April 2022 und der „Mustersatzung zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Ver-
+dachtsfällen wissenschaftlichen Fehlverhaltens“ der Hochschulrektorenkonferenz (HRK) vom Mai 2022 erar-
+beitet und setzen diese um. ⁶Sie sind für alle Personen an der PA NI, die forschend oder forschungsunterstüt-
+zend tätig sind, rechtlich verbindlich.
+⁷Die vorliegende Satzung wird den wissenschaftlich tätigen Angehörigen der PA NI bekannt gegeben. Auf
+die Verpflichtung zur Einhaltung wird ausdrücklich hingewiesen.
+Abschnitt I: Prinzipien guter wissenschaftlicher Praxis
+§ 1
+Reichweite dieser Satzung
+(1) ¹Die einzuhaltenden Prinzipien guter wissenschaftlicher Praxis nach dieser Satzung werden den an der
+PA NI wissenschaftlich Tätigen auf der Internetpräsenz der PA NI bekanntgegeben. ²Auf das Inkrafttreten
+dieser Satzung werden zusätzlich alle arbeitsrechtlich angestellten und verbeamteten wissenschaftlich Tätigen
+elektronisch a ufmerksam gemacht.
+(2) Alle an der PA NI w issenschaftlich Tätigen sind verpflichtet und dafür verantwortlich, die Regeln guter
+wissenschaftlicher Praxis einzuhalten.
+(3) Arbeits- und dienstrechtliche Rechte und Pflichten bleiben von dieser Satzung unberührt.
+§ 2
+Einzelne Prinzipien guter wissenschaftlicher Praxis
+Zu den Prinzipien guter wissenschaftlicher Praxis gehört es insbesondere,
+1. lege artis zu arbeiten,
+2. strikte Ehrlichkeit im Hinblick auf die eigenen und die Beiträge Dritter zu wahren,
+3. alle Ergebnisse konsequent selbst anzuzweifeln und
+4. einen kritischen Diskurs in der wissenschaftlichen Gemeinschaft zuzulassen und zu fördern.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 3
+§ 3
+Berufsethos der wissenschaftlich Tätigen
+(1) Die Vermittlung der Grundlagen guten wissenschaftlichen Arbeitens beginnt zu einem frühestmöglichen
+Zeitpunkt in der wissenschaftlichen Ausbildung (einschließlich Lehre) und Laufbahn.
+(2) Wissenschaftlich Tätige stehen für die grundlegenden Werte wissenschaftlichen Arbeitens ein.
+(3) ¹Unter Einbeziehung aller Karriereebenen durchlaufen die wissenschaftlich Tätigen einen stetigen Pro-
+zess des Lernens und der Weiterbildung im Hinblick auf die gute wissenschaftliche Praxis. ²Sie tauschen sich
+dazu aus und unterstützen einander.
+§ 4
+Organisationsverantwortung der Leitung der PA NI
+(1) Der Leitung der PA NI kommt die Zuständigkeit und die Organisationsverantwortung für die Einhaltung
+der guten wissenschaftlichen Praxis an der PA NI zu.
+(2) ¹Die Leitung der PA NI schafft die Rahmenbedingungen für regelkonformes wissenschaftliches Arbeiten
+an der PA NI, indem sie eine insoweit zweckmäßige institutionelle Organisationsstruktur etabliert. ² Auf diese
+Weise schafft die Leitung die Voraussetzungen dafür, dass wissenschaftlich Tätige rechtliche und ethische
+Standards einhalten können.
+(3) An der PA NI sind durch folgende Maßnahmen klare Verfahren und Grundsätze für die Personalauswahl
+und -entwicklung schriftlich festgelegt, wobei Chancengleichheit und Diversität/Vielfältigkeit besondere Bedeu-
+tung zukommt:
+– Personalentwicklung an der PA NI – Gesamtversion – in der jeweils geltenden Fassung;
+– Gleichstellungsplan für die PA NI in der jeweils geltenden Fassung.
+(4) ¹Forschende sollen in frühen Karrierephasen gefördert werden. ²In den Projekten, in denen wissen-
+schaftlicher Nachwuchs beteiligt ist, wird die Förderung und Betreuung durch die jeweiligen Projektleitungen
+verantwortet.
+§ 5
+Verantwortung der Leitungen von Arbeitseinheiten
+(1) Die Leitung einer wissenschaftlichen Arbeitseinheit ist für die gesamte von ihr geleitete Einheit verant-
+wortlich.
+(2) Die Verantwortung der Leitung einer wissenschaftlichen Arbeitseinheit umfasst insbesondere die Ver-
+pflichtung zur individuellen, in das Gesamtkonzept der PA NI eingebetteten Betreuung des wissenschaftlichen
+Nachwuchses, zur Förderung der Karrieren von wissenschaftlichem und wissenschaftsakzessorischem Per-
+sonal sowie für die Vermittlung der Grundsätze wissenschaftlicher Redlichkeit.
+(3) Die Zusammenarbeit in den wissenschaftlichen Arbeitseinheiten ist so beschaffen, dass die Einheit als
+Ganze ihre Aufgaben erfüllen kann, die dafür nötige Kooperation und Koordination erfolgen und allen Mitglie-
+dern der Arbeitseinheiten ihre Rollen, Rechte und Pflichten bewusst sind.
+(4) Machtmissbrauch und dem Ausnutzen von Abhängigkeitsverhältnissen wird durch geeignete organisa-
+torische Maßnahmen sowohl auf der Ebene der einzelnen Arbeitseinheiten als auch auf der Ebene der Leitung
+der PA NI entgegengewirkt.
+(5) Wissenschaftlich Tätige genießen ein der Karrierestufe angemessenes Verhältnis von Unterstützung
+und Eigenverantwortung.
+§ 6
+Bewertung wissenschaftlicher Leistung
+¹Sofern eine wissenschaftliche Leistung bewertet wird, erfolgt die Bewertung nach einem mehrdimensio-
+nalen Ansatz. ² Einen bedeutenden Bestandteil der Bewertung stellt die wissenschaftliche Leistung dar, die in
+erster Linie nach qualitativen Maßstäben zu bewerten ist. ³Quantitative Indikatoren können differenziert und
+reflektiert in die Gesamtbewertung einfließen. ⁴Neben der wissenschaftlichen Leistung können weitere As-
+pekte Berücksichtigung finden.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 4
+§ 7
+Phasenübergreifende Qualitätssicherung
+(1) ¹Wissenschaftlich Tätige führen jeden Teilschritt des Forschungsprozesses lege artis aus. ²Eine konti-
+nuierliche und phasenübergreifende Qualitätssicherung findet statt.
+(2) ¹Die Herkunft von im Forschungsprozess verwendeten Daten, Organismen, Materialien und Software
+wird unter Zitation der Originalquellen kenntlich gemacht und es wird belegt, welche Maßgaben für die Nach-
+nutzung gelten. ²Wenn öffentlich zugängliche Software verwendet wird, muss diese persistent und zitierbar
+unter Anführung des Quellcodes dokumentiert werden, soweit dies möglich und zumutbar ist.
+(3) Art und Umfang von im Forschungsprozess entstehenden Forschungsdaten werden schriftlich doku-
+mentiert und nachvollziehbar beschrieben.
+(4) Essenzieller Bestandteil der Qualitätssicherung ist, dass es anderen wissenschaftlich Tätigen ermög-
+licht wird, Ergebnisse bzw. Erkenntnisse zu replizieren.
+(5) ¹Wenn wissenschaftliche Erkenntnisse öffentlich zugänglich gemacht werden (auch über andere Wege
+als Publikationen), sind die angewandten Mechanismen der Qualitätssicherung stets zwingend darzulegen.
+²Wenn im Nachhinein Unstimmigkeiten oder Fehler zu solchen Erkenntnissen auffallen oder auf solche hinge-
+wiesen wird, werden diese berichtigt.
+§ 8
+Beteiligte Akteure, Verantwortlichkeiten, Rollen
+(1) Die Rollen und Verantwortlichkeiten der an einem Forschungsvorhaben beteiligten wissenschaftlich
+Tätigen müssen in geeigneter Weise festgelegt werden und zu jedem Zeitpunkt klar nachvollziehbar sein.
+(2) Sofern es erforderlich wird, erfolgt eine Anpassung der Rollen und Verantwortlichkeiten innerhalb der
+wissenschaftlichen Arbeitseinheit.
+§ 9
+Forschungsdesign
+(1) ¹Wissenschaftlich Tätige berücksichtigen bei der Planung eines Vorhabens den aktuellen Forschungs-
+stand umfassend und erkennen ihn an. ²Dies setzt in der Regel eine sorgfältige Recherche nach bereits öf-
+fentlich zugänglichen Forschungsleistungen voraus.
+(2) Die Leitung der PA NI stellt die für diese Recherche erforderlichen Rahmenbedingungen im Rahmen
+ihrer haushalterischen Möglichkeiten sicher.
+(3) Wissenschaftlich Tätige wenden Methoden zur Vermeidung von (auch unbewussten) Verzerrungen bei
+der Interpretation von Befunden an, soweit dies möglich und zumutbar ist.
+(4) Wissenschaftlich Tätige prüfen, ob und inwiefern Geschlecht und Vielfältigkeit für das Forschungsvor-
+haben bedeutsam sein können.
+§ 10
+Rechtliche und ethische Rahmenbedingungen der Forschung
+(1) Wissenschaftlich Tätige gehen mit der ihnen verfassungsrechtlich gewährten Forschungsfreiheit ver-
+antwortungsvoll um.
+(2) ¹Die Leitung der PA NI trägt die Sorge für die Regelkonformität des Handelns der Angehörigen der PA
+NI und befördert die Regelkonformität durch geeignete Organisationsstrukturen.
+(3) Die PA NI etabliert eine Ethik-Kommission, um verbindliche Grundsätze für die Forschungsethik zu
+erarbeiten; auf die jeweils gültige Fassung der Satzung der Ethikkommission wird verwiesen.
+(4) Wissenschaftlich Tätige beachten bei ihrem Verhalten ihre Rechte und Pflichten, insbesondere solche,
+die aus gesetzlichen Vorgaben und aus Verträgen mit Dritten resultieren.
+(5) Wissenschaftlich Tätige holen Genehmigungen und Ethikvoten ein, sofern dies erforderlich ist, und le-
+gen sie den zuständigen Stellen vor.
+(6) ¹Wissenschaftlich Tätige machen sich die Gefahr des Missbrauchs von Forschungsergebnissen konti-
+nuierlich bewusst, insbesondere bei sicherheitsrelevanter Forschung. ²Forschungsfolgen werden dabei gründ-
+lich abgeschätzt, ethische Implikationen der Forschung beurteilt.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 5
+§ 11
+Nutzungsrechte
+(1) Wissenschaftlich Tätige treffen zum frühestmöglichen Zeitpunkt dokumentierte Vereinbarungen über
+die Nutzungsrechte an aus den Forschungsvorhaben hervorgehenden Daten und Ergebnissen.
+(2) Die Nutzung von Daten und Ergebnissen steht insbesondere denjenigen wissenschaftlich Tätigen zu,
+die die Daten erhoben haben.
+(3) Die Nutzungsberechtigten treffen Regelungen zu der Frage, ob und wie Dritte Zugang zu den For-
+schungsdaten erhalten.
+§ 12
+Methoden und Standards
+(1) Bei der Forschung werden wissenschaftlich fundierte und nachvollziehbare Methoden angewandt.
+(2) Bei der Entwicklung und Anwendung neuer Methoden legen wissenschaftlich Tätige besonderen Wert
+auf die Qualitätssicherung und auf die Etablierung von Standards.
+§ 13
+Dokumentation
+(1) ¹Wissenschaftlich Tätige dokumentieren alle für das Zustandekommen eines Forschungsergebnisses
+relevanten Informationen so nachvollziehbar, wie es im betroffenen Fachgebiet erforderlich und angemessen
+ist, um das Ergebnis überprüfen und bewerten zu können und eine Replikation zu ermöglichen. ² Sofern für die
+Überprüfung und Bewertung konkrete fachliche Empfehlungen existieren, nehmen die wissenschaftlich Täti-
+gen die Dokumentation entsprechend der jeweiligen Vorgaben vor. ³ Bei der Entwicklung von Forschungssoft-
+ware wird deren Quellcode dokumentiert, soweit dies möglich und zumutbar ist.
+(2) ¹Auch Einzelergebnisse, die die eigene Hypothese nicht stützen, werden grundsätzlich dokumentiert.
+²Eine Selektion von Ergebnissen ist unzulässig.
+(3) Wird die Dokumentation den Anforderungen nach Absätzen 1 und 2 nicht gerecht, sind die Einschrän-
+kungen und Gründe dafür nachvollziehbar schriftlich darzulegen.
+(4) ¹Dokumentationen und Forschungsergebnisse dürfen nicht manipuliert werden. ²Sie sind bestmöglich
+gegen Manipulation zu schützen.
+§ 14
+Herstellung von öffentlichem Zugang zu Forschungsergebnissen
+(1) Grundsätzlich bringen wissenschaftlich Tätige all ihre Ergebnisse in den wissenschaftlichen Diskurs ein.
+(2) ¹Im Einzelfall kann es Gründe geben, Ergebnisse nicht öffentlich zugänglich zu machen. ² Die Entschei-
+dung der Zugänglichmachung darf grundsätzlich nicht von Dritten abhängen; vielmehr entscheiden wissen-
+schaftlich Tätige grundsätzlich in eigener Verantwortung und unter Berücksichtigung der Gepflogenheiten des
+jeweiligen Fachgebiets, ob, wie und wo sie ihre Ergebnisse öffentlich zugänglich machen. ³Ausnahmen sind
+insbesondere dort statthaft, wo Rechte Dritter betroffen sind, Patentanmeldungen in Aussicht stehen, es sich
+um Auftragsforschung oder um sicherheitsrelevante Forschung handelt.
+(3) ¹Werden Ergebnisse öffentlich zugänglich gemacht, werden sie vollständig und nachvollziehbar be-
+schrieben. ²Hierzu gehört es auch, die den Ergebnissen zugrundeliegenden Forschungsdaten, Materialien und
+Informationen, die angewandten Methoden und eingesetzte Software verfügbar zu machen, soweit dies mög-
+lich und zumutbar ist. ³Dies geschieht nach den sog. FAIR-Prinzipien: Findable, Accessible, Interoperable, Re-
+Usable. ⁴ Ausnahmen sind im Kontext von Patentanmeldungen statthaft.
+(4) ¹Selbst programmierte Software wird dabei unter Angabe ihres Quellcodes zugänglich gemacht, soweit
+dies möglich und zumutbar ist. ² Gegebenenfalls erfolgt eine Lizensierung. ³ Arbeitsabläufe werden umfänglich
+und transparent dargelegt.
+(5) ¹Eigene und fremde Vorarbeiten sind vollständig und korrekt nachzuweisen, es sei denn, darauf kann
+disziplinspezifisch im Fall von eigenen, bereits öffentlich zugänglichen Ergebnissen ausnahmsweise verzichtet
+werden. ²Zugleich wird die Wiederholung der Inhalte eigener Publikationen auf das für das Verständnis not-
+wendige Maß beschränkt.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 6
+§ 15
+Autorschaft
+(1) ¹Autorin oder Autor ist, wer einen genuinen, nachvollziehbaren Beitrag zu dem Inhalt einer wissen-
+schaftlichen Text-, Daten- oder Softwarepublikation geleistet hat. ²Ob ein genuiner und nachvollziehbarer Bei-
+trag vorliegt, hängt von den fachspezifischen Grundsätzen wissenschaftlichen Arbeitens ab und ist im Einzel-
+fall zu beurteilen.
+(2) Ein genuiner, nachvollziehbarer Beitrag liegt insbesondere vor, wenn eine wissenschaftlich tätige Per-
+son in wissenschaftserheblicher Weise mitgewirkt hat an
+a) Entwurf und Entwicklung der konkreten in der Publikation beschriebenen und ausgewerteten For-
+schungsaktivitäten; nicht ausreichend sind die bloße Beantragung oder Einwerbung von Mitteln für über-
+geordnete Rahmenprojekte, institutionelle Einheiten oder apparative Ausstattung, die bloße Leitungs-
+oder Vorgesetztenposition in der jeweiligen Forschungseinrichtung o. ä.;
+b) eigenständiger Gewinnung und Aufbereitung von Daten, Erschließung von Quellen oder Programmie-
+rung von Software; nicht ausreichend sind die bloße Ausführung technischer Routineaufgaben, die
+bloße Umsetzung vorgegebener Erhebungsformate o. ä.;
+c) eigenständiger Analyse, Auswertung oder Interpretation von Daten, Quellen oder Resultaten; nicht aus-
+reichend sind die bloße Auflistung von Daten, bloße Kompilierung von Quellen o. ä.;
+d) Entwicklung konzeptueller Zugänge oder argumentativer Strukturen; nicht ausreichend ist die bloße Be-
+ratung von fremden Entwürfen, das bloße Einbringen unspezifischer Anregungen o. ä.;
+e) Abfassung des Manuskripts; nicht ausreichend sind bloße redaktionelle Anpassungen, bloße sprachli-
+che Korrekturen o. ä.
+(3) ¹Reicht ein Beitrag nicht aus, um eine Autorschaft zu begründen, so kann die Unterstützung in Fußno-
+ten, im Vorwort oder in Acknowledgements angemessen gewürdigt werden. ²Eine Ehrenautorschaft, bei der
+gerade kein hinreichender Beitrag geleistet wurde, ist ebenso unzulässig wie die Herleitung einer Autorschaft
+allein aufgrund einer Leitungs- oder Vorgesetztenfunktion.
+(4) ¹Alle Autorinnen und Autoren müssen der finalen Fassung des zu publizierenden Werks zustimmen; sie
+tragen für die Publikation die gemeinsame Verantwortung, es sei denn, es wird ausdrücklich anders ausge-
+wiesen. ²Ohne hinreichenden Grund darf die Zustimmung zu einer Publikation nicht verweigert werden. ³ Die
+Verweigerung muss vielmehr mit nachprüfbarer Kritik an Daten, Methoden oder Ergebnissen begründet wer-
+den.
+(5) ¹Wissenschaftlich Tätige verständigen sich rechtzeitig – in der Regel spätestens bei Formulierung des
+Manuskripts – darüber, wer Autorin oder Autor der Forschungsergebnisse werden soll. ² Die Verständigung hat
+anhand nachvollziehbarer Kriterien und unter Berücksichtigung der Konventionen jedes Fachgebiets schriftlich
+zu erfolgen.
+§ 16
+Publikationsorgane
+(1) ¹Die wissenschaftliche Qualität eines Beitrags hängt nicht von dem Publikationsorgan ab, in dem er
+öffentlich zugänglich gemacht wird. ²Neben Publikationen in Büchern und Fachzeitschriften kommen insbe-
+sondere auch Fach- , Daten- und Softwarerepositorien ebenso wie Blogs in Betracht.
+(2) ¹Autorinnen und Autoren wählen das Publikationsorgan unter Berücksichtigung seiner Qualität und
+Sichtbarkeit im jeweiligen Diskursfeld sorgfältig aus. ²Ein neues Publikationsorgan wird auf seine Seriosität
+geprüft.
+(3) Wer eine Herausgeberschaft übernimmt, prüft sorgfältig, für welche Publikationsorgane dies geschieht.
+§ 17
+Vertraulichkeit und Neutralität bei Begutachtungen und Beratungen
+(1) Redliches Verhalten ist die Grundlage der Legitimität eines Urteilsbildungsprozesses.
+(2) ¹Wissenschaftlich Tätige, die insbesondere Manuskripte, Förderanträge oder die Ausgewiesenheit von
+Personen beurteilen, sind diesbezüglich zu strikter Vertraulichkeit verpflichtet. ² Sie legen alle Tatsachen, die
+die Besorgnis einer Befangenheit begründen können, unverzüglich gegenüber der dafür zuständigen Stelle
+offen.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 7
+(3) Die Vertraulichkeit schließt ein, dass Inhalte, zu denen im Rahmen der Funktion Zugang erlangt wird,
+nicht an Dritte weitergegeben werden und nicht der eigenen Nutzung zugeführt werden dürfen.
+(4) Absätze 1 und 2 gelten entsprechend für Mitglieder wissenschaftlicher Beratungs- und Entscheidungs-
+gremien.
+Abschnitt II: Ombudswesen
+§ 18
+Ombudspersonen
+(1) ¹An der PA NI existiert eine Ombudsperson und eine stellvertretende Ombudsperson. ²Die Stellvertre-
+tung wird für den Fall vorgesehen, dass hinsichtlich einer an sich zuständigen Ombudsperson die Besorgnis
+einer Befangenheit besteht oder die Ombudsperson an der Wahrnehmung ihrer Funktion gehindert ist. ³Die
+Frage, ob die Besorgnis der Befangenheit besteht, beurteilt sich nach Maßgabe des § 1 Abs. 1 des Verwal-
+tungsverfahrensgesetzes (VwVfG) des Landes Niedersachsen in Verbindung mit § 21 VwVfG des Bundes.
+⁴Im Zweifel entscheidet die Untersuchungskommission nach Abschnitt III.
+(2) ¹Zur Ombudsperson bzw. Stellvertretung können integre Wissenschaftlerinnen und Wissenschaftler be-
+stellt werden, die für die Dauer der letzten drei Jahre wissenschaftlich forschend aktiv und im Rahmen eines
+wissenschaftlichen Forschungsprojektes und von wissenschaftlichen Publikationen tätig waren. ²Bei der Be-
+stellung sollten auch die an der PA NI vertretenen Fächerkulturen berücksichtigt werden. ³ Die Ombudsperson
+und ihre Stellvertretung dürfen während ihrer Amtszeit nicht Mitglied der Untersuchungskommission sein oder
+eine Leitungsposition innehaben. ⁴Als Leitungspositionen gelten die PA-Leitung, Abteilungsleitungen, Studi-
+engebietsleitungen, Dezernatsleitungen.
+(3) Die Ombudsperson und die Stellvertretung werden auf Vorschlag der Forschungskommission der PA
+NI und nach Zustimmung der Konferenz der PA NI durch die Direktorin oder den Direktor der PA NI bestellt.
+(4) ¹Die Amtszeit der Ombudsperson und der Stellvertretung dauert jeweils drei Jahre. ²Eine einmalige
+Wiederwahl ist zulässig.
+(5) ¹Die Ombudsperson und ihre Stellvertretung erhalten von der Leitung der PA NI die erforderliche inhalt-
+liche Unterstützung und Akzeptanz bei der Wahrnehmung ihrer Aufgaben. ²Zur Steigerung der Funktionsfä-
+higkeit des Ombudswesens sollen Maßnahmen zur anderweitigen Entlastung amtierender Ombudspersonen
+und Stellvertretungen ergriffen werden.
+§ 19
+Ombudstätigkeit
+(1) ¹Die Ombudsperson und ihre Stellvertretung nehmen die Ombudstätigkeit nach § 18 unabhängig wahr,
+insbesondere unabhängig von Weisungen oder informellen einzelfallbezogenen Einflussnahmen durch die
+Leitung der PA NI und d ie Konferenz der PA NI. ²Die Ombudstätigkeit erfolgt vertraulich, d. h. unter Wahrung
+der Verschwiegenheit.
+(2) ¹Alle Angehörigen der PA NI können sich in Fragen der guten wissenschaftlichen Praxis, aber auch zu
+vermutetem wissenschaftlichen Fehlverhalten an die Ombudsperson wenden. ²Alternativ haben Angehörige
+der PA NI die Möglichkeit, sich an das überregional tätige Ombudsgremium „Ombudsgremium für die wissen-
+schaftliche Integrität in Deutschland“ zu wenden.
+(3) ¹Die Leitung der PA NI trägt dafür Sorge, dass die lokale Ombudsperson und ihre Stellvertretung an der
+PA NI bekannt sind. ² Identität und Kontaktdaten der jeweils amtierenden Personen werden über PSN null1|5,
+die Newsletter der PA NI, die IKriS- Homepage, den Forschenden- Verteiler per E- Mail sowie das Einführungs-
+konzept neuer Forschender bekannt gemacht.
+(4) ¹Die Ombudsperson bzw. deren Stellvertretung berät als neutrale und qualifizierte Ansprechperson in
+Fragen der guten wissenschaftlichen Praxis und in Verdachtsfällen wissenschaftlichen Fehlverhaltens. ²Sie
+trägt, soweit dies möglich ist, zur lösungsorientierten Konfliktvermittlung bei.
+(5) Die Ombudsperson bzw. deren Stellvertretung nehmen Anfragen vertraulich entgegen und leiten Ver-
+dachtsfälle wissenschaftlichen Fehlverhaltens im Bedarfsfall an die verantwortliche Stelle an der PA NI nach
+Abschnitt III weiter.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 8
+Abschnitt III: Verfahren im Umgang mit wissenschaftlichem Fehlverhalten
+§ 20
+Allgemeine Prinzipien für den Umgang mit Verdachtsfällen
+wissenschaftlichen Fehlverhaltens
+(1) ¹Alle Stellen an der PA NI , die einen Verdacht wissenschaftlichen Fehlverhaltens im Rahmen ihrer Zu-
+ständigkeit überprüfen, setzen sich in geeigneter Weise für den Schutz sowohl der Hinweisgebenden als auch
+der/des von den Vorwürfen Betroffenen ein. ² Den zuständigen Stellen ist bewusst, dass die Durchführung
+eines Verfahrens und die abschließende, mögliche Verhängung von Sanktionen erhebliche Eingriffe in die
+Rechtsgüter der Betroffenen darstellen können.
+(2) ¹Die Untersuchung von Vorwürfen wissenschaftlichen Fehlverhaltens muss zu jedem Zeitpunkt nach
+rechtsstaatlichen Grundsätzen, fair und unter Geltung der Unschuldsvermutung erfolgen. ² Die Untersuchung
+erfolgt zudem vertraulich. ³ Ermittlungen werden ohne Ansehen der Person geführt, Entscheidungen ohne An-
+sehen der Person getroffen .
+(3) ¹Die Anzeige durch hinweisgebende Personen muss in gutem Glauben erfolgen. ² Hinweisgebende Per-
+sonen müssen über objektive Anhaltspunkte darüber verfügen, dass möglicherweise gegen Standards guter
+wissenschaftlicher Praxis verstoßen worden ist. ³Kann die hinweisgebende Person die dem Verdacht zugrun-
+deliegenden Tatsachen nicht selbst prüfen oder bestehen in Hinsicht auf einen beobachteten Vorgang Unsi-
+cherheiten bei der Interpretation der Prinzipien guter wissenschaftlicher Praxis gemäß Abschnitt I, soll die/der
+Hinweisgebende sich zur Klärung des Verdachts an die Personen gemäß § 19 Abs. 1 und 2 wenden.
+(4) ¹Wegen der Hinweisgabe sollen weder der hinweisgebenden noch der betroffenen Person Nachteile für
+das eigene wissenschaftliche oder berufliche Fortkommen erwachsen. ² Für die betroffene Person gilt dies, bis
+ein Fehlverhalten erwiesen und festgestellt ist. ³ Bei Personen in frühen Karrierephasen soll die Anzeige mög-
+lichst nicht zu Verzögerungen während ihrer Qualifizierung führen. ⁴ Die Erstellung von Abschlussarbeiten soll
+keine Benachteiligung erfahren. ⁵ Gleiches gilt für Arbeitsbedingungen und mögliche Vertragsverlängerungen.
+(5) ¹Die hinweisgebende Person ist auch dann zu schützen, wenn ein Fehlverhalten im Verfahren nicht
+erwiesen wird. ² Anderes gilt nur, wenn der Vorwurf wider besseres Wissens angezeigt worden ist.
+(6) ¹Alle mit dem Verfahren befassten Stellen setzen sich für eine möglichst zeitnahe Durchführung des
+gesamten Verfahrens ein. ² Sie unternehmen die erforderlichen Schritte, um jeden Verfahrensabschnitt inner-
+halb eines angemessenen Zeitraums abzuschließen.
+(7) Eine Verdachtsmeldung, bei der die hinweisgebende Person ihre Identität nicht offenlegt (anonyme
+Anzeige), wird überprüft, wenn die hinweisgebende Person belastbare und hinreichend konkrete Tatsachen
+vorbringt, die eine Überprüfung mit zumutbarem Aufwand ermöglichen.
+(8) ¹Ist die Identität der hinweisgebenden Person der zuständigen Stelle bekannt, behandelt die Stelle die
+Identität vertraulich und gibt sie Dritten grundsätzlich nicht ohne das Einverständnis der hinweisgebenden
+Person preis. ² Das Einverständnis soll in Textform erteilt werden. ³ Eine Herausgabe auch ohne Einverständnis
+erfolgt bei bestehender gesetzlicher Verpflichtung. ⁴Eine Herausgabe kann ausnahmsweise auch dann erfol-
+gen, wenn die betroffene Person sich andernfalls nicht sachgerecht verteidigen kann, weil es hierfür auf die
+Identität der hinweisgebenden Person ankommt; über die Herausgabe entscheidet die Ombudsperson. ⁵Bevor
+die Identität der hinweisgebenden Person offengelegt wird, wird sie von der beabsichtigten Herausgabe in
+Kenntnis gesetzt. ⁶ Sie kann sodann entscheiden, ob sie die Verdachtsanzeige zurücknimmt. ⁷Im Fall einer
+Rücknahme erfolgt die Offenlegung nicht, es sei denn, es besteht eine gesetzliche Verpflichtung zur Offenle-
+gung. ⁸Das Verwaltungsverfahren kann gleichwohl fortgeführt werden, wenn eine Interessenabwägung ergibt,
+dass dies im Interesse der wissenschaftlichen Integrität in Deutschland oder im berechtigten Interesse der
+PA NI geboten ist; in diesem Fall wird der Hinweisgeber nicht offengelegt.
+(9) ¹Die Vertraulichkeit des Verfahrens erfährt Einschränkungen, wenn sich die hinweisgebende Person
+mit ihrem Verdacht an die Öffentlichkeit wendet. ²Die für die Untersuchung zuständige Stelle entscheidet im
+Einzelfall nach pflichtgemäßem Ermessen, wie mit der Verletzung der Vertraulichkeit durch die hinweisge-
+bende Person umzugehen ist.
+§ 21
+Tatbestände wissenschaftlichen Fehlverhaltens
+(1) Wissenschaftliches Fehlverhalten liegt vor, wenn eine an der PA NI wissenschaftlich tätige Person in
+einem wissenschaftserheblichen Zusammenhang vorsätzlich oder grob fahrlässig Falschangaben macht, sich
+fremde wissenschaftliche Leistungen unberechtigt zu eigen macht oder die Forschungstätigkeit anderer be-
+einträchtigt; unberührt bleiben die besonderen Tatbestände nach Absätzen 5 bis 8.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 9
+(2) Falschangaben sind
+a) das Erfinden von wissenschaftserheblichen Daten oder Forschungsergebnissen;
+b) das Verfälschen von wissenschaftserheblichen Daten oder Forschungsergebnissen, insbesondere
+durch Unterdrücken oder Beseitigen von im Forschungsprozess gewonnenen Daten oder Ergebnissen,
+ohne dies offen zu legen, oder durch Verfälschung einer Darstellung oder Abbildung;
+c) die inkongruente Darstellung von Bild und dazugehöriger Aussage;
+d) unrichtige wissenschaftsbezogene Angaben in einem Förderantrag oder im Rahmen der Berichtspflicht;
+e) die Inanspruchnahme der Autorschaft oder Mitautorschaft einer anderen Person ohne deren Einver-
+ständnis.
+(3) Ein unzulässiges Zueigenmachen fremder wissenschaftlicher Leistungen liegt insbesondere vor bei
+a) ungekennzeichneter Übernahme von Inhalten Dritter ohne die gebotene Quellenangabe („Plagiat“);
+b) unbefugter Verwendung von Forschungsansätzen, Forschungsergebnissen und wissenschaftlichen
+Ideen („Ideendiebstahl“);
+c) unbefugter Weitergabe von wissenschaftlichen Daten, Theorien und Erkenntnissen an Dritte;
+d) Anmaßung oder unbegründeter Annahme einer Autorschaft oder Mitautorschaft an einer wissenschaft-
+lichen Publikation, insbesondere, wenn kein genuiner, nachvollziehbarer Beitrag zum wissenschaftli-
+chen Inhalt der Publikation geleistet wurde;
+e) Verfälschung des wissenschaftlichen Inhalts;
+f) unbefugter Veröffentlichung und unbefugtem Zugänglichmachen gegenüber Dritten, solange das wis-
+senschaftliche Werk, die Erkenntnis, die Hypothese, die Lehre oder der Forschungsansatz noch nicht
+veröffentlicht ist.
+(4) Eine Beeinträchtigung der Forschungstätigkeit anderer liegt insbesondere vor bei
+a) Sabotage von Forschungstätigkeit (einschließlich des Beschädigens, Zerstörens oder Manipulierens
+von Versuchsanordnungen, Geräten, Unterlagen, Hardware, Software, Chemikalien oder sonstiger Sa-
+chen, die andere zu Forschungszwecken benötigen);
+b) Verfälschung oder unbefugter Beseitigung von Forschungsdaten oder Forschungsdokumenten;
+c) Verfälschung oder unbefugter Beseitigung der Dokumentation von Forschungsdaten.
+(5) Wissenschaftliches Fehlverhalten von an der PA NI wissenschaftlich Tätigen ergibt sich – bei Vorliegen
+von Vorsatz oder grober Fahrlässigkeit – auch aus
+a) der Mitautorschaft an einer Veröffentlichung, die Falschangaben oder unzulässig zu eigen gemachte
+fremde wissenschaftliche Leistungen enthält;
+b) der Vernachlässigung von Aufsichtspflichten, wenn eine andere Person objektiv den Tatbestand wis-
+senschaftlichen Fehlverhaltens im Sinne von Absätzen 1 bis 4 erfüllt hat und dies durch die erforderliche
+und zumutbare Aufsicht verhindert oder wesentlich erschwert worden wäre.
+(6) Wissenschaftliches Fehlverhalten ergibt sich ferner aus der vorsätzlichen Beteiligung (im Sinne einer
+Anstiftung oder Beihilfe) am vorsätzlichen, nach dieser Satzung tatbestandsmäßigen Fehlverhalten anderer.
+(7) Wissenschaftliches Fehlverhalten von gutachtenden Personen oder Gremienmitgliedern der PA NI liegt
+vor, wenn diese vorsätzlich oder grob fahrlässig
+a) unbefugt wissenschaftliche Daten, Theorien oder Erkenntnisse, von denen sie im Rahmen ihrer Tätig-
+keit als Gutachtende oder als Gremienmitglied Kenntnis erlangt haben, unbefugt für eigene wissen-
+schaftliche Zwecke verwerten;
+b) im Rahmen ihrer Tätigkeit als gutachtende Personen oder als Gremienmitglied unter Verletzung der
+Vertraulichkeit des Verfahrens Daten, Theorien oder Erkenntnisse unbefugt an Dritte weitergeben;
+c) im Rahmen ihrer Tätigkeit als gutachtende Person oder als Gremienmitglied Tatsachen oder Umstände,
+die die Besorgnis einer Befangenheit begründen können, nicht gegenüber der zuständigen Stelle offen-
+legen.
+(8) Wissenschaftliches Fehlverhalten liegt auch vor, wenn eine gutachtende Person oder ein Gremienmit-
+glied der PA NI im Rahmen ihrer/seiner Tätigkeit in der Absicht, sich oder einer anderen Person einen Vorteil
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 10
+zu verschaffen, wider besseres Wissen Tatsachen nicht offenlegt, aus denen sich ein wissenschaftliches Fehl-
+verhalten der anderen Person im Sinne von Absätzen 1 bis 5 ergibt.
+§ 22
+Einleitung einer Untersuchung
+(1) ¹Hinweisgebende Personen sollen sich mit einer Verdachtsmeldung an die Ombudsperson oder deren
+Stellvertretung gemäß § 19 wenden. ²Eine Verdachtsmeldung soll in Textform erfolgen. ³Sie kann mündlich
+erfolgen; in diesem Fall ist durch die aufnehmende Stelle eine Niederschrift anzufertigen. ⁴ Wenden sich hin-
+weisgebende Personen mit ihrer Verdachtsmeldung unmittelbar an ein Mitglied der Untersuchungskommis-
+sion, leitet das Mitglied die Verdachtsmeldung zuständigkeitshalber an die Ombudsperson weiter.
+(2) ¹Für die Besorgnis der Befangenheit von Ombudspersonen in ihrer Rolle im Verfahren nach Abschnitt
+III gelten abweichend von § 18 Absatz 1 die §§ 22 ff. der Strafprozessordnung (StPO) entsprechend. ²Es
+entscheidet die Untersuchungskommission gemäß § 24.
+(3) ¹Die Ombudsperson oder deren Stellvertretung prüft vertraulich, ob hinlänglich konkretisierte Anhalts-
+punkte dafür vorliegen, dass eine Person in verfolgbarer Weise einen Tatbestand gemäß § 21 verwirklicht hat.
+²Die Ombudsperson kann in diesem Z usammenhang Vorermittlungen führen; § 23 Absatz 2 gilt entsprechend.
+(4) Gelangt die Ombudsperson zu dem Ergebnis, dass hinlänglich konkretisierte Verdachtsmomente ge-
+mäß Absatz 3 bestehen, leitet sie eine Vorprüfung ein.
+§ 23
+Vorprüfung
+(1) ¹Im Rahmen der Vorprüfung fordert die Ombudsperson oder deren Stellvertretung die betroffene Person
+unverzüglich schriftlich zur Stellungnahme zu dem Vorwurf auf. ²Hierbei führt sie gegenüber der betroffene n
+Person die belastenden Tatsachen und Beweismittel auf. ³Zur Stellungnahme ist eine Frist zu setzen; diese
+soll in der Regel vier Wochen betragen. ⁴ Die Frist kann bis zu zwei Mal auf insgesamt 16 Wochen verlängert
+werden. ⁵Die Stellungnahme soll schriftlich oder in Textform erfolgen. ⁶Betroffene Personen sind nicht ver-
+pflichtet, sich selbst zu belasten.
+(2) ¹Im Rahmen der Vorprüfung kann die Ombudsperson bzw. deren Stellvertretung die zur Sachver-
+haltsaufklärung erforderlichen Ermittlungen führen, soweit diese kraft höherrangigen Rechts zulässig sind. ² Sie
+kann beispielsweise Dokumente anfordern, beschaffen und sichten, andere Beweismittel beschaffen und si-
+chern, Stellungnahmen oder – soweit erforderlich – externe Expertisen einholen. ³ Alle einbezogenen Personen
+sind um vertrauliche Behandlung der Anfrage zu ersuchen.
+(3) Aus den Akten soll hervorgehen, welche Schritte zur Sachverhaltsaufklärung unternommen worden
+sind.
+(4) ¹Nach Abschluss der sachdienlichen Ermittlungen und unter Auswertung aller relevanten Beweismittel
+einschließlich der Stellungnahme der betroffenen Person entscheidet die zuständige Ombudsperson unver-
+züglich über den weiteren Fortgang des Verfahrens. ² Die Entscheidung richtet sich danach, ob aufgrund der
+Tatsachenlage eine Feststellung wissenschaftlichen Fehlverhaltens durch die Untersuchungskommission
+wahrscheinlicher erscheint als eine Verfahrenseinstellung (hinreichender Verdacht). ³Besteht kein hinr eichen-
+der Verdacht eines verfolgbaren wissenschaftlichen Fehlverhaltens, stellt die zuständige Ombudsperson das
+Verfahren ein. ⁴Bei hinreichendem Tatverdacht leitet die zuständige Ombudsperson die Vorprüfung in eine
+förmliche Untersuchung über, welche von der Untersuchungskommission geführt wird.
+(5) ¹Im Falle einer Einstellung des Verfahrens wird die Entscheidung zunächst der hinweisgebenden Per-
+son schriftlich mitgeteilt. ² Die wesentlichen Gründe, die zu der Entscheidung geführt haben, sind zu nennen.
+³Der hinweisgebenden Person wird ein Recht zur Remonstration gegen die Entscheidung binnen zweiwöchi-
+ger Frist ab Zugang der Entscheidung eingeräumt. ⁴Die Remonstration darf nur auf neue Tatsachen gestützt
+werden. ⁵Die Remonstration kann an die Ombudsperson und deren Stellvertretung gerichtet werden. ⁶Im Falle
+einer fristgerechten Remonstration wird die getroffene Entscheidung erneut geprüft.
+(6) Ist die Remonstrationsfrist fruchtlos verstrichen oder hat eine Remonstration zu keiner abweichenden
+Entscheidung geführt, wird die Einstellungsentscheidung unter Darlegung der wesentlichen Gründe für die
+Entscheidung der betroffenen Person schriftlich mitgeteilt.
+(7) ¹Wird das Verfahren in die förmliche Untersuchung übergeleitet, wird diese Entscheidung der hinweis-
+gebenden und der betroffenen Person schriftlich mitgeteilt. ²Hat die betroffene Person den Vorwurf bestritten,
+soll kurz skizziert werden, weshalb der Vorwurf nicht entkräftet werden konnte.
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 11
+§ 24
+Untersuchungskommission
+(1) ¹Zur Durchführung der förmlichen Untersuchung wird anlassbezogen eine Ad- hoc-Untersuchungskom-
+mission durch die Leitung der PA NI eingesetzt. ²Die Untersuchungskommission hat sechs Mitglieder zuzüg-
+lich der vorsitzenden Person. ³Ihr gehören jeweils eine Vertretung aller Studiengebiete sowie eine Studierende
+oder ein Studierender an, wie auch die Ombudsperson und deren Stellvertretung als Gäste mit beratender
+Stimme. ⁴Die Kommission wird auf Antrag der Ombudsperson bzw. der Stellvertretung aktiv. ⁵Für jedes Mit-
+glied der Kommission – mit Ausnahme der vorsitzenden Person – besteht zudem eine Stellvertretung. ⁶Der
+Vorsitz der Kommission wird durch die Mitglieder der Untersuchungskommission bestimmt; Voraussetzung für
+den Vorsitz ist, dass die Person keine Leitungsposition an der PA NI i. S. d. § 18 Abs. 2 Satz 4 innehat und
+über aktue lle Forschungserfahrung i. S. v. § 18 Abs. 2 Satz 1 verfügt. ⁷Die vorsitzende Person führt die Ge-
+schäfte der Untersuchungskommission und nimmt während der Sitzungen Hausrecht und Sitzungspolizei
+wahr. ⁸Die Untersuchungskommission wählt aus ihren Reihen eine Person mit Forschungserfahrungen i. S. v.
+§ 18 Abs. 2 Satz 1für den stellvertretenden Vorsitz. ⁹ Mindestens drei Mitglieder der Untersuchungskommission
+sind Professorinnen oder Professoren an der PA NI.
+(2) ¹Die stimmberechtigten Mitglieder der Kommission werden ebenso wie ihre Stellvertretungen von der
+Direktorin oder dem Direktor der PA NI nach Wahl durch die Konferenz bestellt. ² Im Einzelfall kann die Unter-
+suchungskommission bis zu zwei nicht stimmberechtigte gutachtende Personen aus dem Fachgebiet des zu
+beurteilenden wissenschaftlichen Sachverhalts als weitere Mitglieder zur Beratung hinzuziehen.
+(3) ¹Im Falle einer Besorgnis der Befangenheit oder der nicht nur kurzfristigen Verhinderung eines Kom-
+missionsmitglieds übernimmt dessen Stellvertretung. ² Für die Besorgnis der Befangenheit gelten die §§ 22 ff.
+StPO entsprechend. ³Die Besorgnis der Befangenheit kann von allen stimmberechtigten Kommissionsmitglie-
+dern, von der Ombudsperson bzw. deren Stellvertretung an der PA NI und von den betroffenen Personen
+gerügt werden. ⁴ Es entscheidet die Untersuchungsk ommission unter Ausschluss der Person, gegen die sich
+der Befangenheitsantrag richtet. ⁵ Unaufschiebbare Verfahrenshandlungen dürfen weiterhin vorgenommen
+werden.
+(4) ¹Alle stimmberechtigten Mitglieder der Untersuchungskommission sowie die vorsitzende Person haben
+das gleiche Stimmrecht. ²Beschlüsse werden mit einfacher Mehrheit gefasst; bei Stimmengleichheit entschei-
+det die vorsitzende Person. ³Die Kommission ist nur dann beschlussfähig, wenn mindestens vier Personen
+anwesend sind und gültig abstimmen können.
+(5) ¹Die Mitglieder der Untersuchungsk ommission und ihre Stellvertretungen nehmen die Tätigkeit unab-
+hängig wahr, insbesondere unabhängig von Weisungen oder informellen einzelfallbezogenen Einflussnahmen
+durch die L eitung der PA NI und die Konferenz der PA NI. ²Die Tätigkeit erfolgt vertraulich, d. h. unter Wahrung
+der Verschwiegenheit.
+(6) Die Untersuchungskommission arbeitet und tagt vertraulich und nichtöffentlich, d. h. unter Wahrung der
+Verschwiegenheit.
+(7) Die aktuelle Besetzung der Untersuchungskommission kann unter der E -Mail-Adresse: Kost-S@pa.nie-
+dersachsen.de in Erfahrung gebracht werden.
+§ 25
+Verfahren der förmlichen Untersuchung
+(1) ¹Die Untersuchungskommission beraumt einen zeitnahen Termin für eine Sitzung an. ² Spätestens zehn
+Arbeitstage zuvor wird der betroffene n Person die Gelegenheit eingeräumt, sich mündlich vor der Kommission
+(Anhörung) oder schriftlich zum Vorwurf zu äußern. ³§ 23 Absatz 1 Satz 6 gilt entsprechend. ⁴Auch der hin-
+weisgebenden Person wird nochmals die Gelegenheit zur schriftlichen Stellungnahme gegeben. ⁵Verzichtet
+die betroffene Person auf eine nochmalige Äußerung, darf allein dies nicht zu ihrem Nachteil berücksichtigt
+werden. ⁶ Es ist dann nach Aktenlage zu entscheiden.
+(2) ¹Die Kommission kann weitere Personen mündlich anhören, deren Stellungnahme sie für das Verfahren
+nach pflichtgemäßem Ermessen als dienlich ansieht. ²Im Hinblick auf mögliche Zeugnisverweigerungsrechte
+gelten die Vorschriften der Strafprozessordnung entsprechend.
+(3) ¹Jede Person, die vor der Kommission angehört wird, darf eine Person ihres Vertrauens als Beistand
+hinzuziehen. ²Die Kommission ist rechtzeitig zu informieren.
+(4) ¹Die Untersuchungskommission prüft nach den hergebrachten Regeln der freien Beweiswürdigung, ob
+wissenschaftliches Fehlverhalten zu ihrer Überzeugung erwiesen ist. ² Wissenschaftliches Fehlverhalten kann
+nur dann festgestellt werden, wenn hierüber ein Mehrheitsbeschluss innerhalb der Kommission gefasst
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 12
+worden ist. ³ Die Beratungen unterliegen dem Beratungsgeheimnis. ⁴Unbeschadet bleibt die Befugnis der Kom-
+mission, das Verfahren mangels hinreichenden Tatverdachts oder bei minder schwerem Fehlverhalten wegen
+Geringfügigkeit einzustellen. ⁵Im Falle einer Einstellung des Verfahrens findet eine Remonstration durch die
+hinweisgebende Person nicht statt.
+(5) Für eine etwaige Offenlegung der Identität der hinweisgebenden Person gilt § 20 Absätze 8 und 9 ent-
+sprechend.
+(6) Bei Verdacht auf disziplinar-/arbeitsrechtrechtliche Verstöße erfolgt eine Aussetzung des Verfahrens.
+(7) ¹Die Untersuchungskommission legt der Direktorin oder dem Direktor der PA NI zeitnah einen abschlie-
+ßenden schriftlichen Untersuchungsbericht vor, der auch die Sanktionsvorschläge der Kommission enthält.
+²Die wesentlichen Grundlagen der Kommissionsentscheidung sind mitzuteilen.
+(8) Die Unterlagen der förmlichen Untersuchung werden an der PA NI zehn Jahre aufbewahrt.
+§ 26
+Abschluss des Verfahrens
+(1) ¹Die Direktorin oder der Direktor der PA NI entscheidet nach pflichtgemäßem Ermessen, ob gegenüber
+der betr offenen Person wissenschaftliches Fehlverhalten festgestellt wird und ob und welche Sanktionen und
+Maßnahmen ihr gegenüber verhängt werden. ² Kommt als Maßnahme der Entzug eines akademischen Grades
+in Betracht, werden die dafür zuständigen Stellen miteinbezogen.
+(2) ¹Die Entscheidung und ihre wesentlichen Gründe werden der hinweisgebenden und der betroffenen
+Person schriftlich mitgeteilt. ² Gegen die Entscheidung stehen den Parteien nur die gesetzlich gewährten
+Rechtsbehelfe zu.
+(3) ¹Die Entscheidung wird ferner den betroffenen Wissenschaftsorganisationen und Dritten, die ein be-
+gründetes Interesse an der Entscheidung haben, schriftlich mitgeteilt. ²Ob und in welcher Weise dies der Fall
+ist, entscheidet die Leitung der PA NI nach pflichtgemäßem Ermessen entsprechend Absatz 1 Satz 2. ³Sie
+entscheidet auch darüber, ob und in welcher Weise die Öffentlichkeit zu informieren ist. ⁴Mitteilungen nach
+diesem Absatz können mit einer Begründung versehen werden.
+§ 27
+Mögliche Sanktionen und Maßnahmen
+(1) Erachtet die L eitung der PA NI wissenschaftliches Fehlverhalten als erwiesen, kann sie im Rahmen der
+Verhältnismäßigkeit alternativ oder kumulativ folgende Sanktionen verhängen und/oder Maßnahmen ergrei-
+fen:
+a) schriftliche Rüge, die keine Disziplinarmaßnahme darstellt;
+b) Aufforderung an die betroffene Person, inkriminierte Veröffentlichungen zurückzunehmen oder zu kor-
+rigieren bzw. die Veröffentlichung inkriminierter Manuskripte zu unterlassen;
+c) Rücknahme von Förderentscheidungen bzw. Rücktritt von Förderverträgen, soweit die Entscheidung
+von der PA NI getroffen oder der Vertrag von der PA NI geschlossen worden ist, ggf. einschließlich einer
+Mittelrückforderung;
+d) Ausschluss von einer Tätigkeit als gutachtende Personen oder als Gremienmitglied der PA NI für maxi-
+mal zwei Jahre;
+e) gegen Angestellte der PA NI arbeitsrechtliche Abmahnung, ordentliche Kündigung, Vertragsauflösung,
+außerordentliche Kündigung;
+f) gegen Beamte der PA NI Einleitung eines beamtenrechtlichen Disziplinarverfahrens mit den dort vor-
+gesehenen, auch einstweiligen, Maßnahmen;
+g) Strafanzeige an die Polizei oder die Staatsanwaltschaft;
+h) Ordnungswidrigkeitenanzeige an die zuständige Behörde;
+i) Geltendmachung zivilrechtlicher Ansprüche – auch im Wege einstweiligen Rechtsschutzes – , insbeson-
+dere auf Schadensersatz, Herausgabe oder Beseitigung/Unterlassung;
+j) Geltendmachung etwaiger öffentlich- rechtlicher Ansprüche, auch im Wege einstweiligen Rechtsschut-
+zes;
+k) Einleitung eines Verfahrens zum Entzug eines akademischen Grades oder Anregung der Einleitung
+eines solchen Verfahrens;
+
+Nds. MBl. 2024 Nr. 272 vom 13. Juni 2024 Seite 13
+l) Ausschluss von interner Förderung bis maximal zwei Jahre.
+(2) Andere als die in Absatz 1 genannten Sanktionen und Maßnahmen können nur verhängt werden, wenn
+sie in Ansehung der Rechtsgüter und berechtigten Interessen der betroffene n Person verhältnismäßig sind.
+(3) Maßnahmen nach Absatz 1 sind nicht deshalb rechtswidrig, weil sie in der schriftlichen Entscheidung
+nach § 26 Abs. 2 nicht ausgesprochen worden sind.
+§ 28
+Übergangsvorschriften/Anwendung bei Verlassen der PA NI
+(1) Die Tatbestände wissenschaftlichen Fehlverhaltens nach § 21 gelten nur für Taten, die begangen wur-
+den, als diese Satzung bereits in Kraft war.
+(2) ¹Die Verfahrensvorschriften dieses Abschnitts gelten nur für Hinweise, die ab dem Inkrafttreten dieser
+Satzung eingehen. ²Bei Inkrafttreten dieser Satzung bereits in Gang befindliche Vorermittlungs-, Vorprüfungs-
+und Untersuchungsverfahren werden nach den bisher geltenden Verfahrensregelungen zu Ende geführt.
+(3) Eine Tat kann auch dann verfolgt werden, wenn die betroffene Person inzwischen nicht mehr an der
+PA NI wissenschaftlich tätig ist, jedoch zum Tatzeitpunkt dort wissenschaftlich tätig war.
+§ 29
+Inkrafttreten
+Diese Satzung tritt am Tage ihrer Bekanntgabe im Niedersächsischen Ministerialblatt in Kraft.
+
+Die Konferenz der Polizeiakademie Niedersachsen
+Der Vorsitzende
+Carsten Rose
+Direktor der Polizeiakademie Niedersachsen

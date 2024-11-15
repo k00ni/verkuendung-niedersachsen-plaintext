@@ -1,0 +1,147 @@
+Herausgeber: Niedersächsische Staatskanzlei
+
+Niedersächsisches
+Ministerialblatt
+74. (79.) Jahrgang Hannover, den 20. Juni 2024 Nummer 278
+
+Ministerium für Inneres und Sport
+
+Gebührenfreie Bereitstellung von Geobasisdaten der Vermessungs-
+und Katasterverwaltung sowie von Geofachdaten der Gutachterausschüsse und
+des Oberen Gutachterausschusses für Grundstückswerte
+RdErl. d. MI v. 11.06.2024 – 44-05032/001- 02 –
+– VORIS 21160 –
+– Im Einvernehmen mit dem MF –
+
+Bezug: RdErl. v. 26.02.2021 (Nds. MBl. S. 441), geändert durch
+RdErl. vom 02.06.2021 (Nds. MBl. S. 1025)
+– VORIS 21160 –
+
+1. Die Amtshandlungen und Leistungen im amtlichen Vermessungswesen sowie der amtlichen Grund-
+stückswertermittlung sind grundsätzlich kostenpflichtig.
+1.1 Die Kosten für Amtshandlungen und Leistungen im amtlichen Vermessungswesen richten sich nach
+der KOVerm vom 25.03.2017 (Nds. GVBl. S. 68, 162), zuletzt geändert durch Verordnung vom 28.05.2024
+(Nds. GVBl. 2024 Nr. 44).
+1.2 Die Kosten für Amtshandlungen und Leistungen der amtlichen Grundstückswertermittlung richten sich
+nach der GOGut vom 06.11.2023 (Nds. GVBl. S. 263, 286), zuletzt geändert durch Verordnung vom
+13.05.2024 (Nds. GVBl. 2024 Nr. 41).
+2. Die in der Anlage aufgeführten Datensätze des amtlichen Vermessungswesen werden im Einklang
+mit der Durchführungsverordnung (EU) 2023/138 der Kommission vom 21. Dezember 2022 zur Festlegung
+bestimmter hochwertiger Datensätze und der Modalitäten ihrer Veröffentlichung und Weiterverwendung (DVO-
+HVD, ABl. L 19 vom 20.1.2023, S. 43) und dem DNG gebührenfrei i. S. von Open Data abgegeben. Die in der
+Anlage aufgeführten Datensätze der amtlichen Grundstückswertermittlung werden entsprechend der Rege-
+lungen des § 2 Abs. 1 Nr. 2 DNG i. V. m. der gesetzlichen Bereitstellungspflicht nach § 196 Abs. 3 Satz 1
+BauGB und § 16 Abs. 3 und 5 sowie § 17 Abs. 3 DVO -BauGB gebührenfrei als Open Data bereitgestellt.
+2.1 Die in der Anlage aufgeführten Datensätze werden durch das LGLN und die Gutachterausschüsse für
+Grundstückswerte (GAG) sowie dem Oberen Gutachterausschuss für Grundstückswerte (OGA) elektronisch
+über Portale zur Selbstentnahme bereitgestellt. Die Bereitstellung erfolgt vorrangig über Darstellungs- und
+Downloaddienste sowie Anwendungsprogrammierschnittstellen.
+
+Nds. MBl. 2024 Nr. 278 vom 20. Juni 2024 Seite 2
+2.2 Die Datensätze dürfen entsprechend der Regelungen der Allgemeinen Geschäfts- und Nutzungsbe-
+dingungen des LGLN sowie der Nutzungsbedingungen der GAG und des OGA für jeden kommerziellen und
+nicht-kommerziellen Zweck unter der Maßgabe der Namensnennung genutzt werden.
+2.3 Erfolgt die Nutzung der Daten nicht über die Bereitstellung nach Nummer 2.1, ist nach der entspre-
+chenden gebührenrechtlichen Vorschrift (siehe Nummer 1) eine Gebühr für den Aufwand der Datenbereitstel-
+lung zu erheben. Eine Gebühr ist auch anzusetzen, wenn digitale Geobasisdaten oder Geofachdaten auf An-
+forderung der oder des Nutzenden in einer vom Standard abweichenden Art und Weise bereitgestellt werden.
+3. Dieser RdErl. tritt mit Wirkung vom 09.06.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
+Der Bezugserlass tritt mit Ablauf des 08.06.2024 außer Kraft.
+
+An
+das Landesamt für Geoinformation und Landesvermessung Niedersachsen
+die Gutachterausschüsse für Grundstückswerte
+den Oberen Gutachterausschuss für Grundstückswerte
+Nachrichtlich:
+An die
+Öffentlich bestellten Vermessungsingenieurinnen und Öffentlich bestellten Vermessungsingenieure
+anderen behördlichen Vermessungsstellen
+Dienststellen der Landesverwaltung
+Kommunen
+
+Anlage
+
+Datensätze Maßstab/Detailstufe Teilmenge/Ausprägung
+1. Liegenschaftskataster
+1.1 ALKIS (Raster- und Vektordaten) 1 : 1 000
+(Rasterdaten)
+Flurstücke, Gebäude, Tatsächliche Nut-
+zung, Landnutzung, Bodenschätzung,
+Hausumringe
+1.2 Amtliche Karte 1 : 5 000
+(AK5)
+1 : 5 000
+
+1.3 Amtliche Präsentation 1 : 2 500
+(AP2.5)
+1 : 2 500
+
+1.4 Amtliche Präsentation 1 : 10 000
+(AP10)
+1 : 10 000
+
+1.5 Verwaltungsgrenzen Flur- und Gemarkungsgrenzen, Gemein-
+degrenzen, Samtgemeindegrenzen, Gren-
+zen der kreisfreien Städte, der Landkreise und der Region, Landesgrenze
+1.6 Schlüsseltabelle
+
+Kreis-, Gemeinde-, Gemarkungsschlüssel
+1.7 Straßenschlüssel
+
+Einschließlich Gemeindeschlüssel
+2. Geotopografie
+2.1 Digitales Landschaftsmodell
+(DLM)
+Basis-DLM
+2.2 Digitales Geländemodell
+(DGM)
+DGM1
+
+Nds. MBl. 2024 Nr. 278 vom 20. Juni 2024 Seite 3
+Datensätze Maßstab/Detailstufe Teilmenge/Ausprägung
+2.3 Digitales Oberflächenmodell
+(DOM)
+DOM1, bDOM20
+2.4 Digitales Orthophoto
+(DOP)
+Bodenauflösung
+20 cm (DOP20)
+Rot-Grün-Blau (RGB), Rot-Grün-Blau mit
+Infrarot (RGBI)
+2.5 Digitale Topografische Karte
+(DTK)
+25, 50, 100
+2.6 Landbedeckung
+2.7 3-D-Gebäudemodelle Level of Detail 1
+(LoD1)
+Level of Detail 2
+(LoD2)
+
+2.8 Basisvisualisierungen maßstabsunabhän-
+gig
+
+2.9 Digitale Übersichtskarte Nieder-
+sachsen (DÜKN)
+1 : 500 000
+1 : 1 000 000
+Gesamtinhalte als Farbkombination oder
+Einzellayer (Grundriss mit Schrift, Vegeta- tion, Gewässer)
+2.10 Ortsverzeichnis Gemeindeschlüssel, Verwaltungszugehö-
+rigkeit
+3. Raumbezug
+3.1 SAPOS-Dienste Echtzeit-Positionierungs-Service (EPS),
+Hochpräziser-Echtzeit-Positionierungs-
+Service (HEPS), Geodätischer Postpro- cessing Positionierungs-Service (GPPS),
+Online- Berechnungsdienst GPPS- Pro
+3.2 AFIS-Präsentationsausgaben Festpunktübersicht
+4. Wertermittlung
+4.1 Bodenrichtwerte Bodenrichtwertinformationssystem
+4.2 Grundstücksmarktdaten und
+Analyseergebnisse, sonstige zur Wertermittlung erforderliche Da- ten
+interaktive und georeferenzierte Online-
+Anwendungen
+4.3 Marktberichte Grundstücksmarktberichte, Landesgrund-
+stücksmarktberichte
+
+Nummer 2 des RdErl. gilt auch für Versionen der digitalen Datensätze, die nicht mehr aktuell sind (z. B.
+historische Datensätze).
