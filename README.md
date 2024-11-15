@@ -13,6 +13,8 @@ Dieses Projekt strebt an, (wenigstens teilweise) gesäuberte und auswertbare Tex
 
 Der Quellcode und die generierten Inhalte stehen unter der [Creative Commons Attribution 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de).
 
+Die hier publizierten Daten stammen ursprünglich von Verkündungen staatlicher Seite und sind nach [§ 5 Absatz 1 UhrG](https://www.gesetze-im-internet.de/urhg/__5.html) nicht urheberrechtlich geschützt.
+
 ## Hinweise zur Nutzung
 
 ### Metadaten in CSV-Datei
