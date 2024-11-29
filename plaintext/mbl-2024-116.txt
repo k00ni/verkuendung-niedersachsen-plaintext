@@ -19,20 +19,16 @@ Gegenstand dieses Verfahrens waren im Wesentlichen die folgende Maßnahmen:
 – Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
 einschließlich der benötigten E- MSR-Technik,
 – die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
-kW (3,7 MW) einschließlich eines Dieseltanks (24 m³, 90 % Füllhöhe maximal) zur Brennstoffversor-
-gung,
+kW (3,7 MW) einschließlich eines Dieseltanks (24 m³, 90 % Füllhöhe maximal) zur Brennstoffversorgung,
 – den Anschluss an das Umspannwerk Fedderwarden.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
-Der vollständige Bescheid und die genehmigten Antragsunterlagen (soweit sie nicht dem Betriebsgeheim-
-nis unterliegen) können in der Zeit vom 29.02. bis einschließlich 13.03.2024 bei folgenden Stellen eingese-
-hen werden:
+Der vollständige Bescheid und die genehmigten Antragsunterlagen (soweit sie nicht dem Betriebsgeheimnis unterliegen) können in der Zeit vom 29.02. bis einschließlich 13.03.2024 bei folgenden Stellen eingesehen werden:
 – Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, während der
 Dienststunden,
 montags bis donnerstags in der Zeit von 7.30 bis 16.00 Uhr,
 freitags in der Zeit von 7.30 bis 13.00 Uhr;
-– Stadt Wilhelmshaven, im Foyer des Technischen Rathauses, Rathausplatz 9, während der Dienststun-
-den,
+– Stadt Wilhelmshaven, im Foyer des Technischen Rathauses, Rathausplatz 9, während der Dienststunden,
 montags bis donnerstags in der Zeit von 7.30 bis 16.00 Uhr,
 freitags in der Zeit von 7.30 bis 13.00 Uhr.
 Diese Bek. und der Genehmigungsbescheid sind auch im Internet unter https://ww
@@ -40,21 +36,17 @@ Diese Bek. und der Genehmigungsbescheid sind auch im Internet unter https://ww
 dersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/ einsehbar.
 Gemäß § 21 a der 9. BImSchV auf Antrag der Vorhabenträgerin werden der verfügende Teil des
 
-Nds. MBl. 2024 Nr. 116 vom 28. Februar 2024 Seite 2
 Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 
-Nds. MBl. 2024 Nr. 116 vom 28. Februar 2024 Seite 3
 Anlage
 I. Tenor
 
 1. Entscheidung
 Der Firma NeuConnect Deutschland GmbH & Co. KG, Emsstraße 20, 26382 Wilhelmshaven, wird aufgrund
-ihres Antrages vom 27.03.2023, zuletzt ergänzt durch Schreiben vom 18.07.2023 nach Maßgabe dieses Be-
-scheides die 2. Teilgenehmigung zur Errichtung und zum Betrieb einer Umrichterstation (500 kV – 380 kV)
+ihres Antrages vom 27.03.2023, zuletzt ergänzt durch Schreiben vom 18.07.2023 nach Maßgabe dieses Bescheides die 2. Teilgenehmigung zur Errichtung und zum Betrieb einer Umrichterstation (500 kV – 380 kV)
 erteilt. Die 1. Teilgenehmigung vom 20.08.2021 behält weiterhin ihre Gültigkeit.
 2. Gegenstand der zweiten Teilgenehmigung
-Die 2. Teilgenehmigung umfasst die Errichtung und den Betrieb der Umrichterstation mit folgenden Maß-
-nahmen:
+Die 2. Teilgenehmigung umfasst die Errichtung und den Betrieb der Umrichterstation mit folgenden Maßnahmen:
 – Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
 inkl. der benötigten E- MSR-Technik,
 – die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
@@ -72,8 +64,7 @@ Bescheides und liegen diesem zugrunde.
 4. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
 Die Baugenehmigung gemäß § 59 Niedersächsischer Bauordnung (NBauO).
-Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BIm-
-SchG nicht von der Genehmigung eingeschlossen werden.
+Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 5. Kostenentscheidung
 Die Kosten des Verfahrens trägt die Antragstellerin.
 VI. Rechtsbehelfsbelehrung

@@ -10,19 +10,11 @@ Geobasisdaten Niedersachsen
 RdErl. d. MI v. 26.09.2024 – 44-23043/51 –
 – VORIS 21160 –
 
-Die Angaben des amtlichen Vermessungswesens einschließlich der Eigentumsangaben sind als Geoba-
-sisdaten Niedersachsen für das Landesgebiet im Amtlichen Festpunktinformationssystem (AFIS), im Amtli-
-chen Liegenschaftskatasterinformationssystem (ALKIS) und im Amtlichen Topographisch- Kartographischen
+Die Angaben des amtlichen Vermessungswesens einschließlich der Eigentumsangaben sind als Geobasisdaten Niedersachsen für das Landesgebiet im Amtlichen Festpunktinformationssystem (AFIS), im Amtlichen Liegenschaftskatasterinformationssystem (ALKIS) und im Amtlichen Topographisch- Kartographischen
 Informationssystem (ATKIS) zu führen und bereitzustellen.
-Die Erhebung und Führung der Geobasisdaten Niedersachsen hat entsprechend dem von der Arbeits-
-gemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bundes-
-weit vereinbarten objektstrukturierten Datenmodell für AFIS, ALKIS und ATKIS (AAA- Datenmodell) sowie
-den weiteren in der Dokumentation zur Modellierung der Geoinformationen des amtlichen Vermessungswe-
-sens (GeoInfoDok) beschriebenen Anwendungsschemata zu erfolgen. Der digitale Datenaustausch von Ge-
-obasisdaten ist gemäß der fachtechnischen Datenübermittlungsrichtlinie (DÜR) im Format der normbasier-
-ten Austauschschnittstelle (NAS) durchzuführen.
-Die Dokumentation der Geobasisdaten Niedersachsen (Geobasis NI) und die Datenübermittlungsrichtli-
-nie sind in der jeweils geltenden Fassung auf der Internetseite des LGLN unter www.lgln.niedersachsen.de
+Die Erhebung und Führung der Geobasisdaten Niedersachsen hat entsprechend dem von der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bundesweit vereinbarten objektstrukturierten Datenmodell für AFIS, ALKIS und ATKIS (AAA- Datenmodell) sowie
+den weiteren in der Dokumentation zur Modellierung der Geoinformationen des amtlichen Vermessungswesens (GeoInfoDok) beschriebenen Anwendungsschemata zu erfolgen. Der digitale Datenaustausch von Geobasisdaten ist gemäß der fachtechnischen Datenübermittlungsrichtlinie (DÜR) im Format der normbasierten Austauschschnittstelle (NAS) durchzuführen.
+Die Dokumentation der Geobasisdaten Niedersachsen (Geobasis NI) und die Datenübermittlungsrichtlinie sind in der jeweils geltenden Fassung auf der Internetseite des LGLN unter www.lgln.niedersachsen.de
 
 verfügbar.
 Dieser RdErl. tritt am 01. 01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.

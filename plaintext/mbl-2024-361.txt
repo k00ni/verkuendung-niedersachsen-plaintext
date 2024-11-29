@@ -20,9 +20,7 @@ Bezug: Gem. RdErl. v. 28.08.2023 (Nds. MBl. S. 806)
 
 Der Bezugserlass wird mit Wirkung vom 15.08.2024 wie folgt geändert:
 1. In Nummer 1.2 wird nach dem 16. Spiegelstrich der folgende neue 17. Spiegelstrich eingefügt:
-„– Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnah-
-meregelung hinsichtlich der Anwendung des Standards Nummer 8 für den guten landwirtschaft-
-lichen und ökologischen Zustand für das Antragsjahr 2024 (Zweite GAP-Ausnahme- Verordnung
+„– Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelung hinsichtlich der Anwendung des Standards Nummer 8 für den guten landwirtschaftlichen und ökologischen Zustand für das Antragsjahr 2024 (Zweite GAP-Ausnahme- Verordnung
 – 2. GAPAusnV) vom 17.04.2024 (BGBl. 2024 I Nr. 133),“.
 2. Nummer 3.3 Satz 2 erhält folgende Fassung:
 „Bei den Maßnahmen BV 1 , BV 3 und BK 1 sind nur Landwirtinnen und Landwirte zuwendungsfähig.“
@@ -33,22 +31,18 @@ b) Dem vierten Spiegelstrich wird der folgende Satz 2 angefügt:
 „Davon abweichend wird gemäß 2. GAPAusnV bis zu einem Anteil von 4 % der Ackerfläche für
 BV 1 eine Zahlung nach Nummer 11.4 gewährt.“
 
-Nds. MBl. 2024 Nr. 361 vom 15. August 2024 Seite 2
 4. Der Nummer 6.1 wird der folgende Absatz 3 angefügt:
 „Abweichend von Absatz 1 kann für Verpflichtungen, deren Verpflichtungszeitraum am 01.01.2025
-beginnt, der Verpflichtungszeitraum auf vier Jahre verkürzt werden. Dies gilt nicht für die Fördermaß-
-nahmen BV 1, AN 3 und BF 8.“
+beginnt, der Verpflichtungszeitraum auf vier Jahre verkürzt werden. Dies gilt nicht für die Fördermaßnahmen BV 1, AN 3 und BF 8.“
 5. Nummer 7 wird wie folgt geändert:
 a) Nummer 7.3.2 wird wie folgt geändert:
 aa) Es werden die folgenden neuen Absätze 3 und 4 eingefügt:
 „Der letzte Termin zur Änderung des Sammelantrags ist angelehnt an § 22 Abs. 1
 GAPInVeKoSV der 30. September des Antragsjahres.
 Ein Antrag oder eine andere Erklärung kann jederzeit schriftlich ganz oder teilweise bei
-der Bewilligungsbehörde zurückgenommen werden. Hat die Bewilligungsbehörde die Be-
-günstigte oder den Begünstigten bereits auf einen Verstoß hingewiesen, eine Kontrolle vor
+der Bewilligungsbehörde zurückgenommen werden. Hat die Bewilligungsbehörde die Begünstigte oder den Begünstigten bereits auf einen Verstoß hingewiesen, eine Kontrolle vor
 Ort angekündigt oder wird bei einer Kontrolle vor Ort ein Verstoß festgestellt, so können
-die von dem Verstoß betroffenen T eile des Antrags oder der anderen Erklärung nicht zu-
-rückgenommen werden.“
+die von dem Verstoß betroffenen T eile des Antrags oder der anderen Erklärung nicht zurückgenommen werden.“
 bb) Die bisherigen Absätze 3 bis 5 werden Absätze 5 bis 7.
 b) Nummer 7.6.1 wird wie folgt geändert:
 aa) Es wird der folgende neue Absatz 2 eingefügt:
@@ -59,10 +53,8 @@ bb) Die bisherigen Absätze 2 und 3 werden Absätze 3 und 4 .
 a) In Nummer 11.3 wird das Wort „ermittelter“ durch das Wort „zahlungsfähige“ ersetzt.
 b) Es wird die folgende neue Nummer 11.4 eingefügt:
 „11.4 Für GLÖZ-8-Flächen gemäß Nummer 5.5 beträgt die Höhe der jährlichen Zuwendung
-– für stickstoffbindende Pflanzen und/oder Zwischenfrüchte den Betrag gemäß den Num-
-mern 11.1 und 11.2 für die Kultur „Ackerfläche“ und
-– für nichtproduktive Flächen und Landschaftselemente, einschließlich brachliegender Flä-
-chen, den Betrag gemäß Nummer 11.2 für die Kultur „Ackerfläche“.“
+– für stickstoffbindende Pflanzen und/oder Zwischenfrüchte den Betrag gemäß den Nummern 11.1 und 11.2 für die Kultur „Ackerfläche“ und
+– für nichtproduktive Flächen und Landschaftselemente, einschließlich brachliegender Flächen, den Betrag gemäß Nummer 11.2 für die Kultur „Ackerfläche“.“
 c) Die bisherigen Nummern 11.4 und 11.5 werden Nummern 11.5 und 11.6.
 d) In der neuen Nummer 11.5 erster Spiegelstrich wird die Angabe „Buchst. a oder b“ durch die
 Angabe „Buchst. a, b oder d“ ersetzt und nach dem Wort „Ackerland“ werden ein Komma und die
@@ -70,14 +62,11 @@ Worte „Altgrasstreifen oder -flächen in Dauergrünland“ eingefügt.
 7. Der Nummer 12.5 wird der folgende Absatz 3 angefügt:
 „Eine Förderung von Ackerkulturen erfolgt nur bei Ernte der Hauptfrucht. Ist auf der beantragten
 Ackerfläche aus Witterungsgründen, wegen der Vegetationsentwicklung oder aus sonstigen wichtigen
-Gründen kein erntewürdiger Bestand aufgewachsen, so ist das der Bewilligungsbehörde schriftlich be-
-gründet mindestens 14 Tage vor Beseitigung des vorhandenen Pflanzenbestandes (z. B. durch Schle-
-geln oder Häckseln des Aufwuchses) anzuzeigen.“
+Gründen kein erntewürdiger Bestand aufgewachsen, so ist das der Bewilligungsbehörde schriftlich begründet mindestens 14 Tage vor Beseitigung des vorhandenen Pflanzenbestandes (z. B. durch Schlegeln oder Häckseln des Aufwuchses) anzuzeigen.“
 8. In Nummer 17.2 Satz 3 wird die Angabe „1. Dezember“ durch die Angabe „31. Dezember“ ersetzt.
 9. Nummer 45.1 wird wie folgt geändert:
 a) Der bisherige Wortlaut wird Satz 1.
 
-Nds. MBl. 2024 Nr. 361 vom 15. August 2024 Seite 3
 b) Es wird der folgende Satz 2 angefügt:
 „Für landwirtschaftliche Betriebe mit Sitz in Niedersachsen wird eine Zuwendung für maximal
 20 ha bewilligt.“
@@ -92,36 +81,29 @@ b) Es wird der folgende Satz 2 angefügt:
 „Für landwirtschaftliche Betriebe mit Sitz in Niedersachsen und Bremen wird eine Zuwendung für
 maximal 3 ha bewilligt.“
 13. In Nummer 70.7 erhält der Satz nach dem Doppelpunkt folgende Fassung:
-„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flä-
-chen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
+„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flächen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
 Buchst. d GAPDZG gewährten Betrag.“
 14. In Nummer 71.2 wird nach der Angabe „GN 2“ die Angabe „oder GN 4“ eingefügt.
 15. In Nummer 74.12 erhält der Satz nach dem Doppelpunkt folgende Fassung:
-„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flä-
-chen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
+„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flächen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
 Buchst. d GAPDZG gewährten Betrag.“
 16. Nummer 76 wird wie folgt geändert:
 a) Nummer 76.7 Satz 3 wird gestrichen.
 b) In Nummer 76.12 Satz 1 wird das Wort „Fläche“ durch die Worte „gesamten Verpflichtungsfläche
 (Ruhefläche und Schonfläche)“ ersetzt.
 17. In Nummer 78.9 erhält der Satz nach dem Doppelpunkt folgende Fassung:
-„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flä-
-chen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
+„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flächen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
 Buchst. d GAPDZG gewährten Betrag.“
 18. In Nummer 82.8 erhält der Satz nach dem Doppelpunkt folgende Fassung:
-„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flä-
-chen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
+„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flächen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
 Buchst. d GAPDZG gewährten Betrag.“
 19. In Nummer 87.3 wird die Angabe „Nummer 6.6“ durch die Angabe „Nummer 6.7“ ersetzt.
 20. Nummer 91 wird wie folgt geändert:
 a) Es wird die folgende neue Nummer 91.2 eingefügt:
 „91.2 Zuwendungsfähig ist die festgestellte förderfähige Fläche, welche nach erfolgtem Einstau
-auf mindestens 50 % dieser Fläche eine Veränderung des Wasserstandes ermöglicht. Die för-
-derfähige Fläche ist durch die oder den Begünstigten durch geeignete Unterlagen bis zur Bewil-
-ligung nachzuweisen.“
+auf mindestens 50 % dieser Fläche eine Veränderung des Wasserstandes ermöglicht. Die förderfähige Fläche ist durch die oder den Begünstigten durch geeignete Unterlagen bis zur Bewilligung nachzuweisen.“
 b) Die bisherige Nummer 91.2 wird Nummer 91.3.
 
-Nds. MBl. 2024 Nr. 361 vom 15. August 2024 Seite 4
 21. Nummer 92 wird wie folgt geändert:
 a) In Nummer 92.1 werden die Worte „mindestens 50 % der beantragten Fläche“ durch die Worte
 „der festgestellten Fläche “ ersetzt.
@@ -138,16 +120,14 @@ Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrass
 Abs. 1 Nr. 1 Buchst. d GAPDZG gewährten Betrag.“
 b) Die bisherige Nummer 96.9 wird Nummer 96.10.
 23. In Nummer 100.8 erhält der Satz nach dem Doppelpunkt folgende Fassung:
-„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flä-
-chen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
+„Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrasstreifen oder - flächen in Dauergrünland) reduziert sich die Zahlung nach dieser Richtlinie um den nach § 20 Abs. 1 Nr. 1
 Buchst. d GAPDZG gewährten Betrag.“
 24. Nummer 102 wird wie folgt geändert:
 a) Nummer 102.5 wird wie folgt geändert:
 aa) Es wird der folgende neue Satz 2 eingefügt:
 „Pflegemaßnahmen (z. B. das Schleppen, Walzen und Striegeln) sind zulässig.“
 bb) Der bisherige Satz 2 wird Satz 3.
-b) In Nummer 102.12 werden nach dem Wort „Verpflichtungsjahr“ die Worte „zwingend durch Be-
-weidung oder Mahd mit Abfuhr“ eingefügt und das Wort „darf“ wird durch das Wort „muss“ ersetzt.
+b) In Nummer 102.12 werden nach dem Wort „Verpflichtungsjahr“ die Worte „zwingend durch Beweidung oder Mahd mit Abfuhr“ eingefügt und das Wort „darf“ wird durch das Wort „muss“ ersetzt.
 25. Nummer 107.1 wird wie folgt geändert:
 a) Der bisherige Wortlaut wird Satz 1.
 b) Es wird der folgende Satz 2 angefügt:
@@ -163,7 +143,6 @@ Bei Teilnahme an der Regelung nach § 20 Abs. 1 Nr. 1 Buchst. d GAPDZG (Altgrass
 Abs. 1 Nr. 1 Buchst. d GAPDZG gewährten Betrag.“
 b) Die bisherigen Nummern 110.12 und 110.13 werden Nummern 110.13 und 110.14.
 
-Nds. MBl. 2024 Nr. 361 vom 15. August 2024 Seite 5
 27. Nummer 111.1 wird wie folgt geändert:
 a) Der bisherige Wortlaut wird Satz 1.
 b) Es wird der folgende Satz 2 angefügt:

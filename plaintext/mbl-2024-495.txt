@@ -20,18 +20,15 @@ der EU nach Maßgabe dieser Richtlinie und der VV/VV-Gk zu § 44 LHO den Träger
 Hochwasserschutz im Binnenland Zuwendungen, um durch die Verbesserung des Hochwasserschutzes die
 nachhaltige Entwicklung, insbesondere des ländlichen Raums, unter Berücksichtigung der Ziele der Richtlinie
 2007/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Bewertung und das
-Management von Hochwasserrisiken (ABl. L 288 vom 6.11.2007, S. 27) – EG-Hochwasserrisikomanagement-
-Richtlinie (HWRM-RL) – zu stärken.
+Management von Hochwasserrisiken (ABl. L 288 vom 6.11.2007, S. 27) – EG-HochwasserrisikomanagementRichtlinie (HWRM-RL) – zu stärken.
 1.2 Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
 – des GAKG i. d. F. vom 21.07.1988 (BGBl. I S. 1055), zuletzt geändert durch Gesetz vom 11.10.2016
-(BGBl. I S. 2231), nach Maßgabe der dazu jeweils geltenden Fördergrundsätze für wasserwirtschaftli-
-che Maßnahmen,
+(BGBl. I S. 2231), nach Maßgabe der dazu jeweils geltenden Fördergrundsätze für wasserwirtschaftliche Maßnahmen,
 und bei finanzieller Beteiligung der EU gemäß den Regelungen
 – der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021
 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen
 Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL)
-und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu fi-
-nanzierenden Strategiepläne (GAP- Strategiepläne) und zur Aufhebung der Verordnung (EU)
+und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP- Strategiepläne) und zur Aufhebung der Verordnung (EU)
 Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom
 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137), zuletzt geändert durch die Verordnung (EU) 2024/1468
 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468, 24.5.2024) sowie
@@ -39,7 +36,6 @@ dem hierzu ergangenen Folgerecht der EU,
 – der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit
 gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 2
 Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und
 den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese
 Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das
@@ -51,51 +47,37 @@ in der jeweils geltenden Fassung.
 Die Zuwendung kann nach Maßgabe des § 44 LHO und der VV/VV-Gk zu § 44 LHO auch ausschließlich
 aus Landesmitteln oder Bundes- und Landesmitteln gewährt werden.
 1.3 Zweck der Förderung ist durch Investitionen für den Hochwasserschutz vorbeugende Maßnahmen zur
-Verringerung der Folgen von wahrscheinlichen Naturkatastrophen, widrigen Witterungsverhältnissen, Kata-
-strophenereignissen und Klimawandel vorzubereiten und umzusetzen.
+Verringerung der Folgen von wahrscheinlichen Naturkatastrophen, widrigen Witterungsverhältnissen, Katastrophenereignissen und Klimawandel vorzubereiten und umzusetzen.
 1.4 Soweit nichts anderes bestimmt ist, gelten die in dieser Richtlinie enthaltenen Regelungen für das
-gesamte Landesgebiet Niedersachsens und das Gebiet der Freien Hansestadt Bremen, also für das Pro-
-grammgebiet der Regionenkategorie „Übergangsregionen“ (ÜR) gemäß Artikel 91 Abs. 2 Buchst. c der Ver-
-ordnung (EU) 2021/2115 i. V. m. Artikel 108 Abs. 2 Buchst. b der Verordnung (EU) 2021/1060, bestehend aus
-den Landkreisen Celle, Cuxhaven, Harburg, Heidekreis, Lüchow-Dannenberg, Lüneburg, Osterholz, Roten-
-burg (Wümme), Stade, Uelzen und Verden, sowie für das aus dem übrigen Landesgebiet Niedersachsens und
-dem Gebiet der Freien Hansestadt Bremen bestehende Programmgebiet der Regionenkategorie „stärker ent-
-wickelte Regionen“ (SER) gemäß Artikel 91 Abs. 2 Buchst. d der Verordnung (EU) 2021/2115 i. V. m. Arti-
-kel 108 Abs. 2 Buchst. c der Verordnung (EU) 2021/1060.
+gesamte Landesgebiet Niedersachsens und das Gebiet der Freien Hansestadt Bremen, also für das Programmgebiet der Regionenkategorie „Übergangsregionen“ (ÜR) gemäß Artikel 91 Abs. 2 Buchst. c der Verordnung (EU) 2021/2115 i. V. m. Artikel 108 Abs. 2 Buchst. b der Verordnung (EU) 2021/1060, bestehend aus
+den Landkreisen Celle, Cuxhaven, Harburg, Heidekreis, Lüchow-Dannenberg, Lüneburg, Osterholz, Rotenburg (Wümme), Stade, Uelzen und Verden, sowie für das aus dem übrigen Landesgebiet Niedersachsens und
+dem Gebiet der Freien Hansestadt Bremen bestehende Programmgebiet der Regionenkategorie „stärker entwickelte Regionen“ (SER) gemäß Artikel 91 Abs. 2 Buchst. d der Verordnung (EU) 2021/2115 i. V. m. Artikel 108 Abs. 2 Buchst. c der Verordnung (EU) 2021/1060.
 1.5 Ein Anspruch der Zuwendungsempfänger – im Bereich des Unionsrechts auch Begünstigte genannt –
 auf Gewährung einer Zuwendung besteht nicht; vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres
 pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 2. Gegenstand der Förderung
 2.1 Gefördert werden folgende wasserwirtschaftliche Vorhaben, die der Abwehr von Naturkatastrophen,
-insbesondere von Hochwasser im Binnenland, sowie der Erhöhung der Sicherheit vor Überflutung durch Hoch-
-wasser dienen:
+insbesondere von Hochwasser im Binnenland, sowie der Erhöhung der Sicherheit vor Überflutung durch Hochwasser dienen:
 2.1.1 Neubau und Erweiterung von Hochwasserschutzanlagen, insbesondere von Deichen einschließlich
 Deichverteidigungswegen, Dämmen, Talsperren und Schöpfwerken,
-2.1.2 Rückbau von Deichen zur Verbesserung des Hochwasserschutzes, insbesondere zur Wiedergewin-
-nung von Überschwemmungsgebieten,
+2.1.2 Rückbau von Deichen zur Verbesserung des Hochwasserschutzes, insbesondere zur Wiedergewinnung von Überschwemmungsgebieten,
 2.1.3 Grundinstandsetzung vorhandener Schöpfwerke,
-2.1.4 konzeptionelle Vorarbeiten und Erhebungen sowie i. S. des Zuwendungszwecks erforderliche Maßnah-
-men, die im sachlichen Zusammenhang mit den Vorhaben nach den Nummern 2.1.1 bis 2.1.3 stehen,
+2.1.4 konzeptionelle Vorarbeiten und Erhebungen sowie i. S. des Zuwendungszwecks erforderliche Maßnahmen, die im sachlichen Zusammenhang mit den Vorhaben nach den Nummern 2.1.1 bis 2.1.3 stehen,
 wie z. B.
-– Planungen (z. B. Machbarkeitsstudien, alternative Untersuchungen, Hochwasserschutzkonzepti-
-onen und - pläne, Planungen gemäß Leistungsbildern der HOAI) und ggf. Projektsteuerung,
+– Planungen (z. B. Machbarkeitsstudien, alternative Untersuchungen, Hochwasserschutzkonzeptionen und - pläne, Planungen gemäß Leistungsbildern der HOAI) und ggf. Projektsteuerung,
 – Zweckforschungen (z. B. Langzeitbeobachtungen, Funktionskontrollen),
 – Einzelfalluntersuchungen (z. B. Datenerhebungen, Beweissicherungen),
-– Beratung von örtlichen Akteuren im Hinblick auf eine flussgebietsweise Betrachtung des Hoch-
-wasserschutzes.
+– Beratung von örtlichen Akteuren im Hinblick auf eine flussgebietsweise Betrachtung des Hochwasserschutzes.
 2.2 Von der Förderung ausgeschlossen sind:
 a) der Bau von Verwaltungsgebäuden;
 b) die Beschaffung von Kraftfahrzeugen und Geräten;
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 3
 c) die Unterhaltung von Gewässern und wasserwirtschaftlichen Anlagen;
 d) mobile Hochwasserschutzsysteme;
 e) gewässerkundliche Daueraufgaben;
 f) institutionelle Förderungen;
 g) Grunderwerb zur Realisierung baulicher Anlagen, soweit er 10 % der förderfähigen Gesamtausgaben
-übersteigt. Bei Brachflächen und ehemals industriell genutzten Flächen mit Gebäuden erhöht sich die-
-ser Grenzwert auf 15 %. In ordnungsgemäß begründeten Ausnahmefällen kann der Grenzwert für Um-
-weltschutzvorhaben über die jeweiligen vorstehend genannten Prozentsätze hinaus angehoben werden.
+übersteigt. Bei Brachflächen und ehemals industriell genutzten Flächen mit Gebäuden erhöht sich dieser Grenzwert auf 15 %. In ordnungsgemäß begründeten Ausnahmefällen kann der Grenzwert für Umweltschutzvorhaben über die jeweiligen vorstehend genannten Prozentsätze hinaus angehoben werden.
 Grunderwerb als alleiniger Bestandteil eines Projektes ist bei einer Förderung mit ELER-Mitteln nicht
 zulässig. Bei Förderungen allein aus Landesmitteln beträgt der Grenzwert grundsätzlich 50 %;
 h) Grunderwerb landwirtschaftlich nutzbarer Flächen in Hochwasserrückhaltebecken und - poldern;
@@ -105,86 +87,62 @@ erstellenden Verzeichnis nicht förderfähiger Investitionen und Ausgabekategori
 Kapitel 4.7.1 des GAP-Strategieplans – aufgelistet sind. Es findet jeweils die Liste Anwendung, die zum
 Zeitpunkt des jeweiligen Förderaufrufes gilt.
 2.3 Änderung bei laufenden Bauvorhaben
-Bei bereits mit Mitteln dieser Richtlinie beschiedenen Bauvorhaben sind Änderungen während der Bau-
-phase grundsätzlich förderfähig, solange diese im Rahmen der wasserbehördlichen Genehmigung liegen und
-zur Erreichung des Zuwendungszwecks erforderlich sind. Die Grundsätze von Wirtschaftlichkeit und Sparsam-
-keit bleiben hierdurch unberührt.
+Bei bereits mit Mitteln dieser Richtlinie beschiedenen Bauvorhaben sind Änderungen während der Bauphase grundsätzlich förderfähig, solange diese im Rahmen der wasserbehördlichen Genehmigung liegen und
+zur Erreichung des Zuwendungszwecks erforderlich sind. Die Grundsätze von Wirtschaftlichkeit und Sparsamkeit bleiben hierdurch unberührt.
 3. Zuwendungsempfänger
-Zuwendungen können gewährt werden an Gebietskörperschaften und sonstige Körperschaften des öffent-
-lichen Rechts sowie an juristische Personen, denen Unterhaltungspflichten an Gewässern obliegen und die
+Zuwendungen können gewährt werden an Gebietskörperschaften und sonstige Körperschaften des öffentlichen Rechts sowie an juristische Personen, denen Unterhaltungspflichten an Gewässern obliegen und die
 im öffentlichen Interesse tätig sind.
 4. Bewilligungsvoraussetzungen
-4.1 Vorhaben der Nummern 2.1.1 und 2.1.2 dürfen grundsätzlich nur im Rahmen eines Hochwasser-
-schutzkonzepts gefördert werden, nachdem sie mit den betroffenen Ober- und Unterliegern erörtert wurden.
+4.1 Vorhaben der Nummern 2.1.1 und 2.1.2 dürfen grundsätzlich nur im Rahmen eines Hochwasserschutzkonzepts gefördert werden, nachdem sie mit den betroffenen Ober- und Unterliegern erörtert wurden.
 Der Wiedergewinnung von Überschwemmungsgebieten nach Nummer 2.1.2 ist gegenüber dem Neubau oder
 der Erweiterung von Hochwasserschutzanlagen nach Nummer 2.1.1 Vorrang zu geben.
-Die mit ELER-Mitteln geförderten Vorhaben müssen dabei eine nachhaltige Entwicklung des Programm-
-gebietes u. a. im Zusammenhang mit der Sicherung des landwirtschaftlichen Produktionspotenzials bewirken.
-Bei ihrer Planung und Durchführung sind die Grundsätze einer nachhaltigen Wasserwirtschaft, die Erforder-
-nisse des Umweltschutzes, des Naturschutzes und der Landschaftspflege zu berücksichtigen.
-4.2 Vorhaben nach den Nummern 2.1.1 und 2.1.2 müssen dem Schutz vor einem Bemessungshochwas-
-ser (ein Hochwasser, welches statistisch einmal in 100 Jahren zu erwarten ist [HQ
+Die mit ELER-Mitteln geförderten Vorhaben müssen dabei eine nachhaltige Entwicklung des Programmgebietes u. a. im Zusammenhang mit der Sicherung des landwirtschaftlichen Produktionspotenzials bewirken.
+Bei ihrer Planung und Durchführung sind die Grundsätze einer nachhaltigen Wasserwirtschaft, die Erfordernisse des Umweltschutzes, des Naturschutzes und der Landschaftspflege zu berücksichtigen.
+4.2 Vorhaben nach den Nummern 2.1.1 und 2.1.2 müssen dem Schutz vor einem Bemessungshochwasser (ein Hochwasser, welches statistisch einmal in 100 Jahren zu erwarten ist [HQ
 100]), dienen. Sofern die
 oberste Landesbehörde einen entsprechenden Klimabeiwert eingeführt hat, kann auch der Schutz vor einem
 Bemessungshochwasser HQ
 100 einschließlich der Berücksichtigung eines Klimabeiwerts gefördert werden.
-4.3 Von der Förderung ausgeschlossen sind Vorhaben, für die bereits eine Förderung aus anderen Finan-
-zierungsquellen erfolgt (Ausschluss der Doppelfinanzierung).
+4.3 Von der Förderung ausgeschlossen sind Vorhaben, für die bereits eine Förderung aus anderen Finanzierungsquellen erfolgt (Ausschluss der Doppelfinanzierung).
 5. Art und Umfang, Höhe der Zuwendung
-5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektför-
-derung gewährt.
+5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektförderung gewährt.
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 4
 5.2 Höhe der Zuwendung
 5.2.1 Bei Vorhaben, die ausschließlich mit GAK-Mitteln oder mit Mitteln des Landes Niedersachsen oder
-der Freien Hansestadt Bremen gefördert werden, beträgt die Höhe der Zuwendung bis zu 70 % der förderfä-
-higen Ausgaben.
-Bei Vorhaben, die im übergeordneten wasserwirtschaftlichen Interesse liegen und bei denen die Unterlie-
-ger besondere Vorteile durch das Vorhaben genießen, kann die Höhe der Zuwendung nach Verfügbarkeit der
+der Freien Hansestadt Bremen gefördert werden, beträgt die Höhe der Zuwendung bis zu 70 % der förderfähigen Ausgaben.
+Bei Vorhaben, die im übergeordneten wasserwirtschaftlichen Interesse liegen und bei denen die Unterlieger besondere Vorteile durch das Vorhaben genießen, kann die Höhe der Zuwendung nach Verfügbarkeit der
 Haushaltsmittel ausnahmsweise bis zu 80 % der förderfähigen Ausgaben betragen.
 Im Besonderen übergeordneten wasserwirtschaftlichen Interesse sind solche Vorhaben,
 – die Synergieeffekte für die Erreichung der Ziele anderer Förderrichtlinien des Landes Niedersachsen
 oder der Freien Hansestadt Bremen haben (z. B. Naturnahe Entwicklung der Oberflächengewässer,
 Landschaftswerte),
-– bei denen sich Kommunen und/oder ein oder mehrere Wasser- und Bodenverbände zusammenge-
-schlossen haben und
+– bei denen sich Kommunen und/oder ein oder mehrere Wasser- und Bodenverbände zusammengeschlossen haben und
 – die von einem Wasser- und Bodenverband auf dem Gebiet mehrerer Kommunen umgesetzt werden.
 5.2.2 Bei Vorhaben, die mit ELER-Mitteln gefördert werden, beträgt die Höhe der Zuwendung 80 % der
 förderfähigen Ausgaben.
 5.2.3 Vorhaben mit förderfähigen Ausgaben von weniger als 50 000 EUR zum Zeitpunkt der Bewilligung
 werden nicht aus ELER-Mitteln gefördert.
-5.2.4 Vorhaben von Gebietskörperschaften und deren Zusammenschlüssen werden in Niedersachsen ab-
-weichend von VV-Gk Nr. 1.1 zu § 44 LHO bereits mit einer Höhe der Zuwendung von mindestens 10 000 EUR
+5.2.4 Vorhaben von Gebietskörperschaften und deren Zusammenschlüssen werden in Niedersachsen abweichend von VV-Gk Nr. 1.1 zu § 44 LHO bereits mit einer Höhe der Zuwendung von mindestens 10 000 EUR
 gefördert.
-5.2.5 Vorhaben gemäß Nummer 2.1.3 werden ausschließlich mit ELER-Mitteln nach Nummer 5.2.2 kofinan-
-ziert gefördert. Bei dem Eigenanteil des Begünstigten handelt es sich um öffentliche Mittel oder um gleichge-
-stellte öffentliche Mittel.
-Werden Vorhaben gemäß den Nummern 2.1.1 und 2.1.2 ausschließlich mit ELER-Mitteln kofinanziert ge-
-fördert, gilt Absatz 1 Satz 2 entsprechend.
+5.2.5 Vorhaben gemäß Nummer 2.1.3 werden ausschließlich mit ELER-Mitteln nach Nummer 5.2.2 kofinanziert gefördert. Bei dem Eigenanteil des Begünstigten handelt es sich um öffentliche Mittel oder um gleichgestellte öffentliche Mittel.
+Werden Vorhaben gemäß den Nummern 2.1.1 und 2.1.2 ausschließlich mit ELER-Mitteln kofinanziert gefördert, gilt Absatz 1 Satz 2 entsprechend.
 5.2.6 Ist das Land Niedersachsen oder die Freie Hansestadt Bremen aufgrund gesetzlicher Verpflichtungen
 Zuwendungsempfänger oder aufgrund gesetzlicher Bestimmungen zur Zahlung der Baukosten verpflichtet,
 beträgt die Förderung abweichend von den Nummern 5.2.1 und 5.2.2 100 % der förderfähigen Ausgaben.
-5.3 Förderfähig sind die im unmittelbaren Zusammenhang mit der Ausführung eines Vorhabens anfallen-
-den Ausgaben, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck
-des Vorhabens zu erreichen, einschließlich der Umsatzsteuer, sofern der Antragsteller nicht vorsteuerabzugs-
-berechtigt ist.
+5.3 Förderfähig sind die im unmittelbaren Zusammenhang mit der Ausführung eines Vorhabens anfallenden Ausgaben, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck
+des Vorhabens zu erreichen, einschließlich der Umsatzsteuer, sofern der Antragsteller nicht vorsteuerabzugsberechtigt ist.
 5.4 Eigenanteil, Sachleistungen
 Der Eigenanteil ist in der Regel aus Eigenmitteln (Zahlungs-/Barmitteln) des Zuwendungsempfängers zu
 erbringen.
 Sachleistungen des Zuwendungsempfängers können in Niedersachsen den Eigenanteil nach vorheriger
 Zustimmung der Bewilligungsbehörde ergänzen oder ersetzen. Diese Sachleistungen (dazu zählen Kosten für
 eigene Geräte, eigenes Personal, eigenes Material o. Ä.), für die keine durch Rechnungen oder gleichwertige
-Belege nachgewiesene Zahlung erfolgt ist, können jeweils in Höhe von bis zu 80 % der entsprechenden Aus-
-gaben, die bei Fremdvergabe an ein Unternehmen anfallen würden, in Ansatz gebracht werden. Zu den in
+Belege nachgewiesene Zahlung erfolgt ist, können jeweils in Höhe von bis zu 80 % der entsprechenden Ausgaben, die bei Fremdvergabe an ein Unternehmen anfallen würden, in Ansatz gebracht werden. Zu den in
 Satz 1 genannten Sachleistungen sind nur solche Leistungen zu zählen, die unmittelbar der Durchführung des
-geförderten Projekts zuzurechnen sind, nicht jedoch Ausgaben im Zusammenhang mit dem Zuwendungsver-
-fahren.
-Die Summe der Zuwendung darf die Höhe der tatsächlich geleisteten förderfähigen Ausgaben nicht über-
-schreiten.
+geförderten Projekts zuzurechnen sind, nicht jedoch Ausgaben im Zusammenhang mit dem Zuwendungsverfahren.
+Die Summe der Zuwendung darf die Höhe der tatsächlich geleisteten förderfähigen Ausgaben nicht überschreiten.
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 5
-Bemessungsgrundlagen sind die für das Vorhaben anfallenden Ausgaben abzüglich etwaiger nicht öffent-
-licher oder gleichgestellter Finanzierungsbeiträge Dritter.
+Bemessungsgrundlagen sind die für das Vorhaben anfallenden Ausgaben abzüglich etwaiger nicht öffentlicher oder gleichgestellter Finanzierungsbeiträge Dritter.
 5.5 Sonstige Finanzierungsanteile
 5.5.1 Soweit sonstige Landesmittel oder finanzielle Beteiligungen Dritter eingesetzt werden, reduzieren sie
 den GAK-Anteil oder den Anteil der Landesmittel für den Hochwasserschutz.
@@ -195,20 +153,17 @@ von dem Fördervorhaben vorzunehmen. Eine Zuwendung für diese Vorhaben ist nich
 ELER-Anteil ausschließlich auf die Höhe der gesamten öffentlichen Ausgaben zu beziehen.
 5.6 Weitergabe der Zuwendung
 Die Zuwendungsempfänger dürfen die Zuwendung nicht an natürliche Personen oder juristische Personen
-des Privatrechts weitergeben oder ausleihen. Die Bewilligungsbehörde kann bei Vorhaben ohne ELER-Betei-
-ligung in begründeten Einzelfällen Ausnahmen zulassen, wenn dadurch sichergestellt ist, dass ein Vorhaben
+des Privatrechts weitergeben oder ausleihen. Die Bewilligungsbehörde kann bei Vorhaben ohne ELER-Beteiligung in begründeten Einzelfällen Ausnahmen zulassen, wenn dadurch sichergestellt ist, dass ein Vorhaben
 wirtschaftlich günstiger durchgeführt werden kann.
 5.7 Anrechnung von Vorteilen der Zuwendungsempfänger
-Zuwendungsempfänger dürfen nicht geringer belastet werden, als ihnen unter Berücksichtigung aller Vor-
-teile zugemutet werden kann. Dabei sollen die Vorteile der Zuwendungsempfänger durch Eigenleistungen in
+Zuwendungsempfänger dürfen nicht geringer belastet werden, als ihnen unter Berücksichtigung aller Vorteile zugemutet werden kann. Dabei sollen die Vorteile der Zuwendungsempfänger durch Eigenleistungen in
 angemessener Höhe berücksichtigt werden.
 6. Sonstige Zuwendungsbestimmungen
 6.1 Der Zuwendungsempfänger ist verpflichtet, eine Überprüfung der beantragten Vorhaben durch die
 Kontrollinstanzen zuzulassen. Dazu zählen die Bewilligungsbehörde, das MU, die Rechnungshöfe von EU,
 Bund und Land, die EU-Kommission und deren Beauftragte. Den Kontrollinstanzen ist auf Verlangen Einblick
 in die entsprechenden Unterlagen zu gewähren. Zum Zweck der Evaluierung der Fördermaßnahme sind die
-erforderlichen Auskünfte zu erteilen sowie für eventuelle Vor-Ort-Kontrollen ein Betretungsrecht für alle Be-
-triebsflächen und Betriebsräume einzuräumen.
+erforderlichen Auskünfte zu erteilen sowie für eventuelle Vor-Ort-Kontrollen ein Betretungsrecht für alle Betriebsflächen und Betriebsräume einzuräumen.
 Diese Pflicht ist vom Zuwendungsempfänger auf ggf. beauftragte Dienstleister zu übertragen.
 6.2 Hinweispflichten bei GAK-Förderung
 Bei Finanzierungen aus der Gemeinschaftsaufgabe ist im Bewilligungsbescheid auf die Beteiligung des
@@ -227,12 +182,9 @@ sind.
 Bewilligungsbehörde ist der NLWKN. Die Bewilligungsbehörde stellt die für die Antragsstellung, den
 Mittelabruf und den Verwendungsnachweis erforderlichen Informationen auf ihrer Internetseite
 (www.nlwkn.niedersachsen.de
-) bereit. Der NLWKN nimmt in einer anderen Organisationseinheit auch die Auf-
-gaben der fachlich zuständigen, technischen, staatlichen Dienststelle wahr.
+) bereit. Der NLWKN nimmt in einer anderen Organisationseinheit auch die Aufgaben der fachlich zuständigen, technischen, staatlichen Dienststelle wahr.
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 6
-Für bremische Antragsteller, deren Vorhaben ohne ELER-Beteiligung national finanziert werden, ist Bewil-
-ligungsbehörde und fachlich zuständige, technische, staatliche Dienststelle die Senatorin für Umwelt, Klima
+Für bremische Antragsteller, deren Vorhaben ohne ELER-Beteiligung national finanziert werden, ist Bewilligungsbehörde und fachlich zuständige, technische, staatliche Dienststelle die Senatorin für Umwelt, Klima
 und Wissenschaft (SUKW).
 7.3 Antragsverfahren
 7.3.1 Förderanträge sind unter der Verwendung des amtlichen Vordrucks an den NLWKN zu richten. Dem
@@ -252,20 +204,16 @@ unter der Verwendung des amtlichen Vordrucks an die SUKW zu richten.
 und formalen Auswahlkriterien (siehe Anlage ).
 7.4 Ergänzende Anweisungen für mit ELER-Mitteln finanzierte Vorhaben
 7.4.1 Die Zuwendung darf nur soweit und nicht eher ausgezahlt werden, als die förderfähigen Ausgaben
-vom Begünstigten getätigt oder erbracht, zahlenmäßig nachgewiesen und von der Bewilligungsbehörde ge-
-prüft sind (Ausgabenerstattungsprinzip).
+vom Begünstigten getätigt oder erbracht, zahlenmäßig nachgewiesen und von der Bewilligungsbehörde geprüft sind (Ausgabenerstattungsprinzip).
 7.4.2 Nach Titel VII der Verordnung (EU) 2021/2115 werden die Fördermaßnahmen wirksam begleitet und
-bewertet. Der Begünstigte ist zu verpflichten, entsprechend einer Anforderung alle erforderlichen Informatio-
-nen zu übermitteln, die eine Begleitung und eine Bewertung des Programms, insbesondere hinsichtlich der
+bewertet. Der Begünstigte ist zu verpflichten, entsprechend einer Anforderung alle erforderlichen Informationen zu übermitteln, die eine Begleitung und eine Bewertung des Programms, insbesondere hinsichtlich der
 Verwirklichung spezifizierter Ziele und Prioritäten, ermöglichen (Artikel 141 der Verordnung [EU] 2021/2115).
 7.5 Landeseigene ELER-Vorhaben
 Bei Vorhaben in der Trägerschaft des Landes Niedersachsen oder der Freien Hansestadt Bremen tritt die
-Mittelzuweisung an die Stelle des Bewilligungsbescheides. Alle im Rahmen dieser Richtlinie getroffenen Re-
-gelungen gelten dabei entsprechend.
+Mittelzuweisung an die Stelle des Bewilligungsbescheides. Alle im Rahmen dieser Richtlinie getroffenen Regelungen gelten dabei entsprechend.
 8. Schlussbestimmungen
 8.1 Staatliche Beihilfen
-Für die nach dieser Richtlinie gewährten Zuwendungen gilt Artikel 145 der VO (EU) 2021/2115 in Verbin-
-dung mit Artikel 42 des Vertrags über die Arbeitsweise der Europäischen Union in der konsolidierten Fassung
+Für die nach dieser Richtlinie gewährten Zuwendungen gilt Artikel 145 der VO (EU) 2021/2115 in Verbindung mit Artikel 42 des Vertrags über die Arbeitsweise der Europäischen Union in der konsolidierten Fassung
 vom 7. Juni 2016 (ABl. C 202 vom 7.6.2016, S. 1; C 400 vom 28.10.2016, S. 1; C 59 vom 23.2.2017, S. 1),
 zuletzt geändert durch die Verordnung (EU, EURATOM) 2024/2019 des Europäischen Parlaments und des
 Rates vom 11. April 2024 (ABl. L, 2024/2019, 12.8.2024) . Eine zusätzliche beihilferechtliche Prüfung ist nicht
@@ -277,7 +225,6 @@ Dienststellen der Wasserwirtschafts- und Naturschutzverwaltung
 Kommunen und Zusammenschlüsse von Kommunen in der Rechtsform juristischer Personen des öffentlichen Rechts
 Träger von Vorhaben der Wasserwirtschaft
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 7
 Anlage
 Auswahlkriterien
 1. Fachliche Kriterien
@@ -285,12 +232,10 @@ Mit den Kriterien dieses Abschnittes soll die Förderwürdigkeit und Dringlichke
 werden können.
 Kriterium Bewertung
 1.1 räumliche Lage des Vorhabens
-Das Vorhaben bezieht sich auf Hochwasserschutz für ein Risikogebiet gemäß § 73 WHG (EG-
-Hochwasserrisikomanagement-Richtlinie [HWRM-RL]).
+Das Vorhaben bezieht sich auf Hochwasserschutz für ein Risikogebiet gemäß § 73 WHG (EGHochwasserrisikomanagement-Richtlinie [HWRM-RL]).
 ☐ trifft zu
 ☐ trifft nicht zu
-Maßgeblich sind die Hochwassergefahren- und Risikokarten gemäß § 74 WHG für Hoch-
-wasser mit mittlerer Wahrscheinlichkeit (HQ
+Maßgeblich sind die Hochwassergefahren- und Risikokarten gemäß § 74 WHG für Hochwasser mit mittlerer Wahrscheinlichkeit (HQ
 100).
 
 
@@ -321,8 +266,7 @@ zusätzlich notwendig.
 5 Punkte
 0 Punkte
 1.4 laufende Planungen (vorhandene Planungsgrundlagen)
-Grundlagenermittlung und Vorplanung (HOAI, Leistungsphasen 1 und 2) und/oder eine Mach-
-barkeitsstudie und Voruntersuchungen liegen bereits vor.
+Grundlagenermittlung und Vorplanung (HOAI, Leistungsphasen 1 und 2) und/oder eine Machbarkeitsstudie und Voruntersuchungen liegen bereits vor.
 ☐ trifft zu
 ☐ trifft nicht zu
 
@@ -331,8 +275,7 @@ barkeitsstudie und Voruntersuchungen liegen bereits vor.
 4 Punkte
 0 Punkte
 1.5 laufende Bauvorhaben
-Bei dem beantragten Vorhaben handelt es sich um einen weiteren Abschnitt eines Vorha-
-bens.
+Bei dem beantragten Vorhaben handelt es sich um einen weiteren Abschnitt eines Vorhabens.
 ☐ trifft zu
 ☐ trifft nicht zu
 
@@ -341,7 +284,6 @@ bens.
 5 Punkte
 0 Punkte
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 8
 1.6 Nutzen-Kosten-Relation bei Bauvorhaben zur Umsetzung
 Die Relation der Baukosten zum Schadenspotenz ial im zu schützenden Untersuchungsraum
 ist
@@ -381,8 +323,7 @@ Die Auswirkungen der Fehlhöhe erhöhen die Dringlichkeit.
 0 Punkte
 1.8 Mängel an Hochwasserschutzanlagen (z. B. Deichkörpern)
 Die Sicherheit des Bauwerks ist
-☐ nicht ausreichend (Dichtung, Böschungsneigung, Kronenbreite, fehlende Berme, Deich-
-verteidigungsweg etc.)
+☐ nicht ausreichend (Dichtung, Böschungsneigung, Kronenbreite, fehlende Berme, Deichverteidigungsweg etc.)
 ☐ ausreichend
 Die vorhandenen Mängel erhöhen die Dringlichkeit.
 ☐ trifft in besonders hohem Maße zu
@@ -413,7 +354,6 @@ identifizierten Schadenspotenz iale erforderlich.
 7 Punkte
 5 Punkte
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 9
 ☐ trifft weniger zu
 ☐ trifft nicht zu
 2 Punkte
@@ -430,8 +370,7 @@ Deichrückverlegungen.
 25 Punkte
 15 Punkte
 0 Punkte
-1.11 Grundinstandsetzung vorhandener Schöpfwerke einschließlich der dazugehöri-
-gen technischen Anlagen
+1.11 Grundinstandsetzung vorhandener Schöpfwerke einschließlich der dazugehörigen technischen Anlagen
 Die Funktion des Schöpfwerkes ist
 ☐ nicht sichergestellt (z. B. Pumpleistung)
 ☐ teilweise nicht sichergestellt (z. B. Automatisierung, Energieeinsparung)
@@ -457,8 +396,7 @@ Der vorhandene Mangel erhöht die Dringlichkeit.
 2 Punkte
 0 Punkte
 1.12 Pilotvorhaben
-Das Vorhaben ist von hoher fachlicher Bedeutung (außerordentlich, Pilotcharakter, Erpro-
-bung etc.).
+Das Vorhaben ist von hoher fachlicher Bedeutung (außerordentlich, Pilotcharakter, Erprobung etc.).
 ☐ trifft zu
 ☐ trifft nicht zu
 
@@ -466,26 +404,21 @@ bung etc.).
 10 Punkte
 0 Punkte
 1.13 Förderung nur mit ELER-Fördermitteln
-Das Vorhaben dient insbesondere der Sicherung des landwirtschaftlichen Produktionspotenz i-
-als wie die Grundinstandsetzung von Schöpfwerken und Hochwasserschutzvorhaben mit ei-
-nem Schutzgrad kleiner als HQ100 und wird ausschließlich mit ELER-Mitteln gefördert.
+Das Vorhaben dient insbesondere der Sicherung des landwirtschaftlichen Produktionspotenz ials wie die Grundinstandsetzung von Schöpfwerken und Hochwasserschutzvorhaben mit einem Schutzgrad kleiner als HQ100 und wird ausschließlich mit ELER-Mitteln gefördert.
 ☐ trifft zu
 ☐ trifft nicht zu
 Hinweis: Bei der Förderung mit ELER-Mitteln finden, soweit keine Kofinanzierungsmittel
-mehr aus der GAK in diesem Haushaltsjahr zur Verfügung stehen, die ausschließlich mit ELER-
-Mitteln geförderten Vorhaben entsprechend dem Ranking und der Verfügbarkeit der ELER -
+mehr aus der GAK in diesem Haushaltsjahr zur Verfügung stehen, die ausschließlich mit ELERMitteln geförderten Vorhaben entsprechend dem Ranking und der Verfügbarkeit der ELER -
 Mittel Berücksichtigung.
 
 5 Punkte
 0 Punkte
 
-Nds. MBl. 2024 Nr. 495 vom 29. Oktober 2024 Seite 10
 2. Zusätzliche Kriterien zur Erhöhung der fachlichen Priorität und der Förderquote
 Sofern die Erfüllung dieser Kriterien ein übergeordnetes wasserwirtschaftliches Interesse bescheinigt, wird
 dies durch Zusatzpunkte gewürdigt. Ein übergeordnetes Interesse ist insbesondere dann gegeben, wenn das
 Vorhaben positive Synergieeffekte für die Erreichung der Ziele anderer Förderrichtlinien des Landes hat. Somit
-kann das Vorhaben eine höhere Priorität erlangen. Sofern das Vorhaben neben dem übergeordneten Inte-
-resse auch einen besonderen Vorteil für den Unterlieger hat, besteht die Möglichkeit nach Verfügbarkeit der
+kann das Vorhaben eine höhere Priorität erlangen. Sofern das Vorhaben neben dem übergeordneten Interesse auch einen besonderen Vorteil für den Unterlieger hat, besteht die Möglichkeit nach Verfügbarkeit der
 Haushaltsmittel die Förderquote auf bis zu 80 % zu erhöhen.
 Kriterium Bewertung
 2.1 übergeordnetes Interesse (Synergieeffekte)
@@ -493,8 +426,7 @@ Synergieeffekte für
 ☐ Fließgewässerentwicklung
 ☐ Landschaftswerte (z. B. Auenmanagement)
 ☐ Erhalt und Entwicklung von Lebensräumen und Arten
-☐ m ultifunktional bei Hochwasserrückhaltebecken und Talsperren (z. B. Trinkwasserspei-
-cher, Grundwasseranreicherung)
+☐ m ultifunktional bei Hochwasserrückhaltebecken und Talsperren (z. B. Trinkwasserspeicher, Grundwasseranreicherung)
 ☐ Sonstiges (z. B. Strategie Niedersachsens oder des Bundes)
 ☐ keine Synergieeffekte.
 
@@ -509,8 +441,7 @@ je 5 Punkte
 ☐ Der Zusammenschluss von mehreren Kommunen und/oder Deichverbänden (auf dem
 Gebiet mehrerer Kommunen) unterstützt die einzugsgebietsbezogene Betrachtung und
 bindet die Interessen von Ober- und Unterliegern ein. Dadurch wird ein übergeordnetes
-Interesse dokumentiert und besondere Vorteile der Unterlieger können durch wasserwirt-
-schaftliche Maßnahmen herausgestellt werden.
+Interesse dokumentiert und besondere Vorteile der Unterlieger können durch wasserwirtschaftliche Maßnahmen herausgestellt werden.
 ☐ Einzelvorhaben mit einem besonderen Vorteil für die Unterlieger
 ☐ Einzelvorhaben mit einem besonderen Vorteil für die Oberlieger
 

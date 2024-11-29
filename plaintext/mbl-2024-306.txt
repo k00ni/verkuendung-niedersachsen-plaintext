@@ -16,13 +16,9 @@ RdErl. d. MF v. 09.07.2024 – VD3-03540/01/005/01/Ä –
 Die Bundesärztekammer (BÄK), die Bundespsychotherapeutenkammer (BPtK), der Verband der P rivaten
 Krankenversicherung e. V. (PKV- Verband) und die Beihilfeträger von Bund und Ländern (mit Ausnahme der
 Länder Hamburg und Schleswig- Holstein) haben sich zur Vermeidung von Auslegungsstreitigkeiten bei der
-Abrechnung neuer psychotherapeutischer Leistungen im Rahmen der Behandlung von psychischen Erkran-
-kungen auf die nachfolgenden gemeinsamen Abrechnungsempfehlungen auf Basis der Gebührenordnung für
-Ärzte (GOÄ) bzw. der Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendli-
-chenpsychotherapeuten (GOP) in Verbindung mit der Gebührenordnung für Ärzte (§ 1 GOP) verständigt. Sie
-umfassen Leistungen wie z. B. die psychotherapeutische Sprechstunde, Akutbehandlung und Kurzzeitthera-
-pie, die bei psychotherapeutischer Behandlung eine sofortige Intervention über mehrere Sitzungen ermögli-
-chen.
+Abrechnung neuer psychotherapeutischer Leistungen im Rahmen der Behandlung von psychischen Erkrankungen auf die nachfolgenden gemeinsamen Abrechnungsempfehlungen auf Basis der Gebührenordnung für
+Ärzte (GOÄ) bzw. der Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten (GOP) in Verbindung mit der Gebührenordnung für Ärzte (§ 1 GOP) verständigt. Sie
+umfassen Leistungen wie z. B. die psychotherapeutische Sprechstunde, Akutbehandlung und Kurzzeittherapie, die bei psychotherapeutischer Behandlung eine sofortige Intervention über mehrere Sitzungen ermöglichen.
 Die Abrechnungsempfehlungen werd en in der Anlage bekannt gemacht. Sie sind im Rahmen von § 5
 Abs. 1 NBhVO bei der Festsetzung der Beihilfe zu berücksichtigen.
 Dieser RdErl. tritt mit Wirkung vom 01. 07.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
@@ -31,7 +27,6 @@ An die
 Dienststellen der Landesverwaltung
 Kommunen und der Aufsicht des Landes unterstehenden anderen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 
-Nds. MBl. 2024 Nr. 306 vom 10. Juli 2024 Seite 2
 Anlage
 
 Gemeinsame Abrechnungsempfehlungen von BÄK, BPtK, PKV- Verband und
@@ -41,72 +36,47 @@ Schleswig-Holstein) zur Erbringung neuer psychotherapeutischer Leistungen
 I. Analoge Leistungen aus den Abschnitten B und G des Gebührenverzeichnisses der GOÄ
 
 Nummer Leistung Abrechnungsempfehlung
-1 Einbindung einer die Psychotherapie spezifisch ergänzen-
-den oder unterstützenden DiGA, die bei psychotherapeu-
-tisch-psychiatrischer Indikation eingesetzt wird
+1 Einbindung einer die Psychotherapie spezifisch ergänzenden oder unterstützenden DiGA, die bei psychotherapeutisch-psychiatrischer Indikation eingesetzt wird
 GOÄ-Nr. 804 analog
-2 Durchführung, Auswertung und Besprechung einer psycho-
-logischen – auch neuropsychologischen – Testbatterie zum
+2 Durchführung, Auswertung und Besprechung einer psychologischen – auch neuropsychologischen – Testbatterie zum
 umfassenden Assessment (mindestens drei Testverfahren,
 z. B. PHQ-D, BDI, PSSI, ISR, HAQ)
 je Testbatterie
 GOÄ-Nr. 855 analog
-3 Anwendung eines validierten, standardisierten, strukturier-
-ten klinisch-diagnostischen Interviews (z. B. SIAB-EX, Mo-
-dule des SCID-5-CV, PANSS- Interview) mit schriftlicher Auf-
-zeichnung
+3 Anwendung eines validierten, standardisierten, strukturierten klinisch-diagnostischen Interviews (z. B. SIAB-EX, Module des SCID-5-CV, PANSS- Interview) mit schriftlicher Aufzeichnung
 je Interview
 GOÄ-Nr. 855 analog
 4 Erhebung des aktuellen psychischen Befundes GOÄ-Nr. 801 analog
-5 Psychotherapeutische Behandlung durch eingehendes the-
-rapeutisches Gespräch – auch mit gezielter Exploration
+5 Psychotherapeutische Behandlung durch eingehendes therapeutisches Gespräch – auch mit gezielter Exploration
 einmal je Kalendertag
 GOÄ-Nr. 804 analog
 6 Vertiefte Exploration in Fortführung einer biographischen
-psychotherapeutischen Anamnese bei Kindern oder Jugend-
-lichen unter Einschaltung der Bezugs- und Kontaktpersonen
+psychotherapeutischen Anamnese bei Kindern oder Jugendlichen unter Einschaltung der Bezugs- und Kontaktpersonen
 mit schriftlicher Aufzeichnung, auch in mehreren Sitzungen
 GOÄ-Nr. 807 analog
 7 Vertiefte Exploration in Fortführung einer biographischen
 psychotherapeutischen Anamnese bei Erwachsenen unter
-Einschaltung der Bezugs- und Kontaktpersonen mit schriftli-
-cher Aufzeichnung
+Einschaltung der Bezugs- und Kontaktpersonen mit schriftlicher Aufzeichnung
 GOÄ-Nr. 807 analog
 8 Erhebung einer biographischen Anamnese mit schriftlicher
 Aufzeichnung zur Einleitung und Indikationsstellung eines
 wissenschaftlich anerkannten Psychotherapieverfahrens,
 auch in mehreren Sitzungen
 GOÄ-Nr. 860 analog
-9 Eingehende psychotherapeutische Beratung der Bezugsper-
-son von Kindern oder Jugendlichen anhand erhobener Be- funde und Erläuterung geplanter therapeutischer Maßnah- men
+9 Eingehende psychotherapeutische Beratung der Bezugsperson von Kindern oder Jugendlichen anhand erhobener Be- funde und Erläuterung geplanter therapeutischer Maßnah- men
 GOÄ-Nr. 817 analog
 
-Nds. MBl. 2024 Nr. 306 vom 10. Juli 2024 Seite 3
 Nummer Leistung Abrechnungsempfehlung
-10 Eingehende psychotherapeutische Beratung der Bezugsper-
-son von Erwachsenen anhand erhobener Befunde und Er-
-läuterung geplanter therapeutischer Maßnahmen
+10 Eingehende psychotherapeutische Beratung der Bezugsperson von Erwachsenen anhand erhobener Befunde und Erläuterung geplanter therapeutischer Maßnahmen
 GOÄ-Nr. 817 analog
-11 Systemische Therapie sowie Neuropsychologische Psycho-
-therapie oder Eye Movement Desensitization and Reproces- sing (EMDR) als psychotherapeutische Methode in den An-
-wendungsbereichen der Psychotherapie gemäß Anhang,
-Einzelbehandlung, Dauer mindestens 50 Minuten – g gf. Un-
-terteilung in zwei Einheiten von jeweils mindestens 25 Minu-
-ten
+11 Systemische Therapie sowie Neuropsychologische Psychotherapie oder Eye Movement Desensitization and Reproces- sing (EMDR) als psychotherapeutische Methode in den Anwendungsbereichen der Psychotherapie gemäß Anhang,
+Einzelbehandlung, Dauer mindestens 50 Minuten – g gf. Unterteilung in zwei Einheiten von jeweils mindestens 25 Minuten
 GOÄ-Nr. 870 analog
-12 Erstellung des verfahrensspezifischen Berichts an die Gut-
-achterin oder den Gutachter für die Beantragung einer Psy-
-chotherapie mit einem wissenschaftlich anerkannten Psy-
-chotherapieverfahren unter Einbeziehung vorliegender Be-
-funde und ggf. Abstimmung mit vor- und mitbehandelnden
-Ärztinnen, Ärzten, Psychotherapeutinnen und Psychothera-
-peuten
+12 Erstellung des verfahrensspezifischen Berichts an die Gutachterin oder den Gutachter für die Beantragung einer Psychotherapie mit einem wissenschaftlich anerkannten Psychotherapieverfahren unter Einbeziehung vorliegender Befunde und ggf. Abstimmung mit vor- und mitbehandelnden
+Ärztinnen, Ärzten, Psychotherapeutinnen und Psychotherapeuten
 je angefangene Stunde Arbeitszeit
 GOÄ-Nr. 85 analog
-13 Psychotherapeutische Akutbehandlung – psychotherapeuti-
-sche Behandlung zur Entlastung bei akuten psychischen Kri- sen- und Ausnahmezuständen mittels geeigneter psychothe-
-rapeutischer Interventionen nach wissenschaftlich aner-
-kannten Psychotherapieverfahren und - methoden mit einem
+13 Psychotherapeutische Akutbehandlung – psychotherapeutische Behandlung zur Entlastung bei akuten psychischen Kri- sen- und Ausnahmezuständen mittels geeigneter psychotherapeutischer Interventionen nach wissenschaftlich anerkannten Psychotherapieverfahren und - methoden mit einem
 Behandlungsbeginn nach Indikationsstellung innerhalb von
 zwei Wochen
 je vollendete 25 Minuten
@@ -115,15 +85,11 @@ Die Leistungen nach den GOÄ-Nrn. 861, 863, 870,
 870 analog sind daneben
 nicht berechnungsfähig.
 Die Leistung ist bis zu
-zweimal an einem Kalen-
-dertag und bis zu vierund-
-zwanzigmal im Jahr be-
-rechnungsfähig.
+zweimal an einem Kalendertag und bis zu vierundzwanzigmal im Jahr berechnungsfähig.
 14 Psychotherapeutische Kurzzeittherapie – symptom-
 und/oder konfliktbezogene Behandlung mittels geeigneter
 psychotherapeutischer Interventionen nach wissenschaftlich
-anerkannten Psychotherapieverfahren und - methoden ge-
-mäß Anhang
+anerkannten Psychotherapieverfahren und - methoden gemäß Anhang
 je vollendete 25 Minuten
 GOÄ-Nr. 812 analog
 Die Leistungen nach den
@@ -131,12 +97,10 @@ GOÄ-Nrn. 861, 863, 870,
 870 analog sind daneben
 nicht berechnungsfähig.
 Die Leistung ist bis zu
-zweimal an einem Kalen-
-dertag und bis zu
+zweimal an einem Kalendertag und bis zu
 achtundvierzigmal im Jahr
 berechnungsfähig.
-15 Psychotherapeutische Sprechstunde – über die Durchfüh-
-rung der Psychotherapie mit dem Ziel der Abklärung des Vor- liegens einer krankheitswertigen Störung, ggf. einschließlich:
+15 Psychotherapeutische Sprechstunde – über die Durchführung der Psychotherapie mit dem Ziel der Abklärung des Vor- liegens einer krankheitswertigen Störung, ggf. einschließlich:
 – orientierende, diagnostische Abklärung der krankheits- wertigen Störung
 – differentialdiagnostische Abklärung der krankheitswer- tigen Störung
 GOÄ-Nr. 812 analog
@@ -144,7 +108,6 @@ Die Leistungen nach den GOÄ-Nrn. 801 analog,
 861, 863, 870, 870 analog sind daneben nicht be- rechnungsfähig.
 Die Leistung ist höchstens sechsmal im Jahr, bei
 
-Nds. MBl. 2024 Nr. 306 vom 10. Juli 2024 Seite 4
 Nummer Leistung Abrechnungsempfehlung
 – Abklärung des individuellen Behandlungsbedarfes und
 Empfehlungen über die weitere Behandlung
@@ -153,16 +116,10 @@ Empfehlungen über die weitere Behandlung
 je vollendete 25 Minuten
 Kindern und Jugendlichen
 sowie Patientinnen und
-Patienten mit einer geisti-
-gen Behinderung höchs-
-tens zehnmal berech-
-nungsfähig.
-16 Gruppenpsychotherapeutische Kurzzeittherapie – sym-
-ptom- , konfliktbezogene und/oder störungsspezifische Grup-
-penbehandlung mittels geeigneter psychotherapeutischer
+Patienten mit einer geistigen Behinderung höchstens zehnmal berechnungsfähig.
+16 Gruppenpsychotherapeutische Kurzzeittherapie – symptom- , konfliktbezogene und/oder störungsspezifische Gruppenbehandlung mittels geeigneter psychotherapeutischer
 Interventionen nach wissenschaftlich anerkannten Psycho- therapieverfahren und -methoden gemäß Anhang mit
-mindestens zwei bis neun Teilnehmerinnen oder Teilneh-
-mern
+mindestens zwei bis neun Teilnehmerinnen oder Teilnehmern
 je vollendete 50 Minuten, je Teilnehmerin oder Teilnehmer
 GOÄ-Nr. 812 analog
 Die Leistungen nach den
@@ -170,18 +127,13 @@ GOÄ-Nrn. 862, 864, 871,
 871 analog sind daneben
 nicht berechnungsfähig.
 Die Leistung ist bis zu
-zweimal an einem Kalen-
-dertag und bis zu
+zweimal an einem Kalendertag und bis zu
 achtundvierzigmal im Jahr
 berechnungsfähig.
 
 II. Hinweise zu den Abrechnungsempfehlungen
-1. Wird eine Leistung nach diesen Abrechnungsempfehlungen analog abgerechnet, gilt der Gebühren-
-rahmen nebst sämtlichen weiteren gebührenrechtlichen Vorgaben, für die zur analogen Berechnung herange-
-zogene Gebührennummer auch für die tatsächlich erbrachte und analog berechnete Leistung (Erben von Rah-
-menbedingungen) soweit sich aus dieser Abrechnungsempfehlung nichts anderes ergibt.
-2. Aus der Rechnung muss der Leistungstext bzw. bei analog abrechenbaren Leistungen der Leistungs-
-text, der sich aus diesen Abrechnungsempfehlungen ergibt, hervorgehen.
+1. Wird eine Leistung nach diesen Abrechnungsempfehlungen analog abgerechnet, gilt der Gebührenrahmen nebst sämtlichen weiteren gebührenrechtlichen Vorgaben, für die zur analogen Berechnung herangezogene Gebührennummer auch für die tatsächlich erbrachte und analog berechnete Leistung (Erben von Rahmenbedingungen) soweit sich aus dieser Abrechnungsempfehlung nichts anderes ergibt.
+2. Aus der Rechnung muss der Leistungstext bzw. bei analog abrechenbaren Leistungen der Leistungstext, der sich aus diesen Abrechnungsempfehlungen ergibt, hervorgehen.
 
 Anhang
 
@@ -192,23 +144,18 @@ Die nachstehenden wissenschaftlich anerkannten Psychotherapieverfahren und Psych
 können wie folgt Anwendung finden:
 1. tiefenpsychologisch fundierte Psychotherapie bei Erwachsenen sowie bei Kindern und Jugendlichen im
 gesamten Spektrum der Indikationen für eine psychotherapeutische Behandlung;
-2. analytische Psychotherapie bei Erwachsenen sowie bei Kindern und Jugendlichen im gesamten Spekt-
-rum der Indikationen für eine psychotherapeutische Behandlung;
+2. analytische Psychotherapie bei Erwachsenen sowie bei Kindern und Jugendlichen im gesamten Spektrum der Indikationen für eine psychotherapeutische Behandlung;
 3. Verhaltenstherapie bei Erwachsenen sowie bei Kindern und Jugendlichen im gesamten Spektrum der
 Indikationen für eine psychotherapeutische Behandlung;
 4. Systemische Therapie bei Erwachsenen sowie bei Kindern und Jugendlichen im gesamten Spektrum der
 Indikationen für eine psychotherapeutische Behandlung;
 5. neuropsychologische Therapie bei Erwachsenen sowie Kindern und Jugendlichen bei den Indikationen:
-– organisches amnestisches Syndrom, nicht durch Alkohol oder andere psychotrope Substanzen be-
-dingt (F04 nach ICD-10),
+– organisches amnestisches Syndrom, nicht durch Alkohol oder andere psychotrope Substanzen bedingt (F04 nach ICD-10),
 
-Nds. MBl. 2024 Nr. 306 vom 10. Juli 2024 Seite 5
 – organische emotional labile (asthenische) Störung (F06.6 nach ICD-10),
 – leichte kognitive Störung (F06.7 nach ICD-10),
 – sonstige näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder
 Funktionsstörung des Gehirns oder einer körperlichen Krankheit (F06.8 nach ICD-10),
-– nicht näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funkti-
-onsstörung des Gehirns oder einer körperlichen Krankheit (F06.9 nach ICD-10),
-– Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstö-
-rung des Gehirns (F07 nach ICD-10);
+– nicht näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit (F06.9 nach ICD-10),
+– Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des Gehirns (F07 nach ICD-10);
 6. EMDR bei Erwachsenen bei der Indikation „Posttraumatische Belastungsstörung“ (F43.1 nach ICD-10).

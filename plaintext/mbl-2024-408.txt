@@ -13,98 +13,68 @@ Gem. RdErl. d. ML u. d. MU v. 19.09.2024 – 6016- 2835/2022- 3341/2023 –
 
 1. Regelungszweck
 Entsprechend Artikel 13 Abs. 1 i. V. m. Anhang III der Verordnung (EU) 2021/2115 des Europäischen
-Parlamentes und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mit-
-gliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garan-
-tiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des
-ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP- Strategiepläne) und zur Aufhebung der Ver-
-ordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181
+Parlamentes und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des
+ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP- Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181
 vom 7.7.2022, S. 35, L 227 vom 1.9.2022, S. 137), zuletzt geändert durch Verordnung (EU) 2024/1468 der
 Kommission vom 14. Mai 2024 (ABl. L, 2024/1468, 24.5.2024), sind für die Gewährung der Direktzahlungen
 die landwirtschaftlichen Flächen in einem guten landwirtschaftlichen und ökologischen Zustand zu erhalten.
 Hierzu zählt als ein wichtiges Ziel der Schutz kohlenstoffreicher Böden.
-Für den Erhalt der EU -Direktzahlungen ab dem Jahre 2024 sind die Betriebsinhaberinnen und Betriebsin-
-haber entsprechend den Regelungen der §§ 3 und 10 Abs. 2 GAPKondG i. V. m. § 13 GAPKondV verpflichtet,
+Für den Erhalt der EU -Direktzahlungen ab dem Jahre 2024 sind die Betriebsinhaberinnen und Betriebsinhaber entsprechend den Regelungen der §§ 3 und 10 Abs. 2 GAPKondG i. V. m. § 13 GAPKondV verpflichtet,
 für erstmalige oder vertiefende Entwässerungsanlagen in einer nach § 11 Abs. 1 GAPKondV festgelegten
 Gebietskulisse – unabhängig davon, wer die Entwässerungsanlagen errichtet hat – eine Genehmigung der
 zuständigen Behörde vorzuweisen.
 Dieser Gem. RdErl. regelt in Bezug auf EU-Direktzahlungen das Verfahren zur Prüfung der Zulässigkeit
-der Entwässerung landwirtschaftlicher Flächen in einer nach § 11 Abs. 1 und 4 GAPKondV für die Freie Han-
-sestadt Bremen, die Freie und Hansestadt Hamburg und das Land Niedersachsen ausgewiesenen Gebiets-
-kulisse.
+der Entwässerung landwirtschaftlicher Flächen in einer nach § 11 Abs. 1 und 4 GAPKondV für die Freie Hansestadt Bremen, die Freie und Hansestadt Hamburg und das Land Niedersachsen ausgewiesenen Gebietskulisse.
 2. Regelungsgegenstand
 Gegenstand des Erlasses ist das Prüfverfahren zur:
 2.1 erstmaligen Entwässerung durch eine Drainage oder einen Graben nach § 13 Abs. 1 GAPKondV und
 2.2 Erneuerung und/oder Instandsetzung bestehender Drainagen oder Gräben nach § 13 Abs. 2
 GAPKondV, sofern diese zu einer Tieferlegung des Entwässerungsniveaus führt.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 2
 3. Begriffsbestimmungen
-3.1 Drainagen dienen zur Regelung des Bodenwasserhaushalts und können als Rohrdränung oder rohr-
-lose Dränung unterhalb der sichtbaren Geländeoberfläche angelegt werden. Unter Drainagen mit kon-
-ventioneller Technik werden hier solche verstanden, die ausschließlich das Ziel der Entwässerung ver-
-folgen. Es handelt sich dabei um Dränanlagen aus Saugern mit und ohne Sammler, die unmittelbar in
-Vorfluter ausmünden und bei denen die Vorfluter nicht ganzjährig auf einen Wasserstand von mindes-
-tens 0,5 m unter Flur angestaut werden.
+3.1 Drainagen dienen zur Regelung des Bodenwasserhaushalts und können als Rohrdränung oder rohrlose Dränung unterhalb der sichtbaren Geländeoberfläche angelegt werden. Unter Drainagen mit konventioneller Technik werden hier solche verstanden, die ausschließlich das Ziel der Entwässerung verfolgen. Es handelt sich dabei um Dränanlagen aus Saugern mit und ohne Sammler, die unmittelbar in
+Vorfluter ausmünden und bei denen die Vorfluter nicht ganzjährig auf einen Wasserstand von mindestens 0,5 m unter Flur angestaut werden.
 3.2 Gräben dienen der Abführung von Oberflächenwasser. Sofern sie ausschließlich der Entwässerung der
-anliegenden Flächen nur einer oder eines Beihilfeberechtigten dienen und/oder diese oder dieser Ver-
-fügungsgewalt über die Gräben hat, sind sie Bestandteil dieser Regelung. Gräben in der Verfügungs-
-gewalt der oder des Begünstigten sind ihrem oder seinem Betrieb und den von ihr oder ihm verwalteten
+anliegenden Flächen nur einer oder eines Beihilfeberechtigten dienen und/oder diese oder dieser Verfügungsgewalt über die Gräben hat, sind sie Bestandteil dieser Regelung. Gräben in der Verfügungsgewalt der oder des Begünstigten sind ihrem oder seinem Betrieb und den von ihr oder ihm verwalteten
 Flächen zuzurechnen. Sofern die oder der Begünstigte (alleinige) Verfügungsgewalt über einen Graben
 hat, bedarf es für dessen Vertiefung einer Genehmigung.
-3.3 Grüppen sind flache Vertiefungen auf einer landwirtschaftlichen Fläche zur Abführung von Oberflä-
-chenwasser und sind im Regelfall auf einen Schlag begrenzt. Eine Grüppe führt nicht ganzjährig Was-
-ser. Im Gegensatz zu Gräben können Grüppen zur beihilfefähigen Fläche gehören. In der Regel ist eine
-landwirtschaftliche Nutzung der gesamten Fläche möglich, es sei denn, die Grüppe führt witterungsbe-
-dingt außerordentlich viel Wasser. Grüppen sind kein Regelungsgegenstand.
+3.3 Grüppen sind flache Vertiefungen auf einer landwirtschaftlichen Fläche zur Abführung von Oberflächenwasser und sind im Regelfall auf einen Schlag begrenzt. Eine Grüppe führt nicht ganzjährig Wasser. Im Gegensatz zu Gräben können Grüppen zur beihilfefähigen Fläche gehören. In der Regel ist eine
+landwirtschaftliche Nutzung der gesamten Fläche möglich, es sei denn, die Grüppe führt witterungsbedingt außerordentlich viel Wasser. Grüppen sind kein Regelungsgegenstand.
 3.4 Die Ermittlung des Entwässerungsniveaus erfolgt bei Drainagen anhand der Tiefe der vorhandenen
-Dränrohre. Hierbei wird jedes für sich an seiner tiefsten Stelle (Ausmündung) betrachtet und der Mittel-
-wert über alle Dränrohre gebildet. Bei frei entwässernden Gräben wird die Sohltiefe an der tiefsten Stelle
+Dränrohre. Hierbei wird jedes für sich an seiner tiefsten Stelle (Ausmündung) betrachtet und der Mittelwert über alle Dränrohre gebildet. Bei frei entwässernden Gräben wird die Sohltiefe an der tiefsten Stelle
 in dem Grabenabschnitt ermittelt, der sich in unmittelbarer Nähe zur beihilfefähigen Fläche befindet. Bei
 angestauten Gräben wird die Stauhöhe des ersten Staubauwerkes, das sich im Grabenabstrom am
 unteren Ende oder unterhalb der beihilfefähigen Fläche befindet, herangezogen.
-3.5 Eine Tieferlegung des Entwässerungsniveaus durch Drainage liegt immer dann vor, wenn ein vor-
-handenes Dränrohr tiefer gelegt wird oder durch ein dann mindestens 10 cm tieferliegendes Rohr ersetzt
+3.5 Eine Tieferlegung des Entwässerungsniveaus durch Drainage liegt immer dann vor, wenn ein vorhandenes Dränrohr tiefer gelegt wird oder durch ein dann mindestens 10 cm tieferliegendes Rohr ersetzt
 wird. Bei der Zusammenlegung von Schlägen und der Änderung der Dränung, dazu zählt auch ihre
-Erweiterung und die Änderung der Dränrichtung, ist von einer Tieferlegung auszugehen, die der Ge-
-nehmigungspflicht unterliegt. Eine Tieferlegung des Entwässerungsniveaus durch die Erneuerung oder
+Erweiterung und die Änderung der Dränrichtung, ist von einer Tieferlegung auszugehen, die der Genehmigungspflicht unterliegt. Eine Tieferlegung des Entwässerungsniveaus durch die Erneuerung oder
 Instandsetzung bestehender Gräben liegt immer dann vor, wenn ein vorhandener Graben vertieft wird
 oder wenn ein den Grabenwasserstand regulierendes Staubauwerk (dauerhaft) tiefer eingestellt wird.
-3.6 Klimarelevanter Belang i. S. dieses Gem. RdErl. ist insbesondere die Vermeidung von Kohlendioxide-
-missionen. Zur Beurteilung der Klimarelevanz oder der Klimawirkung ist die Betrachtung der CO
-2-Äqui-
-valente (CO
+3.6 Klimarelevanter Belang i. S. dieses Gem. RdErl. ist insbesondere die Vermeidung von Kohlendioxidemissionen. Zur Beurteilung der Klimarelevanz oder der Klimawirkung ist die Betrachtung der CO
+2-Äquivalente (CO
 2-Äq.) notwendig, d. h. es werden sowohl Kohlendioxid wie auch Methan und Lachgas in
 ihrer Klimawirkung einbezogen.
 3.7 Wassermanagement i. S. dieses Gem. RdErl. sind Maßnahmen, die es erlauben, Wasserstände auf
 Moorstandorten zu ändern, einschließlich der Bereitstellung von Zusatzwasser, und/oder den Abfluss
-zu regulieren. Wassermanagement ist durch Wasserrückhalt, Wasserzufuhr oder Wasserstandssteue-
-rung möglich. Wasserstandssteuerung bedeutet eine aktive Regelung des Wasserstandes auf der Flä-
-che oder in Gräben, die zeitweise, vor allem in den Sommermonaten, eine aktive Wasserzufuhr durch
+zu regulieren. Wassermanagement ist durch Wasserrückhalt, Wasserzufuhr oder Wasserstandssteuerung möglich. Wasserstandssteuerung bedeutet eine aktive Regelung des Wasserstandes auf der Fläche oder in Gräben, die zeitweise, vor allem in den Sommermonaten, eine aktive Wasserzufuhr durch
 Zupumpen erfordert, und sie ist durch Grabeneinstau oder Unterflurbewässerung möglich.
 3.8 Wasserrückhalt i. S. dieses Gem. RdErl. bedeutet den passiven Rückhalt von Niederschlags- oder
 Zuflusswasser und ist z. B. durch kontrollierte Dränung oder Grabenanstau möglich.
 3.9 Ein zwingendes Erfordernis zur Tieferlegung für die Fortsetzung der landwirtschaftlichen Tätigkeit auf
-der betroffenen Fläche i. S. dieses Gem. RdErl. liegt vor, wenn diese nicht mehr ordnungsgemäß erfol-
-gen kann. Dies ist der Fall, wenn:
+der betroffenen Fläche i. S. dieses Gem. RdErl. liegt vor, wenn diese nicht mehr ordnungsgemäß erfolgen kann. Dies ist der Fall, wenn:
 a) die Fläche im Ganzen oder in Teilbereichen in Zeiten, in denen Bewirtschaftungsmaßnahmen
 unter Berücksichtigung der guten fachlichen Praxis durchgeführt werden sollen, (zeitweise)
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 3
-vernässt, sodass eine sinnvolle, einheitliche, bedarfsgerechte, umwelt- und ressourcenscho-
-nende Bestandsführung nicht möglich ist;
-b) durch die Entwässerung der Fläche Bodenschäden und Ertragsausfälle und/oder Qualitätseinbu-
-ßen vermieden werden können.
-In diesen Fällen ist von einer Dränbedürftigkeit auszugehen. Gleichzeitig ist die Dränfähigkeit Voraus-
-setzung für eine erfolgreiche Entwässerung. Dränbedürftigkeit und Dränfähigkeit sind anhand eines bo-
-denkundlichen Gutachtens darzulegen.
+vernässt, sodass eine sinnvolle, einheitliche, bedarfsgerechte, umwelt- und ressourcenschonende Bestandsführung nicht möglich ist;
+b) durch die Entwässerung der Fläche Bodenschäden und Ertragsausfälle und/oder Qualitätseinbußen vermieden werden können.
+In diesen Fällen ist von einer Dränbedürftigkeit auszugehen. Gleichzeitig ist die Dränfähigkeit Voraussetzung für eine erfolgreiche Entwässerung. Dränbedürftigkeit und Dränfähigkeit sind anhand eines bodenkundlichen Gutachtens darzulegen.
 3.10 Ein bodenkundliches Gutachten i. S. dieses Gem. RdErl. hat zum Ziel, die Standorteigenschaften im
 Hinblick auf den Dränbedarf und die Dränfähigkeit der Fläche und/oder deren Eignung für die geplante
 Maßnahme zu beschreiben. Es sollte die Vorgaben der Anlage berücksichtigen.
 4. Antragsteller
 Eine Genehmigungspflicht gemäß § 13 Abs. 1 und 2 GAPKondV richtet sich an die Begünstigte oder den
 Begünstigten der EU-Direktzahlungen.
-Antragsberechtigt sind Eigentümerinnen und Eigentümer sowie Pächterinnen und Pächter einer landwirt-
-schaftlichen Fläche, sofern sie diese selbst bewirtschaften und damit dem Direktzahlungsrecht unterliegen
+Antragsberechtigt sind Eigentümerinnen und Eigentümer sowie Pächterinnen und Pächter einer landwirtschaftlichen Fläche, sofern sie diese selbst bewirtschaften und damit dem Direktzahlungsrecht unterliegen
 und sofern sich die Fläche in einer nach § 11 Abs. 1 und 4 GAPKondV für die Freie Hansestadt Bremen, die
 Freie und Hansestadt Hamburg und Niedersachsen ausgewiesenen Gebietskulisse befindet.
 5. Anweisungen zum Verfahren
@@ -124,17 +94,12 @@ verwenden. Das landeseinheitliche Formular beinhaltet mindestens die folgenden A
 – Lage und Größe der Fläche, ggf. Übersichtskarte, Meliorationskarte (sofern vorhanden),
 – Aussagen zur bisherigen Nutzung der Fläche, zum Grund der geplanten erstmaligen oder vertiefenden
 Entwässerung,
-– eine Beschreibung der geplanten Maßnahme (Dränverfahren, Dränplan, Wasserrückhalt, Wasserzu-
-fuhr, Art der Bereitstellung von Zusatzwasser im Sommerhalbjahr, Steuerungsmöglichkeiten für Was-
-serstände, angestrebte Wasserstände im Jahresmittel und saisonal), des mit ihrer Umsetzung zu errei-
-chenden Ziels und der im Anschluss geplanten Nutzung,
+– eine Beschreibung der geplanten Maßnahme (Dränverfahren, Dränplan, Wasserrückhalt, Wasserzufuhr, Art der Bereitstellung von Zusatzwasser im Sommerhalbjahr, Steuerungsmöglichkeiten für Wasserstände, angestrebte Wasserstände im Jahresmittel und saisonal), des mit ihrer Umsetzung zu erreichenden Ziels und der im Anschluss geplanten Nutzung,
 – geplanter Zeitpunkt der Durchführung der Maßnahmen,
 – Name und Anschrift der Eigentümerin oder des Eigentümers und ihre oder seine Einwilligung, sofern
 sie oder er nicht die Antragstellerin oder der Antragsteller ist, und
-– Erklärung, dass die Antragstellerin oder der Antragsteller keiner Verpflichtung gegenüber einer öffentli-
-chen Stelle unterliegt, die einer Neuanlage und/oder Vertiefung entgegensteht.
+– Erklärung, dass die Antragstellerin oder der Antragsteller keiner Verpflichtung gegenüber einer öffentlichen Stelle unterliegt, die einer Neuanlage und/oder Vertiefung entgegensteht.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 4
 Dem Formular sind folgende Anlagen beizufügen:
 – bodenkundliches Gutachten gemäß den Vorgaben der Anlage dieses Gem. RdErl.,
 – ggf. wasserbehördliche Erlaubnis für Wasserrückhalt und/oder Wasserentnahmen und
@@ -145,12 +110,9 @@ Flächenmanagementplan mit folgenden Inhalten enthalten:
 Stauwehre, Schächte) eingestellt werden sollen,
 – welche Mengen an Zusatzwasser im Sommerhalbjahr durchschnittlich und/oder im Extremfall der Jahre
 benötigt werden. Vereinfachend werden dazu Daten der nächstgelegenen Klimastation des Deutschen
-Wetterdienstes herangezogen. Es wird die kumulierte klimatische Wasserbilanz (Differenz aus Nieder-
-schlag und potenzieller Verdunstung über Gras nach Haude) im Sommerhalbjahr (Monate Mai bis Ok-
-tober) jährlich über den Zeitraum 1990–2020 ermittelt. Aus den mehrjährigen Daten wird der Median
+Wetterdienstes herangezogen. Es wird die kumulierte klimatische Wasserbilanz (Differenz aus Niederschlag und potenzieller Verdunstung über Gras nach Haude) im Sommerhalbjahr (Monate Mai bis Oktober) jährlich über den Zeitraum 1990–2020 ermittelt. Aus den mehrjährigen Daten wird der Median
 sowie das 10- Perzentil berechnet.
-Genehmigungsbehörde, Naturschutzbehörde und Wasserbehörde können weitere Angaben anfordern, so-
-fern dies für die Prüfung erforderlich ist.
+Genehmigungsbehörde, Naturschutzbehörde und Wasserbehörde können weitere Angaben anfordern, sofern dies für die Prüfung erforderlich ist.
 Ein Antrag ist vor Beauftragung der Arbeiten zu stellen, die Genehmigung (Verwaltungsakt) ist abzuwarten.
 Eine rückwirkende Genehmigung ist nicht möglich.
 5.4 Prüfverfahren
@@ -163,9 +125,7 @@ zwingenden Erfordernis der Tieferlegung für die Fortsetzung der landwirtschaftl
 betroffenen Fläche und der Beachtung klimarelevanter Belange.
 5.4.1.3 In jedem Fall erfolgt die Prüfung der Eingriffsregelung nach § 17 Abs. 1 BNatSchG, d. h. ob erhebliche
 Beeinträchtigungen der Natur und der sonstigen Umwelt ausgeschlossen werden können.
-5.4.2 Die Genehmigung bedarf des Einvernehmens der zuständigen Naturschutzbehörde und der zustän-
-digen Wasserbehörde. Die Genehmigungsbehörde ersucht die zuständige Naturschutzbehörde und die zu-
-ständige Wasserbehörde um Erteilung des Einvernehmens; hierfür erfolgt eine Weitergabe der Antragsdaten.
+5.4.2 Die Genehmigung bedarf des Einvernehmens der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde. Die Genehmigungsbehörde ersucht die zuständige Naturschutzbehörde und die zuständige Wasserbehörde um Erteilung des Einvernehmens; hierfür erfolgt eine Weitergabe der Antragsdaten.
 5.4.3 Die Prüfung sowie das Ergebnis sind zu dokumentieren.
 5.4.4 Sofern die Antragstellerin oder der Antragssteller nicht Eigentümerin oder Eigentümer der Fläche ist,
 hat die Genehmigungsbehörde eine Durchschrift der Genehmigung oder der Versagung an die Eigentümerin
@@ -178,26 +138,20 @@ jeweils örtlich zuständigen Naturschutz- und Wasserbehörden.
 Für landwirtschaftliche Flächen in der Freien Hansestadt Bremen und der Freien und Hansestadt Hamburg
 werden die Regelungen im Hinblick auf die Herstellung des Einvernehmens gesondert festgelegt.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 5
 6.2 Prüfung zur Erteilung des Einvernehmens
 Die zuständige Naturschutzbehörde und die zuständige Wasserbehörde prüfen i. S. der Regelungen des
-§ 13 Abs. 1 Satz 3 und Abs. 2 Satz 3 GAPKondV, ob in fachrechtlichen Gesetzen oder Verordnungen enthal-
-tene Rechtsvorschriften der Neuanlage oder der Tieferlegung einer Drainage oder eines Grabens entgegen-
-stehen.
+§ 13 Abs. 1 Satz 3 und Abs. 2 Satz 3 GAPKondV, ob in fachrechtlichen Gesetzen oder Verordnungen enthaltene Rechtsvorschriften der Neuanlage oder der Tieferlegung einer Drainage oder eines Grabens entgegenstehen.
 6.3 Rechtsvorschriften des Naturschutzrechts
 Entgegenstehende Regelungen aus dem Naturschutzrecht können sich insbesondere ergeben aus
 6.3.1 Vorschriften zum allgemeinen Schutz von Natur und Landschaft gemäß §§ 13 ff. BNatSchG i. V. m.
 §§ 5 ff. NNatSchG,
-6.3.2 Gesetzen, Verordnungen oder Satzungen zum Schutz bestimmter Teile von Natur und Landschaft ein-
-schließlich
+6.3.2 Gesetzen, Verordnungen oder Satzungen zum Schutz bestimmter Teile von Natur und Landschaft einschließlich
 – Schutzgebietsverordnungen,
 – des gesetzlichen Schutzes von Biotopen gemäß § 30 BNatSchG und § 24 Abs. 2 NNatSchG,
-– des Verschlechterungs- und Störungsverbots in Flora-Fauna- Habitat- (FFH-) und Vogelschutz-
-gebieten,
+– des Verschlechterungs- und Störungsverbots in Flora-Fauna- Habitat- (FFH-) und Vogelschutzgebieten,
 6.3.3 dem Schutz wildlebender Tiere und Pflanzen gemäß § 44 i. V. m. § 5 Abs. 2 BNatSchG.
 6.4 Rechtsvorschriften des Wasserrechts
-Entgegenstehende Vorschriften des Wasserrechts können sich insbesondere aus Vorschriften des Was-
-serrechts über Benutzungen des Grundwassers (§ 46 Abs. 1 i. V. m. §§ 8 ff. WHG) und über den Ausbau von
+Entgegenstehende Vorschriften des Wasserrechts können sich insbesondere aus Vorschriften des Wasserrechts über Benutzungen des Grundwassers (§ 46 Abs. 1 i. V. m. §§ 8 ff. WHG) und über den Ausbau von
 Gewässern (§§ 67 ff. WHG) ergeben. Ein Gewässerausbau kommt in Betracht, wenn Gräben hergestellt oder
 wesentlich umgestaltet werden. Gemäß § 68 WHG ist im Fall eines Gewässerausbaus, unabhängig vom hier
 geregelten Genehmigungsverfahren, eine Planfeststellung oder eine Plangenehmigung erforderlich.
@@ -206,8 +160,7 @@ bleiben.
 6.5 Entscheidung über die Erteilung des Einvernehmens
 Wird festgestellt, dass der Neuanlage nach Nummer 2.1 oder der Tieferlegung nach Nummer 2.2 keine
 Rechtsvorschriften des Naturschutzrechts oder des Wasserrechts entgegenstehen, ist das Einvernehmen zu
-erteilen. Andernfalls ist das Einvernehmen zu versagen. Die Versagung ist gegenüber der Genehmigungsbe-
-hörde zu begründen.
+erteilen. Andernfalls ist das Einvernehmen zu versagen. Die Versagung ist gegenüber der Genehmigungsbehörde zu begründen.
 7. Antragsbearbeitungsverfahren durch die Genehmigungsbehörde
 7.1 Verfahrensablauf
 Anträge auf Genehmigung der Zulässigkeit sind den nachfolgenden Arbeitsschritten zu unterziehen:
@@ -215,34 +168,24 @@ Anträge auf Genehmigung der Zulässigkeit sind den nachfolgenden Arbeitsschritt
 – Überprüfung der Vollständigkeit und Zulässigkeit,
 – Prüfung der Eingriffsregelung gemäß § 17 Abs. 1 BNatSchG und Treffen der zur Durchführung des
 § 15 BNatSchG erforderlichen Entscheidungen und Maßnahmen,
-– Prüfung und fachliche Bewertung der Beachtung klimarelevanter Belange und des zwingenden Erfor-
-dernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit (siehe Nummer 7.2),
-– Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde und der zuständigen Wasser-
-behörde (siehe Nummer 6),
+– Prüfung und fachliche Bewertung der Beachtung klimarelevanter Belange und des zwingenden Erfordernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit (siehe Nummer 7.2),
+– Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde (siehe Nummer 6),
 – Entscheidung (siehe Nummer 7.3),
 – Erstellung eines Verwaltungsaktes.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 6
-7.2 Prüfung und fachliche Bewertung der Beachtung der klimarelevanten Belange und des zwingenden Erfor-
-dernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit
-Sofern sich ein Antrag auf eine landwirtschaftliche Fläche in der Gebietskulisse bezieht, vollständig ausge-
-füllt mit allen notwendigen Anlagen vorliegt und die Prüfung der Eingriffsregelung erfolgt ist, prüft die Geneh-
-migungsbehörde bei Anträgen zur Maßnahmenvariante
-7.2.1 nach Nummer 2.1, ob durch die Neuanlage in Verbindung mit dem geplanten Wassermanagement kli-
-marelevante Belange beachtet werden.
+7.2 Prüfung und fachliche Bewertung der Beachtung der klimarelevanten Belange und des zwingenden Erfordernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit
+Sofern sich ein Antrag auf eine landwirtschaftliche Fläche in der Gebietskulisse bezieht, vollständig ausgefüllt mit allen notwendigen Anlagen vorliegt und die Prüfung der Eingriffsregelung erfolgt ist, prüft die Genehmigungsbehörde bei Anträgen zur Maßnahmenvariante
+7.2.1 nach Nummer 2.1, ob durch die Neuanlage in Verbindung mit dem geplanten Wassermanagement klimarelevante Belange beachtet werden.
 Hierbei ist insbesondere die Vermeidung von Kohlendioxidemissionen zu überprüfen, d. h. ob durch die
 geplante Maßnahme eine Verminderung der durchschnittlichen jährlichen Treibhausgasemissionen auf
 dem betroffenen Schlag zu erwarten ist. Die Voraussetzungen dafür sind,
-– dass der Standort für die Maßnahme geeignet ist; dies ist anhand eines entsprechenden boden-
-kundlichen Gutachtens gemäß der Anlage nachzuvollziehen;
+– dass der Standort für die Maßnahme geeignet ist; dies ist anhand eines entsprechenden bodenkundlichen Gutachtens gemäß der Anlage nachzuvollziehen;
 – dass ein Wassermanagement erfolgt, durch das bei klimaoptimierter Steuerung im Mittel des
 Jahres ein höherer Wasserstand erreicht werden kann als ohne Drainage oder Graben, sodass
 im Jahresmittel Moorwasserstände zwischen 2 und 4 dm unter Flur eingestellt werden können,
 und eine landwirtschaftliche Nutzung weiterhin möglich ist.
-Aus dem Zusammenhang zwischen dem langjährigen mittleren Moorbodenwasserstand, der Nutzungs-
-kategorie und den Emissionen von Kohlendioxid, Methan und Lachgas (Tiemeyer et al., 2020; Höper,
-2022) ergeben sich die in der folgenden Tabelle aufgeführten Treibhausgasemissionen aus kohlenstoff-
-reichen Böden nach Bodenkundlicher Feuchtestufe.
+Aus dem Zusammenhang zwischen dem langjährigen mittleren Moorbodenwasserstand, der Nutzungskategorie und den Emissionen von Kohlendioxid, Methan und Lachgas (Tiemeyer et al., 2020; Höper,
+2022) ergeben sich die in der folgenden Tabelle aufgeführten Treibhausgasemissionen aus kohlenstoffreichen Böden nach Bodenkundlicher Feuchtestufe.
 BKF
 MGW
 (dm unter Flur-)
@@ -255,36 +198,29 @@ Treibhausgasemissionen
 Tabelle: Mittlerer Grundwasserstand (MGW) und Treibhausgasemissionen nach Bodenkundlicher Feuchtestufe
 (BKF) für kohlenstoffreiche Böden. Streubereich der Werte innerhalb der Klassengrenzen des MGW.
 
-Hierzu ist eine fachliche Bewertung der niedersächsischen landwirtschaftlichen Fachbehörde für Bo-
-denschutz- und Wasserrecht einzuholen.
+Hierzu ist eine fachliche Bewertung der niedersächsischen landwirtschaftlichen Fachbehörde für Bodenschutz- und Wasserrecht einzuholen.
 Sofern eine Verminderung der Treibhausgasemissionen durch die Maßnahme zu erwarten ist und die
 erforderliche wasserrechtliche Erlaubnis vorliegt, ist von einer Beachtung klimarelevanter Belange
 i. S. des § 13 Abs. 1 GAPKondV auszugehen.
 7.2.2 nach Nummer 2.2, ob die Tieferlegung für die Fortsetzung der landwirtschaftlichen Tätigkeit auf der
 betroffenen Fläche zwingend erforderlich ist und ob klimarelevante Belange bei der Umsetzung der
 Maßnahme in ausreichendem Maße beachtet werden können.
-Beide Genehmigungskriterien sind abzuwägen, sodass zumindest keine Erhöhung der durchschnittli-
-chen jährlichen Treibhausgasemissionen hervorgerufen werden darf (Ausschluss Verschlechterung).
+Beide Genehmigungskriterien sind abzuwägen, sodass zumindest keine Erhöhung der durchschnittlichen jährlichen Treibhausgasemissionen hervorgerufen werden darf (Ausschluss Verschlechterung).
 Zu berücksichtigen sind hierbei sowohl die Dränbedürftigkeit, die Standorteignung als auch die Nutzung
 der Fläche.
 Ob die Genehmigungskriterien erfüllt werden können, ist anhand der Angaben der Antragstellerin oder
-des Antragstellers und des gemäß der Anlage erstellten b odenkundlichen Gutachtens unter Hinzuzie-
-hen der Tabelle in Nummer 7.2.1 zu ermitteln. Hierzu ist eine fachliche Bewertung durch die landwirt-
-schaftliche Fachbehörde für Bodenschutz- und Wasserrecht einzuholen.
+des Antragstellers und des gemäß der Anlage erstellten b odenkundlichen Gutachtens unter Hinzuziehen der Tabelle in Nummer 7.2.1 zu ermitteln. Hierzu ist eine fachliche Bewertung durch die landwirtschaftliche Fachbehörde für Bodenschutz- und Wasserrecht einzuholen.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 7
 7.3 Entscheidung
 7.3.1 Für Maßnahmen nach Nummer 2.1
 Sofern eine erhebliche Beeinträchtigung der Natur und Umwelt ausgeschlossen oder kompensiert werden
 kann, klimarelevante Belange beachtet werden und das Einvernehmen der zuständigen Naturschutzbehörde
-und der zuständigen Wasserbehörde vorliegt, ist die Genehmigung unter Auflagen zur Sicherstellung der not-
-wendigen Voraussetzungen zu erteilen. Andernfalls ist die Genehmigung zu versagen.
+und der zuständigen Wasserbehörde vorliegt, ist die Genehmigung unter Auflagen zur Sicherstellung der notwendigen Voraussetzungen zu erteilen. Andernfalls ist die Genehmigung zu versagen.
 7.3.2 Für Maßnahmen nach Nummer 2.2
 Sofern die aufgrund der Erneuerung oder Instandsetzung der Drainage oder des Grabens erfolgende
 Tieferlegung des vorhandenen Entwässerungsniveaus für die Fortsetzung der landwirtschaftlichen Tätigkeit
 auf der betroffenen Fläche zwingend erforderlich ist, dies zu keiner erheblichen Beeinträchtigung der Natur
-und der sonstigen Umwelt führt, klimarelevante Belange beachtet werden sowie das Einvernehmen der zu-
-ständigen Naturschutzbehörde und der zuständigen Wasserbehörde vorliegt , ist die Genehmigung, ggf. unter
+und der sonstigen Umwelt führt, klimarelevante Belange beachtet werden sowie das Einvernehmen der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde vorliegt , ist die Genehmigung, ggf. unter
 Auflagen zur Sicherstellung der notwendigen Voraussetzungen, zu erteilen. Andernfalls ist die Genehmigung
 zu versagen.
 7.4 Ausnahmen
@@ -293,12 +229,10 @@ Sofern es aus den dort genannten Gründen erforderlich ist, kann im Einzelfall d
 werden.
 Ein wichtiger Grund i. S. des § 2 Abs. 3 Nr. 6 AgrarZahlVerpflG stellt u. a. die mit der Verlegung von
 Leitungen oder entlang anderer Linienbaustellen (z. B. Stromtrassen, Gas-, Wasser- oder Glasfaserleitungen,
-Straßenverbreiterungen, Bahnstreckenausbau) in ursächlichem Zusammenhang stehende schädliche Boden-
-nässe, die eine erstmalige Drainage erforderlich macht, dar.
+Straßenverbreiterungen, Bahnstreckenausbau) in ursächlichem Zusammenhang stehende schädliche Bodennässe, die eine erstmalige Drainage erforderlich macht, dar.
 7.5 Dokumentation
 Für das gesamte Genehmigungsverfahren besteht eine Dokumentationspflicht.
-Die Aufbewahrungsfristen sind analog zu den jeweils geltenden Regelungen des EU-Direktzahlungsrech-
-tes umzusetzen.
+Die Aufbewahrungsfristen sind analog zu den jeweils geltenden Regelungen des EU-Direktzahlungsrechtes umzusetzen.
 8. Schlussbestimmungen
 Dieser Gem. RdErl. tritt am 19.09.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
 An die
@@ -306,7 +240,6 @@ Landwirtschaftskammer Niedersachsen
 unteren Naturschutz- und Wasserbehörden in Niedersachsen
 kommunalen Spitzenverbände
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 8
 Anlage
 Anleitung und Erfassungsanweisung zur Erstellung eines bodenkundlichen Gutachtens
 im Rahmen des Verfahrens zur Prüfung der Genehmigung von Entwässerungsanlagen
@@ -316,8 +249,7 @@ Das bodenkundliche Gutachten hat zum Ziel, die Standorteigenschaften im Hinblick
 und die Dränfähigkeit des Standortes bzw. seiner Eignung für die geplante Maßnahme zu beschreiben. Es
 muss mindestens folgende Anforderungen erfüllen:
 – Standortansprache durch öffentlich bestellte und vereidigte bodenkundliche Sachverständige nach der
-Erfassungsanweisung zur Moorkartierung (s. u.) unter Verwendung des Aufnahmeformblatts (siehe Ab-
-bildung 1), Erfassung des Mindestdatensatzes (siehe weiße Felder im Formular),
+Erfassungsanweisung zur Moorkartierung (s. u.) unter Verwendung des Aufnahmeformblatts (siehe Abbildung 1), Erfassung des Mindestdatensatzes (siehe weiße Felder im Formular),
 – Art und Umfang der Standortansprache: Eine repräsentative Handbohrung mit einem Gutsbohrer oder
 vergleichbar, je Schlag bis 1 ha Schlaggröße, bei größeren Schlägen eine repräsentative Handbohrung
 je angefangenen Hektar, Bohrung bis in den mineralischen Untergrund (vor allem bei flachen Mooren
@@ -331,20 +263,15 @@ Dränung, Dränrichtung, Vorfluter, Alter und Zustand der Dränung.
 ist eine Neuanlage oder eine Vertiefung von Dränen erforderlich? Wieso reicht ggf. eine Bedarfsdränung
 nicht aus?
 – Begründung der Dränfähigkeit: Ist die Maßnahme am Standort geeignet, die gewünschte Aufhebung
-der schädlichen Bodennässe zu erreichen? Ist die Maßnahme geeignet, die gewünschten Wasser-
-stände zu erreichen?
-Die Kartierung von Moorböden im Rahmen des Verfahrens zur Prüfung der Genehmigung von Entwässe-
-rungsanlagen zur Umsetzung der Regelungen nach § 13 GAPKondV soll im Grundsatz nach der Bodenkund-
-lichen Kartieranleitung 5. Auflage (KA5) erfolgen (AG BODEN 2005). Abweichend von dieser Norm werden
-die Erhebungsdaten nach der im LBEG geltenden und vom Referat L2.1 (Bodenschutz, Bodenkundliche Lan-
-desaufnahme) bereitgestellten PEP-Erfassungsanweisung verschlüsselt.
+der schädlichen Bodennässe zu erreichen? Ist die Maßnahme geeignet, die gewünschten Wasserstände zu erreichen?
+Die Kartierung von Moorböden im Rahmen des Verfahrens zur Prüfung der Genehmigung von Entwässerungsanlagen zur Umsetzung der Regelungen nach § 13 GAPKondV soll im Grundsatz nach der Bodenkundlichen Kartieranleitung 5. Auflage (KA5) erfolgen (AG BODEN 2005). Abweichend von dieser Norm werden
+die Erhebungsdaten nach der im LBEG geltenden und vom Referat L2.1 (Bodenschutz, Bodenkundliche Landesaufnahme) bereitgestellten PEP-Erfassungsanweisung verschlüsselt.
 1. Durchführung der Kartierung
 Die Moorkartierung soll mittels abgeteufter Hand- Bohrungen bis in den mineralischen Untergrund, jedoch
 maximal bis in 2 m Tiefe, erfolgen. Für den Geländeeinsatz sind folgende Arbeitsgeräte mitzuführen (vgl. KA5,
 S. 30 ff.):
 – Gutsbohrer (Holländischer Moorbohrer) als Standardbohrer, verlängerbar auf 2 m,
-– Pürckhauer/Linnemann- Bohrer, ggf. für mineralische Deckschichten und den Mineralkörper im Liegen-
-den,
+– Pürckhauer/Linnemann- Bohrer, ggf. für mineralische Deckschichten und den Mineralkörper im Liegenden,
 – Kunststoffhammer zum Eintreiben des Bohrers,
 – Ziehvorrichtung zum Bergen des Bohrers,
 – Messer oder Spachtel zum Anschneiden der Bohrprobe in der Bohrnut,
@@ -352,13 +279,11 @@ den,
 – Spaten zur Ansprache des Oberbodens am Bodenmonolith,
 – Gliedermaßstab, Maßband,
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 9
 – Digitalkamera zur Dokumentation,
 – GPS-Gerät zur Positionsbestimmung der Bohrpunkte (in ETRS89/UTM- Zone N32),
 – ggf. Salzsäure (10%ig) zur Carbonatgehaltsprüfung.
 2. Erfassung und Verschlüsselung der Bohrdaten im Rahmen der Kartierung
-Die Dokumentation der einzelnen Bohrungen erfolgt nur in Form der hier aufgeführten und erlaubten Ein-
-träge im Aufnahmeformblatt für die Moorkartierung (siehe Abbildung 1).
+Die Dokumentation der einzelnen Bohrungen erfolgt nur in Form der hier aufgeführten und erlaubten Einträge im Aufnahmeformblatt für die Moorkartierung (siehe Abbildung 1).
 Auf dem Aufnahmeformblatt sind die Pflichtfelder in Weiß kenntlich gemacht. Hier sind Eintragungen nach
 der folgenden Anweisung vorzunehmen. Wenn bei einem Erhebungsparameter keine Merkmale zu erkennen
 sind, dürfen die Felder auch ohne Eintrag bleiben oder es ist ein Null-Wert einzutragen. Die Aufnahme im
@@ -370,15 +295,12 @@ und 20),
 24, 25, 26, 30 und 34),
 – Profilkennzeichnung (siehe Felder 44, 45, 46 und 48).
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 10
 
 Abbildung 1: Aufnahmeformblatt für die Moorkartierung im Rahmen des Verfahrens zur Prüfung der Genehmigung von
 Entwässerungsanlagen nach GAPKondV mit Angabe der Datenfeldnummern; Pflichtfelder in Weiß.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 11
 2.1 Zu den Titeldaten
-Die zugeordneten Datenfelder in Abbildung 1 enthalten keine speziell fachbezogenen Daten, sondern An-
-gaben zur formellen Einordnung der Aufnahme.
+Die zugeordneten Datenfelder in Abbildung 1 enthalten keine speziell fachbezogenen Daten, sondern Angaben zur formellen Einordnung der Aufnahme.
 2.1.1 Feld 3: Büro/Institution ( INSTITUTION)
 Art der Angabe: Freitext
 Name des Büros bzw. der Institution, welches die Bohrpunktaufnahme durchgeführt hat.
@@ -414,11 +336,9 @@ S Sonderkultur allgemein
 
 2.2.2 Feld 20: Meliorationen ( MELIO)
 Art der Angabe: Kürzel
-In diesem Feld müssen Meliorationsmaßnahmen vermerkt werden, die am Standort durchgeführt wur-
-den. Aufzählungen mehrerer Maßnahmen sind, durch Komma voneinander getrennt, erlaubt. Folgende
+In diesem Feld müssen Meliorationsmaßnahmen vermerkt werden, die am Standort durchgeführt wurden. Aufzählungen mehrerer Maßnahmen sind, durch Komma voneinander getrennt, erlaubt. Folgende
 Einträge zu den anthropogenen Veränderungen sind zulässig: siehe Tabelle 2.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 12
 Tabelle 2: Werteliste (Feld 20) – Meliorationen (Auswahl)
 MELIO
 Kuerzel Klartext
@@ -456,22 +376,18 @@ TU Tiefumbruch tiefer als 4 dm
 TW Wühlen (Kuhlen)
 2.3 Zur Horizont - und Schichtbeschreibung
 Der vertikale Bodenaufbau wird differenziert in Bodenschichten, den sog. Horizonten, beschrieben. Jeder
-Horizont wird durch Merkmale und Eigenschaften gekennzeichnet, deren Ausprägungsgrad und - form zur Dif-
-ferenzierung und Abgrenzung führt.
+Horizont wird durch Merkmale und Eigenschaften gekennzeichnet, deren Ausprägungsgrad und - form zur Differenzierung und Abgrenzung führt.
 2.3.1 Feld 24: Tiefen der Horizontgrenzen ( TIEFE)
 Art der Angabe: Zahl
 Die Tiefenangaben beziehen sich auf die Geländeoberfläche. Es wird stets die Horizontuntergrenze
 als positiver Wert ausgewiesen.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 13
 2.3.2 Feld 25: Horizontsymbol ( HORIZ)
 Art der Angabe: Kürzel
 Die eindeutige Definition und Bezeichnung sowie die vertikale Abfolge der Horizonte sind grundlegende
-Voraussetzung für die bodengenetische Einstufung. Ergänzende Informationen zu einem Horizont wer-
-den unter „Sonstiges“ (Feld 43) vermerkt.
+Voraussetzung für die bodengenetische Einstufung. Ergänzende Informationen zu einem Horizont werden unter „Sonstiges“ (Feld 43) vermerkt.
 Die Horizonte werden durch Hauptsymbole (Großbuchstaben) und Zusatzsymbole für pedogene und
-anthropogene Horizontmerkmale (Kleinbuchstaben) gekennzeichnet. Anthropogenetische Zusatzsym-
-bole werden den Hauptsymbolen vorangestellt, die pedogenetischen Zusatzsymbole nachgestellt.
+anthropogene Horizontmerkmale (Kleinbuchstaben) gekennzeichnet. Anthropogenetische Zusatzsymbole werden den Hauptsymbolen vorangestellt, die pedogenetischen Zusatzsymbole nachgestellt.
 Bei der Horizontkennzeichnung dürfen nur die zulässigen Einträge aus der KAB-Werteliste verwendet
 werden. Die folgende Liste enthält eine mögliche Auswahl von Horizontsymbolen (Tabelle 3).
 Tabelle 3: Werteliste (Feld 25) – Horizontsymbole (Auswahl)
@@ -482,8 +398,7 @@ mineralischer Substanz
 Aa A- Horizont mit 15–30 Masse -% organischer Substanz (anmoorig), unter Grund- oder
 Stauwassereinfluss an der Oberfläche entstanden
 Ae gebleichter A- Horizont
-Aeh Ah- Horizont, schwach podsolig, durch Humusstoffeinwaschung beeinflusst, vertikal un-
-gleichmäßig humos, violettstichig
+Aeh Ah- Horizont, schwach podsolig, durch Humusstoffeinwaschung beeinflusst, vertikal ungleichmäßig humos, violettstichig
 Ah A- Horizont, mit bis zu 30 Masse -% akkumuliertem Humus, dessen Menge i. d. R. nach
 unten hin abnimmt
 Ahe Ae- Horizont, horizontal ungleichmäßig humos, mäßig podsolig bis podsoliert, violettstichig,
@@ -494,35 +409,28 @@ charakterisiert durch lückige Entwicklung
 Al lessivierter A- Horizont, durch Tonverlagerung geprägt, aufgehellt gegenüber Ah- und Bt-
 Horizont, über einem mit Ton angereicherten Bt- Horizont liegend
 Ap A- Horizont, durch regelmäßige Bodenbearbeitung geprägt, Ackerkrume
-B Unterbodenhorizont mit Änderung des Stoffbestandes und Farbe gegenüber dem Aus-
-gangsgestein sowie weniger als 75 Vol.-% Festgesteinsresten (soweit nicht P, T, S oder G)
+B Unterbodenhorizont mit Änderung des Stoffbestandes und Farbe gegenüber dem Ausgangsgestein sowie weniger als 75 Vol.-% Festgesteinsresten (soweit nicht P, T, S oder G)
 Bbh Bh- Horizont, Humusanreicherung in mehreren Bändern
 Bbs Bs- Horizont, Sesquioxidanreicherung in mehreren Bändern, Einzelbändchen meist < 2 cm
 mächtig
-bE mineralischer Auftragshorizont aus aufgetragenem, braunen (Gras-)Sodenmaterial, mächti-
-ger als Pflugtiefe, in der Regel > 1 Masse - % organischer Substanz
+bE mineralischer Auftragshorizont aus aufgetragenem, braunen (Gras-)Sodenmaterial, mächtiger als Pflugtiefe, in der Regel > 1 Masse - % organischer Substanz
 Bh B- Horizont, durch Einwaschung mit Humusstoffen angereichert (Illuvialhorizont), bei dem
 die organische Substanz gegenüber dem Ae-Horizont zunimmt; morphologisch keine Fe -
 Anreicherung erkennbar
 Bhs Bs- Horizont mit morphologisch erkennbarer Humusstoffanreicherung
 Bhv Bv- Horizont, mit erkennbarer Humusanreicherung
 bR R- Horizont bei Baggerkuhlungsböden
-Bs B- Horizont, mit Sesquioxiden durch Umlagerung angereichert (Illuvialhorizont), keine Hu-
-musanreicherung erkennbar; Munsell- Farbton mindestens eine Stufe stärker rot oder braun
+Bs B- Horizont, mit Sesquioxiden durch Umlagerung angereichert (Illuvialhorizont), keine Humusanreicherung erkennbar; Munsell- Farbton mindestens eine Stufe stärker rot oder braun
 als darüber und darunter liegender Horizont
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 14
 HORIZ
 Kuerzel Klartext
 Bsh Bh- Horizont mit morphologisch erkennbarer Sesquioxidanreicherung
 Bsv Bv- Horizont, mit Sesquioxiden angereichert
 Bt B- Horizont, durch Einwaschung mit Ton angereichert; ausgeprägte Tonhäute, Tapeten
-von kräftig brauner, meist rötlich - brauner Farbe auf den Hohlraumwandungen, an Aggre-
-gatoberflächen und in feinen Poren mit bloßem Auge oder Lupe erkennbar
+von kräftig brauner, meist rötlich - brauner Farbe auf den Hohlraumwandungen, an Aggregatoberflächen und in feinen Poren mit bloßem Auge oder Lupe erkennbar
 Btv Bv- Horizont, örtlich erkennbar mit Ton angereichert
-Bv B- Horizont, durch Verwitterung verbraunt und verlehmt, Tonbildung und/oder Lösungs-
-rückstände; gegenüber dem nach unten folgenden Horizont, gleiches Substrat vorausge-
-setzt, also für Mehrschichtprofile nicht bindend, frei von lithogenem Carbonat
+Bv B- Horizont, durch Verwitterung verbraunt und verlehmt, Tonbildung und/oder Lösungsrückstände; gegenüber dem nach unten folgenden Horizont, gleiches Substrat vorausgesetzt, also für Mehrschichtprofile nicht bindend, frei von lithogenem Carbonat
 Bvs Bs- Horizont mit Restmerkmalen des Bv-Horizontes
 C Untergrundhorizont, i. d. R. das Ausgangsgestein, aus dem der Boden entstanden ist
 Cn C- Horizont, unverwittertes Locker- oder Festgestein; bei Festgesteinen keine sekundären
@@ -533,8 +441,7 @@ Farbveränderung durch Sulfidverwitterung möglich
 dC mineralischer Auftragshorizont bei Deckkulturböden
 E mineralischer Auftragshorizont aus aufgetragenem (Heide-)Plaggenmaterial entstanden,
 mächtiger als Pflugtiefe, in der Regel > 1 Masse -% organischer Substanz
-G Mineralbodenhorizont mit Grundwassereinfluss und i.d.R. dadurch verursachten bestimm-
-ten hydromorphen Merkmalen
+G Mineralbodenhorizont mit Grundwassereinfluss und i.d.R. dadurch verursachten bestimmten hydromorphen Merkmalen
 Gew Gw- Horizont, durch Nassbleichung deutlich an Sesquioxiden verarmt
 Ghor Gor- Horizont mit Anreicherung an Humusstoffen
 Ghr Gr- Horizont mit Anreicherung an Humusstoffen
@@ -549,18 +456,13 @@ Gro Go- Horizont, teilweise reduziert, mit 5–10 % Flächenanteil Rostflecken
 Gso Go- Horizont, mit deutlicher sekundärer Anreicherung von unverfestigtem Brauneisen
 Gw Go- Horizont, aber aufgrund fehlender Zeichnereigenschaften in z. B. eisenfreien Sanden
 und Kiesen ohne Oxidationsmerkmale und über einem Gr-Horizont gelegen
-H organischer Horizont mit > 30 Masse-% organischer Substanz (Torf), aus Resten torfbil-
-dender Pflanzen an der Oberfläche unter Wasserüberschuss gebildet
+H organischer Horizont mit > 30 Masse-% organischer Substanz (Torf), aus Resten torfbildender Pflanzen an der Oberfläche unter Wasserüberschuss gebildet
 Ha H- Horizont, Unterbodenhorizont stark entwässerter Moorstandorte; Absonderungsgefüge
-infolge Schrumpfung und Quellung und teilweiser aerober Zersetzung grob- bis feinpo-
-lyedrische Gefügekörper, zum Oberboden feiner werdend
-Hat H- Horizont, Unterbodenhorizont, Torfschrumpfungshorizont, der zum Untergrund vermit-
-telt; durch Schrumpfung und gehemmte Zersetzung grob-prismatisch gegliedertes Rissge-
-füge ohne horizontale Bruchlinien zum pedogen unveränderten Torf des Untergrundes
+infolge Schrumpfung und Quellung und teilweiser aerober Zersetzung grob- bis feinpolyedrische Gefügekörper, zum Oberboden feiner werdend
+Hat H- Horizont, Unterbodenhorizont, Torfschrumpfungshorizont, der zum Untergrund vermittelt; durch Schrumpfung und gehemmte Zersetzung grob-prismatisch gegliedertes Rissgefüge ohne horizontale Bruchlinien zum pedogen unveränderten Torf des Untergrundes
 Hca Ha- Horizont, mit Sekundärcarbonat angereichert
 Hcm Hm- Horizont, mit Sekundärcarbonat angereichert
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 15
 HORIZ
 Kuerzel Klartext
 Hcmp Hm- Horizont, mit Sekundärcarbonat angereichert, gepflügt
@@ -571,14 +473,10 @@ Hcv Hv- Horizont mit Sekundärcarbonat angereichert
 Hcvm Hm- Horizont, mit Sekundärcarbonat angereichert, vererdet
 Hcvp Hv - Horizont mit Sekundärcarbonat angereichert, gepflügt
 Hcw Hw- Horizont, erkennbar mit Sekundärcarbonat angereichert
-Hm H- Horizont, Oberbodenhorizont stark entwässerter und/oder intensiv bearbeiteter Moor-
-standorte; durch intensive aerobe Prozesse der Mineralisierung und Humifizierung verbun-
-den mit häufiger Austrocknung, "vermulmt"
+Hm H- Horizont, Oberbodenhorizont stark entwässerter und/oder intensiv bearbeiteter Moorstandorte; durch intensive aerobe Prozesse der Mineralisierung und Humifizierung verbunden mit häufiger Austrocknung, "vermulmt"
 Hmp Hm- Horizont, gepflügt
 Hp H- Horizont, der durch regelmäßige Bodenbearbeitung mit dem Pflug geprägt ist
-Hr H- Horizont, ständig (Grund-) Wasser erfüllt; mit Reduktionsmerkmalen: in der Regel hel-
-lere Farbe als der darüber liegende Horizont, bei Luftzutritt nachdunkelnd. Torfart und Zer-
-setzungsgrad sind meist noch ansprechbar
+Hr H- Horizont, ständig (Grund-) Wasser erfüllt; mit Reduktionsmerkmalen: in der Regel hellere Farbe als der darüber liegende Horizont, bei Luftzutritt nachdunkelnd. Torfart und Zersetzungsgrad sind meist noch ansprechbar
 Hs H- Horizont, diffus oder nesterförmig mit unverfestigten Sesquioxiden (Raseneisenstein)
 angereichert
 Hsr Hr- Horizont, diffus oder nesterförmig mit unverfestigten Sesquioxiden (Raseneisenstein)
@@ -587,29 +485,21 @@ Hsw Hw- Horizont, diffus oder nesterförmig mit unverfestigten Sesquioxiden (Ras
 angereichert
 Ht H- Horizont, Unterbodenhorizont, Torfschrumpfungshorizont, der zum Untergrund vermittelt
 Htp Ht - Horizont, gepflügt
-Hv H- Horizont, Oberbodenhorizont mäßig entwässerter und/oder extensiv bearbeiteter Moor-
-standorte; durch sekundäre aerobe Prozesse der Mineralisierung und Humifizierung "verer-
-det"; krümeliges bis feinpolyedrisch-körniges Aggregatgefüge
+Hv H- Horizont, Oberbodenhorizont mäßig entwässerter und/oder extensiv bearbeiteter Moorstandorte; durch sekundäre aerobe Prozesse der Mineralisierung und Humifizierung "vererdet"; krümeliges bis feinpolyedrisch-körniges Aggregatgefüge
 Hvm Hm- Horizont, vererdet
 Hvp Hv- Horizont, regelmäßig gepflügt
 Hw H- Horizont, zeitweilig (Grund-) Wasser erfüllt; im Schwankungsbereich von Stau- und/oder
-Grundwasser; mit Oxidationsmerkmalen: in der Regel dunklere Farbe als der darunter lie-
-gende Horizont. Torfart und Zersetzungsgrad sind meist noch ansprechbar
+Grundwasser; mit Oxidationsmerkmalen: in der Regel dunklere Farbe als der darunter liegende Horizont. Torfart und Zersetzungsgrad sind meist noch ansprechbar
 L Organischer Horizont aus Ansammlung von nicht und wenig zersetzter Pflanzensubstanz
 (Förna) an der Bodenoberfläche
-M Mineralbodenhorizont, entstanden aus fortlaufend sedimentiertem holozänem Solummate-
-rial, vor Umlagerung pedogen veränderte, fluviatile, durch Abspülung an Hängen oder
+M Mineralbodenhorizont, entstanden aus fortlaufend sedimentiertem holozänem Solummaterial, vor Umlagerung pedogen veränderte, fluviatile, durch Abspülung an Hängen oder
 durch Bodenbearbeitung sowie äolisch transportierte Auftragsmasse
 O organischer Horizont (soweit nicht H- oder F- Horizont) aus organischer Substanz über
 dem Mineralboden oder über Torf
 Of O- Horizont, in dem neben Pflanzenresten die organische Feinsubstanz deutlich hervortritt;
-ihr Anteil liegt in der Regel zwischen 10 und 70 Vol.-% der Summe von organischer Fein-
-substanz und Sprossresten, ohne Wurzelreste und Wurzeln
-Oh O- Horizont, in dem die organische Feinsubstanz stark überwiegt; sie hat in der Regel ei-
-nen Anteil von über 70 Vol.-% der Summe von organischer Feinsubstanz und Sprossres-
-ten
+ihr Anteil liegt in der Regel zwischen 10 und 70 Vol.-% der Summe von organischer Feinsubstanz und Sprossresten, ohne Wurzelreste und Wurzeln
+Oh O- Horizont, in dem die organische Feinsubstanz stark überwiegt; sie hat in der Regel einen Anteil von über 70 Vol.-% der Summe von organischer Feinsubstanz und Sprossresten
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 16
 HORIZ
 Kuerzel Klartext
 R mineralischer Mischhorizont anthropogener Böden, entstanden durch tiefreichende
@@ -617,21 +507,15 @@ R mineralischer Mischhorizont anthropogener Böden, entstanden durch tiefreichen
 S mineralischer Unterbodenhorizont mit Stauwassereinfluss, zeitweilig nass oder entwässert
 (dann Merkmale reliktisch)
 Sd S- Horizont, Wasser stauend, i. d. R. 50 bis 70 % Rost- und Bleichflecken und marmoriert,
-Intensität je nach Zeichnereigenschaften des Bodenmaterials, Aggregatoberflächen ge-
-bleicht, Aggregatinneres rostfleckig oder marmoriert
+Intensität je nach Zeichnereigenschaften des Bodenmaterials, Aggregatoberflächen gebleicht, Aggregatinneres rostfleckig oder marmoriert
 Sdw Sw- Horizont, schwach Wasser stauend
 Sew Sw- Horizont, durch Nassbleichung gesamter Horizont deutlich sesquioxidverarmt, < 5 %
-Flächenanteil Rostflecken und/oder Konkretionen; durch Nassbleichung Munsell-Farb-
-wert 4 und mehr sowie Quotient aus Farbwert und Farbtiefe < 2,5
-Sg S- Horizont, haftnass, mit > 80 % Flächenanteil Nassbleichungs- und Oxidationsmerkma-
-len sowie Sd-Merkmalen, unscharfe Bleich- und Rostflecken, Luftmangel bereits bei Feld-
-kapazität wegen hohen Anteils an Haftwasser erfüllten Mittelporen
+Flächenanteil Rostflecken und/oder Konkretionen; durch Nassbleichung Munsell-Farbwert 4 und mehr sowie Quotient aus Farbwert und Farbtiefe < 2,5
+Sg S- Horizont, haftnass, mit > 80 % Flächenanteil Nassbleichungs- und Oxidationsmerkmalen sowie Sd-Merkmalen, unscharfe Bleich- und Rostflecken, Luftmangel bereits bei Feldkapazität wegen hohen Anteils an Haftwasser erfüllten Mittelporen
 Srd Sd- Horizont, mit Reduktionsmerkmalen und ständigem Luftmangel
-Srw Sw- Horizont, mit lang anhaltender Vernässung (ca. an 200 bis 300 Tagen im Jahr), Re-
-duktionsmerkmale (typisch für Stagnogley), Rostflecken nur an Wurzelbahnen
+Srw Sw- Horizont, mit lang anhaltender Vernässung (ca. an 200 bis 300 Tagen im Jahr), Reduktionsmerkmale (typisch für Stagnogley), Rostflecken nur an Wurzelbahnen
 Sw S- Horizont, Stauwasser leitend, zeitweise Stauwasser führend, > 80 % Flächenanteil
-Nassbleichungsmerkmale (Flecken sowie schwache Nassbleichung des gesamten Hori-
-zontes) und Oxidationsmerkmale (Rostflecken sowie Konkretionen)
+Nassbleichungsmerkmale (Flecken sowie schwache Nassbleichung des gesamten Horizontes) und Oxidationsmerkmale (Rostflecken sowie Konkretionen)
 Swd Sd- Horizont, schwach Stauwasser leitend
 tGo Go- Horizont, gespittet bei Spittkulturboden
 tGw Gw- Horizont, gespittet bei Spittkulturboden
@@ -639,15 +523,12 @@ uR R- Horizont, tief umgebrochen bei Treposolen (Tiefumbruchböden)
 vR R- Horizont, verfehnt bei Fehnkulturböden
 wR R- Horizont bei Wölbackerböden
 Übergangshorizonte:
-Übergangshorizonte können durch Kombination von einem Großbuchstaben mit mehreren Kleinbuch-
-staben (z. B. Bvt) oder durch Kombination von zwei Großbuchstaben mit zugehörigen Kleinbuchstaben
+Übergangshorizonte können durch Kombination von einem Großbuchstaben mit mehreren Kleinbuchstaben (z. B. Bvt) oder durch Kombination von zwei Großbuchstaben mit zugehörigen Kleinbuchstaben
 (z. B. Bv-Sw) gebildet werden.
-Es ist nicht zulässig, einen von zwei unterschiedlichen Großbuchstaben wegzulassen (z. B. Bvw für Bv-
-Sw). Wenn zwei Großbuchstaben verwendet werden, wird der Übergang durch einen Bindestrich („ – “)
+Es ist nicht zulässig, einen von zwei unterschiedlichen Großbuchstaben wegzulassen (z. B. Bvw für BvSw). Wenn zwei Großbuchstaben verwendet werden, wird der Übergang durch einen Bindestrich („ – “)
 deutlich gemacht. Bei Übergangshorizonten aus einem reliktischen oder fossilen Horizont und einem
 rezenten Horizont wird der Übergang durch ein Pluszeichen („ + “) gekennzeichnet (vgl. Abbildung 2).
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 17
 Abbildung 2: Übergangshorizonte (ausgewählte Beispiele)
 2.3.3 Feld 26: Bodenart/Torfart ( HNBOD)
 Art der Angabe: Kürzel
@@ -655,9 +536,7 @@ Es werden Angaben zur Torfart, zu Mudden oder zur Bodenart des mineralischen Fei
 2.3.3.1 Bodenarten des Feinbodens
 Die Bestimmung im Gelände erfolgt durch die Fingerprobe (vgl. KA5, S. 142 ff.).
 2.3.3.2 Sande
-Die Bodenartenuntergruppen der Sande werden nach ihren Fein- , Mittel- und Grobsandantei-
-len weiter differenziert, vgl. Tabelle 4. Dies kann wichtig sein, da die Unterfraktionen des San-
-des unterschiedliche Eigenschaften haben (z. B. Wasserhaushalt).
+Die Bodenartenuntergruppen der Sande werden nach ihren Fein- , Mittel- und Grobsandanteilen weiter differenziert, vgl. Tabelle 4. Dies kann wichtig sein, da die Unterfraktionen des Sandes unterschiedliche Eigenschaften haben (z. B. Wasserhaushalt).
 Tabelle 4: Untergliederung der Bodenartengruppe Sand
 
 Symbole
@@ -697,29 +576,22 @@ durch Grundwassereinfluß schwach hydromorpher M-Horizont Go-M
 Schwach stauwasserleitender, schwach verwitterter C-Horizont Sw-Cv
 Schwach sauergebleichter und stauwasserleitender M-Horizont Sew-M
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 18
 Bei Mineralbodenbeimengungen erfolgt in Abhängigkeit vom Gehalt an organischer Substanz
 eine Beschreibung von Gemengen aus Mineralboden und Torf nach Tabelle 6:
 Bei Gehalten von < 30 % organischer Substanz wird nur die Bodenart ins Feld 26 eingetragen
-sowie der Humusgehalt (h1 bis h6) ins Feld 34. Bei Gehalten von 30 – 70 % organischer Sub-
-stanz werden die jeweilige Torfart durch Komma getrennt mit nachgestellter mineralischer
+sowie der Humusgehalt (h1 bis h6) ins Feld 34. Bei Gehalten von 30 – 70 % organischer Substanz werden die jeweilige Torfart durch Komma getrennt mit nachgestellter mineralischer
 (sandiger, schluffiger, toniger) Beimengung aufgeführt. Eine weitere Quantifizierung innerhalb
-dieser Bodenartengruppen erfolgt nicht. Bei Gehalten von > 70 % organischer Substanz er-
-folgt nur die Angabe der Torfart im Feld 26.
+dieser Bodenartengruppen erfolgt nicht. Bei Gehalten von > 70 % organischer Substanz erfolgt nur die Angabe der Torfart im Feld 26.
 Tabelle 6: Beschreibung von Gemengen aus Torf und Mineralboden
 Gehalt an
-organi-
-scher Sub-
-stanz
+organischer Substanz
 Feld 26
 Bodenart, Torfart
 Feld 30
-Humositäts-
-grad (nach
+Humositätsgrad (nach
 von Post)
 Feld 34
-Humus-
-gehalt
+Humusgehalt
 < 30 % Bodenart des Fein- und Grobbodens h1 – h6
 30–70% Hn..,s oder Hh..,s Sandig H1 – H10 h7
 Hn..,u oder Hh..,u Schluffig
@@ -729,24 +601,18 @@ durchsetzt mit Schluff
 durchsetzt mit Ton
 2.3.3.4 Mudden
 Mudden sind organische oder mit organischer Substanz durchsetzte limnische Sedimente. Je
-nach Zusammensetzung werden organische (organogene) und organo- mineralische (minero-
-gene) Formen unterschieden. Zwischen beiden gibt es Übergänge. Für die Ziele der Boden- bewertung reicht es aus, die Anwesenheit einer Mudde mit F (Mudden allgemein) zu kenn-
-zeichnen.
+nach Zusammensetzung werden organische (organogene) und organo- mineralische (minerogene) Formen unterschieden. Zwischen beiden gibt es Übergänge. Für die Ziele der Boden- bewertung reicht es aus, die Anwesenheit einer Mudde mit F (Mudden allgemein) zu kennzeichnen.
 2.3.4 Feld 30: Humositätsgrad ( ZER)
 Art der Angabe: Kürzel
-Der Humositätsgrad von Torfen wird nach von Post in einer zehnstufigen Skala angegeben. Bei Torfla-
-gen einheitlicher Zersetzung muss die Angabe stets eindeutig sein. Die Bestimmung erfolgt durch eine
+Der Humositätsgrad von Torfen wird nach von Post in einer zehnstufigen Skala angegeben. Bei Torflagen einheitlicher Zersetzung muss die Angabe stets eindeutig sein. Die Bestimmung erfolgt durch eine
 Quetschprobe nach Tabelle 7.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 19
 Tabelle 7: Werteliste (Feld 30) – Humositätsgrade von Torfen nach von Post
 
 2.3.5 Feld 34: Humus ( HUMUS)
 Art der Angabe: Kürzel
 Unter Humus wird hier die organische Substanz im Boden verstanden. Die Beurteilung des Gehaltes
-an organischer Substanz in Gewichts-% erfolgt in erster Linie anhand der Farbe. Der Gehalt wird ent-
-sprechend den Kürzeln in Tabelle 8 beschrieben. Torfschichten weisen meist einen Gehalt an organi-
-scher Substanz über 30 % (h7) auf. Niedrigere Humusgehalte findet man in mineralischen Auflagen
+an organischer Substanz in Gewichts-% erfolgt in erster Linie anhand der Farbe. Der Gehalt wird entsprechend den Kürzeln in Tabelle 8 beschrieben. Torfschichten weisen meist einen Gehalt an organischer Substanz über 30 % (h7) auf. Niedrigere Humusgehalte findet man in mineralischen Auflagen
 oder in mineralischen Schichten unterhalb der Torfschichten.
 Tabelle 8: Werteliste (Feld 34) – Gehalt an organischer Substanz im Boden
 Kuerzel Klassen der Gehalte an organischer Substanz
@@ -759,18 +625,15 @@ h5 sehr stark humos (8 % bis 15 %)
 h6 äußerst (extrem) humos, anmoorig (z. B. bei Aa-Horizont) (15 % bis 30 %)
 h7 Organisch (> 30 %)
 2.4 Zur Profilkennzeichnung
-Die Angaben zur Profilkennzeichnung enthalten relevante Informationen, die sich aus den vorherigen Be-
-schreibungen zur Aufnahmesituation und Horizont- und Schichtbeschreibung ableiten lassen.
+Die Angaben zur Profilkennzeichnung enthalten relevante Informationen, die sich aus den vorherigen Beschreibungen zur Aufnahmesituation und Horizont- und Schichtbeschreibung ableiten lassen.
 
-Nds. MBl. 2024 Nr. 408 vom 19. September 2024 Seite 20
 2.4.1 Feld 44: freies Wasser im Bohrstock (WAGUT)
 Art der Angabe: Zahl
 Es wird die geschätzte Obergrenze des geschlossenen Kapillarraumes in dm unter Geländeoberfläche
 (GOF) eingetragen. Die Bestimmung erfolgt in der gewonnenen Bohrstock-Probe.
 2.4.2 Feld 45: mittlerer Grundwasserhochstand ( MHGW)
 Art der Angabe: Zahl
-Es wird der Grundwasserhochstand des langjährigen Mittels in dm unter Geländeoberfläche (GOF) ein-
-getragen; in der Regel ist dies die Oberkante des ausgewiesenen Go- bzw. Hw-Horizontes.
+Es wird der Grundwasserhochstand des langjährigen Mittels in dm unter Geländeoberfläche (GOF) eingetragen; in der Regel ist dies die Oberkante des ausgewiesenen Go- bzw. Hw-Horizontes.
 2.4.3 Feld 46: mittlerer Grundwasserniedrigstand ( MNGW)
 Art der Angabe: Zahl
 Es wird der Grundwasserniedrigstand des langjährigen Mittels in dm unter Geländeoberfläche (GOF)
@@ -780,10 +643,8 @@ Art der Angabe: Zahl
 Die Bodenkundliche Feuchtestufe kennzeichnet die Feuchtesituation eines Standortes. Zur Ableitung
 werden der mittlere Grundwasserhochstand (MHGW) und der m ittlere Grundwassertiefstand (MNGW)
 nach Tabelle 9 herangezogen.
-Zu Tabelle 9: Der MHGW, der m ittlere Grundwasserstand (MGW) und der MNGW werden nach Ad-
-hoc-AG Boden (2005) in Verbindung mit Bug et al (2020) bestimmt. Die Grundwasserstufen (GWS)
-werden im Gegensatz zu Ad- hoc-AG Boden (2005) mit zunehmender Trockenheit absteigend numme-
-riert.
+Zu Tabelle 9: Der MHGW, der m ittlere Grundwasserstand (MGW) und der MNGW werden nach Adhoc-AG Boden (2005) in Verbindung mit Bug et al (2020) bestimmt. Die Grundwasserstufen (GWS)
+werden im Gegensatz zu Ad- hoc-AG Boden (2005) mit zunehmender Trockenheit absteigend nummeriert.
 Tabelle 9: Bodenkundliche Feuchtestufe (Feld 48)
 GWS
 1)

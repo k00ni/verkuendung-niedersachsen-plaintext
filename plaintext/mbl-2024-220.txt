@@ -18,8 +18,7 @@ Erl. v. 22.11.2023 (Nds. MBl. S. 947)
 – VORIS 64100 –
 
 Der Bezugserlass wird mit Wirkung vom 13.05.2024 wie folgt geändert:
-1. In Nummer 1.2 sechster Spiegelstrich wird die Angabe „Verordnung (EU) Nr. 1407/2013 der Kommis-
-sion vom 18. 12. 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise
+1. In Nummer 1.2 sechster Spiegelstrich wird die Angabe „Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. 12. 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise
 der Europäischen Union auf De- minimis-Beihilfen (ABl. EU Nr. L 352 S. 1), geändert durch Verordnung
 (EU) 2020/972 der Kommission vom 2. 7. 2020 (ABl. EU Nr. L 215 S. 3)“ durch die Angabe „ Verordnung
 (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107 und 108
@@ -37,23 +36,14 @@ die Dienstleistungen von allgemeinem wirtschaftlichem Interesse erbringen (ABI. 
 3. In Nummer 5.5 neunter Spiegelstrich Satz 2, zwölfte r Spiegelstrich Satz 2 und dreizehnter Spiegelstrich
 Satz 3 wird jeweils die Angabe „Die in Artikel 3 Abs. 2 der De- minimis-Verordnung bzw. in Artikel 2 Abs.
 2 der DAWI-De-minimis-Verordnung genannten Beihilfebeträge dürfen nicht überschritten werden.“
-durch die Angabe „Die in Artikel 3 Abs. 2 der De- minimis-Verordnung und in Artikel 3 Abs. 2 der DAWI-
-De-minimis-Verordnung genannten Höchstbeträge dürfen nicht überschritten werden.“ ersetzt.
+durch die Angabe „Die in Artikel 3 Abs. 2 der De- minimis-Verordnung und in Artikel 3 Abs. 2 der DAWIDe-minimis-Verordnung genannten Höchstbeträge dürfen nicht überschritten werden.“ ersetzt.
 
-Nds. MBl. 2024 Nr. 220 vom 13. Mai 2024 Seite 2
 4. Nummer 6.4 Abs. 2 erhält folgende Fassung:
-„Soweit die Zuwendung eine staatliche Beihilfe darstellt und auf der Grundlage der De- minimis-Verord-
-nung oder der DAWI-De-minimis-Verordnung erfolgt, stellt die Bewilligungsstelle sicher, dass sämtliche
-Voraussetzungen der De- minimis-Verordnung und der DAWI-De-minimis-Verordnung vorliegen (insbe-
-sondere Geltungsbereich, Höchstbetrag, Berechnung des Bruttosubventionsäquivalents, Kumulierung,
+„Soweit die Zuwendung eine staatliche Beihilfe darstellt und auf der Grundlage der De- minimis-Verordnung oder der DAWI-De-minimis-Verordnung erfolgt, stellt die Bewilligungsstelle sicher, dass sämtliche
+Voraussetzungen der De- minimis-Verordnung und der DAWI-De-minimis-Verordnung vorliegen (insbesondere Geltungsbereich, Höchstbetrag, Berechnung des Bruttosubventionsäquivalents, Kumulierung,
 Überwachung, Berichterstattung). Bis das zentrale Register gemäß Artikel 6 De-minimis-Verordnung
-und Artikel 6 DAWI-De-minimis-Verordnung einen Zeitraum von drei Jahren abdeckt, führt die Bewilli-
-gungsstelle das Verfahren gemäß Artikel 7 Abs. 4 De- minimis-Verordnung und Artikel 7 Abs. 4 DAWI-
-De-minimis-Verordnung durch und prüft zur Einhaltung des zulässigen Höchstbetrages insbesondere
-eine von den antragstellenden Unternehmen vorzulegende Erklärung zu bereits erhaltenen De- minimis-
-Beihilfen und stellt eine Bescheinigung aus. Sobald das zentrale Register gemäß Artikel 6 De-minimis-
-Verordnung und Artikel 6 DAWI-De-minimis-Verordnung eingerichtet ist, stellt die Bewilligungsstelle si-
-cher, dass sämtliche De- minimis-Beihilfen darin vollständig erfasst werden.“
+und Artikel 6 DAWI-De-minimis-Verordnung einen Zeitraum von drei Jahren abdeckt, führt die Bewilligungsstelle das Verfahren gemäß Artikel 7 Abs. 4 De- minimis-Verordnung und Artikel 7 Abs. 4 DAWIDe-minimis-Verordnung durch und prüft zur Einhaltung des zulässigen Höchstbetrages insbesondere
+eine von den antragstellenden Unternehmen vorzulegende Erklärung zu bereits erhaltenen De- minimisBeihilfen und stellt eine Bescheinigung aus. Sobald das zentrale Register gemäß Artikel 6 De-minimisVerordnung und Artikel 6 DAWI-De-minimis-Verordnung eingerichtet ist, stellt die Bewilligungsstelle sicher, dass sämtliche De- minimis-Beihilfen darin vollständig erfasst werden.“
 5. Nummer 8.2 Satz 2 wird gestrichen.
 6. Nummer 8.2.1 wird zu Nummer 8.2 Abs. 2.
 7. Nummer 8.2.2 wird gestrichen.

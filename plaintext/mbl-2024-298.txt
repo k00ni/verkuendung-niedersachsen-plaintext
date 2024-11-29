@@ -43,7 +43,6 @@ NSG.
 1 : 5 000 (Anlage 1). Sie verläuft auf der Innenseite des grauen Rasterbandes und ist als
 durchgezogene schwarze Linie dargestellt. Falls vorhanden, gilt die darunterliegende
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 2
 Grundstücksgrenze. Gräben und lineare Gehölzstrukturen, die von der schwarzen Linie berührt
 werden, liegen im NSG. Die Lage des NSG ergibt sich aus der mitveröffentlichten Übersichtskarte im
 Maßstab 1 : 50 000 (Anlage 1). Die Karten sind Bestandteile der Verordnung. Sie können von
@@ -56,8 +55,7 @@ Sittensen“ (EU-Code: 2723-401, landesinterne Nummer: V22) gemäß der Richtlin
 Vogelschutzrichtlinie) des Europäischen Parlaments und des Rates vom 30.11.2009 über die
 Erhaltung der wildlebenden Vogelarten (ABl. EU Nr. L 20 S. 7), zuletzt geändert durch die Richtlinie
 2013/17/EU des Rates vom 13.05.2013 (ABl. EU Nr. L 158 S. 193). In der Übersichtskarte (Anlage 1)
-ist die Teilfläche des NSG, die im Europäischen Vogelschutzgebiet liegt und der Umsetzung der EU-
-Vogelschutzrichtlinie dient, gesondert gekennzeichnet.
+ist die Teilfläche des NSG, die im Europäischen Vogelschutzgebiet liegt und der Umsetzung der EUVogelschutzrichtlinie dient, gesondert gekennzeichnet.
 (5) Das NSG hat eine Größe von ca. 461 ha.
 § 2
 Schutzzweck
@@ -70,8 +68,7 @@ Amphibien, Reptilien und Wirbellosen- Tierarten und ihren Lebensgemeinschaften s
 als störungsarmes Brut- und Rastgebiet für Vogelarten der Feuchtgebiete.
 (2) Die Erklärung zum NSG bezweckt insbesondere
 1. die Erhaltung und die Entwicklung des Torfkörpers als Zeugnis der nacheiszeitlichen
-Landschaftsentwicklung und zur Sicherung einer Regeneration von torfbildender Hochmoor-
-Vegetation,
+Landschaftsentwicklung und zur Sicherung einer Regeneration von torfbildender HochmoorVegetation,
 2. die Sicherung und Wiederherstellung eines ganzjährig oberflächennahen Grundwasserstands im
 Hochmoorbereich durch den Rückhalt von Niederschlägen im Gebiet sowie den Schutz vor
 Entwässerung,
@@ -82,8 +79,7 @@ geprägten Degenerationsstadien,
 ihrer Regenerationsstadien insbesondere in den ehemaligen Handtorfstichen und
 Wiedervernässungsbereichen sowie der an sie gebundenen Lebensgemeinschaften, besonders
 der hochmoortypischen Libellen- Fauna,
-5. die Erhaltung und Entwicklung ganzjährig bodenfeuchter Moorwälder in den Hochmoor-
-Randbereichen, u. a. als Pufferzone gegenüber Nährstoffeinträgen aus dem Umfeld,
+5. die Erhaltung und Entwicklung ganzjährig bodenfeuchter Moorwälder in den HochmoorRandbereichen, u. a. als Pufferzone gegenüber Nährstoffeinträgen aus dem Umfeld,
 6. den Schutz störungsempfindlicher Brut- und Rastvögel, vor allem im Bereich der durch die
 Wiedervernässung geschaffenen baumfreien Moorbiotope und der bodenfeuchten Moorwälder
 und Feuchtwiesen,
@@ -98,7 +94,6 @@ Wuchsstandorte,
 10. die Förderung der Ruhe und Ungestörtheit im NSG,
 11. die Bewahrung und Wiederherstellung der besonderen Vielfalt, Eigenart und Schönheit des NSG.
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 3
 (3) Die Fläche des NSG gemäß § 1 Abs. 4 ist Teil des kohärenten europäischen ökologischen Netzes
 „Natura 2000“. Die Unterschutzstellung trägt dazu bei, den günstigen Erhaltungsgrad der
 wertbestimmenden und weiteren maßgeblichen Vogelarten im Europäischen Vogelschutzgebiet
@@ -153,7 +148,6 @@ sowie der Schutz vor Nährstoffeinträgen aus dem Umfeld,
 2. der Erhaltung und Entwicklung der baumfreien Hochmoorvegetation und ihrer
 Regenerationsstadien,
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 4
 3. die Erhaltung und Entwicklung extensiver Grünlandbewirtschaftung,
 4. das Zulassen eigendynamischer Prozesse, insbesondere im Bereich der Wälder,
 5. der Schutz der Brutplätze des Kranichs und weiterer störungsempfindlicher Brutvogelarten vor
@@ -163,8 +157,7 @@ Beunruhigung und sonstigen menschlich bedingten Störungen,
 Flächen sowie von Pflege- und Entwicklungsmaßnahmen kann aufbauend auf die nachfolgenden
 Schutzbestimmungen auch durch Angebote des Vertragsnaturschutzes unterstützt werden.
 (7) Der Erschwernisausgleich nach § 42 Abs. 4 und 5 NNatSchG richtet sich nach den Vorschriften der
-Erschwernisausgleichsverordnung- Grünland (EA-VO Grünland) und der Erschwernisausgleichsverordnung-
-Wald (EA-VO Wald).
+Erschwernisausgleichsverordnung- Grünland (EA-VO Grünland) und der ErschwernisausgleichsverordnungWald (EA-VO Wald).
 § 3
 Verbote
 (1) Nach § 23 Abs. 2 Satz 1 BNatSchG sind alle Handlungen verboten, die zu einer Zerstörung,
@@ -202,7 +195,6 @@ abzupflücken, abzuschneiden, abzureißen oder auf andere Weise zu beeinträchti
 19. Tier- und Pflanzenarten, insbesondere gebietsfremde oder invasive Arten auszubringen oder
 anzusiedeln,
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 5
 20. Anpflanzungen und Aufforstungen vorzunehmen oder auf andere Weise Pflanzen einzubringen,
 21. Einzelbäume außerhalb des Waldes, Hecken, Gebüsche, und sonstige Gehölzbestände zu
 beseitigen oder erheblich zu beeinträchtigen. Hierzu gehört auch das Aufasten.
@@ -252,7 +244,6 @@ Kies-, Lehmkies-, Lesesteinmaterial oder heimischem Mineralgemisch,
 b) sonstige Straßen und Wege entsprechend des vorhandenen Deckschichtmaterials, jedoch
 ohne Verwendung von Bau- und Ziegelschutt sowie Teer- und Asphaltaufbrüchen.
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 6
 Die ordnungsgemäße Instandsetzung von Straßen und Wegen ist 1 Monat vor Durchführung der
 Maßnahmen der Naturschutzbehörde anzuzeigen.
 Die Einhaltung des Lichtraumprofils hat durch fachgerechten Schnitt zu erfolgen.
@@ -304,7 +295,6 @@ e) ohne Aufbringen von Klärschlamm.
 Die Umwandlung von Acker in Grünland und die anschließende Nutzung gem. Nr. 2 (Grünland)
 ist zulässig.
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 7
 2. auf den in den maßgeblichen und mitveröffentlichten Karten gekennzeichneten Grünlandflächen,
 jedoch
 a) ohne mechanische Zerstörung der Grasnarbe,
@@ -312,9 +302,7 @@ b) die Durchführung von Maßnahmen zur Narbenverbesserung, insbesondere von Üb
 Nachsaaten nur mit vorheriger Zustimmung der Naturschutzbehörde,
 c) ohne Düngung und Anwendung von Pflanzenschutzmitteln innerhalb eines von der
 Böschungsoberkante gemessenen 5 m breiten Gewässerrandstreifens entlang Gewässern
-zweiter und dritter Ordnung; an den Gewässern dritter Ordnung kann der Gewässerrand-
-streifen bei Anwendung emissionsarmer Ausbringungsverfahren auf 3 Meter reduziert wer-
-den,
+zweiter und dritter Ordnung; an den Gewässern dritter Ordnung kann der Gewässerrandstreifen bei Anwendung emissionsarmer Ausbringungsverfahren auf 3 Meter reduziert werden,
 d) ohne Umwandlung in Acker,
 e) ohne Veränderung des natürlichen Bodenreliefs, insbesondere durch Verfüllen von
 Bodensenken, -mulden und -rinnen durch Einebnung und Planierung,
@@ -358,7 +346,6 @@ folgenden Vorgaben:
 1. ohne Einrichtung zusätzlicher fester Angelplätze und Schaffung neuer Pfade,
 2. ohne Beseitigung der Wasser- und Schwimmblattpflanzen,
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 8
 3. unter besonderer Schonung des natürlichen Uferbewuchses,
 4. ohne Einbringen von Fisch- und Krebsarten, die im norddeutschen Tiefland keine natürlichen
 Vorkommen besitzen oder besaßen.
@@ -409,7 +396,6 @@ Durchführung von folgenden durch die Naturschutzbehörde angeordneten oder ange
 Maßnahmen zu dulden:
 1. Maßnahmen zur Erhaltung, Pflege, Entwicklung und Wiederherstellung des NSG oder einzelner
 
-Nds. MBl. 2024 Nr. 298 vom 3. Juli 2024 Seite 9
 seiner Bestandteile,
 2. das Aufstellen von Schildern zur Kennzeichnung des NSG und seiner Wege sowie zur weiteren
 Information über das NSG.

@@ -15,21 +15,18 @@ RdErl. d. MF v. 19.12.2023 – VD3–03540/01/033 –
 Bezug: RdErl. v. 28.12.2022 (Nds. MBl. 2023 S. 12)
 – VORIS 20444 –
 
-Ab dem 01.01.2024 beträgt die Bezugsgröße in der Sozialversicherung (§ 18 SGB IV), die die Bemes-
-sungsgrundlage für die Beiträge der Krankenversicherungsunternehmen mit Pflegepflichtversicherung zur
+Ab dem 01.01.2024 beträgt die Bezugsgröße in der Sozialversicherung (§ 18 SGB IV), die die Bemessungsgrundlage für die Beiträge der Krankenversicherungsunternehmen mit Pflegepflichtversicherung zur
 Rentenversicherung für Pflegepersonen nach § 166 Abs. 1 SGB VI ist, für die alten Bundesländer 3 535,00
 EUR monatlich (bisher 3 395,00 EUR) und für die neuen Bundesländer 3 465,00 E UR monatlich (bisher
 3 290,00 EUR).
-Die ab dem 01.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflege-
-kräfte lauten wie folgt:
+Die ab dem 01.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 bezogene Leistung „häusliche Pflegehilfe“
 beitragspflichtige
 Einnahmen in EUR
 monatlicher Beitrag
 2024 in EUR
 Pflegegrad der
-oder des Pflegebe-
-dürftigen
+oder des Pflegebedürftigen
 Prozent der
 Bezugsgröße
 alte
@@ -46,15 +43,13 @@ Länder
 4 49,00 1 732,15 1 697,85 322,18 315,80
 5 70,00 2 474,50 2 425,50 460,26 451,14
 
-Nds. MBl. 2024 Nr. 15 vom 11. Januar 2024 Seite 2
 bezogene Leistung „Pauschalbeihilfe“
 beitragspflichtige
 Einnahmen in EUR
 monatlicher Beitrag
 2024 in EUR
 Pflegegrad der
-oder des Pflegebe-
-dürftigen
+oder des Pflegebedürftigen
 Prozent der
 Bezugsgröße
 alte
@@ -77,8 +72,7 @@ Einnahmen in EUR
 monatlicher Beitrag
 2024 in EUR
 Pflegegrad der
-oder des Pflegebe-
-dürftigen
+oder des Pflegebedürftigen
 Prozent der
 Bezugsgröße
 alte
@@ -95,10 +89,8 @@ Länder
 4 59,50 2 103,33 2 061,68 391,22 383,47
 5 85,00 3 004,75 2 945,25 558,88 547,82
 
-Die für Besitzstandsfälle ab dem 0 1.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbs-
-mäßig tätige Pflegekräfte lauten wie folgt:
+Die für Besitzstandsfälle ab dem 0 1.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 
-Nds. MBl. 2024 Nr. 15 vom 11. Januar 2024 Seite 3
 Stufe der
 Pflegebedürftigkeit
 der oder des
@@ -125,8 +117,7 @@ alte
 Länder
 neue
 Länder
-schwerstpflegebe-
-dürftig
+schwerstpflegebedürftig
 (Pflegestufe III)
 28
 21
@@ -146,8 +137,7 @@ dürftig
 515,59
 386,69
 257,80
-schwerpflegebe-
-dürftig
+schwerpflegebedürftig
 (Pflegestufe II)
 21
 14
@@ -161,24 +151,19 @@ dürftig
 233,78
 343,73
 229,15
-erheblich pflegebe-
-dürftig
+erheblich pflegebedürftig
 (Pflegestufe I)
 14 26,6667 942,67 924,00 175,34 171,86
 
-Nach Mitteilung des Verbandes der Privaten Krankenversicherung e. V. können die Beihilfestellen als an-
-teilig Zahlungsverpflichtete nach § 170 Abs. 1 Nr. 6 Buchst. c SGB VI die sich ergebenden Änderungen der
-abzuführenden Beiträge berücksichtigen, ohne dass es einer neuen Bescheinigung der privaten Krankenver-
-sicherung über die Höhe der maßgeblichen beitragspflichtigen Einnahmen der Pflegekraft bedarf. Dazu müs-
-sen die aufgrund der bisherigen Werte von den Beihilfestellen im Jahr 2023 ermittelten Zahlbeträge an die
+Nach Mitteilung des Verbandes der Privaten Krankenversicherung e. V. können die Beihilfestellen als anteilig Zahlungsverpflichtete nach § 170 Abs. 1 Nr. 6 Buchst. c SGB VI die sich ergebenden Änderungen der
+abzuführenden Beiträge berücksichtigen, ohne dass es einer neuen Bescheinigung der privaten Krankenversicherung über die Höhe der maßgeblichen beitragspflichtigen Einnahmen der Pflegekraft bedarf. Dazu müssen die aufgrund der bisherigen Werte von den Beihilfestellen im Jahr 2023 ermittelten Zahlbeträge an die
 Rentenversicherungsträger bei Pflegetätigkeit in den alten Ländern mit dem Faktor 1,041237113 und in den
 neuen Ländern mit dem Faktor 1,053191489 multipliziert werden. Diese Faktoren spiegeln die Änderung des
 Rentenversicherungsbeitrages im Verhältnis zum Vorjahr wider.
 Die bisherige Aufteilung der Rentenversicherungsbeiträge für Pflegepersonen entfällt ab dem 01. 01.2024.
 Beitragszahlungen sind ab diesem Zeitpunkt ausschließlich an die Deutsche Rentenversicherung Bund zu
 leisten.
-Die ab dem 01. 01.2024 gültigen Beiträge zur Arbeitslosenversicherung für nicht erwerbsmäßig tätige Pfle-
-gekräfte lauten wie folgt:
+Die ab dem 01. 01.2024 gültigen Beiträge zur Arbeitslosenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 monatlicher Beitrag 2024 in EUR
 alte Länder neue Länder
 45,96 45,05

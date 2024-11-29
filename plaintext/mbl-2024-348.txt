@@ -19,15 +19,13 @@ Die Bezugs-AV wird mit Wirkung vom 15.08.2024 wie folgt geändert:
 a) In Nummer 2.1.1 Satz 2 wird hinter dem Wort „Büsgenweg“ die Angabe „5“ durch die Angabe „3“
 ersetzt.
 b) Nummer 2.3 wird wie folgt geändert:
-aa) Im ersten Spiegelstrich wird die Angabe „Petzvalstraße 18, 38104“ durch die Angabe „Ludwig-
-Winter-Straße 2, 38120“ ersetzt.
+aa) Im ersten Spiegelstrich wird die Angabe „Petzvalstraße 18, 38104“ durch die Angabe „LudwigWinter-Straße 2, 38120“ ersetzt.
 bb) Im zweiten Spiegelstrich wird die Angabe „Am Listholze 74, 30177“ durch die Angabe
 „Freundallee 9 a, 30173“ ersetzt.
 2. Die Anlage wird wie folgt geändert:
 a) Das Inhaltsverzeichnis wird wie folgt geändert:
 aa) Die Angabe zu § 8 erhält folgende Fassung:
-„§ 8 Mitteilungen bei Vollstreckung von Gesamtstrafen, Maßnahmen, Nebenstrafen und Ne-
-benfolgen“.
+„§ 8 Mitteilungen bei Vollstreckung von Gesamtstrafen, Maßnahmen, Nebenstrafen und Nebenfolgen“.
 bb) In der Überschrift Unterabschnitt 1 werden vor dem Wort „Nebenfolgen“ die Worte „Einziehung
 des Wertes von Taterträgen und andere“ eingefügt.
 cc) Die Angabe zu § 58 erhält folgende Fassung:
@@ -35,7 +33,6 @@ cc) Die Angabe zu § 58 erhält folgende Fassung:
 dd) In der Überschrift Unterabschnitt 2 werden das Wort „Verfall“ und das Komma gestrichen und
 nach dem Wort „Einziehung“ die Worte „eines Gegenstandes“ eingefügt.
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 2
 ee) Die Angabe zu § 60 erhält folgende Fassung:
 „§ 60 Rechtserwerb bei Einziehung“.
 ff) Die Angabe zu § 62 erhält folgende Fassung:
@@ -56,10 +53,7 @@ ll) Die Angabe zu § 86 erhält folgende Fassung:
 b) § 7 Abs. 4 erhält folgende Fassung:
 „(4) Die Zuständigkeit zur Vollstreckung einer nachträglich gebildeten Gesamtstrafe einschließlich
 der Maßnahmen, Nebenstrafen und Nebenfolgen richtet sich nach dem Gericht, das sie angeordnet
-hat (§§ 460, 462, 462 a Abs. 3 StPO, §§ 53 und 55 StGB). Maßnahmen, Nebenstrafen und Neben-
-folgen aus früheren Entscheidungen werden in nachträglichen Gesamtstrafen entweder aufrecht-
-erhalten oder bei Hinzutreten neuer Maßnahmen, Nebenstrafen und Nebenfolgen einheitlich ange-
-ordnet, sofern sie nicht erledigt oder durch die neue Entscheidung gegenstandslos geworden sind.
+hat (§§ 460, 462, 462 a Abs. 3 StPO, §§ 53 und 55 StGB). Maßnahmen, Nebenstrafen und Nebenfolgen aus früheren Entscheidungen werden in nachträglichen Gesamtstrafen entweder aufrechterhalten oder bei Hinzutreten neuer Maßnahmen, Nebenstrafen und Nebenfolgen einheitlich angeordnet, sofern sie nicht erledigt oder durch die neue Entscheidung gegenstandslos geworden sind.
 Für die Vollstreckung einer nicht in die nachträglich gebildete Gesamtstrafe einbezogenen Strafe
 einschließlich der mit ihr zu vollstreckenden Maßnahmen, Nebenstrafen oder Nebenfolgen, verbleibt
 es bei der Zuständigkeit der Vollstreckungsbehörde gemäß Absatz 1 und 2.“
@@ -69,29 +63,23 @@ aa) Die Überschrift erhält folgende Fassung:
 Mitteilungen bei Vollstreckung von Gesamtstrafen, Maßnahmen,
 Nebenstrafen und Nebenfolgen“.
 bb) Nach Absatz 2 wird der folgende Absatz 3 angefügt:
-„(3) Absatz 1 gilt für aufrecht erhaltene oder einheitlich angeordnete Maßnahmen, Neben-
-strafen und Nebenfolgen entsprechend.“
+„(3) Absatz 1 gilt für aufrecht erhaltene oder einheitlich angeordnete Maßnahmen, Nebenstrafen und Nebenfolgen entsprechend.“
 d) § 13 wird wie folgt geändert:
 aa) Es wird der folgende neue Absatz 3 eingefügt:
 „(3) Wird eine Einziehungsentscheidung gegen einen Einziehungsbeteiligten oder zulasten
-eines Nebenbetroffenen getroffen, bedarf es für deren Vollstreckung der Rechtskraft der Ent-
-scheidung gegenüber diesen (§ 430 Abs. 1 und 4 Satz 1, § 432 Abs. 1 Satz 1, § 438 Abs. 3
+eines Nebenbetroffenen getroffen, bedarf es für deren Vollstreckung der Rechtskraft der Entscheidung gegenüber diesen (§ 430 Abs. 1 und 4 Satz 1, § 432 Abs. 1 Satz 1, § 438 Abs. 3
 StPO).“
 bb) Die bisherigen Absätze 3 bis 5 werden die Absätze 4 bis 6.
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 3
 e) In § 21 Abs. 1 wird die Angabe „459 h“ durch die Angabe „459 o“ ersetzt.
 f) In § 29 Abs. 3 werden nach den Worten „die verurteilte Person“ ein Komma und die Worte „soweit
 ihr nicht bereits mit Vollstreckungshaftbefehl übergeben,“ eingefügt.
 g) Dem § 34 wird der folgende Absatz 4 angefügt:
 „(4) Ist der verurteilten Person der Beschluss über den Widerruf der Aussetzung der Strafe, des
-Strafrestes, der Unterbringung, des Straferlasses oder über die nach § 67 c Abs. 2 StGB angeord-
-nete Vollstreckung der Unterbringung öffentlich zugestellt, so sind dem Ausschreibungsersuchen ein
+Strafrestes, der Unterbringung, des Straferlasses oder über die nach § 67 c Abs. 2 StGB angeordnete Vollstreckung der Unterbringung öffentlich zugestellt, so sind dem Ausschreibungsersuchen ein
 Empfangsbekenntnis und zur Aushändigung an die verurteilte Person beizufügen
 1. je eine beglaubigte Abschrift der genannten Beschlüsse und
-2. eine Belehrung über die Möglichkeit, die nachträgliche Anhörung (§ 33 a StPO) oder die Wie-
-dereinsetzung in den vorigen Stand zu beantragen und gleichzeitig sofortige Beschwerde ein-
-zulegen (§§ 44, 45, 453 Abs. 2 Satz 3 StPO).
+2. eine Belehrung über die Möglichkeit, die nachträgliche Anhörung (§ 33 a StPO) oder die Wiedereinsetzung in den vorigen Stand zu beantragen und gleichzeitig sofortige Beschwerde einzulegen (§§ 44, 45, 453 Abs. 2 Satz 3 StPO).
 Das von der verurteilten Person unterzeichnete Empfangsbekenntnis ist zum Vollstreckungsheft
 zu geben.“
 h) § 46 a wird wie folgt geändert:
@@ -110,30 +98,20 @@ aa) Der bisherige Wortlaut wird Absatz 1 Satz 1 und die Fußnote „
 AV d. MJ v. 13.07.2011 (Nds. MBl. S. 486, Nds. Rpfl. S. 301) , geändert durch AV d. MJ v. 26.07.2024 (Nds. MBl.
 2024 Nr. 347), VORIS 34100.“
 bb) Dem Absatz 1 werden die folgenden Sätze 2 und 3 angefügt:
-„Werden Vermögenswerte zum Zwecke der Einziehung eines Wertersatzes gesichert, finden bei der Verwertung die §§ 65 bis 67 a und 69 ff. keine Anwendung. Für die Verwertung gepfän-
-deter virtueller Währungen gilt § 77 a Abs. 2 entsprechend.“
+„Werden Vermögenswerte zum Zwecke der Einziehung eines Wertersatzes gesichert, finden bei der Verwertung die §§ 65 bis 67 a und 69 ff. keine Anwendung. Für die Verwertung gepfändeter virtueller Währungen gilt § 77 a Abs. 2 entsprechend.“
 cc) Es werden die folgenden Absätze 2 bis 4 angefügt:
-„(2) Die Zustellung von Pfändungs- und Überweisungsbeschlüssen an im Inland zum Ge-
-schäftsbetrieb befugte Kreditinstitute richtet sich nach § 459 g Abs. 3 i. V. m. § 111 k Abs. 2
+„(2) Die Zustellung von Pfändungs- und Überweisungsbeschlüssen an im Inland zum Geschäftsbetrieb befugte Kreditinstitute richtet sich nach § 459 g Abs. 3 i. V. m. § 111 k Abs. 2
 Satz 2 StPO.
 (3) Erfolgt die Vollstreckung der Nebenfolge, die zu einer Geldzahlung verpflichtet, aufgrund
-eines individualgutschützenden Delikts, so überträgt die ursprünglich zuständige Vollstre-
-ckungsbehörde die Verwertungserlöse, die bis zum Eintritt der Rechtskraft der nachträglichen Gesamtstrafenentscheidung vollstreckt wurden, an die nach § 7 Abs. 4 zuständige Vollstre- ckungsbehörde, sofern die Vollstreckung nicht erledigt ist. Sofern sich die nach Satz 1 zustän-
-dige Vollstreckungsbehörde in einem anderen Bundesland befindet, steht dies einer Übertra- gung der Verwertungserlöse nicht entgegen. In allen anderen Fällen verbleiben die Verwer-
-tungserlöse bei der bisher für die Vollstreckung zuständigen Vollstreckungsbehörde.
+eines individualgutschützenden Delikts, so überträgt die ursprünglich zuständige Vollstreckungsbehörde die Verwertungserlöse, die bis zum Eintritt der Rechtskraft der nachträglichen Gesamtstrafenentscheidung vollstreckt wurden, an die nach § 7 Abs. 4 zuständige Vollstre- ckungsbehörde, sofern die Vollstreckung nicht erledigt ist. Sofern sich die nach Satz 1 zuständige Vollstreckungsbehörde in einem anderen Bundesland befindet, steht dies einer Übertra- gung der Verwertungserlöse nicht entgegen. In allen anderen Fällen verbleiben die Verwertungserlöse bei der bisher für die Vollstreckung zuständigen Vollstreckungsbehörde.
 (4) Das Recht zur Verwertung von in Vollziehung eines Vermögensarrestes nach § 111 f
-Abs. 1 bis 3 StPO gesicherten Vermögenswerten geht auf die nach § 7 Abs. 4 zuständige Voll-
-streckungsbehörde über. Satz 1 gilt für vollzogene Beschlagnahmen gemäß § 111 c Abs. 1 bis
-4 StPO entsprechend. Die Sätze 1 und 2 gelten entsprechend bei der Vollstreckung der Neben-
-folgen gemäß § 459 g Abs. 1 und 2, Abs. 3 i. V. m. §§ 111 f , 111 k StPO.“
+Abs. 1 bis 3 StPO gesicherten Vermögenswerten geht auf die nach § 7 Abs. 4 zuständige Vollstreckungsbehörde über. Satz 1 gilt für vollzogene Beschlagnahmen gemäß § 111 c Abs. 1 bis
+4 StPO entsprechend. Die Sätze 1 und 2 gelten entsprechend bei der Vollstreckung der Nebenfolgen gemäß § 459 g Abs. 1 und 2, Abs. 3 i. V. m. §§ 111 f , 111 k StPO.“
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 4
 k) § 58 erhält folgende Fassung:
 „§ 58
 Fahndung bei Einziehungsentscheidungen
-(1) Zur Vollstreckung einer Einziehungsentscheidung (§ 459 g StPO) kann die Vollstreckungsbe-
-hörde die Ermittlungspersonen mit der Umsetzung beauftragen und eine Ausschreibung zur Fahn-
-dung veranlassen (§ 459 g Abs. 3 i. V. m. § 131 Abs. 1 StPO).
+(1) Zur Vollstreckung einer Einziehungsentscheidung (§ 459 g StPO) kann die Vollstreckungsbehörde die Ermittlungspersonen mit der Umsetzung beauftragen und eine Ausschreibung zur Fahndung veranlassen (§ 459 g Abs. 3 i. V. m. § 131 Abs. 1 StPO).
 (2) Bei der Pfändung von Wertgegenständen muss die Ausschreibung nach Absatz 1 enthalten:
 1. die genaue Bezeichnung der verurteilten Person oder des Einziehungsbeteiligten,
 2. die Angabe der zu vollstreckenden Entscheidung,
@@ -143,12 +121,9 @@ dung veranlassen (§ 459 g Abs. 3 i. V. m. § 131 Abs. 1 StPO).
 Der Auftrag zur Pfändung von Wertgegenständen ist der von der Maßnahme betroffenen Person
 bei Ergreifung der Maßnahme bekanntzugeben.
 (3) Ist der von der Einziehung Betroffene in den kriminalpolizeilichen Fahndungshilfsmitteln im
-Sinne des Absatzes 1 ausgeschrieben und fällt der Fahndungsgrund weg, so veranlasst die Vollstre-
-ckungsbehörde unverzüglich die Löschung.“
+Sinne des Absatzes 1 ausgeschrieben und fällt der Fahndungsgrund weg, so veranlasst die Vollstreckungsbehörde unverzüglich die Löschung.“
 l) Dem § 59 a Abs. 5 wird der folgende Satz 5 angefügt:
-„Sind gegen den Täter mehrere Fahrverbote rechtskräftig verhängt worden, so sind diese nachei-
-nander zu vollstrecken, wobei die Verbotsfrist des späteren Fahrverbots erst mit Ablauf des voran-
-gegangenen Fahrverbots beginnt.“
+„Sind gegen den Täter mehrere Fahrverbote rechtskräftig verhängt worden, so sind diese nacheinander zu vollstrecken, wobei die Verbotsfrist des späteren Fahrverbots erst mit Ablauf des vorangegangenen Fahrverbots beginnt.“
 m) In der Überschrift Unterabschnitt 2 werden das Wort „Verfall“ und das Komma gestrichen und nach
 dem Wort „Einziehung“ die Worte „eines Gegenstandes“ eingefügt.
 n) § 60 wird wie folgt geändert:
@@ -156,8 +131,7 @@ aa) In der Überschrift werden die Worte „Verfall und“ gestrichen.
 bb) Der bisherige Wortlaut wird Absatz 1 und wie folgt geändert:
 aaa) In Satz 1 werden die Worte „Mit der Rechtskraft der Entscheidung“ durch die Worte „In
 den Fällen des § 75 Abs. 1 StGB“ und die Worte „den verfallenen oder eingezogenen
-Sachen“ durch die Worte „der eingezogenen Sache oder das eingezogene Recht“ er-
-setzt.
+Sachen“ durch die Worte „der eingezogenen Sache oder das eingezogene Recht“ ersetzt.
 bbb) In Satz 3 werden die W orte „den Verfall oder“ gestrichen.
 ccc) Die Sätze 4 und 5 werden gestrichen.
 cc) Nach Absatz 1 werden die folgenden Absätze 2 bis 4 angefügt:
@@ -165,30 +139,25 @@ cc) Nach Absatz 1 werden die folgenden Absätze 2 bis 4 angefügt:
 der Einziehung oder die Anordnung des Vorbehalts der Einziehung als Veräußerungsverbot im
 Sinne des § 136 des Bürgerlichen Gesetzbuches (BGB).
 (3) Dem Übergang des Eigentums an der eingezogenen Sache oder des Rechts steht in den
-Fällen des § 111 d Abs. 1 Satz 2 StPO die Eröffnung des Insolvenzverfahrens über das Vermö-
-gen des Einziehungsbetroffenen abweichend von § 91 InsO nicht entgegen (§ 75 Abs. 4 StGB).
+Fällen des § 111 d Abs. 1 Satz 2 StPO die Eröffnung des Insolvenzverfahrens über das Vermögen des Einziehungsbetroffenen abweichend von § 91 InsO nicht entgegen (§ 75 Abs. 4 StGB).
 (4) Rechte Dritter bleiben bestehen (§ 75 Abs. 2 Satz 1 StGB), sofern nicht das Gericht das
 Erlöschen angeordnet hat (§ 75 Abs. 2 Satz 2 und 3 StGB).“
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 5
 o) § 61 wird wie folgt geändert:
 aa) Absatz 1 wird wie folgt geändert:
 aaa) In Satz 1 werden das Wort „Verfall“ und das Komma gestrichen.
 bbb) Satz 2 erhält folgende Fassung:
 „Haben die verurteilte Person oder die Einziehungsbeteiligten (§ 424 Abs. 1, § 432
 Abs. 1 StPO), die nach der Entscheidung zur Herausgabe verpflichtet sind, die Sache
-nicht herausgegeben, so beauftragt die Vollstreckungsbehörde die Vollziehungsbe-
-amtin oder den Vollziehungsbeamten mit der Wegnahme (§ 459 g Abs. 1 StPO, § 1
+nicht herausgegeben, so beauftragt die Vollstreckungsbehörde die Vollziehungsbeamtin oder den Vollziehungsbeamten mit der Wegnahme (§ 459 g Abs. 1 StPO, § 1
 Abs. 1 Nr. 2 a, § 6 Abs. 1 und Abs. 3 Satz 1 und 2 JBeitrG).“
 ccc) Es wird der folgende Satz 3 angefügt:
-„Sofern die Wegnahme im Rahmen einer Durchsuchung stattfindet, kann die Vollstre-
-ckungsbehörde die Ermittlungspersonen beauftragen (§ 459 g Abs. 3, §§ 102 bis 110,
+„Sofern die Wegnahme im Rahmen einer Durchsuchung stattfindet, kann die Vollstreckungsbehörde die Ermittlungspersonen beauftragen (§ 459 g Abs. 3, §§ 102 bis 110,
 111 k Abs. 1 StPO).“
 bb) Absatz 2 wird wie folgt geändert:
 aaa) Satz 1 erhält folgende Fassung:
 „Der Auftrag wird schriftlich oder elektronisch erteilt; er muss die verurteilte Person,
-die Einziehungsbeteiligten und die wegzunehmende Sache möglichst genau bezeich-
-nen.“
+die Einziehungsbeteiligten und die wegzunehmende Sache möglichst genau bezeichnen.“
 bbb) In Satz 3 werden die Worte „die Vollziehungsbeamtin oder den Vollziehungsbeamten“
 durch die Worte „ihre Ermittlungspersonen oder die Vollziehungsbeamten“ ersetzt.
 cc) Absatz 3 wird wie folgt geändert:
@@ -200,10 +169,8 @@ dd) Absatz 4 wird wie folgt geändert:
 aaa) In Satz 1 werden nach dem Wort „Person“ das Komma und die Worte „der Verfalls-“
 gestrichen sowie nach dem ersten Wort „oder“ das Wort „des“ eingefügt.
 bbb) Satz 2 erhält folgende Fassung:
-„Verweigern diese die Herausgabe, kann die Vollstreckungsbehörde den eingezoge-
-nen Gegenstand aufgrund eines Durchsuchungsbeschlusses nach § 103 StPO von
-den Ermittlungspersonen beschlagnahmen lassen (§ 459 g Abs. 3 StPO in Verbin-
-dung mit §§ 103, 111 c Abs. 1, § 111 k Abs. 1 StPO).“
+„Verweigern diese die Herausgabe, kann die Vollstreckungsbehörde den eingezogenen Gegenstand aufgrund eines Durchsuchungsbeschlusses nach § 103 StPO von
+den Ermittlungspersonen beschlagnahmen lassen (§ 459 g Abs. 3 StPO in Verbindung mit §§ 103, 111 c Abs. 1, § 111 k Abs. 1 StPO).“
 ee) In Absatz 5 Satz 1 werden die Worte „verfallen oder“ gestrichen und die Angabe „(§ 73 e Abs. 1,
 § 74 e Abs. 1 StGB)“ wird durch die Angabe „(§ 75 Abs. 1 StGB)“ ersetzt.
 ff) Es wird der folgende Absatz 6 angefügt:
@@ -213,7 +180,6 @@ aa) Die Überschrift erhält folgende Fassung:
 „§ 62
 Eidesstattliche Versicherung, nachträgliche Anordnung der Einziehung von Wertersatz“.
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 6
 bb) In Absatz 1 Satz 1 werden die Worte „Verfalls- oder“ gestrichen und die Angabe „(vgl. § 459 g
 Abs. 1 StPO)“ wird durch die Angabe „(§ 459 g Abs. 1 Satz 2 StPO, § 1 Abs. 1 Nr. 2 a, § 6
 Abs. 1 Nr. 1 JBeitrG, § 883 Abs. 2 ZPO)“ ersetzt.
@@ -227,16 +193,14 @@ Abs. 2 Satz 1 StPO zu achten.“
 q) § 63 wird wie folgt geändert:
 aa) Absatz 1 erhält folgende Fassung:
 „(1) Eingezogene Gegenstände werden verwertet, sofern nichts anderes bestimmt ist
-(§§ 65 bis 67 a, 69 ff.). Die Verwertung darf, abgesehen von im Vollstreckungsverfahren zu-
-lässigen Fällen der Notveräußerung, nicht vor dem fruchtlosen Ablauf der Sechsmonatsfrist
+(§§ 65 bis 67 a, 69 ff.). Die Verwertung darf, abgesehen von im Vollstreckungsverfahren zulässigen Fällen der Notveräußerung, nicht vor dem fruchtlosen Ablauf der Sechsmonatsfrist
 nach § 459 j Abs. 1 StPO erfolgen. Sind die Gegenstände wertlos, unverwertbar, nur mit einem
 voraussichtlich den Erlös übersteigenden Kostenaufwand veräußerbar, gemeingefährlich oder
 in gesetzwidrigem Zustand, so werden sie in der Regel vernichtet.“
 bb) Es wird der folgende neue Absatz 2 eingefügt:
 „(2) In Fällen, in denen die Frist nach § 459 j Abs. 1 StPO fruchtlos verstrichen ist, sind die
 Gegenstände zu verwerten oder anderweitig zu verwenden. Der Verwertungserlös tritt an die
-Stelle des eingezogenen und verwerteten Gegenstandes und kann unter den Voraussetzun-
-gen des § 459 j Abs. 5 StPO an den Anspruchsinhaber ausgekehrt werden.“
+Stelle des eingezogenen und verwerteten Gegenstandes und kann unter den Voraussetzungen des § 459 j Abs. 5 StPO an den Anspruchsinhaber ausgekehrt werden.“
 cc) Die bisherigen Absätze 2 bis 7 werden die Absätze 3 bis 8.
 dd) Im neuen Absatz 8 wird die Angabe „§ 74 b Abs. 2 StGB“ durch die Angabe „§ 74 f Abs. 1
 StGB“ ersetzt.
@@ -259,13 +223,10 @@ s) § 66 Abs. 1 wird wie folgt geändert:
 aa) In Satz 1 werden die Worte „Verfallene oder“ gestrichen und das Wort „eingezogene“ wird durch
 das Wort „Eingezogene“ ersetzt.
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 7
 bb) In Satz 2 werden am Ende der Punkt durch ein Semikolon ersetzt und der Halbsatz „sofern ein
-Verzeichnis nicht geführt wird, erfolgt diese Beschreibung in einem Einzelverwendungsvor-
-schlag.“ angefügt.
+Verzeichnis nicht geführt wird, erfolgt diese Beschreibung in einem Einzelverwendungsvorschlag.“ angefügt.
 cc) In Satz 3 H albsatz 1 werden die Worte „von Zeit zu Zeit“ durch das Wort „regelmäßig“ ersetzt
-und nach dem Wort „Verwendungsvorschlag“ die Worte „oder die Einzelverwendungsvor-
-schläge“ eingefügt.
+und nach dem Wort „Verwendungsvorschlag“ die Worte „oder die Einzelverwendungsvorschläge“ eingefügt.
 dd) In Satz 4 werden die Worte „verfallene oder“ gestrichen.
 t) In § 67 Abs. 1 Satz 1 werden die Worte „Verfallene oder“ gestrichen und das Wort „eingezogene“
 wird durch das Wort „Eingezogene“ ersetzt.
@@ -276,8 +237,7 @@ aufgrund eines Eigentums- oder Vermögensdelikts eingezogen worden sind.“
 v) § 68 Abs. 1 Satz 1 erhält folgende Fassung:
 „Liegen Gründe für die Annahme vor, dass die Wiederaufnahme des Verfahrens angeordnet oder
 das Nachverfahren (§ 433 StPO) oder die Wiedereinsetzung nach § 459 j Abs. 4 StPO beantragt
-werden wird, so sieht die Vollstreckungsbehörde von den in § 63 bezeichneten Maßnahmen einst-
-weilen ab.“
+werden wird, so sieht die Vollstreckungsbehörde von den in § 63 bezeichneten Maßnahmen einstweilen ab.“
 w) § 68 a Satz 1 erhält folgende Fassung:
 „Beansprucht der Andere im Sinne des § 74 b Abs. 1 Nr. 2 und Abs. 2 StGB eine Entschädigung
 und ist eine gerichtliche Entscheidung nach § 430 Abs. 3 StPO nicht ergangen, so entscheidet die
@@ -290,42 +250,33 @@ bb) Satz 2 erhält folgende Fassung:
 „Abweichend von § 67 Abs. 2 können Betäubungsmittel und Stoffe i m Sinne des § 2 Nr. 1 des
 Neue- psychoaktive-Stoffe-Gesetzes (NpSG) der ersuchenden Behörde zur dauernden Nutzung
 (§ 67 Abs. 1 Satz 1) überlassen werden; sollen die Betäubungsmittel oder die genannten Stoffe
-nicht zurückverlangt werden, ist die ersuchende Behörde schriftlich zu verpflichten, diese ord-
-nungsgemäß zu vernichten, sobald sie dort nicht mehr für Forschungs-, Lehr-, Schulungs- oder
+nicht zurückverlangt werden, ist die ersuchende Behörde schriftlich zu verpflichten, diese ordnungsgemäß zu vernichten, sobald sie dort nicht mehr für Forschungs-, Lehr-, Schulungs- oder
 Ausbildungszwecke benötigt werden.“
 z) Dem § 77 a wird der fo lgende Absatz 3 angefügt:
-„(3) Auf Ersuchen können virtuelle Währungen entsprechend § 66 Abs. 1 zur dauerhaften Nut-
-zung an Ermittlungsbehörden zugewiesen werden, wenn kein Entschädigungsverfahren (§ 459 h
-StPO) durchzuführen ist, weil der Einziehungsanordnung kein Eigentums- oder Vermögensdelikt zu-
-grunde liegt.“
+„(3) Auf Ersuchen können virtuelle Währungen entsprechend § 66 Abs. 1 zur dauerhaften Nutzung an Ermittlungsbehörden zugewiesen werden, wenn kein Entschädigungsverfahren (§ 459 h
+StPO) durchzuführen ist, weil der Einziehungsanordnung kein Eigentums- oder Vermögensdelikt zugrunde liegt.“
 za) § 80 wird wie folgt geändert:
 aa) Die Überschrift erhält folgende Fassung:
 „§ 80
 Messgeräte und sonstige Messgeräte, Teilgeräte, Zusatzeinrichtungen zu Messgeräten,
 Fertigpackungen und andere Verkaufseinheiten“.
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 8
 bb) Absatz 1 wird wie folgt geändert:
 aaa) Satz 1 erhält folgende Fassung:
 „Entsprechen Messgeräte und sonstige Messgeräte, Teilgeräte, Zusatzeinrichtungen
 zu Messgeräten, Fertigpackungen und andere Verkaufseinheiten gemäß § 1 Mess- und
-Eichgesetz (MessEG) nicht den gesetzlichen Vorschriften, erscheinen sie aber verwert-
-bar, so werden sie nach Möglichkeit in vorschriftsmäßigen Zustand gebracht, soweit
-vorgeschrieben, kompatibilitätsbewertet oder geeicht und nach den allgemeinen Vor-
-schriften verwertet.“
+Eichgesetz (MessEG) nicht den gesetzlichen Vorschriften, erscheinen sie aber verwertbar, so werden sie nach Möglichkeit in vorschriftsmäßigen Zustand gebracht, soweit
+vorgeschrieben, kompatibilitätsbewertet oder geeicht und nach den allgemeinen Vorschriften verwertet.“
 bbb) In Satz 2 werden vor dem Wort „Eichgesetzes“ die Worte „Mess- und“ eingefügt.
 cc) Absatz 2 wird wie folgt geändert:
 aaa) Die Sätze 2 und 3 erhalten folgende Fassung:
-„Kennzeichnungen bei Inverkehrbringen, Hersteller- oder Eichzeichen, deren Miss-
-brauch zu besorgen ist, sind vorher zu entfernen und zu zerstören. Verwertbarer Inhalt
+„Kennzeichnungen bei Inverkehrbringen, Hersteller- oder Eichzeichen, deren Missbrauch zu besorgen ist, sind vorher zu entfernen und zu zerstören. Verwertbarer Inhalt
 in Fertigpackungen ist vor seiner Unbrauchbarmachung zu entnehmen und nach den
 für ihn geltenden Vorschriften zu verwerten“.
 bbb) In Satz 4 wird das Wort „Fertigpakkungen“ durch das Wort „Fertigpackungen“ ersetzt
-und nach dem neuen Wort „Fertigpackungen“ werden das Komma und die Worte „Fla-
-schen als Maßbehältnisse oder sonstige formbeständige Behältnisse“ gestrichen.
+und nach dem neuen Wort „Fertigpackungen“ werden das Komma und die Worte „Flaschen als Maßbehältnisse oder sonstige formbeständige Behältnisse“ gestrichen.
 dd) Absatz 3 erhält folgende Fassung:
-„(3) Hat die Vollstreckungsbehörde Zweifel, ob oder inwieweit ein Gegenstand vorschrifts-
-mäßig ist, so führt sie eine Stellungnahme der nach § 40 MessEG zuständigen Behörde herbei.“
+„(3) Hat die Vollstreckungsbehörde Zweifel, ob oder inwieweit ein Gegenstand vorschriftsmäßig ist, so führt sie eine Stellungnahme der nach § 40 MessEG zuständigen Behörde herbei.“
 zb) § 81 wird wie folgt geändert:
 aa) Die Überschrift erhält folgende Fassung:
 „§ 81
@@ -340,27 +291,20 @@ StGB)“ ersetzt.
 cc) Absatz 2 erhält folgende Fassung:
 „(2) Handelt es sich um einen Gewalt darstellenden, pornographischen oder einen sonst
 jugendgefährdenden Inhalt (§ 11 Abs. 3 StGB) im Sinne des Jugendschutzgesetzes, so ist die
-auf Einziehung lautende gerichtliche Entscheidung auszugsweise im Bundeskriminalblatt be-
-kannt zu machen, wenn der Inhalt (§ 11 Abs. 3 StGB) genau genug bezeichnet werden kann.
+auf Einziehung lautende gerichtliche Entscheidung auszugsweise im Bundeskriminalblatt bekannt zu machen, wenn der Inhalt (§ 11 Abs. 3 StGB) genau genug bezeichnet werden kann.
 Ist der Inhalt (§ 11 Abs. 3 StGB) nur in geringer Anzahl oder nur in einem örtlich begrenzten
 Gebiet verbreitet worden, so genügt die Bekanntmachung im Landeskriminalblatt. Wird in der
-gerichtlichen Entscheidung der Gewalt darstellende, pornographische oder sonst jugendgefähr-
-dende Charakter des Inhalts (§ 11 Abs. 3 StGB) verneint und die oder der Angeklagte freige-
-sprochen oder wird die Einziehung abgelehnt, so ist nach Nummer 226 Abs. 3 Satz 1 und 2
+gerichtlichen Entscheidung der Gewalt darstellende, pornographische oder sonst jugendgefährdende Charakter des Inhalts (§ 11 Abs. 3 StGB) verneint und die oder der Angeklagte freigesprochen oder wird die Einziehung abgelehnt, so ist nach Nummer 226 Abs. 3 Satz 1 und 2
 RiStBV zu verfahren.“
 
-Nds. MBl. 2024 Nr. 348 vom 1. August 2024 Seite 9
 dd) Absatz 3 wird wie folgt geändert:
 aaa) In Satz 1 wird das Wort „Schriften“ durch das Wort „Inhalten“ ersetzt.
 bbb) In Satz 2 wird das Wort „Schriften“ durch die Angabe „Verkörperungen (§ 11 Abs. 3
 StGB)“ ersetzt.
-ccc) In Satz 3 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ er-
-setzt.
+ccc) In Satz 3 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ ersetzt.
 ee) Absatz 4 wird wie folgt geändert:
-aaa) In Satz 1 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ er-
-setzt.
-bbb) In Satz 2 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ er-
-setzt.
+aaa) In Satz 1 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ ersetzt.
+bbb) In Satz 2 wird das Wort „Schriften“ durch die Angabe „Inhalte (§ 11 Abs. 3 StGB)“ ersetzt.
 ff) Absatz 5 wird gestrichen.
 zc) § 85 erhält folgende Fassung:
 „§ 85
@@ -370,5 +314,4 @@ zd) § 86 erhält folgende Fassung:
 Brenn- und Reinigungsgeräte
 „Die Abgabe von zur gewerblichen Gewinnung oder Reinigung von Alkohol geeigneten Brenn-
 oder Reinigungsgeräten oder sonstigen zur gewerblichen Gewinnung oder Reinigung von Alkohol
-bestimmten Geräten ist schriftlich oder elektronisch unter Angabe des Empfängers dem Hauptzoll-
-amt anzuzeigen (§ 32 Abs. 1 Satz 1 des Alkoholsteuergesetzes).“
+bestimmten Geräten ist schriftlich oder elektronisch unter Angabe des Empfängers dem Hauptzollamt anzuzeigen (§ 32 Abs. 1 Satz 1 des Alkoholsteuergesetzes).“

@@ -33,25 +33,18 @@ FSRU sowie
 – sechs Hochdruckleitungen aus thermoplastischen Verbundstoffen (TCPs),
 – landseitige Rohrleitung (einschließlich Deichquerung) vom TCP -Anschlusspunkt bis zur
 Übergabestation ins Ferngasnetz der OGE;
-– Mittelspannungsgebäude mit zwei EMSR-Containern (elektrische Mess-, Steuer- und Regeltech-
-nik);
+– Mittelspannungsgebäude mit zwei EMSR-Containern (elektrische Mess-, Steuer- und Regeltechnik);
 
-Nds. MBl. 2024 Nr. 419 vom 26. September 2024 Seite 2
-– Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrich-
-tungen wie HIPPS (High Integrity Pressure Protection System) und eine ESD -Armatur
+– Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrichtungen wie HIPPS (High Integrity Pressure Protection System) und eine ESD -Armatur
 „Emergency Shut Down (Notabschaltung)“;
 – weitere betriebsbezogene Nebenanlagen.
 Der Betrieb der Anlage wird befristet erteilt.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Diese Bek., der vollständige Bescheid und die genehmigten Antragsunterlagen werden in der Zeit vom
-27.09. bis einschließlich 10.10.2024 auf der Internetseite der Niedersächsischen Gewerbeaufsichtsverwal-
-tung https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osn-
-abruck/ zugänglich gemacht. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangs-
-möglichkeit zur Verfügung gestellt.
+27.09. bis einschließlich 10.10.2024 auf der Internetseite der Niedersächsischen Gewerbeaufsichtsverwaltung https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/ zugänglich gemacht. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt.
 Nach der öffentlichen Bekanntmachung kann der Bescheid einschließlich Begründung bis zum Ablauf der
-Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, beim Staatlichen Gewerbeaufsichts-
-amt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, schriftlich oder elektronisch angefordert werden.
+Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, beim Staatlichen Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, schriftlich oder elektronisch angefordert werden.
 Gemäß § 10 Abs. 7 und 8 BImSchG i. V. m. § 21 a der 9. BImSchV werden der verfügende Teil des
 Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 Es wird darauf hingewiesen, dass der Bescheid mit dem Ende der Auslegungsfrist auch gegenüber Dritten,
@@ -68,9 +61,7 @@ Anlage
 I. Tenor
 1. Entscheidung
 Der FSRU Wilhelmshaven GmbH, Emsstraße 20, 26382 Wilhelmshaven, wird aufgrund ihres Antrages vom
-21.02.2023, zuletzt ergänzt am 11.09.2024, die Genehmigung zum Betrieb immissionsschutzrechtlich geneh-
-migungsbedürftiger Anlagen (LNG-Lagerung und Energieerzeugung) auf einer Floating Storage and Regasi-
-fication Unit (FSRU) sowie zur Errichtung und zum Betrieb von see- und landseitigen Anlagenteilen, die den
+21.02.2023, zuletzt ergänzt am 11.09.2024, die Genehmigung zum Betrieb immissionsschutzrechtlich genehmigungsbedürftiger Anlagen (LNG-Lagerung und Energieerzeugung) auf einer Floating Storage and Regasification Unit (FSRU) sowie zur Errichtung und zum Betrieb von see- und landseitigen Anlagenteilen, die den
 genehmigungsbedürftigen Anlagen zuzuordnen sind, insbesondere das Gastransfersystem, erteilt.
 2. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die Genehmigung insbesondere folgender wesentlicher Anlagenteile
@@ -82,7 +73,6 @@ Anlagenteile see- und landseitig
 – Gas-Transfersystem im Wesentlichen bestehend aus:
 – Gasbalkon inkl. Ausrüstung und Armaturen
 
-Nds. MBl. 2024 Nr. 419 vom 26. September 2024 Seite 3
 – zwei flexiblen Steigleitungen zwischen Gasbalkon und den Pipeline End Manifolds („PLEMs“) am
 Meeresboden
 – zwei PLEMs auf dem Meeresboden
@@ -96,8 +86,7 @@ wie HIPPS (High Integrity Pressure Protection System) und eine ESD-Armatur „Em
 – weitere betriebsbezogene Nebenanlagen.
 3. Befristung des Betriebs
 Der Betrieb der Anlage mit verflüssigtem Erdgas wird befristet bis zum Ende des sechsten Monats nach
-der Inbetriebnahme des stationären, landgebundenen LNG-Terminals am Anlagenstandort „Voslapper Gro-
-den“, längstens jedoch bis zum Ablauf von fünf Jahren nach Inbetriebnahme der FSRU.
+der Inbetriebnahme des stationären, landgebundenen LNG-Terminals am Anlagenstandort „Voslapper Groden“, längstens jedoch bis zum Ablauf von fünf Jahren nach Inbetriebnahme der FSRU.
 4. Standort der Anlage
 FSRU mit seeseitigem Gas-Transfersystem
 Gemarkung: Nordsee, Jade
@@ -111,25 +100,18 @@ Flurstücke: 1/11, 1/15, 1/17 und 1/19
 Gemarkung: Rüstringen
 Flur: 35
 Flurstück: 1/48
-Die im Formular „Inhaltsverzeichnis, Stand 06.09.2024, zum Antrag im Einzelnen aufgeführten Antragsun-
-terlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
+Die im Formular „Inhaltsverzeichnis, Stand 06.09.2024, zum Antrag im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 5. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-– Baugenehmigung nach § 70 Abs. 1 NBauO für die Errichtung und den Betrieb der landseitigen Funda-
-mente und Gebäude
-– Wasserrechtliche Genehmigung gem. § 36 WHG i. V. m. § 57 Abs. 4 NWG zur Kreuzung des Gewäs-
-sers III. Ordnung (Rhynschloot an der Straße „Am Tiefen Fahrwasser“) auf Höhe der bereits vorhande-
-nen Trasse in Voslapper Groden Nord
-– Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die FSRU als Anlage im Küs-
-tenmeer
+– Baugenehmigung nach § 70 Abs. 1 NBauO für die Errichtung und den Betrieb der landseitigen Fundamente und Gebäude
+– Wasserrechtliche Genehmigung gem. § 36 WHG i. V. m. § 57 Abs. 4 NWG zur Kreuzung des Gewässers III. Ordnung (Rhynschloot an der Straße „Am Tiefen Fahrwasser“) auf Höhe der bereits vorhandenen Trasse in Voslapper Groden Nord
+– Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die FSRU als Anlage im Küstenmeer
 – Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die seeseitigen Anlagenteile,
 insbesondere die TCPs und PLEMs als Anlage im Küstenmeer
 – Deichrechtliche Ausnahmegenehmigung für die Kreuzung des Hauptdeiches durch sechs temporäre
 TCPs nach § 14 ff. NDG
 
-Nds. MBl. 2024 Nr. 419 vom 26. September 2024 Seite 4
-– Strom- und schifffahrtspolizeiliche Genehmigung nach § 31 Abs. 1 WaStrG für die Verlegung und Nut-
-zung der seeseitigen Infrastruktur (TCPs, PLEMs, Riser) in der Jade
+– Strom- und schifffahrtspolizeiliche Genehmigung nach § 31 Abs. 1 WaStrG für die Verlegung und Nutzung der seeseitigen Infrastruktur (TCPs, PLEMs, Riser) in der Jade
 – Naturschutzrechtliche Genehmigung eines Eingriffes nach § 17 Abs. 3 BNatSchG für die Beseitigung
 von insgesamt 164 m² Ufersaumgehölzen
 – Naturschutzrechtliche Ausnahmegenehmigung nach § 30 Abs. 3 BNatSchG von den Verboten des § 30
@@ -137,51 +119,37 @@ Abs. 2 BNatSchG für die erhebliche Beeinträchtigung der nach § 30 BNatSchG ge
 auf einer Fläche von 7 985 m² (mesophiles Grünland und sonstiger Sandtrockenrasen)
 – Artenschutzrechtliche Ausnahme von den Verboten des § 39 Abs. 5 BNatSchG für den regelmäßigen
 Rückschnitt von Röhricht im Wirkbereich der Baumaßnahmen sowie eine Ausnahme im Sinne des § 45
-Abs. 7 BNatSchG für zeitlich begrenzte Störungen durch saisonale Vergrämungsmaßnahmen im Be-
-reich der Baueinrichtungsflächen, des Baufeldes und der Zuwegungen (Störung potentieller Brutvögel
+Abs. 7 BNatSchG für zeitlich begrenzte Störungen durch saisonale Vergrämungsmaßnahmen im Bereich der Baueinrichtungsflächen, des Baufeldes und der Zuwegungen (Störung potentieller Brutvögel
 Feldlerche, Wiesenpieper, Blässhuhn)
 – Vorsorgliche Artenschutzrechtliche Ausnahme nach § 45 Abs. 7 BNatSchG für eine mögliche Störung
 des Schweinswals durch den hörbaren Betriebsschall und den Ultraschall des Antifouling- Systems.
 – Naturschutzrechtliche Befreiung nach § 67 Abs. 1 und 3 BNatSchG von den Bestimmungen des § 30
-Abs. 2 Nr. 6 BNatSchG für die erhebliche Beeinträchtigung des gesetzlich geschützten Biotopes „Küs-
-tenwatt ohne Vegetation höherer Pflanzen“ (KWK)
-– Naturschutzrechtliche Befreiung von den Verboten der Schutzgebietsverordnung des Naturschutzge-
-biets (NSG) Voslapper Groden- Nord für die Umsetzung der Maßnahmen Kabelzug (zeitweises Aufstel-
-len einer Winde innerhalb des NSG) und Fackeleinsatz (Hineinwirken in das NSG)
+Abs. 2 Nr. 6 BNatSchG für die erhebliche Beeinträchtigung des gesetzlich geschützten Biotopes „Küstenwatt ohne Vegetation höherer Pflanzen“ (KWK)
+– Naturschutzrechtliche Befreiung von den Verboten der Schutzgebietsverordnung des Naturschutzgebiets (NSG) Voslapper Groden- Nord für die Umsetzung der Maßnahmen Kabelzug (zeitweises Aufstellen einer Winde innerhalb des NSG) und Fackeleinsatz (Hineinwirken in das NSG)
 – Genehmigung nach § 4 Abs. 1 TEHG zur Freisetzung von Treibhausgasen durch eine Tätigkeit nach
-Anhang 1 Teil 2 Nummer 2 TEHG. Die Anlage wird unter dem Az. 14310- 2033 bei der Deutschen Emis-
-sionshandelsstelle (DEHSt) geführt
+Anhang 1 Teil 2 Nummer 2 TEHG. Die Anlage wird unter dem Az. 14310- 2033 bei der Deutschen Emissionshandelsstelle (DEHSt) geführt
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
-BImSchG nicht von der Genehmigung eingeschlossen werden. Insbesondere wird auf die nicht einkonzentrier-
-ten Verfahren zur Einleitung von Abwasser aus dem Betrieb einer FSRU in die Innenjade vor Wilhelmshaven
+BImSchG nicht von der Genehmigung eingeschlossen werden. Insbesondere wird auf die nicht einkonzentrierten Verfahren zur Einleitung von Abwasser aus dem Betrieb einer FSRU in die Innenjade vor Wilhelmshaven
 und zur Einbringung des bei der Verlegung des TCP-Gastransfersystems anfallenden Baggergutes (Sand/
 Schluff) in das Küstengewässer Jade hingewiesen.
 Das Erlaubnisverfahren zur Einleitung von Abwasser nach § 8 i. V. m. 10 WHG – anhängig beim NLWKN
 _ Direktion – Geschäftsbereich 6 – Braunschweig – Wasserwirtschaftliche Zulassungen – wurde unter
-Az. D6.62011- 824-001-4145/2023 zeitlich parallel durchgeführt und mit Datum vom 06.03.2024 positiv be-
-schieden.
+Az. D6.62011- 824-001-4145/2023 zeitlich parallel durchgeführt und mit Datum vom 06.03.2024 positiv beschieden.
 Das Erlaubnisverfahren zum Einbringen des Baggergutes aus dem TCP-Verlegegraben wurde vom
 NLWKN – Direktion – Geschäftsbereich (GB) 6 – Oldenburg – Wasserwirtschaftliche Zulassungen unter
 Az. D 6 O 10 – 62011- 824-001 durchgeführt und mit Bescheid vom 06.12.2023, geändert mit Bescheid vom
 22.12.2023, positiv beschieden.
-Der Planfeststellungsbeschluss zur Errichtung und zum Betrieb eines Anlegers nebst Liegewanne und Zu-
-fahrtsbereich für eine stationäre, schwimmende Anlage zur Einfuhr, Entladung, Lagerung und Wiederver-
-dampfung verflüssigten Erdgases (LNG) in der Jade vor Wilhelmshaven - Voslapper Groden Nord 2 wurde am
+Der Planfeststellungsbeschluss zur Errichtung und zum Betrieb eines Anlegers nebst Liegewanne und Zufahrtsbereich für eine stationäre, schwimmende Anlage zur Einfuhr, Entladung, Lagerung und Wiederverdampfung verflüssigten Erdgases (LNG) in der Jade vor Wilhelmshaven - Voslapper Groden Nord 2 wurde am
 10.05.2024, unter dem Az. – D 6_– 62025- 691-002, vom NLWKN – Direktion – Geschäftsbereich (GB) 6 –
 Oldenburg – Wasserwirtschaftliche Zulassungen als Planfeststellungsbehörde erlassen.
 6. Bedingung
 Die Anlage darf nur betrieben werden, wenn eine gültige wasserrechtliche Erlaubnis für die Einleitung von
-Abwasser aus dem Betrieb einer Floating Storage and Regasification Unit (FSRU) in die Innenjade vor Wil-
-helmshaven durch den NLWKN GB 6- Braunschweig – Wasserwirtschaftliche Zulassungen – vorliegt. Nach-
-trägliche Änderungen der wasserrechtlichen Erlaubnis des NLWKN, insbesondere auch deren Widerruf oder
+Abwasser aus dem Betrieb einer Floating Storage and Regasification Unit (FSRU) in die Innenjade vor Wilhelmshaven durch den NLWKN GB 6- Braunschweig – Wasserwirtschaftliche Zulassungen – vorliegt. Nachträgliche Änderungen der wasserrechtlichen Erlaubnis des NLWKN, insbesondere auch deren Widerruf oder
 die sonstige Aufhebung, sind dem GAA Oldenburg unverzüglich mitzuteilen.
 
-Nds. MBl. 2024 Nr. 419 vom 26. September 2024 Seite 5
 7. Domino-Effekt
 Durch das GAA Oldenburg wird gemäß § 15 der 12. BImSchV festgestellt, dass nach den zum Zeitpunkt
-der Erteilung dieses Bescheides vorliegenden Informationen zwischen den seeseitigen und landseitigen An-
-lagen der Betriebsbereiche der Firmen VYNOVA Wilhelmshaven GmbH, HES Tankterminal GmbH, LNG Ter-
-minal Wilhelmshaven GmbH und der Anlage der FSRU Wilhelmshaven GmbH aufgrund ihrer geographischen
+der Erteilung dieses Bescheides vorliegenden Informationen zwischen den seeseitigen und landseitigen Anlagen der Betriebsbereiche der Firmen VYNOVA Wilhelmshaven GmbH, HES Tankterminal GmbH, LNG Terminal Wilhelmshaven GmbH und der Anlage der FSRU Wilhelmshaven GmbH aufgrund ihrer geographischen
 Lage, ihrer Abstände zueinander und der in den Anlagen vorhandenen gefährlichen Stoffe keine erhöhte
 Wahrscheinlichkeit oder Möglichkeit von Störfällen besteht oder diese Störfälle gegenseitig folgenschwerer
 sein können (sog. „Domino-Effekt").
@@ -191,7 +159,5 @@ VII. Rechtsbehelfsbelehrung
 Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen
 Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, erhoben werden.
 Hinweis:
-Gemäß § 11 Abs. 1 Satz 1 LNGG hat der Widerspruch gegen diesen Genehmigungsbescheid keine aufschie-
-bende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung kann nur innerhalb eines Monats
-nach Zustellung beim Bundesverwaltungsgericht, Simsonplatz 1, 04107 Leipzig, gestellt und begründet wer-
-den.
+Gemäß § 11 Abs. 1 Satz 1 LNGG hat der Widerspruch gegen diesen Genehmigungsbescheid keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung kann nur innerhalb eines Monats
+nach Zustellung beim Bundesverwaltungsgericht, Simsonplatz 1, 04107 Leipzig, gestellt und begründet werden.

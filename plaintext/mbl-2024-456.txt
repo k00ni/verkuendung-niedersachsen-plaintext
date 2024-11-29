@@ -27,8 +27,7 @@ oder des Wahlleiters
 a = Telefon
 b = Telefax
 c = E-Mail
-„41 Stadt Hanno-
-ver I
+„41 Stadt Hannover I
 Städtischer Oberrat
 Kusz
 Stadtamtsrat
@@ -39,6 +38,5 @@ Platz der Menschenrechte 1
 a: 0511 168 42655
 b: 0511 168 45129
 c: wahlen@hannover-stadt.de
-42 Stadt Hanno-
-ver II
+42 Stadt Hannover II
 siehe WK 41 siehe WK 41 siehe WK 41“.

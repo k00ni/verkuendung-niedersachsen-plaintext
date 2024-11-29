@@ -28,8 +28,7 @@ hat der Verwaltungsrat der Niedersächsischen Tierseuchenkasse folgende Satzung 
 § 1
 Grundsätzliches
 (1) Die Tierseuchenkasse gewährt Beihilfen nach Maßgabe der nachfolgenden Vorschriften. Soweit das
-Verfahren zur Feststellung der Schadensursache und Schadenshöhe in dieser Satzung nicht besonders ge-
-regelt ist, gelten die für Tierseuchen einschlägigen bundes- und landesrechtlichen Vorschriften. § 16 Abs. 1
+Verfahren zur Feststellung der Schadensursache und Schadenshöhe in dieser Satzung nicht besonders geregelt ist, gelten die für Tierseuchen einschlägigen bundes- und landesrechtlichen Vorschriften. § 16 Abs. 1
 und 2 Tiergesundheitsgesetz (Tier GesG) gelten sinngemäß mit der Maßgabe, dass die Abs. 1 und 2 als
 Grundlage für die Berechnung der Beihilfe für Tierverluste dienen.
 (2) § 16 Abs. 3 und 4 Satz 1 und 3 TierGesG sind sinngemäß anzuwenden.
@@ -37,7 +36,6 @@ Grundlage für die Berechnung der Beihilfe für Tierverluste dienen.
 Kosten oder im Falle von Tierverlusten 100 Prozent des gemeinen Wertes betragen, die Höchstsätze je Tier
 gemäß § 16 Abs. 2 und Minderungen gemäß § 16 Abs. 3 TierGesG gelten entsprechend. Wird eine Beihilfe
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 2
 in Höhe eines prozentualen Anteils des gemeinen Wertes geleistet, ist der gemeine Wert die Bezugsgröße
 dieser prozentualen Berechnung. Übersteigt der gemeine Wert den Höchstsatz gemäß § 16 Abs. 2 TierGesG,
 gilt als Bezugsgröße dieser Höchstsatz. Die Reihenfolge von Minderungen gemäß § 16 Abs. 3 TierGesG
@@ -51,40 +49,27 @@ Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländl
 wird für Beihilfen gemäß Teil II Kapitel 1 Abschnitt 1.2.1.3 kein Anreizeffekt verlangt bzw. wird von einem
 Anreizeffekt ausgegangen. Für Beihilfen unter Bezug auf § 6 ist gemäß Teil II Kapitel 1 Abschnitt 1.1.1.1 und
 Abschnitt 1.1.10.2 der Rahmenregelung vor Beginn der Arbeiten für ein Vorhaben oder einer Tätigkeit ein
-schriftlicher Antrag mit dem Inhalt nach Randnummer 51 Rahmenregelung zu stellen. Soweit die Veröffentli-
-chungsschwellen überschritten werden, werden die Angaben gemäß Randnummer 112 der Rahmenregelung
+schriftlicher Antrag mit dem Inhalt nach Randnummer 51 Rahmenregelung zu stellen. Soweit die Veröffentlichungsschwellen überschritten werden, werden die Angaben gemäß Randnummer 112 der Rahmenregelung
 in der Beihilfetransparenzdatenbank der EU-Kommission veröffentlicht.
 (5) Gemäß Randnummer 368 der Rahmenregelung wird die Beihilferegelung innerhalb von drei Jahren,
 nachdem die durch die Tierseuche verursachten Kosten oder Verluste entstanden sind, eingeführt. Die nach
-§§ 2 – 7 zu gewährenden Beihilfen werden innerhalb von vier Jahren nach dem genannten Zeitpunkt ausge-
-zahlt.
+§§ 2 – 7 zu gewährenden Beihilfen werden innerhalb von vier Jahren nach dem genannten Zeitpunkt ausgezahlt.
 (6) Tierhalterinnen oder Tierhalter, deren Unternehmen sich in Schwierigkeiten gemäß Randnummer 33
-Ziffer 63 der Rahmenregelung befinden, sind von einer Beihilfegewährung ausgeschlossen. Hiervon nicht be-
-troffen sind allerdings die Gewährung von Ausgleichsbeihilfen, wenn die finanziellen Schwierigkeiten eines
-Unternehmens durch die relevante Tierseuche verursacht wurden sowie die Förderung von Tilgungsmaßnah-
-men gemäß Randnummer 359 der Rahmenregelung.
+Ziffer 63 der Rahmenregelung befinden, sind von einer Beihilfegewährung ausgeschlossen. Hiervon nicht betroffen sind allerdings die Gewährung von Ausgleichsbeihilfen, wenn die finanziellen Schwierigkeiten eines
+Unternehmens durch die relevante Tierseuche verursacht wurden sowie die Förderung von Tilgungsmaßnahmen gemäß Randnummer 359 der Rahmenregelung.
 (7) Der Beihilfebetrag für die Beratung nach Ziffer 1.1.10.2 der Rahmenregelung ist auf 100 Prozent der
 beihilfefähigen Kosten bis zu 25 000,00 EUR je Dreijahreszeitraum eines einzigen in der landwirtschaftlichen
 Primärproduktion tätigen Begünstigten durch den Dienstleister begrenzt.
 (8) Die Beihilfen unterliegen nicht einer Evaluierungspflicht gem. Randnummer 639 ff. der Rahmenregelung
 sowie einer Überprüfungsklausel nach den Bestimmungen Randnummer 647 ff. der Rahmenregelung.
-(9) Die Tierseuchenkasse führt die nach Randnummer 653 der Rahmenregelung vorgesehenen ausführli-
-chen Aufzeichnungen mit den Informationen und einschlägigen Unterlagen, die notwendig sind, um feststellen
-zu können, dass die Voraussetzungen bezüglich der beihilfefähigen Kosten und der zulässigen Beihilfe-
-höchstintensität erfüllt sind. Die Aufzeichnungen sind zusammen mit den Förderakten ab dem Tag der Beihil-
-fegewährung zehn Jahre lang aufzubewahren.
-(10) Unternehmen, die die Voraussetzungen des Anhangs I der Verordnung (EU) 2022/2472 der Kommis-
-sion vom 14.12.2022 (ABl. L 327 vom 21.12.2022, S.1) ni cht erfüllen und damit nicht unter die Definition der
-kleinen und mittleren Unternehmen fallen, können Beihilfen für Probenahmen, Untersuchungen, Biosicher-
-heitsberatungen und Ohrmarken nicht gewährt werden, da die Bedingungen der Randnummer 53 der Mittei-
-lung der Kommission zu der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländli-
-chen Gebieten vom 21.12.2022 (ABl. C 485 vom 21.12.2022, S. 1) nicht erfüllt sind.
+(9) Die Tierseuchenkasse führt die nach Randnummer 653 der Rahmenregelung vorgesehenen ausführlichen Aufzeichnungen mit den Informationen und einschlägigen Unterlagen, die notwendig sind, um feststellen
+zu können, dass die Voraussetzungen bezüglich der beihilfefähigen Kosten und der zulässigen Beihilfehöchstintensität erfüllt sind. Die Aufzeichnungen sind zusammen mit den Förderakten ab dem Tag der Beihilfegewährung zehn Jahre lang aufzubewahren.
+(10) Unternehmen, die die Voraussetzungen des Anhangs I der Verordnung (EU) 2022/2472 der Kommission vom 14.12.2022 (ABl. L 327 vom 21.12.2022, S.1) ni cht erfüllen und damit nicht unter die Definition der
+kleinen und mittleren Unternehmen fallen, können Beihilfen für Probenahmen, Untersuchungen, Biosicherheitsberatungen und Ohrmarken nicht gewährt werden, da die Bedingungen der Randnummer 53 der Mitteilung der Kommission zu der Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten vom 21.12.2022 (ABl. C 485 vom 21.12.2022, S. 1) nicht erfüllt sind.
 § 2
 Beihilfen bei Auftreten und zur Vorbeugung bestimmter Tierseuchen
-Bei Auftreten der nachfolgend benannten Tierseuchen und der Erfüllung der jeweils besonderen Voraus-
-setzungen werden folgende Beihilfen gewährt:
+Bei Auftreten der nachfolgend benannten Tierseuchen und der Erfüllung der jeweils besonderen Voraussetzungen werden folgende Beihilfen gewährt:
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 3
 1. Listeriose der Rinder, Schafe und Ziegen
 Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28. 04.2021 (ABl. L 153 vom
 03.05.2021, S. 1), Artikel 3 Abs. 2 Buchstabe e in Verbindung mit Richtlinie 2003/99/EG des Europäischen
@@ -93,28 +78,20 @@ Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31), Anha
 Voraussetzungen:
 – Einhaltung der Anforderungen der Anlage 1
 – Verenden oder Tötung des Tieres wegen Listeriose
-– Nachweis des Erregers Listeria monocytogenes beim Tier durch eine amtli-
-che Institutsuntersuchung
-50 Prozent des gemei-
-nen Wertes
-1.2 Beihilfe zu Tötungskosten nachgewiesene Kos-
-ten
+– Nachweis des Erregers Listeria monocytogenes beim Tier durch eine amtliche Institutsuntersuchung
+50 Prozent des gemeinen Wertes
+1.2 Beihilfe zu Tötungskosten nachgewiesene Kosten
 2. Infektion mit Mycobacterium avium subspecies paratuberculosis (MAP)
 Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 0 9.03.2016 (ABl. L 84 vom
 31.03.2016, S. 1), Anhang II
 2.1 Beihilfen für Tierverluste für Rinder ab einem Alter von 12 Monaten, die
-aufgrund eines MAP-positiven Untersuchungsergebnisses geschlachtet wor-
-den sind:
+aufgrund eines MAP-positiven Untersuchungsergebnisses geschlachtet worden sind:
 Voraussetzungen:
-– amtliche Bestätigung der Einhaltung der rechtlich vorgegebe nen Bekämp-
-fungsmaßnahmen und
+– amtliche Bestätigung der Einhaltung der rechtlich vorgegebe nen Bekämpfungsmaßnahmen und
 – Abgabe der Verpflichtungserklärung gemäß Anlage 2 (innerhalb einer
-seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungser-
-klärung unterzeichnen) bei der zuständigen kommunalen Veterinärbe-
-hörde und
+seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) bei der zuständigen kommunalen Veterinärbehörde und
 – Einhaltung der darin eingegangenen Verpflichtungen und
-– amtliche Bestätigung der Durchführung des Niedersächsischen MAP- Ver-
-minderungsprogramms und
+– amtliche Bestätigung der Durchführung des Niedersächsischen MAP- Verminderungsprogramms und
 – Nachweis von Antikörpern gegen MAP oder von MAP in der Milch, im Blut
 oder im Kot und
 – Nachweis des Tierverlustes durch Schlachtabrechnung.
@@ -123,38 +100,27 @@ Die Beihilfe wird nicht gewährt für
 Tiere, sowie Tiere die aufgrund anderer Erkrankungen vorzeitig aus der
 Herde entfernt wurden
 – Tiere mit einem sehr niedrigen Schlachtgewicht (< 150 kg) bzw. Tiere, die
-keinen marktgerechten Schlachterlös (< 100 EUR) erzielen. Für kleiwüch-
-sige Rinderrassen gelten in Absprache mit der Tierseuchenkasse abwei-
-chend auch andere Schlachtgewichte und Erlöse.
-100 Prozent des gemei-
-nen Wertes unter Anrech-
-nung der Verwertungser-
-löse
-2.2 Beihilfen für Untersuchungen und Beratungen können gewährt wer-
-den für:
+keinen marktgerechten Schlachterlös (< 100 EUR) erzielen. Für kleiwüchsige Rinderrassen gelten in Absprache mit der Tierseuchenkasse abweichend auch andere Schlachtgewichte und Erlöse.
+100 Prozent des gemeinen Wertes unter Anrechnung der Verwertungserlöse
+2.2 Beihilfen für Untersuchungen und Beratungen können gewährt werden für:
 – serologische Untersuchungen mittels ELISA
 – Erregernachweis in der PCR
 Übernahme von Kosten
-laut besonderer Entschei-
-dung des Vorstandes
+laut besonderer Entscheidung des Vorstandes
 nach § 5 Abs. 1, 2 oder 3
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 4
 – kulturelle Untersuchung von Kotproben
 – klinische Untersuchungen, Probenahme und Beratung
 a) Voraussetzungen für Milch liefernde Rinderhaltungen:
 – Erst- und Folgeuntersuchungen:
 Durchführung der Untersuchungen gemäß rechtlichen Vorgaben
 – Erstberatung:
-Beratung nach Vorliegen eines MAP -positiven Einzeltierbefundes im Be-
-stand im Sinne der Beitragssatzung
+Beratung nach Vorliegen eines MAP -positiven Einzeltierbefundes im Bestand im Sinne der Beitragssatzung
 – Folgeberatung:
 – Abgabe der Verpflichtungserklärung gemäß Anlage 2 (innerhalb
-einer seuchenhygienischen Einheit müssen alle Betriebe eine Ver-
-pflichtungserklärung unterzeichnen) und
+einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 – Einhaltung der darin eingegangenen Verpflichtungen sowie
-– Durchführung der Beratungen und Erstellung des MAP-Verminde-
-rungsplans gemäß rechtlichen Vorgaben und Anforderungen der
+– Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
 Anlage 2 und
 – amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
@@ -164,103 +130,83 @@ b) Voraussetzungen für nicht Milch liefernde Rinderhaltungen:
 Durchführung der Untersuchung gemäß rechtlicher Vorgaben
 – Folgeuntersuchungen:
 – Abgabe der Verpflichtungserklärung gemäß Anlage 2 (innerhalb
-einer seuchenhygienischen Einheit müssen alle Betriebe eine Ver-
-pflichtungserklärung unterzeichnen) und
+einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 – Einhaltung der darin eingegangenen Verpflichtungen s owie
 – amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
 – Erstberatung:
-Beratung nach Vorliegen eines MAP-positiven Einzeltierbefundes im Be-
-stand im Sinne der Beitragssatzung
+Beratung nach Vorliegen eines MAP-positiven Einzeltierbefundes im Bestand im Sinne der Beitragssatzung
 – Folgeberatungen:
 – Abgabe der Verpflichtungserklärung gemäß Anlage 2 (innerhalb
-einer seuchenhygienischen Einheit müssen alle Betriebe eine Ver-
-pflichtungserklärung unterzeichnen) und
+einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 – Einhaltung der darin eingegangenen Verpflichtungen und
-– Durchführung der Beratungen und Erstellung des MAP-Verminde-
-rungsplans gemäß rechtlichen Vorgaben und Anforderungen der
+– Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
 Anlage 2 sowie
 – amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 5
 3. Q-Fieber
 Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 0 9.03.2016 (ABl. L 84 vom
 31.03.2016, S. 1), Anhang II)
 3.1 Beihilfe zu Impfkosten für Immunisierungen in infizierten Betrieben
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
 – Einhaltung der Anforderungen nach Anlage 3
-– Erregernachweis mittels PCR oder anderen molekularbiologischen V er-
-fahren
+– Erregernachweis mittels PCR oder anderen molekularbiologischen V erfahren
 – Nachweis der fachgerechten Immunisierung aller impffähigen T iere des
-Bestandes durch Vorlage der Rechnung der Tierärztin oder des Tierarz-
-tes über Durchführung der Impfung
+Bestandes durch Vorlage der Rechnung der Tierärztin oder des Tierarztes über Durchführung der Impfung
 3.2 Beihilfen Untersuchungen
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
 – Einhaltung der Anforderungen nach Anlage 3
 Übernahme von Kosten
-laut besonderer Entschei-
-dung des Vorstandes nach
+laut besonderer Entscheidung des Vorstandes nach
 § 5 Abs. 1, 2 oder 3
 
 
 
 
 Übernahme von Kosten
-laut besonderer Entschei-
-dung des Vorstandes nach
+laut besonderer Entscheidung des Vorstandes nach
 § 5 Abs. 1, 2 oder 3
 4. Salmonellose der Rinder
 Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28.04.2021 (ABl. L 153 vom
 03.05.2021, S. 1) Artikel 3 Abs. 2 Buchstabe e in Verbindung mit Richtlinie 2003/99/EG des Europäischen
 Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31) Anhang I Buchstabe A)
 4.1 Grundsätzliche Voraussetzung zur Gewährung der Beihilfe:
-– Gültigkeit der Verordnung zum Schutz gegen die Salmonellose der Rin-
-der i. d. F. der Bekanntmachung vom 14.11.1991 (BGBl. I S. 2118) zuletzt
+– Gültigkeit der Verordnung zum Schutz gegen die Salmonellose der Rinder i. d. F. der Bekanntmachung vom 14.11.1991 (BGBl. I S. 2118) zuletzt
 geändert durch Art. 2 der Verordnung vom 17. April 2014 (BGBl. I S. 388).
 – Die von der zuständigen Behörde für notwendig erachteten Maßnahmen
 zur Bekämpfung der Tierseuche wurden durchgeführt.
 
 4.2 Beihilfen für Tierverluste
-Grundsätzlich muss anhand eines amtlichen Zerlegungsbefundes mit hinrei-
-chender Wahrscheinlichkeit nachgewiesen werden, dass das Tier nicht auf-
-grund anderer Erkrankungen verendet ist bzw. euthanasiert werden musste.
+Grundsätzlich muss anhand eines amtlichen Zerlegungsbefundes mit hinreichender Wahrscheinlichkeit nachgewiesen werden, dass das Tier nicht aufgrund anderer Erkrankungen verendet ist bzw. euthanasiert werden musste.
 
 a) Verenden oder Euthanasie von Rindern
 Voraussetzung:
 Tötung wegen Salmonellose oder Salmonelloseverdachtes hätte gemäß
 Salmonellose Verordnung angeordnet werden können
-100 Prozent des gemei-
-nen Wertes
+100 Prozent des gemeinen Wertes
 b) Verenden oder Euthanasie von Rindern trotz Durchführung einer mit der
 kommunalen Veterinärbehörde abgestimmten tierärztlichen Behandlung
-100 Prozent des gemei-
-nen Wertes
+100 Prozent des gemeinen Wertes
 c) amtliche Feststellung der Salmonellose oder des Verdachtes nach dem Tod
 des Rindes
 50 Prozent des gemeinen
 Wertes
 4.3 Beihilfe zu Impfkosten für Immunisierungen in infizierten Betrieben
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
-– Beratung durch den Rindergesundheitsdienst oder die kommunale Vete-
-rinärbehörde,
+– Beratung durch den Rindergesundheitsdienst oder die kommunale Veterinärbehörde,
 Übernahme von Kosten
-laut besonderer Entschei-
-dung des Vorstandes
+laut besonderer Entscheidung des Vorstandes
 nach § 5 Abs. 1, 2 oder 3
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 6
 – Vorlage eines Bekämpfungskonzeptes, welches mit der zuständigen
 kommunalen Veterinärbehörde und der Tierseuchenkasse abgestimmt
 wurde,
 – Bestätigung der korrekten Durchführung des Bekämpfungskonzeptes
 durch die zuständige kommunale Veterinärbehörde,
-– Nachweis der fachgerechten Immunisierung gemäß vorliegendem Be-
-kämpfungskonzept und
-– Vorlage der Rechnung der Tierärztin oder des Tierarztes über die Durch-
-führung der Impfung.
-5. Salmonella enteritidis (SE)/Salmonella typhimurium (ST)- Infektionen bei Gallus gallus sowie Puten-
-Elterntierherden und deren Aufzuchten
+– Nachweis der fachgerechten Immunisierung gemäß vorliegendem Bekämpfungskonzept und
+– Vorlage der Rechnung der Tierärztin oder des Tierarztes über die Durchführung der Impfung.
+5. Salmonella enteritidis (SE)/Salmonella typhimurium (ST)- Infektionen bei Gallus gallus sowie PutenElterntierherden und deren Aufzuchten
 Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28.04.2021 (ABl. L 153 vom
 03.05.2021, S. 1) Artikel 3 Abs. 2 Buchstabe e in Verbindung mit Richtlinie 2003/99/EG des Europäischen
 Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31) Anhang I Buchstabe A
@@ -268,51 +214,35 @@ Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31) Anhan
 Bestandsgröße:
 – Hühner- und Putenzuchtbetriebe: mind. 250 Tiere
 – Legehennen- und Hühneraufzuchtbetriebe: mind. 350 Tiere
-– Beitritt zum Verfahren zur Bekämpfung der SE und ST Infektion durch Ab-
-gabe der schriftlichen Verpflichtungserklärung für Legehennenbestände
-gemäß Anlage 4 a und für Putenbestände gemäß Anlage 4 b min-
-destens zwei Jahre vor Feststellung der SE- oder ST-Infektion bei der zu-
-ständigen kommunalen Veterinärbehörde und Einhaltung der eingegange-
-nen Verpflichtungen
-– amtliche Bestätigung der Teilnahme und Einhaltung der vorgegebenen Be-
-kämpfungsmaßnahmen
+– Beitritt zum Verfahren zur Bekämpfung der SE und ST Infektion durch Abgabe der schriftlichen Verpflichtungserklärung für Legehennenbestände
+gemäß Anlage 4 a und für Putenbestände gemäß Anlage 4 b mindestens zwei Jahre vor Feststellung der SE- oder ST-Infektion bei der zuständigen kommunalen Veterinärbehörde und Einhaltung der eingegangenen Verpflichtungen
+– amtliche Bestätigung der Teilnahme und Einhaltung der vorgegebenen Bekämpfungsmaßnahmen
 5.2 Beihilfen zur Bekämpfung von SE- und ST-Infektionen:
 
 a) Kosten zur Durchführung amtlicher Untersuchungen Max. 17,00
-EUR/Untersu-
-chungsansatz
+EUR/Untersuchungsansatz
 b) Kosten zur Durchführung amtlicher Untersuchungen in Brütereien Max. 17,00
-EUR/Untersu-
-chungsansatz
+EUR/Untersuchungsansatz
 5.3 Beihilfen für Tierverluste
-a) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Tie-
-ren in Zucht- oder Aufzuchtbetrieben (Legehennenlinien) infolge positiver SE-
+a) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Tieren in Zucht- oder Aufzuchtbetrieben (Legehennenlinien) infolge positiver SE-
 bzw. ST-Befunde
 50 Prozent des
 gemeinen Wertes
 unter Anrechnung
-der Verwertungs-
-erlöse
-b) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Tie-
-ren in Zuchtbetrieben der Masthähnchenlinien infolge positiver SE- bzw. ST-
+der Verwertungserlöse
+b) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Tieren in Zuchtbetrieben der Masthähnchenlinien infolge positiver SE- bzw. ST-
 Befunde
 50 Prozent des
 gemeinen Wertes
 unter Anrechnung
-der Verwertungs-
-erlöse
+der Verwertungserlöse
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 7
-c) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Le-
-gehennen infolge positiver SE- bzw. ST-Befunde
+c) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Legehennen infolge positiver SE- bzw. ST-Befunde
 50 Prozent des
 gemeinen Wertes
 unter Anrechnung
-der Verwertungs-
-erlöse
-d) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Pu-
-ten-Elterntierherden und deren Aufzuchten infolge positiver SE- bzw. ST-Be-
-funde
+der Verwertungserlöse
+d) Schlachtung/Tötung infolge unions- oder bundesrechtlicher Vorgaben von Puten-Elterntierherden und deren Aufzuchten infolge positiver SE- bzw. ST-Befunde
 50 Prozent des
 gemeinen Wertes
 unter Anrechnung der Verwertungs- erlöse
@@ -330,14 +260,12 @@ Bekämpfung der Tierseuche wurden durchgeführt.
 6.2 Probenahmen und Untersuchungsgebühren/Diagnostika für die Untersuchung
 von Schweinen im Rahmen des Sanierungs-Programms
 Übernahme von
-Kosten laut be-
-sonderer Ent- scheidung des
+Kosten laut besonderer Ent- scheidung des
 Vorstandes nach
 § 5 Abs. 1, 2 oder
 3
 6.3 Impfstoffkosten für Schutzimpfungen im Rahmen des Sanierungsprogramms Übernahme von
-Kosten laut be-
-sonderer Ent- scheidung des
+Kosten laut besonderer Ent- scheidung des
 Vorstandes nach
 § 5 Abs. 1, 2 oder
 3
@@ -353,7 +281,6 @@ Fälle von Verwerfen nur gewährt, wenn
 eingetreten ist, eine nachgewiesene Trächtigkeit von 91 bis 270 Tagen bei Rindern, 42 bis 111 Tagen bei
 Schweinen und 30 bis 145 Tagen bei Schafen und Ziegen vorgelegen hat,
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 8
 2. die Früchte bei der Geburt tot waren oder (bei Schweinen in der Mehrzahl) i nnerhalb des Zeitraumes bi s
 zum normalen Ende der Trächtigkeit verendet sind,
 3. nach dem Gutachten der Amtstierärztin oder des Amtstierarztes das Verwerfen auf eine der vorgenannten
@@ -364,31 +291,21 @@ Die Höhe der Beihilfe beträgt 205,00 EUR je Verkalbefall, 128,00 EUR je Fall v
 § 4
 Härtefälle
 Aufgrund besonderen Beschlusses des Vorstandes können Beihilfen in einzelnen Härtefällen, in denen die
-Tierseuchenkasse zu einer Entschädigung oder Beihilfe sonst nicht verpflichtet wäre, aus Gründen der Billig-
-keit zum Ausgleich von Schäden und Kosten bei Bekämpfungsmaßnahmen, für Tierverluste durch Tierseu-
-chen oder seuchenartige Erkrankungen gewährt werden. Die Beihilfen werden nur im Rahmen unionsweiter,
+Tierseuchenkasse zu einer Entschädigung oder Beihilfe sonst nicht verpflichtet wäre, aus Gründen der Billigkeit zum Ausgleich von Schäden und Kosten bei Bekämpfungsmaßnahmen, für Tierverluste durch Tierseuchen oder seuchenartige Erkrankungen gewährt werden. Die Beihilfen werden nur im Rahmen unionsweiter,
 nationaler oder regionaler Bekämpfungsprogramme oder Verwaltungsvorschriften gewährt.
 § 5
 Vorbeugende Maßnahmen
 (1) Für die in § 13 Abs. 1 Satz 2 AGTierGesG genannten Tierarten gewährt die Tierseuchenkasse Beihilfen
-für den Fall, dass vorbeugende Maßnahmen wie Untersuchungen, Impfungen oder Biosicherheitsmaßnah-
-men, inklusive entsprechender Beratungen gegen einzelne Tierseuchen für das ganze Land angeordnet wer-
-den, die der einzelnen Tierhalterin bzw. dem einzelnen Tierhalter Kosten verursachen. Die jeweiligen Bedin-
-gungen und die Höhe der zu übernehmenden Kosten werden durch besondere Entscheidung des Vorstandes
+für den Fall, dass vorbeugende Maßnahmen wie Untersuchungen, Impfungen oder Biosicherheitsmaßnahmen, inklusive entsprechender Beratungen gegen einzelne Tierseuchen für das ganze Land angeordnet werden, die der einzelnen Tierhalterin bzw. dem einzelnen Tierhalter Kosten verursachen. Die jeweiligen Bedingungen und die Höhe der zu übernehmenden Kosten werden durch besondere Entscheidung des Vorstandes
 festgelegt. Die Beihilfen dürfen keine Maßnahmen betreffen, deren Kosten nach dem Unionsrecht von den
 Tierhalterinnen und Tierhaltern selbst zu tragen sind.
 (2) Der Vorstand kann entscheiden, dass derartige Kosten auch dann ganz oder teilweise übernommen
 werden, wenn die Maßnahmen nur für Teile des Landesgebietes (mindestens eine Ortschaft im Sinne von
-§ 90 Absatz 1 NKomVG) angeordnet werden. Dies gilt insbesondere für Impfungen gegen die Maul- und Klau-
-enseuche und die Schweinepest sowie für angeordnete Flächenuntersuchungen bei bestimmten Tierseuchen.
-Der Verwaltungsrat ist unverzüglich von der Entscheidung über die Kostenübernahme zu unterrichten. Er ent-
-scheidet in seiner nächsten Sitzung über eine Verlängerung, Änderung oder Aufhebung der Kosten. Abs. 1
+§ 90 Absatz 1 NKomVG) angeordnet werden. Dies gilt insbesondere für Impfungen gegen die Maul- und Klauenseuche und die Schweinepest sowie für angeordnete Flächenuntersuchungen bei bestimmten Tierseuchen.
+Der Verwaltungsrat ist unverzüglich von der Entscheidung über die Kostenübernahme zu unterrichten. Er entscheidet in seiner nächsten Sitzung über eine Verlängerung, Änderung oder Aufhebung der Kosten. Abs. 1
 Satz 3 gilt entsprechend.
-(3) Aufgrund einer besonderen Entscheidung des Vorstandes können Beihilfen auch für vorbeugende Maß-
-nahmen gegen Tierseuchen oder seuchenartige Erkrankungen bei anderen Tierarten oder für amtlich emp-
-fohlene Bekämpfungsmaßnahmen bewilligt werden. Abs. 2 Sätze 3 und 4 gelten entsprechend.
-(4) Die Beihilfen nach Abs. 1, 2, und 3 dürfen keine Tierseuchen betreffen, für die das Unionsrecht spezifi-
-sche Abgaben vorsieht.
+(3) Aufgrund einer besonderen Entscheidung des Vorstandes können Beihilfen auch für vorbeugende Maßnahmen gegen Tierseuchen oder seuchenartige Erkrankungen bei anderen Tierarten oder für amtlich empfohlene Bekämpfungsmaßnahmen bewilligt werden. Abs. 2 Sätze 3 und 4 gelten entsprechend.
+(4) Die Beihilfen nach Abs. 1, 2, und 3 dürfen keine Tierseuchen betreffen, für die das Unionsrecht spezifische Abgaben vorsieht.
 § 6
 Kostenübernahme bei Tierkennzeichnung
 zum Zwecke der Identifizierung eines Tieres
@@ -396,24 +313,17 @@ als Maßnahme der Tierseuchenvorbeugung
 und Tierseuchenfrüherkennung
 (1) Die Tierseuchenkasse übernimmt 65 Prozent der Kosten der Ohrmarken zum Zwecke der amtlichen
 Kennzeichnung von Rindern, Schweinen, Schafen und Ziegen, die der Tierhalterin bzw. dem Tierhalter auf
-Antrag zugeteilt werden, soweit Unionsrecht, Rechtsvorschriften des Bundes oder des Landes die Kennzeich-
-nung und Registrierung vorschreiben und aufgrund einer besonderen Entscheidung des Vorstandes im Rah-
-men amtlicher Tierseuchenbekämpfungsmaßnahmen.
+Antrag zugeteilt werden, soweit Unionsrecht, Rechtsvorschriften des Bundes oder des Landes die Kennzeichnung und Registrierung vorschreiben und aufgrund einer besonderen Entscheidung des Vorstandes im Rahmen amtlicher Tierseuchenbekämpfungsmaßnahmen.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 9
-(2) Der Antrag ist bei der zuständigen Behörde nach § 1 Abs. 1 AGTierGesG zu stellen. Im Falle der Auf-
-gabenübertragung nach § 3 AGTierGesG ist, abweichend von Satz 1, der Antrag bei der beliehenen Stelle zu
+(2) Der Antrag ist bei der zuständigen Behörde nach § 1 Abs. 1 AGTierGesG zu stellen. Im Falle der Aufgabenübertragung nach § 3 AGTierGesG ist, abweichend von Satz 1, der Antrag bei der beliehenen Stelle zu
 stellen.
 (3) Ferner übernimmt die Tierseuchenkasse die Kosten, die der einzelnen Tierhalterin bzw. dem einzelnen
 Tierhalter von Rindern, Schweinen, Schafen und Ziegen für die Zuteilung der Ohrmarken nebst Beratung und
-für die elektronische Anzeige von Bestandsveränderungen nach ViehVerkV sowie die Erstellung des Rinder-
-passes nach bzw. des Stammdatenblattes nach ViehVerkV entstehen. Der Anspruch der Tierhalter nach Satz
+für die elektronische Anzeige von Bestandsveränderungen nach ViehVerkV sowie die Erstellung des Rinderpasses nach bzw. des Stammdatenblattes nach ViehVerkV entstehen. Der Anspruch der Tierhalter nach Satz
 1 ist auf 1 500,00 EUR je Beratung begrenzt.
 § 7
 Reinigung und Desinfektion
-(1) Die Tierseuchenkasse gewährt Beihilfen zu den Kosten der Reinigung und Desinfektion und der Ent-
-wesung, die nach Stallräumungen aufgrund amtlicher Tötungsanordnungen (§ 15 TierGesG) fachgerecht aus-
-geführt sowie von der zuständigen Behörde abgenommen und bescheinigt wurden, für Pferde, Rinder,
+(1) Die Tierseuchenkasse gewährt Beihilfen zu den Kosten der Reinigung und Desinfektion und der Entwesung, die nach Stallräumungen aufgrund amtlicher Tötungsanordnungen (§ 15 TierGesG) fachgerecht ausgeführt sowie von der zuständigen Behörde abgenommen und bescheinigt wurden, für Pferde, Rinder,
 Schweine, Schafe, Ziegen, Legehennen, Masthähnchen, Puten, Putenküken, Enten, Gänse und Brütereien.
 (2) Die maximale Beihilfe errechnet sich durch Multiplikation des Beihilfesatzes von 0,03 EUR/kg mit den
 in Satz 3 festgelegten Standardzielgewichten der jeweiligen Tiergruppe und den bei der Tierseuchenkasse
@@ -442,7 +352,6 @@ Küken in Brütereien 0,05 kg
 Elterntier Huhn-Legetyp 2,00 kg
 Elterntier Huhn-Masttyp 3,50 kg
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 10
 Elterntier Pute 10,00 kg
 Elterntier Ente/Gans 5,00 kg
 
@@ -464,8 +373,7 @@ Elterntier Huhn-Legetyp 15,00
 Elterntier Huhn-Masttyp 15,00
 Elterntier Pute 6,00
 Elterntier Ente/Gans 12,00
-(3) Die Rechnungen über die Durchführung der Maßnahmen sind dem Beihilfeantrag beizufügen. Über-
-steigt die nach Abs. 2 berechnete Beihilfe die tatsächlich angefallenen und nachgewiesenen Kosten, so wird
+(3) Die Rechnungen über die Durchführung der Maßnahmen sind dem Beihilfeantrag beizufügen. Übersteigt die nach Abs. 2 berechnete Beihilfe die tatsächlich angefallenen und nachgewiesenen Kosten, so wird
 eine Beihilfe in Höhe der tatsächlichen Kosten gewährt. Die Mindestbeihilfe beträgt 1 000,00 EUR; liegen die
 tatsächlich angefallenen und nachgewiesenen Kosten unter 1 000,00 EUR, so wird eine Beihilfe in Höhe der
 tatsächli chen Kosten gewährt. In begründeten Ausnahmefällen kann die Mindestbeihilfe um 1 000,00 EUR
@@ -474,23 +382,17 @@ ist.
 § 8
 Voraussetzung für die Beihilfegewährung
 (1) Voraussetzung für die Gewährung von Beihilfen nach §§ 2 bis 7 ist, dass
-1. das betroffene Tier sich zur Zeit des Todes, der Bekämpfungsmaßnahme bzw. zum Zeitpunkt der Krank-
-heitsfeststellung in Niedersachsen befand oder die Bekämpfungsmaßnahme der Feststellung des Seu-
-chenstatus eines in Niedersachsen liegenden Herkunftsbestandes dient, soweit der Vorstand eine be-
-sondere Entscheidung nach § 5 Abs. 1, 2 oder 3 getroffen hat, und die Tiere bei der Tierseuchenkasse
+1. das betroffene Tier sich zur Zeit des Todes, der Bekämpfungsmaßnahme bzw. zum Zeitpunkt der Krankheitsfeststellung in Niedersachsen befand oder die Bekämpfungsmaßnahme der Feststellung des Seuchenstatus eines in Niedersachsen liegenden Herkunftsbestandes dient, soweit der Vorstand eine besondere Entscheidung nach § 5 Abs. 1, 2 oder 3 getroffen hat, und die Tiere bei der Tierseuchenkasse
 gemeldet sind,
-2. der schriftliche oder, sobald die technischen Voraussetzungen dafür gegeben sind, elektronische Beihil-
-feantrag innerhalb von zwölf Monaten nach Eintritt des Schadensfalles bei der zuständigen Behörde oder
+2. der schriftliche oder, sobald die technischen Voraussetzungen dafür gegeben sind, elektronische Beihilfeantrag innerhalb von zwölf Monaten nach Eintritt des Schadensfalles bei der zuständigen Behörde oder
 bei der Tierseuchenkasse v orgelegt wird,
 3. bei allen erforderlichen Probenentnahmen ein elektronisch lesbarer Untersuchungsantrag verwendet
 wird,
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 11
 4. im Falle von erbrachten Dienstleistungen durch eine Beauftragte oder einen Beauftragten die Forderung
 auf Auszahlung der Beihilfe an diesen abgetreten und die Abtretung auf dem Antrag auf Beihilfe angezeigt
 wurde,
-5. kein Fall vorliegt, in dem für die Tierbesitzerin oder für den Tierbesitzer antragsgemäß von der Bei-
-tragsveranlagung nach Beitrags satzung der Tierseuchenkasse für das Schadensjahr abgesehen wurde.
+5. kein Fall vorliegt, in dem für die Tierbesitzerin oder für den Tierbesitzer antragsgemäß von der Beitragsveranlagung nach Beitrags satzung der Tierseuchenkasse für das Schadensjahr abgesehen wurde.
 (2) Besteht aufgrund dieser Satzung ein Anspruch auf Beihilfe, gilt dieser nur für die jeweils günstigste
 Maßnahme.
 (3) Die Leistungsausschlüsse bzw. Leistungsminderungen nach den §§ 17 bis 19 sowie 22 Absatz 3 des
@@ -498,26 +400,19 @@ TierGesG gelten sinngemäß.
 (4) Besteht aufgrund dieser Satzung ein Anspruch auf Erstattung der tatsächlich entstandenen Kosten, so
 wird die Beihilfe nur in Höhe des Nettorechnungsbetrages gewährt, wenn die Tierhalterin oder der Tierhalter
 vorsteuerabzugsberechtigt ist.
-(5) Bestehen aufgrund dieser Satzung für dasselbe Tier mehrere Ansprüche auf Leistungen der Tierseu-
-chenkasse, so wird die Beihilfe mit dem höchsten Betrag ausgezahlt. Die übrigen Ansprüche entfallen. Zu-
-sätzlich zu einer Entschädigung nach dem Tiergesundheitsgesetz dürfen Beihilfen für Tierverluste nicht ge-
-währt werden.
+(5) Bestehen aufgrund dieser Satzung für dasselbe Tier mehrere Ansprüche auf Leistungen der Tierseuchenkasse, so wird die Beihilfe mit dem höchsten Betrag ausgezahlt. Die übrigen Ansprüche entfallen. Zusätzlich zu einer Entschädigung nach dem Tiergesundheitsgesetz dürfen Beihilfen für Tierverluste nicht gewährt werden.
 (6) Entstehen für einen Bestand aufgrund dieser Satzung innerhalb eines Zeitraumes von 36 Monaten nach
 Entstehen eines Beihilfeanspruches mehrfach Ansprüche auf Zahlung von Beihilfen für Tierverluste für mehr
 als 20 Prozent des durchschnittlich bei den letzten drei Beitragserhebungen zugrunde gelegten Bestandes der
-jeweiligen Tierart wegen des wiederholten Auftretens derselben Tierseuche oder wegen des Auftretens ver-
-schiedener beihilfefähiger Tierseuchen innerhalb des genannten Zeitraumes, so kann der Vorstand die Beihil-
-fen für den zweiten Schadensfall und eventuelle folgende Schadensfälle ganz oder teilweise versagen oder
+jeweiligen Tierart wegen des wiederholten Auftretens derselben Tierseuche oder wegen des Auftretens verschiedener beihilfefähiger Tierseuchen innerhalb des genannten Zeitraumes, so kann der Vorstand die Beihilfen für den zweiten Schadensfall und eventuelle folgende Schadensfälle ganz oder teilweise versagen oder
 von der vorherigen Erfüllung bestimmter Auflagen abhängig machen.
-(7) Die Gewährung von Beihilfen kann nach § 36 Abs. 1 Satz 1 Verwaltungsverfahrensgesetz mit Neben-
-bestimmungen versehen werden.
+(7) Die Gewährung von Beihilfen kann nach § 36 Abs. 1 Satz 1 Verwaltungsverfahrensgesetz mit Nebenbestimmungen versehen werden.
 § 9
 Empfänger der Beihilfe
 (1) Beihilfen für Tierverluste werden, sofern eine andere Berechtigte oder ein anderer Berechtigter nicht
 bekannt ist, an diejenige bzw. denjenigen ausgezahlt, in deren bzw. dessen Gewahrsam oder Obhut sich das
 Tier zur Zeit des Todes oder der Anordnung der behördlichen Maßnahmen befunden hat. Werden die Beihilfen
-Unternehmen gewährt, dann dürfen diese nur an solche Unternehmen gewährt werden, die in der landwirt-
-schaftlichen Primärproduktion tätig sind. Von der Förderung ausgeschlossen sind Unternehmen, die einer
+Unternehmen gewährt, dann dürfen diese nur an solche Unternehmen gewährt werden, die in der landwirtschaftlichen Primärproduktion tätig sind. Von der Förderung ausgeschlossen sind Unternehmen, die einer
 Rückforderungsanordnung aufgrund eines früheren Beschlusses der EU-Kommission zur Feststellung der
 Rechtswidrigkeit und Unvereinbarkeit einer Bei hilfe mit dem Binnenmarkt nicht Folge geleistet haben.
 (2) Beihilfen, die in Form von Sachleistungen gewährt werden, erhalten diejenigen, in deren Bestand die
@@ -526,13 +421,9 @@ vorbeugenden Maßnahmen durchzuführen sind, sofer n andere Berechtigte nicht be
 (4) § 21 Absätze 3 und 4 TierGesG ge lten sinngemäß.
 § 10
 Rückzahlungsverpflichtung
-Bei Verstößen gegen die Vorschriften eines gesetzlichen oder freiwilligen amtlichen Bekämpfungsverfah-
-rens oder bei Austritt aus einem Verfahren vor Ablauf der festgelegten Mindestbeteiligungsfristen ist der oder
-die Beihilfeberechtigte verpflichtet, die aufgrund von § 2 oder § 5 Abs. 1 bis 3 gewährten Leistungen unver-
-züglich rückabzuwickeln. Forderungen aus Rückforderungen kann die Tierseuchenkasse gegen Leistungsan-
-sprüche des Beihilfe berechtigten aufgrund dieser Satzung aufrechnen.
+Bei Verstößen gegen die Vorschriften eines gesetzlichen oder freiwilligen amtlichen Bekämpfungsverfahrens oder bei Austritt aus einem Verfahren vor Ablauf der festgelegten Mindestbeteiligungsfristen ist der oder
+die Beihilfeberechtigte verpflichtet, die aufgrund von § 2 oder § 5 Abs. 1 bis 3 gewährten Leistungen unverzüglich rückabzuwickeln. Forderungen aus Rückforderungen kann die Tierseuchenkasse gegen Leistungsansprüche des Beihilfe berechtigten aufgrund dieser Satzung aufrechnen.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 12
 § 11
 Inkrafttreten; Außerkrafttreten
 (1) Die Satzung tritt am 01.05.2024 in Kraft.
@@ -548,10 +439,8 @@ Anlage 1
 (zu § 2 Nr . 1.1)
 Listeriose der Rinder, Schafe und Ziegen – Beihilfe für Tierverluste
 Zur Bekämpfung der Listeriose sind folgende Maßnahmen zu ergreifen:
-– Weisen klinische Symptome auf das Vorliegen einer Listeriose hin und ist eine entsprechende Behand-
-lung nicht erfolgreich, ist eine postmortale Diagnostik auf Listeriose durchzuführen.
-– Bei vermehrtem Auftreten von Listeriose im Bestand ist eine epidemiologische Abklärung der Infektions-
-quelle durchzuführen.
+– Weisen klinische Symptome auf das Vorliegen einer Listeriose hin und ist eine entsprechende Behandlung nicht erfolgreich, ist eine postmortale Diagnostik auf Listeriose durchzuführen.
+– Bei vermehrtem Auftreten von Listeriose im Bestand ist eine epidemiologische Abklärung der Infektionsquelle durchzuführen.
 Anlage 2
 (zu § 2 Nr . 2)
 Niedersächsisches Programm zur Reduktion der
@@ -560,43 +449,33 @@ in betroffenen Beständen
 1. Zielsetzung
 Ziel des Niedersächsischen Programms zur Reduktion der MAP-Prävalenz in betroffenen Beständen ist
 die Förderung der Tiergesundheit und Wirtschaftlichkeit der niedersächsischen Rinderhaltungen. Dabei sollen
-eine Weiterverbreitung von MAP in andere Betriebe gehemmt und die wirtschaftlichen Schäden in den infizier-
-ten Betrieben deutlich reduziert werden.
+eine Weiterverbreitung von MAP in andere Betriebe gehemmt und die wirtschaftlichen Schäden in den infizierten Betrieben deutlich reduziert werden.
 2. Maßnahmen
 Zur Erreichung des Ziels sind folgende Maßnahmen zu ergreifen:
 a) Untersuchungen
-Zwei Mal pro Jahr werden Sammelmilchproben bzw. jährlich werden Einzelblutproben oder eine Kombi-
-nation von Einzelgemelken und Blutproben (Trockensteher) von Zuchttieren > 24 Monate serologisch auf
+Zwei Mal pro Jahr werden Sammelmilchproben bzw. jährlich werden Einzelblutproben oder eine Kombination von Einzelgemelken und Blutproben (Trockensteher) von Zuchttieren > 24 Monate serologisch auf
 MAP untersucht. In Beständen, in denen dabei ein nicht -negatives Ergebnis in einer Sammelmilchprobe
 festgestellt wurde, müssen innerhalb von zwei Monaten Einzelgemelke oder Einzelblutproben aller nicht
 bereits bekannten positiven Tiere älter als 24 Monate serologisch untersucht werden. Wenn in diesen
 Betrieben der Anteil der MAP-Antikörper positiven Tiere unter 2 Prozent gesunken ist, kann der Betrieb
 wieder an der Sammelmilchuntersuchung teilnehmen.
-b) Erstellung von MAP-Verminderungsplänen und Durchführung sowie Kontrolle des Erfolges von Hygiene-
-maßnahmen in betroffenen Beständen
+b) Erstellung von MAP-Verminderungsplänen und Durchführung sowie Kontrolle des Erfolges von Hygienemaßnahmen in betroffenen Beständen
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 13
-Da die Verhinderung der Infektion junger Tiere im Bestand ein maßgebliches Instrument zur Prävalenz-
-senkung ist, ist die Durchführung entsprechender Hygienemaßnahmen unumgänglich. Innerhalb von
+Da die Verhinderung der Infektion junger Tiere im Bestand ein maßgebliches Instrument zur Prävalenzsenkung ist, ist die Durchführung entsprechender Hygienemaßnahmen unumgänglich. Innerhalb von
 sechs Wochen nach der Abgabe der Verpflichtungserklärung bei der kommunalen Veterinärbehörde ist
 ein betriebsspezifisches Biosicherheitskonzept unter Berücksichtigung des Leitfadens Biosicherheit in
-Rinderhaltungen einschließlich der Paratuberkulose- Anlage zu erarbeiten. Dieses ist innerhalb eines Jah-
-res auf seine Wirksamkeit zu überprüfen und an die aktuelle Lage anzupassen sowie fortzuschreiben.
+Rinderhaltungen einschließlich der Paratuberkulose- Anlage zu erarbeiten. Dieses ist innerhalb eines Jahres auf seine Wirksamkeit zu überprüfen und an die aktuelle Lage anzupassen sowie fortzuschreiben.
 Der Tierseuchenkasse ist jährlich eine Kopie des ausgearbeiteten aktuellen MAP-Verminderungsplans
-(vollständig ausgefüllter Vordruck der Tierseuchenkasse) mit Unterschrift der Tierhalterin oder des Tier-
-halters und der betreuenden Tierärztin oder des betreuenden Tierarztes vorzulegen.
+(vollständig ausgefüllter Vordruck der Tierseuchenkasse) mit Unterschrift der Tierhalterin oder des Tierhalters und der betreuenden Tierärztin oder des betreuenden Tierarztes vorzulegen.
 Der MAP-Verminderungsplan ist für die gesamte Dauer der Teilnahme am Niedersächsischen Programm
 zur Verminderung der Paratuberkulose Prävalenz fortzuschreiben, unabhängig von der vorliegenden
 MAP-Prävalenz. Im infizierten Betrieb ist von der Tierhalterin oder vom Tierhalter gemeinsam mit der
-Hoftierärztin oder dem Hoftierarzt ein betriebsspezifischer MAP-Verminder ungsplan schriftlich zu erstel-
-len, der folgende Punkte umfassen muss:
+Hoftierärztin oder dem Hoftierarzt ein betriebsspezifischer MAP-Verminder ungsplan schriftlich zu erstellen, der folgende Punkte umfassen muss:
 – Registriernummer nach VVVO, im Falle einer seuchenhygienischen Einheit mit anderen Betrieben,
 auch die Registriernummern dieser Betriebe
 – Ist-Beschreibung
-– Prävalenzerfassung für alle untersuchungsfähigen Tiere anhand der individuell en Untersu-
-chungsergebnisse
-– Beurteilung der Situation der Biosicherheit anhand des Leitfadens Biosicherheit in Rinderhal-
-tungen
+– Prävalenzerfassung für alle untersuchungsfähigen Tiere anhand der individuell en Untersuchungsergebnisse
+– Beurteilung der Situation der Biosicherheit anhand des Leitfadens Biosicherheit in Rinderhaltungen
 – Zielfestlegung für die Verminderung
 – Festlegung der weiteren Maßnahmen wie z.B.
 – weitere Untersuchungen
@@ -612,24 +491,18 @@ auf MAP vor der Einstallung
 – Klärung, was mit den positiven Tieren geschieht und ob besondere h ygienische Maßnahmen
 erforderlich sind
 – Merzungsplan erstellen
-– Festlegung von Maßnahmen zur Nachbesserung bei Mängeln in der Biosicherheit in angemes-
-senem zeitlichen Rahmen
+– Festlegung von Maßnahmen zur Nachbesserung bei Mängeln in der Biosicherheit in angemessenem zeitlichen Rahmen
 – Evaluation und ggf. Korrektur mit den Messgrößen
 – Grad der Umsetzung der Maßnahmen zur Erhöhung der Biosicherheit an Hand der Checkliste
 – Wiederholung der Serologie (siehe Nr. 2 a)
 Der MAP- Verminderungsplan ist auf Veranlassung der Tierhalterin oder des Tierhalters zu Beginn der
 Maßnahmen zu erstellen, jährlich zu überprüfen und der Tierseuchenkasse vorzulegen. Bei Betrieben,
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 14
 die eine seuchenhygienische Einheit bilden, kann es sinnvoll sein, nur einen betriebsübergreifenden
 MAP-Verminderungsplan, der die ganze seuchenhygienische Einheit umfasst, zu erstellen.
 c) Entfernung positiver Tiere
-Tiere, die serologisch positiv reagieren, scheiden MAP mit einer hohen Wahrscheinlichkeit aus. Sie müs-
-sen mit einer roten Ohrmarke gekennzeichnet werden, dürfen nicht belegt werden und müssen den Be-
-trieb schnellstmöglich, spätestens 18 Monate nach Vorliegen des MAP-positiven Laborbefundes, verlas-
-sen. Die Tiere dürfen dann nicht im letzten Drittel der Trächtigkeit sein. Dies gilt auch für Tiere, bei denen
-ein Erregernachweis mit positivem Ergebnis geführt wurde. Tiere, bei denen bereits vor Beitritt zum MAP-
-Verminderungsprogramm MAP-Antikörper nachgewiesen wurden, müssen innerhalb von 6 Monaten
+Tiere, die serologisch positiv reagieren, scheiden MAP mit einer hohen Wahrscheinlichkeit aus. Sie müssen mit einer roten Ohrmarke gekennzeichnet werden, dürfen nicht belegt werden und müssen den Betrieb schnellstmöglich, spätestens 18 Monate nach Vorliegen des MAP-positiven Laborbefundes, verlassen. Die Tiere dürfen dann nicht im letzten Drittel der Trächtigkeit sein. Dies gilt auch für Tiere, bei denen
+ein Erregernachweis mit positivem Ergebnis geführt wurde. Tiere, bei denen bereits vor Beitritt zum MAPVerminderungsprogramm MAP-Antikörper nachgewiesen wurden, müssen innerhalb von 6 Monaten
 nach Beitritt zum Programm aus der Herde entfernt werden bzw. tragende Tiere spätestens 14 Tage nach
 der Kalbung.
 
@@ -645,22 +518,17 @@ Betriebs-Registrier-Nr.: 03 - - -
 Betriebs-Registrier-Nr.: 03 - - -
 An die zuständige kommunale Veterinärbehörde:
 Hiermit verpflichte ich mich für den Zeitraum von fünf Jahren die in der Anlage 2 der Beihilfesatzung der
-Tierseuchenkasse genannten Maßnahmen zu beachten und durchzuführen. Sofern der Betrieb eine seuchen-
-hygienische Einheit mit einem anderen Betrieb bildet, müssen die Partnerbetriebe diese Verpflichtungserklä-
-rung ebenfalls unterzeichnen.
-Des Weiteren verpflichte ich mich, innerhalb des Verpflichtungszeitraumes meiner Melde- und Beitragsver-
-pflichtung gegenüber der Tierseuchenkasse ordnungsgemäß nachzukommen. Ich beantrage die Gewährung
+Tierseuchenkasse genannten Maßnahmen zu beachten und durchzuführen. Sofern der Betrieb eine seuchenhygienische Einheit mit einem anderen Betrieb bildet, müssen die Partnerbetriebe diese Verpflichtungserklärung ebenfalls unterzeichnen.
+Des Weiteren verpflichte ich mich, innerhalb des Verpflichtungszeitraumes meiner Melde- und Beitragsverpflichtung gegenüber der Tierseuchenkasse ordnungsgemäß nachzukommen. Ich beantrage die Gewährung
 der Beratungsleistungen der vorbeugenden Seuchenbekämpfung.
 Mir ist bekannt, dass die Tierseuchenkasse die von ihr für die Paratuberkulose- Bekämpfung in meinem
 Bestand erbrachten Leistungen im Falle der Nichteinhaltung der in dieser Anlage genannten Maßnahmen,
 einschließlich des Nichtumsetzens des erstellten MAP Verminderungsplans, zurückfordern kann.
 Ein Anspruch auf eine Beihilfe wegen Paratuberkulose für Tierverluste und Folgeberatungen entsteht
-grundsätzlich erst nach Abgabe der unterzeichneten Verpflichtungserklärung bei der zuständigen kommuna-
-len Veterinärbehörde.
+grundsätzlich erst nach Abgabe der unterzeichneten Verpflichtungserklärung bei der zuständigen kommunalen Veterinärbehörde.
 Ort, Datum ....................................... ..........................................
 Unterschrift Tierhalter/in
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 15
 Ort, Datum ....................................... ..........................................
 Unterschrift Tierhalter/in SE1
 
@@ -675,8 +543,7 @@ Anlage 3
 Q-Fieber
 Zur Bekämpfung des Q-Fiebers sind folgende Maßnahmen zu ergreifen:
 1. Untersuchung
-Lassen klinische Symptome in Rinder-, Schaf- oder Ziegenbeständen den Ausbruch von Q-Fieber be-
-fürchten, so ist eine Untersuchung auf Coxiella burnetii mittels PCR in einem von der Tierseuchenkasse
+Lassen klinische Symptome in Rinder-, Schaf- oder Ziegenbeständen den Ausbruch von Q-Fieber befürchten, so ist eine Untersuchung auf Coxiella burnetii mittels PCR in einem von der Tierseuchenkasse
 benannten Institut durchzuführen.
 2. Impfung
 Ist der Nachweis von Coxiella burnetii erfolgt, sind alle impffähigen Tiere des Bestandes einer
@@ -687,18 +554,15 @@ PCR den Impferfolg zu kontrollieren und weiterhin positive Tiere (chronisch infi
 4. Fragebogen
 Zur Weiterentwicklung des Programms und zur Gewinnung neuer Erkenntnisse über die Erkrankung ist
 die Erhebung von Daten aus den betroffenen Betrieben erforderlich. Daher ist von den Tierhalterinnen
-und Tierhaltern in Zusammenarbeit mit den Hoftierärztinnen und Hoftierärzten ein von der Tierseuchen-
-kasse vorgegebener Fragebogen auszufüllen und der Tierseuchenkasse zur Verfügung zu stellen.
+und Tierhaltern in Zusammenarbeit mit den Hoftierärztinnen und Hoftierärzten ein von der Tierseuchenkasse vorgegebener Fragebogen auszufüllen und der Tierseuchenkasse zur Verfügung zu stellen.
 Dieser Fragebogen enthält Angaben zu folgenden Punkten:
 – Allgemeine Angaben zur Betriebsstruktur
 – Leistungsdaten des Betriebes bezogen auf die letzten 12 Monate
 – Klinische Symptomatik der Tiere in Bezug auf Q-Fieber vor der Impfung
 – Freiwillige Angaben zur klinischen Symptomatik der Tierhalterin oder des Tierhalters in Bezug auf
 Q-Fieber
-– Angaben zur Veränderung der klinischen Symptomatik der Tiere, insbesondere a uch nach der Imp-
-fung.
+– Angaben zur Veränderung der klinischen Symptomatik der Tiere, insbesondere a uch nach der Impfung.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 16
 Anlage 4 a
 (zu § 2 Nr. 5.1)
 Verpflichtungserklärung Salmonellen Hennen
@@ -706,29 +570,19 @@ zum Verfahren zur Bekämpfung der Salmonella enteritidis (SE)
 und Salmonella typhimurium (ST) Infektion in Legehennenbeständen
 und Hühneraufzuchtbeständen ab einer Größe von 350 Tieren sowie
 in Hühnerzuchtbetrieben ab einer Größe von 250 Tieren
-Ich schließe mich dem Verfahren an und verpflichte mich, auf der Basis des Leitfadens „Salmonellenbe-
-kämpfung bei Legehennen“ des Zentralverbandes der Deutschen Geflügelwirtschaft e. V. zusammen mit
-der/dem den Bestand betreuenden Tierärztin/Tierarzt unverzüglich jedoch spätestens zwei Monate nach Bei-
-tritt zum Verfahren einen bestandsspezifischen Impf-, Reinigungs- und Desinfektionsplan zu erstellen und
-durchzuführen. Dabei werden in jedem Fall die nachfolgend unter Ziff. I und II enthaltenen Vorgaben zur Imp-
-fung und Hygiene beachtet und durchgeführt.
-Eine Durchschrift des Impf-, Reinigungs- und Desinfektionsplans wird der zuständigen kommunalen Vete-
-rinärbehörde unverzüglich übersandt. Die Einhaltung des Impf-, Reinigungs- und Desinfektionsplans wird von
+Ich schließe mich dem Verfahren an und verpflichte mich, auf der Basis des Leitfadens „Salmonellenbekämpfung bei Legehennen“ des Zentralverbandes der Deutschen Geflügelwirtschaft e. V. zusammen mit
+der/dem den Bestand betreuenden Tierärztin/Tierarzt unverzüglich jedoch spätestens zwei Monate nach Beitritt zum Verfahren einen bestandsspezifischen Impf-, Reinigungs- und Desinfektionsplan zu erstellen und
+durchzuführen. Dabei werden in jedem Fall die nachfolgend unter Ziff. I und II enthaltenen Vorgaben zur Impfung und Hygiene beachtet und durchgeführt.
+Eine Durchschrift des Impf-, Reinigungs- und Desinfektionsplans wird der zuständigen kommunalen Veterinärbehörde unverzüglich übersandt. Die Einhaltung des Impf-, Reinigungs- und Desinfektionsplans wird von
 der/dem den Bestand betreuenden Tierärztin/Tierarzt sowie der Hygienemaßnahmen wird von der/dem den
-Bestand betreuenden Tierärztin/Tierarzt während der Bestandsbesuche und über Abklatsch- und Tupferpro-
-ben überprüft.
+Bestand betreuenden Tierärztin/Tierarzt während der Bestandsbesuche und über Abklatsch- und Tupferproben überprüft.
 Die Impfung und die Kontrolle der Reinigung und Desinfektion, inkl. bakteriologischer Befunde, werden von
-der/dem den Bestand betreuenden Tierärztin/Tierarzt dokumentiert; die Abgabe von Tieren an Legehennen-
-bestände erfolgt unter Beifügung einer tierärztlichen Impfbescheinigung.
-Der Impf-, Reinigungs- und Desinfektionsplan, die Prüfprotokolle, die Impfbescheinigungen, Untersu-
-chungsergebnisse und sonstigen Unterlagen werden drei Jahre aufbewahrt und der zuständigen Veterinärbe-
-hörde oder der Tierseuchenkasse auf Anforderung vorgelegt.
+der/dem den Bestand betreuenden Tierärztin/Tierarzt dokumentiert; die Abgabe von Tieren an Legehennenbestände erfolgt unter Beifügung einer tierärztlichen Impfbescheinigung.
+Der Impf-, Reinigungs- und Desinfektionsplan, die Prüfprotokolle, die Impfbescheinigungen, Untersuchungsergebnisse und sonstigen Unterlagen werden drei Jahre aufbewahrt und der zuständigen Veterinärbehörde oder der Tierseuchenkasse auf Anforderung vorgelegt.
 Mir ist bekannt, dass die Tierseuchenkasse die von ihr für Salmonellose in meinem Bestand erbrachten
 Leistungen im Falle der Nichteinhaltung der in Anlage 4 a genannten Auflagen zurückfordern kann.
 Ziff. I Impfprogramm für Junghennen- und Legehennen haltende Betriebe
-Das Impfprogramm der Junghennen ist nach Rücksprache mit der betreuenden Tierärztin/dem betreuen-
-den Tierarzt durchzuführen. Der aufnehmende Betrieb hat sich die Impfungen der Junghennen vom Aufzucht-
-betrieb bescheinigen zu lassen.
+Das Impfprogramm der Junghennen ist nach Rücksprache mit der betreuenden Tierärztin/dem betreuenden Tierarzt durchzuführen. Der aufnehmende Betrieb hat sich die Impfungen der Junghennen vom Aufzuchtbetrieb bescheinigen zu lassen.
 1. Elterntieraufzucht Legehennenbereich
 – Je nach Angaben des Herstellers 2 – 3 x SE als Lebendimpfstoff über das Trinkwasser.
 – 2 x SE als Totimpfstoff per Injektion im Abstand von 4 - 6 Wochen
@@ -739,17 +593,13 @@ Impfung mit SE-Totimpfstoff per Injektion besteht.
 3. Legehennen bei positivem SE-Befund im vorherigen Durchgang
 – Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
 – Zusätzlich: 1 x SE als Totvakzine per Injektion 4 Wochen vor der Umstallung in den Legebetrieb
-Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eier-
-bänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
+Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eierbänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 17
 4. Legehennen bei positivem ST- Befund im vorherigen Durchgang
-– Je nach Angaben des Herstellers 2 – 3 x SE und 3 x ST als Lebendvakzine gleichzeitig über das Trink-
-wasser.
+– Je nach Angaben des Herstellers 2 – 3 x SE und 3 x ST als Lebendvakzine gleichzeitig über das Trinkwasser.
 – Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST Kombi Totvakzine per Injektion 4 Wochen vor der
 Umstallung in den Legebetrieb
-Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eier-
-bänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
+Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eierbänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
 5. Legehennen bei „multiple-age-Haltung" in einem Stall
 – Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
 – Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST als Kombi- Totvakzine per Injektion 4 Wochen vor der
@@ -762,21 +612,15 @@ Legehennen umgestellt hat.
 Ziff. II Hygienemaßnahmen
 Es sind die allgemein erforderlichen Hygienemaßnahmen durchzuführen.
 Daneben gilt insbesondere:
-– Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzu-
-führen.
-– Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebn isse auf Salmonellen vorlie-
-gen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
+– Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
+– Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebn isse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
 Untersuchung im Rahmen des betriebseigenen HACCP- Konzeptes nach Futtermittelhygieneverordnung
 angefordert werden.
-– Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten bauli-
-chen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
+– Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
 – Erforderlich ist die feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem
-Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnah-
-men mittels Abklatsch- und Tupferproben auf Salmonellen, die Dokumentation der Reinigung und Desin-
-fektion mittels Stallkarte, die Dokumentation des Untersuchungsergebnisses und des Reinigungs- und
+Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnahmen mittels Abklatsch- und Tupferproben auf Salmonellen, die Dokumentation der Reinigung und Desinfektion mittels Stallkarte, die Dokumentation des Untersuchungsergebnisses und des Reinigungs- und
 Desinfektionsplans.
-– Die Reinigung und Desinfektion von Transportfahrzeugen ist vor Benutzung z u überprüfen und zu doku-
-mentieren.
+– Die Reinigung und Desinfektion von Transportfahrzeugen ist vor Benutzung z u überprüfen und zu dokumentieren.
 – Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und n ur dann Zugang zu den
 Ställen und Haltungseinrichtungen erhalten, wenn d ies unbedingt erforderlich ist. Über das Betreten durch
 betriebsfremde Personen ist Buch zu führen (Besucherbuch).
@@ -787,10 +631,7 @@ vorhanden sein und genutzt werden.
 Die Schutz- oder Einwegschutzkleidung ist nach Verlassen des Stalles oder sonstigen Standorts des
 Geflügels unverzüglich abzulegen.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 18
-– Es sind regelmäßige Schädlings- und Ektoparasiten- Bekämpfungsmaßnahmen durchzuführen. Die Wirk-
-samkeit der Maßnahmen ist zu überprüfen. Die Durchführung wie auch die Überprüfung sind zu doku-
-mentieren.
+– Es sind regelmäßige Schädlings- und Ektoparasiten- Bekämpfungsmaßnahmen durchzuführen. Die Wirksamkeit der Maßnahmen ist zu überprüfen. Die Durchführung wie auch die Überprüfung sind zu dokumentieren.
 
 Anschrift des Betriebes:
 ………………………………………………………............................................................
@@ -807,26 +648,19 @@ Anlage 4 b
 Verpflichtungserklärung Salmonellen Puten
 zu dem Verfahren zur Bekämpfung der Salmonella spp. Infektionen
 in Putenzuchtbetriebe ab einer Größe von 250 Tieren
-Ich schließe mich dem Verfahren an und verpflichte mich, auf der Basis des Leitfadens „Salmonellenbe-
-kämpfung in der Hähnchen- und Putenhaltung“ des Zentralverbandes der Deutschen Geflügelwirtschaft e.V.
+Ich schließe mich dem Verfahren an und verpflichte mich, auf der Basis des Leitfadens „Salmonellenbekämpfung in der Hähnchen- und Putenhaltung“ des Zentralverbandes der Deutschen Geflügelwirtschaft e.V.
 zusammen mit der/dem den Bestand betreuenden Tierärztin/Tierarzt unverzüglich, jedoch spätestens zwei
-Monate nach Beitritt zum Verfahren, einen bestandsspezifischen Reinigungs- und Desinfektionsplan zu erstel-
-len und durchzuführen. Dabei werden die nachfolgend enthaltenen Vorgaben zur Hygiene beachtet und durch-
-geführt.
+Monate nach Beitritt zum Verfahren, einen bestandsspezifischen Reinigungs- und Desinfektionsplan zu erstellen und durchzuführen. Dabei werden die nachfolgend enthaltenen Vorgaben zur Hygiene beachtet und durchgeführt.
 Die Einhaltung des Reinigungs- und Desinfektionsplans sowie der Hygienemaßnahmen wird von der/dem
 den Bestand betreuenden Tierärztin/Tierarzt während der Bestandsbesuche und Abklatsch- und Tupferproben
-unter Erstellung eines Protokolls überprüft. Der Reinigungs- und Desinfektionsplan, die Prüfprotokolle, Unter-
-suchungsergebnisse und sonstigen Unterlagen werden drei Jahre aufbewahrt und der zuständigen Veterinär-
-behörde oder der Tierseuchenkasse auf Anforderung vorgelegt.
+unter Erstellung eines Protokolls überprüft. Der Reinigungs- und Desinfektionsplan, die Prüfprotokolle, Untersuchungsergebnisse und sonstigen Unterlagen werden drei Jahre aufbewahrt und der zuständigen Veterinärbehörde oder der Tierseuchenkasse auf Anforderung vorgelegt.
 Mir ist bekannt, dass die Tierseuchenkasse die von ihr für Salmonellose in meinem Bestand erbrachten
 Leistungen im Falle der Nichteinhaltung der in Anl a g e 4 b genannten Auflagen zurückfordern kann.
 Hygienemaßnahmen
 Es sind die allgemein erforderlichen Hygienemaßnahmen durchzuführen.
 Daneben gilt insbesondere:
-– Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzu-
-führen.
+– Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 19
 – Betriebsfremden Personen mit möglichem direkten Kontakt zu externen Keimreservoiren (Besuch einer
 externen Tierhaltung) wie z. B. Besucher, Dienstleister, Laborpersonal etc. wird eine Wartezeit von 72
 Stunden auferlegt. Das Duschen und der Kleidungswechsel beim Betreten des Produktionsbereiches ist
@@ -837,17 +671,14 @@ Pflicht. Im Einzelnen bedeutet das:
 – Kopfbedeckung,
 – Händedesinfektion.
 – Jeder Betrieb und jede Betriebsabteilung muss eine Hygieneschleuse aufweisen. An Stalleingängen und
-Stallausgängen müssen funktionstüchtige Einrichtungen zur Schuhdesinfektion vorhanden sein und ge-
-nutzt werden. Bei Betreten des Stallinneren werden ein Schuhwechsel und eine Handdesinfektion durch-
-geführt.
+Stallausgängen müssen funktionstüchtige Einrichtungen zur Schuhdesinfektion vorhanden sein und genutzt werden. Bei Betreten des Stallinneren werden ein Schuhwechsel und eine Handdesinfektion durchgeführt.
 – Die Ställe dürfen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden.
 Die Schutz- oder Einwegschutzkleidung ist nach Verlassen des Stalles oder sonstigen Standorts des
 Geflügels unverzüglich abzulegen.
 – Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und nur dann Zugang zu den
 Ställen und Haltungseinrichtungen erhalten, wenn dies unbedingt erforderlich ist. Über das Betreten durch
 betriebsfremde Personen ist Buch zu führen (Besucherbuch).
-– Alle Anlieferungen mit Fahrzeugen (z. B. Flüssiggasfahrzeuge, Futterfahrzeuge etc.) erhalten bei Befah-
-ren des Betriebsgeländes eine Reifendesinfektion. Die Fahrzeuge haben mindestens 48 Stunden vorher
+– Alle Anlieferungen mit Fahrzeugen (z. B. Flüssiggasfahrzeuge, Futterfahrzeuge etc.) erhalten bei Befahren des Betriebsgeländes eine Reifendesinfektion. Die Fahrzeuge haben mindestens 48 Stunden vorher
 keine anderen Tierhaltungsanlagen, außer Puten- Elterntierfarmen, angefahren. Es ist darauf zu achten,
 dass die Bereiche vor den Stalltüren und - toren befestigt sind und gereinigt werden können.
 – Der betriebsübergreifende Einsatz von Einstreumaschinen ohne vorherige Reinigung und Desinfektion
@@ -858,24 +689,15 @@ auf befestigtem Untergrund (z.
 B. Pflasterung, Beton, etc.).
 – Alle Bewegungen von Technik, Fahrzeugen und Personen (außer das Stammpersonal des betroffenen
 Produktionsbereiches) müssen in Besucher- und Fahrzeugbüchern dokumentiert werden.
-– Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorlie-
-gen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
+– Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
 Untersuchung im Rahmen des betriebseigenen HACCP-Konzeptes nach Futtermittelhygieneverordnung
 angefordert werden.
-– Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten bauli-
-chen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
-– Nach jedem Durchgang wird der Geflügelmist und ggf. restliches Einstreumaterial aus den Ställen voll-
-ständig entfernt und auf direktem Weg aus dem Betrieb abgefahren.
-– Erforderlich ist eine feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach je-
-dem Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaß-
-nahmen mittels Abklatsch- und Tupferproben auf Salmonellen sowie die Dokumentation der Reinigung
-und Desinfektion mittels Stallkarte, des Untersuchungsergebnisses und des Reinigungs- und Desinfekti-
-onsplans.
-– Es sind regelmäßige Schädlings- und Ektoparasitenbekämpfungsmaßnahmen durchzuführen. Die Wirk-
-samkeit der Maßnahmen ist zu überprüfen. Die Durchführung als auch die Überprüfung sind zu doku-
-mentieren.
+– Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
+– Nach jedem Durchgang wird der Geflügelmist und ggf. restliches Einstreumaterial aus den Ställen vollständig entfernt und auf direktem Weg aus dem Betrieb abgefahren.
+– Erforderlich ist eine feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnahmen mittels Abklatsch- und Tupferproben auf Salmonellen sowie die Dokumentation der Reinigung
+und Desinfektion mittels Stallkarte, des Untersuchungsergebnisses und des Reinigungs- und Desinfektionsplans.
+– Es sind regelmäßige Schädlings- und Ektoparasitenbekämpfungsmaßnahmen durchzuführen. Die Wirksamkeit der Maßnahmen ist zu überprüfen. Die Durchführung als auch die Überprüfung sind zu dokumentieren.
 
-Nds. MBl. 2024 Nr. 183 vom 23. April 2024 Seite 20
 Anschrift des Betriebes:
 ………………………………………………………............................................................
 …………………………………………………………………………………........................

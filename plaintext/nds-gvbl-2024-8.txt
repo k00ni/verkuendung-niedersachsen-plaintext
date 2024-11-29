@@ -24,26 +24,18 @@ Luftfahrzeuge PPR.
 Die Segelflugbetriebsfläche ist für Segelflugzeuge im
 Winden- und Flugzeugschleppstart, die Landung von
 Schleppflugzeugen mit anhängendem Schleppseil und
-für den Betrieb mit selbststartenden Motorseglern zu-
-gelassen.“
+für den Betrieb mit selbststartenden Motorseglern zugelassen.“
 2. Nummer 9.4 erhält folgende Fassung:
-„9.4 Zum Schutz der Bevölkerung vor Fluglärm wird der nichtgewerbliche zivile Flugbetrieb mit Flug-
-zeugen bis zu 2 000 kg höchstzulässiger Startmasse und Motorseglern wie folgt zeitlich einge-
-schränkt:
+„9.4 Zum Schutz der Bevölkerung vor Fluglärm wird der nichtgewerbliche zivile Flugbetrieb mit Flugzeugen bis zu 2 000 kg höchstzulässiger Startmasse und Motorseglern wie folgt zeitlich eingeschränkt:
 Samstags, sonntags und an gesetzlichen Feiertagen von 13.00 bis 15.00 Uhr Ortszeit sind
-1. Flüge mit Start- und Landeort Braunschweig und einer Flugzeit von weniger als 30 Minu-
-ten,
+1. Flüge mit Start- und Landeort Braunschweig und einer Flugzeit von weniger als 30 Minuten,
 2. Platzrundenflüge, mit oder ohne Aufsetzen und Durchstarten,
 3. IFR-Trainingsanflüge mit weniger als 30 Minuten zeitlichem Abstand zwischen Start und
 Anflug bzw. zwei Anflügen; als Zeitpunkt des Anflugs gilt der Zeitpunkt der Erteilung der
 entsprechenden Flugverkehrskontrollfreigabe sowie
 
-Nds. MBl. 2024 Nr. 8 vom 9. Januar 2024 Seite 2
-4. Flugzeugschleppstarts, mit Ausnahme von Starts zu Überführungs- und Hochleistungsflü-
-gen, insbesondere zu Wettbewerbsflügen, Rekordflügen und -versuchen sowie zu Flügen
+4. Flugzeugschleppstarts, mit Ausnahme von Starts zu Überführungs- und Hochleistungsflügen, insbesondere zu Wettbewerbsflügen, Rekordflügen und -versuchen sowie zu Flügen
 zur Erlangung eines Leistungsabzeichens
 unzulässig.
-Diese Betriebsbeschränkung gilt nicht für Flugzeuge und Motorsegler, die erhöhten Schall-
-schutzanforderungen entsprechen. Luftfahrzeuge entsprechen erhöhten Schallschutzanforde-
-rungen i. S. dieser Betriebsbeschränkung, wenn für sie ein Lärmzeugnis ausgestellt wurde und
+Diese Betriebsbeschränkung gilt nicht für Flugzeuge und Motorsegler, die erhöhten Schallschutzanforderungen entsprechen. Luftfahrzeuge entsprechen erhöhten Schallschutzanforderungen i. S. dieser Betriebsbeschränkung, wenn für sie ein Lärmzeugnis ausgestellt wurde und
 die in § 4 Abs. 3 Landeplatz-LärmschutzV genannten Lärmwerte eingehalten werden.“

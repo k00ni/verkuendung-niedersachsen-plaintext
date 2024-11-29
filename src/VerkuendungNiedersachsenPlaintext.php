@@ -39,7 +39,7 @@ class VerkuendungNiedersachsenPlaintext
             $urlToPdfDownload = $this->buildUrl($entry);
 
             // generate a full filename for the file itself
-            $plaintextDocument = $this->generateFilename($entry);
+            $plaintextDocument = str_replace('.pdf', '.txt', $entry['mainDocment']);
             $localPdfFilepath = $pdfCacheFolderpath.$entry['mainDocment'];
             $localTxtFilepath = $plaintextFolderpath.$plaintextDocument;
 
@@ -52,12 +52,9 @@ class VerkuendungNiedersachsenPlaintext
 
             $document = $pdfParser->parseFile($localPdfFilepath);
 
-            if (file_exists($localTxtFilepath)) {
-                // unlink($localTxtFilepath);
-            } else {
-                $plaintext = $this->enrichPlaintext($document->getText());
-                file_put_contents($localTxtFilepath, $plaintext);
-            }
+            // (re)generate plaintext file
+            $plaintext = $this->enrichPlaintext($document->getText());
+            file_put_contents($localTxtFilepath, $plaintext);
 
             // used in CSV file generation
             $verkuendungenArr[$key]['relatedPlaintextFile'] = $plaintextDocument;
@@ -66,11 +63,6 @@ class VerkuendungNiedersachsenPlaintext
         $this->generateCSVFileWithMetadata($verkuendungenArr);
 
         echo PHP_EOL;
-    }
-
-    public function generateFilename(array $entry): string
-    {
-        return str_replace('.pdf', '.txt', $entry['mainDocment']);
     }
 
     /**
@@ -98,15 +90,58 @@ class VerkuendungNiedersachsenPlaintext
         // Remove multiple whitespaces
         $plaintext = preg_replace('/[[:blank:]]{2,}/', ' ', $plaintext);
 
-        // Remove trailing whitespaces each line
-        $str = '';
-        foreach (explode(PHP_EOL, $plaintext) as $line) {
-            $str .= trim($line).PHP_EOL;
+        /*
+         * Change all words, which have one part in a line, then a dash and then the rest of the word continues on the next line.
+         * Remove the dash and line break, so the word is complete.
+         * This produces long lines of clean text.
+         *
+         * Example:                       this
+         *                                ||
+         *                                ||
+         *                                \/
+         * [...] die Leitung der Stiftungs-
+         * verwaltung hat die Rechtsstellung eines [...]
+         */
+        $regex = '/[a-zA-ZäöüßÄÖÜ]+\-\n[a-zA-ZüäöÜÄÖß]+/m';
+        preg_match_all($regex, $plaintext, $matches);
+
+        foreach ($matches[0] as $match) {
+            $fixedString = $match;
+            // remove line break
+            $fixedString = preg_replace('/\n/', '', $fixedString);
+            // remove the dash (-)
+            $fixedString = str_replace('-', '', $fixedString);
+
+            // now $fixedString should be a valid word
+
+            $plaintext = str_replace($match, $fixedString, $plaintext);
         }
 
-        $plaintext = $str;
+        // make sure that there are not more than 2 newlines after another
+        $plaintext = preg_replace('/\n{2,}/', PHP_EOL. PHP_EOL, $plaintext);
 
-        return $plaintext;
+        $str = '';
+        foreach (explode(PHP_EOL, $plaintext) as $line) {
+            /*
+             * Remove lines typically from the footer which usually contain no relevant information.
+             *
+             * Example:
+             *
+             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 1
+             *
+             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 2
+             *
+             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3
+             */
+            if (1 === preg_match("/^Nds.*?Seite\s+[0-9]+\s*$/m", $line)) {
+                continue;
+            }
+
+            // Remove trailing whitespaces each line
+            $str .= trim($line) . PHP_EOL;
+        }
+
+        return $str;
     }
 
     public function generateCSVFileWithMetadata(array $verkuendungenArr): void

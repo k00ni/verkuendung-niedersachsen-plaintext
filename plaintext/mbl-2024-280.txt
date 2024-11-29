@@ -18,8 +18,7 @@ Bezug: Erl. v. 10.05.2023 (Nds. MBl. S. 388), geändert durch
 Erl. v. 14.11.2023 (Nds. MBl. S. 933)
 — VORIS 21160 —
 
-Dieser Erl. regelt die umsatzsteuerrechtliche Behandlung von Amtshandlungen und Leistungen der Ver-
-messungs- und Katasterbehörden (im Folgenden: VKB) gemäß der KOVerm vom 25.03.2017 (Nds. GVBl.
+Dieser Erl. regelt die umsatzsteuerrechtliche Behandlung von Amtshandlungen und Leistungen der Vermessungs- und Katasterbehörden (im Folgenden: VKB) gemäß der KOVerm vom 25.03.2017 (Nds. GVBl.
 S. 68, 162), zuletzt geändert durch Verordnung vom 28.05.2024 (Nds. GVBl. 2024 Nr. 44).
 Bei der Abwicklung des Besteuerungsverfahrens sind die nachstehenden Hinweise zu beachten.
 1. Kosten nach der KOVerm
@@ -29,16 +28,12 @@ Der Umsatzsteuer in Höhe des Regelsteuersatzes unterliegen nach § 2 Abs. 3 Sat
 zum 31.12.2015 geltenden Fassung und Abschnitt 2.11 Abs. 7 bis 11 des Umsatzsteuer-Anwendungserlasses
 (UStAE) grundsätzlich die Gebühren aus folgenden Amtshandlungen und Leistungen:
 – Einsicht, Auskunft nach Nummer 1,
-– Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.1 sowie diesen zuzu-
-rechnenden Ergänzungen nach Nummer 2.4.1 und der Abruf nach Nummer 5.1.2.1,
-– Online- Abruf von Geobasisdaten des ALKIS über Web- Applikationen soweit es sich um Standardprä-
-sentationen des Liegenschaftskatasters nach Nummer 2.3.1 handelt,
+– Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 2.4.1 und der Abruf nach Nummer 5.1.2.1,
+– Online- Abruf von Geobasisdaten des ALKIS über Web- Applikationen soweit es sich um Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.3.1 handelt,
 – Anfertigung einer Mehrausfertigung nach Nummer 2.4.2, sofern das ursprüngliche Produkt selbst der
 Umsatzsteuer in Höhe des Regelsteuersatzes unterliegt,
 
-Nds. MBl. 2024 Nr. 280 vom 20. Juni 2024 Seite 2
-– Bereitstellung von digitalen ATKIS- Daten nach Nummer 3.3 sowie Rechte an den Daten nach den Num-
-mern 6.2.2 und 6.3,
+– Bereitstellung von digitalen ATKIS- Daten nach Nummer 3.3 sowie Rechte an den Daten nach den Nummern 6.2.2 und 6.3,
 – Planunterlage, Lageplan und Bescheinigung nach dem öffentlichen Baurecht nach Nummer 8,
 – Vermessung und Auswertung von Liegenschaftsvermessungen nach Nummer 9,
 – Liegenschaftsvermessungen und Arbeiten für Umlegungen nach dem BauGB nach den Nummern 12.1
@@ -55,8 +50,7 @@ Die Amtshandlungen der Aufsichtsbehörde unterliegen nicht der Umsatzsteuer.
 1.1.3 Anlage 3 – Berechnung des zu erstattenden Aufwandes nach § 2 Abs. 1 KOVerm
 Der Umsatzsteuer in Höhe des Regelsteuersatzes unterliegen grundsätzlich die Gebühren aus folgenden
 Amtshandlungen und Leistungen:
-– Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 1.1 sowie diesen zuzu-
-rechnenden Ergänzungen nach Nummer 1.3 und der Abruf nach Nummer 4.2.1,
+– Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 1.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 1.3 und der Abruf nach Nummer 4.2.1,
 – sonstige Geodaten- und Grafikserviceleistungen nach Nummer 6,
 soweit die Abgabe, der Abruf oder die Leistungen nicht an Landesbehörden, kommunale Körperschaften oder
 andere juristische Personen des öffentlichen Rechts erfolg en.
@@ -68,11 +62,7 @@ der Umsatzsteuer.
 1.2 Sonderregelungen
 1.2.1 Amtshandlungen und Leistungen für Einrichtungen des Landes
 Der Umsatzsteuer unterliegen nach Abschnitt 2.11 Abs. 7 Satz 7 UStAE nur Leistungen an Dritte.
-Amtshandlungen und Leistungen für andere unselbstständige Einrichtungen des Landes, z. B. für Lan-
-desbehörden und Landesbetriebe, stellen sogenannte Innenumsätze dar und unterliegen als solche man-
-gels zweier Beteiligter nicht der Umsatzsteuer nach § 1 Abs. 1 Nr. 1 UStG. Stiftungen, Anstalten und ähnli-
-che Einrichtungen des Landes mit eigener Rechtspersönlichkeit sind Dritte i. S. des UStG; für Amtshand-
-lungen und Leistungen an diese Einrichtungen fällt somit entsprechend den Regelungen in Abschnitt 1.1
+Amtshandlungen und Leistungen für andere unselbstständige Einrichtungen des Landes, z. B. für Landesbehörden und Landesbetriebe, stellen sogenannte Innenumsätze dar und unterliegen als solche mangels zweier Beteiligter nicht der Umsatzsteuer nach § 1 Abs. 1 Nr. 1 UStG. Stiftungen, Anstalten und ähnliche Einrichtungen des Landes mit eigener Rechtspersönlichkeit sind Dritte i. S. des UStG; für Amtshandlungen und Leistungen an diese Einrichtungen fällt somit entsprechend den Regelungen in Abschnitt 1.1
 dieses Erl. Umsatzsteuer an.
 1.2.2 Amtshilfe
 Nach § 2 Abs. 3 Nr. 4 UStG in der bis zum 31.12.2015 geltenden Fassung gelten Amtsh andlungen und
@@ -80,17 +70,14 @@ Leistungen der VKB, die im Rahmen der Amtshilfe geleistet werden, nicht als gewe
 Tätigkeit i. S. des UStG und sind nicht umsatzsteuerpflichtig.
 Amtshilfe liegt bei ergänzender Hilfe gegenüber Behörden anderer Rechtsträger vor
 
-Nds. MBl. 2024 Nr. 280 vom 20. Juni 2024 Seite 3
 – für Vermessungen und Auswertungen nach Anlage 1 Nr. 9 und im Zusammenhang damit für sonstige
-vermessungstechnische Arbeiten nach Anlage 1 Nr. 17 , sofern das Ersuchen von einer anderen be-
-hördlichen Vermessungsstelle nach § 6 Abs. 3 NVermG gestellt wird, und
+vermessungstechnische Arbeiten nach Anlage 1 Nr. 17 , sofern das Ersuchen von einer anderen behördlichen Vermessungsstelle nach § 6 Abs. 3 NVermG gestellt wird, und
 – für die Abgabe oder den Abruf von Standardpräsentationen des Liegenschaftskatasters nach § 2
 Abs. 1 KOVerm.
 2. Abrechnung von Gutachten nach dem JVEG
 Die von einem niedersächsischen Gericht oder einer niedersächsischen Justizbehörde beantragten und
 nach dem JVEG abzurechnenden Gutachten erfolgen gegenüber demselben Rechtsträger und unterliegen
-als Innenumsätze nicht der Umsatzsteuer. Entsprechende Gutachten für andere Gerichte und Justizbehör-
-den sind der Umsatzsteuer zum Regelsteuersatz zu unterwerfen.
+als Innenumsätze nicht der Umsatzsteuer. Entsprechende Gutachten für andere Gerichte und Justizbehörden sind der Umsatzsteuer zum Regelsteuersatz zu unterwerfen.
 3. Gebührenbefreiung und Gebührenermäßigung
 Werden Gebührenbefreiungen oder Gebührenermäßigungen gewährt, ist die Umsatzsteuer nur für den
 Betrag zu erheben, der nach Gewährung der Gebührenbefreiung oder Gebührenermäßigung verbleibt.

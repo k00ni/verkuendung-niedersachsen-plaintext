@@ -16,8 +16,7 @@ RdErl. d. ML v. 23.07.2024 – R2-60170/02/2024 –
 1. Zuwendungszweck, Rechtsgrundlage
 1.1 Die Länder Niedersachsen und Bremen gewähren unter finanzieller Beteiligung des Bundes und der
 EU für Gebiete, die aus erheblichen naturbedingten Gründen benachteiligt sind, und andere, aus anderen
-spezifischen Gründen benachteiligte Gebiete, nach Maßgabe dieser Richtlinie und der VV zu § 44 LHO Zu-
-wendungen an landwirtschaftliche Unternehmen mit landwirtschaftlich genutzten Flächen in benachteiligten
+spezifischen Gründen benachteiligte Gebiete, nach Maßgabe dieser Richtlinie und der VV zu § 44 LHO Zuwendungen an landwirtschaftliche Unternehmen mit landwirtschaftlich genutzten Flächen in benachteiligten
 Gebieten.
 1.2 Ziel der Förderung ist es, in benachteiligten Gebieten eine standortgerechte Landbewirtschaftung zu
 sichern, indem der teilweise oder vollständige Ausgleich von Einkommensverlusten und zusätzlichen Kosten,
@@ -27,28 +26,22 @@ oder spezifischen Gebieten entstehen, durch Zahlung einer Ausgleichszulage vorge
 – der Fortbestand der landwirtschaftlichen Bodennutzung und somit die Erhaltung einer lebensfähigen
 Gemeinschaft im ländlichen Raum gewährleistet,
 – der ländliche Lebensraum erhalten und
-– nachhaltige Bewirtschaftungsformen, die insbesondere Belangen des Umweltschutzes Rechnung tra-
-gen, erhalten und gefördert werden.
+– nachhaltige Bewirtschaftungsformen, die insbesondere Belangen des Umweltschutzes Rechnung tragen, erhalten und gefördert werden.
 1.3 Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
 – der Artikel 31 und 32 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates
-vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Land-
-wirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung
+vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung
 (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487; L 130 vom 19.5.2016, S. 1), zuletzt geändert
 durch Verordnung (EU) 2022/1033 des Europäischen Parlaments und des Rates vom 29. Juni 2022
 (ABl. L 173 vom 30.6.2022, S. 34),
 
-Nds. MBl. 2024 Nr. 351 vom 2. August 2024 Seite 2
 – des Artikels 154 der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom
 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der
-Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Land-
-wirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen
-Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verord-
-nung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1;
+Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen
+Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1;
 L 181 vom 7.7.2022, S. 35; L 227 vom 1.9.2022, S. 137), zuletzt geändert durch Verordnung (EU)
 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468,
 24.5.2024),
-– der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezem-
-ber 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik
+– der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik
 und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98,
 (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013,
 S. 549; L 130 vom 19.5.2016, S. 9; L 327 vom 9.12.2017, S. 83), zuletzt geändert durch Verordnung
@@ -62,49 +55,35 @@ S. 608; L 130 vom 19.5.2016, S. 14), zuletzt geändert durch Delegierte Verordnu
 Kommission vom 8. November 2021 (ABl. L 9 vom 14.1.2022, S. 3),
 – der Richtlinie 86/465/EWG des Rates vom 14. Juli 1986 betreffend das Gemeinschaftsverzeichnis der
 benachteiligten landwirtschaftlichen Gebiete im Sinne der Richtlinie 75/268/EWG (Deutschland)
-(ABl. L 273 vom 24.9.1986, S. 1), zuletzt geändert durch Richtlinie 92/92/EWG des Rates vom 9. No-
-vember 1992 (ABl. L 338 vom 23.11.1992, S. 1),
-– der Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungs-
-vorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die
-Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwick-
-lung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18), zuletzt geändert durch Durch-
-führungsverordnung (EU) 2022/2531 der Kommission vom 1. Dezember 2022 (ABl. L 328 vom
+(ABl. L 273 vom 24.9.1986, S. 1), zuletzt geändert durch Richtlinie 92/92/EWG des Rates vom 9. November 1992 (ABl. L 338 vom 23.11.1992, S. 1),
+– der Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die
+Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18), zuletzt geändert durch Durchführungsverordnung (EU) 2022/2531 der Kommission vom 1. Dezember 2022 (ABl. L 328 vom
 22.12.2022, S. 78),
 – der Durchführungsverordnung (EU) Nr. 809/2014 vom 17. Juli 2014 mit Durchführungsbestimmungen
-zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des inte-
-grierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und
+zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und
 der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69; L 14 vom 18.1.2017, S. 18), zuletzt geändert
 durch Durchführungsverordnung (EU) 2022/1227 der Kommission vom 15. Juli 2022 (ABl. L 189 vom
 18.7.2022, S. 12),
 – der Delegierten Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der
-Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das inte-
-grierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von
-Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnah-
-men für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48), zuletzt
+Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von
+Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48), zuletzt
 geändert durch Delegierte Verordnung (EU) 2022/1172 der Kommission vom 4. Mai 2022 (ABl. L 183
 vom 8.7.2022, S. 12),
 – der Verordnung (EU) 2020/2220 des Europäischen Parlaments und des Rates vom 23. Dezember 2020
-mit Übergangsbestimmungen für Förderung aus dem Europäischen Landwirtschaftsfonds für die Ent-
-wicklung des ländlichen Raums (ELER) und dem Europäischen Garantiefonds für die Landwirtschaft
+mit Übergangsbestimmungen für Förderung aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und dem Europäischen Garantiefonds für die Landwirtschaft
 (EGFL) in den Jahren 2021 und 2022 und zur Änderung der Verordnungen (EU) Nr. 1305/2013,
 (EU) Nr. 1306/2013 und (EU) Nr. 1307/2013 in Bezug auf Mittel und Anwendbarkeit in den Jahren 2021
 
-Nds. MBl. 2024 Nr. 351 vom 2. August 2024 Seite 3
-und 2022 und der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Mittel und der Aufteilung dieser För-
-derung in den Jahren 2021 und 2022 (ABl. L 437 vom 28.12.2020, S. 1),
-– des Förderbereichs 9: Benachteiligte Gebiete des Rahmenplans der Gemeinschaftsaufgabe „Verbes-
-serung der Agrarstruktur und des Küstenschutzes“ 2023- 2026 i. V. m. dem GAKG,
+und 2022 und der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Mittel und der Aufteilung dieser Förderung in den Jahren 2021 und 2022 (ABl. L 437 vom 28.12.2020, S. 1),
+– des Förderbereichs 9: Benachteiligte Gebiete des Rahmenplans der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“ 2023- 2026 i. V. m. dem GAKG,
 – des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen im Bereich
-der beiden EU-Fonds Europäischer Garantiefonds für die Landwirtschaft und Europäischer Landwirt-
-schaftsfonds für die Entwicklung des ländlichen Raums sowie nationaler Fördermaßnahmen vom
+der beiden EU-Fonds Europäischer Garantiefonds für die Landwirtschaft und Europäischer Landwirtschaftsfonds für die Entwicklung des ländlichen Raums sowie nationaler Fördermaßnahmen vom
 1./15. Februar 2022 (Nds. GVBl. S. 350),
 in der jeweils geltenden Fassung.
 1.4 Ein Anspruch der Antragstellerin oder des Antragstellers auf Gewährung der Zuwendung besteht nicht,
-vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der ver-
-fügbaren Haushaltsmittel.
+vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 2. Gegenstand der Förderung
-Gefördert wird die Bewirtschaftung von landwirtschaftlichen Flächen in benachteiligten Gebieten zur Siche-
-rung einer dauerhaften Nutzung und zum Ausgleich von Einkommensverlusten und zusätzlichen Ausgaben.
+Gefördert wird die Bewirtschaftung von landwirtschaftlichen Flächen in benachteiligten Gebieten zur Sicherung einer dauerhaften Nutzung und zum Ausgleich von Einkommensverlusten und zusätzlichen Ausgaben.
 3. Zuwendungsempfängerinnen und Zuwendungsempfänger
 Zuwendungsempfängerinnen oder Zuwendungsempfänger sind unbeschadet der gewählten Rechtsform
 aktive Betriebsinhaberinnen und Betriebsinhaber i. S. von Artikel 9 der Verordnung (EU) Nr. 1307/2013.
@@ -116,31 +95,23 @@ aktive Betriebsinhaberinnen und Betriebsinhaber i. S. von Artikel 9 der Verordnu
 – in Gebieten, die aus anderen spezifischen Gründen benachteiligt sind (kleine Gebiete),
 liegen.
 Als aus erheblichen naturbedingten Gründen benachteiligtes Gebiet gelten die nach Artikel 32 Abs. 1
-Buchst. b der Verordnung (EU) Nr. 1305/2013 bestimmten Gebiete. Als aus spezifischen Gründen be-
-nachteiligte Gebiete gelten die nach Artikel 32 Abs. 1 Buchst. c der Verordnung (EU) Nr. 1305/2013
+Buchst. b der Verordnung (EU) Nr. 1305/2013 bestimmten Gebiete. Als aus spezifischen Gründen benachteiligte Gebiete gelten die nach Artikel 32 Abs. 1 Buchst. c der Verordnung (EU) Nr. 1305/2013
 bestimmten Gebiete.
 Förderfähig sind nur Flächenanteile, die in der Kulisse eine Mindestgröße von 0,1 ha aufweisen.
-Die Förderkulissen nach dem ersten und zweiten Spiegelstrich werden mit dem Sammelantrag Agrar-
-förderung und Agrarumweltmaßnahmen – im Folgenden: Sammelantrag – bekannt gegeben.
+Die Förderkulissen nach dem ersten und zweiten Spiegelstrich werden mit dem Sammelantrag Agrarförderung und Agrarumweltmaßnahmen – im Folgenden: Sammelantrag – bekannt gegeben.
 4.1.3 die Zuwendungsempfängerinnen und Zuwendungsempfänger im gesamten Betrieb
-– die einschlägigen obligatorischen Grundanforderungen gemäß Titel VI Kapitel I der Verord-
-nung (EU) Nr. 1306/2013,
-– die einschlägigen Kriterien und Mindesttätigkeiten gemäß Artikel 4 Abs. 1 Buchst. c der Verord-
-nung (EU) Nr. 1307/2013,
+– die einschlägigen obligatorischen Grundanforderungen gemäß Titel VI Kapitel I der Verordnung (EU) Nr. 1306/2013,
+– die einschlägigen Kriterien und Mindesttätigkeiten gemäß Artikel 4 Abs. 1 Buchst. c der Verordnung (EU) Nr. 1307/2013,
 – die einschlägigen Mindestanforderungen für den Einsatz von Dünge- und Pflanzenschutzmitteln
 und
 – sonstige einschlägige verpflichtende Anforderungen des nationalen Rechts
 einhalten, auch wenn die Zuwendung lediglich für die Bewirtschaftung von Einzelflächen oder für Teile
 des Betriebes beantragt oder gewährt wird.
 
-Nds. MBl. 2024 Nr. 351 vom 2. August 2024 Seite 4
 4.2 Der Verpflichtungszeitraum beginnt am 01.01.2024 und endet am 31.12.2024.
 5. Art und Umfang, Höhe der Zuwendung
-5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Festbetragsfinanzierung zur Pro-
-jektförderung gewährt.
-5.2 Bemessungsgrundlage ist die im Sammelantrag für die Ausgleichszulage beantragte landwirtschaftli-
-che Fläche in Niedersachsen und/oder Bremen, die der Definition nach Artikel 4 Abs. 1 Buchst. e der Verord-
-nung (EU) Nr. 1307/2013 entspricht.
+5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Festbetragsfinanzierung zur Projektförderung gewährt.
+5.2 Bemessungsgrundlage ist die im Sammelantrag für die Ausgleichszulage beantragte landwirtschaftliche Fläche in Niedersachsen und/oder Bremen, die der Definition nach Artikel 4 Abs. 1 Buchst. e der Verordnung (EU) Nr. 1307/2013 entspricht.
 Landschaftselemente sind nicht förderfähig.
 5.3 Die Höhe der Zuwendung ist in drei Stufen nach Flächenumfang degressiv gestaffelt; der darüber
 hinausgehende Flächenumfang ist nicht förderfähig:
@@ -151,45 +122,33 @@ hinausgehende Flächenumfang ist nicht förderfähig:
 agrarökonomischen Berechnung angehoben werden, soweit die erforderlichen Haushaltsmittel zur Verfügung
 stehen.
 5.5 Der Zuwendungsbetrag berechnet sich nach der ermittelten Fläche. Eine Förderung erfolgt nur, soweit
-eine ermittelte förderfähige Fläche von mindestens vier Hektar je Zuwendungsempfängerin oder Zuwendungs-
-empfänger vorliegt und der Betrag über 250 EUR (Bagatellgrenze) liegt.
+eine ermittelte förderfähige Fläche von mindestens vier Hektar je Zuwendungsempfängerin oder Zuwendungsempfänger vorliegt und der Betrag über 250 EUR (Bagatellgrenze) liegt.
 5.6 Eine Inanspruchnahme öffentlicher Mittel oder Vergünstigungen für vergleichbare Leistungen oder
 Bedingungen auf derselben Fläche (Doppelförderung) ist nicht zulässig.
 6. Anweisungen zum Verfahren
 6.1 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die
-Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Bewilligungsbescheides und die Rückfor-
-derung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen
+Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Bewilligungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen
 zugelassen oder in dem unmittelbar geltenden Unionsrecht getroffen sind.
 6.2 Zuwendungen werden nur auf schriftlichen oder elektronischen Antrag gewährt. Der Antrag ist Teil
-des Sammelantrags. Als spätester Antragstermin gilt der 15.05.2024 gemäß Artikel 13 Abs. 1 der Durchfüh-
-rungsverordnung (EU) Nr. 809/2014. Liegt der Antrag der Bewilligungsbehörde zum vorgegebenen Termin
-nicht vollständig vor, verringert sich die Zahlung entsprechend Artikel 13 Abs. 1 der Delegierten Verord-
-nung (EU) Nr. 640/2014.
+des Sammelantrags. Als spätester Antragstermin gilt der 15.05.2024 gemäß Artikel 13 Abs. 1 der Durchführungsverordnung (EU) Nr. 809/2014. Liegt der Antrag der Bewilligungsbehörde zum vorgegebenen Termin
+nicht vollständig vor, verringert sich die Zahlung entsprechend Artikel 13 Abs. 1 der Delegierten Verordnung (EU) Nr. 640/2014.
 6.3 Für die verspätete Nachmeldung von Einzelflächen gelten die Regelungen des Artikels 13 Abs. 3 der
 Delegierten Verordnung (EU) Nr. 640/2014.
 6.4 Bewilligungsbehörde ist die LWK.
-6.5 Reichen die verfügbaren Haushaltsmittel nicht für eine Bewilligung aller Anträge, erfolgt die Reihen-
-folge der Bewilligung unter Berücksichtigung des prozentualen Anteils der förderfähigen Fläche in benachtei-
-ligten Gebieten an der gesamten landwirtschaftlich genutzten Fläche des Betriebes in Niedersachsen und
+6.5 Reichen die verfügbaren Haushaltsmittel nicht für eine Bewilligung aller Anträge, erfolgt die Reihenfolge der Bewilligung unter Berücksichtigung des prozentualen Anteils der förderfähigen Fläche in benachteiligten Gebieten an der gesamten landwirtschaftlich genutzten Fläche des Betriebes in Niedersachsen und
 Bremen. Dabei werden die Anträge mit einem höheren prozentualen Anteil vorrangig bewilligt.
-6.6 Die Zuwendung wird bis spätestens zum 30.06.2025 auf das von der Antragstellerin oder dem Antrag-
-steller bestimmte Konto gezahlt.
+6.6 Die Zuwendung wird bis spätestens zum 30.06.2025 auf das von der Antragstellerin oder dem Antragsteller bestimmte Konto gezahlt.
 6.7 Ahndung von Verstößen (Sanktionen)
-– Abweichungen von den eingegangenen Verpflichtungen werden nach den Regelungen der Verord-
-nung (EU) Nr. 1306/2013 und dem dazu ergangenen Folgerecht geahndet.
+– Abweichungen von den eingegangenen Verpflichtungen werden nach den Regelungen der Verordnung (EU) Nr. 1306/2013 und dem dazu ergangenen Folgerecht geahndet.
 
-Nds. MBl. 2024 Nr. 351 vom 2. August 2024 Seite 5
 – Als flächenbezogene Abweichungen i. S. des Artikels 19 a der Delegierten Verordnung (EU)
 Nr. 640/2014 gelten ausschließlich Flächendifferenzen und die Nichterfüllung von Grundeigenschaften
 bei beantragten Flächen.
-– Verstöße gegen fördermaßnahmenbezogene Verpflichtungen i. S. des Artikels 35 der Delegierten Ver-
-ordnung (EU) Nr. 640/2014 werden entsprechend der Schwere, des Ausmaßes, der Dauer und der
+– Verstöße gegen fördermaßnahmenbezogene Verpflichtungen i. S. des Artikels 35 der Delegierten Verordnung (EU) Nr. 640/2014 werden entsprechend der Schwere, des Ausmaßes, der Dauer und der
 Häufigkeit der Unregelmäßigkeit geahndet.
 – Werden im Sammelantrag nicht alle landwirtschaftlichen Flächen angegeben und beträgt die Differenz
-zwischen der im Sammelantrag gemeldeten Gesamtfläche einerseits und der gemeldeten Fläche zu-
-züglich der Gesamtfläche der nicht gemeldeten Parzellen andererseits mehr als 3 % der gemeldeten
-Fläche, so wird der Gesamtbetrag der zu gewährenden Ausgleichszulage je nach Schwere des Ver-
-säumnisses um bis zu 3 % gekürzt.
+zwischen der im Sammelantrag gemeldeten Gesamtfläche einerseits und der gemeldeten Fläche zuzüglich der Gesamtfläche der nicht gemeldeten Parzellen andererseits mehr als 3 % der gemeldeten
+Fläche, so wird der Gesamtbetrag der zu gewährenden Ausgleichszulage je nach Schwere des Versäumnisses um bis zu 3 % gekürzt.
 7. Schlussbestimmungen
 Dieser RdErl. tritt mit Wirkung vom 01.01.2024 in Kraft und mit Ablauf des 31.12.2025 außer Kraft.
 

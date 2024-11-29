@@ -19,24 +19,18 @@ anzuwenden:
 „A 3.1 Maßgebliche Flächen
 A 3.2 Teilweise Befreiung des Grund und Bodens bei bebauten Grundstücken“.
 2. Abschnitt A wird wie folgt geändert:
-a) In Absatz 3 Satz 2 werden nach dem Wort „Nachvollziehbarkeit“ die Worte „anstelle eines Wert-
-maßstabs“ eingefügt.
+a) In Absatz 3 Satz 2 werden nach dem Wort „Nachvollziehbarkeit“ die Worte „anstelle eines Wertmaßstabs“ eingefügt.
 b) Dem Unterabschnitt A 1.1 Abs. 2 wird der folgende Satz 2 angefügt:
-„Soweit das NGrStG eine entsprechende Anwendung der Bestimmungen über den Grundsteuer-
-wert vorsieht, betrifft dies für die Grundsteuer B nicht die Bestimmungen darüber, wie der Grund-
-steuerwert zu ermitteln ist und unter welchen Voraussetzungen ein niedrigerer Wert nachgewie-
-sen werden kann, weil das NGrStG keine Wertkomponente enthält.“
+„Soweit das NGrStG eine entsprechende Anwendung der Bestimmungen über den Grundsteuerwert vorsieht, betrifft dies für die Grundsteuer B nicht die Bestimmungen darüber, wie der Grundsteuerwert zu ermitteln ist und unter welchen Voraussetzungen ein niedrigerer Wert nachgewiesen werden kann, weil das NGrStG keine Wertkomponente enthält.“
 c) Unterabschnitt A 1.4 wird wie folgt geändert:
 aa) Die Überschrift wird wie folgt geändert:
 aaa) Die Überschrift erhält folgende Fassung:
-„A 1.4 Verweise auf sinngemäße Anwendung der koordinierten Erlasse der obers-
-ten Finanzbehörden der Länder zur Anwendung des Grundsteuergesetzes
+„A 1.4 Verweise auf sinngemäße Anwendung der koordinierten Erlasse der obersten Finanzbehörden der Länder zur Anwendung des Grundsteuergesetzes
 ab 01.01.2025 (AEGrStG)“.
 bbb) Die Fußnote wird gestrichen.
 bb) Nummer 17 erhält folgende Fassung:
 „17. A 3.11 Grundbesitz in gesondertem Vermögen nach Kirchenrecht,“.
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 2
 cc) Nummer 29 erhält folgende Fassung:
 „29. A 5.3 Wohnräume in Heimen und Ausbildungsstätten,“.
 3. Abschnitt B wird wie folgt geändert:
@@ -51,27 +45,22 @@ aa) Die Überschrift erhält folgende Fassung:
 „A 3.1 Maßgebliche Flächen“.
 bb) Absatz 10 erhält folgende Fassung:
 „(10) Die Grundflächen von zur Wohnung gehörenden Zubehörräumen, die innerhalb
-des Wohngebäudes aber außerhalb des Wohnbereichs liegen, gehören nicht zur Wohnflä-
-che und sind auch nicht als Nutzfläche zu berücksichtigen. Hierzu gehören unter anderem:
+des Wohngebäudes aber außerhalb des Wohnbereichs liegen, gehören nicht zur Wohnfläche und sind auch nicht als Nutzfläche zu berücksichtigen. Hierzu gehören unter anderem:
 1. Kellerräume,
 2. Abstellräume und Kellerersatzräume außerhalb der Wohnung,
 3. Waschküchen und Trockenräume,
 4. Bodenräume und
 5. Heizungsräume.
-Dagegen sind Flure, Abstellräume und Hauswirtschaftsräume der Wohnfläche zuzurech-
-nen, wenn sie innerhalb des Wohnbereichs liegen.“
-cc) Am Ende von Absatz 11 werden ein Komma und die Worte „es sei denn, sie werden tat-
-sächlich zu Wohnzwecken genutzt“ eingefügt.
+Dagegen sind Flure, Abstellräume und Hauswirtschaftsräume der Wohnfläche zuzurechnen, wenn sie innerhalb des Wohnbereichs liegen.“
+cc) Am Ende von Absatz 11 werden ein Komma und die Worte „es sei denn, sie werden tatsächlich zu Wohnzwecken genutzt“ eingefügt.
 dd) Absatz 12 wird wie folgt geändert:
-aaa) In Satz 6 Nr. 17 werden nach dem Wort „Terrassen“ ein Komma und das Wort „Bal-
-kone“ eingefügt.
+aaa) In Satz 6 Nr. 17 werden nach dem Wort „Terrassen“ ein Komma und das Wort „Balkone“ eingefügt.
 bbb) Satz 7 wird gestrichen.
 ccc) Der bisherige Satz 8 wird Satz 7.
 ee) Absatz 16 wird wie folgt geändert:
 aaa) Der bisherige Satz 1 wird einziger Satz.
 bbb) Satz 2 wird gestrichen.
-ff) In Absatz 20 Satz 1 werden nach dem Wort „stehen“ ein Komma und die Worte „sich in-
-nerhalb desselben Gebäudes und außerhalb des Wohnbereichs befinden“ eingefügt.
+ff) In Absatz 20 Satz 1 werden nach dem Wort „stehen“ ein Komma und die Worte „sich innerhalb desselben Gebäudes und außerhalb des Wohnbereichs befinden“ eingefügt.
 gg) Absatz 24 Nr. 1 erhält folgende Fassung:
 „1. A 245 Gebäude, Gebäudeteile und Anlagen für den Zivilschutz“
 c) Es wird der folgende Unterabschnitt A 3.2 eingefügt:
@@ -82,48 +71,33 @@ als auch zu anderen Zwecken genutzt, so sind die Bestimmungen des § 8 GrStG zu 
 Betrifft die steuerbegünstigte Nutzung einen räumlich abgrenzbaren Teil des Grundstücks, so ist
 nach § 8 Abs. 1 GrStG nur dieser Teil steuerbefreit. Kann eine räumliche Abgrenzung nicht
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 3
-vorgenommen werden, so erfolgt nach § 8 Abs. 2 GrStG eine Steuerbefreiung, wenn der Steuer-
-gegenstand überwiegend steuerbegünstigten Zwecken dient. Dabei bleiben Zeiten der Nichtnut-
-zung des Grundbesitzes (insbesondere Leerstand des Gebäudes) außer Betracht. Ob die Nut-
-zung für steuerbegünstigte und nichtsteuerbegünstigte Zwecke gleichzeitig nebeneinander oder
-zeitlich hintereinander erfolgt, ist ohne Bedeutung. Eine Stadthalle, die sowohl für öffentliche Ver-
-anstaltungen, z. B. für Bürgerversammlungen, als auch für private Veranstaltungen, z. B. für Kon-
-zerte, genutzt wird, bleibt deshalb steuerfrei, wenn der Gebrauch durch die Allgemeinheit über-
-wiegt. Handelt es sich um unterschiedliche Gebäudeteile, die jeweils teils zu begünstigten, teils
-zu nicht begünstigten Zwecken genutzt werden, so ist bei der Gewichtung, ob die steuerbegüns-
-tigten Zwecke überwiegen, neben der zeitlichen Abgrenzung auch der räumliche Umfang der
+vorgenommen werden, so erfolgt nach § 8 Abs. 2 GrStG eine Steuerbefreiung, wenn der Steuergegenstand überwiegend steuerbegünstigten Zwecken dient. Dabei bleiben Zeiten der Nichtnutzung des Grundbesitzes (insbesondere Leerstand des Gebäudes) außer Betracht. Ob die Nutzung für steuerbegünstigte und nichtsteuerbegünstigte Zwecke gleichzeitig nebeneinander oder
+zeitlich hintereinander erfolgt, ist ohne Bedeutung. Eine Stadthalle, die sowohl für öffentliche Veranstaltungen, z. B. für Bürgerversammlungen, als auch für private Veranstaltungen, z. B. für Konzerte, genutzt wird, bleibt deshalb steuerfrei, wenn der Gebrauch durch die Allgemeinheit überwiegt. Handelt es sich um unterschiedliche Gebäudeteile, die jeweils teils zu begünstigten, teils
+zu nicht begünstigten Zwecken genutzt werden, so ist bei der Gewichtung, ob die steuerbegünstigten Zwecke überwiegen, neben der zeitlichen Abgrenzung auch der räumliche Umfang der
 unterschiedlichen Nutzung nach Maßgabe des Flächenanteils zu berücksichtigen (BFH -Urteil
 vom 27.11.1991 – II R 100/87, BStBl. II 1992 S. 563).
-(2) Die räumliche Aufteilung des jeweiligen Grundbesitzes nach seiner Nutzung für steuerbe-
-günstigte Zwecke und für nichtsteuerbegünstigte Zwecke nach § 8 Abs. 1 GrStG wird bereits bei
+(2) Die räumliche Aufteilung des jeweiligen Grundbesitzes nach seiner Nutzung für steuerbegünstigte Zwecke und für nichtsteuerbegünstigte Zwecke nach § 8 Abs. 1 GrStG wird bereits bei
 der Feststellung der Äquivalenzbeträge vorgenommen. Die Aufteilung erfolgt im Verhältnis der
-für steuerbegünstigte Zwecke genutzten Wohn- und Nutzfläche zur gesamten Wohn- und Nutz-
-fläche.
-Steuerbefreite Teilflächen des Grund und Bodens, die zu einer im Übrigen steuerpflichtigen wirt-
-schaftlichen Einheit gehören
-(3) Sind Teile des Grund und Bodens einer im Übrigen steuerpflichtigen wirtschaftlichen Ein-
-heit von der Grundsteuer befreit (da sie z. B. dem öffentlichen Verkehr dienen), ist der steuerfreie
+für steuerbegünstigte Zwecke genutzten Wohn- und Nutzfläche zur gesamten Wohn- und Nutzfläche.
+Steuerbefreite Teilflächen des Grund und Bodens, die zu einer im Übrigen steuerpflichtigen wirtschaftlichen Einheit gehören
+(3) Sind Teile des Grund und Bodens einer im Übrigen steuerpflichtigen wirtschaftlichen Einheit von der Grundsteuer befreit (da sie z. B. dem öffentlichen Verkehr dienen), ist der steuerfreie
 Teil des Grund und Bodens von der Gesamtfläche des Grund und Bodens abzuziehen und nur
 der steuerpflichtige Teil des Grund und Bodens in die Berechnung des Äquivalenzbetrags für
 Grund und Boden einzubeziehen.
 Räumlich abgrenzbare Teilflächen des Grund und Bodens, die zu einem teilweise steuerbefreiten
 bebauten Grundstück gehören
-(4) Die steuerfreien Flächen bleiben bei der Berechnung der Äquivalenzbeträge und den Fest-
-stellungen zu den Flächen von Grund und Boden und Gebäuden außer Ansatz. Ist Grundbesitz
+(4) Die steuerfreien Flächen bleiben bei der Berechnung der Äquivalenzbeträge und den Feststellungen zu den Flächen von Grund und Boden und Gebäuden außer Ansatz. Ist Grundbesitz
 gemäß § 8 GrStG zum Teil steuerfrei, so ist bei der Ermittlung des Äquivalenzbetrags für Grund
 und Boden wie folgt zu verfahren:
 1. Der abgrenzbare Teil des Grund und Bodens, der ausschließlich steuerbefreiten Zwecken
-dient (z. B. dem öffentlichen Verkehr dienend oder die nach der Verkehrsauffassung ein-
-deutig und unmittelbar einem vollständig steuerfreien Gebäude zuzuordnende Fläche),
+dient (z. B. dem öffentlichen Verkehr dienend oder die nach der Verkehrsauffassung eindeutig und unmittelbar einem vollständig steuerfreien Gebäude zuzuordnende Fläche),
 bleibt bei der Berechnung des Äquivalenzbetrags für Grund und Boden außer Betracht.
 2. Der abgrenzbare Teil des Grund und Bodens, der ausschließlich steuerpflichtigen Zwecken
 dient, ist in die Berechnung des Äquivalenzbetrags für Grund und Boden einzubeziehen.
 3. Die verbleibende Fläche des Grund und Bodens, die nicht nach Nummer 1 oder Nummer 2
 zuordenbar ist, ist nach dem Verhältnis der für steuerbefreite Zwecke genutzten Wohn-
 und Nutzfläche zur gesamten Wohn- und Nutzfläche der wirtschaftlichen Einheit steuerfrei
-und bleibt bei der Berechnung des Äquivalenzbetrags für Grund und Boden außer Be-
-tracht.
+und bleibt bei der Berechnung des Äquivalenzbetrags für Grund und Boden außer Betracht.
 Beispiel 1: Die wirtschaftliche Einheit besteht aus zwei Flurstücken. Flurstück 1 hat eine Größe von
 900 m
 2
@@ -135,8 +109,7 @@ Steuerbefreiung unterliegt. Das Gebäude hat eine Nutzfläche von 300 m
 2
 , von denen 200 m
 2
-steu-
-erpflichtig und 100 m
+steuerpflichtig und 100 m
 2
 steuerfrei genutzt werden.
 Ermittlung der steuerpflichtigen Fläche des Grund und Bodens:
@@ -147,7 +120,6 @@ Das Gebäude wird zu 1/3 steuerfrei genutzt:
 ergibt steuerfreien Grund und Boden 300 m²
 verbleibt steuerpflichtige Fläche des Grund und Bodens 600 m²
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 4
 Beispiel 2: Es handelt sich um eine einzige wirtschaftliche Einheit. Die Parkplätze sind aus sich
 selbst heraus steuerpflichtig oder steuerfrei und stehen insoweit nicht im Zusammenhang mit den
 Gebäuden:
@@ -195,13 +167,11 @@ Fläche des Grund und Bodens gesamt 4 000 m²
 ergibt steuerpflichtige Fläche des Grund und Bodens 2 292 m
 2
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 5
 Herrichtung eines teilweise steuerbefreiten bebauten Grundstücks für weitere steuerbegünstigte
 Zwecke
 (5) Die unmittelbare Benutzung für einen steuerbegünstigten Zweck beginnt nach § 7 Satz 2
 GrStG, sobald das Grundstück für diesen Zweck hergerichtet wird. In diesem Fall sind die
-Grundsätze der Aufteilung des Grund und Bodens in einen steuerfreien und einen steuerpflichti-
-gen Teil nach dem Verhältnis vorzunehmen, das sich zu Beginn der Herrichtung ergibt.
+Grundsätze der Aufteilung des Grund und Bodens in einen steuerfreien und einen steuerpflichtigen Teil nach dem Verhältnis vorzunehmen, das sich zu Beginn der Herrichtung ergibt.
 Beispiel: Die wirtschaftliche Einheit besteht aus zwei Flurstücken. Flurstück 1 hat eine Größe von
 900 m
 2
@@ -213,8 +183,7 @@ Steuerbefreiung unterliegt. Das Gebäude hat eine Nutzfläche von 300 m
 2
 , von denen 200 m
 2
-steu-
-erpflichtig und 100 m
+steuerpflichtig und 100 m
 2
 steuerfrei genutzt werden. Das Gebäude soll aufgestockt werden, so dass sich
 die Nutzfläche auf 400 m
@@ -235,14 +204,11 @@ Eine Fortschreibung des Äquivalenzbetrags des Gebäudes erfolgt erst nach Ferti
 d) Unterabschnitt A 5 Abs. 6 erhält folgende Fassung:
 „(6) Als steuerlicher Bodenrichtwert wird der Bodenrichtwert nach § 196 BauGB genutzt, wie
 er sich für Bauflächen gemäß Anlage 5 der ImmoWertV vom 14.07.2021 (BGBl. I S. 2805) für die
-Bodenrichtwertzone ergibt, in der das Grundstück liegt. Maßgebend ist der zum Hauptfeststel-
-lungszeitpunkt 01.01.2022 (und später alle 7 Jahre neu) ermittelte und vom Gutachterausschuss
+Bodenrichtwertzone ergibt, in der das Grundstück liegt. Maßgebend ist der zum Hauptfeststellungszeitpunkt 01.01.2022 (und später alle 7 Jahre neu) ermittelte und vom Gutachterausschuss
 beschlossene Wert. Spätere Änderungen der Bodenrichtwerte oder der Bodenrichtwertzonen
 werden erst bei der nächsten Aktualisierung der Bodenrichtwerte nach Ablauf von sieben Jahren
 berücksichtigt (§ 5 Abs. 4 NGrStG). Die bei einer Verkehrswertermittlung u. U. vorzunehmenden
-Anpassungen des Bodenrichtwertes, um den individuellen Bodenwert des Grundstücks zu be-
-stimmen (z. B. bei vom Richtwertgrundstück abweichenden Wertmerkmalen wie der Geschoss-
-flächenzahl), werden ausdrücklich nicht vorgenommen. Denn der Bodenrichtwert dient hier nicht
+Anpassungen des Bodenrichtwertes, um den individuellen Bodenwert des Grundstücks zu bestimmen (z. B. bei vom Richtwertgrundstück abweichenden Wertmerkmalen wie der Geschossflächenzahl), werden ausdrücklich nicht vorgenommen. Denn der Bodenrichtwert dient hier nicht
 der Wertermittlung des Grundstücks, sondern als bloßer Lageindikator.“
 e) Unterabschnitt A 6 wird wie folgt geändert:
 aa) Absatz 2 wird wie folgt geändert:
@@ -252,66 +218,48 @@ bbb) Es werden die folgenden neuen Sätze 6 bis 8 eingefügt:
 aktiv betreibt und/oder auf deren Rechnung und Gefahr der aktive Betrieb geführt
 wird. Somit können auch Pächterinnen und Pächter, Nießbrauchsberechtigte oder
 sonstige Nutzungsberechtigte die Voraussetzung einer Betriebsinhaberin oder eines
-Betriebsinhabers erfüllen. Die Verpachtung von Flächen oder die Betriebsverpach-
-tung im Ganzen gilt nicht als Bewirtschaftung auf eigene Rechnung und Gefahr.“
+Betriebsinhabers erfüllen. Die Verpachtung von Flächen oder die Betriebsverpachtung im Ganzen gilt nicht als Bewirtschaftung auf eigene Rechnung und Gefahr.“
 ccc) Der bisherige Satz 6 wird Satz 9.
 ddd) Es werden die folgenden Sätze 10 bis 14 angefügt.
-„Eine enge räumliche Verbindung ist stets anzunehmen, wenn sich Betriebswoh-
-nungen und Wohnteil unmittelbar neben den Wirtschaftsgebäuden oder den dazu-
-gehörigen Nebenflächen befinden. Diese Voraussetzung ist zum Beispiel auch er-
-füllt, wenn Betriebswohnungen und Wohnteil durch eine öffentliche Straße mit
+„Eine enge räumliche Verbindung ist stets anzunehmen, wenn sich Betriebswohnungen und Wohnteil unmittelbar neben den Wirtschaftsgebäuden oder den dazugehörigen Nebenflächen befinden. Diese Voraussetzung ist zum Beispiel auch erfüllt, wenn Betriebswohnungen und Wohnteil durch eine öffentliche Straße mit
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 6
-geringer Verkehrsbelastung von der Hofstelle getrennt sind. Eine räumliche Verbin-
-dung mit der Hofstelle besteht nicht, wenn zwischen der Hofstelle und den Betriebs-
-wohnungen oder dem Wohnteil Industriegelände oder bebaute Grundstücke liegen.
+geringer Verkehrsbelastung von der Hofstelle getrennt sind. Eine räumliche Verbindung mit der Hofstelle besteht nicht, wenn zwischen der Hofstelle und den Betriebswohnungen oder dem Wohnteil Industriegelände oder bebaute Grundstücke liegen.
 Ebenso geht die räumliche Verbindung verloren, wenn die Betriebswohnungen oder
 die zum Wohnteil gehörenden Wohngrundstücke durch Autobahnen oder Flüsse von
 der Hofstelle getrennt sind. Das Gleiche gilt auch, wenn die Betriebswohnungen
 oder die zum Wohnteil gehörenden Wohngrundstücke zwar nur durch eine Straße
-oder einen Weg von der Hofstelle getrennt sind, aber in einem geschlossenen Wohn-
-baugebiet liegen.“
+oder einen Weg von der Hofstelle getrennt sind, aber in einem geschlossenen Wohnbaugebiet liegen.“
 bb) Absatz 3 wird wie folgt geändert:
 aaa) Es wird der folgende neue Satz 6 eingefügt:
-„Liegt ein Baudenkmal vor, kann eine Ermäßigung nur für die gesamte wirtschaftli-
-che Einheit gewährt werden.“
+„Liegt ein Baudenkmal vor, kann eine Ermäßigung nur für die gesamte wirtschaftliche Einheit gewährt werden.“
 bbb) Der bisherige Satz 6 wird Satz 7.
 cc) Absatz 5 wird wie folgt geändert:
 aaa) In Satz 1 wird die Angabe „Satz 2“ gestrichen.
 bbb) In Satz 3 wird nach der Angabe „§ 6 Abs. 5“ die Angabe „Satz 1“ eingefügt.
 ccc) Es werden die folgenden Sätze 4 und 5 angefügt:
 „Für das Vorliegen der Voraussetzungen des § 15 Abs. 4 Nrn. 1, 2 und 3 GrStG ist
-A 15.3 AEGrStG entsprechend anzuwenden. Für die Beherrschung ist es unerheb-
-lich, ob die Beteiligung der Gebietskörperschaft unmittelbar oder mittelbar vorliegt.“
+A 15.3 AEGrStG entsprechend anzuwenden. Für die Beherrschung ist es unerheblich, ob die Beteiligung der Gebietskörperschaft unmittelbar oder mittelbar vorliegt.“
 f) Dem Unterabschnitt A 7 Abs. 2 wird der folgende Satz 3 angefügt:
 „Hierbei sind das Aufkommen der Grundsteuer A und der Grundsteuer B getrennt voneinander
 zu betrachten.“
 g) Unterabschnitt A 8 wird wie folgt geändert:
 aa) Absatz 4 wird wie folgt geändert:
 aaa) Es werden die folgenden neuen Sätze 2 und 3 eingefügt:
-„Für Stichtage bis einschließlich 01.01.2025 ist jede Abweichung für die Besteue-
-rung von Bedeutung (vgl. Unterabschnitt A 13 Abs. 2). Ab 01.01.2026 sind die Gren-
-zen in § 9 Abs. 2 NGrStG maßgeblich.“
+„Für Stichtage bis einschließlich 01.01.2025 ist jede Abweichung für die Besteuerung von Bedeutung (vgl. Unterabschnitt A 13 Abs. 2). Ab 01.01.2026 sind die Grenzen in § 9 Abs. 2 NGrStG maßgeblich.“
 bbb) Die bisherigen Sätze 2 bis 8 werden Sätze 4 bis 10.
 bb) Dem Absatz 10 werden die folgenden Sätze 5 bis 7 angefügt:
-„Nach dem RdErl. des MF vom 25.03.2024 (Nds. MBl. 2024 Nr. 152) ist die Frist zur Ab-
-gabe von Grundsteuer-Änderungsanzeigen nach § 8 Abs. 5 NGrStG auf die Feststellungs-
-zeitpunkte 01.01.2023 und 01.01.2024 bis zum 31.12.2024 verlängert worden. Die Frist
+„Nach dem RdErl. des MF vom 25.03.2024 (Nds. MBl. 2024 Nr. 152) ist die Frist zur Abgabe von Grundsteuer-Änderungsanzeigen nach § 8 Abs. 5 NGrStG auf die Feststellungszeitpunkte 01.01.2023 und 01.01.2024 bis zum 31.12.2024 verlängert worden. Die Frist
 zur Abgabe von Grundsteuer-Änderungsanzeigen nach § 9 Abs. 4 NGrStG, die sich auf
 eine in den Jahren 2022 und 2023 eingetretene Änderung der Nutzung oder den in diesem
-Zusammenhang erfolgten Wegfall der Voraussetzungen für die ermäßigten Steuermess-
-zahlen beziehen, ist ebenfalls bis zum 31.12.2024 verlängert worden. Die Anzeige zur Mit-
-teilung einer Änderung der tatsächlichen Verhältnisse kann auch in Form einer vollständig
+Zusammenhang erfolgten Wegfall der Voraussetzungen für die ermäßigten Steuermesszahlen beziehen, ist ebenfalls bis zum 31.12.2024 verlängert worden. Die Anzeige zur Mitteilung einer Änderung der tatsächlichen Verhältnisse kann auch in Form einer vollständig
 ausgefüllten elektronischen Steuererklärung übermittelt werden.“
 cc) Dem Absatz 11 wird der folgende Satz 3 angefügt:
 „Liegen zusätzlich eine oder mehrere Änderungen der tatsächlichen Verhältnisse vor, ist
 Absatz 10 zu beachten.“
 
-Nds. MBl. 2024 Nr. 378 vom 27. August 2024 Seite 7
 dd) Absatz 12 wird wie folgt geändert:
 aaa) Es wird der folgende neue Satz 5 eingefügt:
-„Aufgrund der im RdErl. vom 25.03.2024 (Nds. MBl. 2024 Nr. 152) gewährten Frist-
-verlängerung gilt dies auch für die darin genannten Änderungsanzeigen (§ 152
+„Aufgrund der im RdErl. vom 25.03.2024 (Nds. MBl. 2024 Nr. 152) gewährten Fristverlängerung gilt dies auch für die darin genannten Änderungsanzeigen (§ 152
 Abs. 3 Nr. 1 AO).“
 bbb) Die bisherigen Sätze 5 bis 11 werden Sätze 6 bis 12.
 ccc) Es werden die folgenden Sätze 13 bis 15 angefügt:
@@ -321,8 +269,7 @@ ebenfalls nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung
 jede schriftlich an das zuständige Finanzamt gerichtete Mitteilung einer Änderung
 oder die Abgabe einer vollständig ausgefüllten und scanbaren Steuererklärung auf
 Papier als konkludenter Härtefallantrag anzusehen, dem ohne weitere Begründung
-stillschweigend stattzugeben ist. Das Gleiche gilt, wenn die Änderung beim Finanz-
-amt zur Niederschrift erklärt wird.“
+stillschweigend stattzugeben ist. Das Gleiche gilt, wenn die Änderung beim Finanzamt zur Niederschrift erklärt wird.“
 h) Unterabschnitt A 9 wird wie folgt geändert:
 aa) Dem Absatz 6 wird der folgende Satz 3 angefügt:
 „Die Anzeige einer Nutzungsänderung kann auch in Form einer vollständig ausgefüllten
@@ -330,9 +277,7 @@ elektronischen Steuererklärung übermittelt werden. Unterabschnitt A 8 Abs. 10 
 entsprechend.“
 bb) Absatz 8 erhält folgende Fassung:
 „(8) Die – im Fall mehrerer Änderungen zusammengefasste – Anzeige hat bis zum
-31. März des Jahres zu erfolgen, das auf das Jahr folgt, in dem sich die Verhältnisse ge-
-ändert haben. Sie kann auch in Form einer vollständig ausgefüllten elektronischen Steuer-
-erklärung übermittelt werden. Insofern besteht ein Gleichlauf mit § 8 Abs. 5 Satz 3 NGrStG.
+31. März des Jahres zu erfolgen, das auf das Jahr folgt, in dem sich die Verhältnisse geändert haben. Sie kann auch in Form einer vollständig ausgefüllten elektronischen Steuererklärung übermittelt werden. Insofern besteht ein Gleichlauf mit § 8 Abs. 5 Satz 3 NGrStG.
 Auch im Übrigen gelten die dortigen Erwägungen zur Feststellungserklärung, weshalb § 8
 Abs. 6 NGrStG entsprechende Anwendung findet.“
 

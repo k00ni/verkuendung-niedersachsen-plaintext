@@ -14,8 +14,7 @@ Bek. des GAA Hildesheim vom 13.11.2024 – 40501/44 –
 Aufgrund von Nummer 8.1.2.1 der Anlage zu § 1 ZustVO -Umwelt-Arbeitsschutz wird auf Grundlage der
 Bek. des Umweltbundesamtes über Empfehlungen zur Bekanntmachung über die bundeseinheitliche Praxis
 bei der Überwachung der Emissionen aus Kleinfeuerungsanlagen vom 21.08.2024 (BAnz AT 31.10.2024 B10)
-die Eignung folgender Messgeräte zur Überwachung der Emissionen aus Kleinfeuerungsanlagen bekannt ge-
-macht.
+die Eignung folgender Messgeräte zur Überwachung der Emissionen aus Kleinfeuerungsanlagen bekannt gemacht.
 Die Bek. gilt i. V. m. künftigen im Bundesanzeiger veröffentlichten Mitteilungen zu eignungsgeprüften und
 bekanntgegebenen Messgeräten in der letzten gültigen Fassung.
 1. Messgeräte zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an
@@ -31,13 +30,11 @@ Funktionsmodul zur Bestimmung der Verbrennungslufttemperatur,
 Funktionsmodul zur Bestimmung der Abgastemperatur,
 Funktionsmodul zur Bestimmung des Drucks (Kaminzug).
 Einsatzbereich:
-Messgerät zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an Gas- und Ölfeu-
-erungsanlagen.
+Messgerät zur Abgasverlustbestimmung und zur Überwachung der Emissionsgrenzwerte an Gas- und Ölfeuerungsanlagen.
 Messbereiche in der Eignungsprüfung:
 O
 2 0 bis 21,0 Vol.-%,
 
-Nds. MBl. 2024 Nr. 555 vom 13. November 2024 Seite 2
 CO 0 bis 2 500 mg/m
 3
 ,
@@ -52,8 +49,7 @@ Firmware Version V1.4.
 Einschränkungen:
 Keine.
 Hinweise:
-1. Die Funktionen „Bluetooth“ und „WLAN“ dürfen für Messungen im Rahmen der 1. BImSchV nicht ver-
-wendet werden.
+1. Die Funktionen „Bluetooth“ und „WLAN“ dürfen für Messungen im Rahmen der 1. BImSchV nicht verwendet werden.
 2. Das Kombinationsmessgerät ist nicht für den Außeneinsatz geeignet.
 3. Ein Sensorwechsel ist nur durch den Hersteller oder eine vom Hersteller autorisierte Fachfirma zulässig.
 Prüfinstitut:

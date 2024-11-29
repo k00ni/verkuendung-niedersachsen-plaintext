@@ -23,8 +23,7 @@ Mindeststeuer“.
 a) In der Funktion 012 wird in dem fünften Zuordnungshinweis das Wort „Bedienstete“ durch das Wort
 „Beschäftigte“ ersetzt.
 b) In der Funktion 241 wird in dem Zuordnungshinweis in dem fünften Aufzählungspunkt die Angabe
-„Soldatenversorgungsgesetz (SVG)“ durch die Angabe „Soldatenentschädigungsgesetz (SEG)“ er-
-setzt.
+„Soldatenversorgungsgesetz (SVG)“ durch die Angabe „Soldatenentschädigungsgesetz (SEG)“ ersetzt.
 c) In der Funktion 249 werden in dem ersten Zuordnungshinweis in dem zweiten Aufzählungspunkt die
 Worte „Angelegenheiten der Suchdienste und der Deutschen Dienststelle (WASt)“ durch die Worte
 „Angelegenheit des Suchdienstes“ ersetzt.

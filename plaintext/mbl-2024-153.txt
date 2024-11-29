@@ -11,8 +11,7 @@ Bek. d. MI v. 15.02.2024 – 74.11- 41576- 10-13/0 –
 
 Bezug: Bek. v. 12.07.2022 (Nds. MBl. S.1332
 
-Gemäß § 8 der Geschäftsordnung des Landesausschusses „Rettungsdienst“ wird die vom Landesaus-
-schuss „Rettungsdienst“ beschlossene Empfehlung zu Schutz- und Hygienemaßnahmen im Rettungsdienst
+Gemäß § 8 der Geschäftsordnung des Landesausschusses „Rettungsdienst“ wird die vom Landesausschuss „Rettungsdienst“ beschlossene Empfehlung zu Schutz- und Hygienemaßnahmen im Rettungsdienst
 (Anlage) bekannt gegeben.
 Die Bezugsbekanntmachung wird hiermit aufgehoben.
 Anlage
@@ -24,49 +23,32 @@ zu Schutz- und Hygienemaßnahmen im Rettungsdienst
 
 1. Vorbemerkungen und Ziele
 Sowohl in der Notfallrettung als auch im Krankentransport müssen Keimverschleppungen, Infektion der
-Patientinnen und Patienten und Gefährdung des Rettungsdienstpersonals durch geeignete Maßnahmen ver-
-hindert werden. Durch Hygienepläne sind die dafür notwendigen Voraussetzungen zu schaffen und Maßnah-
-men verbindlich vorzugeben. Diese sollen mit dem Ziel der Aktualisierung regelmäßig überarbeitet und in Inhalt
+Patientinnen und Patienten und Gefährdung des Rettungsdienstpersonals durch geeignete Maßnahmen verhindert werden. Durch Hygienepläne sind die dafür notwendigen Voraussetzungen zu schaffen und Maßnahmen verbindlich vorzugeben. Diese sollen mit dem Ziel der Aktualisierung regelmäßig überarbeitet und in Inhalt
 und Form so erstellt werden, dass eine schnelle, sichere und der Situation angemessene Information für die
-Mitarbeiterinnen und Mitarbeiter gewährleistet ist. Dazu sind auch in vorzugebenden Intervallen entspre-
-chende Schulungen der Anwender notwendig. Im Vergleich zu anderen Einrichtungen des Gesundheitswe-
-sens (Krankenhäuser, Arzt- und sonstige Praxen humanmedizinischer Heilberufe) bestehen für den Rettungs-
-dienst, der auch als Bindeglied zwischen medizinischen Versorgern tätig wird, spezifische Anforderungen und
+Mitarbeiterinnen und Mitarbeiter gewährleistet ist. Dazu sind auch in vorzugebenden Intervallen entsprechende Schulungen der Anwender notwendig. Im Vergleich zu anderen Einrichtungen des Gesundheitswesens (Krankenhäuser, Arzt- und sonstige Praxen humanmedizinischer Heilberufe) bestehen für den Rettungsdienst, der auch als Bindeglied zwischen medizinischen Versorgern tätig wird, spezifische Anforderungen und
 Schwerpunkte:
-– zeitliche Dringlichkeit und hohe Priorität notfallmedizinischer Maßnahmen mit oft unbekanntem Keimbe-
-siedlungs-, Infektions- und Immunstatus der zu versorgenden Patientinnen und Patienten (insbesondere
+– zeitliche Dringlichkeit und hohe Priorität notfallmedizinischer Maßnahmen mit oft unbekanntem Keimbesiedlungs-, Infektions- und Immunstatus der zu versorgenden Patientinnen und Patienten (insbesondere
 in der Notfallrettung),
-– Sicherstellungsauftrag mit Notwendigkeit, nach einem Patiententransport zügig durch die Leitstelle plan-
-bare Einsatzbereitschaft wiederherzustellen,
+– Sicherstellungsauftrag mit Notwendigkeit, nach einem Patiententransport zügig durch die Leitstelle planbare Einsatzbereitschaft wiederherzustellen,
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 2
 – für die Mitarbeiterinnen und Mitarbeiter meist kurzfristige, oft wechselnde Patientenkontakte mit einer
 Vielzahl von Einsatzsituationen und Erkrankungen/Verletzungen,
 – oft unvorhergesehener Kontakt mit Blut und Körpersekreten von Patientinnen und Patienten,
-– hohe Personalvariabilität mit sehr unterschiedlichen Kenntnissen und Erfahrungen in infektiologisch rele-
-vanten Einsatzsituationen,
+– hohe Personalvariabilität mit sehr unterschiedlichen Kenntnissen und Erfahrungen in infektiologisch relevanten Einsatzsituationen,
 – häufiges Handeln im öffentlichen Raum mit hoher Außenwirkung.
-Hygienepläne und Verfahren, die ihren originären Schwerpunkt in der klinischen Anwendung sehen, be-
-rücksichtigen diese Umstände nur mit geringerer Priorität.
+Hygienepläne und Verfahren, die ihren originären Schwerpunkt in der klinischen Anwendung sehen, berücksichtigen diese Umstände nur mit geringerer Priorität.
 Unter ausdrücklichem Hinweis auf die grundsätzlichen Ausführungen in vielen verfügbaren Hygieneplänen
-für den Rettungsdienst (z. B. „Rahmenhygieneplan für Rettungs- und Krankentransportdienste“ des Länder-
-Arbeitskreises zur Erstellung von Hygieneplänen nach § 36 IfSG) soll die vorliegende, nach dem aktuellen
+für den Rettungsdienst (z. B. „Rahmenhygieneplan für Rettungs- und Krankentransportdienste“ des LänderArbeitskreises zur Erstellung von Hygieneplänen nach § 36 IfSG) soll die vorliegende, nach dem aktuellen
 Stand der Wissenschaft erarbeitete Empfehlung insbesondere eine schnelle, übersichtliche, praktikable und
 dennoch ausreichend detaillierte Information für das Einsatzpersonal des Rettungsdienstes in Form einer
-farbcodierten, tabellarischen Auflistung der häufigsten im Rettungsdienst vorkommenden Infektionen bzw. Er-
-reger schaffen. Das Prinzip der Umsetzung ist eine risikoadaptierte Gruppierung der erforderlichen Schutz-
-und Hygienemaßnahmen und Zuordnung zu möglichst wenigen Desinfektionsverfahren (s. u.) und Desinfek-
-tionsausführungen (s. u.), um Anwendungsvereinfachung, Vereinheitlichung und damit Anwendungssicherheit
+farbcodierten, tabellarischen Auflistung der häufigsten im Rettungsdienst vorkommenden Infektionen bzw. Erreger schaffen. Das Prinzip der Umsetzung ist eine risikoadaptierte Gruppierung der erforderlichen Schutz-
+und Hygienemaßnahmen und Zuordnung zu möglichst wenigen Desinfektionsverfahren (s. u.) und Desinfektionsausführungen (s. u.), um Anwendungsvereinfachung, Vereinheitlichung und damit Anwendungssicherheit
 durch Fehlerminimierung zu erreichen.
 Die im Hygieneplan des jeweiligen Rettungsdienstbereiches notwendigen Ausführungen, Vorgaben und
-Hinweise zu Riskobewertung, Arbeitsschutzmaßnahmen (persönliche Schutzausrüstung), Hygienemanage-
-ment, Verantwortlichkeiten, Durchführung der Standardhygienemaßnahmen (Reinigung, Desinfektion, Sterili-
-sation, Abfallentsorgung) werden durch die vorliegende Empfehlung nicht ersetzt und müssen weiterhin ggf.
+Hinweise zu Riskobewertung, Arbeitsschutzmaßnahmen (persönliche Schutzausrüstung), Hygienemanagement, Verantwortlichkeiten, Durchführung der Standardhygienemaßnahmen (Reinigung, Desinfektion, Sterilisation, Abfallentsorgung) werden durch die vorliegende Empfehlung nicht ersetzt und müssen weiterhin ggf.
 unter Nutzung der verfügbaren Empfehlungen und Muster erstellt werden.
 Die unter Nummer 2 folgenden Ausführungen richten sich vorrangig an die für die Erstellung und Umsetzung
-des Hygieneplans verantwortlichen Personen im Rettungsdienst. Sie bieten Hintergrundinformationen und er-
-klären die Prinzipien, Merkmale und Systematik, die dieser rettungsdienstspezifischen Empfehlung zu-
-grunde liegen. Es wird den Verantwortlichen damit eine Anleitung zu den notwendigen Entscheidungen und
+des Hygieneplans verantwortlichen Personen im Rettungsdienst. Sie bieten Hintergrundinformationen und erklären die Prinzipien, Merkmale und Systematik, die dieser rettungsdienstspezifischen Empfehlung zugrunde liegen. Es wird den Verantwortlichen damit eine Anleitung zu den notwendigen Entscheidungen und
 Vorbereitungen bei der Umsetzung der Empfehlung gegeben.
 Folgende Ziele sollen realisiert werden:
 – eindeutige und gute Verständlichkeit zur schnellen Orientierung,
@@ -75,45 +57,28 @@ Folgende Ziele sollen realisiert werden:
 – Standardisierung im Rettungsdienstbereich,
 – Anwendung von Schutz- und Hygienemaßnahmen nach aktuellem Stand der Wissenschaft.
 Daher kommen in der Umsetzung folgende Prinzipien zur Anwendung:
-– Reduzierung der Auswahlmöglichkeiten bei den Hygiene- und Schutzmaßnahmen (Ausrüstungen, Vor-
-gehensweisen, Desinfektionsmittel) auf das Notwendige und Praktikable,
+– Reduzierung der Auswahlmöglichkeiten bei den Hygiene- und Schutzmaßnahmen (Ausrüstungen, Vorgehensweisen, Desinfektionsmittel) auf das Notwendige und Praktikable,
 – Zusammenfassung von Maßnahmen,
 – Verzicht auf allein historisch begründete, wissenschaftlich nicht belegte Vorgehensweisen,
-– Auswahl von Desinfektionsmitteln und -verfahren, die eine schnelle Wiedereinsatzbereitschaft der Ret-
-tungsmittel ermöglichen.
-Tabelle 3 dieser Empfehlung bildet die „Farbcodierte Maßnahmentabelle für ausgewählte Infektions-
-krankheiten und -erreger“. Sie ordnet die in Kapitel 2 erläuterten Prinzipien den einzelnen Infektionskrank-
-heiten und - erregern zu und soll für das Einsatzpersonal im Rettungsdienst die konkrete Vorgabe (Handlungs-
-anweisung der Verantwortlichen) in der Einsatzsituation darstellen. Für die Rettungsleitstelle kann die Tabelle
+– Auswahl von Desinfektionsmitteln und -verfahren, die eine schnelle Wiedereinsatzbereitschaft der Rettungsmittel ermöglichen.
+Tabelle 3 dieser Empfehlung bildet die „Farbcodierte Maßnahmentabelle für ausgewählte Infektionskrankheiten und -erreger“. Sie ordnet die in Kapitel 2 erläuterten Prinzipien den einzelnen Infektionskrankheiten und - erregern zu und soll für das Einsatzpersonal im Rettungsdienst die konkrete Vorgabe (Handlungsanweisung der Verantwortlichen) in der Einsatzsituation darstellen. Für die Rettungsleitstelle kann die Tabelle
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 3
-als Informationsgrundlage bei der Disposition von Rettungsmitteln (u. a. Einschätzung der Dauer bis zum Wie-
-derherstellen der Einsatzbereitschaft) dienen.
+als Informationsgrundlage bei der Disposition von Rettungsmitteln (u. a. Einschätzung der Dauer bis zum Wiederherstellen der Einsatzbereitschaft) dienen.
 2. Prinzipien, Merkmale und Systematik der Empfehlung
 2.1 Desinfektionsverfahren
 Bei den in den Rettungsmitteln umzusetzenden Flächendesinfektionsmaßnahmen sind anhand der von
-den Desinfektionsmittelherstellern herausgegebenen Produktinformationen, Sicherheitsdatenblätter und Be-
-triebsanweisungen die umzusetzenden Maßnahmen des Arbeitsschutzes bzw. der Gefahrstoffverordnung
-(GefStoffV) festzulegen und einzuhalten. Es sollen i. S. einer rationellen und sicheren Vorgehensweise mög-
-lichst wenige verschiedene Mittel, Konzentrationen und Einwirkzeiten zum Einsatz kommen. Dieses wird durch
-eine Zusammenfassung von Ansprüchen an die Wirkung des Desinfektionsmittels zu maximal drei Verfah-
-rensvarianten erreicht.
-Als „Verfahren“ wird dabei die Kombination von Mittel, Konzentration, Einwirkzeit und Methode (Wisch-
-desinfektion) bezeichnet. In dieser Empfehlung werden folgende drei Verfahren der Flächendesinfektion un-
-terschieden:
+den Desinfektionsmittelherstellern herausgegebenen Produktinformationen, Sicherheitsdatenblätter und Betriebsanweisungen die umzusetzenden Maßnahmen des Arbeitsschutzes bzw. der Gefahrstoffverordnung
+(GefStoffV) festzulegen und einzuhalten. Es sollen i. S. einer rationellen und sicheren Vorgehensweise möglichst wenige verschiedene Mittel, Konzentrationen und Einwirkzeiten zum Einsatz kommen. Dieses wird durch
+eine Zusammenfassung von Ansprüchen an die Wirkung des Desinfektionsmittels zu maximal drei Verfahrensvarianten erreicht.
+Als „Verfahren“ wird dabei die Kombination von Mittel, Konzentration, Einwirkzeit und Methode (Wischdesinfektion) bezeichnet. In dieser Empfehlung werden folgende drei Verfahren der Flächendesinfektion unterschieden:
 – A = normaler Wirkungsanspruch
 1)
 (bakterizid, levurozid, begrenzt viruzid),
 – B = hoher Wirkungsanspruch (zusätzlich: fungizid, mykobakterizid, viruzid),
 – C = höchster Wirkungsanspruch (zusätzlich: sporizid).
 In Tabelle 1 sind die Wirkungsansprüche an Flächendesinfektionsmittel aufgeführt, die entsprechenden
-Prüfnormen benannt und den möglichen Verfahren A, B, C zugeordnet. Die Desinfektionsmittel mit der ent-
-sprechenden Konzentration und Einwirkzeit für die einzelnen Verfahren sind so zu wählen, dass die Desinfek-
-tion schnell, sicher, praktikabel und material- schonend erfolgt. Ferner ist zu gewährleisten, dass die Verfahren
-die Gesundheit der Patientinnen und Patienten und des Personals nicht beeinträchtigen (z. B. durch Allergi-
-sierung, Haut- und Schleimhautreizungen) und die Forderungen des Biozidprodukte- und des Medizinproduk-
-terechts Berücksichtigung finden. Es ist durchaus möglich, ein Desinfektionsmittel mit unterschiedlicher Kon-
-zentration und/oder Einwirkzeit in zwei Verfahren zu verwenden.
+Prüfnormen benannt und den möglichen Verfahren A, B, C zugeordnet. Die Desinfektionsmittel mit der entsprechenden Konzentration und Einwirkzeit für die einzelnen Verfahren sind so zu wählen, dass die Desinfektion schnell, sicher, praktikabel und material- schonend erfolgt. Ferner ist zu gewährleisten, dass die Verfahren
+die Gesundheit der Patientinnen und Patienten und des Personals nicht beeinträchtigen (z. B. durch Allergisierung, Haut- und Schleimhautreizungen) und die Forderungen des Biozidprodukte- und des Medizinprodukterechts Berücksichtigung finden. Es ist durchaus möglich, ein Desinfektionsmittel mit unterschiedlicher Konzentration und/oder Einwirkzeit in zwei Verfahren zu verwenden.
 Tabelle 1: Wirkungsansprüche an Flächendesinfektionsmittel
 
 Wirkungsanspruch Wirkungsspektrum
@@ -144,7 +109,6 @@ Desinfektionsmitteln.
 Im Rahmen dieser Empfehlung wird nur auf die Europäischen Normen Bezug genommen. Es steht frei, sich auch auf nationale
 Normen wie DIN- oder DVV-Normen oder VAH-Methoden zu beziehen.
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 4
 Wirkungsanspruch Wirkungsspektrum Prüfnormen
 2)
 
@@ -153,20 +117,15 @@ A B C
 begrenzt viruzid behüllte Viren EN 14476 X X X
 begrenzt viruzid
 Plus
-behüllte Viren + Noro-, Rota- und A-
-denoviren
+behüllte Viren + Noro-, Rota- und Adenoviren
 EN 14476 X X
 viruzid behüllte + unbehüllte Viren EN 14476 X X
 
 2.2 Anforderungen an Desinfektionsverfahren, Kriterien für die Auswahl von Wirkstoffen und Methoden der
 Anwendung
-In Tabelle 2 sind detailliert für die Desinfektionsverfahren mit normalem, hohem und höchstem Wirkungs-
-anspruch die zu stellenden Anforderungen aufgeführt. Damit können die für die Erstellung des Hygieneplans
-im Rettungsdienstbereich Verantwortlichen die bei den jeweiligen Verfahren einzusetzenden Desinfektions-
-mittel unter Beachtung der grundsätzlichen Forderungen, des erforderlichen Wirkungsspektrums und der emp-
-fohlenen Konzentrationen und Einwirkzeiten auswählen und festlegen.
-In Tabelle 3 sind die bei den verschiedenen Infektionskrankheiten und - erregern einzusetzenden Desinfek-
-tionsmaßnahmen benannt.
+In Tabelle 2 sind detailliert für die Desinfektionsverfahren mit normalem, hohem und höchstem Wirkungsanspruch die zu stellenden Anforderungen aufgeführt. Damit können die für die Erstellung des Hygieneplans
+im Rettungsdienstbereich Verantwortlichen die bei den jeweiligen Verfahren einzusetzenden Desinfektionsmittel unter Beachtung der grundsätzlichen Forderungen, des erforderlichen Wirkungsspektrums und der empfohlenen Konzentrationen und Einwirkzeiten auswählen und festlegen.
+In Tabelle 3 sind die bei den verschiedenen Infektionskrankheiten und - erregern einzusetzenden Desinfektionsmaßnahmen benannt.
 Tabelle 2: Anforderungen an Desinfektionsverfahren
 
 A/normaler
@@ -180,96 +139,72 @@ Forderungen
 – Verwendung aldehydfreier Desinfektionsmittel.
 – Beachtung europäischer Normen.
 – Sicherung einer umfassenden Materialverträglichkeit, bescheinigt durch entsprechende Desinfektionsmittelfreigaben der Hersteller der
-zu desinfizierenden Gegenstände und Flächen oder der Desinfekti-
-onsmittelhersteller.
+zu desinfizierenden Gegenstände und Flächen oder der Desinfektionsmittelhersteller.
 – Die Mittel sollen möglichst keine Rückstände bilden (sog. „Aufziehverhalten“), die ein intervallmäßiges Entfernen nötig machen.
 – Bei allen Flächendesinfektionsmaßnahmen sind anhand der herstellerseitigen
-Sicherheitsdatenblätter und Betriebsanweisungen die umzusetzenden Maß-
-nahmen des Arbeitsschutzes bzw. der GefStoffV festzulegen und einzuhalten.
+Sicherheitsdatenblätter und Betriebsanweisungen die umzusetzenden Maßnahmen des Arbeitsschutzes bzw. der GefStoffV festzulegen und einzuhalten.
 Erforderliches
 Wir- kungsspek- trum (siehe Tabelle 1)
 Bakterizid, levurozid,
 begrenzt viruzid, belegt durch Gutachten des Herstellers
-+ fungizid, mykobakteri-
-zid, viruzid, belegt durch Gutachten des Herstel- lers
++ fungizid, mykobakterizid, viruzid, belegt durch Gutachten des Herstel- lers
 + sporizid,
 belegt durch Gutachten des Herstellers
-Beispiele ein-
-zusetzender Wirkstoffe
+Beispiele einzusetzender Wirkstoffe
 Alkohole, alternativ auch
-quartäre Ammoniumver- bindungen (QAV), Alkyla-
-mine, Alkylaminderivate
+quartäre Ammoniumver- bindungen (QAV), Alkylamine, Alkylaminderivate
 oder Peroxidverbindungen
 
 Peroxidverbindungen,
-alternativ auch quartäre Ammoniumverbindun-
-gen (QAV), Alkylamine
+alternativ auch quartäre Ammoniumverbindungen (QAV), Alkylamine
 oder Alkylaminderivate
 Peroxidverbindungen
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 5
 A/normaler
 Wirkungsanspruch
 B/hoher
 Wirkungsanspruch
 C/höchster
 Wirkungsanspruch
-Listungen Optional VAH-Desinfek-
-tionsmittelliste
+Listungen Optional VAH-Desinfektionsmittelliste
 3)
 
-Optional VAH-Desinfekti-
-onsmittelliste plus
-optional IHO-Viruzidie-
-liste
+Optional VAH-Desinfektionsmittelliste plus
+optional IHO-Viruzidieliste
 4)
 
 RKI-Desinfektionsmittelliste
 5)
 
-Empfoh-
-lene Kon-
-zentration
+Empfohlene Konzentration
 (Konz.) und
 Einwirkzeit
 (EWZ)
-Die mittels Konzentrat oder hergestellten Desinfektionslösungen sollen (je Wir-
-kungsanspruch) auf eine Einwirkzeit von maximal 60 min (besser 15 oder 30 min)
+Die mittels Konzentrat oder hergestellten Desinfektionslösungen sollen (je Wirkungsanspruch) auf eine Einwirkzeit von maximal 60 min (besser 15 oder 30 min)
 abgestimmt sein.
-– Alkoholische Desin-
-fektionsmittel werden
-grundsätzlich unver-
-dünnt angewendet
+– Alkoholische Desinfektionsmittel werden
+grundsätzlich unverdünnt angewendet
 und haben i. d. R.
-eine kurze EWZ (Her-
-stellerangaben sind
+eine kurze EWZ (Herstellerangaben sind
 zu beachten!).
 – Bei Mischlösungen
 kann hier Konz. und
 EWZ
-z. B. mittels der VAH-
-Liste festgelegt werden.
+z. B. mittels der VAHListe festgelegt werden.
 Für die Festlegung von
 Konz. und EWZ ist hier
-die Viruzidie der Maß-
-stab, es sei denn, dass
-Fungizidie oder My-
-kobakterizidie höhere
+die Viruzidie der Maßstab, es sei denn, dass
+Fungizidie oder Mykobakterizidie höhere
 Konz. erfordern. Die Festlegung der Konz.
-und EWZ erfolgt hier an-
-hand der Herstelleranga-
-ben für Sporizidie.
+und EWZ erfolgt hier anhand der Herstellerangaben für Sporizidie.
 Methoden – Die Flächendesinfektion erfolgt als Wischdesinfektion.
 – Eine Verneblung von Wirkstoffen ersetzt nicht die Wischdesinfektion und kann des- wegen allenfalls zusätzlich zur Wischdesinfektion erfolgen
 6).
 
-– Vorgetränkte Tücher (sog. „Wipes“ oder „Tissues“) erleichtern die Durchführung der Flächendesinfektion. Wiederverwendbare Wipe- Behältnisse sind gemäß den Her-
-stellervorgaben aufzubereiten. Die betreffenden Maßnahmen sind in den Reini-
-gungs- und Desinfektionsplan aufzunehmen.
+– Vorgetränkte Tücher (sog. „Wipes“ oder „Tissues“) erleichtern die Durchführung der Flächendesinfektion. Wiederverwendbare Wipe- Behältnisse sind gemäß den Herstellervorgaben aufzubereiten. Die betreffenden Maßnahmen sind in den Reinigungs- und Desinfektionsplan aufzunehmen.
 
 2.3 Desinfektions-Ausführungen
-Die Flächendesinfektion im Rettungsmittel wird ausschließlich in den Ausführungen „Kontaktflächendesin-
-fektion“ und „Volldesinfektion“ umgesetzt. Indikationen für die jeweilige Ausführung und die bei der Ausführung
+Die Flächendesinfektion im Rettungsmittel wird ausschließlich in den Ausführungen „Kontaktflächendesinfektion“ und „Volldesinfektion“ umgesetzt. Indikationen für die jeweilige Ausführung und die bei der Ausführung
 zu beachtenden Hinweise sind unter den Nummern 2.3.1 und 2.3.2 aufgeführt.
 2.3.1 Kontaktflächendesinfektion
 – Die Durchführung als Routinemaßnahme erfolgt direkt nach jedem Einsatz und
@@ -281,29 +216,20 @@ Link: https://vah- online.de/de/. Nach Registrierung kann die Liste kostenfrei g
 Desinfektionsmittlelliste des Industrieverbandes Hygiene u. Oberflächenschutz für industrielle u. institutionelle Anwendung e. V. mit
 Aussagen zur Viruswirksamkeit von Desinfektionsmitteln, Link: http://www.iho -viruzidie-liste.de/Home/Page/1.
 5)
-Liste der vom Robert Koch- Institut geprüften und anerkannten Desinfektionsmittel und - verfahren mit Aussagen zu behördlich angeord-
-neten Desinfektionsmaßnahmen. Diese Liste soll nur zur Auswahl der Mittel, nicht zur Festlegung von Konz. und EWZ im Rettungs-
-dienst in Hygiene- bzw. Reinigungs- und Desinfektionsplänen herangezogen werden, Link: https://www.rki.de/DE/Content/Infekt/Kran-
-kenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_inhalt.html
+Liste der vom Robert Koch- Institut geprüften und anerkannten Desinfektionsmittel und - verfahren mit Aussagen zu behördlich angeordneten Desinfektionsmaßnahmen. Diese Liste soll nur zur Auswahl der Mittel, nicht zur Festlegung von Konz. und EWZ im Rettungsdienst in Hygiene- bzw. Reinigungs- und Desinfektionsplänen herangezogen werden, Link: https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_inhalt.html
 6)
 Siehe RKI/KRINKO: „Anforderungen an die Hygiene bei der Reinigung und Desinfektion von Flächen" (2022) Punkt 6.2.1 (Download unter https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Flaeche_Rili.pdf?__blob=publicationFile
 .
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 6
 – bei Infektionstransporten (auch bei MRSA-, 3MRGN-, VRE- Besiedlung), bei denen eine umfangreiche
 Flächenkontamination nicht gegeben oder anzunehmen ist.
-– Je nach Erreger können Desinfektionsmittel und Konzentrationen der Verfahren A, B oder C zur Anwen-
-dung kommen, bei den weitaus meisten Indikationen das Verfahren A.
+– Je nach Erreger können Desinfektionsmittel und Konzentrationen der Verfahren A, B oder C zur Anwendung kommen, bei den weitaus meisten Indikationen das Verfahren A.
 – Desinfiziert werden nur die Flächen bzw. Geräte, die durch Patientenkontakt oder Freisetzung von
 Biostoffen kontaminiert wurden oder kontaminiert sein könnten.
-– Offensichtliche Kontaminationen (z. B. Sputumanhaftung nach Husten) werden sofort desinfizierend be-
-seitigt, die routinemäßig erfolgende Schnelldesinfektion von Kontaktflächen erfolgt nach der Patienten-
-übergabe direkt vor Ort.
+– Offensichtliche Kontaminationen (z. B. Sputumanhaftung nach Husten) werden sofort desinfizierend beseitigt, die routinemäßig erfolgende Schnelldesinfektion von Kontaktflächen erfolgt nach der Patientenübergabe direkt vor Ort.
 – Die Kontaktflächendesinfektion erfolgt als Wischdesinfektion.
-– Die routinemäßig nach jeder Fahrt bzw. nach jedem Gebrauch zu desinfizierenden Flächen, Gegen-
-stände und Geräte sind im Hygieneplan bzw. in einem Reinigungs- und Desinfektionsplan zu listen. Je
-nach Sachverhalt und Situation ist vor Ort zu entscheiden, ob darüber hinaus weitere Flächen zu desin-
-fizieren sind.
+– Die routinemäßig nach jeder Fahrt bzw. nach jedem Gebrauch zu desinfizierenden Flächen, Gegenstände und Geräte sind im Hygieneplan bzw. in einem Reinigungs- und Desinfektionsplan zu listen. Je
+nach Sachverhalt und Situation ist vor Ort zu entscheiden, ob darüber hinaus weitere Flächen zu desinfizieren sind.
 – Gemäß den Empfehlungen der KRINKO
 7)
 und der VAH
@@ -315,25 +241,21 @@ Kontaktflächendesinfektion nicht notwendig und soll daher unterbleiben!
 – Die Durchführung erfolgt als Routinemaßnahme in festen Intervallen. Dabei ist ein vierwöchiges Intervall
 unter der Voraussetzung als sachgerecht anzusehen, dass
 – der Patientenraum regelmäßig gereinigt und
-– die routinemäßige Kontaktflächendesinfektion nach jedem Einsatz gemäß Nummer 2.3.1 konse-
-quent umgesetzt wird.
-– Als Indikationsmaßnahme wird die Volldesinfektion bei Infektionstransporten mit besonderer Gefähr-
-dungslage und bei belegbarer Indikation durchgeführt.
+– die routinemäßige Kontaktflächendesinfektion nach jedem Einsatz gemäß Nummer 2.3.1 konsequent umgesetzt wird.
+– Als Indikationsmaßnahme wird die Volldesinfektion bei Infektionstransporten mit besonderer Gefährdungslage und bei belegbarer Indikation durchgeführt.
 – Für jede dieser Indikationen sind entsprechende Festlegungen im Hygieneplan erforderlich (siehe auch
 Tabelle 3).
 – Je nach Erreger können Desinfektionsmittel, Konzentrationen und Einwirkzeiten der Verfahren A, B oder
 C zur Anwendung kommen. Je nach verwendetem Desinfektionsmittel ist es aber möglich, dass bei der
 Volldesinfektion nur zwei oder ein Verfahren angewandt werden.
-– Die Volldesinfektion wird im Gegensatz zur Kontaktflächendesinfektion an der Rettungswache durchge-
-führt, wobei das Fahrzeug erst nach Abwarten der Einwirkzeit (maximal 60 min, s. o.) wieder einsatzbereit
+– Die Volldesinfektion wird im Gegensatz zur Kontaktflächendesinfektion an der Rettungswache durchgeführt, wobei das Fahrzeug erst nach Abwarten der Einwirkzeit (maximal 60 min, s. o.) wieder einsatzbereit
 ist. Hierbei ist zu berücksichtigen, dass die Einwirkzeit und Konzentration sich nur dann an der RKI-Liste
 orientieren sollen, wenn die entsprechende Desinfektionsmaßnahme behördlich angeordnet wurde. Im
 Regelfall gelten stattdessen die jeweiligen Herstellervorgaben.
 – Die Volldesinfektion erfolgt als Wischdesinfektion. Die mechanische Reinigung ist hierbei wichtig! Eine
 Desinfektion durch Verneblung wird als Ersatz der Wischdesinfektion nicht akzeptiert
 9)
-. Von verschiede-
-nen Methoden zur Volldesinfektion ist abzuraten.
+. Von verschiedenen Methoden zur Volldesinfektion ist abzuraten.
 
 7)
 Siehe RKI/KRINKO: „Anforderungen an die Hygiene bei der Reinigung und Desinfektion von Flächen" (2022) Punkt 5.2 (Download
@@ -343,16 +265,12 @@ VAH-Veröffentlichung (2017) „Fragen und Antworten zu Maßnahmen der Antisepti
 (Download unter https://vah -online.de/files/download/VAH_Fragen_und_Antworten.pdf).
 9)
 Siehe VAH-Veröffentlichung (2017) „Fragen und Antworten zu Maßnahmen der Antiseptik und der chemischen Desinfektion“ Seite 35
-(Download unter https://vah -online.de/files/download/VAH_Fragen_und_Antworten.pdf ). Das RKI ist der Auffassung, dass die Raum-
-desinfektion als eine Ergänzung zur Wischdesinfektion anzusehen ist (siehe Punkt 3.3 der RKI-Liste).
+(Download unter https://vah -online.de/files/download/VAH_Fragen_und_Antworten.pdf ). Das RKI ist der Auffassung, dass die Raumdesinfektion als eine Ergänzung zur Wischdesinfektion anzusehen ist (siehe Punkt 3.3 der RKI-Liste).
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 7
-– Es werden alle Flächen innerhalb des Patientenraumes einschließlich der eingebauten Schränke desin-
-fiziert. Die zu desinfizierenden Flächen und Gegenstände sind im Hygieneplan bzw. im Reinigungs- und
+– Es werden alle Flächen innerhalb des Patientenraumes einschließlich der eingebauten Schränke desinfiziert. Die zu desinfizierenden Flächen und Gegenstände sind im Hygieneplan bzw. im Reinigungs- und
 Desinfektionsplan zu listen.
 2.4 Schutzmaßnahmen
-Für den Einsatz von Schutzmaßnahmen gelten folgende Regeln und Prinzipien, die in der Tabelle 3 um-
-gesetzt sind:
+Für den Einsatz von Schutzmaßnahmen gelten folgende Regeln und Prinzipien, die in der Tabelle 3 umgesetzt sind:
 – Vorgaben des Arbeitsschutzes zur persönlichen Schutzausrüstung (PSA) bei jedem Einsatz (z. B. Tragen
 von Handschuhen
 10)
@@ -360,39 +278,29 @@ bei
 
 jedem Patientenkontakt) und bei besonderem Risiko durch möglichen Kontakt
 mit Blut, Ausscheidungen, Sekreten, Aerosolen, insbesondere bei Verspritzen von Körperflüssigkeiten,
-sind grundsätzlich zu beachten. Hierzu gehören z. B. das Tragen einer Schutzbrille durch die Mitarbeite-
-rinnen und Mitarbeiter, patientenseitig der Mund- Nasen- Schutz (MNS) – soweit toleriert – und ggf. „Heat
-and Moisture Exchanger” (sog. HME-Filter) bei Patientinnen und Patienten mit Tracheostoma. In Ta-
-belle 3 werden diese Schutzmaßnahmen nur bei gegebener Indikation aufgrund der Infektionskrankheit
+sind grundsätzlich zu beachten. Hierzu gehören z. B. das Tragen einer Schutzbrille durch die Mitarbeiterinnen und Mitarbeiter, patientenseitig der Mund- Nasen- Schutz (MNS) – soweit toleriert – und ggf. „Heat
+and Moisture Exchanger” (sog. HME-Filter) bei Patientinnen und Patienten mit Tracheostoma. In Tabelle 3 werden diese Schutzmaßnahmen nur bei gegebener Indikation aufgrund der Infektionskrankheit
 bzw. der Erregereigenschaften aufgeführt.
 – Es soll kein obligatorischer Gebrauch von Schutzkitteln bei jeder Fahrt erfolgen.
 – Vorrangig sollen Kittel genutzt werden, wenn Schutzkleidung erforderlich ist.
 – Tragen von Overalls ist nur „besonderen Einsatzfällen“ vorbehalten, dazu sollen Sets mit Overalls, FFP2 -
 Masken und Schutzbrillen bereitgehalten und verwendet werden.
-– Infektiologische Indikationen für Schutzbrillen und FFP3-Masken sind selten gegeben (z. B. offene Tu-
-berkulose).
-– Nach den Erfahrungen in der COVID-19-Pandemie können FFP2- Masken gut bei Patientinnen und Pati-
-enten eingesetzt werden, ggf. MNS, wenn die FFP2-Maske nicht toleriert wird.
-– Zur Vereinfachung des Vorgehens wird kein Unterschied zwischen Tröpfchen- und aerogener Übertra-
-gung gemacht, und es werden die verschiedenen MRE (MRSA, MRGN, VRE) gemeinsam aufgeführt.
+– Infektiologische Indikationen für Schutzbrillen und FFP3-Masken sind selten gegeben (z. B. offene Tuberkulose).
+– Nach den Erfahrungen in der COVID-19-Pandemie können FFP2- Masken gut bei Patientinnen und Patienten eingesetzt werden, ggf. MNS, wenn die FFP2-Maske nicht toleriert wird.
+– Zur Vereinfachung des Vorgehens wird kein Unterschied zwischen Tröpfchen- und aerogener Übertragung gemacht, und es werden die verschiedenen MRE (MRSA, MRGN, VRE) gemeinsam aufgeführt.
 – Es besteht kein Bedarf für besondere Schutzmaßnahmen bei Patientinnen und Patienten mit Besiedlung
 durch 2MRGN-Bakterien bzw. Bakterien, die ESBL produzieren.
 2.5 Besondere Hinweise zu Infektionsschutzmaßnahmen bei COVID-19 bzw. SARS-CoV-2
 11)
 
-Die COVID- 19-Pandemie wurde im März 2023 für beendet erklärt. Seitdem sind alle Infektionsschutzmaß-
-nahmen auf ein der Influenza entsprechendes Niveau reduziert worden. Nach der Delta- Variante hat auch die
+Die COVID- 19-Pandemie wurde im März 2023 für beendet erklärt. Seitdem sind alle Infektionsschutzmaßnahmen auf ein der Influenza entsprechendes Niveau reduziert worden. Nach der Delta- Variante hat auch die
 Virulenz von SARS-CoV-2 erheblich abgenommen, wobei die Mortalität von COVID-19 zur Zeit immer noch
 höher ist als bei Influenza. Die sich schnell verändernden Virusvarianten können leider auch zu einer Abnahme
-des Impfschutzes führen. Eine Impfung gegen Corona, insbesondere auch eine Auffrischimpfung, wird des-
-halb weiterhin für Mitarbeitende im Gesundheitsdienst empfohlen.
-Nach vier Jahren COVID-19-Pandemie konnten sehr viele Erkenntnisse über die Virusübertragung, Infek-
-tion und Krankheitsschwere gewonnen werden. Wir wissen jetzt, dass das SARS-CoV-2-Virus in fast allen
+des Impfschutzes führen. Eine Impfung gegen Corona, insbesondere auch eine Auffrischimpfung, wird deshalb weiterhin für Mitarbeitende im Gesundheitsdienst empfohlen.
+Nach vier Jahren COVID-19-Pandemie konnten sehr viele Erkenntnisse über die Virusübertragung, Infektion und Krankheitsschwere gewonnen werden. Wir wissen jetzt, dass das SARS-CoV-2-Virus in fast allen
 Fällen direkt durch Tröpfchen oder Tröpfchenkerne (Aerosole) beim Ausatmen und Einatmen bei geringem
-Abstand zwischen den Menschen übertragen wird. Daher sollte, wenn möglich, ein Abstand über 1,5 m ein-
-gehalten werden. Vor allem bei hoher Viruslast und längerem Aufenthalt in geschlossenen Räumen spielen
-insbesondere die Aerosole eine wichtige Rolle, da sie sich im Raum verteilen und über einen längeren Zeit-
-raum und bei größerem Abstand eingeatmet werden können. Kontakt- und Schmierinfektionen spielen eher
+Abstand zwischen den Menschen übertragen wird. Daher sollte, wenn möglich, ein Abstand über 1,5 m eingehalten werden. Vor allem bei hoher Viruslast und längerem Aufenthalt in geschlossenen Räumen spielen
+insbesondere die Aerosole eine wichtige Rolle, da sie sich im Raum verteilen und über einen längeren Zeitraum und bei größerem Abstand eingeatmet werden können. Kontakt- und Schmierinfektionen spielen eher
 eine untergeordnete Rolle.
 
 10)
@@ -406,21 +314,14 @@ Intergration von SARS -CoV-2 als Erreger von Infektionen in der endemischen
 Situation in die Empfehlungen der KRINKO „Infektionsprävention im Rahmen der Pflege und Behandlung von Patienten mit
 übertragbaren Krankheiten“ (11/2023).
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 8
 Das heißt, die entscheidende Maßnahme ist der Schutz vor Einatmung durch eine dicht anliegende
 FFP2-Maske.
-Die Händedesinfektion beeinflusst die Corona- Virus-Übertragung nicht wesentlich, ist aber im Rettungs-
-dienst grundsätzlich im Rahmen der Basishygiene ein „Muss“.
+Die Händedesinfektion beeinflusst die Corona- Virus-Übertragung nicht wesentlich, ist aber im Rettungsdienst grundsätzlich im Rahmen der Basishygiene ein „Muss“.
 Bei hoher Viruslast könnten auch die Schleimhäute der Augen eine begrenzte Rolle bei der Übertragung
-spielen. Daher ist ein Schutz der Augen mit Schutzbrille oder Plexiglas-Schutzschirm insbesondere bei hus-
-tenden Patientinnen und Patienten zu empfehlen bzw. für Situationen, bei denen mit Verspritzungen von po-
-tentiell infektiösen Körperflüssigkeiten zu rechnen ist. Eine zusätzliche Schutzkleidung beeinflusst die Corona-
-Virus-Übertragung nicht, so dass sie, wie sonst auch, nur bei engen Kontakten mit der Patientin oder dem
+spielen. Daher ist ein Schutz der Augen mit Schutzbrille oder Plexiglas-Schutzschirm insbesondere bei hustenden Patientinnen und Patienten zu empfehlen bzw. für Situationen, bei denen mit Verspritzungen von potentiell infektiösen Körperflüssigkeiten zu rechnen ist. Eine zusätzliche Schutzkleidung beeinflusst die CoronaVirus-Übertragung nicht, so dass sie, wie sonst auch, nur bei engen Kontakten mit der Patientin oder dem
 Patienten, Körperflüssigkeiten u. Ä. getragen werden muss.
-Die Mitarbeitenden im Gesundheitsdienst, und i nsbesondere auch im Rettungsdienst, müssen darauf ach-
-ten, dass von ihnen keine Infektionsgefahren für die möglicherweise vulnerablen Patientinnen und Patienten
-ausgehen. Das beinhaltet das Tragen einer FFP2- Maske bei möglicher eigener Infektion mit dem Corona-
-Virus, einen Impfschutz, achten auf Infektionsgefahren und ein „Selbstmonitoring“ zur frühen Erfassung von
+Die Mitarbeitenden im Gesundheitsdienst, und i nsbesondere auch im Rettungsdienst, müssen darauf achten, dass von ihnen keine Infektionsgefahren für die möglicherweise vulnerablen Patientinnen und Patienten
+ausgehen. Das beinhaltet das Tragen einer FFP2- Maske bei möglicher eigener Infektion mit dem CoronaVirus, einen Impfschutz, achten auf Infektionsgefahren und ein „Selbstmonitoring“ zur frühen Erfassung von
 eigenen Krankheitssymptomen.
 Achten Sie auf eigene Infektionssymptome (kein Dienstantritt mit typischer Infektionssymptomatik).
 Achtung: SARS- CoV-2-Übertragungen zwischen Beschäftigten erfolgen fast immer bei engem „Face to
@@ -428,26 +329,17 @@ Face“-Kontakt.
 Insbesondere in Einsatzsituationen wird folgendes Vorgehen empfohlen:
 Infektionsschutzmaßnahmen zum Eigenschutz:
 – vor jedem Kontakt mit Corona infizierten Patientinnen und Patienten oder Patientinnen und Patienten mit
-typischen Symptomen FFP2-M aske aufsetzen, bei engem Kontakt mit hustenden Patientinnen und Patien-
-ten ggf. Schutzbrille,
+typischen Symptomen FFP2-M aske aufsetzen, bei engem Kontakt mit hustenden Patientinnen und Patienten ggf. Schutzbrille,
 – der oder dem mit Corona infizierten Patientin oder Patienten, wenn irgendwie möglich, eine FFP2- Maske
 oder mindestens einen MNS anlegen,
 – bei gesicherter COVID-19-Erkrankung bzw. SARS-CoV-2-Infektion der Patientin oder des Patienten sind
-FFP-2-Maske und ggf. Schutzbrille zu verwenden und ggf. bei engem Kontakt (s. o.) zusätzlich ein Schutz-
-kittel anzulegen.
+FFP-2-Maske und ggf. Schutzbrille zu verwenden und ggf. bei engem Kontakt (s. o.) zusätzlich ein Schutzkittel anzulegen.
 Bei einem Kontakt mit COVID-19- Patientinnen und - Patienten ist unter Nutzung der oben beschriebenen
-Schutzmaßnahmen keine weitere Maßnahme nötig. Konnten die Schutzmaßnahmen nicht eingehalten wer-
-den, wird ein konsequentes Tragen der FFP2- Maske und die Selbstinspektion empfohlen. Bei Krankheits-
-symptomen i. S. einer COVID-19-Infektion mit positiven Antigenschnelltest sieben Tage Fernbleiben vom Ar-
-beitsplatz, ggf. „Freitesten“ nach fünf Tagen. Symptomfreie Mitarbeitende sollen eine FFP2- Maske zum Schutz
+Schutzmaßnahmen keine weitere Maßnahme nötig. Konnten die Schutzmaßnahmen nicht eingehalten werden, wird ein konsequentes Tragen der FFP2- Maske und die Selbstinspektion empfohlen. Bei Krankheitssymptomen i. S. einer COVID-19-Infektion mit positiven Antigenschnelltest sieben Tage Fernbleiben vom Arbeitsplatz, ggf. „Freitesten“ nach fünf Tagen. Symptomfreie Mitarbeitende sollen eine FFP2- Maske zum Schutz
 der anderen Mitarbeitenden, Patientinnen und Patienten tragen.
-Die aktuelle Empfehlung der „Schutz - und Hygienemaßnahmen im Rettungsdienst“ kann auf der Internet-
-seite des MI unter folgendem Link
-https://www.mi.niedersachsen.de/startseite/themen/innere_sicherheit/ret-
-tungsdienste/landesausschuss-rettungsdienst-94255.html bzw. über die Internetseite des Landesausschus-
-ses „Rettungsdienst“ https://lard- nds.de abgerufen werden.
+Die aktuelle Empfehlung der „Schutz - und Hygienemaßnahmen im Rettungsdienst“ kann auf der Internetseite des MI unter folgendem Link
+https://www.mi.niedersachsen.de/startseite/themen/innere_sicherheit/rettungsdienste/landesausschuss-rettungsdienst-94255.html bzw. über die Internetseite des Landesausschusses „Rettungsdienst“ https://lard- nds.de abgerufen werden.
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 9
 
 Q 6 2 I ^ B U Q ] 2 Y I Y + Q I c Q = k   k  2 Z Y 2 = 2 Z k  ! Q 7 2 I ^ B i ] 2 k  h . 2 \ Z + = c Q = k    Q 6 2 I ^ C U Q ] ] 0 @ c b k   2 ] C Q 6 2 I ^ G U Q k   e ^ Z + ] k
 ( c . ] ^ + Q g 2 Q k
@@ -534,16 +426,9 @@ B       < É )   (
         
 • <  ã               f > C 5 Q 5 . 5 - d < Y - ? 5 Y k  ˆ  )   J    P  )  Â ä  õ      Ê :   – G  Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 10
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 11
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 12
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 13
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 14
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 15
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 16
 
-Nds. MBl. 2024 Nr. 153 vom 28. März 2024 Seite 17

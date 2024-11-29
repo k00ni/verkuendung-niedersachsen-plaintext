@@ -16,46 +16,33 @@ RdErl. v. 20.12.2023 (Nds. MBl. S. 1126)
 
 1. Regelungsinhalt
 Dieser RdErl. dient der landesweiten Einhaltung der Anforderungen, die sich aus den Zielen hinsichtlich
-des mengenmäßigen Zustande s des Grundwassers gemäß Richtlinie 2000/60/EG des Europäischen Parla-
-ments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
+des mengenmäßigen Zustande s des Grundwassers gemäß Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
 Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S.1), zuletzt geändert durch Richtlinie
 2014/101/EU der Kommission vom 30.10.2014 (ABl. L 311 vom 31.10.2014, S. 32) – im Folgenden: WRRL –
 und den entsprechenden nationalen Regelungen ergeben. Die Einhaltung von Bewirtschaftungszielen bezieht
 sich auf die Ebene von Grundwasserkörpern. Dieser RdErl. enthält Regelungen, die im wasserrechtlichen
 Zulassungsverfahren für Grundwasserentnahmen i. S. eines einheitlichen Vollzugs von Bedeutung sind.
-Bei Entnahmen aus dem Grundwasser sind die in den Nummern 2 bis 7 enthaltenen Vorgaben zu beach-
-ten.
+Bei Entnahmen aus dem Grundwasser sind die in den Nummern 2 bis 7 enthaltenen Vorgaben zu beachten.
 2. Bekanntgabe des landesweiten Bewirtschaftungsrahmen s für das Grundwasser
 Das Grundwasser ist so zu bewirtschaften, dass die in § 6 WHG genannten Grundsätze und die in § 47
 Abs. 1 WHG genannten Bewirtschaftungsziele eingehalten werden. Als eines der Bewirtschaftungsziele gilt
 es, den guten mengenmäßigen Zustand des Grundwassers zu erhalten. In § 4 der GrwV werden die Kriterien
-zur Einstufung des mengenmäßigen Zustande s genannt. Bewirtschaftungseinheiten sind die Grundwasser-
-körper (GWK).
+zur Einstufung des mengenmäßigen Zustande s genannt. Bewirtschaftungseinheiten sind die Grundwasserkörper (GWK).
 Ein Grundwasserkörper ist gemäß § 3 Nr. 6 WHG ein abgegrenztes Grundwasservolumen innerhalb eines
 Grundwasserleiters oder mehrerer Grundwasserleiter. Die oberirdischen Grenzen der Grundwasserkörper
 sind der Anlage 1 sowie dem MU-Umweltkartenserver (
-https://www.umwelt.niedersachsen.de/startseite/ser-
-vice/umweltkarten/interaktive- umweltkarten- der-umweltverwaltung- 8669.html) z
+https://www.umwelt.niedersachsen.de/startseite/service/umweltkarten/interaktive- umweltkarten- der-umweltverwaltung- 8669.html) z
 gen Wasserbehörden bewirtschaften die Grundwasserkörper gemeinsam.
-Entsprechend dem Ziel eines guten mengenmäßigen Zustande s – bezogen auf die Bewirtschaftungsein-
-heit der Grundwasserkörper – wurde die nutzbare Grundwasserda rgebotsreserve unter Berücksichtigung der
+Entsprechend dem Ziel eines guten mengenmäßigen Zustande s – bezogen auf die Bewirtschaftungseinheit der Grundwasserkörper – wurde die nutzbare Grundwasserda rgebotsreserve unter Berücksichtigung der
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 2
-Kriterien gemäß § 4 GrwV landesweit mit einem Abschätzverfahren ermittelt; sie ist in der Anlage 2 als „maß-
-gebliche nutzbare Grundwasserdargebot sreserve“ der Grundwasserkörper aufgeführt.
-Die nutzbare Grundwasserdargebotsreserve wird für mittlere Verhältnisse (Spalte H) für den Projektions-
-zeitraum 2031– 2060 angegeben. Damit finden Klimawandelszenarien für die nahe Zukunft Berücksichtigung.
+Kriterien gemäß § 4 GrwV landesweit mit einem Abschätzverfahren ermittelt; sie ist in der Anlage 2 als „maßgebliche nutzbare Grundwasserdargebot sreserve“ der Grundwasserkörper aufgeführt.
+Die nutzbare Grundwasserdargebotsreserve wird für mittlere Verhältnisse (Spalte H) für den Projektionszeitraum 2031– 2060 angegeben. Damit finden Klimawandelszenarien für die nahe Zukunft Berücksichtigung.
 Die entscheidende Bewirtschaftungsgröße ist die maßgebliche nutzbare Grundwasserdargebotsreserve
-(Spalte K). Sie ergibt sich bei einem Teil der Grundwasserkörper dadurch, dass die nutzbare Grundwasserdar-
-gebotsreserve für mittlere Verhältnisse im Rahmen von Trendbetrachtungen modifiziert wurde.
-Um wegen erwartbarer Trockenperioden eine zusätzliche Orientierung zu schaffen, wurde auch eine nutz-
-bare Grundwasserdargebotsreserve für trockene Verhältnisse abgeschätzt. Auf Grundlage der Abschätzung
-der nutzbaren Grundwasserdargebotsreserven findet eine Klassifizierung in drei Stufen statt; diese veran-
-schaulicht, inwieweit in den Grundwasserkörpern jeweils überwiegend eine nutzbare Dargebotsreserve für
-mittlere Verhältnisse vorhanden ist (Spalte J). Ergänzend ist diese Klassifizierung in der Anlage 3 (Klassifizie-
-rung der Grundwasserkörper) dargestellt. Sie wird unter Nummer 3.2 näher erläutert.
-Die Beschreibung der „Verfahrensweise zur Abschätzung der nutzbaren Dargebotsreserve“ sowie alle An-
-lagen zu diesem RdErl. stehen auf der Internetseite des MU unter www.umwelt.niedersachsen.de und dort
+(Spalte K). Sie ergibt sich bei einem Teil der Grundwasserkörper dadurch, dass die nutzbare Grundwasserdargebotsreserve für mittlere Verhältnisse im Rahmen von Trendbetrachtungen modifiziert wurde.
+Um wegen erwartbarer Trockenperioden eine zusätzliche Orientierung zu schaffen, wurde auch eine nutzbare Grundwasserdargebotsreserve für trockene Verhältnisse abgeschätzt. Auf Grundlage der Abschätzung
+der nutzbaren Grundwasserdargebotsreserven findet eine Klassifizierung in drei Stufen statt; diese veranschaulicht, inwieweit in den Grundwasserkörpern jeweils überwiegend eine nutzbare Dargebotsreserve für
+mittlere Verhältnisse vorhanden ist (Spalte J). Ergänzend ist diese Klassifizierung in der Anlage 3 (Klassifizierung der Grundwasserkörper) dargestellt. Sie wird unter Nummer 3.2 näher erläutert.
+Die Beschreibung der „Verfahrensweise zur Abschätzung der nutzbaren Dargebotsreserve“ sowie alle Anlagen zu diesem RdErl. stehen auf der Internetseite des MU unter www.umwelt.niedersachsen.de und dort
 über den Pfad „Wasser > Grundwasser > Grundwasser-Menge/ -Stand > Erlass Mengenbewirtschaftung“ zur
 Verfügung.
 Die Ergebnisse gemäß Anlage 2 und Anlage 3 beschreiben den Bewirtschaftungsrahmen auf Ebene der
@@ -66,8 +53,7 @@ in Anlage 5 dargestellt.
 In den Anlagen 3 und 5 sind die Grundwasserkörper - und Teilkörpergrenzen mit ihrer Umsetzung auf das
 Raster (500 m x 500 m) dargestellt.
 Der beschriebene Bewirtschaftungsrahmen soll dazu beitragen, dass nicht durch einzelne Nutzungen oder
-die Summe von Nutzungen der gute mengenmäßige Zustand gefährdet wird. Das Erfordernis einer wasser-
-rechtlichen Erlaubnis oder Bewilligung (§ 8 WHG) für eine Grundwasserbenutzung im Einzelfall bleibt davon
+die Summe von Nutzungen der gute mengenmäßige Zustand gefährdet wird. Das Erfordernis einer wasserrechtlichen Erlaubnis oder Bewilligung (§ 8 WHG) für eine Grundwasserbenutzung im Einzelfall bleibt davon
 unberührt.
 3. Einhaltung des Bewirtschaftungsrahmens
 3.1 Grundsätzliches
@@ -79,187 +65,123 @@ Um die Berücksichtigung der vorgenannten Anforderungen in den Zulassungsverfahr
 landesweit für die zu bewirtschaftenden Grundwasserkörper die nutzbare Grundwasserdargebotsreserve mit
 einem vom
 Gewässerkundlichen Landesdienst (GLD) dokumentierten Abschätzverfahren ermittelt worden
-und in den Anlagen 2 und 3 dargestellt. Ergänzend wurden auf Basis der rasterbasierten Methode zur Ab-
-schätzung der nutzbaren Grundwasserdargebotsreserve Daten auch auf Ebene der Teilkörper ermittelt und
+und in den Anlagen 2 und 3 dargestellt. Ergänzend wurden auf Basis der rasterbasierten Methode zur Abschätzung der nutzbaren Grundwasserdargebotsreserve Daten auch auf Ebene der Teilkörper ermittelt und
 Angaben zur maßgeblichen nutzbaren Grundwasserdargebotsreserve auf Ebene der Grundwasserteilkörper
 der unteren Wasserbehörden in Anlage 4 dargestellt.
 Die Ziele hinsichtlich der mengenmäßigen Bewirtschaftung eines Grundwasserkörpers gemäß § 47 Abs. 1
 WHG sollen grundsätzlich dadurch erreicht werden, dass die Summe aller Benutzungen, die künftig zusätzlich
-zu den bereits zugelassenen (Anlage 2, Spalte G) erlaubt bzw. bewilligt werden und die sich auf die Grund-
-wassermenge auswirken, die in Anlage 2, Spalte K dargestellte maßgebliche nutzbare Grundwasserdarge-
-botsreserve im jeweiligen Grundwasserkörper nicht überschreitet. Die genannte Zielsetzung ist bei der men-
-genmäßigen Bewirtschaftung des Grundwassers durch die unteren Wasserbehörden zu beachten. Zusätzlich
+zu den bereits zugelassenen (Anlage 2, Spalte G) erlaubt bzw. bewilligt werden und die sich auf die Grundwassermenge auswirken, die in Anlage 2, Spalte K dargestellte maßgebliche nutzbare Grundwasserdargebotsreserve im jeweiligen Grundwasserkörper nicht überschreitet. Die genannte Zielsetzung ist bei der mengenmäßigen Bewirtschaftung des Grundwassers durch die unteren Wasserbehörden zu beachten. Zusätzlich
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 3
-sind im Einzelfall die örtlichen Auswirkungen einer Grundwassernutzung nach den unter Nummer 5 darge-
-stellten Kriterien zu prüfen.
+sind im Einzelfall die örtlichen Auswirkungen einer Grundwassernutzung nach den unter Nummer 5 dargestellten Kriterien zu prüfen.
 Die Angaben zur maßgeblichen nutzbaren Grundwasserdargebotsreserve auf der Ebene von Teilkörpern,
-die in Anlage 4 enthalten sind, sollen ( wie in der Vergangenheit) die unteren Wasserbehörden bei der Umset-
-zung der vorstehenden, auf Grundwasserkörper bezogenen Vorgabe unterstützen. Eine Überschreitung der
-maßgeblichen nutzbaren Grundwasserdargebotsreserve, die die Anlage 4 für das Gebiet einer unteren Was-
-serbehörde ausweist, kommt demnach in Betracht, wenn dabei die Zielvorgabe auf der Grundwasserkör-
-perebene gewahrt bleibt. Dies setzt zum einen eine Vereinbarung unter den unteren Wasserbehörden, die an
+die in Anlage 4 enthalten sind, sollen ( wie in der Vergangenheit) die unteren Wasserbehörden bei der Umsetzung der vorstehenden, auf Grundwasserkörper bezogenen Vorgabe unterstützen. Eine Überschreitung der
+maßgeblichen nutzbaren Grundwasserdargebotsreserve, die die Anlage 4 für das Gebiet einer unteren Wasserbehörde ausweist, kommt demnach in Betracht, wenn dabei die Zielvorgabe auf der Grundwasserkörperebene gewahrt bleibt. Dies setzt zum einen eine Vereinbarung unter den unteren Wasserbehörden, die an
 dem Grundwasserkörper beteiligt sind, über eine veränderte Aufteilung voraus. Da die Teilkörpermengen auf
 der Basis eines rasterbasierten Ansatzes ermittelt wurden, wird zum anderen dezidiert empfohlen, im Fall
 einer solchen „Umverteilung“ ihre Auswirkungen für den gesamten Grundwasserkörper zu prüfen und dabei
 den GLD einzubinden.
 Aufgrund des Bearbeitungsmaßstabes (Grundwasserkörper oder Teilkörper) wurden die Kriterien des § 4
-Abs. 2 Nr. 2 GrwV bei der Abschätzung der nutzbaren Grundwasserdargebotsreserve nur allgemein berück-
-sichtigt. Eine Ableitung für konkrete einzelne Zulassungsverfahren zu diesen Zielaspekten ist auf dieser
+Abs. 2 Nr. 2 GrwV bei der Abschätzung der nutzbaren Grundwasserdargebotsreserve nur allgemein berücksichtigt. Eine Ableitung für konkrete einzelne Zulassungsverfahren zu diesen Zielaspekten ist auf dieser
 Grundlage daher nicht möglich.
 Bei der Prüfung eines Wasserrechtsantrags sind daher in einem gesonderten Fachbeitrag die konkreten
-örtlichen Auswirkungen ergänzend daraufhin zu bewerten, ob eine Verschlechterung des Zustande s des je-
-weiligen Grundwasserkörpers oder nach den Kriterien des § 4 Abs. 2 Nr. 2 GrwV ein sonstiger Konflikt mit den
+örtlichen Auswirkungen ergänzend daraufhin zu bewerten, ob eine Verschlechterung des Zustande s des jeweiligen Grundwasserkörpers oder nach den Kriterien des § 4 Abs. 2 Nr. 2 GrwV ein sonstiger Konflikt mit den
 Bewirtschaftungszielen in Betracht kommt („Fachbeitrag WRRL“). Der Inhalt einer solchen Einzelfallprüfung
-ist – über die allgemeinen Aussagen unter Nummer 5 hinaus – nicht Gegenstand dieses Rd Erl. Auf entspre-
-chende Veröffentlichungen wird in diesem Kontext verwiesen (u. a. „Arbeitshilfe zur Berücksichtigung der Be-
-wirtschaftungsziele für Oberflächengewässer im Rahmen von Zulassungsverfahren für Grundwasserentnah-
-men“, Oberirdische Gewässer Band 43, NLWKN [
-https://www.nlwkn.niedersachsen.de/fliessgewaesser/vero-
-effentlichungen- zum-thema-fliegewaesser-zum-downloaden- 150818.html] und „ Niedersächsischer Beitrag zu
+ist – über die allgemeinen Aussagen unter Nummer 5 hinaus – nicht Gegenstand dieses Rd Erl. Auf entsprechende Veröffentlichungen wird in diesem Kontext verwiesen (u. a. „Arbeitshilfe zur Berücksichtigung der Bewirtschaftungsziele für Oberflächengewässer im Rahmen von Zulassungsverfahren für Grundwasserentnahmen“, Oberirdische Gewässer Band 43, NLWKN [
+https://www.nlwkn.niedersachsen.de/fliessgewaesser/veroeffentlichungen- zum-thema-fliegewaesser-zum-downloaden- 150818.html] und „ Niedersächsischer Beitrag zu
 den Maßnahmen programmen 2021 bis 2027 der Flussgebiete Elbe, Weser, Ems und Rhein“ , S. 37
-[https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktuali-
-sierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
+[https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
 128758.html]).
 Bei allen Wasserrechtsanträgen für Entnahmen aus dem Grundwasser muss das Einzugsgebiet sicher
 bestimmt werden, um eine klare Zuordnung der Entnahmemengen zu den Grundwasserkörpern sicherzustel- len. Wenn bei größeren Entnahmemengen wesentliche Auswirkungen auf den Wasserhaushalt zu erwarten
 sind oder bei komplexen hydrogeologischen Verhältnissen ist für die Bestimmung des Einzugsgebietes und
-für die Bewertung der Auswirkungen einer Entnahme von Grundwasser auf den Grundwasserhaushalt in der Regel ein Grundwassermodell zu fordern. Sofern die Datenlage (z. B. Messnetz) und daraus abgeleitete Er-
-kenntnisse hinreichend belastbare Aussagen über die Auswirkungen einer zukünftigen Entnahme von Grund- wasser zulassen, kann auf ein Grundwassermodell verzichtet werden.
-Die grundsätzlichen hydrogeologischen und bodenkundlichen Anforderungen an Anträge zur Grundwas-
-serentnahme sind den GeoBerichten 15 des LBEG (
-https://www.lbeg.niedersachsen.de/karten_daten_publi-
-kationen/publikationen/geoberichte/geoberichte- 857.html) z
-diese Anforderungen in den Geofakten 3 ( https://www.lbeg.niedersachsen.de/karten_daten_publikatio-
-nen/publikationen/geofakten/geofakten- 872.html) u den GeoBerichten 15 des LBEG spezifiziert.
+für die Bewertung der Auswirkungen einer Entnahme von Grundwasser auf den Grundwasserhaushalt in der Regel ein Grundwassermodell zu fordern. Sofern die Datenlage (z. B. Messnetz) und daraus abgeleitete Erkenntnisse hinreichend belastbare Aussagen über die Auswirkungen einer zukünftigen Entnahme von Grund- wasser zulassen, kann auf ein Grundwassermodell verzichtet werden.
+Die grundsätzlichen hydrogeologischen und bodenkundlichen Anforderungen an Anträge zur Grundwasserentnahme sind den GeoBerichten 15 des LBEG (
+https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geoberichte/geoberichte- 857.html) z
+diese Anforderungen in den Geofakten 3 ( https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geofakten/geofakten- 872.html) u den GeoBerichten 15 des LBEG spezifiziert.
 3.2 Berücksichtigung der Klassifizierung der nutzbaren Grundwasserdargebotsreserve für zusätzliche
 Grundwasserentnahmen
 3.2.1 Klassifizierung
-Die Prüfung zusätzlicher Entnahmen bezüglich des Bewirtschaftungsrahmens erfolgt anhand der „maß-
-geblichen nutzbaren Grundwasserdargebotsreserve“, der grundsätzlich mittlere Verhältnisse zugrunde liegen.
+Die Prüfung zusätzlicher Entnahmen bezüglich des Bewirtschaftungsrahmens erfolgt anhand der „maßgeblichen nutzbaren Grundwasserdargebotsreserve“, der grundsätzlich mittlere Verhältnisse zugrunde liegen.
 Im Zusammenhang mit dem Klimawandel wird eine Zunahme von Trockenperioden erwartet, das heißt,
 eine Zunahme von aufeinanderfolgenden Jahren mit unterdurchschnittlicher Grundwasserneubildung. Solche Trockenperioden wirken sich unterschiedlich stark auf die Grundwasserkörper aus. Um zu veranschaulichen,
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 4
 wie sensibel d ie einzelnen Grundwasserkörper diesbezüglich e ingeschätzt w erden, w urde eine Klassifizierung
 vorgenommen.
-Die Abschätzung der nutzbaren Grundwasserdargebotsreserve zum Zweck der Klassifizierung für den Pro-
-jektionszeitraum 2031– 2060 erfolgt auf Basis von Rasterzellen (500 m × 500 m). In jeder Rasterzelle ist eine
-nutzbare Dargebotsreserve für trockene und mittlere Verhältnisse berechnet worden. Die trockenen Verhält-
-nisse ergeben sich aus dem 15er-Perzentil des entsprechenden vieljährigen Zeitabschnitts. Der jeweilige An-
-teil an Reserven in den Rasterzellen, die zu einem Grundwasserkörper gehören, spiegelt sich aggregiert in
+Die Abschätzung der nutzbaren Grundwasserdargebotsreserve zum Zweck der Klassifizierung für den Projektionszeitraum 2031– 2060 erfolgt auf Basis von Rasterzellen (500 m × 500 m). In jeder Rasterzelle ist eine
+nutzbare Dargebotsreserve für trockene und mittlere Verhältnisse berechnet worden. Die trockenen Verhältnisse ergeben sich aus dem 15er-Perzentil des entsprechenden vieljährigen Zeitabschnitts. Der jeweilige Anteil an Reserven in den Rasterzellen, die zu einem Grundwasserkörper gehören, spiegelt sich aggregiert in
 der Klassifizierung der Grundwasserkörper (siehe Tabelle) wider. Das Vorgehen ist in der „Verfahrensweise
-zur Abschätzung der nutzbaren Dargebotsreserve“ beschrieben. Die Klassifizierung der nutzbaren Grundwas-
-serdargebotsreserve auf Ebene der Grundwasserkörper ist der Anlage 3 sowie den Spalten I und J in der
+zur Abschätzung der nutzbaren Dargebotsreserve“ beschrieben. Die Klassifizierung der nutzbaren Grundwasserdargebotsreserve auf Ebene der Grundwasserkörper ist der Anlage 3 sowie den Spalten I und J in der
 Anlage 2*
 )
 zu entnehmen.
 Klassifizierung d er nutzbaren G rundwasserdargebotsreserve a uf Ebene d er Grundwass erkörper
-Klassifizierung Hinweise für Wasserrechtsver-
-fahren mit zusätzlichen Ent-
-nahmen; Prüfbedarf
+Klassifizierung Hinweise für Wasserrechtsverfahren mit zusätzlichen Entnahmen; Prüfbedarf
 Bedeutung für zusätzliche
-Grundwasserentnahmen; poten-
-tieller Regelungsbedarf
-1 – überwiegend nutzbare GW-
-Dargebotsreserve für mitt-
-lere Verhältnisse vorhan-
-den
-Keine besonderen Anforderun-
-gen
+Grundwasserentnahmen; potentieller Regelungsbedarf
+1 – überwiegend nutzbare GWDargebotsreserve für mittlere Verhältnisse vorhanden
+Keine besonderen Anforderungen
 Geobericht 15
-2 – überwiegend keine nutz-
-bare GW-Dargebotsreserve
+2 – überwiegend keine nutzbare GW-Dargebotsreserve
 für mittlere Verhältnisse vorhanden
-Regionale Betrachtungen erfor-
-derlich
+Regionale Betrachtungen erforderlich
 Geobericht 15
-Trockenperioden sind zu berück-
-sichtigen
+Trockenperioden sind zu berücksichtigen
 Bei einer Einordnung i n die Klasse
-2 sind R egelungen im Zulassungs-
-bescheid möglich und ggf. erforder-
-lich, die Schutzmaßnahmen in
+2 sind R egelungen im Zulassungsbescheid möglich und ggf. erforderlich, die Schutzmaßnahmen in
 Troc
 kenperioden vorsehen.
-3 – nutzbare GW-Dargebotsre-
-serve für mittlere Verhält-
-nisse fast vollständig er-
-schöpft
-Überschreitungen nur im Einzel-
-fall möglich, z. B. nicht berück-
-sichtigte unterirdische Zuflüsse
+3 – nutzbare GW-Dargebotsreserve für mittlere Verhältnisse fast vollständig erschöpft
+Überschreitungen nur im Einzelfall möglich, z. B. nicht berücksichtigte unterirdische Zuflüsse
 Geobericht 15
-Trockenperioden sind zu berück-
-sichtigen
-Regelungen über Schutzmaßnah-
-men in Trockenperioden erforder- lich.
+Trockenperioden sind zu berücksichtigen
+Regelungen über Schutzmaßnahmen in Trockenperioden erforder- lich.
 3.2.2 Relevanz im Wasserrechtsverfahren
 Für künftige zusätzliche Entnahmen, über die zugelassenen hinaus (siehe Anlage 2 Spalte G), ergeben
 sich anhand der Klassifizierung zusätzlich Hinweise, die bei den Wasserrechtsverfahren zu beachten sind.
-Bei der Klassifizierung 2 sind nach der mittleren Spalte der vorstehenden Tabelle im Wasserrechtsverfah-
-ren Trockenperioden besonders zu berücksichtigen. In diesem Zusammenhang wird auf die ökologischen
+Bei der Klassifizierung 2 sind nach der mittleren Spalte der vorstehenden Tabelle im Wasserrechtsverfahren Trockenperioden besonders zu berücksichtigen. In diesem Zusammenhang wird auf die ökologischen
 *)
 Bis zu einem Mittelwert < 1,5 nach Aggregation der Rasterzellen (siehe Spalte I der Anlage 2) ist eine nutzbare Dargebotsres
 erve
 bei trockenen Verhältnissen überwiegend vorhanden.
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 5
 Auswirkungen der Nutzung abgestellt. Das heißt, dass bezüglich ökologischer Auswirkungen (insbesondere
 auf Biotope oder Oberflächengewässer) ein Prüfbedarf besonders nahe liegt.
 Bei einer Einordnung in die Klasse 2 sind Regelungen im Zulassungsbescheid für zusätzliche Entnahmen ,
 über die zugelassenen hinaus (siehe Anlage 2 Spalte G ), möglich und ggf. erforderlich, die Schutzmaßnahmen
-in Trockenperioden vorsehen. Im Rahmen des Monitorings wird die Festlegung von Wasserständen an Be-
-obachtungsbrunnen empfohlen, die im Fall einer Trockenperiode die Nutzung begrenzen.
-Bei mit Klasse 3 bewerteten Grundwasserkörpern ist das nutzbare Grundwasserdargebot für mittlere Ver-
-hältnisse fast vollständig erschöpft. Nach Bewertung gemäß der WRRL für den Bewirtschaftungsplan 2021
+in Trockenperioden vorsehen. Im Rahmen des Monitorings wird die Festlegung von Wasserständen an Beobachtungsbrunnen empfohlen, die im Fall einer Trockenperiode die Nutzung begrenzen.
+Bei mit Klasse 3 bewerteten Grundwasserkörpern ist das nutzbare Grundwasserdargebot für mittlere Verhältnisse fast vollständig erschöpft. Nach Bewertung gemäß der WRRL für den Bewirtschaftungsplan 2021
 bis 2027 befinden sich alle Grundwasserkörper in Niedersachsen in einem mengenmäßig guten Zustand.
 Deshalb wird im Rahmen dieses RdErl. grundsätzlich davon ausgegangen, dass die derzeit zugelassenen
 Entnahmemengen auch in den mit Klasse 3 bewerteten Grundwasserkörpern keine negativen Auswirkungen
-auf den Zustand des Grundwasserkörpers haben und die Grundwasserressource vermutlich aus unterirdi-
-schen Zuströmen aus anderen Grundwasserkörpern oder aus Zuflüssen aus Oberflächengewässern gestützt
+auf den Zustand des Grundwasserkörpers haben und die Grundwasserressource vermutlich aus unterirdischen Zuströmen aus anderen Grundwasserkörpern oder aus Zuflüssen aus Oberflächengewässern gestützt
 wird.
 Weitere Entnahmen sind in diesen Grundwasserkörpern nur dann zulassungsfähig, sofern eine Darlegung
-entsprechend Nummer 4 vorgelegt wird. Bei einer solchen Einzelfallprüfung gelten die Hinweise zu Wasser-
-entnahmen aus Grundwasserkörpern der Klasse 2 entsprechend.
+entsprechend Nummer 4 vorgelegt wird. Bei einer solchen Einzelfallprüfung gelten die Hinweise zu Wasserentnahmen aus Grundwasserkörpern der Klasse 2 entsprechend.
 Außerdem ist insbesondere für Grundwasserkörper, die in Klasse 2 oder 3 eingeordnet sind, in Fällen, in
 denen ein Entnahmerecht endet und über die entsprechende Menge neu verfügt werden soll, Folgendes zu
 beachten:
-Bei sich ändernder Nutzungsart soll geprüft werden, wie sich die Änderung auf das Gesamtsystem des Was-
-serhaushalts auswirkt. Eine sich ändernde Nutzungsart in diesem Sinne liegt etwa vor, wenn in der Vergan-
-genheit eine Entnahme mit Einleitung in Fließgewässer erfolgte (z. B. bei den Nutzungsarten Trinkwasser und
-Kühlwasser) und künftig eine Entnahme ohne Wiedereinleitung (z. B. bei der landwirtschaftlichen Feldbereg-
-nung) in Rede steht oder wenn eine Veränderung betreffend die kontinuierliche oder diskontinuierliche Durch-
-führung der Grundwasserentnahme erfolgt.
+Bei sich ändernder Nutzungsart soll geprüft werden, wie sich die Änderung auf das Gesamtsystem des Wasserhaushalts auswirkt. Eine sich ändernde Nutzungsart in diesem Sinne liegt etwa vor, wenn in der Vergangenheit eine Entnahme mit Einleitung in Fließgewässer erfolgte (z. B. bei den Nutzungsarten Trinkwasser und
+Kühlwasser) und künftig eine Entnahme ohne Wiedereinleitung (z. B. bei der landwirtschaftlichen Feldberegnung) in Rede steht oder wenn eine Veränderung betreffend die kontinuierliche oder diskontinuierliche Durchführung der Grundwasserentnahme erfolgt.
 3.2.3 Allgemeine Hinweise zum Wassermanagement
 Ein Wassermanagement soll die Resilienz des Wasserhaushaltes gegen klimatische Einflüsse stärken und
-kann auch Pläne und Maßnahmen enthalten, um in Trockenperioden darauf angepasst das Wasser zu bewirt-
-schaften. Das Spektrum möglicher Maßnahmen ist vielfältig und kann insbesondere in Grundwasserkörpern
-der Klassen 2 und 3 die Spielräume zur Gewässerbewirtschaftung vergrößern. Geeignete Maßnahmen kön-
-nen sowohl der direkten Stützung der Wasserressource dienen als auch Nutzungen verändern (Brauchwas-
-sernutzung) oder sogar einschränken.
+kann auch Pläne und Maßnahmen enthalten, um in Trockenperioden darauf angepasst das Wasser zu bewirtschaften. Das Spektrum möglicher Maßnahmen ist vielfältig und kann insbesondere in Grundwasserkörpern
+der Klassen 2 und 3 die Spielräume zur Gewässerbewirtschaftung vergrößern. Geeignete Maßnahmen können sowohl der direkten Stützung der Wasserressource dienen als auch Nutzungen verändern (Brauchwassernutzung) oder sogar einschränken.
 4. Prüfung einer Überschreitung der nach dem Abschätzverfahren ermittelten maßgeblichen
 nutzbaren Grundwasserdargebotsreserve
 4.1 Allgemeines
 Wenn aufgrund vorliegender Ant räge eine Überschreitung der nach dem Abschätzverfahren ermittelten
 maßgeblichen nutzbaren Grundwasserdargebotsreserve eines Grundwasserkörpers (Anlage 2) erwartet wird,
-ist für den gesamten Grundwasserkörper zu prüfen, ob die Ziele hinsichtlich der mengenmäßigen Bewirtschaf-
-tung gemäß § 47 Abs. 1 WHG auch noch bei höheren Entnahmen von Grundwasser eingehalten oder künftig
+ist für den gesamten Grundwasserkörper zu prüfen, ob die Ziele hinsichtlich der mengenmäßigen Bewirtschaftung gemäß § 47 Abs. 1 WHG auch noch bei höheren Entnahmen von Grundwasser eingehalten oder künftig
 erreicht werden können.
-Diesbezügliche Untersuchungen können in geeigneten Konstellationen auch für abgegrenzte Gebiete un-
-terhalb der Grundwasserkörper-Ebene angewendet werden (z. B. für einen oder mehrere Teilkörper). Zu der
+Diesbezügliche Untersuchungen können in geeigneten Konstellationen auch für abgegrenzte Gebiete unterhalb der Grundwasserkörper-Ebene angewendet werden (z. B. für einen oder mehrere Teilkörper). Zu der
 Frage, ob eine Konstellation geeignet ist, ist der GLD zu beteiligen.
 Eine Verpflichtung zur Durchführung von Untersuchungen i. S. der Nummern 4.2 und 4.4 besteht nicht.
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 6
 4.2 Anfrage beim GLD
 Sofern in einem Teilkörper ein konkreter Bedarf zur Wasserentnahme über die mit dem Abschätzverfahren
-ermittelte maßgebliche nutzbare Grundwasserdargebotsreserve hinaus besteht, sollen die zuständigen Was-
-serbehörden den GLD anfragen, ob er aufgrund weiterer Erkenntnisse den Tabellenwert für die maßgebliche
-nutzbare Grundwasserdargebotsreserve unter Berücksichtigung der konkreten Situation in diesem Grundwas-
-serkörper überprüfen kann. Wenn der GLD nach dieser Überprüfung zu einem neuen Tabellenwert für die
-maßgebliche nutzbare Grundwasserdargebotsreserve kommt, wird dieser vom MU im Rahmen der Fortschrei-
-bung der Anlagen 2 und 4 veröffentlicht.
+ermittelte maßgebliche nutzbare Grundwasserdargebotsreserve hinaus besteht, sollen die zuständigen Wasserbehörden den GLD anfragen, ob er aufgrund weiterer Erkenntnisse den Tabellenwert für die maßgebliche
+nutzbare Grundwasserdargebotsreserve unter Berücksichtigung der konkreten Situation in diesem Grundwasserkörper überprüfen kann. Wenn der GLD nach dieser Überprüfung zu einem neuen Tabellenwert für die
+maßgebliche nutzbare Grundwasserdargebotsreserve kommt, wird dieser vom MU im Rahmen der Fortschreibung der Anlagen 2 und 4 veröffentlicht.
 4.3 Untersuchung durch Antragsteller
 Die Überprüfung, dass die Ziele hinsichtlich der mengenmäßigen Bewirtschaftung gemäß § 47 Abs. 1 WHG
 noch eingehalten oder künftig erreicht werden können, kann durch den Antragsteller erfolgen, wenn der GLD
@@ -269,8 +191,7 @@ auf den gesamten Untersuchungsraum (z. B. ein oder mehrere Teilkörper, Grundwas
 lassen. Bei Verfahren gemäß Nummer 2.1.1.3 des Bezugserlasses ist der GLD zu beteiligen. Das MU ist vom
 GLD über die Absicht und das Ergebnis der Überprüfung zu unterrichten.
 4.4 Mengenbewirtschaftungsmodell de r Wasserbehörde
-Erstellt eine zuständige Wasserbehörde ein eigenes Mengenbewirtschaftungsmodell oder Grundwas-
-serströmungsmodell zur Ermittlung einer abweichenden nutzbaren Grundwasserdargebotsreserve, können
+Erstellt eine zuständige Wasserbehörde ein eigenes Mengenbewirtschaftungsmodell oder Grundwasserströmungsmodell zur Ermittlung einer abweichenden nutzbaren Grundwasserdargebotsreserve, können
 die Ergebnisse zur Fortschreibung des Bewirtschaftungsrahmens nach den Anlagen 2 und 4 genutzt werden.
 Aufgrund regionaler genauerer Erkenntnisse (z. B. zu grundwasserabhängigen Landökosystemen oder zu der
 Leistungsfähigkeit von Fließgewässern) könnte ein solches Modell eine präzisere Abschätzung ermöglichen.
@@ -280,8 +201,7 @@ abzustimmen. Ein abgestimmtes Monitoring sollte eingerichtet werden.
 Das Erfordernis, im Rahmen des Erlaubnis- oder Bewilligungsverfahrens jeweils im Einzelfall die örtlichen
 Auswirkungen zu prüfen, bleibt von den Regelungen in den Nummern 1 und 2 unberührt. Der GLD ist zu
 beteiligen, wenn wesentliche Auswirkungen auf den Wasserhaushalt zu erwarten sind (siehe Bezugserlass).
-Die zulässige Überschreitung der festgelegten Jahresentnahmemenge für die landwirtschaftliche Feld-
-beregnung (Nummer 6.2.1) ist in die Prüfung mit einzubeziehen.
+Die zulässige Überschreitung der festgelegten Jahresentnahmemenge für die landwirtschaftliche Feldberegnung (Nummer 6.2.1) ist in die Prüfung mit einzubeziehen.
 Entnahmen von Grundwasser dürfen nicht dazu führen, dass die in § 6 WHG genannten Grundsätze sowie
 insbesondere die Anforderungen gemäß § 4 Abs. 2 GrwV verfehlt werden.
 Der GLD ist unter Bezug auf § 4 Abs. 2 Nr. 2 GrwV zu beteiligen, wenn die Möglichkeit besteht, dass durch
@@ -290,63 +210,48 @@ a) die Bewirtschaftungsziele nach den §§ 27 und 44 WHG für die Oberflächenge
 Grundwasserkörper in hydraulischer Verbindung stehen, verfehlt werden,
 b) sich der Zustand dieser Oberflächengewässer i. S. von § 3 Nr. 8 WHG signifikant verschlechtert,
 c) Landökosysteme, die direkt vom Grundwasserkörper abhängig sind, signifikant geschädigt werden oder
-d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolge räumlich und zeit-
-lich begrenzter Änderungen der Grundwasserfließrichtung nachteilig verändert wird (z. B. Verlagerung
+d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolge räumlich und zeitlich begrenzter Änderungen der Grundwasserfließrichtung nachteilig verändert wird (z. B. Verlagerung
 der Süß-Salzwassergrenze).
 Die gemäß Buchstabe c i. S. der WRRL bedeutenden grundwasserabhängigen Landökosysteme wurden
-gemäß Artikel 5 i. V. m. Anhang II Nrn. 2.1 und 2.2 der WRRL der EU mitgeteilt. Nur diese sind für die Anfor-
-derungen gemäß § 4 Abs. 2 Nr. 2 Buchst. c GrwV relevant. Die gemäß der WRRL im Zusammenhang mit der
+gemäß Artikel 5 i. V. m. Anhang II Nrn. 2.1 und 2.2 der WRRL der EU mitgeteilt. Nur diese sind für die Anforderungen gemäß § 4 Abs. 2 Nr. 2 Buchst. c GrwV relevant. Die gemäß der WRRL im Zusammenhang mit der
 Zustandsbewertung bedeutsamen grundwasserabhängigen Landökosysteme können den Anhängen B -2 und
 B-3 des Niedersächsischen Beitrags zu den Bewirtschaftungsplänen 2021 bis 2027 der Flussgebiete Elbe,
 Weser, Ems und Rhein, MU Dezember 2021 entnommen werden
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 7
-(https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktuali-
-sierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
+(https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
 128758.html).
-Hervorgerufen durch den Klimawandel ist zu erwarten, dass zukünftig besonders niedrige Grundwasser-
-stände häufiger auftreten können. Soweit es angesichts des Umfangs oder der möglichen Auswirkungen der
+Hervorgerufen durch den Klimawandel ist zu erwarten, dass zukünftig besonders niedrige Grundwasserstände häufiger auftreten können. Soweit es angesichts des Umfangs oder der möglichen Auswirkungen der
 Grundwasserentnahme angemessen ist, sollen in der Zulassung daher Maßnahmen in Anlehnung an das
 DVGW Arbeitsblatt W 150 geregelt werden – einschließlich Messstellen –, mit denen der Antragsteller die
 Auswirkungen einer Grundwasserentnahme auf den Wasserhaushalt beobachtet (vgl. § 13 Abs. 2 Nr. 2
-Buchst. c WHG). Dabei soll auch die Konstellation einer zeitweise hohen Entnahmemenge im Sommer einbe-
-zogen werden. Das gilt auch für Entnahmen, die nicht der öffentlichen Wasserversorgung dienen, z. B. für die
+Buchst. c WHG). Dabei soll auch die Konstellation einer zeitweise hohen Entnahmemenge im Sommer einbezogen werden. Das gilt auch für Entnahmen, die nicht der öffentlichen Wasserversorgung dienen, z. B. für die
 Feldberegnung.
 6. Weitergehende Regelungen für einzelne Wassernutzer
 Die zuständige Wasserbehörde hat im Rahmen der Prüfung eines Antrags auf Erteilung einer Erlaubnis
-oder Bewilligung zur Entnahme von Grundwasser u. a. zu prüfen, ob der mit der beantragten Nutzung verbun-
-dene Wasserbedarf mit der aus Rücksicht auf den Wasserhaushalt gebotenen sparsamen Verwendung des
+oder Bewilligung zur Entnahme von Grundwasser u. a. zu prüfen, ob der mit der beantragten Nutzung verbundene Wasserbedarf mit der aus Rücksicht auf den Wasserhaushalt gebotenen sparsamen Verwendung des
 Wassers vereinbar ist.
-Die besondere Bedeutung, die die öffentliche Wasserversorgung im Vergleich zu anderen Grundwas-
-sernutzern nach § 12 Abs. 1 i. V. m. § 3 Nr. 10 WHG sowie § 6 Abs. 1 Satz 1 Nrn. 3 und 4 WHG besitzt, muss
+Die besondere Bedeutung, die die öffentliche Wasserversorgung im Vergleich zu anderen Grundwassernutzern nach § 12 Abs. 1 i. V. m. § 3 Nr. 10 WHG sowie § 6 Abs. 1 Satz 1 Nrn. 3 und 4 WHG besitzt, muss
 beachtet werden.
 Die Entnahme muss wasserwirtschaftlich und ökologisch vertretbar sein.
 6.1 Öffentliche Wasserversorgung
 Wassergewinnungsanlagen dürfen nur nach den allgemein anerkannten Regeln der Technik (a. a. R. d.
 T.) errichtet, unterhalten und betrieben werden (§ 50 Abs. 4 WHG). Das ist der zuständigen Wasserbehörde
-in geeigneter Weise nachzuweisen. Bei Wasserversorgungsunternehmen, die die Anforderungen an die Qua-
-lifikation und die Organisation von Trinkwasserversorgern gemäß DVGW Arbeitsblatt W 1000 erfüllen, kann
+in geeigneter Weise nachzuweisen. Bei Wasserversorgungsunternehmen, die die Anforderungen an die Qualifikation und die Organisation von Trinkwasserversorgern gemäß DVGW Arbeitsblatt W 1000 erfüllen, kann
 davon ausgegangen werden, dass die a. a. R. d. T. eingehalten sind. Ein diesbezüglicher Nachweis eines
-Wasserversorgungsunternehmens, der freiwillig im Rahmen eines verbandlich organisierten Qualitätsmana-
-gements erbracht wird, kann anerkannt werden. Es ist im Allgemeinen ausreichend, wenn die Einhaltung der
-a. a. R. d. T. der Wasserbehörde bei Antragstellung auf Erteilung einer Erlaubnis oder Bewilligung nachgewie-
-sen wird.
+Wasserversorgungsunternehmens, der freiwillig im Rahmen eines verbandlich organisierten Qualitätsmanagements erbracht wird, kann anerkannt werden. Es ist im Allgemeinen ausreichend, wenn die Einhaltung der
+a. a. R. d. T. der Wasserbehörde bei Antragstellung auf Erteilung einer Erlaubnis oder Bewilligung nachgewiesen wird.
 Für den Bedarfsnachweis ist Folgendes zu berücksichtigen:
 6.1.1 Derzeitiges Versorgungsgebiet
-Als derzeitiger Bedarf ist im Allgemeinen die höchste Trinkwasserabgabe der letzten drei Jahre im Versor-
-gungsgebiet, ergänzt um Wasserwerkseigenverbrauch und Rohrnetzverluste, anzusetzen, sofern nicht ein
+Als derzeitiger Bedarf ist im Allgemeinen die höchste Trinkwasserabgabe der letzten drei Jahre im Versorgungsgebiet, ergänzt um Wasserwerkseigenverbrauch und Rohrnetzverluste, anzusetzen, sofern nicht ein
 extremes Trockenjahr eingeschlossen ist.
-Eine Analyse der Rohrnetzverluste sollte gemäß DVGW Arbeitsblatt W 392 (A) durchgeführt werden; künf-
-tige Rohrnetzverluste sind gering zu halten und sollen 6 % des derzeitigen Bedarfs nicht überschreiten.
+Eine Analyse der Rohrnetzverluste sollte gemäß DVGW Arbeitsblatt W 392 (A) durchgeführt werden; künftige Rohrnetzverluste sind gering zu halten und sollen 6 % des derzeitigen Bedarfs nicht überschreiten.
 Für den zukünftigen Bedarf sind Entwicklungen beim öffentlichen und gewerblichen Bedarf (verschiedene
-und besondere Verbrauchergruppen) ebenso zu berücksichtigen wie der Einfluss der demografischen Ent-
-wicklung.
+und besondere Verbrauchergruppen) ebenso zu berücksichtigen wie der Einfluss der demografischen Entwicklung.
 Zur Sicherstellung der Versorgungssicherheit darf der unter vorgenannten Rahmenbedingungen ermittelte
 Wasserbedarf durch einen Sicherheitszuschlag und einen Trockenwetterzuschlag erhöht werden.
 Der Sicherheitszuschlag soll 7,5 % und der Trockenwetterzuschlag 5 % des ermittelten Wasserbedarfs –
 ohne den Wasserwerkseigenverbrauch und die Rohrnetzverluste – betragen.
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 8
 6.1.2 Zusätzliches Versorgungsgebiet
 Beabsichtigt ein Wasserversorger, sich eine Erweiterungsmenge für die geplante Versorgung eines noch
 nicht zu seinem Versorgungsgebiet gehörenden zusätzlichen benannten Gebietes zu sichern, so kann die
@@ -361,11 +266,8 @@ Wasserversorger die Versorgung des zusätzlichen Gebietes innerhalb einer gesetz
 Diese soll zehn Jahre nicht überschreiten.
 6.1.3 Verbundsysteme
 Beim Antrag für eine Wassergewinnungsanlage eines Verbundsystems (Versorgung eines Gebietes über
-mehr als eine Wassergewinnungsanlage) ist in den Fällen der Nummern 6.1.1 und 6.1.2 der Bedarf des ge-
-samten Verbundsystems im Rahmen einer Wasserbedarfsprognose nachzuweisen. Ein Verbundsystem um-
-fasst dabei versorgungsspezifisch oder leitungshydraulisch zusammenhängende Systemabschnitte. Hierbei
-sind vom Antragsteller alle vorhandenen Entnahmerechte, Verpflichtungen zur Wasserlieferung in andere Ver-
-sorgungsgebiete und vertraglich gesicherte Einspeisungen anderer Wasserversorgungsunternehmen in das
+mehr als eine Wassergewinnungsanlage) ist in den Fällen der Nummern 6.1.1 und 6.1.2 der Bedarf des gesamten Verbundsystems im Rahmen einer Wasserbedarfsprognose nachzuweisen. Ein Verbundsystem umfasst dabei versorgungsspezifisch oder leitungshydraulisch zusammenhängende Systemabschnitte. Hierbei
+sind vom Antragsteller alle vorhandenen Entnahmerechte, Verpflichtungen zur Wasserlieferung in andere Versorgungsgebiete und vertraglich gesicherte Einspeisungen anderer Wasserversorgungsunternehmen in das
 Verbundsystem sowie deren mögliche Entwicklungen darzustellen.
 6.1.4 Geeignete Maßnahmen, um auf einen sparsamen Umgang hinzuwirken
 Angesichts der zunehmend angespannten Situation bei der Bewirtschaftung der Grundwasserressourcen
@@ -376,62 +278,41 @@ Wasserversorgung seine Pflicht nach § 50 Abs. 3 WHG erfüllt. Hierfür kommen z
 – Vermeidung von Entgeltsystemen, durch die größere Verbrauchsmengen relativ günstiger sind.
 6.2 Landwirtschaft und Eigenwasserversorgung der Industrie
 Im Antrag für eine Grundwasserentnahme ist zu begründen, aus welchem Grundwasserstockwerk das
-Wasser entnommen werden soll. Hinweise zu den Kriterien, die insbesondere zum Schutz der Grundwasser-
-ressource bei der Prüfung der Entnahmetiefe zu würdigen sind, enthält Anlage 6 (Kriterien für die Entnahme-
-tiefe von Grundwasser mittels Förderung in Brunnen). Zunächst ist eine Entnahme aus dem oberflächennahen
+Wasser entnommen werden soll. Hinweise zu den Kriterien, die insbesondere zum Schutz der Grundwasserressource bei der Prüfung der Entnahmetiefe zu würdigen sind, enthält Anlage 6 (Kriterien für die Entnahmetiefe von Grundwasser mittels Förderung in Brunnen). Zunächst ist eine Entnahme aus dem oberflächennahen
 Grundwasser zu prüfen.
 Ist durch die Entnahme von oberflächennahem Grundwasser zu erwarten, dass die Anforderungen gemäß
 § 4 Abs. 2 Nr. 2 GrwV nicht erfüllt werden können, kann das Wasser bei entsprechenden Nachweisen aus
 tieferen Grundwasserleitern entnommen werden.
 Zum Schutz des Grundwassers ist der Fassungsbereich der Gewinnungsanlage vor Verunreinigungen zu
 schützen. Die zuständige Wasserbehörde hat den Schutz durch entsprechende Auflagen in der Erlaubnis oder
-Bewilligung sicherzustellen. Als Beispiel kommen Maßnahmen in Anlehnung an die betrieblichen Schutzmaß-
-nahmen für die Schutzzone I gemäß Arbeitsblatt W 101 des DVGW sowie bauliche Maßnahmen beim Brun-
-nenbau in Betracht.
+Bewilligung sicherzustellen. Als Beispiel kommen Maßnahmen in Anlehnung an die betrieblichen Schutzmaßnahmen für die Schutzzone I gemäß Arbeitsblatt W 101 des DVGW sowie bauliche Maßnahmen beim Brunnenbau in Betracht.
 6.2.1 Landwirtschaftliche Feldberegnung; Bedarfsnachweis, wasserrechtliche Erlaubnis
-Der Wasserbedarf der Landwirtschaft für die Feldberegnung ist im Einzelfall (für Einzelbetriebe oder Be-
-regnungsverbände) nachzuweisen. Dabei sind Möglichkeiten einer effizienten Wasserverwendung zu berück-
-sichtigen. Das schließt auch den Einsatz sparsamer Beregnungs technik, die den a. a. R. d. T. entspricht, ein
+Der Wasserbedarf der Landwirtschaft für die Feldberegnung ist im Einzelfall (für Einzelbetriebe oder Beregnungsverbände) nachzuweisen. Dabei sind Möglichkeiten einer effizienten Wasserverwendung zu berücksichtigen. Das schließt auch den Einsatz sparsamer Beregnungs technik, die den a. a. R. d. T. entspricht, ein
 (z. B. Tröpfchenbewässerung, Düsenwagen). Die Ermittlung des Zusatzwasserbedarfs soll sich am „Merkblatt
 
-Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024 Seite 9
 DWA- M 590, Grundsätze und Richtwerte zur Beurteilung von Anträgen zur Entnahme von Wasser für die
 Bewässerung“ orientieren.
 Der Bedarf sollte auf dieser Grundlage demnach für das „Mittlere Trockenjahr“ bezogen auf das Merkblatt ,
 d. h. unter Berücksichtigung der Anbauplanung, ermittelt werden. Hierdurch soll sichergestellt werden, dass
-auch mehrere aufeinander folgende Trockenjahre abgedeckt sind. Falls für einen solchen Bedarf keine aus-
-reichenden Ressourcen verfügbar sind, ist die erlaubte Jahresentnahmemenge entsprechend zu reduzieren.
-In der Erlaubnis soll geregelt werden, dass die fest gelegte Jahresentnahmemenge um bis zu 25 % über-
-schritten werden darf, wenn dadurch das Mittel der Entnahmen in fünf Jahren (unter Berücksichtigung der
+auch mehrere aufeinander folgende Trockenjahre abgedeckt sind. Falls für einen solchen Bedarf keine ausreichenden Ressourcen verfügbar sind, ist die erlaubte Jahresentnahmemenge entsprechend zu reduzieren.
+In der Erlaubnis soll geregelt werden, dass die fest gelegte Jahresentnahmemenge um bis zu 25 % überschritten werden darf, wenn dadurch das Mittel der Entnahmen in fünf Jahren (unter Berücksichtigung der
 zurückliegenden vier Jahre) nicht größer wird als die festgelegte Jahr esentnahmemenge.
-Für einzelne Brunnen können zeitlich differenzierte Höchstwerte festgeschrieben werden. Für die Überwa-
-chung dieser Brunnen sind geeignete Messgeräte zu fordern, die jährlichen Entnahmemengen sind brunnen-
-bezogen zu erfassen und zu dokumentieren.
+Für einzelne Brunnen können zeitlich differenzierte Höchstwerte festgeschrieben werden. Für die Überwachung dieser Brunnen sind geeignete Messgeräte zu fordern, die jährlichen Entnahmemengen sind brunnenbezogen zu erfassen und zu dokumentieren.
 Sofern eine wasserrechtliche Erlaubnis erstmals oder eine auslaufende Erlaubnis neu erteilt wird, soll sie
-mit einer Befristung erteilt werden, die – um das Interesse der Antragsteller an Planungssicherheit zu berück-
-sichtigen – eine Geltungsdauer von bis zu 20 Jahren vorsieht. Dies gilt insbesondere für komplexe Wasser-
-rechtsverfahren. Hierbei sind prognostische klimatische Entwicklungen angemessen in die Planungen einzu-
-beziehen.
+mit einer Befristung erteilt werden, die – um das Interesse der Antragsteller an Planungssicherheit zu berücksichtigen – eine Geltungsdauer von bis zu 20 Jahren vorsieht. Dies gilt insbesondere für komplexe Wasserrechtsverfahren. Hierbei sind prognostische klimatische Entwicklungen angemessen in die Planungen einzubeziehen.
 Die Wasserbehörde soll den Antragsteller auf eine sparsame Wasserverwendung hinweisen. Hierzu geben
-die „Hinweise zum Einsatz der Feldberegnung“ des Fachverbandes Feldberegnung praktikable Hilfen. Im Rah-
-men des Erlaubnisverfahrens sollte die zuständige Wasserbehörde eine fachliche Stellungnahme der land-
-wirtschaftlichen Fachbehörde zum Bedarfsnachweis einholen.
+die „Hinweise zum Einsatz der Feldberegnung“ des Fachverbandes Feldberegnung praktikable Hilfen. Im Rahmen des Erlaubnisverfahrens sollte die zuständige Wasserbehörde eine fachliche Stellungnahme der landwirtschaftlichen Fachbehörde zum Bedarfsnachweis einholen.
 Die Winddrift von Beregnungswasser auf nicht für die Beregnung vorgesehene Flächen ist zu vermeiden.
 Wird eine Erlaubnis für einen Beregnungsverband erteilt, der eine Nutzung durch Mitglieder vorgesehen
-hat, ist in der Erlaubnis festzulegen, dass die Pflichten des Erlaubnisinhabers durch interne Regelungen sinn-
-gemäß auf die tatsächlichen Nutzer weiterübertragen werden müssen (z. B. bezüglich der Mengenmessung
+hat, ist in der Erlaubnis festzulegen, dass die Pflichten des Erlaubnisinhabers durch interne Regelungen sinngemäß auf die tatsächlichen Nutzer weiterübertragen werden müssen (z. B. bezüglich der Mengenmessung
 und der Einhaltung von Mengenbeschränkungen) .
 6.2.2 Bedarfsnachweis der Industrie
 Industriebetriebe mit eigener Wasserversorgung müssen für ihren Antrag ebenfalls den konkreten Bedarf,
-unter Beachtung des tatsächlichen Verbrauchs oder unter Darlegung der konkret geplanten Maßnahme, nach-
-weisen. Möglichkeiten der rationellen Wasserverwendung wie z. B. Kreislaufführung sind dabei zu berücksich-
-tigen.
+unter Beachtung des tatsächlichen Verbrauchs oder unter Darlegung der konkret geplanten Maßnahme, nachweisen. Möglichkeiten der rationellen Wasserverwendung wie z. B. Kreislaufführung sind dabei zu berücksichtigen.
 7. Übergangsregelungen
-7.1 Liegt der zuständigen unteren Wasserbehörde zum Ink rafttreten dieses Rd Erl. ein vollständiger Was-
-serrechtsantrag vor, kann über diesen noch auf Basis der Regelungen des bis zum 31.12.2022 geltenden
+7.1 Liegt der zuständigen unteren Wasserbehörde zum Ink rafttreten dieses Rd Erl. ein vollständiger Wasserrechtsantrag vor, kann über diesen noch auf Basis der Regelungen des bis zum 31.12.2022 geltenden
 RdErl. d. MU v. 29.05.2015 (Nds. MBl. S. 790) entschieden werden.
-7.2 Hat ein Nutzer bei m Ink rafttreten dieses RdErl. schon ein großräumiges Modell für einen Wasser-
-rechtsantrag vollständig erstellt und mit dem GLD abgestimmt, welches für eine Überprüfung gemäß Nummer
+7.2 Hat ein Nutzer bei m Ink rafttreten dieses RdErl. schon ein großräumiges Modell für einen Wasserrechtsantrag vollständig erstellt und mit dem GLD abgestimmt, welches für eine Überprüfung gemäß Nummer
 4.3 geeignet ist, und wird ein vollständiger Antrag bis zum 31.12.2025 vorgelegt, kann über diesen noch auf
 Basis der Regelungen des bis zum 31.12.2022 geltenden RdErl. d. MU v. 29. 05.2015 (Nds. MBl. S. 790)
 entschieden werden.
@@ -466,15 +347,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 2 DEGB_DENI_4_2302 Oberweser-Hameln 348,50 53,53 53,53 15,27 1,86 1,74 1 0,9
@@ -526,15 +405,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 14 DEGB_DENW_4_2312 Nordlippische Trias-Gebiete 206,75 30,68 30,68 10,63 1,05 1,79 1 0,5
@@ -581,15 +458,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 25 DEGB_DENI_39_06 Spiekeroog 16,75 5,81 5,81 0,20 0,42 1,03 1
@@ -635,15 +510,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 36 DEGB_DENI_4_2503 Hunte Festgestein rechts 28,75 3,76 3,76 0,59 0,18 1,26 1 0,2
@@ -685,15 +558,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 47 DEGB_DEHE_4_1043 4290_5201 98,75 17,79 17,79 1,28 0,69 1,13 1 0,7
@@ -731,15 +602,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 58 DEGB_DENI_39_10 Untere Ems Lockergestein links 263,25 10,68 13,15 3,00 0,76 2,44 1 0,8
@@ -779,15 +648,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 69 DEGB_DENI_4_2108 Oker Harzpaläozoikum 189,00 41,94 41,94 6,08 1,18 2,13 1 1,2
@@ -839,15 +706,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 80 DEGB_DENI_4_2113 Wietze/Fuhse Festgestein 419,75 25,01 25,01 3,32 1,55 2,22 1 1,5
@@ -891,15 +756,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 91 DEGB_DENI_928_27 Itter 75,75 22,34 22,34 7,03 1,15 1,80 1 1,1
@@ -941,15 +804,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 102 DEGB_DENI_NI11_6 Oste Lockergestein rechts 920,00 117,77 125,47 14,14 8,35 1,64 1 8,4
@@ -991,15 +852,13 @@ m3/a]
 zugelassene
 Entnahmemengen
 [Mio. m³/a]
-nutzbare GW-
-Dargebotsreserve (mittlere
+nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
 Mittelwert nach Aggregation
 der Rasterzellen
 GWK Klassifizierung
-maßgebliche nutzbare GW-
-Dargebotsreserve
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
 Bemerkung
 114 DEGB_DEMV_MEL_SU_4_16 Rögnitz/Amt Neuhaus 239,25 -2,08 5,44 0,71 0,35 2,65 2 0,4
@@ -1559,54 +1418,37 @@ Trendauswertung
 
 Anlage 6
 Kriterien für die Entnahmetiefe von Grundwasser mittels Brunnen
-Die Prüfung eines Antrags zur Entnahme von Grundwasser setzt eine Beschreibung der jeweiligen hy-
-drogeologischen Situation in einem entsprechenden Gutachten voraus (siehe für die Feldberegnung Geof ak-
-ten 3 „Hydrogeologische und bodenkundliche Anforderungen an Anträge zur Grundwasserentnahme für die
+Die Prüfung eines Antrags zur Entnahme von Grundwasser setzt eine Beschreibung der jeweiligen hydrogeologischen Situation in einem entsprechenden Gutachten voraus (siehe für die Feldberegnung Geof akten 3 „Hydrogeologische und bodenkundliche Anforderungen an Anträge zur Grundwasserentnahme für die
 Feldberegnung“ ). Die Belastung der Grundwasser-Ressourcen sollte stets so gering wie möglich gehalten
-werden. Um dies sicherzustellen sind geringere Entnahmetiefen grundsätzlich zu bevorzugen. Um zu beur-
-teilen, ob die Verlagerung der Entnahme in tiefere Abschnitte des Grundwasserleiters sinnvoll oder erforder-
-lich ist, können, basierend auf dem hydrogeologischen Gutachten, diverse Kriterien zur Einzelfallprüfung
+werden. Um dies sicherzustellen sind geringere Entnahmetiefen grundsätzlich zu bevorzugen. Um zu beurteilen, ob die Verlagerung der Entnahme in tiefere Abschnitte des Grundwasserleiters sinnvoll oder erforderlich ist, können, basierend auf dem hydrogeologischen Gutachten, diverse Kriterien zur Einzelfallprüfung
 herangezogen werden. Hierzu gehören insbesondere die im Folgenden genannten Kriterien:
 Kriterium Bewertungshinweise
 Flurabstand Bei geringen Flurabständen sind die Auswirkungen der entnahmebedingten
 Grundwasserabsenkung besonders zu prü fen, ob empfindliche Schutzgüter,
-wie z. B. grundwasserabhängige Landökosysteme (LÖS) oder forstwirt-
-schaftliche Nutzung beeinträchtigt werden können.
-Oberflächengewässer Im Einzugsbereich großer Vorfluter können durch eine hydraulische Anbin-
-dung die Auswirkungen der Entnahme ggf. gedämpft werden. In diesen Fäl-
-len ist eine möglichst oberflächennahe Entnahme sinnvoll. Hier sind eventu-
-elle Auswirkungen der Grundwasserentnahme auf das Oberflächengewässer
-(z. B. Abflussminderung) zu bewerten. Bei empfindlichen Oberflächenge-
-wässern, die hydraulisch an das Grundwasser angeschlossen sind, kann
+wie z. B. grundwasserabhängige Landökosysteme (LÖS) oder forstwirtschaftliche Nutzung beeinträchtigt werden können.
+Oberflächengewässer Im Einzugsbereich großer Vorfluter können durch eine hydraulische Anbindung die Auswirkungen der Entnahme ggf. gedämpft werden. In diesen Fällen ist eine möglichst oberflächennahe Entnahme sinnvoll. Hier sind eventuelle Auswirkungen der Grundwasserentnahme auf das Oberflächengewässer
+(z. B. Abflussminderung) zu bewerten. Bei empfindlichen Oberflächengewässern, die hydraulisch an das Grundwasser angeschlossen sind, kann
 eine größere Entnahmetiefe dem Schutz des Gewässers dienen.
 Stockwerkstrennung Gut geschütztes Grundwasser tieferer Stockwerke ist besonders empfindlich
 gegenüber Eingrif fen. Es sollte grundsätzlich der Trinkwassergewinnung
-vorbehalten bleiben. Einen Hinweis auf einen Eintrag oberflächennaher Ver-
-unreinigungen bietet der Nachweis ubiquitär vorhandener anthropogener
+vorbehalten bleiben. Einen Hinweis auf einen Eintrag oberflächennaher Verunreinigungen bietet der Nachweis ubiquitär vorhandener anthropogener
 Stoffe wie zum Beispiel Röntgenkontrastmittel, PSM o. Ä. Können solche
 Stoffe nicht nachgewiesen werden, ist in den entsprechenden Tiefen ein
-Zustrom von anthropogen überprägtem Wasser zumindest noch nicht mess-
-bar. In einem solchen Fall ist von einer besonderen Schutzwürdigkeit der
+Zustrom von anthropogen überprägtem Wasser zumindest noch nicht messbar. In einem solchen Fall ist von einer besonderen Schutzwürdigkeit der
 entsprechenden Grundwasser-Vorkommen auszugehen.
 Chemie Bei einer Entnahme aus tieferen Stockwerken besteht die Gefahr, dass
-Schadstoffe aus höher gelegenen Stockwerken eingetragen werden. In Küs-
-tennähe oder in der Umgebung von Salzstöcken kann eine Entnahme aus
+Schadstoffe aus höher gelegenen Stockwerken eingetragen werden. In Küstennähe oder in der Umgebung von Salzstöcken kann eine Entnahme aus
 größerer Tiefe die Mobil isierung von Versalzungen in höher gelegene
 Stockwerke zur Folge haben.
-Schutz- und Vorrangge-
-biete, Trinkwassergewin- nungen
-Trinkwasserschutz- und Vorranggebiete, Heilquellenschutzgebiete, Einzugs-
-gebiete von Trinkwassergewinnungsanlagen und Anlagen zur Her stellung
+Schutz- und Vorranggebiete, Trinkwassergewin- nungen
+Trinkwasserschutz- und Vorranggebiete, Heilquellenschutzgebiete, Einzugsgebiete von Trinkwassergewinnungsanlagen und Anlagen zur Her stellung
 von Lebensmitteln sind grundsätzlich von Entnahmen zu anderen Zwecken aus tieferen Stockwerken freizuhalten.
 Befinden sich Entnahmen von Trinkwassergewinnungsanlagen in tieferen
-Stockwerken, so sollten hier die Entnahmen zur Feldberegnung aus ober flä-
-chennahen Stockwerken erfolgen.
-Mächtigkeit Grundwasser-
-leiter
+Stockwerken, so sollten hier die Entnahmen zur Feldberegnung aus ober flächennahen Stockwerken erfolgen.
+Mächtigkeit Grundwasserleiter
 Die Mächtigkeit der Grundwasserleiter ist ein entscheidendes Kriterium für
 die Beurteilung ihrer Leistungsfähigkeit.
 
 Kriterium Bewertungshinweise
 Andere Entnahmen Wie bei anderen Wasserrechten auch, sind die Konkurrenzsituation und die
-maßgebliche nutzbare Grundwasserdargebotsreserve des Grundwasserkör-
-pers zu prüfen.
+maßgebliche nutzbare Grundwasserdargebotsreserve des Grundwasserkörpers zu prüfen.

@@ -16,8 +16,7 @@ Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Die Überschwemmun
 Tag nach dieser Bek. gemäß § 76 Abs. 3 WHG vom 31.07.2009 (BGBl. I S. 2585), zuletzt geändert durch
 Artikel 7 des Gesetzes vom 22.12.2023 (BGBl. 2023 I Nr. 409), i. V. m. § 115 NWG vom 19.02.2010 (Nds.
 GVBl. S. 64), zuletzt geändert durch Artikel 7 des Gesetzes vom 12.12.2023 (Nds. GVBl. S. 289), vorläufig
-gesichert. Es gelten gemäß § 78 WHG die Verbote und Genehmigungsvorbehalte für Überschwemmungsge-
-biete.
+gesichert. Es gelten gemäß § 78 WHG die Verbote und Genehmigungsvorbehalte für Überschwemmungsgebiete.
 Das Überschwemmungsgebiet erstreckt sich auf das Gebiet der Gemeinden Asendorf, Bücken, Warpe und
 Wietzen und ist in der mit veröffentlichten Übersichtskarte (Anlage) im Maßstab 1 : 30 000 dargestellt. Die
 Arbeitskarten im Maßstab 1 : 5 000 (Blatt 1 bis 3) werden bei dem
@@ -29,17 +28,14 @@ Landkreis Nienburg,
 Kreishaus am Schloßplatz,
 31582 Nienburg
 aufbewahrt und können ab dem Tag nach dieser Bek. während der Dienststunden dort kostenlos eingesehen
-werden. In den Arbeitskarten ist die Grenze des gemäß § 115 Abs. 4 NWG vorläufig gesicherten Überschwem-
-mungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte Überschwemmungsgebiet
+werden. In den Arbeitskarten ist die Grenze des gemäß § 115 Abs. 4 NWG vorläufig gesicherten Überschwemmungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte Überschwemmungsgebiet
 selbst ist blau dargestellt.
 Rechtsbehelfsbelehrung:
-Gegen diese Bek. kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Wi-
-derspruch ist schriftlich oder zur Niederschrift bei dem
+Gegen diese Bek. kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Widerspruch ist schriftlich oder zur Niederschrift bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
 Betriebsstelle Sulingen,
 Am Bahnhof 1,
 
-Nds. MBl. 2024 Nr. 429 vom 2. Oktober 2024 Seite 2
 27232 Sulingen
 oder bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
@@ -53,9 +49,7 @@ Am Sportplatz 23,
 26506 Norden
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- nieder-
-sachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNo-
-des=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
 Calle
 Graue
@@ -111,6 +105,5 @@ Landkreisgrenzen
 ! ! ! ! ! ! ! !
 Gemeindegrenzen
 Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küsten-
-und Naturschutz
+für Wasserwirtschaft, Küstenund Naturschutz
 04.09.2024

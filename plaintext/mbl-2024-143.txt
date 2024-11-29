@@ -36,7 +36,6 @@ Inhaltsübersicht
 3. Zahlungen
 3.1 Zahlungsmöglichkeiten
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 2
 3.2 Zahlungen in anderen Geldsorten als EUR
 3.3 Konten bei Kreditinstituten
 3.4 Kartenzahlungsverfahren, elektronische Zahlungssysteme
@@ -81,7 +80,6 @@ Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 2
 12.1 In Betrieb befindliche HKR- Verfahren
 12.2 Manuelle Verfahren
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 3
 13. Buchführung bei Landesbetrieben
 Anlage 1 (zu VV Nr. 3.1 zu §§ 70 bis 72 und 74 bis 80 LHO)
 Anlage 2 (zu VV Nr. 6.1 zu §§ 70 bis 72 und 74 bis 80 LHO)
@@ -91,16 +89,13 @@ Anhang 2 (zur Anlage 3 [GoB-HKR])
 Anhang 3 (zur Anlage 3 [GoB-HKR])
 
 1. Zuständigkeiten der anordnenden Dienststellen
-Die anordnenden Dienststellen sind für die Bewirtschaftung von Haushaltsmitteln zuständig. Die Bewirt-
-schaftung umfasst Maßnahmen zur Mittelverteilung und Mittelverwendung sowie die dazu erforderlichen Bu-
-chungen. Die anordnenden Dienststellen sind darüber hinaus zuständig für:
+Die anordnenden Dienststellen sind für die Bewirtschaftung von Haushaltsmitteln zuständig. Die Bewirtschaftung umfasst Maßnahmen zur Mittelverteilung und Mittelverwendung sowie die dazu erforderlichen Buchungen. Die anordnenden Dienststellen sind darüber hinaus zuständig für:
 – Verwahr- und Vorschussaufklärung (Umbuchung, Weiterleitung, Rückzahlung) soweit diese auf den
 dienststellenbezogenen Girokonten eingehen und nicht automatisch den gebuchten Forderungen und
 Verbindlichkeiten zugeordnet werden können,
 – Überprüfung/Bearbeitung der Offenen Posten,
 – Überprüfung/Bearbeitung der Wiedervorlagen,
-– Berechnung von Stundungs- und Verzugszinsen sowie von Säumniszuschlägen sofern eine automati-
-sche Berechnung nicht erfolgt,
+– Berechnung von Stundungs- und Verzugszinsen sowie von Säumniszuschlägen sofern eine automatische Berechnung nicht erfolgt,
 – Verrechnungen im Wege der Aufrechnung,
 – Abrechnung der Gerichtsvollzieher-Gebührenanteile,
 – Meldung der mit zu versteuernden Nebenbezüge an die Bezüge abrechnende Dienststelle,
@@ -108,8 +103,7 @@ sche Berechnung nicht erfolgt,
 Bestimmungen des NHintG und den hierzu ergangenen Ausführungsbestimmungen gegeben ist,
 – Ermittlung der aktuellen Anschrift von Zahlungspflichtigen
 soweit nicht die Zentrale Vollstreckungsstelle zuständig ist.
-Bestimmungen der Finanzverwaltung (Steuer) bleiben unberührt. Regelungen von grundsätzlicher Bedeu-
-tung hat die Aufsichtsbehörde im Einvernehmen mit dem MF zu erlassen.
+Bestimmungen der Finanzverwaltung (Steuer) bleiben unberührt. Regelungen von grundsätzlicher Bedeutung hat die Aufsichtsbehörde im Einvernehmen mit dem MF zu erlassen.
 2. Anordnungen
 2.1 Anforderungen
 2.1.1 Anordnungen (Sollbuchungen) sind erforderlich, um Einzahlungen anzunehmen, Auszahlungen zu
@@ -118,15 +112,12 @@ Entscheidungen, mit denen die Verantwortlichkeiten für die Richtigkeit der anzu
 zu leistenden Auszahlung oder der vorzunehmenden Änderung wahrgenommen werden.
 2.1.2 Das MF kann einwilligen, dass bei Einzahlungen auf eine Anordnung (Sollbuchung) verzichtet wird
 (Nicht-Soll-Buchung).
-2.1.3 An einer Anordnung müssen grundsätzlich zwei Personen beteiligt sein (Vier-Augen-Prinzip). Ausnah-
-men davon sind nur bei Annahmeanordnungen zulässig (siehe Nummer 2.2).
+2.1.3 An einer Anordnung müssen grundsätzlich zwei Personen beteiligt sein (Vier-Augen-Prinzip). Ausnahmen davon sind nur bei Annahmeanordnungen zulässig (siehe Nummer 2.2).
 Dazu ist eine Einwilligung des MF erforderlich. Das MF führt das Einvernehmen mit dem LRH herbei.
-2.1.4 Anordnungen dürfen nur erteilt werden, wenn in den anordnenden Dienststellen oder in den für Zah-
-lungen zuständigen Stellen Unterlagen zur Verfügung stehen, die die Zahlungen begründen (begründende
+2.1.4 Anordnungen dürfen nur erteilt werden, wenn in den anordnenden Dienststellen oder in den für Zahlungen zuständigen Stellen Unterlagen zur Verfügung stehen, die die Zahlungen begründen (begründende
 Unterlagen, siehe Nummer 5.3) und aus denen insbesondere die Beträge, die Zahlungspflichtigen oder die
 Empfangsberechtigten, die Bankverbindung, der Fälligkeitstermin sowie die Haushaltsstellen ersichtlich sind.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 4
 2.2 Allgemeine Anordnungen
 2.2.1 Für bestimmte, mehrfach vorkommende, gleichartige Einzahlungen können Allgemeine Anordnungen
 erteilt werden. Sie ersetzen die förmliche Annahmeanordnung. Die Ausübung einer Anordnungsbefugnis ist
@@ -137,10 +128,8 @@ bedarf der Einwilligung des MF.
 leisten sind (z. B. Kosten für den unbaren Zahlungsverkehr, Zinsen, Säumniszuschläge),
 – Einzahlungen von gleichartigen Zahlfällen,
 – in anderen Fällen zur Erzielung von Einnahmen im Einvernehmen mit dem LRH.
-2.2.3 Allgemeine Anordnungen können mit Einwilligung des MF auch durch Rechts- und Verwaltungsvor-
-schriften erteilt werden.
-Für die Annahme von Gerichtskosten, Geldstrafen und Geldbußen bei den Gerichten und Staatsanwalt-
-schaften gelten besondere Vorschriften.
+2.2.3 Allgemeine Anordnungen können mit Einwilligung des MF auch durch Rechts- und Verwaltungsvorschriften erteilt werden.
+Für die Annahme von Gerichtskosten, Geldstrafen und Geldbußen bei den Gerichten und Staatsanwaltschaften gelten besondere Vorschriften.
 Das MF kann im Einvernehmen mit dem LRH abweichende Regelungen treffen.
 2.3 Verantwortlichkeiten
 2.3.1 Die Verantwortlichkeiten im Anordnungsverfahren werden durch
@@ -160,40 +149,32 @@ maßgebenden Angaben vollständig und richtig sind,
 ist; hierzu gehört, dass die Lieferung oder Leistung als solche und auch die Art ihrer Ausführung geboten
 war und die Lieferung oder Leistung entsprechend der zugrunde liegenden Vereinbarung oder Bestellung
 sachgemäß und vollständig ausgeführt worden ist,
-– Abschlagszahlungen, Vorauszahlungen, Pfändungen und Abtretungen vollständig und richtig berücksich-
-tigt worden sind,
+– Abschlagszahlungen, Vorauszahlungen, Pfändungen und Abtretungen vollständig und richtig berücksichtigt worden sind,
 – die übrigen haushaltsrechtlichen Voraussetzungen für eine Zahlung vorliegen (z. B. Mittelverfügbarkeit,
 insbesondere für den Fall einer deaktivierten Mittelkontrolle),
 – der angeforderte Betrag nach Rechtsgrund und Höhe richtig ermittelt worden ist.
 2.3.2.2 Die Bescheinigung der Feststellung der rechnerischen Richtigkeit beinhaltet die Verantwortung, dass
 der anzunehmende oder auszuzahlende Betrag sowie alle auf Berechnungen beruhenden Angaben in der
 Anordnung und den sie begründenden Unterlagen rechnerisch richtig sind.
-2.3.3 Die oder der BfdH der anordnenden Dienststellen bestimmt , welche Verantwortlichkeiten die Bediens-
-teten im Anordnungsverfahren haben.
+2.3.3 Die oder der BfdH der anordnenden Dienststellen bestimmt , welche Verantwortlichkeiten die Bediensteten im Anordnungsverfahren haben.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 5
 2.4 Datenerfassung
 Anordnungen sind unverzüglich nach Prüfung der zahlungsbegründenden Unterlagen zu erfassen. Dieses
 dient insbesondere auch der Sicherstellung einer fälligkeitsgerechten Zahlung bzw. einem fälligkeitsgerechten
 Einzug.
 2.5 Freigabe und elektronische Signatur
-Das Freigabeverfahren erfolgt in Einzelfreigabe oder pauschaler Freigabe mit anschließender elektroni-
-scher Signatur.
+Das Freigabeverfahren erfolgt in Einzelfreigabe oder pauschaler Freigabe mit anschließender elektronischer Signatur.
 2.6 Journalisierung
 Mit der Journalisierung der freigegebenen und signierten Anordnung gilt die Buchung in den Büchern
 (Sachbücher) als erfolgt.
 2.7 Inhalt der Anordnung
 Eine Anordnung muss mindestens die in den Nummern 2.7.1 bis 2.7.14 aufgeführten Angaben enthalten:
-2.7.1 die Bezeichnung der für die Anordnung zuständigen Stelle (Dienststelle; die Angabe erfolgt automa-
-tisch),
-2.7.2 die Kennzeichen zur eindeutigen Identifizierung aller mit der Anordnung zusammenhängenden In-
-formationen,
-2.7.3 die Zahlungspartnerin oder den Zahlungspartner mit den für den Zahlungsverkehr notwendigen An-
-gaben,
+2.7.1 die Bezeichnung der für die Anordnung zuständigen Stelle (Dienststelle; die Angabe erfolgt automatisch),
+2.7.2 die Kennzeichen zur eindeutigen Identifizierung aller mit der Anordnung zusammenhängenden Informationen,
+2.7.3 die Zahlungspartnerin oder den Zahlungspartner mit den für den Zahlungsverkehr notwendigen Angaben,
 2.7.4 den Betrag mit Währungsbezeichnung,
 2.7.5 die Kennzeichnung der Art der Anordnung (z. B. Einzahlung, Auszahlung),
-2.7.6 bei Abschlagszahlungen und deren Abrechnung (Schlusszahlung) ein entsprechendes Kennzei-
-chen,
+2.7.6 bei Abschlagszahlungen und deren Abrechnung (Schlusszahlung) ein entsprechendes Kennzeichen,
 2.7.7 die Fälligkeit,
 2.7.8 das Zahlungsverfahren,
 2.7.9 das Haushaltsjahr,
@@ -205,17 +186,14 @@ chen,
 2.8 Abweichender Inhalt der Anordnung
 Das MF oder die von ihm ermächtigte Stelle kann zulassen, dass einzelne Angaben nach Nummer 2.7 in
 Anordnungen nicht enthalten sein müssen oder erst nach der Zahlung ergänzt werden, oder dass zusätzliche
-Angaben in die Anordnung aufzunehmen sind. Soweit nach § 79 Abs. 4 LHO erforderlich, ist das Einverneh-
-men mit dem LRH herbeizuführen.
+Angaben in die Anordnung aufzunehmen sind. Soweit nach § 79 Abs. 4 LHO erforderlich, ist das Einvernehmen mit dem LRH herbeizuführen.
 2.9 Änderung einer Anordnung
 Ist eine bereits journalisierte Anordnung zu ändern, wird die sachliche und zeitliche Zuordnung mit der
 Auswahl dieses Ursprungsbelegs in der Änderungsanordnung gewährleistet.
 2.10 Ausgeschlossene Personen
-Bei der Wahrnehmung von Verantwortlichkeiten sind die jeweils zutreffenden Bestimmungen über ausge-
-schlossene Personen und die Besorgnis der Befangenheit zu beachten (z. B. ausgeschlossene Personen in
+Bei der Wahrnehmung von Verantwortlichkeiten sind die jeweils zutreffenden Bestimmungen über ausgeschlossene Personen und die Besorgnis der Befangenheit zu beachten (z. B. ausgeschlossene Personen in
 Verwaltungsverfahren nach dem VwVfG, dem SGB X und der AO).
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 6
 3. Zahlungen
 3.1 Zahlungsmöglichkeiten
 Zahlungen sind durch
@@ -229,8 +207,7 @@ anzunehmen oder zu leisten.
 In begründeten Ausnahmefällen kann die Zahlung bar, durch Zahlungsanweisung zur Verrechnung oder
 durch Scheck angenommen oder geleistet werden.
 Die Leistung einer Zahlung durch Scheck setzt voraus, dass andere Zahlungsverfahren nicht oder nicht in
-sachdienlicher Weise geeignet sind, die Zahlungsverpflichtung zu erfüllen. An die Prüfung sind strenge Maß-
-stäbe anzulegen.
+sachdienlicher Weise geeignet sind, die Zahlungsverpflichtung zu erfüllen. An die Prüfung sind strenge Maßstäbe anzulegen.
 Für Zahlungsmittel (Euro- Münzen und - Banknoten sowie zugelassene Schecks) gelten die Bestimmungen
 der Anlage 1.
 3.2 Zahlungen in anderen Geldsorten als EUR
@@ -242,16 +219,13 @@ dürfen nur mit vorheriger Einwilligung des MF eingerichtet werden.
 gemeinsam verfügt werden. Das MF kann Ausnahmen zulassen, wenn besondere Sicherungsmaßnahmen
 getroffen werden.
 3.4 Kartenzahlungsverfahren, elektronische Zahlungssysteme
-Der Einsatz und die Nutzung von Kartenzahlungsverfahren und elektronischen Zahlungssystemen für Aus-
-zahlungen bedürfen der Einwilligung des MF. Das MF stellt, soweit erforderlich, das Einvernehmen mit dem
+Der Einsatz und die Nutzung von Kartenzahlungsverfahren und elektronischen Zahlungssystemen für Auszahlungen bedürfen der Einwilligung des MF. Das MF stellt, soweit erforderlich, das Einvernehmen mit dem
 LRH her.
 Die Einzahlung mittels Kartenzahlungsverfahren und über elektronische Zahlungssysteme darf von der
-zuständigen obersten Landesbehörde eigenverantwortlich im Rahmen der Wirtschaftlichkeit zugelassen wer-
-den.
+zuständigen obersten Landesbehörde eigenverantwortlich im Rahmen der Wirtschaftlichkeit zugelassen werden.
 Die Zulassung ist dem MF anzuzeigen.
 3.5 Lastschrifteinzugsverfahren für Auszahlungen
-Die für die Anordnung von Zahlungen verantwortliche Stelle hat für Auszahlungen im Lastschrifteinzugs-
-verfahren das erforderliche Lastschrifteinzugsmandat zu erteilen. Ihr sind dabei die für die ordnungsgemäße
+Die für die Anordnung von Zahlungen verantwortliche Stelle hat für Auszahlungen im Lastschrifteinzugsverfahren das erforderliche Lastschrifteinzugsmandat zu erteilen. Ihr sind dabei die für die ordnungsgemäße
 Buchung der Zahlung erforderlichen Angaben mitzuteilen. Unberechtigte Kontobelastungen per Lastschrift
 sind der kontoführenden Stelle (LHK) zum Zweck des Widerspruchs unverzüglich anzuzeigen. Die Möglichkeit
 des Widerspruchs gegen eine bereits vorgenommene Lastschrift richtet sich nach den Bestimmungen des
@@ -259,22 +233,19 @@ Kreditgewerbes über den Lastschrifteinzugsverkehr.
 3.6 Überwachung von Einzahlungen
 Die rechtzeitige und vollständige Entrichtung der Einzahlungen ist zu überwachen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 7
 3.6.1 Bestimmung des Einzahlungstages
 Einzahlungstag ist bei
 3.6.1.1 Überweisung oder Lastschrifteinzugsverkehr der Tag des Eingangs auf dem Konto der für Zahlungen
 zuständigen Stelle;
 3.6.1.2 Kartenzahlungsverfahren oder elektronischen Zahlungssystemen der Tag der Akzeptanz. Das ist
 der Tag, an dem ein Anbieter eines elektronischen Zahlungssystems eine Zahlung bestätigt;
-3.6.1.3 Verrechnung im Wege der Aufrechnung der Tag, an dem sich die Forderungen aufrechenbar gegen-
-überstehen;
+3.6.1.3 Verrechnung im Wege der Aufrechnung der Tag, an dem sich die Forderungen aufrechenbar gegenüberstehen;
 3.6.1.4 Zahlung in bar, durch Zahlungsauftrag oder durch Scheck der Tag der Übergabe. Bei Forderungen,
 für deren Erhebung die Vorschriften der AO anzuwenden sind, ist § 224 AO zu beachten.
 3.6.2 Nicht rechtzeitige Entrichtung einer Einzahlung
 Wird eine Einzahlung nicht rechtzeitig oder nicht vollständig entrichtet, so
 3.6.2.1 ist zu mahnen und bei erfolgloser Mahnung die Einziehung des Betrages zu veranlassen,
-3.6.2.2 sind die als Verzugsfolgen entstehenden Ansprüche (z. B. Mahngebühren, Verzugszinsen, Säum-
-niszuschläge, Vollstreckungskosten) zu erheben.
+3.6.2.2 sind die als Verzugsfolgen entstehenden Ansprüche (z. B. Mahngebühren, Verzugszinsen, Säumniszuschläge, Vollstreckungskosten) zu erheben.
 3.6.3 Reihenfolge der Tilgung
 Hat eine Schuldnerin oder ein Schuldner mehrere Forderungen zu erfüllen (ggf. auch in Teilbeträgen) und
 reicht der gezahlte Betrag zur Tilgung sämtlicher Forderungen nicht aus, so wird diejenige Schuld getilgt, die
@@ -282,53 +253,40 @@ die Schuldnerin oder der Schuldner bei der Zahlung bestimmt. Trifft die Schuldne
 Bestimmung, so ist die Zahlung zunächst auf Geldstrafen oder -bußen, Zwangsgelder, Kosten (Gebühren und
 Auslagen), dann auf Zinsen und zuletzt auf die Hauptforderung anzurechnen. Innerhalb dieser Reihenfolge
 sind die einzelnen Forderungen nach ihrer Fälligkeit zu ordnen; bei gleichzeitig fällig werdenden Forderungen
-bestimmt die anordnende Dienststelle die Reihenfolge der Tilgung. Anderweitige gesetzliche Regelungen blei-
-ben unberührt.
+bestimmt die anordnende Dienststelle die Reihenfolge der Tilgung. Anderweitige gesetzliche Regelungen bleiben unberührt.
 3.7 Einzahlungen bei fehlender Anordnung
 Einzahlungen sind auch ohne Anordnung anzunehmen, sofern dem Gründe nicht entgegenstehen.
 3.7.1 Übergabe von Zahlungsmitteln
 Einzahlungen durch Übergabe von Zahlungsmitteln (siehe Anlage 1) sind auch ohne Annahmeanordnung
 anzunehmen, sofern sachliche Gründe dafür vorliegen. Ein sachlicher Grund liegt insbesondere dann vor,
 wenn durch die Annahmeverweigerung ein Schaden für das Land eintreten könnte. Die oder der Beauftragte
-für den Haushalt wird ermächtigt, hierzu Regelungen zu erlassen. Das zuständige Ministerium regelt das Nä-
-here mit Einwilligung des MF.
+für den Haushalt wird ermächtigt, hierzu Regelungen zu erlassen. Das zuständige Ministerium regelt das Nähere mit Einwilligung des MF.
 3.7.2 Nachweis der Zahlungen
-Die nach Nummer 3.7.1 angenommenen Zahlungen sowie unbare oder durch Übersendung von Zahlungs-
-mitteln eingehende Einzahlungen, für die keine Annahmeanordnungen vorliegen, sind als Verwahrungen
+Die nach Nummer 3.7.1 angenommenen Zahlungen sowie unbare oder durch Übersendung von Zahlungsmitteln eingehende Einzahlungen, für die keine Annahmeanordnungen vorliegen, sind als Verwahrungen
 nachzuweisen, sofern die endgültige Haushaltsstelle nicht bekannt ist.
 3.7.3 Gegenleistungen für Zahlungen
 Sofern die Einzahlung nicht gesichert ist (z. B. Lastschrifteinzugsverfahren, Übergabe von Schecks), darf
 eine Gegenleistung nur nach Abwägung des Ausfallrisikos erbracht werden.
-Bei nicht gesicherten Einzahlungen soll vor Erbringung der Gegenleistung geprüft werden, ob die Anforde-
-rung von Kostenvorschüssen, die Zurückbehaltung von Urkunden, Bescheinigungen, Genehmigungen, Er-
-laubnissen etc. und – in geeigneten Fällen – die Zurückstellung von Amtshandlungen sachdienlich sein könnte.
+Bei nicht gesicherten Einzahlungen soll vor Erbringung der Gegenleistung geprüft werden, ob die Anforderung von Kostenvorschüssen, die Zurückbehaltung von Urkunden, Bescheinigungen, Genehmigungen, Erlaubnissen etc. und – in geeigneten Fällen – die Zurückstellung von Amtshandlungen sachdienlich sein könnte.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 8
 3.8 Verwahrungen (§ 60 LHO)
-Einzahlungen, die keiner Anordnung automatisiert zugeordnet werden können, werden als dienststellen-
-bezogene Verwahrung gebucht. Nicht-Soll-Buchungen bleiben hiervon unberührt.
-Verwahrungen sind zeitnah aufzuklären (Umbuchung, Weiterleitung, Rückzahlung), um Mahn- und Voll-
-streckungsverfahren und damit verbundene Kosten zu vermeiden.
+Einzahlungen, die keiner Anordnung automatisiert zugeordnet werden können, werden als dienststellenbezogene Verwahrung gebucht. Nicht-Soll-Buchungen bleiben hiervon unberührt.
+Verwahrungen sind zeitnah aufzuklären (Umbuchung, Weiterleitung, Rückzahlung), um Mahn- und Vollstreckungsverfahren und damit verbundene Kosten zu vermeiden.
 Sofern die Einzahlerin oder der Einzahler oder das für die richtige Buchung erforderliche Kassen- , Akten-
 oder Geschäftszeichen nicht in Erfahrung gebracht werden kann, ist die Einzahlung nach spätestens sechs
 Monaten auf einem Titel der Gruppe 119 zu buchen.
 3.9 Vorschüsse (§ 60 LHO)
 Auf den dienststellenbezogenen Vorschusskonten werden (automatisch) Auszahlungen gebucht, die nicht
 unmittelbar einer Anordnung zugeordnet werden können. Zur Abwendung von Schäden für das Land sind
-Vorschussbuchungen durch die Dienststellen täglich aufzuklären und abzuwickeln. Die zeitnahe Vorschuss-
-bearbeitung ist auch für die Aufklärung unberechtigter Lastschrifteinzüge von großer Bedeutung.
+Vorschussbuchungen durch die Dienststellen täglich aufzuklären und abzuwickeln. Die zeitnahe Vorschussbearbeitung ist auch für die Aufklärung unberechtigter Lastschrifteinzüge von großer Bedeutung.
 4. Geldverwaltung, Abrechnung
 4.1 Sollbestand und Istbestand
 Der Unterschiedsbetrag zwischen allen gebuchten Einzahlungen und Auszahlungen (Sollbestand) muss
-beim Tagesabschluss der Summe aus dem Bestand an Bargeld und den Beständen auf den Konten bei Kre-
-ditinstituten unter Berücksichtigung der gebuchten, aber noch nicht gezahlten Beträge (Istbestand) entspre-
-chen.
+beim Tagesabschluss der Summe aus dem Bestand an Bargeld und den Beständen auf den Konten bei Kreditinstituten unter Berücksichtigung der gebuchten, aber noch nicht gezahlten Beträge (Istbestand) entsprechen.
 4.2 Verwaltung des Istbestandes
 Der gesamte Istbestand des Landes ist von der LHK zentral zu verwalten.
 4.3 Verstärkungen und Ablieferungen, Abrechnung
-Die Zahlstellen haben täglich ihren Istbestand, soweit entbehrlich, abzuliefern oder bei Bedarf zu verstär-
-ken. Sie haben die Verwendung der Bestandsverstärkungen und der übrigen Einzahlungen mindestens mo-
-natlich nachzuweisen (Abrechnung). Das Nähere regelt das MF im Einvernehmen mit dem LRH.
+Die Zahlstellen haben täglich ihren Istbestand, soweit entbehrlich, abzuliefern oder bei Bedarf zu verstärken. Sie haben die Verwendung der Bestandsverstärkungen und der übrigen Einzahlungen mindestens monatlich nachzuweisen (Abrechnung). Das Nähere regelt das MF im Einvernehmen mit dem LRH.
 4.4 Aufbewahrung von Bargeld und Schecks
 Für Bargeld und Schecks gelten die Bestimmungen der Anlage 1.
 5. Buchführung, Belege, Abschlüsse, Rechnungslegung
@@ -337,9 +295,7 @@ Die Buchführung und die Behandlung der Belege richten sich nach den Grundsätze
 Buchführung (§ 71 Abs. 1 Satz 1 LHO). Die revisionssichere, eindeutige Zuordnung zur Buchung sichert die
 Beweiskraft der Buchführung. Die §§ 71 und 74 bleiben unberührt.
 5.2 Buchführung, Bücher
-Als Bücher gemäß § 71 gelten die Datensätze für Buchungen der Einnahmen und der Ausgaben des Haus-
-halts, des Sondervermögens, der Sonderrechnungen sowie der Verwahrungen und Vorschüsse und des Ab-
-rechnungsverkehrs.
+Als Bücher gemäß § 71 gelten die Datensätze für Buchungen der Einnahmen und der Ausgaben des Haushalts, des Sondervermögens, der Sonderrechnungen sowie der Verwahrungen und Vorschüsse und des Abrechnungsverkehrs.
 5.2.1 Die Buchführung hat insbesondere den Zweck,
 5.2.1.1 die einzelnen Maßnahmen bei der Ausführung des Haushaltsplans einschließlich der Anordnungen
 (Bewirtschaftungsvorgänge) und Zahlungen geordnet aufzuzeichnen,
@@ -348,9 +304,7 @@ rechnungsverkehrs.
 5.2.1.4 Daten für die Haushaltsplanung, für die Kosten- und Leistungsrechnung sowie für das Controlling
 bereitzustellen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 9
-5.2.2 Die Buchführung über die Bewirtschaftungsvorgänge ist mit den im Zusammenhang mit der Anord-
-nung gespeicherten Daten vollzogen.
+5.2.2 Die Buchführung über die Bewirtschaftungsvorgänge ist mit den im Zusammenhang mit der Anordnung gespeicherten Daten vollzogen.
 5.2.3 Bei der Buchführung über Zahlungen sind mindestens aufzuzeichnen:
 5.2.3.1 das Kennzeichen nach Nummer 2.7.1,
 5.2.3.2 der Betrag,
@@ -358,25 +312,20 @@ nung gespeicherten Daten vollzogen.
 5.2.3.4 der Buchungstag,
 5.2.3.5 die Haushaltsstelle,
 5.2.3.6 die Merkmale, die die für die Buchung verantwortlichen Personen eindeutig bezeichnen.
-5.2.4 Im führenden automatisierten Verfahren werden alle Bewirtschaftungsvorgänge und Zahlungen ein-
-zeln aufgezeichnet um die Verdichtungsergebnisse als Beitrag für die Abschlüsse und die Rechnungslegung
+5.2.4 Im führenden automatisierten Verfahren werden alle Bewirtschaftungsvorgänge und Zahlungen einzeln aufgezeichnet um die Verdichtungsergebnisse als Beitrag für die Abschlüsse und die Rechnungslegung
 zu erbringen.
 5.3 Belege
-Ein Beleg ist eine begründende Unterlage in elektronischer Form oder Papierform, auf der ein Geschäfts-
-vorfall (Einnahme/Ausgabe/Umbuchung) und die Auswirkungen, die seine Buchung auslösen, beschrieben
+Ein Beleg ist eine begründende Unterlage in elektronischer Form oder Papierform, auf der ein Geschäftsvorfall (Einnahme/Ausgabe/Umbuchung) und die Auswirkungen, die seine Buchung auslösen, beschrieben
 sind und diese dokumentiert werden. Die Belege sind im Rahmen der Aktenführung bei den anordnenden
 Dienststellen oder den für Zahlungen zuständigen Stellen aufzubewahren. Belege i. S. der VV sind auch die
 in einem automatisierten Verfahren erzeugten Protokolle, Nachweisungen und Arbeitsablaufunterlagen sowie
-5.3.1 Kontogegenbücher mit Belegen und ggf. Zahlungsnachweisungen sowie weitere von den für Zah-
-lungen zuständigen Stellen zu führende Bücher,
+5.3.1 Kontogegenbücher mit Belegen und ggf. Zahlungsnachweisungen sowie weitere von den für Zahlungen zuständigen Stellen zu führende Bücher,
 5.3.2 Anordnungen über die Annahme und Auslieferung von Wertgegenständen,
 5.3.3 Tagesabschlüsse und die dazugehörigen Unterlagen bei den für Zahlungen zuständigen Stellen.
 5.4 Tagesabschluss
-5.4.1 Zur Kontrolle der Buchführung hat die für Zahlungen zuständige Stelle einen Tagesabschluss zu er-
-stellen. Hierzu sind der Sollbestand und der Istbestand zu ermitteln. Besteht keine Übereinstimmung, ist ein
+5.4.1 Zur Kontrolle der Buchführung hat die für Zahlungen zuständige Stelle einen Tagesabschluss zu erstellen. Hierzu sind der Sollbestand und der Istbestand zu ermitteln. Besteht keine Übereinstimmung, ist ein
 Fehlbetrag als Vorschuss oder ein Überschuss als Verwahrung zu buchen, alternativ kann die Begründung für
-die Abweichung von Soll- und Istbestand im Tagesabschluss dokumentiert werden. Differenzen sind unver-
-züglich aufzuklären und abzuwickeln.
+die Abweichung von Soll- und Istbestand im Tagesabschluss dokumentiert werden. Differenzen sind unverzüglich aufzuklären und abzuwickeln.
 5.4.2 Die Richtigkeit des Tagesabschlusses ist durch die im Berechtigungskonzept bestimmten Personen
 zu bescheinigen.
 5.5 Jahresabschluss
@@ -391,7 +340,6 @@ zu bescheinigen.
 5.5.3 Die Bestände aus den Nummern 5.5.2.3 bis 5.5.2.5 sind zu übernehmen, da sie nach Haushaltsjahren
 getrennt nachgewiesen werden.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 10
 5.5.4 Das MF bestimmt die Termine für
 5.5.4.1 den Abschluss der Bücher für das ablaufende Haushaltsjahr,
 5.5.4.2 die letztmalige Erteilung von Anordnungen für das ablaufende Haushaltsjahr,
@@ -403,28 +351,22 @@ die Rechnungsprüfung darzustellen.
 5.6.2 Rechnungsunterlagen werden aus den abgeschlossenen Büchern und den dazu gehörenden Belegen
 abgeleitet.
 5.6.3 Die Rechnungslegung umfasst die Einzelrechnungslegung und die Gesamtrechnungslegung. Bei der
-Einzelrechnungslegung werden die Einnahmen und die Ausgaben durch die abgeschlossenen Rechnungsle-
-gungsbücher (Nummer 5.2) und die dazugehörigen Belege (Nummer 5.3) im Einzelnen nachgewiesen (Ein-
-zelrechnung). Bei der Gesamtrechnungslegung werden die Einnahmen und die Ausgaben in Gesamtbeträgen
+Einzelrechnungslegung werden die Einnahmen und die Ausgaben durch die abgeschlossenen Rechnungslegungsbücher (Nummer 5.2) und die dazugehörigen Belege (Nummer 5.3) im Einzelnen nachgewiesen (Einzelrechnung). Bei der Gesamtrechnungslegung werden die Einnahmen und die Ausgaben in Gesamtbeträgen
 nach der im Haushaltsplan vorgesehenen Ordnung nachgewiesen (Gesamtrechnung). Die aus den ‚ Büchern‘
-gemäß Nummer 5.2 erzeugten Standardlisten (Berichte) gelten als Rechnungsnachweisung für die Einzel-
-rechnungs- bzw. Gesamtrechnungslegung.
+gemäß Nummer 5.2 erzeugten Standardlisten (Berichte) gelten als Rechnungsnachweisung für die Einzelrechnungs- bzw. Gesamtrechnungslegung.
 5.7 Aufbewahrungsbestimmungen
 5.7.1 Aufbewahrungspflichtige Unterlagen i. S. der VV sind die Unterlagen in elektronischer Form oder in
 Papierform, die zum Verständnis der Buchführung und zur ordnungsmäßigen Rechnungslegung erforderlich
 sind. Dazu gehören
 5.7.1.1 die Bücher (§ 71), in denen alle buchungspflichtigen Vorgänge in der vom MF vorgeschriebenen
-zeitlichen Ordnung (Zeitbücher) und sachlichen Ordnung (Sachbücher)zu buchen sind; werden Vor-
-bücher zu den Sachbüchern geführt, sind die Buchungen summarisch in die Sachbücher zu übertra-
-gen; Sachbücher sind
+zeitlichen Ordnung (Zeitbücher) und sachlichen Ordnung (Sachbücher)zu buchen sind; werden Vorbücher zu den Sachbüchern geführt, sind die Buchungen summarisch in die Sachbücher zu übertragen; Sachbücher sind
 a) das Titelbuch,
 b) das Vorschussbuch,
 c) das Verwahrungsbuch und
 d) das Abrechnungsbuch,
 5.7.1.2 die Belege,
 5.7.1.3 die Rechnungsunterlagen und
-5.7.1.4 die übrigen notwendigen Unterlagen bei den für Zahlungen zuständigen Stellen, die für die Rech-
-nungslegung nicht benötigt werden.
+5.7.1.4 die übrigen notwendigen Unterlagen bei den für Zahlungen zuständigen Stellen, die für die Rechnungslegung nicht benötigt werden.
 5.7.2 Für die ordnungsmäßige Aufbewahrung der Belege sind die anordnenden Stellen zuständig. Für die
 Aufbewahrung der übrigen Unterlagen sind die für Zahlungen zuständigen Stellen zuständig. Die oder der
 zuständige Beauftragte für den Haushalt bestimmt, wo und wie die Unterlagen (Titelakten, Sachakten) der
@@ -437,30 +379,22 @@ Unterlagen während der Dauer der Aufbewahrung nicht beeinträchtigt wird. Die U
 aufzubewahren, dass innerhalb einer angemessenen Frist einzelne Unterlagen zur Verfügung stehen. Für die
 Aufbewahrung der elektronischen Unterlagen sind die Regelungen der Anlage 3 anzuwenden.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 11
 5.7.4 Die Aufbewahrungsfrist beginnt für Bücher mit dem Ablauf des Haushaltsjahres, für das sie geführt
 worden sind. Werden Bücher für mehrere Haushaltsjahre geführt, so beginnt die Aufbewahrungsfrist mit dem
 Ablauf des Haushaltsjahres, für das die letzte Eintragung vorgenommen worden ist. Für die übrigen Unterlagen
 beginnen die Aufbewahrungsfristen mit dem Ablauf des Haushaltsjahres, für das die Unterlagen bestimmt sind
 und in dem die Zahlung abgeschlossen ist.
-5.7.5 Bücher sind zehn Jahre, Belege (dazu gehören auch Rechnungsunterlagen) sechs Jahre und die üb-
-rigen Unterlagen (Nummer 5.7.1.4) ein Jahr aufzubewahren. Abweichende Aufbewahrungszeiten in Rechts-
+5.7.5 Bücher sind zehn Jahre, Belege (dazu gehören auch Rechnungsunterlagen) sechs Jahre und die übrigen Unterlagen (Nummer 5.7.1.4) ein Jahr aufzubewahren. Abweichende Aufbewahrungszeiten in Rechts-
 und Verwaltungsvorschriften bleiben unberührt.
-5.7.6 Die Unterlagen nach Nummer 5.7.1 sind über die für sie geltenden Aufbewahrungszeiten hinaus min-
-destens bis zur Entlastung nach § 114 aufzubewahren.
+5.7.6 Die Unterlagen nach Nummer 5.7.1 sind über die für sie geltenden Aufbewahrungszeiten hinaus mindestens bis zur Entlastung nach § 114 aufzubewahren.
 5.7.7 Der LRH kann in Einzelfällen verlangen, dass die Unterlagen nach Nummer 5.7.1 über die für sie
 geltenden Aufbewahrungszeiten hinaus aufzubewahren sind.
-5.7.8 Die für die Aufbewahrung zuständige Stelle hat nach dem Abschluss eines Haushaltsjahres zu veran-
-lassen, dass die Unterlagen, deren Aufbewahrungszeiten abgelaufen sind, ausgesondert werden, wenn nicht
-andere Rechts- oder Verwaltungsvorschriften oder andere Gründe dem entgegenstehen. Langfristig aufzube-
-wahrende Unterlagen können vor dem Ende der Aufbewahrungsfrist dem zuständigen Archiv übergeben wer-
-den, soweit das Archiv die vorgegebene Aufbewahrungsfrist einhält.
+5.7.8 Die für die Aufbewahrung zuständige Stelle hat nach dem Abschluss eines Haushaltsjahres zu veranlassen, dass die Unterlagen, deren Aufbewahrungszeiten abgelaufen sind, ausgesondert werden, wenn nicht
+andere Rechts- oder Verwaltungsvorschriften oder andere Gründe dem entgegenstehen. Langfristig aufzubewahrende Unterlagen können vor dem Ende der Aufbewahrungsfrist dem zuständigen Archiv übergeben werden, soweit das Archiv die vorgegebene Aufbewahrungsfrist einhält.
 5.7.9 Werden Unterlagen mit unterschiedlicher Aufbewahrungsdauer zusammen aufbewahrt, gilt für die
 Aussonderung die jeweils längste Frist.
-5.7.10 Die ausgesonderten Unterlagen sind unter Beachtung der für die Archivierung geltenden Bestimmun-
-gen zu vernichten. Elektronische Daten sind unwiderruflich zu löschen. Dabei ist sicherzustellen, dass die in
-den Unterlagen enthaltenen Angaben nicht durch unbefugte Dritte zur Kenntnis genommen und nicht miss-
-bräuchlich verwendet werden können. Die zum Datenschutz getroffenen Regelungen sind zu beachten.
+5.7.10 Die ausgesonderten Unterlagen sind unter Beachtung der für die Archivierung geltenden Bestimmungen zu vernichten. Elektronische Daten sind unwiderruflich zu löschen. Dabei ist sicherzustellen, dass die in
+den Unterlagen enthaltenen Angaben nicht durch unbefugte Dritte zur Kenntnis genommen und nicht missbräuchlich verwendet werden können. Die zum Datenschutz getroffenen Regelungen sind zu beachten.
 5.7.11 Das MF kann im Einvernehmen mit dem LRH Ausnahmen zulassen.
 6. Für Zahlungen zuständige Stellen
 6.1 Einrichtung
@@ -469,10 +403,8 @@ Für Zahlungen zuständige Stellen sind:
 6.1.2 Zahlstellen, die mit Einwilligung des MF für den Barzahlungsverkehr und die Einzahlungen mittels
 Scheck und Verfahren nach Nummer 3.4 eingerichtet werden können,
 6.1.3 sonstige Stellen, die vom MF unter Beachtung des § 77 mit der Wahrnehmung des Zahlungsverkehrs
-beauftragt werden. Die Änderung oder Ergänzung der bei der Einrichtung oder Beauftragung fest-
-gelegten Aufgaben bedarf der Einwilligung des MF.
-Für die Einrichtung, die Zuständigkeit und das Verwaltungsverfahren der Zahlstellen sowie deren Ergän-
-zung oder Änderung gelten die Bestimmungen der Anlage 2.
+beauftragt werden. Die Änderung oder Ergänzung der bei der Einrichtung oder Beauftragung festgelegten Aufgaben bedarf der Einwilligung des MF.
+Für die Einrichtung, die Zuständigkeit und das Verwaltungsverfahren der Zahlstellen sowie deren Ergänzung oder Änderung gelten die Bestimmungen der Anlage 2.
 6.2 Bestellung von Kassenleitungen
 Die Kassenleitungen sowie deren Vertretungen werden vom MF bestellt. Dies gilt entsprechend für die
 nach Nummer 6.1.3 beauftragte Stelle. Das MF kann diese Befugnisse übertragen.
@@ -483,7 +415,6 @@ Kasse eingerichtet ist, unverzüglich zu unterrichten.
 7. HKR- Verfahren
 Für HKR-Verfahren gelten die Bestimmungen der Anlage 3.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 12
 8. Wertgegenstände
 8.1 Grundsätze
 8.1.1 Zu verwahrende Wertgegenstände sind Wertpapiere und sonstige Urkunden sowie Kostbarkeiten
@@ -495,12 +426,10 @@ den Bestimmungen des NHintG und den hierzu ergangenen Ausführungsbestimmungen g
 8.1.3 Bestimmungen der Nummern 1 bis 7 (Anordnungsverfahren, Erteilung von Quittungen und Führung
 von Büchern) sind unter Beachtung der nachfolgenden Bestimmungen sinngemäß anzuwenden.
 8.2 Inhalt der Anordnung
-Eine Anordnung über die Einlieferung oder die Auslieferung von Wertgegenständen muss mindestens ent-
-halten:
+Eine Anordnung über die Einlieferung oder die Auslieferung von Wertgegenständen muss mindestens enthalten:
 8.2.1 die Bezeichnung der anordnenden Stelle,
 8.2.2 die Bezeichnung der Stelle, die den Wertgegenstand annehmen oder ausliefern soll,
-8.2.3 ein Kennzeichen zur eindeutigen Identifizierung aller mit der Anordnung zusammenhängenden In-
-formationen,
+8.2.3 ein Kennzeichen zur eindeutigen Identifizierung aller mit der Anordnung zusammenhängenden Informationen,
 8.2.4 die Bezeichnung und die Anschrift der einliefernden oder empfangsberechtigten Person,
 8.2.5 die Bezeichnung und Beschreibung des Wertgegenstandes,
 8.2.6 die Kennzeichnung der Art der Anordnung (Einlieferung oder Auslieferung),
@@ -514,8 +443,7 @@ Einlieferung und Auslieferung von Wertgegenständen.
 9. Unvermutete Prüfungen
 9.1 Prüfung der für Zahlungen zuständigen Stellen
 Die LHK und die übrigen für Zahlungen zuständigen Stellen sind mindestens einmal jährlich unvermutet zu
-prüfen. Die unvermuteten Prüfungen bei den übrigen für Zahlungen zuständigen Stellen können durch stän-
-dige Prüfungen ergänzt werden. Werden ständige Prüfungen vorgenommen, kann die unvermutete Prüfung
+prüfen. Die unvermuteten Prüfungen bei den übrigen für Zahlungen zuständigen Stellen können durch ständige Prüfungen ergänzt werden. Werden ständige Prüfungen vorgenommen, kann die unvermutete Prüfung
 auf das Wesentliche beschränkt werden.
 Die LHK wird vom MF unvermutet geprüft. Die anderen für Zahlungen zuständigen Stellen von der Behörde,
 bei der sie eingerichtet sind. Näheres ist in Nummer 16 der Anlage 2 geregelt.
@@ -526,21 +454,17 @@ Die Prüfung ist Bestandteil des in Anlage 3 beschriebenen Internen Kontrollsyst
 9.1.2 Prüfungsgegenstände und Prüfungsumfang sowie Einzelheiten zum Inhalt der Prüfungsniederschrift
 ergeben sich für die Zahlstellenrevision aus Nummer 16 der Anlage 2.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 13
 9.2 Revision der für die Bestandsverwaltung zuständigen Stellen
 Das jeweils zuständige Ministerium erlässt die näheren Bestimmungen für die Prüfung der Stellen, die für
 die Verwaltung von Vorräten zuständig sind.
 10. Interne Revision für das führende HKR-Verfahren (HVS)
 Das MF nimmt die Aufgaben der Internen Revision für das führende Verfahren im HKR wahr. Ziele und
 Aufgaben der Internen Revision ergeben sich aus einer Geschäftsordnung.
-Der Internen Revision für das führende HKR-Verfahren obliegt die Untersuchung, Bewertung und Überwa-
-chung der Angemessenheit und Wirksamkeit der Kontrollsysteme einschließlich des Buchführungs - und Rech-
-nungslegungssystems und der in diesem System ablaufenden Geschäftsprozesse.
+Der Internen Revision für das führende HKR-Verfahren obliegt die Untersuchung, Bewertung und Überwachung der Angemessenheit und Wirksamkeit der Kontrollsysteme einschließlich des Buchführungs - und Rechnungslegungssystems und der in diesem System ablaufenden Geschäftsprozesse.
 11. Beitreibung und Einziehung von Geldforderungen
 11.1 Beitreibung von Geldforderungen
 Die für die Vollstreckung zuständige Behörde ist für die Beitreibung öffentlich- rechtlicher und bestimmter,
-durch Rechtsverordnung zugelassener privatrechtlicher Geldforderungen des Landes im Verwaltungsvollstre-
-ckungsverfahren zuständig.
+durch Rechtsverordnung zugelassener privatrechtlicher Geldforderungen des Landes im Verwaltungsvollstreckungsverfahren zuständig.
 Des Weiteren zieht sie bestimmte, durch Rechtsverordnung zugelassene privatrechtliche Geldforderungen
 des Landes im Verwaltungsvollstreckungsverfahren ein.
 11.2 Vollstreckungsbehörde
@@ -548,8 +472,7 @@ Die Zuständigkeit für die Vollstreckung von Forderungen des Landes und bestimm
 Bundes bestimmt sich entweder nach dem Niedersächsischen Verwaltungsvollstreckungsgesetz oder nach
 dem Justizbeitreibungsgesetz.
 11.3 Einziehung von Geldforderungen
-Unbeschadet bestehender Regelungen im Justizbereich ist die Vollstreckungsbehörde neben der Beitrei-
-bung von Geldforderungen auch für folgende Maßnahmen zuständig, soweit ihr diese übertragen worden sind:
+Unbeschadet bestehender Regelungen im Justizbereich ist die Vollstreckungsbehörde neben der Beitreibung von Geldforderungen auch für folgende Maßnahmen zuständig, soweit ihr diese übertragen worden sind:
 11.3.1 die Stundung von Ansprüchen,
 11.3.2 die befristete und unbefristete Niederschlagung von Forderungen,
 11.3.3 den Erlass von Forderungen,
@@ -558,32 +481,26 @@ bung von Geldforderungen auch für folgende Maßnahmen zuständig, soweit ihr di
 11.3.6 die Bearbeitung von Amtshilfeersuchen (Vollstreckungshilfe) anderer Stellen.
 11.4 Sicherstellung von Forderungen
 Die zentrale Vollstreckungsbehörde darf rechtsgeschäftliche Sicherungen für die von ihr einzuziehenden
-Forderungen vereinbaren. Zur Verfügung über eine erlangte Sicherheit ist die Vollstreckungsbehörde nur be-
-fugt, soweit
+Forderungen vereinbaren. Zur Verfügung über eine erlangte Sicherheit ist die Vollstreckungsbehörde nur befugt, soweit
 11.4.1 dies im Rahmen der Aufgaben der zentralen Vollstreckungsbehörde liegt (z. B. bei Aufhebung von
 Zwangsvollstreckungsmaßnahmen),
 11.4.2 es zur Befriedigung aus der Sicherheit erforderlich ist (z. B. Kündigung und Pfandverwertung) und
 11.4.3 die Verfügung der Erfüllung rechtlich begründeter Ansprüche dient (z.
-B. die Erteilung einer Lö-
-schungsbewilligung nach Zahlung der Forderung).
+B. die Erteilung einer Löschungsbewilligung nach Zahlung der Forderung).
 Bestehende Regelungen im Justizbereich bleiben unberührt.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 14
 11.5 Annahme an Erfüllungs statt und erfüllungshalber
-Soweit nicht anders bestimmt, ist die Vollstreckungsbehörde bei der Einziehung und Beitreibung von Geld-
-forderungen auch zur Annahme an Erfüllungs statt oder erfüllungshalber (§ 364 BGB) und zur Genehmigung
+Soweit nicht anders bestimmt, ist die Vollstreckungsbehörde bei der Einziehung und Beitreibung von Geldforderungen auch zur Annahme an Erfüllungs statt oder erfüllungshalber (§ 364 BGB) und zur Genehmigung
 einer Schuldübernahme (§§ 414 ff. BGB) ermächtigt.
 11.6 Verfahren bei der zentralen Vollstreckungsbehörde
-Die zentrale Vollstreckungsbehörde regelt im Einvernehmen mit MJ und MF durch den Erlass von Arbeits-
-richtlinien das Einziehungs- und Beitreibungsverfahren.
+Die zentrale Vollstreckungsbehörde regelt im Einvernehmen mit MJ und MF durch den Erlass von Arbeitsrichtlinien das Einziehungs- und Beitreibungsverfahren.
 12. Bisherige Verfahren
 12.1 In Betrieb befindliche HKR-Verfahren
 Für die beim Inkrafttreten der VV für Zahlungen, Buchführung und Rechnungslegung in Betrieb befindlichen
 HKR-Verfahren bedarf es keiner erneuten Einwilligung nach Nummer 4.1 der Anlage 3.
 12.2 Manuelle Verfahren
 Soweit für die Bewirtschaftungsvorgänge nach Nummer 2 der Anlage 3 HKR-Verfahren nicht eingesetzt
-werden, sind die vorstehenden Bestimmungen und zusätzlich die Bestimmungen der Anlage 3 analog anzu-
-wenden. Das MF kann im Einvernehmen mit dem LRH zusätzliche Bestimmungen treffen. Dies gilt auch für
+werden, sind die vorstehenden Bestimmungen und zusätzlich die Bestimmungen der Anlage 3 analog anzuwenden. Das MF kann im Einvernehmen mit dem LRH zusätzliche Bestimmungen treffen. Dies gilt auch für
 den Fall, dass HKR-Verfahren ganz oder einzelne Funktionen ausgefallen sind (Notbetrieb).
 13. Buchführung bei Landesbetrieben
 Auf die Anwendung der VV zu § 26 LHO wird verwiesen.
@@ -600,8 +517,7 @@ Inhaltsübersicht
 
 1. Allgemeines
 Die nachfolgenden Bestimmungen regeln die Annahme, Verwaltung und Weitergabe von Zahlungsmitteln
-und die Behandlung von nachgemachten, verfälschten, als Falschgeld verdächtigen oder beschädigten Zah-
-lungsmitteln.
+und die Behandlung von nachgemachten, verfälschten, als Falschgeld verdächtigen oder beschädigten Zahlungsmitteln.
 2. Zahlungsmittel
 Zahlungsmittel sind Euro- Münzen und Banknoten sowie Schecks i. S . der Nummer 2.2.
 2.1 Bargeld, nachgemachte, verfälschte, als Falschgeld verdächtige oder beschädigte Zahlungsmittel außer
@@ -610,54 +526,40 @@ Schecks
 Bargeldzahlungen sind von den für die Zahlung zuständigen Stellen anzunehmen oder zu leisten. Geht
 Bargeld außerhalb der für Zahlungen zuständigen Stellen ein, ist es unverzüglich an diese weiterzuleiten.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 15
 2.1.2 Nachgemachte oder verfälschte Zahlungsmittel
-Die für Zahlungen zuständige Stelle hat ihr übergebene und von ihr als nachgemacht oder verfälscht er-
-kannte Euro- Münzen und Euro- Banknoten (Falschgeld) anzuhalten und der übergebenden Person eine Be-
-scheinigung folgenden Inhalts zu erteilen:
+Die für Zahlungen zuständige Stelle hat ihr übergebene und von ihr als nachgemacht oder verfälscht erkannte Euro- Münzen und Euro- Banknoten (Falschgeld) anzuhalten und der übergebenden Person eine Bescheinigung folgenden Inhalts zu erteilen:
 ‚Die Euro- Münze(n)/Euro- Banknote(n) über ........... EUR mit der Kennzeichnung (Münzen: Jahreszahl, etwa
 vorhandenes Münzzeichen; Noten: Notennummer) ........... wurde(n) als Falschgeld angehalten.
 Ort, Tag, Bezeichnung der für Zahlungen zuständigen Stelle,
 Unterschrift, Dienststempel‘.
 Sofern es nicht ratsam erscheint, die übergebende Person festzuhalten und die nächste Polizeidienststelle
 zu verständigen, hat die für Zahlungen zuständige Stelle sich über die Person zu vergewissern und hierüber
-sowie über andere zweckdienliche Feststellungen (z. B. über die Herkunft des Falschgeldes) eine Verhand-
-lungsniederschrift zu fertigen, die von den Beteiligten zu unterschreiben ist. Die Verhandlungsniederschrift mit
+sowie über andere zweckdienliche Feststellungen (z. B. über die Herkunft des Falschgeldes) eine Verhandlungsniederschrift zu fertigen, die von den Beteiligten zu unterschreiben ist. Die Verhandlungsniederschrift mit
 dem Falschgeld und etwaigen sonstigen Beweismitteln (z. B. Rollenpapier, Streifband, Beutelfahne) ist einer
 Polizeidienststelle zuzuleiten. Kann eine Verhandlungsniederschrift nicht gefertigt werden, ist das Falschgeld
-der Polizeidienststelle mit einem Bericht zuzuleiten. Ist Falschgeld übersandt worden, ist sinngemäß zu ver-
-fahren.
+der Polizeidienststelle mit einem Bericht zuzuleiten. Ist Falschgeld übersandt worden, ist sinngemäß zu verfahren.
 2.1.3 Als Falschgeld verdächtige Zahlungsmittel
 Die für Zahlungen zuständige Stelle hat Euro- Münzen und Euro- Banknoten, deren Echtheit wegen ihres
-Erscheinungsbildes zweifelhaft ist, anzuhalten und der übergebenden oder übersendenden Person eine Be-
-scheinigung nach Nummer 2.1.1.1 zu erteilen, in der die Worte ‚als Falschgeld‘ durch die Worte ‚wegen Zwei-
-fels an der Echtheit‘ zu ersetzen sind. Die angehaltenen Euro- Münzen und Euro-Banknoten sind der Deut-
-schen Bundesbank zur Prüfung zu übersenden. Im Fall der Echtheit der verdächtigen Stücke erstattet die
+Erscheinungsbildes zweifelhaft ist, anzuhalten und der übergebenden oder übersendenden Person eine Bescheinigung nach Nummer 2.1.1.1 zu erteilen, in der die Worte ‚als Falschgeld‘ durch die Worte ‚wegen Zweifels an der Echtheit‘ zu ersetzen sind. Die angehaltenen Euro- Münzen und Euro-Banknoten sind der Deutschen Bundesbank zur Prüfung zu übersenden. Im Fall der Echtheit der verdächtigen Stücke erstattet die
 Deutsche Bundesbank den Gegenwert, im Fall der Unechtheit wird die für Zahlungen zuständige Stelle von
-der Deutschen Bundesbank benachrichtigt. Die Person, die die Euro- Münzen oder Euro- Banknoten überge-
-ben oder übersandt hat, ist zu unterrichten.
+der Deutschen Bundesbank benachrichtigt. Die Person, die die Euro- Münzen oder Euro- Banknoten übergeben oder übersandt hat, ist zu unterrichten.
 2.1.4 Beschädigte Zahlungsmittel
 Beschädigte Euro- Münzen und Euro- Banknoten sind nicht anzunehmen; die Besitzerin oder der Besitzer
 ist an die Deutsche Bundesbank zu verweisen.
 2.2 Schecks
 2.2.1 Für Auszahlungen bestimmte Schecks sind von der für Zahlungen zuständigen Stelle auszustellen.
 2.2.2 Kommt ein von der für Zahlungen zuständigen Stelle ausgestellter Scheck oder kommen Vordrucke
-für Schecks abhanden, so ist das zuständige Kreditinstitut unverzüglich zu benachrichtigen bzw. eine Scheck-
-sperre zu veranlassen.
+für Schecks abhanden, so ist das zuständige Kreditinstitut unverzüglich zu benachrichtigen bzw. eine Schecksperre zu veranlassen.
 Soweit Schecks beim Eingang nicht bereits den Vermerk ‚ Nur zur Verrechnung‘ tragen, sind sie mit diesem
 Vermerk zu versehen. Ein Blankoindossament der oder des Einzahlungspflichtigen ist durch den Vermerk ‚ an
 ...... (Bezeichnung der für Zahlungen zuständigen Stelle)‘ zu vervollständigen.
-Kommt ein entgegengenommener Scheck abhanden, so hat die für Zahlungen zuständige Stelle die Aus-
-stellerin oder den Aussteller und das bezogene Kreditinstitut unverzüglich zur Sperrung des Schecks aufzu-
-fordern.
+Kommt ein entgegengenommener Scheck abhanden, so hat die für Zahlungen zuständige Stelle die Ausstellerin oder den Aussteller und das bezogene Kreditinstitut unverzüglich zur Sperrung des Schecks aufzufordern.
 2.2.3 Schecks sind zurückzuweisen, wenn deren Echtheit zweifelhaft ist. Liegt der Verdacht einer strafbaren
 Handlung vor, so ist die zuständige Polizeidienststelle zu verständigen.
 3. Quittungen
 3.1 Über jede Einzahlung in bar oder durch Übergabe eines Schecks ist auf Verlangen eine Quittung
-(§ 368 BGB) auszustellen. Die Quittungsvordrucke sowie die Regelungen über ihre Verwaltung und Verwen-
-dung bedürfen der Genehmigung des MF.
+(§ 368 BGB) auszustellen. Die Quittungsvordrucke sowie die Regelungen über ihre Verwaltung und Verwendung bedürfen der Genehmigung des MF.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 16
 3.2 Jede Auszahlung in bar oder durch Übergabe eines Bar-Schecks ist von der Empfängerin oder dem
 Empfänger zu quittieren. Bei Zug um Zug Geschäften genügt der übliche Kassenzettel. Vor der Auszahlung
 oder Übergabe ist die Empfangsberechtigung festzustellen.
@@ -689,25 +591,17 @@ Inhaltsübersicht
 Die Zahlstelle ist Teil der Dienststelle, bei der sie errichtet ist. Sie führt die Bezeichnung dieser Dienststelle
 mit dem Zusatz ‚ Zahlstelle‘.
 2. Aufgaben
-Die zuständige oberste Landesbehörde bestimmt mit Einwilligung des MF, inwieweit die Zahlstelle berech-
-tigt ist, Zahlungen anzunehmen oder zu leisten.
+Die zuständige oberste Landesbehörde bestimmt mit Einwilligung des MF, inwieweit die Zahlstelle berechtigt ist, Zahlungen anzunehmen oder zu leisten.
 Der Zahlstelle kann nach VV Nr. 8.1.2 die Verwahrung von Wertgegenständen übertragen werden.
 3. Verwaltung der Zahlstelle
-3.1 Die Dienststelle, bei der die Zahlstelle errichtet ist, hat eine Zahlstellenverwalterin oder einen Zahlstel-
-lenverwalter und eine Vertreterin oder einen Vertreter zu bestellen.
-3.2 Die Zahlstellenverwalterin oder der Zahlstellenverwalter ist für die sichere, ordnungsgemäße und wirt-
-schaftliche Erledigung der Aufgaben der Zahlstelle verantwortlich. Mängel in der Sicherheit der Zahlstellenein-
-richtung und im Verwaltungsverfahren der Zahlstelle sowie Unregelmäßigkeiten sind unverzüglich der Zahl-
-stellenrevision (Nummer 16) mitzuteilen.
+3.1 Die Dienststelle, bei der die Zahlstelle errichtet ist, hat eine Zahlstellenverwalterin oder einen Zahlstellenverwalter und eine Vertreterin oder einen Vertreter zu bestellen.
+3.2 Die Zahlstellenverwalterin oder der Zahlstellenverwalter ist für die sichere, ordnungsgemäße und wirtschaftliche Erledigung der Aufgaben der Zahlstelle verantwortlich. Mängel in der Sicherheit der Zahlstelleneinrichtung und im Verwaltungsverfahren der Zahlstelle sowie Unregelmäßigkeiten sind unverzüglich der Zahlstellenrevision (Nummer 16) mitzuteilen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 17
-3.3 Beim Wechsel der Zahlstellenverwalterin oder des Zahlstellenverwalters hat die bisherige Zahlstellen-
-verwalterin oder der bisherige Zahlstellenverwalter der Nachfolgerin oder dem Nachfolger die Geschäfte zu
+3.3 Beim Wechsel der Zahlstellenverwalterin oder des Zahlstellenverwalters hat die bisherige Zahlstellenverwalterin oder der bisherige Zahlstellenverwalter der Nachfolgerin oder dem Nachfolger die Geschäfte zu
 übergeben (Zahlstellenübergabe). Die Zahlstellenrevision leitet die Übergabe. Kann die Zahlstellenverwalterin
 oder der Zahlstellenverwalter der Nachfolgerin oder dem Nachfolger die Geschäfte nicht selbst übergeben, so
 nimmt die Zahlstellenrevision die Übergabe vor.
-3.4 Über die Zahlstellenübergabe ist eine Niederschrift zu fertigen, die von den Beteiligten zu unterschrei-
-ben und der Dienststelle vorzulegen ist. Die Niederschrift muss insbesondere enthalten:
+3.4 Über die Zahlstellenübergabe ist eine Niederschrift zu fertigen, die von den Beteiligten zu unterschreiben und der Dienststelle vorzulegen ist. Die Niederschrift muss insbesondere enthalten:
 3.4.1 den Zahlstellensollbestand (Nummer 10.2),
 3.4.2 den Zahlstellenistbestand (Nummer 8.2) und
 3.4.3 die Bezeichnung der zur Sicherung der Räume und technischen Einrichtungen dienenden Schlüssel.
@@ -717,19 +611,15 @@ werden, wenn sich die Verhinderung nicht über den Tagesabschluss hinaus erstrec
 3.6 Als Ausnahme zur generellen Trennung zwischen Buchführung und Zahlungsverkehr gemäß § 77
 Satz 1 LHO dürfen im Einvernehmen mit MJ die Rollen Zahlstellenverwalter und Feststeller an eine Person
 vergeben werden. Dabei sind beide Rollen zwingend in der gleichen HVS- Kennung zu vergeben. Das Gebot
-der Trennung von Buchführung und Zahlungsverkehr am gleichen Zahlungsvorgang gilt jedoch hiervon unab-
-hängig.
+der Trennung von Buchführung und Zahlungsverkehr am gleichen Zahlungsvorgang gilt jedoch hiervon unabhängig.
 4. Behandlung von Zahlungsvorgängen
 Liegt der Zahlstellenverwalterin oder dem Zahlstellenverwalter ein Zahlungsvorgang vor, hat sie oder er
-zunächst zu prüfen, ob für die Buchung eine Anordnung vorliegt. Ist eine Sollstellung vorhanden, ist die Zah-
-lung unter Angabe des Kassenzeichens zu buchen.
+zunächst zu prüfen, ob für die Buchung eine Anordnung vorliegt. Ist eine Sollstellung vorhanden, ist die Zahlung unter Angabe des Kassenzeichens zu buchen.
 5. Anschluss an Kreditinstitute
 5.1 Die Zahlstelle hat für die Geldverwaltung (Nummern 8.1 und 8.3) ein Girokonto bei einem Kreditinstitut
 zu unterhalten. Das Konto soll grundsätzlich am elektronischen Zahlungsverkehr teilnehmen.
 5.2 Über das Konto darf nur von der Zahlstellenverwalterin oder dem Zahlstellenverwalter und von einer
-oder einem von der Dienststelle zu bestimmenden Bediensteten verfügt werden. Bei Teilnahme am elektroni-
-schen Zahlungsverkehr sind Überweisungen elektronisch zu signieren; eine Erfassung und Signatur von Last-
-schrifteinzügen ist ausschließlich auf elektronischem Weg möglich.
+oder einem von der Dienststelle zu bestimmenden Bediensteten verfügt werden. Bei Teilnahme am elektronischen Zahlungsverkehr sind Überweisungen elektronisch zu signieren; eine Erfassung und Signatur von Lastschrifteinzügen ist ausschließlich auf elektronischem Weg möglich.
 6. Einzahlungen
 Für die Annahme von Einzahlungen gelten für
 6.1 die Prüfung von Zahlungsmitteln die Anlage 1 und von Wertsendungen die VV Nr. 8,
@@ -738,21 +628,14 @@ Für die Annahme von Einzahlungen gelten für
 7. Auszahlungen
 Für die Leistung von Auszahlungen gilt VV Nr. 3.
 8. Geldverwaltung
-8.1 Bei den für Zahlungen zuständigen Stellen ist ein den zulässigen Bestand übersteigender Betrag mit-
-tels Überweisung abzuliefern, erforderliche Bestandsverstärkungen sind durch Einreichung eines SEPA-Last-
-schrifteinzugsauftrages beim kontoführenden Institut der Zahlstelle vorzunehmen. Die LHK teilt die IBAN des
+8.1 Bei den für Zahlungen zuständigen Stellen ist ein den zulässigen Bestand übersteigender Betrag mittels Überweisung abzuliefern, erforderliche Bestandsverstärkungen sind durch Einreichung eines SEPA-Lastschrifteinzugsauftrages beim kontoführenden Institut der Zahlstelle vorzunehmen. Die LHK teilt die IBAN des
 für die Geldverwaltung geführten Referenz-Girokontos auf Anfrage mit.
-Ist die Erteilung eines SEPA-Lastschrifteinzugsauftrages nicht möglich, ist die Durchführung einer erforder-
-lichen Bestandsverstärkung mit der LHK abzustimmen.
+Ist die Erteilung eines SEPA-Lastschrifteinzugsauftrages nicht möglich, ist die Durchführung einer erforderlichen Bestandsverstärkung mit der LHK abzustimmen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 18
 8.2 Der Zahlstellenistbestand setzt sich aus den Zahlungsmitteln (siehe Anlage 1) und ggf. dem Bestand
 aus dem Kontogegenbuch (Nummer 9.3) zusammen.
-8.3 Beim Tagesabschluss darf der Zahlstellenistbestand den Betrag nicht übersteigen, der als Wechsel-
-geld und für die bis zur nächstmöglichen Zahlstellenbestandsverstärkung zu leistenden Auszahlungen erfor-
-derlich ist.
-8.4 Die für Auszahlungen nicht benötigten Zahlungsmittel sind in einem verschlossenen Geldbehälter si-
-cher aufzubewahren. Die für die Aufbewahrung Verantwortlichen haben die Schlüssel sorgfältig und vor dem
+8.3 Beim Tagesabschluss darf der Zahlstellenistbestand den Betrag nicht übersteigen, der als Wechselgeld und für die bis zur nächstmöglichen Zahlstellenbestandsverstärkung zu leistenden Auszahlungen erforderlich ist.
+8.4 Die für Auszahlungen nicht benötigten Zahlungsmittel sind in einem verschlossenen Geldbehälter sicher aufzubewahren. Die für die Aufbewahrung Verantwortlichen haben die Schlüssel sorgfältig und vor dem
 Zugriff Unberechtigter geschützt zu verwahren.
 8.5 Angenommene Schecks sind bis zur Einreichung beim kontoführenden Kreditinstitut im Geldbehälter
 vor dem Zugriff Unbefugter sicher aufzubewahren.
@@ -764,14 +647,11 @@ Summen im automatisierten Verfahren nachzuweisen.
 9.2.2 der Tag des Nachweises,
 9.2.3 ein Hinweis, der die Verbindung mit dem Beleg herstellt, und
 9.2.4 der Betrag.
-9.3 Die Zahlstelle hat für das nach Nummer 5.1 zu unterhaltende Girokonto ein Kontogegenbuch zu füh-
-ren.
+9.3 Die Zahlstelle hat für das nach Nummer 5.1 zu unterhaltende Girokonto ein Kontogegenbuch zu führen.
 10. Tagesabschluss
-10.1 Die Zahlstellenverwalterin oder der Zahlstellenverwalter hat täglich einen Tagesabschluss zu erstel-
-len, wenn Zahlungen angenommen oder geleistet worden sind. Hierzu sind der Zahlstellensollbestand und der
+10.1 Die Zahlstellenverwalterin oder der Zahlstellenverwalter hat täglich einen Tagesabschluss zu erstellen, wenn Zahlungen angenommen oder geleistet worden sind. Hierzu sind der Zahlstellensollbestand und der
 Zahlstellenistbestand zu ermitteln.
-10.2 Zur Ermittlung des Zahlstellensollbestandes ist unter Berücksichtigung des letzten Zahlstellensollbe-
-standes die Summe der Auszahlungen von der Summe der Einzahlungen abzuziehen.
+10.2 Zur Ermittlung des Zahlstellensollbestandes ist unter Berücksichtigung des letzten Zahlstellensollbestandes die Summe der Auszahlungen von der Summe der Einzahlungen abzuziehen.
 10.3 Der Zahlstellenistbestand ist darzustellen und mit dem Zahlstellensollbestand zu vergleichen. Besteht
 keine Übereinstimmung, so ist der Unterschiedsbetrag als Zahlstellenfehlbetrag oder Zahlstellenüberschuss
 auszuweisen; Maßnahmen zur Aufklärung sind unverzüglich einzuleiten.
@@ -783,126 +663,88 @@ Wird der Grund für den Zahlstellenfehlbetrag ermittelt, ist der Vorschuss abzuw
 für den Zahlstellenfehlbetrag nicht ermittelt werden kann, ist der Vorschuss spätestens nach sechs Monaten
 auf einem Titel der Gruppe 546 zu buchen.
 10.5 Ein Zahlstellenüberschuss, der nicht unverzüglich (siehe VV Nr. 5.4.1) aufgeklärt werden kann, ist als
-Verwahrung nachzuweisen. Nummer 10.4 Satz 2 gilt entsprechend. Wird der Grund für den Zahlstellenüber-
-schuss ermittelt, ist die Verwahrung aufzuklären. VV Nr. 3.8 Satz 4 gilt entsprechend.
+Verwahrung nachzuweisen. Nummer 10.4 Satz 2 gilt entsprechend. Wird der Grund für den Zahlstellenüberschuss ermittelt, ist die Verwahrung aufzuklären. VV Nr. 3.8 Satz 4 gilt entsprechend.
 11. Wertgegenstände
 Ist der Zahlstelle nach VV Nr. 8.1.2 die Verwahrung von Wertgegenständen übertragen worden, so gilt VV
 Nr. 8 entsprechend.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 19
 12. Ergänzende Bestimmungen
 Ergänzende Bestimmungen und von den Zahlstellenbestimmungen abweichende Regelungen bedürfen
 der Einwilligung des MF, soweit erforderlich im Einvernehmen mit dem LRH.
 13. Zahlstellen besonderer Art
-13.1 Für die Leistung und die Annahme geringfügiger Barzahlungen, die ihrer Art nach bekannt sind, kön-
-nen als Zahlstellen besonderer Art Handvorschüsse bewilligt und Geldannahmestellen errichtet werden.
+13.1 Für die Leistung und die Annahme geringfügiger Barzahlungen, die ihrer Art nach bekannt sind, können als Zahlstellen besonderer Art Handvorschüsse bewilligt und Geldannahmestellen errichtet werden.
 13.2 Für Handvorschüsse und Geldannahmestellen gelten die Nummern 2 bis 4, 6, 7, 9 und 12 sinngemäß,
 soweit in den Nummern 14 und 15 nichts anderes bestimmt ist.
 14. Handvorschüsse
-Um eine einheitliche und nachvollziehbare Übersicht über alle Handvorschüsse des Landes zu gewährleis-
-ten, sind diese beim Kassentitel 501 11 im jeweiligen Kapitel zu buchen. Vor der Einrichtung eines Handvor-
-schusses sind die Notwendigkeit und die Betragshöhe angesichts der Kosten der Auffüllung unter Berücksich-
-tigung der Wirtschaftlichkeit zu prüfen.
+Um eine einheitliche und nachvollziehbare Übersicht über alle Handvorschüsse des Landes zu gewährleisten, sind diese beim Kassentitel 501 11 im jeweiligen Kapitel zu buchen. Vor der Einrichtung eines Handvorschusses sind die Notwendigkeit und die Betragshöhe angesichts der Kosten der Auffüllung unter Berücksichtigung der Wirtschaftlichkeit zu prüfen.
 14.1 Die zuständige oberste Landesbehörde kann den Dienststellen ihres Geschäftsbereichs zur Leistung
 geringfügiger, fortlaufend anfallender Auszahlungen, die vorher nicht im Einzelnen, sondern nur ihrer Art nach
-bekannt sind, Handvorschüsse bewilligen. Voraussetzung hierfür ist, dass diese Auszahlungen nach der Ver-
-kehrssitte sofort in bar zu leisten sind und nicht von einer bereits bestehenden Zahlstelle geleistet werden
-können. Die Bewilligung von Handvorschüssen bis zum Betrag von 500 EUR kann den unmittelbar nachge-
-ordneten Dienststellen übertragen werden. Für die Bewilligung von Handvorschüssen von mehr als 1 000 EUR
+bekannt sind, Handvorschüsse bewilligen. Voraussetzung hierfür ist, dass diese Auszahlungen nach der Verkehrssitte sofort in bar zu leisten sind und nicht von einer bereits bestehenden Zahlstelle geleistet werden
+können. Die Bewilligung von Handvorschüssen bis zum Betrag von 500 EUR kann den unmittelbar nachgeordneten Dienststellen übertragen werden. Für die Bewilligung von Handvorschüssen von mehr als 1 000 EUR
 ist die Einwilligung des MF erforderlich.
 14.2 In der Bewilligungsverfügung kann die Annahme von geringfügigen Bareinzahlungen (z. B. Gebühren
 für private Ferngespräche, Entgelte für Vervielfältigungen) zugelassen werden, wenn die Einzahlung bei einer
 bereits bestehenden Zahlstelle nicht zweckmäßig ist und die Errichtung einer Geldannahmestelle dadurch
-vermieden werden kann. Die hiernach angenommenen Einzahlungen dürfen für die Leistung von Auszahlun-
-gen verwendet werden.
-14.3 Zur Auszahlung eines Handvorschusses ist eine Auszahlungsanordnung zu erteilen, in der die Ver-
-walterin oder der Verwalter des Handvorschusses als Empfangsberechtigte oder Empfangsberechtigter anzu-
-geben ist. Der Handvorschuss ist im Vorschussbuch zu buchen.
+vermieden werden kann. Die hiernach angenommenen Einzahlungen dürfen für die Leistung von Auszahlungen verwendet werden.
+14.3 Zur Auszahlung eines Handvorschusses ist eine Auszahlungsanordnung zu erteilen, in der die Verwalterin oder der Verwalter des Handvorschusses als Empfangsberechtigte oder Empfangsberechtigter anzugeben ist. Der Handvorschuss ist im Vorschussbuch zu buchen.
 14.4 Die Dienststelle, der ein Handvorschuss bewilligt worden ist, hat eine Verwalterin oder einen Verwalter
-des Handvorschusses und eine Vertreterin oder einen Vertreter zu bestellen. Bei einem Wechsel der Verwal-
-terin oder des Verwalters sind die ordnungsgemäße Übergabe und Übernahme von der bisherigen Verwalterin
-oder dem bisherigen Verwalter und der Nachfolgerin oder dem Nachfolger zu bescheinigen. Kann die Verwal-
-terin oder der Verwalter der Nachfolgerin oder dem Nachfolger den Handvorschuss nicht selbst übergeben,
+des Handvorschusses und eine Vertreterin oder einen Vertreter zu bestellen. Bei einem Wechsel der Verwalterin oder des Verwalters sind die ordnungsgemäße Übergabe und Übernahme von der bisherigen Verwalterin
+oder dem bisherigen Verwalter und der Nachfolgerin oder dem Nachfolger zu bescheinigen. Kann die Verwalterin oder der Verwalter der Nachfolgerin oder dem Nachfolger den Handvorschuss nicht selbst übergeben,
 so ist die ordnungsgemäße Übergabe von der Dienststelle zu bescheinigen. Entsprechendes gilt bei einer
 vorübergehenden Verhinderung der Verwalterin oder des Verwalters (z. B. Urlaub, Krankheit).
-14.5 Für Auszahlungen und die nach Nummer 14.2 zugelassenen Einzahlungen brauchen der Handvor-
-schussverwalterin oder dem Handvorschussverwalter Zahlungsanordnungen nicht vorliegen.
+14.5 Für Auszahlungen und die nach Nummer 14.2 zugelassenen Einzahlungen brauchen der Handvorschussverwalterin oder dem Handvorschussverwalter Zahlungsanordnungen nicht vorliegen.
 14.6 Der Handvorschuss und die ggf. angenommenen Einzahlungen müssen stets in Bargeld oder Belegen
 vorhanden sein. Erfordert es der Umfang des Zahlungsverkehrs, so hat die Verwalterin oder der Verwalter des
-Handvorschusses einen besonderen Nachweis für die Auszahlungen und Einzahlungen zu führen. Num-
-mer 9.2 gilt entsprechend. Der Unterschiedsbetrag zwischen den Summen der Einzahlungen und Auszahlun-
-gen in dem Nachweis muss stets mit dem Bargeldbestand übereinstimmen.
-14.7 Die Verwalterin oder der Verwalter des Handvorschusses hat bei Bedarf, mindestens jedoch zum Jah-
-resabschluss die Belege über Zahlungen gegen Empfangsbestätigung an die anordnende Stelle zu geben.
+Handvorschusses einen besonderen Nachweis für die Auszahlungen und Einzahlungen zu führen. Nummer 9.2 gilt entsprechend. Der Unterschiedsbetrag zwischen den Summen der Einzahlungen und Auszahlungen in dem Nachweis muss stets mit dem Bargeldbestand übereinstimmen.
+14.7 Die Verwalterin oder der Verwalter des Handvorschusses hat bei Bedarf, mindestens jedoch zum Jahresabschluss die Belege über Zahlungen gegen Empfangsbestätigung an die anordnende Stelle zu geben.
 Wird ein Nachweis nach Nummer 14.6 geführt, so ist der Unterschiedsbetrag zwischen den Summen der
 Einzahlungen und Auszahlungen zu errechnen und als neuer Bestand vorzutragen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 20
 14.8 Sobald die Voraussetzungen für die Bewilligung des Handvorschusses ganz oder teilweise entfallen
-sind, hat die Handvorschussverwalterin oder der Handvorschussverwalter die vollständige oder teilweise Ab-
-wicklung des Handvorschusses zu veranlassen.
+sind, hat die Handvorschussverwalterin oder der Handvorschussverwalter die vollständige oder teilweise Abwicklung des Handvorschusses zu veranlassen.
 15. Geldannahmestellen
 15.1 Die zuständige oberste Landesbehörde kann bei den Dienststellen ihres Geschäftsbereichs für die
 Annahme geringfügiger Bareinzahlungen, die vorher nicht im Einzelnen, sondern nur ihrer Art nach bekannt
-sind, Geldannahmestellen errichten. Voraussetzung hierfür ist, dass die oder der Zahlungspflichtige den ein-
-zuzahlenden Betrag nach der Verkehrssitte sofort bar zu entrichten hat und die Einzahlung bei einer bereits
-bestehenden Geldannahmestelle oder einer sonstigen Zahlstelle nicht zweckmäßig ist. Die Leistung von Aus-
-zahlungen nach Nummer 14.1 durch die Geldannahmestelle kann zugelassen werden.
+sind, Geldannahmestellen errichten. Voraussetzung hierfür ist, dass die oder der Zahlungspflichtige den einzuzahlenden Betrag nach der Verkehrssitte sofort bar zu entrichten hat und die Einzahlung bei einer bereits
+bestehenden Geldannahmestelle oder einer sonstigen Zahlstelle nicht zweckmäßig ist. Die Leistung von Auszahlungen nach Nummer 14.1 durch die Geldannahmestelle kann zugelassen werden.
 15.2 Die Dienststelle hat eine Verwalterin oder einen Verwalter der Geldannahmestelle und eine Vertreterin
 oder einen Vertreter zu bestellen. Im Übrigen gilt Nummer 14.4 sinngemäß.
-15.3 Für Einzahlungen und die nach Nummer 15.1 zugelassenen Auszahlungen brauchen der Geldannah-
-mestelle Zahlungsanordnungen nicht vorzuliegen.
+15.3 Für Einzahlungen und die nach Nummer 15.1 zugelassenen Auszahlungen brauchen der Geldannahmestelle Zahlungsanordnungen nicht vorzuliegen.
 15.4 Die Geldannahmestelle hat die Einzahlungen und ggf. Auszahlungen sofort einzeln nachzuweisen. Ist
-die Erfassung der Einzahlungen in anderer Weise sichergestellt (z. B. Bestandsnachweise für Vordrucke, num-
-merierte Eintrittskarten), so sind nur die Tagessummen in den Nachweis zu übernehmen; Nummer 9.2 gilt
+die Erfassung der Einzahlungen in anderer Weise sichergestellt (z. B. Bestandsnachweise für Vordrucke, nummerierte Eintrittskarten), so sind nur die Tagessummen in den Nachweis zu übernehmen; Nummer 9.2 gilt
 entsprechend. Die Summe der aus dem Nachweis sich ergebenden nicht abgelieferten Einzahlungen muss
 stets mit dem Bargeldbestand übereinstimmen.
 15.5 Bei der Errichtung der Geldannahmestelle ist festzulegen, dass die angenommenen Beträge beim
 Erreichen einer bestimmten Summe und zum Jahresende an die zuständige Kasse oder Zahlstelle abzuliefern
 sind. Die Festlegung einer Betragsgrenze von mehr als 2
-000 EUR bedarf der Einwilligung des MF. Die Ablie-
-ferungen sind in den Nachweis einzutragen.
-15.6 Die Geldannahmestelle hat mindestens einmal monatlich gegenüber der zuständigen Stelle nachzu-
-weisen, welche Zahlungen sie im abgelaufenen Zeitraum angenommen oder geleistet hat. Hierfür hat sie die
-erforderlichen Unterlagen (z. B. Bestandsnachweise für Vordrucke und Eintrittskarten, Quittungsdurchschrif-
-ten) vorzulegen. Die zuständige Stelle hat diese Unterlagen und ihre Vollständigkeit zu prüfen und die Erteilung
+000 EUR bedarf der Einwilligung des MF. Die Ablieferungen sind in den Nachweis einzutragen.
+15.6 Die Geldannahmestelle hat mindestens einmal monatlich gegenüber der zuständigen Stelle nachzuweisen, welche Zahlungen sie im abgelaufenen Zeitraum angenommen oder geleistet hat. Hierfür hat sie die
+erforderlichen Unterlagen (z. B. Bestandsnachweise für Vordrucke und Eintrittskarten, Quittungsdurchschriften) vorzulegen. Die zuständige Stelle hat diese Unterlagen und ihre Vollständigkeit zu prüfen und die Erteilung
 der Kassenanordnung zu veranlassen.
 16. Zahlstellenrevision
 Die Geschäftsführung der Zahlstelle ist von einer oder von einem von der Dienststelle zu bestimmenden
 Bediensteten zu beaufsichtigen. Hinsichtlich der Zahlstellenrevision gelten folgende Bestimmungen.
 16.1 Bestandsnachweis, Tagesabschluss
-Zu Beginn der Prüfung ist die Übereinstimmung des Zahlstellensollbestandes mit dem Zahlstellenistbe-
-stand festzustellen (Bestandsnachweis). Hierzu ist von der Zahlstellenverwalterin oder dem Zahlstellenverwal-
-ter der vorläufige Tagesabschluss (Session: Gegenbuchseiten) vom Prüfungstag auszudrucken, zu unter-
-schreiben und der Zahlstellenrevision auszuhändigen. Sodann hat sich die Zahlstellenrevision davon zu über-
-zeugen, dass
-16.1.1 der im Bestandsnachweis dargestellte Zahlstellenistbestand an Zahlungsmitteln tatsächlich vorhan-
-den ist,
+Zu Beginn der Prüfung ist die Übereinstimmung des Zahlstellensollbestandes mit dem Zahlstellenistbestand festzustellen (Bestandsnachweis). Hierzu ist von der Zahlstellenverwalterin oder dem Zahlstellenverwalter der vorläufige Tagesabschluss (Session: Gegenbuchseiten) vom Prüfungstag auszudrucken, zu unterschreiben und der Zahlstellenrevision auszuhändigen. Sodann hat sich die Zahlstellenrevision davon zu überzeugen, dass
+16.1.1 der im Bestandsnachweis dargestellte Zahlstellenistbestand an Zahlungsmitteln tatsächlich vorhanden ist,
 16.1.2 der angegebene Bestand des Zahlstellengirokontos mit den Angaben in den Gegenbuchseiten und
 den Kontoauszügen (mit Belegen) übereinstimmt,
-16.1.3 ein den zulässigen Bestand übersteigender Betrag rechtzeitig abgeliefert wurde, soweit ein Zahlstel-
-lenhöchstbestand festgesetzt worden ist,
+16.1.3 ein den zulässigen Bestand übersteigender Betrag rechtzeitig abgeliefert wurde, soweit ein Zahlstellenhöchstbestand festgesetzt worden ist,
 16.1.4 die vorhandenen Banknoten und Münzen echt und umlauffähig sind,
 16.1.5 die angenommenen Schecks von der Zahlstelle zeitnah erfasst und eingereicht sowie dem für die
 Geldverwaltung eingerichteten Girokonto der LHK – siehe Nummer 8.1 – gutgeschrieben wurden.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 21
 Ist aus der Session ‚ Schalterbuch‘ zu erkennen, dass der Zahlstellenistbestand zwangsweise von der LHK
 erfasst wurde und sind für den betreffenden Buchungstag Einzahlungen oder Auszahlungen gebucht worden,
-hat kein Abgleich zwischen tatsächlich vorhandenem Istbestand und dem im HVS geführten Sollbestand statt-
-gefunden. Die Ursachen sind zu ermitteln und abzustellen.
+hat kein Abgleich zwischen tatsächlich vorhandenem Istbestand und dem im HVS geführten Sollbestand stattgefunden. Die Ursachen sind zu ermitteln und abzustellen.
 16.2 Prüfung der Buchungen
 16.2.1 Die ordnungsmäßige Buchung und Belegung der Einzahlungen und Auszahlungen sind aufgrund der
-Daten in den Sessions ‚Zeitbuch‘ und ‚Sachbuch‘ zu prüfen. Insbesondere sind bei Nicht-Soll-Titeln unter An-
-wendung der Filterfunktion aus der Session ‚Zeitbuch‘ eventuell vorhandene unzulässige Auszahlungen ohne
+Daten in den Sessions ‚Zeitbuch‘ und ‚Sachbuch‘ zu prüfen. Insbesondere sind bei Nicht-Soll-Titeln unter Anwendung der Filterfunktion aus der Session ‚Zeitbuch‘ eventuell vorhandene unzulässige Auszahlungen ohne
 Auszahlungsanordnung (negative Nicht-Soll-Einzahlungen) zu ermitteln und die Ursachen festzustellen.
-16.2.2 Mit der Session ‚ Beleghistorie‘ ist stichprobenartig die Einhaltung des Vier-Augen- Prinzips bei der Er-
-ledigung der Zahlstellenaufgaben zu prüfen. Die Buchungsschlüssel für A-Belege (Buchungsschlüssel für Aus-
-zahlungsanordnungen) mit dem Zahlungsverfahren MAN sind vollständig zu prüfen.
+16.2.2 Mit der Session ‚ Beleghistorie‘ ist stichprobenartig die Einhaltung des Vier-Augen- Prinzips bei der Erledigung der Zahlstellenaufgaben zu prüfen. Die Buchungsschlüssel für A-Belege (Buchungsschlüssel für Auszahlungsanordnungen) mit dem Zahlungsverfahren MAN sind vollständig zu prüfen.
 16.3 Wertgegenstände und überwachungspflichtige Vordrucke
 Verwahrt die Zahlstelle Wertgegenstände und überwachungspflichtige Vordrucke, ist zu prüfen, ob
-16.3.1 die Eintragungen der Ein- und Auslieferungen ordnungsgemäß erfasst und belegt sind und die Be-
-lege den Bestimmungen entsprechen (Werthinterlegungsbuch),
+16.3.1 die Eintragungen der Ein- und Auslieferungen ordnungsgemäß erfasst und belegt sind und die Belege den Bestimmungen entsprechen (Werthinterlegungsbuch),
 16.3.2 die Vordrucke vollzählig vorhanden sind und tatsächlich benötigt werden,
 16.3.3 der weitere Nachweis der verwendeten Überweisungsträger erbracht ist.
 16.4 Sonstige Prüfungen
@@ -910,8 +752,7 @@ lege den Bestimmungen entsprechen (Werthinterlegungsbuch),
 Es ist zu prüfen, ob die Beanstandungen der vorangegangenen Zahlstellenrevision erledigt sind.
 16.4.2 Prüfung der äußeren und inneren Zahlstellensicherheit
 Es ist insbesondere zu prüfen, ob
-16.4.2.1 nur den für die Abwicklung der Zahlstellengeschäfte zuständigen Bediensteten die hierfür notwendi-
-gen HVS-Zugangsberechtigungen erteilt worden sind und damit die organisatorischen Maßnahmen,
+16.4.2.1 nur den für die Abwicklung der Zahlstellengeschäfte zuständigen Bediensteten die hierfür notwendigen HVS-Zugangsberechtigungen erteilt worden sind und damit die organisatorischen Maßnahmen,
 die die Trennung von Anordnung und Ausführung von Zahlstellengeschäften sicherstellen, beachtet
 wurden,
 16.4.2.2 die Verschlusseinrichtungen in Ordnung sind,
@@ -924,20 +765,16 @@ muss:
 16.5.1.3 den Namen der Zahlstellenverwalterin oder des Zahlstellenverwalters,
 16.5.1.4 den Namen der Zahlstellenrevisorin oder des Zahlstellenrevisors,
 16.5.1.5 den Inhalt und die wesentlichen Ergebnisse der Prüfung sowie
-16.5.1.6 die Unterschriften einer beteiligten Zahlstellenrevisorin oder eines beteiligten Zahlstellenrevisors so-
-wie der Zahlstellenverwalterin oder des Zahlstellenverwalters.
+16.5.1.6 die Unterschriften einer beteiligten Zahlstellenrevisorin oder eines beteiligten Zahlstellenrevisors sowie der Zahlstellenverwalterin oder des Zahlstellenverwalters.
 16.5.2 Der Niederschrift sind beizufügen:
 16.5.2.1 der Bestandsnachweis nach Nummer 16.1.1,
 16.5.2.2 die Berechnung des Giroguthabens nach Nummer 16.1.2,
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 22
 16.5.2.3 ein Verzeichnis der geprüften Belege (Belegnummern).
 16.5.3 Geringfügige Mängel sind möglichst im Verlauf der Prüfung beseitigen zu lassen; sie brauchen nicht
 schriftlich beanstandet zu werden.
-16.5.4 Die Prüfungsniederschrift ist der Leitung der Dienststelle oder dem oder der von dieser mit der Zahl-
-stellenaufsicht betrauten Bediensteten zuzuleiten.
-16.5.5 Sind von der geprüften Zahlstelle Prüfungsbeanstandungen zu beantworten, übersendet sie ihre Stel-
-lungnahme auf dem Dienstweg der Zahlstellenrevisorin oder dem Zahlstellenrevisor.
+16.5.4 Die Prüfungsniederschrift ist der Leitung der Dienststelle oder dem oder der von dieser mit der Zahlstellenaufsicht betrauten Bediensteten zuzuleiten.
+16.5.5 Sind von der geprüften Zahlstelle Prüfungsbeanstandungen zu beantworten, übersendet sie ihre Stellungnahme auf dem Dienstweg der Zahlstellenrevisorin oder dem Zahlstellenrevisor.
 16.5.6 Die Zahlstellenrevisorin oder der Zahlstellenrevisor prüft, ob die Beanstandungen behoben wurden.
 16.6 Prüfung von Handvorschüssen
 Bei der Prüfung eines Handvorschusses ist insbesondere festzustellen, ob
@@ -948,11 +785,9 @@ oder Belegen vorhanden sind,
 16.6.4 die Höhe des Handvorschusses angemessen ist.
 16.7 Prüfung von Geldannahmestellen
 Bei der Prüfung einer Geldannahmestelle ist insbesondere festzustellen, ob
-16.7.1 der Sollbestand (= Bargeldbestand zuzüglich noch nicht abgeführter Einzahlungen abzüglich geleis-
-teter Zahlungen) mit dem Istbestand (Bargeld und Schecks) übereinstimmt,
+16.7.1 der Sollbestand (= Bargeldbestand zuzüglich noch nicht abgeführter Einzahlungen abzüglich geleisteter Zahlungen) mit dem Istbestand (Bargeld und Schecks) übereinstimmt,
 16.7.2 die den festgelegten Bargeldbestand überschreitenden Beträge rechtzeitig in der richtigen Höhe an
-die zuständige Zahlstelle oder das dienststellenbezogene Einnahmegirokonto übergeben oder über-
-wiesen wurden,
+die zuständige Zahlstelle oder das dienststellenbezogene Einnahmegirokonto übergeben oder überwiesen wurden,
 16.7.3 die Höhe eines ggf. vorhandenen Wechselgeldvorschusses noch angemessen ist,
 16.7.4 die ausgehändigten Quittungsblöcke vollständig vorhanden sind und ordnungsgemäß verwendet
 werden (z. B. Nachweis der Quittungsblätter im Spiegel oder einem besonderen Nachweisblatt),
@@ -961,8 +796,7 @@ werden (z. B. Nachweis der Quittungsblätter im Spiegel oder einem besonderen Na
 Anlage 3
 (zu VV Nr. 7 zu §§ 70 bis 72 und 74 bis 80 LHO)
 
-Grundsätze ordnungsgemäßer Buchführung (GoB) bei Einsatz von Haushalts-, Kassen- und Rech-
-nungswesen (HKR)- Verfahren – GoB-HKR –
+Grundsätze ordnungsgemäßer Buchführung (GoB) bei Einsatz von Haushalts-, Kassen- und Rechnungswesen (HKR)- Verfahren – GoB-HKR –
 
 Inhaltsübersicht
 1. Allgemeines
@@ -973,22 +807,16 @@ Inhaltsübersicht
 6. Besondere Regelungen für das führende Verfahren
 7. Internes Kontrollsystem (IKS)
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 23
 8. Inhalt der Bescheinigung nach Nummer 4.2
 
 1. Allgemeines
-1.1 Die Abläufe im Haushalts-, Kassen- und Rechnungswesen werden zunehmend unter Einsatz von au-
-tomatisierten, integrierten IT-gestützten Buchführungs- und Rechnungslegungssystemen abgebildet.
-Hierunter sind solche Verfahren zu verstehen, bei denen alle in dem Verfahren eingebundenen Arbeits-
-schritte grundsätzlich ohne Unterbrechung auf elektronischem Wege ablaufen.
+1.1 Die Abläufe im Haushalts-, Kassen- und Rechnungswesen werden zunehmend unter Einsatz von automatisierten, integrierten IT-gestützten Buchführungs- und Rechnungslegungssystemen abgebildet.
+Hierunter sind solche Verfahren zu verstehen, bei denen alle in dem Verfahren eingebundenen Arbeitsschritte grundsätzlich ohne Unterbrechung auf elektronischem Wege ablaufen.
 Das ist auch der Fall, wenn Arbeitsschritte in einem abgesetzten HKR-Verfahren (Vorverfahren) bearbeitet
 und dessen Ergebnisse elektronisch in das führende HKR-Verfahren übergeben werden.
-1.2 Darüber hinaus werden im Haushalts-, Kassen- und Rechnungswesen zunehmend die aufbewah-
-rungspflichtigen Unterlagen in elektronischer Form gespeichert. Für diese Unterlagen gilt VV Nr. 5.7.
-1.3 Das vom MF eingesetzte HKR-Verfahren ist das führende System im Haushalts-, Kassen- und Rech-
-nungswesen.
-1.4 Die Haushaltsmittel des Landes sind nur in einem vom MF zugelassenen HKR-Verfahren zu bewirt-
-schaften. Dazu gehören auch vorgelagerte HKR-Verfahren (Vorverfahren), deren Ergebnisse elektronisch an
+1.2 Darüber hinaus werden im Haushalts-, Kassen- und Rechnungswesen zunehmend die aufbewahrungspflichtigen Unterlagen in elektronischer Form gespeichert. Für diese Unterlagen gilt VV Nr. 5.7.
+1.3 Das vom MF eingesetzte HKR-Verfahren ist das führende System im Haushalts-, Kassen- und Rechnungswesen.
+1.4 Die Haushaltsmittel des Landes sind nur in einem vom MF zugelassenen HKR-Verfahren zu bewirtschaften. Dazu gehören auch vorgelagerte HKR-Verfahren (Vorverfahren), deren Ergebnisse elektronisch an
 das führende HKR-Verfahren übertragen werden.
 2. Grundsätze und Anforderungen
 2.1 Geltungsbereich
@@ -1004,36 +832,24 @@ Bundesbank für die Datenfernübertragung via EBICS für sonstige Kontoinhaber o
 2.2 Verfahrensdokumentation
 Für jedes HKR-Verfahren muss eine übersichtlich gegliederte Verfahrensdokumentation einschließlich
 technischer Risikoanalyse vorhanden sein, aus der Inhalt, Aufbau, Ablauf und Ergebnisse beim Einsatz des
-HKR-Verfahrens vollständig und schlüssig ersichtlich sind. Sie muss die Unterlagen enthalten, die zum Ver-
-ständnis des HKR-Verfahrens, der Bücher und Aufzeichnungen sowie der aufbewahrten Unterlagen notwen-
-dig sind.
-Die Beschreibung des Verfahrensablaufs in der Dokumentation muss so verständlich sein, dass das Ver-
-fahren für einen sachverständigen Dritten in angemessener Zeit nachprüfbar ist.
-Die konkrete Ausgestaltung der Verfahrensdokumentation ist abhängig von der Komplexität und Diversifi-
-kation der Geschäftstätigkeit, der Organisationsstruktur sowie dem eingesetzten HKR-Verfahren.
-Um die Zahlungsverkehrssicherheit zu gewährleisten, muss grundsätzlich jedes HKR-Verfahren verschie-
-dene Vorgaben gewährleisten. Diese sind im Anhang 1 aufgeführt. Die hierfür erforderlichen Dokumente
+HKR-Verfahrens vollständig und schlüssig ersichtlich sind. Sie muss die Unterlagen enthalten, die zum Verständnis des HKR-Verfahrens, der Bücher und Aufzeichnungen sowie der aufbewahrten Unterlagen notwendig sind.
+Die Beschreibung des Verfahrensablaufs in der Dokumentation muss so verständlich sein, dass das Verfahren für einen sachverständigen Dritten in angemessener Zeit nachprüfbar ist.
+Die konkrete Ausgestaltung der Verfahrensdokumentation ist abhängig von der Komplexität und Diversifikation der Geschäftstätigkeit, der Organisationsstruktur sowie dem eingesetzten HKR-Verfahren.
+Um die Zahlungsverkehrssicherheit zu gewährleisten, muss grundsätzlich jedes HKR-Verfahren verschiedene Vorgaben gewährleisten. Diese sind im Anhang 1 aufgeführt. Die hierfür erforderlichen Dokumente
 bilden die Verfahrensdokumentation.
-In der Risikoanalyse sind die Risiken zu ermitteln und zu bewerten. Dabei sind die durch Fehler und Miss-
-brauch bedingten haushaltswirtschaftlichen Auswirkungen gegen die zusätzlichen Ausgaben zur Erhöhung
+In der Risikoanalyse sind die Risiken zu ermitteln und zu bewerten. Dabei sind die durch Fehler und Missbrauch bedingten haushaltswirtschaftlichen Auswirkungen gegen die zusätzlichen Ausgaben zur Erhöhung
 der Verfahrenssicherheit abzuwägen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 24
 Die Einführung und die wesentliche Änderung eines HKR-Verfahrens sind nur zulässig, soweit derartige
 Risiken durch technische und organisatorische Maßnahmen wirksam beherrscht werden können.
 Ein im Ergebnis der Risikoanalyse festgestelltes Restrisiko ist zu dokumentieren. Bei dieser Dokumentation
-muss insbesondere gewürdigt werden, warum bei der Inbetriebnahme des HKR-Verfahrens die Verhältnismä-
-ßigkeit gewahrt ist.
+muss insbesondere gewürdigt werden, warum bei der Inbetriebnahme des HKR-Verfahrens die Verhältnismäßigkeit gewahrt ist.
 2.3 Abgrenzung der Aufgaben- und Verantwortungsbereiche, Zugriffskontrollen
-2.3.1 Grundsätzlich sind mindestens die Bereiche Datenerfassung und Datenverarbeitung voneinander ab-
-zugrenzen.
+2.3.1 Grundsätzlich sind mindestens die Bereiche Datenerfassung und Datenverarbeitung voneinander abzugrenzen.
 2.3.2 Die Abgrenzung der Aufgaben- und Verantwortungsbereiche der an HKR-Verfahren Beteiligten ist in
 geeigneter Weise, zum Beispiel durch Dienstanweisung, zu regeln.
-2.3.3 Im Bereich Datenverarbeitung sind bei der Softwareerstellung die Funktionsbereiche Systemprogram-
-mierung, Verfahrensentwicklung und – pflege sowie Verarbeitung so voneinander zu trennen, dass die Be-
-diensteten jeweils nur in einem der Funktionsbereiche tätig sind.
-2.3.4 Ein Zugriff auf Programme, die sich im Wirkbetrieb befinden, muss für die Funktionsbereiche System-
-programmierung, Verfahrensentwicklung und - pflege ausgeschlossen sein.
+2.3.3 Im Bereich Datenverarbeitung sind bei der Softwareerstellung die Funktionsbereiche Systemprogrammierung, Verfahrensentwicklung und – pflege sowie Verarbeitung so voneinander zu trennen, dass die Bediensteten jeweils nur in einem der Funktionsbereiche tätig sind.
+2.3.4 Ein Zugriff auf Programme, die sich im Wirkbetrieb befinden, muss für die Funktionsbereiche Systemprogrammierung, Verfahrensentwicklung und - pflege ausgeschlossen sein.
 2.4. Datenerfassung und Datenverarbeitung
 2.4.1 Gewährleistung der Richtigkeit und Vollständigkeit von digitalen Datensätzen
 Folgende Bearbeitungsschritte sind zur Gewährleistung der Richtigkeit und Vollständigkeit der Daten in
@@ -1043,28 +859,19 @@ einem HKR-Verfahren wahrzunehmen:
 – Datenverarbeitung (Nummer 2.4.4),
 – Datenübertragung (Nummer 2.4.5).
 Eine Änderung der Daten ist ausschließlich bei der Erfassung zulässig.
-Zusätzlich sind die Richtigkeit und Vollständigkeit der Daten durch programmtechnische Kontrollen zu ge-
-währleisten.
-Für jedes HKR-Verfahren ist eine Dienstanweisung zu erstellen, in der die Regelungen zu den Bearbei-
-tungsschritten und den Verfahrensabläufen für die Beschäftigten aller beteiligten Stellen nachvollziehbar fest-
-zulegen sind.
+Zusätzlich sind die Richtigkeit und Vollständigkeit der Daten durch programmtechnische Kontrollen zu gewährleisten.
+Für jedes HKR-Verfahren ist eine Dienstanweisung zu erstellen, in der die Regelungen zu den Bearbeitungsschritten und den Verfahrensabläufen für die Beschäftigten aller beteiligten Stellen nachvollziehbar festzulegen sind.
 2.4.2 Erfassung der Daten
-Die Datenerfassung ist die verarbeitungsgerechte Übernahme von buchungs- und zahlungsrelevanten Da-
-ten in ein HKR-Verfahren, um diese Daten weiter zu bearbeiten. Diese kann durch manuelle Eingabe von
-Daten aufgrund von begründenden Unterlagen oder durch Übernahme elektronischer Daten in das HKR-Ver-
-fahren erfolgen. Die Erfassung und Änderung von zentralen zahlungsrelevanten Daten (Stammdaten insbe-
-sondere im Rahmen der Haushaltsplanung, - führung und - rechnung) in einem HKR-Verfahren dürfen nur von
+Die Datenerfassung ist die verarbeitungsgerechte Übernahme von buchungs- und zahlungsrelevanten Daten in ein HKR-Verfahren, um diese Daten weiter zu bearbeiten. Diese kann durch manuelle Eingabe von
+Daten aufgrund von begründenden Unterlagen oder durch Übernahme elektronischer Daten in das HKR-Verfahren erfolgen. Die Erfassung und Änderung von zentralen zahlungsrelevanten Daten (Stammdaten insbesondere im Rahmen der Haushaltsplanung, - führung und - rechnung) in einem HKR-Verfahren dürfen nur von
 der unter Nummer 3.1 zuständigen Behörde oder einer oder eines Beauftragten erfolgen.
 Elektronisch zu versendenden Dateien ist ein Begleitbeleg beizufügen. Die Vorgaben gemäß Nummer 5.1
 gelten sinngemäß.
 2.4.3 Abgleich der erfassten Daten, Freigabe
-Erfasste zahlungsrelevante Daten müssen grundsätzlich von einer zweiten Person, die nicht an der Erfas-
-sung der Daten beteiligt war, vor der Freigabe zur weiteren Datenverarbeitung (Nummer 2.4.4) mit den be-
-gründenden Unterlagen vollständig abgeglichen werden. Es muss sichergestellt sein, dass die zum Abgleich
+Erfasste zahlungsrelevante Daten müssen grundsätzlich von einer zweiten Person, die nicht an der Erfassung der Daten beteiligt war, vor der Freigabe zur weiteren Datenverarbeitung (Nummer 2.4.4) mit den begründenden Unterlagen vollständig abgeglichen werden. Es muss sichergestellt sein, dass die zum Abgleich
 zugelassene Person die erfassten zahlungsrelevanten Daten nicht verändern kann.
 Eine Änderung der freigegebenen Daten muss ausgeschlossen sein.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 25
 2.4.4 Datenverarbeitung
 Die Betreiberinnen bzw. die Betreiber der HKR-Verfahren sind für die fehlerfreie und sichere Übertragung
 und Verarbeitung der Daten verantwortlich.
@@ -1074,24 +881,20 @@ Hierzu gehören insbesondere
 – die richtige und vollständige technische Durchführung der Verarbeitung,
 – die Wiederholbarkeit der Verarbeitung im Fall nicht einwandfreier Arbeitsergebnisse,
 – die vollständige Durchführung der ihr obliegenden organisatorischen und sonstigen Kontrollen,
-– die Sicherung der Datenbestände und der Programme gegen Verlust, unzulässige Weitergabe, unbeab-
-sichtigte und unbefugte Veränderung sowie
+– die Sicherung der Datenbestände und der Programme gegen Verlust, unzulässige Weitergabe, unbeabsichtigte und unbefugte Veränderung sowie
 – die richtige und vollständige Weiterleitung der Arbeitsergebnisse und
 – der Transport der Zahlungsverkehrsdatei zum Bankenrechner.
 2.4.5 Datenübertragung
 Bei einer elektronischen Übertragung von Daten ist sicherzustellen, dass diese
 – verschlüsselt, vollständig und unverändert übertragen werden,
-– wiederholt werden kann, wenn die erste Übertragung fehlerhaft oder unvollständig gewesen oder ge-
-scheitert ist,
+– wiederholt werden kann, wenn die erste Übertragung fehlerhaft oder unvollständig gewesen oder gescheitert ist,
 – protokolliert wird.
 2.4.6 Um Mehrfachzahlungen zu vermeiden, ist sicherzustellen, dass verarbeitete Dateien, vor allem aber
 Auszahlungsanordnungen nicht ein weiteres Mal verarbeitet bzw. ausgeführt werden.
 2.5 Prüfung der Verfahrensabläufe
-Durch stichprobenweise Prüfungen der nach Nummer 3.1 zuständigen Behörde oder einer von ihr beauf-
-tragten Person ist mindestens alle fünf Jahre sicherzustellen, dass die genehmigten Verfahrensabläufe und
+Durch stichprobenweise Prüfungen der nach Nummer 3.1 zuständigen Behörde oder einer von ihr beauftragten Person ist mindestens alle fünf Jahre sicherzustellen, dass die genehmigten Verfahrensabläufe und
 die getroffenen Regelungen eingehalten werden. Bei der Prüfung ist darauf zu achten, dass die erforderlichen
-Belege vorhanden sind und vorschriftsmäßig aufbewahrt werden. Die Prüfung ist zu bescheinigen. Das Er-
-gebnis ist dem MF unaufgefordert vorzulegen.
+Belege vorhanden sind und vorschriftsmäßig aufbewahrt werden. Die Prüfung ist zu bescheinigen. Das Ergebnis ist dem MF unaufgefordert vorzulegen.
 Die durchgeführten Prüfungen sowie ggf. festgestellte Fehler und die Maßnahmen zur Fehlerbehebung
 sind zu dokumentieren. Fehler sind unverzüglich zu beseitigen.
 2.6 Belegfunktion
@@ -1103,23 +906,18 @@ Ordnung bis zum Ablauf der jeweiligen Aufbewahrungsfristen dargestellt werden k�
 Belege müssen für die Rechnungsprüfung und für die Aufgaben nach § 9 LHO auch maschinell auswertbar
 sein.
 Die Verfahrensbetreiberinnen und Verfahrensbetreiber stellen sicher, dass die Nachweise gemäß
-VV Nr. 5.6.3 jederzeit aus dem HKR-Verfahren erzeugt und für die Belange der Rechnungslegung, Rech-
-nungsprüfung oder zur Unterstützung der oder des BfdH zur Verfügung gestellt werden können.
+VV Nr. 5.6.3 jederzeit aus dem HKR-Verfahren erzeugt und für die Belange der Rechnungslegung, Rechnungsprüfung oder zur Unterstützung der oder des BfdH zur Verfügung gestellt werden können.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 26
 2.6.2 Belegsicherung
 Die Belege sind unmittelbar nach Eingang oder Entstehung gegen Verlust zu sichern. Zur Sicherung der
 Beweiskraft nach VV Nr. 5.1 sind Belege und Buchungen so zu kennzeichnen, dass sie gegenseitig eindeutig
-zugeordnet werden können. Liegen den Buchungen automatisierte Berechnungsprozesse teilweise oder voll-
-ständig zugrunde, sind sie in der Verfahrensdokumentation nachzuweisen. Änderungen der automatisierten
+zugeordnet werden können. Liegen den Buchungen automatisierte Berechnungsprozesse teilweise oder vollständig zugrunde, sind sie in der Verfahrensdokumentation nachzuweisen. Änderungen der automatisierten
 Berechnungsprozesse sind nur mittels eines autorisierten Änderungsverfahrens zulässig.
 2.6.3 Elektronische Signatur
-Durch die Nutzung einer elektronischen Signatur soll die Nichtabstreitbarkeit und Unveränderlichkeit ge-
-währleistet sein.
+Durch die Nutzung einer elektronischen Signatur soll die Nichtabstreitbarkeit und Unveränderlichkeit gewährleistet sein.
 2.6.4 Protokollierung
 Bei elektronischen Unterlagen sind deren Eingang, deren Aufbewahrung und ggf. Konvertierung sowie die
-weitere Verarbeitung zu protokollieren. Dabei muss sichergestellt sein, dass die beteiligten und verantwortli-
-chen Personen und der Umfang der von ihnen jeweils wahrgenommenen Verantwortung eindeutig, dauerhaft
+weitere Verarbeitung zu protokollieren. Dabei muss sichergestellt sein, dass die beteiligten und verantwortlichen Personen und der Umfang der von ihnen jeweils wahrgenommenen Verantwortung eindeutig, dauerhaft
 und unveränderlich unter Angabe des Datums und (ggf.) der Uhrzeit systemseitig dokumentiert werden und
 der Zusammenhang der einzelnen Unterlagen zu einem Geschäftsvorfall gewahrt bleibt.
 2.7 Aufbewahrung von elektronischen Unterlagen
@@ -1127,24 +925,18 @@ der Zusammenhang der einzelnen Unterlagen zu einem Geschäftsvorfall gewahrt ble
 Der sachliche Umfang der Aufbewahrungspflicht ergibt sich aus der VV Nr. 5.7.
 2.7.2 Die Unterlagen sind so aufzubewahren, dass sie innerhalb einer angemessenen Frist zur Verfügung
 stehen.
-2.7.3 Aufbewahrungspflichtige elektronische Daten eines HKR-Verfahrens sind vor unbefugtem Zugriff ge-
-sichert und unveränderbar aufzubewahren. Dabei ist sicherzustellen, dass die Daten auch nach einem Wech-
-sel des HKR-Verfahrens bis zum Ende der Aufbewahrungsfrist lesbar und auswertbar sind.
+2.7.3 Aufbewahrungspflichtige elektronische Daten eines HKR-Verfahrens sind vor unbefugtem Zugriff gesichert und unveränderbar aufzubewahren. Dabei ist sicherzustellen, dass die Daten auch nach einem Wechsel des HKR-Verfahrens bis zum Ende der Aufbewahrungsfrist lesbar und auswertbar sind.
 Unabhängig davon, an welchem Ort (Produktiv- oder Archivsystem) Daten aufbewahrt werden, dürfen sie
 erst nach Ablauf der Aufbewahrungsfrist gelöscht werden.
 3. Verantwortlichkeit
 3.1 Oberste Landesbehörden
-Beim Einsatz von HKR-Verfahren ist die oberste Landesbehörde in ihrem Geschäftsbereich für die Einhal-
-tung der haushaltsrechtlichen Vorschriften und der Bestimmungen in dieser Vorschrift verantwortlich.
+Beim Einsatz von HKR-Verfahren ist die oberste Landesbehörde in ihrem Geschäftsbereich für die Einhaltung der haushaltsrechtlichen Vorschriften und der Bestimmungen in dieser Vorschrift verantwortlich.
 Dies beinhaltet nicht nur die Gewährleistung der Ordnungsmäßigkeit – insbesondere für die Richtigkeit der
-Programme –, die Sicherheit und die Wirtschaftlichkeit der Verfahren sowie den Schutz der damit gespeicher-
-ten Daten, sondern auch die Verfahrensdokumentation nach Nummer 2.2.
+Programme –, die Sicherheit und die Wirtschaftlichkeit der Verfahren sowie den Schutz der damit gespeicherten Daten, sondern auch die Verfahrensdokumentation nach Nummer 2.2.
 Dies gilt auch bei einer teilweisen oder vollständigen organisatorischen und technischen Auslagerung der
 Buchführung und Rechnungslegung auf Dritte. Sie hat das Nähere zu regeln, damit die Verantwortlichkeiten
 sichergestellt sind.
-Bei einem behördenübergreifend eingesetzten HKR-Verfahren ist die oberste Landesbehörde für behör-
-denübergreifende Vorgaben hinsichtlich des HKR-Verfahrens verantwortlich, die das HKR-Verfahren program-
-miert oder beschafft hat.
+Bei einem behördenübergreifend eingesetzten HKR-Verfahren ist die oberste Landesbehörde für behördenübergreifende Vorgaben hinsichtlich des HKR-Verfahrens verantwortlich, die das HKR-Verfahren programmiert oder beschafft hat.
 Die für die Stellungnahme des MI benötigten Dokumente sind im Anhang 2 aufgeführt .
 3.2 BfdH der obersten Landesbehörden
 Die BfdH der obersten Landesbehörden müssen gemäß VV Nr. 4 zu § 9 LHO bei der Bescheinigung gemäß
@@ -1152,76 +944,57 @@ Nummer 8 mitwirken.
 3.3 BfdH der Dienststelle
 Die BfdH sind verantwortlich für die Ordnungsmäßigkeit der Buchführung in der Dienststelle.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 27
 4. Voraussetzungen für den Betrieb eines HKR-Verfahrens
 4.1 Unterrichtung und Einwilligungserfordernisse zum Betrieb
 4.1.1 Das MF, MI und der LRH sind über beabsichtigte HKR-Verfahren so rechtzeitig zu unterrichten, dass
 sie gegebenenfalls die Gestaltung der Verfahren beeinflussen können. Der Unterrichtung bedarf es auch,
-wenn Verfahren oder Verfahrensteile anderer Betreiberinnen und Betreiber übernommen oder wenn die Ent-
-wicklung oder die Anwendung von Verfahren oder Verfahrensteilen auf Stellen außerhalb der Landesverwal-
-tung übertragen werden sollen.
+wenn Verfahren oder Verfahrensteile anderer Betreiberinnen und Betreiber übernommen oder wenn die Entwicklung oder die Anwendung von Verfahren oder Verfahrensteilen auf Stellen außerhalb der Landesverwaltung übertragen werden sollen.
 4.1.2 Sollen HKR-Verfahren eingeführt oder wesentlich geändert werden, bedarf es der Einwilligung des
 MF.
-4.1.3 Das MF hat vor Erteilung seiner Einwilligung zum Betrieb das Einvernehmen mit dem LRH herbeizu-
-führen.
+4.1.3 Das MF hat vor Erteilung seiner Einwilligung zum Betrieb das Einvernehmen mit dem LRH herbeizuführen.
 4.1.4 Dem MF und dem LRH ist Gelegenheit zu geben, am Test des Verfahrens teilzunehmen.
 4.2 Antragstellung und Einwilligungsvoraussetzung
 4.2.1 Antragstellung
-Die gemäß Nummer 3.1 zuständige oberste Landesbehörde stellt einen Antrag auf Einwilligung zum Be-
-trieb des HKR-Verfahrens und legt dem MF folgende Unterlagen vor:
+Die gemäß Nummer 3.1 zuständige oberste Landesbehörde stellt einen Antrag auf Einwilligung zum Betrieb des HKR-Verfahrens und legt dem MF folgende Unterlagen vor:
 – die Verfahrensdokumentation einschließlich der Risikoanalyse (siehe Nummer 2.2),
 – die Stellungnahme des MI nach Nummer 4.2.2 und
 – die Bescheinigung der Mindestanforderungen nach Nummer 8.
 Im Falle einer Änderung von genehmigten HKR-Verfahren erfolgt der Nachweis durch eine Beschreibung
-der Änderung und Analyse der mit der Änderung verbundenen Risiken. Für den Nachweis ist die Bescheini-
-gung nach Nummer 8 zu verwenden.
+der Änderung und Analyse der mit der Änderung verbundenen Risiken. Für den Nachweis ist die Bescheinigung nach Nummer 8 zu verwenden.
 4.2.2 Stellungnahme durch MI
 Die für den Betrieb zuständige oberste Landesbehörde hat bei erstmaligem Einsatz oder bei wesentlichen
-Erweiterungen und Anpassungen eines HKR-Verfahrens das für die zentrale Steuerung der Informationstech-
-nik zuständige MI zu beteiligen und eine Stellungnahme über die Konformität des Verfahrens mit den Lan-
-desstandards für HKR-Verfahren und dem aktuellen Stand der Technik einzuholen (siehe Anhang 2). Die
-Dokumentation von derartigen Verfahren ist gegen Verlust, Beschädigung und den Zugriff Unbefugter gesi-
-chert aufzubewahren.
+Erweiterungen und Anpassungen eines HKR-Verfahrens das für die zentrale Steuerung der Informationstechnik zuständige MI zu beteiligen und eine Stellungnahme über die Konformität des Verfahrens mit den Landesstandards für HKR-Verfahren und dem aktuellen Stand der Technik einzuholen (siehe Anhang 2). Die
+Dokumentation von derartigen Verfahren ist gegen Verlust, Beschädigung und den Zugriff Unbefugter gesichert aufzubewahren.
 4.2.3 Schnittstelle zum HVS
 Soweit vorgelagerte Verfahren nach Nummer 1.2 Daten an das führende automatisierte HKR-Verfahren
-des Landes übergeben, muss vor deren Einsatz das MF die Schnittstelle hinsichtlich deren Funktionalität (Da-
-tenübermittlung und Verarbeitungsfähigkeit) prüfen und die Richtigkeit der Verarbeitungsergebnisse feststel-
-len.
-Für Vorverfahren ist zusätzlich zu Nummer 4.2.1 dem MF der Schnittstellentest im Rahmen der Antragstel-
-lung vorzulegen.
+des Landes übergeben, muss vor deren Einsatz das MF die Schnittstelle hinsichtlich deren Funktionalität (Datenübermittlung und Verarbeitungsfähigkeit) prüfen und die Richtigkeit der Verarbeitungsergebnisse feststellen.
+Für Vorverfahren ist zusätzlich zu Nummer 4.2.1 dem MF der Schnittstellentest im Rahmen der Antragstellung vorzulegen.
 4.3 Prüfung und Einwilligung
 4.3.1 Die Nutzung des HKR-Verfahrens darf die Kassensicherheit nicht gefährden.
 Die Einführung und die wesentliche Änderung eines HKR-Verfahrens sind nur zulässig, soweit Risiken für
-die Kassensicherheit durch technische oder organisatorische Maßnahmen wirksam beherrscht werden kön-
-nen.
+die Kassensicherheit durch technische oder organisatorische Maßnahmen wirksam beherrscht werden können.
 4.3.2 MF prüft, ob entgegen der Bescheinigung nach Nummer 6 Abweichungen von den Standards gemäß
 Nummer 2 oder anderen kassenrechtlichen Vorschriften vorliegen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 28
 4.3.3 Erfüllt das HKR-Verfahren die Anforderungen dieser Vorschrift, willigt MF ein, das HKR-Verfahren
 einzuführen.
 4.3.4 Weicht das HKR-Verfahren von dieser Bestimmung ab oder führt die Einhaltung der Bestimmungen
 zu einem nicht vertretbaren Aufwand, entscheidet MF über die Erteilung einer Ausnahmegenehmigung.
 Im Antrag ist zu begründen, warum und welche Mindestanforderungen nicht eingehalten werden können
 und wie auf andere Art und Weise die Verfahrens- und Kassensicherheit zumindest erhöht wird.
-4.3.5 MF kann die Einwilligung widerrufen, wenn sie aufgrund nachträglich eingetretener oder bekannt ge-
-wordener Tatsachen berechtigt wäre, die Einwilligung nicht zu erteilen. Bei einem Widerruf kann MF entschei-
-den, ob und unter welchen Voraussetzungen das HKR-Verfahren in Zukunft ohne Einwilligung genutzt werden
+4.3.5 MF kann die Einwilligung widerrufen, wenn sie aufgrund nachträglich eingetretener oder bekannt gewordener Tatsachen berechtigt wäre, die Einwilligung nicht zu erteilen. Bei einem Widerruf kann MF entscheiden, ob und unter welchen Voraussetzungen das HKR-Verfahren in Zukunft ohne Einwilligung genutzt werden
 darf.
 5. Besondere Regelungen für Vorverfahren
 Die für die Vorverfahren nach Nummer 5.2 und 5.3 erforderlichen dienststellenbezogenen Zugangs- und
 Zugriffsberechtigungen sind analog zu den Kennungen für das HVS über das HVS-Modul zur Bearbeitung von
 Nutzerdaten von deren Nutzerverwaltung zu beantragen. Anschließend sind sie in die Benutzerverwaltungen
-dieser Verfahren zu implementieren oder vor Übertragung der Anordnungsdaten in der Schnittstelle auszutau-
-schen. Dabei ist sicherzustellen, dass die jeweilige HVS-Kennung auch in diesen Verfahren nur von der Per-
-son verwendet wird, der sie im HVS zugeordnet ist. Die Überwachung der Übereinstimmung der im HVS und
+dieser Verfahren zu implementieren oder vor Übertragung der Anordnungsdaten in der Schnittstelle auszutauschen. Dabei ist sicherzustellen, dass die jeweilige HVS-Kennung auch in diesen Verfahren nur von der Person verwendet wird, der sie im HVS zugeordnet ist. Die Überwachung der Übereinstimmung der im HVS und
 in den Verfahren nach den Nummern 5.2 und 5.3 hinterlegten Kennungen obliegt der Dienststelle, in der dieses
 Verfahren eingesetzt wird.
 5.1 Vorverfahren mit externer Zahlbarmachung
 Bei Vorverfahren mit externer Zahlbarmachung werden Einzahlungen oder Auszahlungen durch eine im
 Vorverfahren erstellte Zahlungsverkehrsdateien bewirkt.
-Ergänzend zu den Anforderungen unter Nummer 2 ist bei diesem Vorverfahren der Dateibegleitbeleg au-
-tomatisiert aus dem Vorverfahren auf Basis der Zahlungsverkehrsdatei – mit Ausweisung eines Hash- Wert –
+Ergänzend zu den Anforderungen unter Nummer 2 ist bei diesem Vorverfahren der Dateibegleitbeleg automatisiert aus dem Vorverfahren auf Basis der Zahlungsverkehrsdatei – mit Ausweisung eines Hash- Wert –
 zu erzeugen.
 Der Dateibegleitbeleg ist unverändert und automatisiert an die LHK zu übertragen. Form und Inhalt des
 Dateibegleitbelegs ist im Anhang 3 benannt.
@@ -1229,8 +1002,7 @@ Dateibegleitbelegs ist im Anhang 3 benannt.
 Bei Vorverfahren mit interner Zahlbarmachung erfolgt die Freigabe im Vorverfahren. Die Sollbuchungen
 und die IST-Ein- und Auszahlungen werden aber über das führende HKR-Verfahren generiert.
 5.3 Vorverfahren mit Freigabe im HVS
-Bei diesem Vorverfahren werden aus Anordnungsdaten, die über eine Schnittstelle in das führende HKR-
-Verfahren transferiert wurden, Kassenanordnungen generiert und im führenden HKR-Verfahren freigegeben.
+Bei diesem Vorverfahren werden aus Anordnungsdaten, die über eine Schnittstelle in das führende HKRVerfahren transferiert wurden, Kassenanordnungen generiert und im führenden HKR-Verfahren freigegeben.
 Eine Verfahrensdokumentation gemäß Anhang 1 nicht erforderlich. Ergänzend zu Nummer 4.2.2 und 4.2.3
 sind folgende Bedingungen zu erfüllen:
 – Es muss ein Berechtigungskonzept vorhanden sein.
@@ -1239,18 +1011,15 @@ sind folgende Bedingungen zu erfüllen:
 – Eine vollständige und korrekte Verarbeitung über mehrere Prozessschritte muss gewährleistet sein.
 – Die Daten aus dem Vorverfahren müssen so beschaffen sein, dass sie fehlerfrei über die Schnittstelle in
 das führende HKR-System transferiert werden können.
-– Die Unveränderbarkeit der buchungs- und zahlungsrelevanten Daten aus dem Vorverfahren muss sicher-
-gestellt sein.
+– Die Unveränderbarkeit der buchungs- und zahlungsrelevanten Daten aus dem Vorverfahren muss sichergestellt sein.
 – Die Erfasserin oder der Erfasser muss die sachliche Richtigkeit der Anordnungen bestätigen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 29
 – Anordnungsdaten gemäß VV Nr. 2.7 einschließlich der Kennung der Feststellerin oder des Feststellers
 aus dem führenden HKR-Verfahren sind in das führende HKR-Verfahren zu übertragen.
 6. Besondere Regelungen für das führende Verfahren
 Für das führende automatisierte HKR-Verfahren ist ein Testat analog zum IDW Standard erforderlich.
 Dieses Testat muss folgende Komponenten beinhalten:
-– zentrale Systemprüfungen der IT-Anwendungen einschließlich der IT-Organisation, des IT-Umfeldes so-
-wie der IT-Infrastruktur;
+– zentrale Systemprüfungen der IT-Anwendungen einschließlich der IT-Organisation, des IT-Umfeldes sowie der IT-Infrastruktur;
 – Prüfung der IT-gestützten Geschäftsprozesse und des IKS. Hierbei soll auch im angemessenen Umfang
 die Wirksamkeit der Aufsichtsmaßnahmen gemäß Nummer 3.1 bewertet werden;
 – Prüfung der freigegebenen Vorverfahren nur in Bezug auf die Generierung automatischer Buchungen in
@@ -1260,12 +1029,9 @@ Als IKS wird grundsätzlich die Gesamtheit aller aufeinander abgestimmten und mi
 Kontrollen, Plausibilitätsprüfungen, Maßnahmen und Regelungen im HKR-Verfahren bezeichnet. Es dient der
 Sicherstellung der Einhaltung der Vorschriften zur Ordnungsmäßigkeit eines HKR-Verfahren.
 7.1 Kontrollmaßnahmen
-Zur Einhaltung der Ordnungsmäßigkeitsvorschriften durch den Verfahrensbetreiber sind Kontrollen einzu-
-richten, auszuüben und zu protokollieren. Hierzu gehören insbesondere
-– eine regelmäßige Überprüfung und Dokumentation der Zugangsberechtigungen der Personen (Nutzerin-
-nen und Nutzer) zu einer IT-Anwendung (Benutzerkennungen) sowie der eingerichteten Zugriffsrechte
-entsprechend ihrer tatsächlichen Funktion (Überprüfung der Umsetzung des Rollen- und Rechtekon-
-zepts),
+Zur Einhaltung der Ordnungsmäßigkeitsvorschriften durch den Verfahrensbetreiber sind Kontrollen einzurichten, auszuüben und zu protokollieren. Hierzu gehören insbesondere
+– eine regelmäßige Überprüfung und Dokumentation der Zugangsberechtigungen der Personen (Nutzerinnen und Nutzer) zu einer IT-Anwendung (Benutzerkennungen) sowie der eingerichteten Zugriffsrechte
+entsprechend ihrer tatsächlichen Funktion (Überprüfung der Umsetzung des Rollen- und Rechtekonzepts),
 – die Einhaltung der Funktionstrennungen,
 – die Erfassungs- und Abstimmungskontrollen (z. B. Fehlerhinweise, Plausibilitätsprüfungen),
 – Verarbeitungskontrollen,
@@ -1274,20 +1040,17 @@ Programmen und elektronischen Unterlagen und
 – die Sicherstellung von Änderungen von automatisierten Berechnungsprozessen nur mittels autorisierter
 Änderungsverfahren.
 7.2 Anlassbezogene Prüfungen
-Im Rahmen eines funktionsfähigen IKS muss auch anlassbezogen (z. B. bei Systemwechsel) geprüft wer-
-den, ob das eingesetzte HKR-Verfahren dem dokumentierten Verfahren entspricht.
+Im Rahmen eines funktionsfähigen IKS muss auch anlassbezogen (z. B. bei Systemwechsel) geprüft werden, ob das eingesetzte HKR-Verfahren dem dokumentierten Verfahren entspricht.
 7.3. Prüfung des ordnungsgemäßen Betriebs des HVS
 Die Überwachung des ordnungsgemäßen Betriebs des HVS obliegt dem MF und wird wahrgenommen in
 Form von
-7.3.1 zentralen Systemprüfungen der HVS-Anwendungen einschließlich der IT-Organisation, des IT-Um-
-feldes sowie der IT-Infrastruktur;
+7.3.1 zentralen Systemprüfungen der HVS-Anwendungen einschließlich der IT-Organisation, des IT-Umfeldes sowie der IT-Infrastruktur;
 7.3.2 einer Prüfung der IT-gestützten Geschäftsprozesse und des IKS in den HVS-Dienststellen. Hierbei
 soll auch im angemessenen Umfang die Wirksamkeit der Aufsichtsmaßnahmen gemäß Nummer 3.1
 bewertet werden;
 7.3.3 einer Prüfung der freigegebenen vorgelagerten Systeme (HVS-Vorverfahren) nur in Bezug auf die
 Generierung automatischer Buchungen in das HVS.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 30
 8. Inhalt der Bescheinigung nach Nummer 4.2
 Bescheinigung über die Mindestanforderungen für den Einsatz von HKR-Verfahren
 Bezeichnung des HKR-Verfahrens:
@@ -1295,17 +1058,14 @@ Art des HKR-Verfahrens:
 Schnittstelle zum HVS:
 Testumgebung:
 Es wird bescheinigt, dass
-1. das o. a. Verfahren den Voraussetzungen dieser Anlage entspricht und die erzeugten Daten unter Ein-
-haltung der genannten Voraussetzungen ohne fachliche oder inhaltliche Mängel bereitgestellt werden;
+1. das o. a. Verfahren den Voraussetzungen dieser Anlage entspricht und die erzeugten Daten unter Einhaltung der genannten Voraussetzungen ohne fachliche oder inhaltliche Mängel bereitgestellt werden;
 2. die technische Verarbeitung der durch das o. a. Verfahren erzeugten Daten fehlerfrei sichergestellt ist;
 3. für den Fall, dass eine Schnittstelle zum führenden Verfahren genutzt wird, die Übertragung der durch
-das o. a. Verfahren erzeugten Daten in das führende Verfahren uneingeschränkt und fehlerfrei sicherge-
-stellt ist.
+das o. a. Verfahren erzeugten Daten in das führende Verfahren uneingeschränkt und fehlerfrei sichergestellt ist.
 
 Datum Datum
 (Fachreferat der für das Verfahren fachlich und
-technisch zuständigen obersten Landesbe-
-hörde)
+technisch zuständigen obersten Landesbehörde)
 (BfdH der für das Verfahren fachlich und technisch
 zuständigen obersten Landesbehörde)
 
@@ -1313,28 +1073,21 @@ Anhang 1
 (zur Anlage 3 [ GoB-HKR])
 
 Zahlungsverkehrsrechtliche Vorgaben für HKR-Verfahren mit interner oder externer Zahlbarmachung
-Die u. a. Vorgaben sind hier in ihrer Gesamtheit abgebildet. Für die Bearbeitung im Rahmen eines Einwil-
-ligungsverfahrens gibt das MF auf Wunsch eine praxistaugliche Tabelle heraus.
+Die u. a. Vorgaben sind hier in ihrer Gesamtheit abgebildet. Für die Bearbeitung im Rahmen eines Einwilligungsverfahrens gibt das MF auf Wunsch eine praxistaugliche Tabelle heraus.
 1. HKR- Verfahren: Allgemeiner Teil – IT-Umfeld und Organisation
 Kontrollziel:
-Wesentliche Voraussetzung für die Beurteilung des IT-Kontrollsystems im Rahmen der Umsetzung einer IT-
-Strategie und eines Sicherheitskonzeptes ist die vorherige genaue Festlegung und Bewertung von IT-Fehler-
-risiken durch die Behördenleitung. Es muss festgestellt werden können, ob die Behörde durch die Einrichtung
+Wesentliche Voraussetzung für die Beurteilung des IT-Kontrollsystems im Rahmen der Umsetzung einer ITStrategie und eines Sicherheitskonzeptes ist die vorherige genaue Festlegung und Bewertung von IT-Fehlerrisiken durch die Behördenleitung. Es muss festgestellt werden können, ob die Behörde durch die Einrichtung
 eines wirksamen IKS auf die festgestellten inhärenten Risiken des IT-Systems angemessen reagiert hat.
-1.1 IT-Organisation: Kontrollen stellen sicher, dass die Aufbauprüfung des IT-Umfelds und der IT-Organi-
-sation auf Basis des vorgelegten Sicherheitskonzeptes, der IT- Strategie, der Regelungen zur Aufbau- und
+1.1 IT-Organisation: Kontrollen stellen sicher, dass die Aufbauprüfung des IT-Umfelds und der IT-Organisation auf Basis des vorgelegten Sicherheitskonzeptes, der IT- Strategie, der Regelungen zur Aufbau- und
 Ablauforganisation (Organisationsplan, Richtlinien und Arbeitsanweisungen) sowie auf der Grundlage von
 Prozess- und Funktionsbeschreibungen erfolgt.
-Die IT-Organisation muss dokumentiert und die Rollen und Verantwortlichkeiten klar definiert und struktu-
-riert sein.
+Die IT-Organisation muss dokumentiert und die Rollen und Verantwortlichkeiten klar definiert und strukturiert sein.
 1.2 IT-Strategie: Kontrollen stellen sicher, dass für eine geeignete Risikobegrenzung die Ausrichtung der
 IT auf die Geschäftsstrategien und Prozessanforderungen der Behörde erfolgt. Geschäftsrisiken und IT-
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 31
 Risiken können dauerhaft nur auf ein sinnvolles Maß begrenzt werden, wenn die geschäftlichen Strategien
 der Behörde auch über eine adäquate IT-Strategie umgesetzt werden.
-Eine dokumentierte IT-Strategie muss gegeben sein. In dieser muss die strategische Entwicklung der IT-
-Organisation, der IT-Technik, der IT-Prozesse und der digitalen Kultur, um langfristige Ziele zu erreichen,
+Eine dokumentierte IT-Strategie muss gegeben sein. In dieser muss die strategische Entwicklung der ITOrganisation, der IT-Technik, der IT-Prozesse und der digitalen Kultur, um langfristige Ziele zu erreichen,
 geplant werden. Dabei ist es wichtig, dass die IT-Strategie neben dem Zielbild (Strategie- Papier) auch Ansätze
 für die pragmatische Umsetzung, deren strategische Kommunikation und das Fortschrittscontrolling liefert.
 Für die Pflege und Wartung der Softwareanwendung muss ein Budget im Haushaltsplan eingeplant sein.
@@ -1342,18 +1095,12 @@ Für die Pflege und Wartung der Softwareanwendung muss ein Budget im Haushaltspl
 Anbietern eine Beurteilung möglich ist, wie sich die Auslagerung auf das IKS der Behörde auswirkt.
 Sofern Systeme und Prozesse an dritte Anbieter ausgelagert werden, muss die Einhaltung des IKS anhand
 von abgestimmten und vertraglich festgehaltenen Geschäftsbesorgungsverträgen sichergestellt werden.
-1.4 Notfallkonzept: Unter Berücksichtigung der Wichtigkeit für den Geschäftsbetrieb muss ein Notfallkon-
-zept vorliegen. In diesem sollen die Geschäftsprozesse so stabilisiert werden, dass die Wahrscheinlichkeit
-eines Schadenszwischenfalls minimiert wird und zum anderen soll die Behörde bestmöglich auf einen Zwi-
-schen- bzw. Notfall vorbereitet werden, um die Konsequenzen so weit wie möglich zu verringern.
-Kontrollen stellen sicher, dass sämtliche Maßnahmen, die nach Eintritt eines notfallauslösenden Ereignis-
-ses zu ergreifen sind, in einem Notfallplan dokumentiert und verfügbar sind. Er muss Sofortmaßnahmen für
-verschiedene Szenarien enthalten und Kontaktdaten verantwortlicher Personen nach Funktion und Zustän-
-digkeitsbereich aufführen.
-1.5 Physische Sicherheit: Kontrollen stellen die Datensicherheit, die Integrität der Daten und die Verfüg-
-barkeit der IT durch physische Sicherungsmaßnahmen zum Schutz der Hardware sowie der Programme und
-Daten (u. a. bauliche Maßnahmen, Zugangskontrollen, Feuerschutzmaßnahmen und Maßnahmen zur Siche-
-rung der Stromversorgung) sicher.
+1.4 Notfallkonzept: Unter Berücksichtigung der Wichtigkeit für den Geschäftsbetrieb muss ein Notfallkonzept vorliegen. In diesem sollen die Geschäftsprozesse so stabilisiert werden, dass die Wahrscheinlichkeit
+eines Schadenszwischenfalls minimiert wird und zum anderen soll die Behörde bestmöglich auf einen Zwischen- bzw. Notfall vorbereitet werden, um die Konsequenzen so weit wie möglich zu verringern.
+Kontrollen stellen sicher, dass sämtliche Maßnahmen, die nach Eintritt eines notfallauslösenden Ereignisses zu ergreifen sind, in einem Notfallplan dokumentiert und verfügbar sind. Er muss Sofortmaßnahmen für
+verschiedene Szenarien enthalten und Kontaktdaten verantwortlicher Personen nach Funktion und Zuständigkeitsbereich aufführen.
+1.5 Physische Sicherheit: Kontrollen stellen die Datensicherheit, die Integrität der Daten und die Verfügbarkeit der IT durch physische Sicherungsmaßnahmen zum Schutz der Hardware sowie der Programme und
+Daten (u. a. bauliche Maßnahmen, Zugangskontrollen, Feuerschutzmaßnahmen und Maßnahmen zur Sicherung der Stromversorgung) sicher.
 Die Angemessenheit und Wirksamkeit der getroffenen technischen und organisatorischen Maßnahmen zur
 Sicherstellung der physischen Sicherheit (z. B. Wasserschäden, Feuer oder Einbruch) muss konzeptionell und
 kritisch gewürdigt werden.
@@ -1363,8 +1110,7 @@ Eine stichprobenhafte Prüfung der Durchführung periodischer und fehlerfreier D
 der Logdateien der Backup-Technologien stellt sicher, dass Daten regelmäßig und ordnungsgemäß gesichert
 werden.
 1.7 Informationssicherheit: Kontrollen stellen sicher, dass die Risiken der IT-Infrastruktur durch ein auf das
-Bedürfnis der Behörde ausgerichtetes Sicherheitskonzept und die daraus abgeleiteten technischen und orga-
-nisatorischen Kontrollen bewältigt werden.
+Bedürfnis der Behörde ausgerichtetes Sicherheitskonzept und die daraus abgeleiteten technischen und organisatorischen Kontrollen bewältigt werden.
 Ein dokumentiertes, freigegebenes und regelmäßig zu aktualisierendes Informationssicherheitskonzept
 muss vorhanden sein. Das Informationssicherheitskonzept ist in die Prozesse zu unterteilen:
 – Planung und Risikobewertung,
@@ -1374,35 +1120,27 @@ muss vorhanden sein. Das Informationssicherheitskonzept ist in die Prozesse zu u
 – Auswertung der Kontrollen und ggf. Verbesserung des Prozesses.
 2. HKR- Verfahren: Zugang zu Programmen und Daten – SEPROM und Active Directory
 Kontrollziel:
-Logische Zugriffskontrollen sind wesentliche Elemente der Datensicherheit und des Datenschutzes und Vo-
-raussetzung zur Gewährleistung der Vertraulichkeit. Die Sicherheitsanforderungen Autorisierung und
+Logische Zugriffskontrollen sind wesentliche Elemente der Datensicherheit und des Datenschutzes und Voraussetzung zur Gewährleistung der Vertraulichkeit. Die Sicherheitsanforderungen Autorisierung und
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 32
-Authentizität bedingen zwingend logische Zugriffskontrollen. Die Prüfungshandlungen im Rahmen der Auf-
-bauprüfung logischer Zugriffskontrollen richten sich auf die Implementierung eines organisatorischen Verfah-
-rens zur Beantragung, Genehmigung und Einrichtung von Benutzerberechtigungen in IT-Systemen.
+Authentizität bedingen zwingend logische Zugriffskontrollen. Die Prüfungshandlungen im Rahmen der Aufbauprüfung logischer Zugriffskontrollen richten sich auf die Implementierung eines organisatorischen Verfahrens zur Beantragung, Genehmigung und Einrichtung von Benutzerberechtigungen in IT-Systemen.
 2.1 Berechtigungskonzept: Kontrollen stellen sicher, dass der Prozess der Berechtigungsvergabe und
 -änderung, die definierten Benutzerberechtigungen, einzuhaltende Funktionstrennungen und der Umgang mit
 Benutzer-IDs mit weitreichenden Berechtigungen in einem Konzept dokumentiert und regelmäßig aktualisiert
 wird. Berechtigungen dürfen nur eingerichtet werden, soweit dies zur Aufgabenerfüllung zwingend erforderlich
 ist (Prinzip der minimalen Berechtigung).
-Eine dokumentierte Beschreibung zur Einrichtung von Benutzer-IDs und einzuhaltender Funktionstrennun-
-gen muss vorhanden sein.
-Das systemseitig implementierte Berechtigungskonzept muss nachvollziehbar und transparent sowie an-
-hand bestehender Dokumentation abgeleitet sein.
+Eine dokumentierte Beschreibung zur Einrichtung von Benutzer-IDs und einzuhaltender Funktionstrennungen muss vorhanden sein.
+Das systemseitig implementierte Berechtigungskonzept muss nachvollziehbar und transparent sowie anhand bestehender Dokumentation abgeleitet sein.
 2.2 Benutzeradministration: Kontrollen stellen sicher, dass Benutzer -IDs bzw. Berechtigungen im System
 ausschließlich nach definierten Prozessen und durch eine abschließende Freigabe der Vorgesetzten angelegt
 bzw. vergeben werden.
-Die Benutzer-IDs im System müssen gemäß des Berechtigungskonzepts und der Beschreibung der Be-
-hörde implementiert sein. Deren entsprechende Berechtigungen müssen ordnungsgemäß beantragt werden.
+Die Benutzer-IDs im System müssen gemäß des Berechtigungskonzepts und der Beschreibung der Behörde implementiert sein. Deren entsprechende Berechtigungen müssen ordnungsgemäß beantragt werden.
 2.3 Identifikation und Authentifizierung: Kontrollen stellen sicher, dass sich Benutzer anhand eindeutiger
 Benutzer-IDs und Passworten am System authentifizieren.
 Die Dokumentation des Berechtigungsprozesses muss die Vergabe eindeutiger Benutzer-IDs vorgeben.
 Die Mindestanforderungen an Passwörter müssen definiert sein.
 Die Benutzer-IDs im System müssen eindeutig einem Mitarbeiter zugeordnet werden können.
 Kontrollen müssen sicherstellen, dass Passwort-Mindestparameter im System umgesetzt sind.
-2.4 Überwachung der Rechtevergabe: Kontrollen stellen sicher, dass vergebene Berechtigungen im Sys-
-tem regelmäßig von den Verantwortlichen überprüft werden. Bei Abweichungen zu den tatsächlich benötigten
+2.4 Überwachung der Rechtevergabe: Kontrollen stellen sicher, dass vergebene Berechtigungen im System regelmäßig von den Verantwortlichen überprüft werden. Bei Abweichungen zu den tatsächlich benötigten
 Berechtigungen werden diese an die Verantwortlichen gemeldet und berichtigt.
 Eine Dokumentation der regelmäßigen Überwachung des Berechtigungskonzepts muss vorhanden sein.
 Eine Überprüfung der vergebenen Berechtigungen muss regelmäßig durchgeführt werden.
@@ -1417,63 +1155,48 @@ Die Protokollierung von kritischen Systemaktivitäten muss in Sicherheitskonzept
 Änderungen an rechnungslegungsrelevanten Daten müssen vom System protokolliert werden.
 3. HKR- Verfahren: Programmänderungsverfahren
 Kontrollziel:
-Voraussetzung für die Ordnungsmäßigkeit und Sicherheit von IT-Anwendungen ist eine angemessene Orga-
-nisation der Programmänderungen. Ebenso sind Regelungen, wie Test und Freigabe zur Änderung bzw. Er-
-weiterung von IT-Anwendungen durchgeführt werden, erforderlich.
+Voraussetzung für die Ordnungsmäßigkeit und Sicherheit von IT-Anwendungen ist eine angemessene Organisation der Programmänderungen. Ebenso sind Regelungen, wie Test und Freigabe zur Änderung bzw. Erweiterung von IT-Anwendungen durchgeführt werden, erforderlich.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 33
-3.1 Verfahren zu Programmänderungen: Kontrollen stellen sicher, dass das Programmänderungsverfah-
-ren den vollumfänglichen Prozess von Autorisation, Entwicklung, Test, Freigabe und Produktivstellung abbil-
-det und somit ein nachvollziehbarer und transparenter Programmänderungsprozess sichergestellt ist.
-Das Verfahren der Programmänderungen muss dokumentiert sein und die wesentlichen Kontrollen Autori-
-sation, Entwicklung, Test, Freigabe und Produktivstellung enthalten.
+3.1 Verfahren zu Programmänderungen: Kontrollen stellen sicher, dass das Programmänderungsverfahren den vollumfänglichen Prozess von Autorisation, Entwicklung, Test, Freigabe und Produktivstellung abbildet und somit ein nachvollziehbarer und transparenter Programmänderungsprozess sichergestellt ist.
+Das Verfahren der Programmänderungen muss dokumentiert sein und die wesentlichen Kontrollen Autorisation, Entwicklung, Test, Freigabe und Produktivstellung enthalten.
 3.2 Systemänderungen: Kontrollen stellen sicher, dass Änderungen am System vor der Produktivsetzung
 getestet und freigegeben werden.
 Es muss vorgegeben sein, dass Systemänderungen vor der Produktivsetzung getestet und freigegeben
 werden.
-3.3 Konfigurationsänderungen: Kontrollen stellen sicher, dass Änderungen an Systemkonfigurationen ge-
-testet und freigegeben werden.
+3.3 Konfigurationsänderungen: Kontrollen stellen sicher, dass Änderungen an Systemkonfigurationen getestet und freigegeben werden.
 Es muss vorgegeben sein, dass Konfigurationsänderungen vorher getestet und freigegeben werden.
 3.4 Notfalländerungen: Kontrollen stellen sicher, dass Änderungen im Notfall vor der Produktivsetzung
 getestet und freigegeben werden.
 Notfalländerungen müssen nach einem beschriebenen Prozess durchgeführt werden.
 3.5 Trennung zwischen Entwicklungs-, Test- und Produktivumgebung: Kontrollen stellen sicher, dass eine
-Trennung zwischen Entwicklung- , Test- und Produktivsystemen implementiert ist und die Transportwege ein-
-gehalten werden.
+Trennung zwischen Entwicklung- , Test- und Produktivsystemen implementiert ist und die Transportwege eingehalten werden.
 Die Entwicklungs- und Testumgebung muss von der Produktivumgebung getrennt sein.
-3.6 Trennung zwischen Entwicklung und Transport: Kontrollen stellen sicher, dass eine logische Funkti-
-onstrennung zwischen Entwicklern und zum Transport Berechtigten gegeben ist.
+3.6 Trennung zwischen Entwicklung und Transport: Kontrollen stellen sicher, dass eine logische Funktionstrennung zwischen Entwicklern und zum Transport Berechtigten gegeben ist.
 Zwischen Entwicklern und zum Transport Berechtigten muss eine Funktionstrennung bestehen.
 4. HKR- Verfahren: Programmentwicklungsverfahren
 Kontrollziel:
-Voraussetzung für die Ordnungsmäßigkeit und Sicherheit von IT-Anwendungen ist eine angemessene Orga-
-nisation bei Projekten, wie Eigenentwicklungen bzw. der Vorgehensweise bei der Auswahl und dem Kauf von
+Voraussetzung für die Ordnungsmäßigkeit und Sicherheit von IT-Anwendungen ist eine angemessene Organisation bei Projekten, wie Eigenentwicklungen bzw. der Vorgehensweise bei der Auswahl und dem Kauf von
 Standardsoftware.
 4.1 Programmentwicklungen: Kontrollen stellen sicher, dass Systementwicklungen und die Auswahl von
 Standardsoftware einem geordneten, transparenten und nachvollziehbaren Prozess folgen.
 Der Prozess der Programmentwicklung muss geordnet, transparent und nachvollziehbar sein.
-4.2 Programmierrichtlinien: Kontrollen stellen sicher, dass Entwicklungen ausschließlich gemäß der Ent-
-wicklungsrichtlinien durchgeführt werden.
+4.2 Programmierrichtlinien: Kontrollen stellen sicher, dass Entwicklungen ausschließlich gemäß der Entwicklungsrichtlinien durchgeführt werden.
 Sofern Entwicklungsrichtlinien bestehen, müssen diese konsequent angewendet werden.
 4.3 Freigabe: Kontrollen stellen sicher, dass Projekte vor dem Start formal freigegeben und budgetiert
 werden.
 Das Projekt zur Einführung des HKR-Verfahrens muss formal freigegeben und budgetiert sein.
-4.4 Kontrollen stellen sicher, dass ausschließlich getestete und freigegebene Programme in die Produk-
-tion übernommen werden.
+4.4 Kontrollen stellen sicher, dass ausschließlich getestete und freigegebene Programme in die Produktion übernommen werden.
 Es dürfen ausschließlich getestete und freigegebene Programme in die Produktion übernommen werden.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 34
 5. HKR- Verfahren: IT-Betrieb
 Kontrollziel:
 Durch eine anforderungsgerechte Ausgestaltung des Kontrollumfeldes in den Bereichen Systembetrieb und
 Überwachung kann die Verfügbarkeit der zahlungsrelevanten Daten sowie deren Vollständigkeit gewährleistet
 werden.
 5.1 Betriebsführungsbücher: Kontrollen stellen den korrekten Betrieb der Anwendung durch verbindliche
-Arbeitsanweisungen sowie Verfahrensbeschreibungen aus dem IT-Betrieb (z. B. RZ-Handbuch, Betriebskon-
-zepte) sicher.
+Arbeitsanweisungen sowie Verfahrensbeschreibungen aus dem IT-Betrieb (z. B. RZ-Handbuch, Betriebskonzepte) sicher.
 Betriebsführungsbücher für das System des Vorverfahrens müssen vorhanden sein.
-5.2 Systemüberwachung: Kontrollen stellen die Überwachung der Systeme hinsichtlich Stör- und Ausfäl-
-len sicher.
+5.2 Systemüberwachung: Kontrollen stellen die Überwachung der Systeme hinsichtlich Stör- und Ausfällen sicher.
 Das Verfahren zur Überwachung von Systemen und Störfällen muss dokumentiert sein.
 Es muss geregelt sein, dass Störungen zu dem HKR-Verfahren in angemessener Zeit behoben und die
 Endanwender über die Behebung informiert werden.
@@ -1482,10 +1205,7 @@ geändert werden, so bedarf es der Einwilligung des MF. Für die Einwilligung is
 einschließlich der Risikoanalyse und des Sicherheitskonzeptes vorzulegen.
 Bevor das HKR-Verfahren in Betrieb genommen werden darf, muss das MF eine Einwilligungserklärung
 erteilen.
-Für das HKR-Verfahren muss eine technische Risikoanalyse erstellt werden. In dieser müssen die ermit-
-telten Risiken von unterschiedlichen Sachverhalten und Gefahrensituationen analysiert werden. Die Risiko-
-analyse muss zudem auf der Grundlage der Empfehlungen des Bundesamtes für Sicherheit in der Informati-
-onstechnik im IT-Grundschutzhandbuch und im IT-Sicherheitshandbuch erstellt werden.
+Für das HKR-Verfahren muss eine technische Risikoanalyse erstellt werden. In dieser müssen die ermittelten Risiken von unterschiedlichen Sachverhalten und Gefahrensituationen analysiert werden. Die Risikoanalyse muss zudem auf der Grundlage der Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik im IT-Grundschutzhandbuch und im IT-Sicherheitshandbuch erstellt werden.
 Bei der Bewertung ist auch zu berücksichtigen, ob im Rahmen der Bearbeitung festgestellte Mängel erfasst
 und ausgewertet werden und eine Innenrevision vorhanden ist.
 6. HKR- Verfahren: IT-Anwendungskontrollen
@@ -1493,11 +1213,9 @@ Kontrollziel:
 Prozessintegrierte Kontrollen stellen das Kontrollziel ‚ Gewährleistung der Ordnungsmäßigkeit und Sicherheit
 der rechnungslegungsrelevanten Daten‘ sicher.
 6.1 Verfahrensdokumentation zur Datenerfassung und zum Datentransport: Kontrollen stellen sicher,
-dass der Ablauf der Datenerfassung und zum Datentransport ordnungsgemäß dokumentiert ist und regelmä-
-ßig aktualisiert wird.
+dass der Ablauf der Datenerfassung und zum Datentransport ordnungsgemäß dokumentiert ist und regelmäßig aktualisiert wird.
 Der Ablauf der Datenerfassung und des Datentransports muss dokumentiert sein.
-6.2 Vier-Augen- Prinzip bei der Datenerfassung: Kontrollen stellen die Richtigkeit der Daten bei der Erfas-
-sung und Bearbeitung der Auszahlungssätze sicher.
+6.2 Vier-Augen- Prinzip bei der Datenerfassung: Kontrollen stellen die Richtigkeit der Daten bei der Erfassung und Bearbeitung der Auszahlungssätze sicher.
 Das Vier-Augen- Prinzip bei der Erfassung und Bearbeitung bzw. Freigabe der Daten muss systemseitig
 hinterlegt sein.
 6.3 Laufwerke zur Zwischenspeicherung: Kontrollen stellen sicher, dass Zugriffe auf die verwendeten
@@ -1507,22 +1225,16 @@ zum Zugriff auf die Daten restriktiv vergeben werden.
 6.4 Eingriffsmöglichkeiten beim Datentransport: Kontrollen stellen sicher, dass Dateien auf dem Transport
 vom Vorverfahren zur Auszahlung nicht unautorisiert geändert werden können.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 35
-Zahldateien dürfen beim Transport nicht unautorisiert verändert werden. Der Datentransport muss kontrol-
-liert werden.
+Zahldateien dürfen beim Transport nicht unautorisiert verändert werden. Der Datentransport muss kontrolliert werden.
 
 
 Anhang 2
 (zur Anlage 3 [ GoB-HKR])
 
-Stellungnahme des MI zur Konformität des HKR-Verfahrens mit den Landesstandards für HKR-Verfah-
-ren und dem aktuellen Stand der Technik
-Nach der Nummer 4.2.2 der Anlage 3 zu VV Nr. 7 hat das MI als die für die zentrale Steuerung der Infor-
-mationstechnik zuständige Stelle zur Konformität des HKR-Verfahrens mit den Landesstandards für HKR-
-Verfahren und dem aktuellen Stand der Technik Stellung zu nehmen.
+Stellungnahme des MI zur Konformität des HKR-Verfahrens mit den Landesstandards für HKR-Verfahren und dem aktuellen Stand der Technik
+Nach der Nummer 4.2.2 der Anlage 3 zu VV Nr. 7 hat das MI als die für die zentrale Steuerung der Informationstechnik zuständige Stelle zur Konformität des HKR-Verfahrens mit den Landesstandards für HKRVerfahren und dem aktuellen Stand der Technik Stellung zu nehmen.
 Name des HKR-Verfahrens:
-Die Stellungnahme zu dem oben genannten HKR-Verfahren gründet sich im Wesentlichen auf den folgen-
-den, vorzulegenden Unterlagen:
+Die Stellungnahme zu dem oben genannten HKR-Verfahren gründet sich im Wesentlichen auf den folgenden, vorzulegenden Unterlagen:
 – Antragsmail,
 – Notfallplan,
 – Sicherheitskonzept,
@@ -1533,8 +1245,7 @@ oder externer Zahlbarmachung‘,
 – Betriebskonzept,
 – Diverse Leistungsscheine,
 – Risikoanalyse.
-Im Zuge dieser Stellungnahme wird gewöhnlich die Konformität des Verfahrens mit den besonders rele-
-vanten Landesstandards für IT-Verfahren, wie
+Im Zuge dieser Stellungnahme wird gewöhnlich die Konformität des Verfahrens mit den besonders relevanten Landesstandards für IT-Verfahren, wie
 – Informationssicherheitsleitlinie (ISLL) und Informationssicherheitsrichtlinien (ISRL) des Landes,
 – IT-Architektur-Leitfaden,
 – Entscheidungen des IT-Planungsrats zur Standardisierung (zurzeit nur ‚Lateinische Zeichen in
@@ -1543,7 +1254,6 @@ und dem aktuellen Stand der Technik betrachtet.
 Eine obligatorische Betrachtung und Einschätzung des gewählten Software-Architekturansatzes wird
 ebenso vorgenommen.
 
-Nds. MBl. 2024 Nr. 143 vom 22. März 2024 Seite 36
 Anhang 3
 (zur Anlage 3 [ GoB-HKR])
 

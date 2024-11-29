@@ -14,12 +14,10 @@ Bek. d. GAA Hannover v. 20.03.2024 – HI 000009124/H 18- 148 –
 Das GAA Hannover hat der Firma Tesium GmbH, Holzminden, Mühlenfeldstraße 1, 37603 Holzminden mit
 der Entscheidung vom 08.02.2024 eine Genehmigung gemäß § 16 Abs. 1 i. V. m. § 10 BImSchG erteilt.
 Gegenstand des Verfahrens waren im Wesentlichen die folgenden Maßnahmen:
-Erweiterung der bisherigen Abfallkonditionierungsanlage C412 um das künftige Gebäude E612 auf dem Ge-
-lände des ehemaligen Parkplatzes östlich des Feuerwehrgebäudes E501.
+Erweiterung der bisherigen Abfallkonditionierungsanlage C412 um das künftige Gebäude E612 auf dem Gelände des ehemaligen Parkplatzes östlich des Feuerwehrgebäudes E501.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
-Der vollständige Bescheid kann in der Zeit vom 21.03. bis einschließlich 08.04.2024 bei folgenden Stel-
-len eingesehen werden:
+Der vollständige Bescheid kann in der Zeit vom 21.03. bis einschließlich 08.04.2024 bei folgenden Stellen eingesehen werden:
 – Staatliches Gewerbeaufsichtsamt Hannover, Raum 304, Freundallee 9 a, 30173 Hannover,
 montags bis donnerstags in der Zeit von 8.00 bis 16.00 Uhr,
 freitags und vor Feiertagen in der Zeit von 8.00 bis 14.00 Uhr
@@ -30,20 +28,16 @@ in der Zeit von 8.30 bis 12.30 Uhr und
 14.00 bis 15.30 Uhr,
 mittwochs und freitags in der Zeit von 8.30 bis 12.30 Uhr,
 die telefonische Voranmeldung unter Tel. 05531 959-0 ist erforderlich.
-Diese Bek. und der vollständige Genehmigungsbescheid sind auch im Internet unter https://www.gewerbe-
-aufsicht.niedersachsen.de/startseite/bekanntmachungen/hannover_hildesheim/ einsehbar.
+Diese Bek. und der vollständige Genehmigungsbescheid sind auch im Internet unter https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/hannover_hildesheim/ einsehbar.
 Nach der öffentlichen Bekanntmachung kann der Bescheid einschließlich Begründung bis zum Ablauf der
 Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, beim Staatlichen Gewerbeaufsichts- amt Hannover, Freundallee 9 a, 30173 Hannover, schriftlich angefordert werden.
-Gemäß § 10 Abs. 7 und 8 BImSchG i. V. m. § 21 a der 9. BImSchV werden der verfügende Teil des Be-
-scheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
+Gemäß § 10 Abs. 7 und 8 BImSchG i. V. m. § 21 a der 9. BImSchV werden der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 
-Nds. MBl. 2024 Nr. 142 vom 20. März 2024 Seite 2
 Die Zustellung des Bescheides an die Personen, die Einwendungen erhoben haben, wird hiermit durch
 öffentliche Bekanntmachung ersetzt.
 Es wird darauf hingewiesen, dass der Bescheid mit dem Ende der Auslegungsfrist auch gegenüber Dritten,
 die keine Einwendungen erhoben haben, als zugestellt gilt.
 
-Nds. MBl. 2024 Nr. 142 vom 20. März 2024 Seite 3
 Anlage
 I. Tenor
 1. Gemäß § 16 Abs. 1 i. V. m. §§ 6, 10 des BImSchG i. V. m. § 1 Abs. 1 und der Nr. 8.11.1.1 G/E i. V. m.
@@ -68,26 +62,22 @@ maximale Durchsatzkapazität von 72 t/d genehmigt ist;
 (RA05 bis RA12),
 – Aktivlagerfläche zur Befüllung/Entleerung von 2 Tankcontainern (je 30 m
 3
-) sowie ein Tankkraft-
-wagen mit bis zu 30 m
+) sowie ein Tankkraftwagen mit bis zu 30 m
 3
 ,
 – Gebäude u. a. mit Pumpenraum, Messwarte, Labor und Sozialräumen,
 – Rohrbrücke zwischen Gebäude E612 zum Kraftwerk Weser Geb. D642.
-Die Struktur der immissionsschutzrechtlichen Gesamtanlage mit den genehmigungsrelevanten Nebenein-
-richtungen ergibt sich wie folgt:
+Die Struktur der immissionsschutzrechtlichen Gesamtanlage mit den genehmigungsrelevanten Nebeneinrichtungen ergibt sich wie folgt:
 Anlagenbezeichnung Anlagen-Nr. Nr. nach Anhang 1
 der 4. BImSchV
 max. Kapazität
-Hauptan-
-lage
+Hauptanlage
 Abfallkonditionierungsanlage G 0002 8.11.1.1 G/E 300 t/d
 Betriebseinheiten BE 01 Abfallkonditionierung C412
 BE 07 Tankcontainer/Tankkraftwagen E612
 BE 08 Quarantänetanks E612
 BE 20 Betriebsgebäude/Pumpen E612
-AN Anlage zur zeitweiligen Lage-
-rung gefährlicher Abfälle
+AN Anlage zur zeitweiligen Lagerung gefährlicher Abfälle
 A 002 8.12.1.1 G/E 543 t
 Betriebseinheiten BE 02 Gebindelagerung C412
 BE 04 Tanklagerung C412
@@ -98,7 +88,6 @@ Standort der Anlage ist:
 Ort: 37603 Holzminden
 Straße: Mühlenfeldstraße 1
 
-Nds. MBl. 2024 Nr. 142 vom 20. März 2024 Seite 4
 Gemarkung: Holzminden
 Flur: 23 23 23 19
 Flurstücke: 4/3 4/5 12/15 193/4
@@ -111,8 +100,7 @@ Diese Genehmigung schließt folgende Entscheidungen mit ein:
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach
 § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 Die Einwendungen gegen das Vorhaben werden zurückgewiesen, soweit ihnen nicht durch Ergänzungen
-des Genehmigungsantrages und den unter Nr. II dieses Bescheides aufgeführten Nebenbestimmungen Rech-
-nung getragen wurde oder soweit sie sich im Laufe des Verfahrens nicht auf andere Weise erledigt haben.
+des Genehmigungsantrages und den unter Nr. II dieses Bescheides aufgeführten Nebenbestimmungen Rechnung getragen wurde oder soweit sie sich im Laufe des Verfahrens nicht auf andere Weise erledigt haben.
 4. Kostenentscheidung
 Die Kosten dieses Verfahrens trägt die Antragstellerin.
 II. Nebenbestimmungen

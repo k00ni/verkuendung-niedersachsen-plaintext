@@ -39,7 +39,6 @@ Inhaltsübersicht
 4.2 Zahlungspartnerdaten
 4.3 Erfassung der Zahlungspartnerdaten bei Gesamtschuldnerinnen und Gesamtschuldnern
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 2
 4.4 Tag der Fälligkeit
 4.5 Zahlungsverfahren
 4.6 Mahnschlüssel
@@ -80,44 +79,32 @@ Nachfolgende Regelungen gelten auch für Sondervermögen des Landes und Haushalt
 kassenmäßig (siehe Nummer 13.3) abgebildet werden.
 2. Verantwortlichkeiten
 2.1 Beauftragte für den Haushalt (BfdH)
-Die oder der BfdH der anordnenden Dienststellen ist verantwortlich für die Ordnungsmäßigkeit der Buch-
-führung in der Dienststelle. Dies gilt insbesondere für
+Die oder der BfdH der anordnenden Dienststellen ist verantwortlich für die Ordnungsmäßigkeit der Buchführung in der Dienststelle. Dies gilt insbesondere für
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 3
 a) die Buchführung über Forderungen und Verbindlichkeiten aufgrund elektronischer Kassenanordnungen
-(u. a. fälligkeitsgerechte Anordnung von Auszahlungen, Erhebung und Einziehung von Einnahmen, recht-
-zeitige und vollständige Freigabe von Auszahlungsstapeln, Einhaltung des Verrechnungsgebots bei lan-
-desinternem Forderungsausgleich sowie Bearbeitung der Abschläge, Vermeidung von doppelten Zahlun-
-gen),
+(u. a. fälligkeitsgerechte Anordnung von Auszahlungen, Erhebung und Einziehung von Einnahmen, rechtzeitige und vollständige Freigabe von Auszahlungsstapeln, Einhaltung des Verrechnungsgebots bei landesinternem Forderungsausgleich sowie Bearbeitung der Abschläge, Vermeidung von doppelten Zahlungen),
 b) die Abwicklung der dienststellenbezogenen Verwahr- und Vorschussbuchungen,
 c) die regelmäßige Prüfung von noch nicht ausgeführten Kassenanordnungen und internen Aufträgen sowie
 d) die Abwicklung offener Posten.
-Die Verantwortlichkeit erstreckt sich neben dem Kernhaushalt und den Extrahaushalten (z. B. Sonderver-
-mögen) auch auf eine ordnungsgemäße Bewirtschaftung von Haushaltsstellen , die nur kassenmäßig abgebil-
-det werden.
+Die Verantwortlichkeit erstreckt sich neben dem Kernhaushalt und den Extrahaushalten (z. B. Sondervermögen) auch auf eine ordnungsgemäße Bewirtschaftung von Haushaltsstellen , die nur kassenmäßig abgebildet werden.
 Die Angaben zu den bestellten BfdH sind im Haushaltsvollzugssystem (HVS) in den Stammdaten der
 Dienststelle zu hinterlegen.
-Die oder der BfdH der anordnenden Dienststellen bestimmt, welche Bediensteten Anordnungsdaten erfas-
-sen dürfen (Feststellerinnen und Feststeller) und entscheiden auch, welche Bediensteten zur Ausübung der
-Anordnungsbefugnis (Freigabe) befugt sind. Ein Nachweis erfolgt in der Benutzerverwaltung des Haushalts-
-wirtschaftssystems (HWS). Die Berechtigungen sind in regelmäßigen Abständen (mindestens einmal jährlich)
+Die oder der BfdH der anordnenden Dienststellen bestimmt, welche Bediensteten Anordnungsdaten erfassen dürfen (Feststellerinnen und Feststeller) und entscheiden auch, welche Bediensteten zur Ausübung der
+Anordnungsbefugnis (Freigabe) befugt sind. Ein Nachweis erfolgt in der Benutzerverwaltung des Haushaltswirtschaftssystems (HWS). Die Berechtigungen sind in regelmäßigen Abständen (mindestens einmal jährlich)
 auf ihr weiteres Erfordernis zu überprüfen. Hinweise zur Rollenvergabe sind auf der Intranetseite des MF
 (Pfad: HWS > Anleitungen > Berechtigungsvergabe) veröffentlicht.
 2.2 Feststellerinnen und Feststeller
 Feststellerinnen und Feststeller erfassen die Anordnungsdaten und reichen die Belege mit Angabe der
 Stapelnummer, des Bereichs, des Buchungsschlüssels und der Belegnummer an die Anordnungsbefugten
 weiter.
-Vor Erfassung der Anordnungsdaten muss die rechnerische und sachliche Richtigkeit von den Verantwort-
-lichen festgestellt sein, vgl. VV Nr. 2.3.2 zu §§ 70 bis 72 und 74 bis 80 LHO.
+Vor Erfassung der Anordnungsdaten muss die rechnerische und sachliche Richtigkeit von den Verantwortlichen festgestellt sein, vgl. VV Nr. 2.3.2 zu §§ 70 bis 72 und 74 bis 80 LHO.
 Soweit die Feststellerinnen oder Feststeller die Verantwortlichen für die sachliche und/oder rechnerische
 Richtigkeit sind, gilt Folgendes:
 – Mit der Erfassung der Anordnung gilt die rechnerische Richtigkeit nach VV Nr. 2.3.2.2 zu §§ 70 bis 72
 und 74 bis 80 LHO als bescheinigt.
-– Die sachliche Richtigkeit nach VV Nr. 2.3.2.1 zu §§ 70 bis 72 und 74 bis 80 LHO ist von den Feststelle-
-rinnen und Feststellern in der Annahmeanordnung, Auszahlungsanordnung oder Änderungsanordnung
+– Die sachliche Richtigkeit nach VV Nr. 2.3.2.1 zu §§ 70 bis 72 und 74 bis 80 LHO ist von den Feststellerinnen und Feststellern in der Annahmeanordnung, Auszahlungsanordnung oder Änderungsanordnung
 im HVS elektronisch zu bescheinigen.
-Soweit die Feststellerinnen und Feststeller nicht die Verantwortlichen für die rechnerische und/oder sach-
-liche Richtigkeit sind, ist eine zusätzliche Bescheinigung der rechnerischen und/oder sachlichen Richtigkeit
+Soweit die Feststellerinnen und Feststeller nicht die Verantwortlichen für die rechnerische und/oder sachliche Richtigkeit sind, ist eine zusätzliche Bescheinigung der rechnerischen und/oder sachlichen Richtigkeit
 auf den begründenden Unterlagen erforderlich.
 Weiter gilt die Ausnahme nach Nummer 2.3 Satz 4.
 2.3 Anordnungsbefugte
@@ -129,71 +116,47 @@ oder der Anordnungsbefugte die Beteiligung der oder des BfdH sicherzustellen.
 Die oder der Anordnungsbefugte hat in den Fällen, in denen die oder der Beauftragte für den Haushalt
 nicht darauf verzichtet hat, eine Beteiligung der oder des Beauftragten für den Haushalt sicherzustellen.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 4
 Hat die Feststellerin oder der Feststeller die sachliche Richtigkeit elektronisch nicht bescheinigt, so gilt die
-sachliche Richtigkeit mit der Freigabe und Signierung der Daten durch die Anordnungsbefugte oder den An-
-ordnungsbefugten als bescheinigt.
-Dies gilt auch für Anordnungen, die pauschal freigegeben wurden. Die Bescheinigung der sachlichen Rich-
-tigkeit kann in den begründenden Unterlagen unterbleiben.
-Soll die sachliche Richtigkeit nicht von der oder dem Anordnungsbefugten bescheinigt werden, ist der Vor-
-gang an die Feststellerin oder den Feststeller zurückzugeben, damit diese/dieser eine elektronische Beschei-
-nigung der sachlichen Richtigkeit nachholen kann.
-Anordnungsbefugte sind von der Verantwortung für die sachliche Richtigkeit entbunden, wenn die begrün-
-denden Unterlagen entsprechende Feststellvermerke anderer hierzu befugter Personen enthalten.
+sachliche Richtigkeit mit der Freigabe und Signierung der Daten durch die Anordnungsbefugte oder den Anordnungsbefugten als bescheinigt.
+Dies gilt auch für Anordnungen, die pauschal freigegeben wurden. Die Bescheinigung der sachlichen Richtigkeit kann in den begründenden Unterlagen unterbleiben.
+Soll die sachliche Richtigkeit nicht von der oder dem Anordnungsbefugten bescheinigt werden, ist der Vorgang an die Feststellerin oder den Feststeller zurückzugeben, damit diese/dieser eine elektronische Bescheinigung der sachlichen Richtigkeit nachholen kann.
+Anordnungsbefugte sind von der Verantwortung für die sachliche Richtigkeit entbunden, wenn die begründenden Unterlagen entsprechende Feststellvermerke anderer hierzu befugter Personen enthalten.
 3. Belege (begründende Unterlagen)
-Gemäß VV Nr. 5.3 zu §§ 70 bis 72 und 74 bis 80 LHO ist ein Beleg eine begründende Unterlage in elekt-
-ronischer Form oder Papierform, auf der ein Geschäftsvorfall (Einnahme/Ausgabe/Umbuchung) und die Aus-
-wirkungen, die seine Buchung auslösen, beschrieben sind und diese dokumentiert werden. Diese Unterlagen
+Gemäß VV Nr. 5.3 zu §§ 70 bis 72 und 74 bis 80 LHO ist ein Beleg eine begründende Unterlage in elektronischer Form oder Papierform, auf der ein Geschäftsvorfall (Einnahme/Ausgabe/Umbuchung) und die Auswirkungen, die seine Buchung auslösen, beschrieben sind und diese dokumentiert werden. Diese Unterlagen
 sind in elektronischer Form oder in Papierform aufzubewahren. Die Belege zu einem Vorgang sind in einem
-einheitlichen Verfahren aufzubewahren. Eine teilweise elektronische Aufbewahrung der Belege und eine teil-
-weise Aufbewahrung in Papierform ist nicht zulässig.
+einheitlichen Verfahren aufzubewahren. Eine teilweise elektronische Aufbewahrung der Belege und eine teilweise Aufbewahrung in Papierform ist nicht zulässig.
 Die BfdH der Dienststellen haben durch organisatorische Maßnahmen (Arbeitsabläufe) sicherzustellen,
-dass eine nachprüfbare Zuordnung der Belege für einen Geschäftsvorfall in elektronische Form oder Papier-
-form gewährleistet wird und Doppelzahlungen vermieden werden.
+dass eine nachprüfbare Zuordnung der Belege für einen Geschäftsvorfall in elektronische Form oder Papierform gewährleistet wird und Doppelzahlungen vermieden werden.
 Die Umstellung auf ein vollständig elektronisches Verwaltungshandeln ist auch bei der Belegführung und
-Belegaufbewahrung umzusetzen. Soweit ein elektronisches Dokumentenmanagement- und Vorgangsbear-
-beitungssystem vorhanden ist, ist dieses zwingend einzusetzen. Nur soweit in den Dienststellen ein solches
+Belegaufbewahrung umzusetzen. Soweit ein elektronisches Dokumentenmanagement- und Vorgangsbearbeitungssystem vorhanden ist, ist dieses zwingend einzusetzen. Nur soweit in den Dienststellen ein solches
 elektronisches System noch nicht vorhanden ist, hat die Belegführung und Belegaufbewahrung nach Nummer
 3.2 bzw. 3.3 zu erfolgen.
 3.1 Belege im elektronischen Dokumentenmanagement- und Vorgangsbearbeitungssystem (DMS)
 3.1.1 DMS mit Vorgangsbearbeitung
-Wird in einer Dienststelle ein DMS mit Vorgangsbearbeitung eingesetzt, hat eine Weiterleitung und Bear-
-beitung von Belegen für Feststellvermerke (sachliche und rechnerische Richtigkeit) bzw. die Weiterleitung an
+Wird in einer Dienststelle ein DMS mit Vorgangsbearbeitung eingesetzt, hat eine Weiterleitung und Bearbeitung von Belegen für Feststellvermerke (sachliche und rechnerische Richtigkeit) bzw. die Weiterleitung an
 die Anordnungsbefugten zur Freigabe im DMS (Workflow) zu erfolgen.
-Nach Erfassung der Anordnungsdaten im HVS sind im DMS, ergänzend zu den Belegen, die mit der Er-
-fassung der Anordnungsdaten vom HVS vergebenen Identifizierungsmerkmale Stapelnummer, Bereich, Bu-
-chungsschlüssel und Belegnummer zu dokumentieren.
-Die Freigabe durch die Anordnungsbefugten ist dann ebenfalls im DMS zu dokumentieren. Diese Nach-
-weise gelten als Entwertung der Belege. Die Aktenablage und Aufbewahrung der Belege sind hier zwingend
+Nach Erfassung der Anordnungsdaten im HVS sind im DMS, ergänzend zu den Belegen, die mit der Erfassung der Anordnungsdaten vom HVS vergebenen Identifizierungsmerkmale Stapelnummer, Bereich, Buchungsschlüssel und Belegnummer zu dokumentieren.
+Die Freigabe durch die Anordnungsbefugten ist dann ebenfalls im DMS zu dokumentieren. Diese Nachweise gelten als Entwertung der Belege. Die Aktenablage und Aufbewahrung der Belege sind hier zwingend
 im DMS erforderlich.
 3.1.2 DMS ohne Vorgangsbearbeitung
 Wird in einer Dienststelle das DMS nur für eine elektronische Akte eingesetzt, kann die Weiterleitung und
-Bearbeitung von Belegen (begründenden Unterlagen) für Feststellvermerke (sachliche und rechnerische Rich-
-tigkeit) bzw. die Weiterleitung an die Anordnungsbefugten zur Freigabe auch per E-Mail erfolgen.
-Dazu müssen die Feststellerinnen und Feststeller nach Erfassung der Anordnungsdaten im HVS die Iden-
-tifizierungsmerkmale nach Nummer 3.1.1 mit den begründenden Unterlagen den Anordnungsbefugten per E-
-Mail zur Verfügung stellen.
-Die Anordnungsbefugten bestätigen die Freigabe per E-Mail. Der gesamte Geschäftsvorfall ist anschlie-
-ßend in der elektronischen Akte abzulegen. Der Nachweis des Belegdrucks sowie der Freigabe in der eAkte
+Bearbeitung von Belegen (begründenden Unterlagen) für Feststellvermerke (sachliche und rechnerische Richtigkeit) bzw. die Weiterleitung an die Anordnungsbefugten zur Freigabe auch per E-Mail erfolgen.
+Dazu müssen die Feststellerinnen und Feststeller nach Erfassung der Anordnungsdaten im HVS die Identifizierungsmerkmale nach Nummer 3.1.1 mit den begründenden Unterlagen den Anordnungsbefugten per EMail zur Verfügung stellen.
+Die Anordnungsbefugten bestätigen die Freigabe per E-Mail. Der gesamte Geschäftsvorfall ist anschließend in der elektronischen Akte abzulegen. Der Nachweis des Belegdrucks sowie der Freigabe in der eAkte
 gelten als Entwertung der Belege.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 5
 3.2 Belege in Papierform
 Mit Erfassung der Anordnungsdaten werden die vom HVS vergebenen Identifizierungsmerkmale nach
 Nummer 3.1.1 auf den begründenden Unterlagen schriftlich vermerkt. Die Nachweise der Erfassung und der
 Freigabe gelten als Entwertung der Belege.
 3.3 Belege per E- Mail, Ablage in Papierform
-Mit Erfassung der Anordnungsdaten muss der Beleg zusammen mit den vom HVS vergebenen Identifizie-
-rungsmerkmalen nach Nummer 3.1.1 an die Anordnungsbefugten zur Freigabe per E-Mail weitergeleitet wer-
-den.
-Nach der Freigabe müssen diese Identifizierungsmerkmale sowie der Nachweis der Freigabe auf den be-
-gründenden Unterlagen schriftlich vermerkt werden. Dies gilt als Entwertung der Belege. Nach Ablage des
+Mit Erfassung der Anordnungsdaten muss der Beleg zusammen mit den vom HVS vergebenen Identifizierungsmerkmalen nach Nummer 3.1.1 an die Anordnungsbefugten zur Freigabe per E-Mail weitergeleitet werden.
+Nach der Freigabe müssen diese Identifizierungsmerkmale sowie der Nachweis der Freigabe auf den begründenden Unterlagen schriftlich vermerkt werden. Dies gilt als Entwertung der Belege. Nach Ablage des
 Geschäftsvorfalls in der Papierakte ist der betreffende E-Mailverkehr zu löschen.
 3.4 Belege in HKR-Verfahren (Vorverfahren)
 Wird in einer Dienststelle ein HKR-Verfahren genutzt, so sind grundsätzlich die Identifizierungsmerkmale
 nach Nummer 3.1.1 auf dem Beleg bzw. im DMS zu erfassen. Liegen diese nicht vor, so ist das Kassenzeichen
-zu erfassen. Die Freigabe durch die Anordnungsbefugten ist dann ebenfalls zu dokumentieren. Diese Nach-
-weise der Erfassung und der Freigabe gelten als Entwertung der Belege.
+zu erfassen. Die Freigabe durch die Anordnungsbefugten ist dann ebenfalls zu dokumentieren. Diese Nachweise der Erfassung und der Freigabe gelten als Entwertung der Belege.
 4. Inhalt der Anordnung
 Ergänzend zu VV Nr. 2.7 zu §§ 70 bis 72 und 74 bis 80 LHO wird Folgendes geregelt:
 4.1 Kennzeichnung, Abschläge, Buchungsschlüssel
@@ -204,31 +167,24 @@ erfassen.
 Mit dem Buchungsschlüssel wird bestimmt, welche Art von Kassenanordnung gebucht werden soll. Die zur
 Verfügung stehenden Buchungsschlüssel sind in den Haushaltsstammdaten des HVS hinterlegt.
 4.2 Zahlungspartnerdaten
-In der Anordnung müssen Zahlungsempfängerinnen, Zahlungsempfänger und Zahlungspflichtige (Zah-
-lungspartnerinnen und Zahlungspartner) zweifelsfrei bezeichnet sein. Hierzu ist grundsätzlich neben Namen,
+In der Anordnung müssen Zahlungsempfängerinnen, Zahlungsempfänger und Zahlungspflichtige (Zahlungspartnerinnen und Zahlungspartner) zweifelsfrei bezeichnet sein. Hierzu ist grundsätzlich neben Namen,
 Vornamen, Namenszusätzen (oder Firmenbezeichnung bei juristischen Personen) und ggf. Geburtsdatum, die
 vollstreckungsfähige Anschrift der Zahlungspartnerin oder des Zahlungspartners zu erfassen.
 4.3 Erfassung der Zahlungspartnerdaten bei Gesamtschuldnerinnen und Gesamtschuldnern
-Sind für eine Forderung mehrere Schuldnerinnen und Schuldner vorhanden, sind sie Gesamtschuldnerin-
-nen und Gesamtschuldner. Unbeschadet der im Justizbereich bestehenden speziellen Regelungen entschei-
-den die anordnenden Dienststellen nach pflichtgemäßem Ermessen, ob gegen alle Gesamtschuldnerinnen
+Sind für eine Forderung mehrere Schuldnerinnen und Schuldner vorhanden, sind sie Gesamtschuldnerinnen und Gesamtschuldner. Unbeschadet der im Justizbereich bestehenden speziellen Regelungen entscheiden die anordnenden Dienststellen nach pflichtgemäßem Ermessen, ob gegen alle Gesamtschuldnerinnen
 und Gesamtschuldner oder nur gegenüber einer oder einem von ihnen die Forderung geltend gemacht werden
 soll (Auswahlermessen). Grundsätzlich soll nur gegen eine Gesamtschuldnerin oder einen Gesamtschuldner
 die Sollbuchung vorgenommen werden. Entrichtet diese oder dieser die Forderung nicht oder nicht vollständig,
-ist die anordnende Dienststelle zur Inanspruchnahme der weiteren Gesamtschuldnerinnen und Gesamt-
-schuldner verpflichtet; ein Ermessensspielraum besteht insoweit nicht. In geeigneten Fällen ist es zulässig,
-die Forderung von Beginn an auf alle Gesamtschuldnerinnen und Gesamtschuldner nach Kopfteilen aufzutei-
-len und entsprechende Annahmeanordnungen zu erteilen.
+ist die anordnende Dienststelle zur Inanspruchnahme der weiteren Gesamtschuldnerinnen und Gesamtschuldner verpflichtet; ein Ermessensspielraum besteht insoweit nicht. In geeigneten Fällen ist es zulässig,
+die Forderung von Beginn an auf alle Gesamtschuldnerinnen und Gesamtschuldner nach Kopfteilen aufzuteilen und entsprechende Annahmeanordnungen zu erteilen.
 4.4 Tag der Fälligkeit
 Die anordnenden Dienststellen haben ausschließlich jenes Datum in der Anordnung zu erfassen, an dem
 die Einzahlung oder Auszahlung bewirkt sein muss (Fälligkeitstag). Bei der Fälligkeit sind zusätzliche Zeit- und
 Sicherheitspuffer zu unterlassen. Die fristgerechte Steuerung der Zahlung – insbesondere vor und nach
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 6
 Feiertagen und Wochenenden – obliegt der Landeshauptkasse (LHK). Die LHK ist hierfür auf genaue und
 rechtlich verbindliche Angaben angewiesen.
-Ein zeitlicher Vorlauf aufgrund von Bearbeitungsprozessen der am Zahlungsvorgang beteiligten Kreditin-
-stitute (sog. Banklaufzeiten) wird durch die LHK berücksichtigt und braucht insofern nicht bei der Festlegung
+Ein zeitlicher Vorlauf aufgrund von Bearbeitungsprozessen der am Zahlungsvorgang beteiligten Kreditinstitute (sog. Banklaufzeiten) wird durch die LHK berücksichtigt und braucht insofern nicht bei der Festlegung
 der Fälligkeit beachtet zu werden, sofern die Anordnung rechtzeitig erfasst und freigegeben wurde. Auf VV Nr.
 2.4 zu §§ 70 bis 72 und 74 bis 80 LHO wird verwiesen.
 Fällt der Fälligkeitstag aufgrund der zahlungsbegründenden Unterlagen auf ein Wochenende (Sonnabend,
@@ -236,147 +192,107 @@ Sonntag) oder einen Feiertag, gilt § 193 BGB unmittelbar. Demnach ist eine Zahl
 Tag zu bewirken ist, und dieser Tag auf ein Wochenende oder einen am Leistungsort staatlich anerkannten
 allgemeinen Feiertag fällt, erst am darauffolgenden nächsten Werktag zu erbringen. Einer Präzisierung des
 Fälligkeitstages in der Anordnung auf den folgenden nächsten Werktag bedarf es in diesen Fällen nicht.
-Zahlungen, die aufgrund spezieller Regelungen vorher zu bewirken sind, müssen zwingend mit der Erfas-
-sung des konkreten Datums des Werktages, der dem Wochenende oder dem Feiertag vorangeht, fällig gestellt
+Zahlungen, die aufgrund spezieller Regelungen vorher zu bewirken sind, müssen zwingend mit der Erfassung des konkreten Datums des Werktages, der dem Wochenende oder dem Feiertag vorangeht, fällig gestellt
 werden.
 Bei Gewährung von Skontoabzügen ist der für den Skontoabzug vorgesehene Zahlungsrahmen bei der
 Fälligkeitserfassung in vollem Umfang zu nutzen.
 4.5 Zahlungsverfahren
-Das Zahlungsverfahren definiert, auf welchem Weg die Zahlung/der Lastschrifteinzug vorgenommen wer-
-den soll (z. B. SEPA- Überweisung, Auslandszahlung usw.).
+Das Zahlungsverfahren definiert, auf welchem Weg die Zahlung/der Lastschrifteinzug vorgenommen werden soll (z. B. SEPA- Überweisung, Auslandszahlung usw.).
 Die Auswahl des Zahlungsverfahrens beeinflusst die bankenseitige Dauer und ggf. anfallende Kosten der
-vorzunehmenden Überweisung. I nsofern kommt ihr, insbesondere bei Daueranordnungen, vor dem Hinter-
-grund eines wirtschaftlichen Verwaltungshandelns eine besondere Bedeutung zu.
+vorzunehmenden Überweisung. I nsofern kommt ihr, insbesondere bei Daueranordnungen, vor dem Hintergrund eines wirtschaftlichen Verwaltungshandelns eine besondere Bedeutung zu.
 Erläuterungen und Hinweise zu den zur Verfügung stehenden Zahlungsverfahren werden von der LHK im
 MF-Intranet veröffentlicht (Pfad: HWS > Landeshauptkasse).
 4.6 Mahnschlüssel
-Der Mahnschlüssel dient der Zuordnung von Forderungen zu Mahnverfahren. Durch Angabe des sachge-
-rechten Mahnschlüssels bei der Erteilung von elektronischen Annahmeanordnungen wird festgelegt, welche
+Der Mahnschlüssel dient der Zuordnung von Forderungen zu Mahnverfahren. Durch Angabe des sachgerechten Mahnschlüssels bei der Erteilung von elektronischen Annahmeanordnungen wird festgelegt, welche
 Maßnahmen zur Einziehung der Forderungen nach Ablauf der Zahlungsfrist getroffen werden sollen.
 4.7 Kassenzeichen
 Kassenzeichen dienen als eindeutiges Zuordnungskriterium der Kommunikation zwischen anordnenden
 Dienststellen, den für Zahlungen zuständigen Stellen und den Zahlungspartnerinnen und Zahlungspartnern.
 Sie gewährleisten die automatische Zuordnung von Zahlungen zu Anordnungen.
-Die anordnenden Dienststellen haben grundsätzlich die vom HVS bei der Erfassung elektronischer Anord-
-nungen automatisch generierten 13- stelligen numerischen Standardkassenzeichen zu verwenden. Sofern es
+Die anordnenden Dienststellen haben grundsätzlich die vom HVS bei der Erfassung elektronischer Anordnungen automatisch generierten 13- stelligen numerischen Standardkassenzeichen zu verwenden. Sofern es
 unerlässlich ist, als Kassenzeichen einen ununterbrochenen Nummernkreis zu verwenden, kann dieser auf
 Antrag bei der Zentralen Verfahrenspflege (ZV/KC-HWS) reserviert werden.
 In Ausnahmefällen können Fremdkassenzeichen verwendet werden. Bei der Gestaltung ist sicherzustellen,
-dass sie die automatische Zuordnung von Zahlungen zweifelsfrei ermöglichen. Fremdkassenzeichen begin-
-nen stets mit den ersten vier Ziffern der Dienststellennummer. Im Zweifel ist bei der Gestaltung der Fremdkas-
-senzeichen das KC-HWS zu beteiligen. Bei Fremdkassenzeichen sind keine Sonder- oder Leerzeichen zu
+dass sie die automatische Zuordnung von Zahlungen zweifelsfrei ermöglichen. Fremdkassenzeichen beginnen stets mit den ersten vier Ziffern der Dienststellennummer. Im Zweifel ist bei der Gestaltung der Fremdkassenzeichen das KC-HWS zu beteiligen. Bei Fremdkassenzeichen sind keine Sonder- oder Leerzeichen zu
 verwenden.
 4.8 Leitmerkmale im Zahlungsverkehr (BIC, IBAN, Bankidentifikation, Kontonummer)
 Im Zuge der vollautomatisierten Durchführung des Zahlungsverkehrs findet im SEPA-Zahlungsverkehr in
-der Regel keine Prüfung der Übereinstimmung von Kontoinhaberschaft und Zahlungsempfängerin/Zahlungs-
-empfänger bzw. Zahlungspflichtiger/Zahlungspflichtige m statt. Entscheidendes Leitmerkmal ist die IBAN. Bei
+der Regel keine Prüfung der Übereinstimmung von Kontoinhaberschaft und Zahlungsempfängerin/Zahlungsempfänger bzw. Zahlungspflichtiger/Zahlungspflichtige m statt. Entscheidendes Leitmerkmal ist die IBAN. Bei
 Überweisungen außerhalb des SEPA- Raumes ist die IBAN/Kontonummer der Zahlungsempfängerin/des
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 7
 Zahlungsempfängers und der BIC/die länderspezifische Bankidentifikation des Institutes der Empfängerin/des
 Empfängers maßgebend.
-Den Feststellerinnen und Feststellern obliegt bei der Erfassung der zahlungsrelevanten Daten in den An-
-ordnungen eine besondere Sorgfaltspflicht hinsichtlich der korrekten Erfassung der Leitmerkmale im Zah-
-lungsverkehr.
+Den Feststellerinnen und Feststellern obliegt bei der Erfassung der zahlungsrelevanten Daten in den Anordnungen eine besondere Sorgfaltspflicht hinsichtlich der korrekten Erfassung der Leitmerkmale im Zahlungsverkehr.
 4.9 Zahlungsgrund, Verwendungszweck
 Durch die Eintragungen in den Feldern „Zahlungsgrund“ oder „Verwendungszweck“ in der Anordnung und
-einem Vermerk der Merkmale der Nummer 3.1.1 auf den begründenden Unterlagen, wird die Verbindung zwi-
-schen den begründenden Unterlagen und den Anordnungen dokumentiert.
+einem Vermerk der Merkmale der Nummer 3.1.1 auf den begründenden Unterlagen, wird die Verbindung zwischen den begründenden Unterlagen und den Anordnungen dokumentiert.
 Als Zahlungsgrund ist eine maximal 54- stellige Zeichenkette zu erfassen, die der Empfängerin oder dem
-Empfänger – bei aktiven Lastschrifteinzügen der/dem Zahlungspflichtigen – im Verwendungszweck der Kon-
-togutschrift bzw. - belastung konkrete Informationen zur dortigen Zuordnung übermittelt, z. B. deren oder des-
-sen Kundennummer, Rechnungsdatum, Vertragsnummer oder ähnliche in der Zahlungsaufforderung erbetene
+Empfänger – bei aktiven Lastschrifteinzügen der/dem Zahlungspflichtigen – im Verwendungszweck der Kontogutschrift bzw. - belastung konkrete Informationen zur dortigen Zuordnung übermittelt, z. B. deren oder dessen Kundennummer, Rechnungsdatum, Vertragsnummer oder ähnliche in der Zahlungsaufforderung erbetene
 Angaben.
 Als Verwendungszweck ist eine ebenfalls 54- stellige Zeichenkette zur näheren Begründung der Zahlung,
 z. B. „Miete Hauptstraße 123“ zu erfassen.
 Der Verwendungszweck muss die Zuordnung der Zahlung(en) zur begründenden Unterlage ermöglichen.
 4.10 Urbelegschlüssel (für Vorverfahren)
-Der Urbelegschlüssel dient grundsätzlich der Kommunikation mit Vorverfahren, in denen ebenfalls Identifi-
-kationsmerkmale vergeben werden. Falls Urbelegschlüssel (Aktenzeichen, Geschäftszeichen etc.) aus Vor-
-verfahren in das HVS importiert werden sollen, können diese hier eingetragen oder über eine Schnittstelle
-eingespielt werden. In diesem Feld erfolgt jedoch im Gegensatz zu dem Feld „Kassenzeichen“ keine Überprü-
-fung der Eindeutigkeit des Urbelegschlüssels.
+Der Urbelegschlüssel dient grundsätzlich der Kommunikation mit Vorverfahren, in denen ebenfalls Identifikationsmerkmale vergeben werden. Falls Urbelegschlüssel (Aktenzeichen, Geschäftszeichen etc.) aus Vorverfahren in das HVS importiert werden sollen, können diese hier eingetragen oder über eine Schnittstelle
+eingespielt werden. In diesem Feld erfolgt jedoch im Gegensatz zu dem Feld „Kassenzeichen“ keine Überprüfung der Eindeutigkeit des Urbelegschlüssels.
 4.11 Buchungszeilen, Unterkonto
-In der Buchungszeile der Anordnung ist entsprechend des Gruppierungsplans (siehe VV-HNds) die Haus-
-haltsstelle (Kapitel/Titel) anzugeben.
+In der Buchungszeile der Anordnung ist entsprechend des Gruppierungsplans (siehe VV-HNds) die Haushaltsstelle (Kapitel/Titel) anzugeben.
 Budgetierte Verwaltungsbereiche müssen hier die entsprechenden Annexkonten angeben. Eine Buchung
 auf der Haushaltsstelle ist aufgrund der fehlenden Verknüpfung zur Kosten- und Leistungsrechnung (KLR) in
 der Regel nicht zulässig.
-Des Weiteren ist in der Buchungszeile das Feld „Unterkonto 1 (MbSt)“ auszufüllen. Hier ist die mittelbewirt-
-schaftende Stelle einzutragen, welche eine Ermächtigung für die Bewirtschaftung durch Mittelverteilung erhal-
-ten hat.
+Des Weiteren ist in der Buchungszeile das Feld „Unterkonto 1 (MbSt)“ auszufüllen. Hier ist die mittelbewirtschaftende Stelle einzutragen, welche eine Ermächtigung für die Bewirtschaftung durch Mittelverteilung erhalten hat.
 Die Felder „Unterkonto 2 = Kostenstelle“ und „Unterkonto 3 = Kostenträger“ sind der KLR vorbehalten. Eine
 Belegung dieser Felder für nicht budgetierte Verwaltungsbereiche ist grundsätzlich nicht zulässig.
 Die Felder „Unterkonto 4 = Projekt“ und „Unterkonto 5 = Mittelherkunft“ können bei Bedarf belegt werden.
 5. Nicht-Soll-Buchung
 Nach Nummer 2.1.2 zu §§ 70 bis 72 und 74 bis 80 LHO kann bei Einzahlungen auf die Erteilung einer
-Annahmeanordnung verzichtet werden. Der eingezahlte Betrag wird dann automatisch ohne vorherige Soll-
-stellung bei einem sog. Nicht-Soll-Titel gebucht.
+Annahmeanordnung verzichtet werden. Der eingezahlte Betrag wird dann automatisch ohne vorherige Sollstellung bei einem sog. Nicht-Soll-Titel gebucht.
 Zur Einrichtung eines Nicht-Soll-Titels ist die Einwilligung des MF-Referates 43 erforderlich, die die BfdH
 der obersten Landesbehörden formlos per E-Mail zu beantragen haben. Anschließend wird seitens MF in den
 Stammdaten des Titels die entsprechende Kennzeichnung aktiviert.
 Die automatisierte Zuordnung von Einzahlungen erfolgt über ein dreistelliges Kennzeichen (z. B. NZS), das
-z. B. durch ein Akten- oder Geschäftszeichen im Verwendungszweck zu ergänzen ist. Als Nichtsollkennzei-
-chen dürfen nur kryptische Zeichen verwendet werden. In den entsprechenden Zahlungsaufforderungen müs-
-sen das dreistellige Nicht-Soll-Kennzeichen und das Aktenzeichen/Geschäftszeichen der auffordernden
+z. B. durch ein Akten- oder Geschäftszeichen im Verwendungszweck zu ergänzen ist. Als Nichtsollkennzeichen dürfen nur kryptische Zeichen verwendet werden. In den entsprechenden Zahlungsaufforderungen müssen das dreistellige Nicht-Soll-Kennzeichen und das Aktenzeichen/Geschäftszeichen der auffordernden
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 8
 Dienststelle als Kassenzeichen angegeben werden. Zwischen dem Nicht-Soll-Kennzeichen (z. B. NZS) und
-den nachfolgenden Daten muss mindestens ein Leerzeichen sein (z. B. Kassenzeichen: NZS 5 O 356/99 Mül-
-ler).
+den nachfolgenden Daten muss mindestens ein Leerzeichen sein (z. B. Kassenzeichen: NZS 5 O 356/99 Müller).
 Jede Einzahlung zum Nicht-Soll erzeugt dann automatisiert eine Zahlungsanzeige.
 6. Allgemeine Anordnungen
 Nach VV Nr. 2.2 zu §§ 70 bis 72 und 74 bis 80 LHO kann MF für bestimmte, mehrfach vorkommende,
 gleichartige Einzahlungen eine Allgemeine Anordnung zulassen. Die Ausübung einer Anordnungsbefugnis ist
 hier nicht mehr erforderlich.
 Zur Einrichtung einer Allgemeinen Anordnung ist die Einwilligung des MF-Referates 43 erforderlich, die die
-BfdH der obersten Landesbehörden formlos per E-Mail zu beantragen haben. Anschließend erfolgt die tech-
-nische Umsetzung zur Einrichtung einer Allgemeinen Anordnung seitens MF.
+BfdH der obersten Landesbehörden formlos per E-Mail zu beantragen haben. Anschließend erfolgt die technische Umsetzung zur Einrichtung einer Allgemeinen Anordnung seitens MF.
 Auf Nummer 12 wird verwiesen.
 7. Interne Verrechnungen
-Zahlungen zwischen Dienststellen des Landes, z. B. für Abführungen im Rahmen des Landesliegen-
-schaftsmanagements sowie für Forderungen und Verbindlichkeiten zwischen HVS-Dienststellen der Landes-
-verwaltung aus landesinternen Dienstleistungen oder Lieferungen sind nicht durch Banküberweisung, sondern
+Zahlungen zwischen Dienststellen des Landes, z. B. für Abführungen im Rahmen des Landesliegenschaftsmanagements sowie für Forderungen und Verbindlichkeiten zwischen HVS-Dienststellen der Landesverwaltung aus landesinternen Dienstleistungen oder Lieferungen sind nicht durch Banküberweisung, sondern
 im Verrechnungswege auszugleichen (interne Verrechnung, § 61 LHO).
-Anfordernde Dienststellen teilen den zahlungspflichtigen Dienststellen die für die Verrechnung erforderli-
-chen Belegreferenz-Daten der Annahmeanordnung (Bereich/Beleg/Beleg-N ummer) in der Rechnung mit. Aus-
-zahlende Dienststellen ordnen in diesen Fällen die Zahlung mit Auszahlungsanordnung „A05" und Zahlungs-
-verfahren „VER" an. Im Feld „Fremdbelegnummer“ (Karte „Bestellungen“) sind die o. a. Belegreferenz-Daten
+Anfordernde Dienststellen teilen den zahlungspflichtigen Dienststellen die für die Verrechnung erforderlichen Belegreferenz-Daten der Annahmeanordnung (Bereich/Beleg/Beleg-N ummer) in der Rechnung mit. Auszahlende Dienststellen ordnen in diesen Fällen die Zahlung mit Auszahlungsanordnung „A05" und Zahlungsverfahren „VER" an. Im Feld „Fremdbelegnummer“ (Karte „Bestellungen“) sind die o. a. Belegreferenz-Daten
 zu erfassen.
 8. Automatische Mittelkontrolle
 Die Haushaltsmittel im HVS sind grundsätzlich mit eingeschalteter Mittelkontrolle zu bewirtschaften. Diese
 Überwachung erfolgt auf der Unterkontenart 1 für Mittel bewirtschaftende Stelle (MbSt). Basis dieser Kontrolle
-sind die zugewiesenen Haushaltsmittel in Abhängigkeit von ggf. vorhandenen Korrespondenz- oder De-
-ckungsvermerken. Alle Anordnungen (Einzahlungen, Auszahlungen, Umbuchungen) fließen in die Mittelkon-
-trolle ein, soweit sie erfasst wurden.
-Die Mittelkontrolle im HVS wird grundsätzlich zum 1. April eines jeden Jahres eingeschaltet. Um unzuläs-
-sige Überschreitungen in der Haushaltsrechnung zu vermeiden, sind bis dahin erfasste Buchungen auf Ein-
-haltung der Ausgabeermächtigung zu überprüfen.
+sind die zugewiesenen Haushaltsmittel in Abhängigkeit von ggf. vorhandenen Korrespondenz- oder Deckungsvermerken. Alle Anordnungen (Einzahlungen, Auszahlungen, Umbuchungen) fließen in die Mittelkontrolle ein, soweit sie erfasst wurden.
+Die Mittelkontrolle im HVS wird grundsätzlich zum 1. April eines jeden Jahres eingeschaltet. Um unzulässige Überschreitungen in der Haushaltsrechnung zu vermeiden, sind bis dahin erfasste Buchungen auf Einhaltung der Ausgabeermächtigung zu überprüfen.
 Die Mittelkontrolle ersetzt nicht die Verantwortung der Bewirtschafterin oder des Bewirtschafters für die
 Einhaltung haushaltsrechtlicher Vorschriften.
 9. Freigabe und elektronische Signatur
 Zur Freigabe anstehende Anordnungen werden je Buchungstag oder nach besonderer Vorgabe zu Stapeln
 zusammengefasst. Nach Aufruf des Stapels wird das Freigabeverfahren (Einzelfreigabe/Pauschale Freigabe)
 angezeigt.
-Bei der Einzelfreigabe wird jede Anordnung durch Eingabe des Anordnungsbetrages und mit anschließen-
-der elektronischer Signatur durch die Anordnungsbefugte oder den Anordnungsbefugten freigegeben. Elekt-
-ronische Anordnungen müssen bei folgenden Schwellenwerten einzeln freigegeben werden:
+Bei der Einzelfreigabe wird jede Anordnung durch Eingabe des Anordnungsbetrages und mit anschließender elektronischer Signatur durch die Anordnungsbefugte oder den Anordnungsbefugten freigegeben. Elektronische Anordnungen müssen bei folgenden Schwellenwerten einzeln freigegeben werden:
 – Auszahlungsanordnungen ab 5 000 EUR,
 – Annahmeanordnungen ab 10 000 EUR sowie
 – alle Zahlungsanordnungen mit geringeren Beträgen, die das HVS mithilfe eines Stichprobenverfahrens
 ermittelt und zur Einzelfreigabe vorgibt.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 9
-Eine pauschale Freigabe kann bei Anordnungen erfolgen, die nicht der Einzelfreigabe bedürfen. Hier ent-
-scheidet die oder der Anordnungsbefugte, ob die Freigabe einzeln oder pauschal erfolgen soll.
+Eine pauschale Freigabe kann bei Anordnungen erfolgen, die nicht der Einzelfreigabe bedürfen. Hier entscheidet die oder der Anordnungsbefugte, ob die Freigabe einzeln oder pauschal erfolgen soll.
 Nicht freigegebene Belege werden seitens des KC-HWS gelöscht. Eine Meldung über eine anstehende
 Löschung erfolgt über die Systemmeldung im HVS.
 10. Journalisierung
 Freigegebene Stapel werden zweimal täglich automatisch journalisiert. Eine manuelle Journalisierung ist
 ausschließlich durch Feststellerinnen/Feststeller für die von ihnen erfassten Buchungsstapel möglich.
 Mit der Journalisierung der freigegebenen Anordnung erfolgen Einträge in die Zeit- und Sachbücher.
-Nach einer Journalisierung können Anordnungen nur durch eine elektronische Änderungsanordnung ge-
-ändert werden.
+Nach einer Journalisierung können Anordnungen nur durch eine elektronische Änderungsanordnung geändert werden.
 Die Dienststellen haben sich in regelmäßigen Abständen zu vergewissern, dass alle Stapel journalisiert
 worden sind. Bei nicht journalisierten Stapeln ist eine Journalisierung ggf. mithilfe des Kompetenzcenters für
 das Haushaltswirtschaftssystem (KC-HWS) nachzuholen.
@@ -386,21 +302,14 @@ Auswahl dieses Ursprungsbelegs in der Änderungsanordnung gewährleistet.
 Hinweise zur Änderung einer Anordnung sind auf der Intranetseite des MF (Pfad: HWS > Anleitungen >
 Kurzanleitungen für das HWS- System) veröffentlicht.
 12. Sollanpassung bei vorläufigen Anordnungsbeträgen
-Bei Auszahlungsanordnungen (z. B. für Auszahlungen im Lastschrifteinzug) und bei Annahmeanordnun-
-gen (z. B. Allgemeine Anordnungen oder mehrere Einzahler auf ein Kassenzeichen), die mit vorläufigen An-
-ordnungsbeträgen (z. B. 0,00 EUR) erfasst sind, müssen regelmäßig – spätestens zum Kassenschluss (Be-
-zugserlass zu b) – die endgültigen Anordnungsbeträge erfasst werden (Sollzugang durch Änderungsanord-
-nung).
+Bei Auszahlungsanordnungen (z. B. für Auszahlungen im Lastschrifteinzug) und bei Annahmeanordnungen (z. B. Allgemeine Anordnungen oder mehrere Einzahler auf ein Kassenzeichen), die mit vorläufigen Anordnungsbeträgen (z. B. 0,00 EUR) erfasst sind, müssen regelmäßig – spätestens zum Kassenschluss (Bezugserlass zu b) – die endgültigen Anordnungsbeträge erfasst werden (Sollzugang durch Änderungsanordnung).
 13. Zahlungen (VV Nr. 3 zu §§ 70 bis 72 und 74 bis 80 LHO)
 13.1 Aufrechnung von Forderungen durch eine Dienststelle
 Ergänzend zur VV Nr. 3.1.6 zu §§ 70 bis 72 und 74 bis 80 LHO ist Folgendes zu beachten:
-Hat eine Dienststelle des Landes eine Zahlung an eine Empfangsberechtigte oder einen Empfangsberechtig-
-ten zu leisten, gegen den sie eine fällige Forderung hat, ist, soweit die Aufrechnungslage bekannt ist, gegen
+Hat eine Dienststelle des Landes eine Zahlung an eine Empfangsberechtigte oder einen Empfangsberechtigten zu leisten, gegen den sie eine fällige Forderung hat, ist, soweit die Aufrechnungslage bekannt ist, gegen
 den Anspruch der oder des Empfangsberechtigten auf den auszuzahlenden Betrag aufzurechnen. Mit künftig
-fällig werdenden Forderungen kann gegen den Anspruch auf den auszuzahlenden Betrag aufgerechnet wer-
-den, wenn die oder der Empfangsberechtigte zustimmt. Eine Zustimmung wird vermutet, wenn die Forderung,
-mit der aufgerechnet werden soll, innerhalb eines Monats nach dem Zeitpunkt fällig wird, an dem die Auszah-
-lung zu leisten ist. Sind an der Abwicklung einer Aufrechnung zwei anordnende Dienststellen beteiligt, hat
+fällig werdenden Forderungen kann gegen den Anspruch auf den auszuzahlenden Betrag aufgerechnet werden, wenn die oder der Empfangsberechtigte zustimmt. Eine Zustimmung wird vermutet, wenn die Forderung,
+mit der aufgerechnet werden soll, innerhalb eines Monats nach dem Zeitpunkt fällig wird, an dem die Auszahlung zu leisten ist. Sind an der Abwicklung einer Aufrechnung zwei anordnende Dienststellen beteiligt, hat
 grundsätzlich die Stelle die Aufrechnung zu erklären, die die Auszahlung anzuordnen hat.
 Ist eine Zahlungspflichtige oder ein Zahlungspflichtiger (Schuldnerin oder Schuldner) mit einer Zahlung an
 eine Dienststelle des Landes im Rückstand und ist dieser bekannt, dass sie oder er einen Anspruch gegen
@@ -412,7 +321,6 @@ Die in VV Nr. 3.4 zu §§ 70 bis 72 und 74 bis 80 LHO dargestellten Kartenzahlun
 (vormals EC-Karte) und Kreditkarten. Elektronische Zahlungssysteme sind Online- Bezahlverfahren (z. B.
 Paypal, Giropay, Paydirekt). Im Einzelnen wird auf den Bezugserlass zu c verwiesen.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 10
 13.3 Kassentitel und sonstige bewirtschaftende Titel
 Kassentitel und sonstige bewirtschaftende Titel sind Haushaltsstellen, die nur kassenmäßig abgebildet
 werden und im HWS als „nicht planmäßige Titel“ für:
@@ -427,8 +335,7 @@ im MF werden dienststellenbezogene Verwahrtitel durch die LHK eingerichtet.
 Sonstige Verwahrtitel werden auf formlosen Antrag des BfdH der Dienststelle an die E-Mail-Adresse
 lhk@mf.niedersachen.de eingerichtet.
 Die für die Aufklärung von Verwahrungen notwendigen Umbuchungen und Rückzahlungen sind zeitnah
-(innerhalb von sechs Wochen) als „Interne Aufträge“ abzuwickeln. Rückzahlungen unterliegen dem „Vier-Au-
-gen-Prinzip“ und müssen demzufolge wie Kassenanordnungen von einem oder einer Anordnungsbefugten
+(innerhalb von sechs Wochen) als „Interne Aufträge“ abzuwickeln. Rückzahlungen unterliegen dem „Vier-Augen-Prinzip“ und müssen demzufolge wie Kassenanordnungen von einem oder einer Anordnungsbefugten
 freigegeben werden.
 Im Einzelnen wird auf den Bezugserlass zu d verwiesen.
 13.3.2 Vorschüsse (VV Nr. 3.9 zu §§ 70 bis 72 und 74 bis 80 LHO)
@@ -438,32 +345,21 @@ Sonstige Vorschusstitel werden auf formlosen Antrag des BfdH der Dienststelle an
 lhk@mf.niedersachen.de eingerichtet.
 Die für die Aufklärung von Vorschüssen notwendigen Umbuchungen sind zeitnah als „Interne Aufträge“
 abzuwickeln.
-Bei Vorschüssen, denen Lastschrifteinzüge zugrunde liegen, ist unverzüglich die Rechtmäßigkeit des Ein-
-zugs zu prüfen. Bei Vorliegen unberechtigter Lastschrifteinzüge ist unverzüglich die LHK (lhk-buchfueh-
-rung@mf.niedersachsen.de Tel. 0511 120-8534 oder -8540) zu informieren, damit von hier einer unberechtig-
-ten Lastschrift widersprochen und der Betrag zurückgefordert wird.
+Bei Vorschüssen, denen Lastschrifteinzüge zugrunde liegen, ist unverzüglich die Rechtmäßigkeit des Einzugs zu prüfen. Bei Vorliegen unberechtigter Lastschrifteinzüge ist unverzüglich die LHK (lhk-buchfuehrung@mf.niedersachsen.de Tel. 0511 120-8534 oder -8540) zu informieren, damit von hier einer unberechtigten Lastschrift widersprochen und der Betrag zurückgefordert wird.
 Im Einzelnen wird auf den Bezugserlass zu e verwiesen.
 13.3.3 Nebenverwaltungen- Selbstbewirtschaftungsmittel
-Gemäß § 15 Abs. 2 LHO können Ausgabeansätze im Haushaltsplan zur Selbstbewirtschaftung veran-
-schlagt werden, wenn dadurch eine wirtschaftliche und sparsame Mittelverwendung gefördert wird. Die ent-
-sprechenden Ausgabeermächtigungen werden dann an die Kassentitel ausgezahlt und dort – auch überjäh-
-rig – bewirtschaftet.
-Titel für Selbstbewirtschaftungsmittel werden – auf formlosen Antrag der BfdH der obersten Landesbehör-
-den – über das zuständige Spiegelreferat beim MF durch die LHK eingerichtet.
+Gemäß § 15 Abs. 2 LHO können Ausgabeansätze im Haushaltsplan zur Selbstbewirtschaftung veranschlagt werden, wenn dadurch eine wirtschaftliche und sparsame Mittelverwendung gefördert wird. Die entsprechenden Ausgabeermächtigungen werden dann an die Kassentitel ausgezahlt und dort – auch überjährig – bewirtschaftet.
+Titel für Selbstbewirtschaftungsmittel werden – auf formlosen Antrag der BfdH der obersten Landesbehörden – über das zuständige Spiegelreferat beim MF durch die LHK eingerichtet.
 13.3.4 Sonderhaushalte
 Ermächtigungen für die Einrichtung von Sonderhaushalten ergeben sich durch Haushaltsplan oder durch
 ein Gesetz.
 Das Kapitel wird auf Antrag der BfdH der obersten Landesbehörden durch das zuständige Spiegelreferat
-beim MF eingerichtet. Danach kann das Ressort die dazugehörigen Titel über das Antragsverfahren des Haus-
-haltsführungssystems einrichten. Die LHK ist zu beteiligen.
+beim MF eingerichtet. Danach kann das Ressort die dazugehörigen Titel über das Antragsverfahren des Haushaltsführungssystems einrichten. Die LHK ist zu beteiligen.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 11
 13.4 Rückzahlungen von Überzahlungen
-Überzahlungen auf Kassenzeichen/Vorgangskonten sind ausschließlich mit „Internen Aufträgen“ abzuwi-
-ckeln; die Verwendung von Auszahlungsanordnungen ist hierbei nicht zulässig.
+Überzahlungen auf Kassenzeichen/Vorgangskonten sind ausschließlich mit „Internen Aufträgen“ abzuwickeln; die Verwendung von Auszahlungsanordnungen ist hierbei nicht zulässig.
 Bei der Erfassung steht im HVS nur das beschreibbare Feld „Verwendungszweck“ zur Verfügung, in das
-für die Empfängerin oder den Empfänger maßgebliche Angaben einzutragen oder Vorblendungen entspre-
-chend zu überschreiben sind.
+für die Empfängerin oder den Empfänger maßgebliche Angaben einzutragen oder Vorblendungen entsprechend zu überschreiben sind.
 Rückzahlungen unterliegen dem „Vier-Augen- Prinzip“ und müssen demzufolge wie Kassenanordnungen
 freigegeben werden.
 13.5 Irrtümliche Einzahlungen
@@ -473,8 +369,7 @@ Beträge, die für eine andere juristische Person des öffentlichen Rechts besti
 Auftrag“ weitergeleitet werden.
 Eine Auszahlung an Dritte (Personen oder Unternehmen) ist nicht zulässig.
 13.6 Doppelzahlungen
-Durch geeignete Maßnahmen – insbesondere durch eine konsequente Belegentwertung – ist sicherzustel-
-len, dass Doppelzahlungen vermieden bzw. entdeckt und die Beträge zurückgefordert werden.
+Durch geeignete Maßnahmen – insbesondere durch eine konsequente Belegentwertung – ist sicherzustellen, dass Doppelzahlungen vermieden bzw. entdeckt und die Beträge zurückgefordert werden.
 13.7 Regelmäßige Überwachung der „Offene- Posten- Liste“
 Die Überwachung von fälligen Annahme- und Auszahlungsanordnungen erfolgt im HVS. Die anordnenden
 Dienststellen sind gehalten, diese regelmäßig über die Session „Offene Posten – alle Annahmeanordnungen“
@@ -493,14 +388,12 @@ informiert.
 Alle in Betracht kommenden Bediensteten sind durch die BfdH auf die Beachtung der haushaltsrechtlichen
 Vorschriften und sonstigen Bestimmungen ausdrücklich hinzuweisen.
 Landesbedienstete, die dem Land vorsätzlich oder grob fahrlässig einen Schaden zufügen, müssen damit
-rechnen, zum Ersatz eines durch ihr Unterlassen (z. B. Verletzung der Aufsichtspflicht) oder ihr Handeln ent-
-standenen Schadens herangezogen zu werden.
+rechnen, zum Ersatz eines durch ihr Unterlassen (z. B. Verletzung der Aufsichtspflicht) oder ihr Handeln entstandenen Schadens herangezogen zu werden.
 16. Einzahlung von Bargeld
 Ergänzend zu Nummer 2.1 der Anlage 1 zu VV Nr. 3.1 zu §§ 70 bis 72 und 74 bis 80 LHO wird für die
 Einzahlung von Bargeld auf die Hinweise der LHK auf der MF-Intranetseite (Pfad: HWS > Landeshauptkasse
 > HWS- Dokumente der LHK) verwiesen.
 
-Nds. MBl. 2024 Nr. 144 vom 22. März 2024 Seite 12
 17. Abrechnung Handvorschuss
 Nach Nummer 14.7 der Anlage 2 zu VV Nr. 6.1 zu §§ 70 bis 72 und 74 bis 80 LHO hat die Verwalterin oder
 der Verwalter eines Handvorschusses bei Bedarf, mindestens jedoch zum Jahresabschluss die Belege über

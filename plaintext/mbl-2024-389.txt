@@ -18,10 +18,7 @@ Anlage
 
 Jahresabschluss des Klinischen Krebsregisters Niedersachsen
 für das Haushaltsjahr 2023
-Das Klinische Krebsregister Niedersachsen (KKN) wurde am 0 1.12.2017 als selbständige Anstalt des öf-
-fentlichen Rechts in Trägerschaft des Landes Niedersachsen gegründet. Die Haushaltsführung des KKN er-
-folgt nach den Grundsätzen der LHO. Gemäß § 12 Abs. 2 der Satzung der Anstalt öffentlichen Rechts Klini-
-sches Krebsregister Niedersachsen (KKN) ist der Jahresabschluss bekannt zu geben.
+Das Klinische Krebsregister Niedersachsen (KKN) wurde am 0 1.12.2017 als selbständige Anstalt des öffentlichen Rechts in Trägerschaft des Landes Niedersachsen gegründet. Die Haushaltsführung des KKN erfolgt nach den Grundsätzen der LHO. Gemäß § 12 Abs. 2 der Satzung der Anstalt öffentlichen Rechts Klinisches Krebsregister Niedersachsen (KKN) ist der Jahresabschluss bekannt zu geben.
 Titel Zweckbestimmung Haushaltsansatz
 2023
 Ergebnis
@@ -39,7 +36,6 @@ Differenz
 3 303 000,00 EUR
 2 772 882,49 EUR – 530 117,51 EUR
 
-Nds. MBl. 2024 Nr. 389 vom 5. September 2024 Seite 2
 Titel Zweckbestimmung Haushaltsansatz
 2023
 Ergebnis
@@ -49,8 +45,7 @@ Differenz
 361 01 Übertrag aus Vorjahr 8 500 000,00 EUR 8 926 676,63 EUR 426 676,63 EUR
 Summe der Einnahmen 14 652 000,00 EUR 14 736 824,69 EUR 84 824,69 EUR
 
-427 01 Beschäftigungsentgelte an Ver-
-tretungs- u. Aushilfskräfte
+427 01 Beschäftigungsentgelte an Vertretungs- u. Aushilfskräfte
 52 000,00 EUR 32 004,92 EUR – 19 995,08 EUR
 428 01 Entgelte der Arbeitnehmer
 (Beschäftigte)
@@ -84,19 +79,16 @@ Verwaltungsaufgaben
 9 000,00 EUR
 3 837,09 EUR – 5 162,91 EUR
 
-Nds. MBl. 2024 Nr. 389 vom 5. September 2024 Seite 3
 Titel Zweckbestimmung Haushaltsansatz
 2023
 Ergebnis
 2023
 Differenz
 547 05 Kosten des Personalrats 18 000,00 EUR 7 492,27 EUR – 10 507,73 EUR
-547 06 Kosten der Gleichstellungsbe-
-auftragten
+547 06 Kosten der Gleichstellungsbeauftragten
 4 000,00 EUR 640,15 EUR – 3 359,85 EUR
 671 01 Meldevergütungen 3 429 000,00 EUR 2 824 524,00 EUR – 604 476,00 EUR
-671 02 Erstattungen für länderüber-
-greifende Kooperationen
+671 02 Erstattungen für länderübergreifende Kooperationen
 12 000,00 EUR 8 187,44 EUR – 3 812,56 EUR
 681 01 Schadensersatzleistungen und Unfallentschädigungen
 2 000,00 EUR

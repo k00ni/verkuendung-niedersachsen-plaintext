@@ -19,17 +19,12 @@ Die Indikation „ Abmagerungsmittel (zentral wirkend)“ wird wie folgt geände
 Nach den Wirkstoffen
 „A 08 AX 02
 Liraglutid
-A 10 BJ 02 (gilt nur bei der An-
-wendung zur Gewichtsreduk-
-tion)
+A 10 BJ 02 (gilt nur bei der Anwendung zur Gewichtsreduktion)
 Saxenda“
 werden die Wirkstoffe
 „A 08 AX 03
-Semaglutid (gilt nur bei der An- wendung zur Gewichtsreduk-
-tion)
-A 10 BJ 06 (gilt nur bei der An-
-wendung zur Gewichtsreduk-
-tion)
+Semaglutid (gilt nur bei der An- wendung zur Gewichtsreduktion)
+A 10 BJ 06 (gilt nur bei der Anwendung zur Gewichtsreduktion)
 Wegovy“
 eingefügt.
 

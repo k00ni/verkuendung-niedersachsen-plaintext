@@ -12,8 +12,7 @@ RdErl. d. MF v. 31.01.20 24 – VD3–03540/01/045 –
 – VORIS 20444 –
 
 Im Vorgriff auf eine beabsichtigte Änderung des § 45 Abs. 1 NBhVO wird Folgendes geregelt:
-1. Ist ein verordnetes Arzneimittel in der verordneten Packungsgröße nicht verfügbar und erfolgt auf-
-grund dessen durch die Apotheke ein Austausch gegen mehrere Packungen mit geringerer Packungsgröße,
+1. Ist ein verordnetes Arzneimittel in der verordneten Packungsgröße nicht verfügbar und erfolgt aufgrund dessen durch die Apotheke ein Austausch gegen mehrere Packungen mit geringerer Packungsgröße,
 so mindern sich die beihilfefähigen Aufwendungen nur einmalig um den Eigenbehalt nach § 45 Abs. 1 Satz 1
 Nr. 1 NBhVO, der der Packungsgröße der verordneten Menge entspricht; dies gilt auch bei der Abgabe einer
 Teilmenge aus einer Packung.

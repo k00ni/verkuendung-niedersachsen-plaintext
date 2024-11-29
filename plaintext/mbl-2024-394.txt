@@ -19,5 +19,4 @@ Ereignis festzulegen. Die Festlegung erfolgte aufgrund eines Erdbebens am 25.03.
 bei Syke, Landkreis Diepholz, unter Hinzuziehung des Niedersächsischen Erdbebendienstes.
 Der Einwirkungsbereich ist dem Betrieb Production Gas Weser Ems West der BEB Erdgas und Erdöl
 GmbH & Co. KG zuzurechnen, die Ausdehnung kann der Anlage entnommen werden.
-Weitere Informationen sind auf der Homepage des LBEG unter https://lbeg.info/?pgId=257&WilmaLogo-
-nActionBehavior=Default einzusehen.
+Weitere Informationen sind auf der Homepage des LBEG unter https://lbeg.info/?pgId=257&WilmaLogonActionBehavior=Default einzusehen.

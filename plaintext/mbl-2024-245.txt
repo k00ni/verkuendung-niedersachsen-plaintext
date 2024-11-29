@@ -20,28 +20,20 @@ Rinder im Rahmen einer Bestandsbegehung von Amts wegen zu erfassen und entsprech
 zu kategorisieren.
 Da für die Ermittlung des gemeinen Wertes das Gewicht der Tiere ein bestimmender Faktor ist, ist das
 Gewicht der Tiere durch Wägung zu bestimmen.
-Der aktuelle Schlachtwert bildet, außer in den Fällen nach Nummer 5.6, die unterste Grenze für den ge-
-meinen Wert.
-Auf die Nutzung der Rinderdatenbank zur Ermittlung der Anzahl der Rinder und anderer schätzungsrele-
-vanter Parameter wird hingewiesen. Auf der Grundlage dieser Bestandserfassung ist der gemeine Wert wie
+Der aktuelle Schlachtwert bildet, außer in den Fällen nach Nummer 5.6, die unterste Grenze für den gemeinen Wert.
+Auf die Nutzung der Rinderdatenbank zur Ermittlung der Anzahl der Rinder und anderer schätzungsrelevanter Parameter wird hingewiesen. Auf der Grundlage dieser Bestandserfassung ist der gemeine Wert wie
 folgt zu ermitteln:
 1. Ermittlung des gemeinen Wertes von Zuchtrindern (ohne Fleischrinder)
 1.1 Gemeiner Wert
-Der gemeine Wert von weiblichen Zuchtrindern (Nummern 1.2 bis 1.8) der Milchrassen setzt sich zusam-
-men aus einem Grundbetrag nach Nummer 1.2, dem Exterieur-Zuschlag nach Nummer 1.3, bei Jungrindern
-einem Gesamtzuchtwert (RZG)-Zuschlag nach Nummer 1.4, bei trächtigen Tieren einem Trächtigkeits -Zu-
-schlag nach Nummer 1.5, einem Zuschlag oder Abschlag für die Eiweißleistung nach Nummer 1.6, einer al-
-tersbedingten Wertminderung nach Nummer 1.7 und ggf. einem Qualitäts-Abschlag nach Nummer 5.6.
+Der gemeine Wert von weiblichen Zuchtrindern (Nummern 1.2 bis 1.8) der Milchrassen setzt sich zusammen aus einem Grundbetrag nach Nummer 1.2, dem Exterieur-Zuschlag nach Nummer 1.3, bei Jungrindern
+einem Gesamtzuchtwert (RZG)-Zuschlag nach Nummer 1.4, bei trächtigen Tieren einem Trächtigkeits -Zuschlag nach Nummer 1.5, einem Zuschlag oder Abschlag für die Eiweißleistung nach Nummer 1.6, einer altersbedingten Wertminderung nach Nummer 1.7 und ggf. einem Qualitäts-Abschlag nach Nummer 5.6.
 1.2 Grundbetrag
 Der Grundbetrag ist für Zuchtrinder der Milchrassen anhand des Durchschnitts der Zuschlagspreise der
-letzten drei Auktionstage in Niedersachsen für abgekalbte Färsen vor dem Schadensfall von der Tierseuchen-
-kasse zu ermitteln und festzulegen.
+letzten drei Auktionstage in Niedersachsen für abgekalbte Färsen vor dem Schadensfall von der Tierseuchenkasse zu ermitteln und festzulegen.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 2
 1.3 Exterieur-Zuschlag
 Der Exterieur-Zuschlag für Herdbuchkühe ist anhand der nachgewiesenen Einstufungen als prozentualer
-Zuschlag auf den Grundbetrag nach Nummer 1.2 in Höhe von maximal 20 % bei einer Einstufung ab 85 Punk-
-ten festzulegen.
+Zuschlag auf den Grundbetrag nach Nummer 1.2 in Höhe von maximal 20 % bei einer Einstufung ab 85 Punkten festzulegen.
 Für abgekalbte Färsen ohne eigene Einstufung ist die Einstufung des Muttertieres zugrunde zu legen.
 Dabei berechnet sich die Höhe des Exterieur-Zuschlags wie folgt:
 Einstufung ab 85 Punkte: 5 %
@@ -70,36 +62,22 @@ Kosten für Embryonen über 250 EUR werden dabei nur anerkannt, wenn eine besteh
 eine tierärztliche Untersuchung bestätigt wurde und eine entsprechende Bescheinigung hierüber vorgelegt
 wird.
 1.6 Zuschlag oder Abschlag für Eiweißleistung
-Grundsätzlich ist die durch externe Milchkontrolle nachgewiesene letzte, abgeschlossene 305- Tage- Ei-
-weißleistung des einzelnen, laktierenden Rindes für die Wertermittlung heranzuziehen. Liegt keine Einzelleis-
-tung vor, so ist die durch Milchkontrolle nachgewiesene durchschnittliche letzte 305- Tage- Eiweißleistung der
+Grundsätzlich ist die durch externe Milchkontrolle nachgewiesene letzte, abgeschlossene 305- Tage- Eiweißleistung des einzelnen, laktierenden Rindes für die Wertermittlung heranzuziehen. Liegt keine Einzelleistung vor, so ist die durch Milchkontrolle nachgewiesene durchschnittliche letzte 305- Tage- Eiweißleistung der
 Herde heranzuziehen.
-Die so ermittelte 305- Tage- Eiweißleistung wird mit der durchschnittlichen 305- Tage- Eiweißleistung in Nie-
-dersachsen verglichen, die einmal jährlich auf der Grundlage der Vorjahresergebnisse der Landeskontrollver-
-bände ermittelt und auf der Internetseite der Tierseuchenkasse bekannt gegeben wird.
+Die so ermittelte 305- Tage- Eiweißleistung wird mit der durchschnittlichen 305- Tage- Eiweißleistung in Niedersachsen verglichen, die einmal jährlich auf der Grundlage der Vorjahresergebnisse der Landeskontrollverbände ermittelt und auf der Internetseite der Tierseuchenkasse bekannt gegeben wird.
 Für je ein kg Mehr- oder Minderleistung ist ein Zuschlag oder Abschlag von 4 EUR zu berechnen.
 Erfolgt keine Milchkontrolle, kann in Ausnahmefällen und nach Absprache mit der Tierseuchenkasse aus
 der nachweislich an die Molkerei abgelieferten Eiweißmenge in den dem Schadensfall vorangegangenen zwölf
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 3
 Monaten und der Zahl der durchschnittlich in diesem Zeitraum gehaltenen weiblichen Rinder älter 26 Monate
-die durchschnittliche 365- Tage- Eiweißleistung der Herde errechnet werden. Bei der Ermittlung der durch-
-schnittlich in diesem Zeitraum gehaltenen weiblichen Rinder älter 26 Monate sind Trockensteher, die vorüber-
-gehend unter einer anderen Betriebsstätte gemeldet sind, mit zu zählen. Die errechnete 365- Tage- Eiweißleis-
-tung wird dann zur weiteren Berechnung des Zu- oder Abschlags mit der durchschnittlichen 365- Tage- Eiweiß-
-leistung verglichen, die auf der Grundlage der Vorjahresergebnisse des Landeskontrollverbandes Niedersach-
-sen ermittelt wurde.
-Milchleistungsdaten aus Melkrobotern können bei fehlender Milchkontrolle als Nachweis für die Milchleis-
-tung anerkannt werden, sofern sie die geforderte Eiweißleistung nachweisen und von der zuständigen Be-
-hörde entsprechend interpretiert und als sachlich richtig abgezeichnet wurden.
+die durchschnittliche 365- Tage- Eiweißleistung der Herde errechnet werden. Bei der Ermittlung der durchschnittlich in diesem Zeitraum gehaltenen weiblichen Rinder älter 26 Monate sind Trockensteher, die vorübergehend unter einer anderen Betriebsstätte gemeldet sind, mit zu zählen. Die errechnete 365- Tage- Eiweißleistung wird dann zur weiteren Berechnung des Zu- oder Abschlags mit der durchschnittlichen 365- Tage- Eiweißleistung verglichen, die auf der Grundlage der Vorjahresergebnisse des Landeskontrollverbandes Niedersachsen ermittelt wurde.
+Milchleistungsdaten aus Melkrobotern können bei fehlender Milchkontrolle als Nachweis für die Milchleistung anerkannt werden, sofern sie die geforderte Eiweißleistung nachweisen und von der zuständigen Behörde entsprechend interpretiert und als sachlich richtig abgezeichnet wurden.
 Werden keine unabhängigen Belege zum Nachweis der Eiweißleistung vorgelegt, wird der gemeine Wert
-mit einer fiktiven 305- Tage- Eiweißleistung von 175 kg berechnet. Dabei bildet der aktuelle Schlachtwert (Han-
-delsklasse O3 und Ausschlachtungsfaktor 0,52) die untere Grenze für den verbleibenden Wert des Tieres.
+mit einer fiktiven 305- Tage- Eiweißleistung von 175 kg berechnet. Dabei bildet der aktuelle Schlachtwert (Handelsklasse O3 und Ausschlachtungsfaktor 0,52) die untere Grenze für den verbleibenden Wert des Tieres.
 Für abgekalbte Färsen, die noch keine eigene abgeschlossene 305- Tage- Eiweißleistung haben, ist die
 305-Tage- Eiweißleistung des Muttertieres zugrunde zu legen. Fehlt der Leistungsnachweis der Mutter, ist die
 durch Milchkontrolle nachgewiesene durchschnittliche letzte 305- Tage- Eiweißleistung der Herde zu nutzen.
-Der Zu- oder Abschlag für die abgekalbte Färse beträgt 3 EUR je ein kg Differenz zu den o. g. Durch-
-schnittseiweißleistungen in Niedersachsen.
+Der Zu- oder Abschlag für die abgekalbte Färse beträgt 3 EUR je ein kg Differenz zu den o. g. Durchschnittseiweißleistungen in Niedersachsen.
 1.7 Altersbedingte Wertminderung
 Vom Grundbetrag sind in Abhängigkeit von der Nutzungsdauer folgende Abschläge abzuziehen:
 – ab dem 5. bis zum 7. Lebensjahr jährlich 10 % des Grundbetrages nach Nummer 1.2,
@@ -127,14 +105,11 @@ Der Zuschlag kann nur berücksichtigt werden, sofern dem Muttertier ein Exterieu
 zugestanden hätte.
 E = Zuschlag für Eiweißleistung des Muttertieres nach Nummer 1.6.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 4
 Für weibliche Nachzuchtkälber und Jungrinder ist die 305- Tage- Eiweißleistung des Muttertieres zugrunde
-zu legen. Fehlt der Leistungsnachweis der Mutter, ist die durch Milchkontrolle nachgewiesene durchschnittli-
-che letzte 305- Tage- Eiweißleistung der Herde zu nutzen.
+zu legen. Fehlt der Leistungsnachweis der Mutter, ist die durch Milchkontrolle nachgewiesene durchschnittliche letzte 305- Tage- Eiweißleistung der Herde zu nutzen.
 Ansonsten sind die in Nummer 1.6 beschriebenen Verfahren anzuwenden.
 Der Zu- oder Abschlag bezüglich der Eiweißleistung beträgt für diese Tiere 3 EUR je ein kg Differenz zu
-der unter Nummer 1.6 Abs. 2 genannten 305- Tage- Eiweißleistung in Niedersachsen bzw. zu der unter Num-
-mer 1.6 Abs. 4 Sätze 1 und 2 genannten 365- Tage- Eiweißleistung bei Nutzung der Molkereiabrechnungen.
+der unter Nummer 1.6 Abs. 2 genannten 305- Tage- Eiweißleistung in Niedersachsen bzw. zu der unter Nummer 1.6 Abs. 4 Sätze 1 und 2 genannten 365- Tage- Eiweißleistung bei Nutzung der Molkereiabrechnungen.
 RZG-Zuschlag = Zuschlag für weibliche Jungrinder nach Nummer 1.4.
 Bei tragenden Jungrindern wird zusätzlich der Trächtigkeits -Zuschlag nach Nummer 1.5 gewährt.
 1.9 Zuchtbullen
@@ -151,12 +126,9 @@ Ab 1 095 Tagen Nutzung ist der gemeine Wert mit dem Schlachtwert identisch.
 Für nicht gekörte Jungbullen ist der gemeine Wert nach Nummer 1. 10 zu ermitteln.
 Für Bullen einer Besamungsstation gilt Nummer 5.4.
 1.10 Männliche Nachzuchtkälber und nicht gekörte Jungbullen (bis 14 Monate)
-Hierbei handelt es sich um männliche Rinder, die zum Einsatz als gekörte Deckbullen in Rinderzuchtbe-
-trieben bestimmt, aber aufgrund ihres Alters noch nicht gekört sind.
-Der zur Wertermittlung genutzte Grundbetrag (G) entspricht dem Durchschnitt der Zuschlagspreise für Bul-
-len der letzten drei Auktionstage aller niedersächsischen Auktionsplätze.
-Der gemeine Wert setzt sich zusammen aus einem Neugeborenenwert und einem Alterszuschlag pro an-
-gef
+Hierbei handelt es sich um männliche Rinder, die zum Einsatz als gekörte Deckbullen in Rinderzuchtbetrieben bestimmt, aber aufgrund ihres Alters noch nicht gekört sind.
+Der zur Wertermittlung genutzte Grundbetrag (G) entspricht dem Durchschnitt der Zuschlagspreise für Bullen der letzten drei Auktionstage aller niedersächsischen Auktionsplätze.
+Der gemeine Wert setzt sich zusammen aus einem Neugeborenenwert und einem Alterszuschlag pro angef
 angenem Lebensmonat. Der Alterszuschlag wird nach folgender Formel berechnet:
 (G – 0,2 x G) x 0,75
 14 Monate
@@ -172,12 +144,10 @@ Abgekörte Bullen sind nach Nummer 3 zu bewerten.
 Vor der Wertermittlung hat anhand des Produktionszieles des Betriebes/Betriebszweiges eine Zuordnung
 zu der Tierkategorie nach Nummer 2.1, 2.2, 2.3 oder 2.4 zu erfolgen.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 5
 2.1 Kälber bis zu einem Alter von 29 Lebenstagen
 Der gemeine Wert von Kälbern bis zu einem Alter von 29 Tagen ist anhand der Preisfeststellung der LWK
 für ab Hof verkaufte Kälber zu ermitteln.
-Der Wert eines neugeborenen Kalbes am ersten Lebenstag beträgt bis zum 14. Lebenstag 50 % der Ab-
-Hof-Preisfeststellung für Kälber über 28 Tage und über 55 kg der LWK, mindestens aber 20 E UR. Ab dem 15.
+Der Wert eines neugeborenen Kalbes am ersten Lebenstag beträgt bis zum 14. Lebenstag 50 % der AbHof-Preisfeststellung für Kälber über 28 Tage und über 55 kg der LWK, mindestens aber 20 E UR. Ab dem 15.
 Lebenstag ist bis zu einem Alter von 29 Tagen ein Zuschlag je Lebenstag hinzuzurechnen.
 Der Zuschlag je Lebenstag wird aus der Differenz zwischen dem Wert A eines 14 Tage alten Kalbes und
 dem Wert B eines Kalbes ab dem 29. Lebenstag laut Notierung der Ab- Hof-Preisfeststellung für Kälber über
@@ -186,21 +156,17 @@ berechnet:
 
 (B – A) : 15 Tage = Zuschlag/Lebenstag ab dem 15. Lebenstag
 
-Bei der Wahl der Preisnotierung ist je nach Rasse zwischen „Schwarzbunte“, „Mastkreuzungen“ und „Weiß-
-Blaue Belgier Mastkreuzungen“ zu unterscheiden. Dabei ist die Notierung für die II. Qualität zu wählen.
+Bei der Wahl der Preisnotierung ist je nach Rasse zwischen „Schwarzbunte“, „Mastkreuzungen“ und „WeißBlaue Belgier Mastkreuzungen“ zu unterscheiden. Dabei ist die Notierung für die II. Qualität zu wählen.
 Die Notierung für die I. Qualität kann angewandt werden, wenn anhand von Verkaufsbelegen aus den
 vergangenen sechs Monaten vor dem Schaden belegt werden kann, dass das Gewicht der verkauften Kälber
 ab dem 29. Lebenstag über 65 kg betrug und dass eine höhere Notierung erreicht wurde.
-Ab einem Alter von 29 Tagen hat vor der Wertermittlung anhand des Produktionszieles des Betriebes/Be-
-triebszweiges eine Zuordnung zu einer Tierkategorie nach Nummer 2.2, 2.3 oder 2.4 zu erfolgen.
+Ab einem Alter von 29 Tagen hat vor der Wertermittlung anhand des Produktionszieles des Betriebes/Betriebszweiges eine Zuordnung zu einer Tierkategorie nach Nummer 2.2, 2.3 oder 2.4 zu erfolgen.
 2.2 Milchmastkälber
-Hierbei handelt es sich um Kälber, die aus dem Geburtsbetrieb in einen Kälbermastbetrieb verbracht wer-
-den und mit dem Ziel eines Endgewichtes von ca. 300 kg unter überwiegender Verfütterung von in der Regel
+Hierbei handelt es sich um Kälber, die aus dem Geburtsbetrieb in einen Kälbermastbetrieb verbracht werden und mit dem Ziel eines Endgewichtes von ca. 300 kg unter überwiegender Verfütterung von in der Regel
 Milchaustauschern endgemästet und dann geschlachtet werden.
 Der gemeine Wert von Kälbern bis zu einem Alter von 29 Tagen ist nach Nummer 2.1 zu ermitteln. Der
 gemeine Wert von Milchmastkälbern ab einem Alter von 29 Tagen ist anhand der Ab- Hof-Preisfeststellung für
-Kälber über 28 Tage und über 55 kg der LWK zu ermitteln. Ab dem 29. Lebenstag ist bis zu einem Lebendge-
-wicht von 300 kg ein Zuschlag je Kilo Gewichtszunahme hinzuzurechnen.
+Kälber über 28 Tage und über 55 kg der LWK zu ermitteln. Ab dem 29. Lebenstag ist bis zu einem Lebendgewicht von 300 kg ein Zuschlag je Kilo Gewichtszunahme hinzuzurechnen.
 Der Zuschlag je Kilo wird aus der Differenz zwischen dem Wert A eines über 28 Tage alten und 56 kg
 schweren Kalbes (II. Qualität) zu Beginn der Mast und dem Wert B des Kalbes zum Mastende mit einem
 Lebendgewicht von 300 kg und deren Division durch die Gewichtsdifferenz von 244 kg nach folgender Formel
@@ -208,9 +174,7 @@ berechnet:
 
 (B – A) : 244 kg = Zuschlag/kg ab 29. Lebenstag
 
-Der Wert B eines Kalbes mit 300 kg Lebendgewicht ergibt sich aus der Multiplikation der amtlichen Kalb-
-fleischnotierung mit dem Zielgewicht von 300 kg. Die Notierung nach Schlachtgewicht ist hierzu mit dem Aus-
-schlachtfaktor 0,6 auf Lebendgewicht umzurechnen. Bevorzugt sollte die amtliche Kalbfleischnotierung aus
+Der Wert B eines Kalbes mit 300 kg Lebendgewicht ergibt sich aus der Multiplikation der amtlichen Kalbfleischnotierung mit dem Zielgewicht von 300 kg. Die Notierung nach Schlachtgewicht ist hierzu mit dem Ausschlachtfaktor 0,6 auf Lebendgewicht umzurechnen. Bevorzugt sollte die amtliche Kalbfleischnotierung aus
 Niedersachsen genutzt werden. Steht diese nicht zur Verfügung, können auch Marktnotierungen aus anderen
 Bundesländern oder auch das Bundesmittel genutzt werden.
 Der gemeine Wert errechnet sich nach der Formel:
@@ -221,7 +185,6 @@ A
 244 kg
 x (Lebendgewicht ab 29.Lebenstag –56 kg)
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 6
 
 Mastkälber von mehr als 300 kg Lebendgewicht werden nach Nummer 3.1 oder Nummer 3.2 berechnet.
 2.3 Rosé- Mast
@@ -229,16 +192,14 @@ Hierbei handelt es sich um Kälber, die ab einem Alter von 29 Tagen ab 56 kg ode
 einem Gewicht von etwa 100 kg bis zu einem Endgewicht von etwa 320 kg und einem Ausschlachtfaktor von
 0,52 gemästet werden.
 Für Kälber bis einschließlich 100 kg ist der Wert wie in Nummer 2.2 zu berechnen.
-Über 100 kg bis zu einem Lebendgewicht von 320 kg ist ein Zuschlag je Kilo Gewichtszunahme hinzuzu-
-rechnen.
+Über 100 kg bis zu einem Lebendgewicht von 320 kg ist ein Zuschlag je Kilo Gewichtszunahme hinzuzurechnen.
 Der Zuschlag je Kilo wird aus der Differenz zwischen dem Wert A eines 100 kg schweren Starterkalbes
 und dem Wert B eines Kalbes zum Mastende mit einem Lebendgewicht von 320 kg und deren Division durch
 die Gewichtsdifferenz von 220 kg nach folgender Formel berechnet:
 
 (B – A) : 220 kg = Zuschlag/kg über 100 kg Lebendgewicht
 
-Der Wert eines Kalbes mit 320 kg Lebendgewicht ergibt sich aus der Multiplikation der amtlichen Kalb-
-fleischnotierung (siehe Nummer 2.2) abzüglich 0,75 EUR mit dem Zielgewicht von 320 kg. Die Notierung nach
+Der Wert eines Kalbes mit 320 kg Lebendgewicht ergibt sich aus der Multiplikation der amtlichen Kalbfleischnotierung (siehe Nummer 2.2) abzüglich 0,75 EUR mit dem Zielgewicht von 320 kg. Die Notierung nach
 Schlachtgewicht ist hierzu mit dem Ausschlachtfaktor 0,52 auf Lebendgewicht umzurechnen.
 Der gemeine Wert errechnet sich nach der Formel:
 
@@ -252,42 +213,32 @@ x (Lebendgewicht –100 kg)
 R
 osé-Mastkälber von mehr als 320 kg Lebendgewicht werden nach Nummer 3.2 berechnet.
 2.4 Fresser (Vormast bis 200 kg)
-Hierbei handelt es sich um Kälber, die mit dem Ziel einer Mast bis zu ca. 750 kg Lebendgewicht (bei weib-
-lichen Tieren bis ca. 650 kg Lebendgewicht) in einer vorgeschalteten Aufzuchtphase bis zu einem Körperge-
-wicht von ca. 200 kg vorgemästet werden und in der Regel für die Endmast in andere Betriebe verbracht
+Hierbei handelt es sich um Kälber, die mit dem Ziel einer Mast bis zu ca. 750 kg Lebendgewicht (bei weiblichen Tieren bis ca. 650 kg Lebendgewicht) in einer vorgeschalteten Aufzuchtphase bis zu einem Körpergewicht von ca. 200 kg vorgemästet werden und in der Regel für die Endmast in andere Betriebe verbracht
 werden.
-Als überwiegende Rassekategorien in der Fresseraufzucht lassen sich Fleckvieh, Braunvieh und milchbe-
-tonte Rassen unterscheiden.
+Als überwiegende Rassekategorien in der Fresseraufzucht lassen sich Fleckvieh, Braunvieh und milchbetonte Rassen unterscheiden.
 Kreuzungstiere (Fleisch x Fleisch) sind wie Fleckvieh zu berechnen.
 Kreuzungstiere (Fleisch x Milch) sind wie Braunvieh zu berechnen. Sofern es sich bei Kreuzungstieren
 (Fleisch x Milch) um „Weiß-Blaue Belgier Mastkreuzungen“ handelt, oder die Kreuzungstiere nach fachlicher
 Einschätzung der zuständigen Behörde dem Habitus eines Fleckviehs entsprechen, kann für diese Tiere in
-Absprache mit der Tierseuchenkasse der gemeine Wert unter Anwendung des durchschnittlichen Zuschlags-
-preises der Auktionsorte Weilheim/Oberbayern oder Miesbach für Fleckvieh berechnet werden.
+Absprache mit der Tierseuchenkasse der gemeine Wert unter Anwendung des durchschnittlichen Zuschlagspreises der Auktionsorte Weilheim/Oberbayern oder Miesbach für Fleckvieh berechnet werden.
 Fresser über 200 kg Lebendgewicht sind nach Nummer 3.1 zu bewerten.
 Bei Zweinutzungsrassen ist vom Wert eines 85 kg schweren Kalbes auszugehen. Für Fleckvieh ist der
 durchschnittliche Zuschlagspreis der Auktionsorte Weilheim/Oberbayern oder Miesbach, für Braunvieh ist der
 Zuschlagspreis der Allgäuer Erzeugergemeinschaft zugrunde zu legen. Befinden sich die Kälber weniger als
 15 Tage im Bestand, kann der Einkaufspreis gemäß den Einkaufsbelegen berücksichtigt werden.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 7
 Bei milchbetonten Rassen ist vom Wert eines Kalbes bis 65 kg (II. Qualität) der Ab- Hof-Preisfeststellung
 für Kälber über 28 Tage und über 55 kg Lebendgewicht der LWK auszugehen. Befindet sich das Kalb weniger
 als 15 Tage im Bestand, kann der Einkaufspreis gemäß den Einkaufsbelegen berücksichtigt werden.
-Der handelsübliche Grundpreis für Fleckvieh mit einem Lebendgewicht von 200 kg entspricht der in Ab-
-satz 6 Sätze 1 und 2 genannten jeweiligen Marktnotierung für 85 kg schwere Kälber plus einem Aufschlag von
+Der handelsübliche Grundpreis für Fleckvieh mit einem Lebendgewicht von 200 kg entspricht der in Absatz 6 Sätze 1 und 2 genannten jeweiligen Marktnotierung für 85 kg schwere Kälber plus einem Aufschlag von
 jeweils 345 EUR .
-Der handelsübliche Grundpreis für Braunvieh mit einem Lebendgewicht von 200 kg entspricht der in Ab-
-satz 6 Sätze 1 und 2 genannten jeweiligen Marktnotierung für 85 kg schwere Kälber plus einem Aufschlag von
+Der handelsübliche Grundpreis für Braunvieh mit einem Lebendgewicht von 200 kg entspricht der in Absatz 6 Sätze 1 und 2 genannten jeweiligen Marktnotierung für 85 kg schwere Kälber plus einem Aufschlag von
 jeweils 280 EUR.
 Bei milchbetonten Rassen entspricht der handelsübliche Grundpreis für Fresser mit einem Lebendgewicht
 von 200 kg der in Absatz 7 Satz 1 genannten jeweiligen Marktnotierung plus einem Aufschlag von jeweils
 260 EUR.
-Höhere Aufschläge für die zu schätzenden Tiere sind durch Abrechnungen der letzten sechs Monate nach-
-zuweisen. Dabei können Abrechnungen nur anerkannt werden, wenn die Tiere in der entsprechenden Ge-
-wichtsklasse von rd. 200 kg gehandelt wurden und die Ohrmarkennummer, das Lebendgewicht sowie der
-Handelspreis der Tiere auf den Abrechnungen notiert sind. Die in den Abrechnungen aufgeführten Tiere ent-
-sprechen dabei der Rasse der zu schätzenden Tiere.
+Höhere Aufschläge für die zu schätzenden Tiere sind durch Abrechnungen der letzten sechs Monate nachzuweisen. Dabei können Abrechnungen nur anerkannt werden, wenn die Tiere in der entsprechenden Gewichtsklasse von rd. 200 kg gehandelt wurden und die Ohrmarkennummer, das Lebendgewicht sowie der
+Handelspreis der Tiere auf den Abrechnungen notiert sind. Die in den Abrechnungen aufgeführten Tiere entsprechen dabei der Rasse der zu schätzenden Tiere.
 Der gemeine Wert für Fresser mit einem Lebendgewicht bis zu 200 kg errechnet sich nach der Formel:
 Zweinutzungsrassen:
 
@@ -309,8 +260,7 @@ x (kg-Lebendgewicht –65 kg)+65-kg-Preis
 Ermittlung des gemeinen Wertes von Mastrindern
 3.1 Mastrinder mit 201 bis 300 kg Lebendgewicht
 Der gemeine Wert für Mastrinder mit einem Lebendgewicht zwischen 201 und 300 kg berechnet sich aus
-dem handelsüblichen Grundpreis für Fresser mit 200 kg Lebendgewicht nach Nummer 2.4 und einem Auf-
-schlag für Mehrgewichte über 200 kg.
+dem handelsüblichen Grundpreis für Fresser mit 200 kg Lebendgewicht nach Nummer 2.4 und einem Aufschlag für Mehrgewichte über 200 kg.
 Für das Mehrgewicht zwischen 200 bis 300 kg ist je Kilogramm 1,40 EUR zu gewähren.
 3.2 Mastrinder mit 301 bis 750 kg Lebendgewicht (männlich) bzw. 301 kg bis 650 kg Lebendgewicht (weiblich)
 3.2.1 Männliche Mastrinder
@@ -322,12 +272,10 @@ nach der Formel:
 450
 x (kg-Lebendgewicht –300 kg)+300-kg-Preis
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 8
 Der 300- kg-Preis ist nach Nummer 3.1 zu berechnen.
 Der 750- kg-Preis ist nach Nummer 3.3.1 zu berechnen.
 3.2.2 Weibliche Mastrinder
-Bei Tieren aus der Färsenmast ist wegen des geringeren Mastendgewichtes (650 kg) folgende Berech-
-nungsformel zu nutzen:
+Bei Tieren aus der Färsenmast ist wegen des geringeren Mastendgewichtes (650 kg) folgende Berechnungsformel zu nutzen:
 
 6
 50-kg-Preis – 300-kg-Preis
@@ -338,14 +286,10 @@ D
 er 300- kg-Preis ist nach Nummer 3.1 zu berechnen.
 Der 650- kg-Preis ist nach Nummer 3.3.2 zu berechnen.
 3.3 Mastrinder Endmast
-Das Lebendgewicht der Tiere ist durch Wägung des Einzeltieres oder der Tiergruppe zu ermitteln. In be-
-gründeten Ausnahmefällen kann das Lebendgewicht geschätzt werden. In diesen Fällen ist im Entschädi-
-gungsantrag das Geburtsdatum des jeweiligen Tieres anzugeben.
+Das Lebendgewicht der Tiere ist durch Wägung des Einzeltieres oder der Tiergruppe zu ermitteln. In begründeten Ausnahmefällen kann das Lebendgewicht geschätzt werden. In diesen Fällen ist im Entschädigungsantrag das Geburtsdatum des jeweiligen Tieres anzugeben.
 3.3.1 Männliche Mastrinder über 750 kg Lebendgewicht
-Der gemeine Wert von männlichen Mastrindern mit einem Lebendgewicht über 750 kg ist nach der amtli-
-chen Preisnotierung für Rindfleisch zu ermitteln.
-Dabei ist je nach Rinderkategorie die durchschnittliche Preisnotierung für die in der folgenden Tabelle fest-
-gelegten Handelsklassen zugrunde zu legen.
+Der gemeine Wert von männlichen Mastrindern mit einem Lebendgewicht über 750 kg ist nach der amtlichen Preisnotierung für Rindfleisch zu ermitteln.
+Dabei ist je nach Rinderkategorie die durchschnittliche Preisnotierung für die in der folgenden Tabelle festgelegten Handelsklassen zugrunde zu legen.
 
 Rinderkategorie
 anzuwendende
@@ -353,38 +297,32 @@ Handelsklasse
 Ausschlachtfaktor
 Fleckvieh R2 0,57
 Braunvieh R3 0,56
-Zweinutzungsrassen und milch-
-betonte Rassen
+Zweinutzungsrassen und milchbetonte Rassen
 O3 0,54
 Charlois, Limousin und Blonde
 d‘Aquitaine
 U2 0,61
 
-Bessere Handelsklasseneinstufungen und Qualitätszuschläge können anteilig berücksichtigt werden, so-
-fern sie durch entsprechende Abrechnungen der letzten sechs Monate belegt werden.
+Bessere Handelsklasseneinstufungen und Qualitätszuschläge können anteilig berücksichtigt werden, sofern sie durch entsprechende Abrechnungen der letzten sechs Monate belegt werden.
 Die durchschnittlichen Preise je Kilogramm Schlachtgewicht werden je nach Handelsklasse mit dem in der
 in Absatz 2 stehenden Tabelle vorgegebenen Ausschlachtfaktor multipliziert. Der so errechnete Betrag ist als Preis/kg Lebendgewicht einzusetzen.
 3.3.2 Weibliche Mastrinder über 650 kg Lebendgewicht
 Der gemeine Wert von weiblichen Mastrindern mit einem Lebendgewicht über 650 kg ist nach der amtlichen
 Preisnotierung für Rindfleisch zu ermitteln.
-Dabei ist je nach Rinderkategorie die durchschnittliche Preisnotierung für die in der folgenden Tabelle fest-
-gelegten Handelsklassen zugrunde zu legen.
+Dabei ist je nach Rinderkategorie die durchschnittliche Preisnotierung für die in der folgenden Tabelle festgelegten Handelsklassen zugrunde zu legen.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 9
 Rinderkategorie anzuwendende
 Handelsklasse
 Ausschlachtfaktor
 Fleckvieh R3 0,55
 Braunvieh O3 0,55
-Zweinutzungsrassen und milch-
-betonte Rassen
+Zweinutzungsrassen und milchbetonte Rassen
 O3 0,52
 Charolais, Limousin und Blonde
 d’Aquitaine
 R3 0,57
 
-Bessere Handelsklasseneinstufungen und Qualitätszuschläge können anteilig berücksichtigt werden, so-
-fern sie durch entsprechende Abrechnungen der letzten sechs Monate belegt werden.
+Bessere Handelsklasseneinstufungen und Qualitätszuschläge können anteilig berücksichtigt werden, sofern sie durch entsprechende Abrechnungen der letzten sechs Monate belegt werden.
 Die durchschnittlichen Preise je Kilogramm Schlachtgewicht werden je nach Handelsklasse mit dem in der
 in Absatz 2 stehenden Tabelle vorgegebenen Ausschlachtfaktor multipliziert. Der so errechnete Betrag ist als
 Preis/kg Lebendgewicht einzusetzen.
@@ -398,8 +336,7 @@ trächtigen Tieren einem Trächtigkeits-Zuschlag nach Nummer 4.3, einem Zuchtwer
 nach Nummer 4.6.1.
 4.1.1.2 Gebrauchstiere (nicht eingetragen)
 Der gemeine Wert setzt sich zusammen aus einem rassespezifischen Grundbetrag nach Nummer 4.2, bei
-trächtigen Tieren einem Trächtigkeits-Zuschlag nach Nummer 4.3, ggf. einem Qualitätszuschlag nach Num-
-mer 4.5 und einer altersbedingten Wertminderung nach Nummer 4.6.1.
+trächtigen Tieren einem Trächtigkeits-Zuschlag nach Nummer 4.3, ggf. einem Qualitätszuschlag nach Nummer 4.5 und einer altersbedingten Wertminderung nach Nummer 4.6.1.
 4.1.2 Deckbullen
 4.1.2.1 Gekörte Bullen
 Der gemeine Wert setzt sich zusammen aus einem rassespezifischen Grundbetrag nach Nummer 4.2,
@@ -415,10 +352,8 @@ Lebensalter von 18 Monaten je angefangenen Monat um 45 EUR erhöht.
 4.1.3 Rinder
 4.1.3.1 Weibliche Herdbuchtiere (Alter in der Regel 18 bis 33 Monate)
 Der gemeine Wert setzt sich zusammen aus einem rassespezifischen Grundbetrag nach Nummer 4.2, bei
-trächtigen Tieren einem Trächtigkeits -Zuschlag nach Nummer 4.3 und einem Zuchtwertzuschlag nach Num-
-mer 4.4.1 oder alternativ einem Qualitätszuschlag nach Nummer 4.5. Der Grundbetrag wird für ein Alter von
+trächtigen Tieren einem Trächtigkeits -Zuschlag nach Nummer 4.3 und einem Zuchtwertzuschlag nach Nummer 4.4.1 oder alternativ einem Qualitätszuschlag nach Nummer 4.5. Der Grundbetrag wird für ein Alter von
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 10
 18 Monaten festgelegt und darüber hinaus bis zu einem Lebensalter von 27 Monaten je angefangenen Monat
 um 45 EUR erhöht.
 4.1.3.2 Weibliche Gebrauchstiere (Alter in der Regel 18 bis 27 Monate)
@@ -437,11 +372,9 @@ Der gemeine Wert setzt sich zusammen aus einem rassespezifischen Grundbetrag nac
 Abs. 2 und ggf. einem Qualitätszuschlag nach Nummer 4.5.
 Liegen die Lebendgewichte der Tiere unterhalb von 200 kg, so sind sie nach Nummer 4.1.5.2 zu bewerten.
 Liegen die Lebendgewichte der Tiere oberhalb der letzten aussagefähigen Gewichtsklasse der Verdener
-Absetzerauktion (siehe Nummer 4.2 Abs. 2), dann ist bei weiblichen Tieren das zusätzliche Gewicht entspre-
-chend der Klassifizierung R3, Ausschlachtung 55 % zu vergüten. Für männliche Tiere dieser Gewichtsgruppe
+Absetzerauktion (siehe Nummer 4.2 Abs. 2), dann ist bei weiblichen Tieren das zusätzliche Gewicht entsprechend der Klassifizierung R3, Ausschlachtung 55 % zu vergüten. Für männliche Tiere dieser Gewichtsgruppe
 gilt Nummer 3.
-Reine Charolais-, Limousin- und Blonde d’Aquitaine- Herkünfte lassen Klassifizierungen in der Handels-
-klasse U2 und einen Ausschlachtfaktor von 0,62 erwarten.
+Reine Charolais-, Limousin- und Blonde d’Aquitaine- Herkünfte lassen Klassifizierungen in der Handelsklasse U2 und einen Ausschlachtfaktor von 0,62 erwarten.
 4.1.5 Kälber bis einschließlich sieben Monate
 4.1.5.1 Weibliche Herdbuchtiere
 Der gemeine Wert entspricht dem Jungrindergrundbetrag nach Nummer 4.1.4.1 abzüglich 15 % und einem
@@ -453,17 +386,14 @@ Der gemeine Wert entspricht dem Grundbetrag nach Nummer 4.2 Abs. 2 für die Gewi
 Tiere ab einem Lebendgewicht von 200 kg sind nach Nummer 4.1.4.2 i. V. m. Nummer 4.2 Abs. 2 zu
 bewerten.
 4.2 Grundbetrag
-Die Grundbeträge werden von der Tierseuchenkasse auf der Grundlage der Angaben der Zuchtorganisa-
-tionen ermittelt, mit einer Gültigkeit von drei Monaten jeweils zu Beginn eines Quartals neu festgelegt und auf
+Die Grundbeträge werden von der Tierseuchenkasse auf der Grundlage der Angaben der Zuchtorganisationen ermittelt, mit einer Gültigkeit von drei Monaten jeweils zu Beginn eines Quartals neu festgelegt und auf
 der Internetseite der Tierseuchenkasse veröffentlicht.
-Für Gebrauchstiere mit einem Lebendgewicht von 200 bis 400 kg (Jungtiere) bilden die Netto- Zuschlags-
-preise der Verdener Absetzerauktion der letzten zwölf Monate den Grundbetrag, differenziert nach bestimmten
+Für Gebrauchstiere mit einem Lebendgewicht von 200 bis 400 kg (Jungtiere) bilden die Netto- Zuschlagspreise der Verdener Absetzerauktion der letzten zwölf Monate den Grundbetrag, differenziert nach bestimmten
 Gewichtsklassen und Rassen.
 4.3 Trächtigkeits-Zuschlag
 Für tragende Rinder wird ein Trächtigkeits -Zuschlag in Höhe von
 – 10 % ab dem 4. Trächtigkeitsmonat,
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 11
 – 20 % ab dem 6. Trächtigkeitsmonat
 des Grundbetrages nach Nummer 4.2 gewährt.
 4.4 Zuchtwertzuschlag
@@ -506,7 +436,6 @@ des Grundbetrages nach Nummer 4.2.
 Der Zuchtwertzuschlag errechnet sich aus der Addition des jeweils halben Zuschlags für das Vater- und
 Muttertier nach den in den Nummern 4.4.1 und 4.4.2 genannten Schlüsseln.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 12
 4.5 Qualitätszuschläge
 Qualitätszuschläge werden insbesondere für Tiere fällig, die nachweislich für die Direktvermarktung oder
 ein Erzeugerprogramm vorgesehen sind. Bei Direktvermarktung sind vom gemeinen Wert Schlachtkosten in
@@ -514,8 +443,7 @@ Höhe von 300 EUR pro Tier und Vermarktungskosten in Höhe von 100 EUR pro Tier 
 betriebsspezifischen Unterlagen vorliegen.
 Für Remonten – Tiere entsprechend Nummer 4.1.4.2 – kann ein Qualitätszuschlag von maximal 50 % auf
 den Grundbetrag nach Nummer 4.2 gewährt werden.
-Qualitätszuschläge für Herdbuchtiere werden dann fällig, wenn sie oberhalb der Zuchtwertzuschläge lie-
-gen.
+Qualitätszuschläge für Herdbuchtiere werden dann fällig, wenn sie oberhalb der Zuchtwertzuschläge liegen.
 Es kann grundsätzlich nur der Qualitätszuschlag oder der Zuchtwertzuschlag berücksichtigt werden.
 4.6 Altersbedingte Wertminderung
 4.6.1 Kühe
@@ -535,24 +463,18 @@ Wert beeinflussender Beträge ist die von der Käuferin oder dem Käufer zu zahl
 berücksichtigen.
 5.2 Werden Marktentlastungsmaßnahmen in der betreffenden Region durchgeführt, sind anstelle der
 Marktnotierungen die jeweils für das betroffene Gebiet festgelegten Beihilfesätze zu berücksichtigen. Im Fall
-eines erheblichen Preisverfalles aufgrund großflächiger und lang andauernder Seuchenzüge können in Ab-
-sprache mit der Tierseuchenkasse die Marktnotierungen der Tötungswoche des Erstausbruchs berücksichtigt
+eines erheblichen Preisverfalles aufgrund großflächiger und lang andauernder Seuchenzüge können in Absprache mit der Tierseuchenkasse die Marktnotierungen der Tötungswoche des Erstausbruchs berücksichtigt
 werden.
 5.3 Über das Ergebnis der Ermittlung des gemeinen Wertes von Rindern ist je Bestand eine Niederschrift
 anzufertigen. Die Niederschrift ist von den an der Schätzung beteiligten Personen zu unterzeichnen. Dem
-Protokoll sind die Ergebnisse der Wägung sowie Nachweise über eventuell erzielte Verkaufserlöse beizufü-
-gen.
+Protokoll sind die Ergebnisse der Wägung sowie Nachweise über eventuell erzielte Verkaufserlöse beizufügen.
 5.4 Sofern die für die Wertermittlung zuständige Behörde es für notwendig erachtet von den Grundsätzen
-dieser Richtlinie abweichen zu müssen, um den gemeinen Wert von Rindern ermitteln zu können (z. B. nach-
-gewiesene besondere Abstammung und Herkunft des Tieres, Stationsbullen), so darf dies nur nach vorheriger
+dieser Richtlinie abweichen zu müssen, um den gemeinen Wert von Rindern ermitteln zu können (z. B. nachgewiesene besondere Abstammung und Herkunft des Tieres, Stationsbullen), so darf dies nur nach vorheriger
 Abstimmung mit der Niedersächsischen Tierseuchenkasse erfolgen.
 5.5 Zuschläge sind nur zu berücksichtigen, wenn sie belegt werden können.
-5.6 Vor der Tötungsanordnung vorhandene Qualitätsmängel wie z. B. Abmagerung, Mastitiden, Gliedma-
-ßenschäden, Verletzungen, Abszesse, Parasitosen müssen bei der Wertermittlung durch angemessene Ab-
-schläge berücksichtigt werden, die auch zu einer Absenkung des gemeinen Wertes unter den aktuellen
+5.6 Vor der Tötungsanordnung vorhandene Qualitätsmängel wie z. B. Abmagerung, Mastitiden, Gliedmaßenschäden, Verletzungen, Abszesse, Parasitosen müssen bei der Wertermittlung durch angemessene Abschläge berücksichtigt werden, die auch zu einer Absenkung des gemeinen Wertes unter den aktuellen
 Schlachtwert führen können.
 
-Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024 Seite 13
 5.7 Bei seuchenbedingten Gewichtsverlusten, die nach der amtlichen Tötungsanordnung eintreten, ist bei
 der Schätzung von einem rassetypischen Durchschnittsgewicht entsprechend dem Lebensalter auszugehen.
 5.8 Für die Ermittlung des Wertes von Rindern ist deren Lebendgewicht durch Wägung des Einzeltieres

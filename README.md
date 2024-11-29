@@ -34,6 +34,18 @@ In den Metadaten findet man diesen in der Spalte `mainDocment`.
 
 **Hier ein Beispiel:** PDF-Datei der Verkündung heißt `mbl-2024-559.pdf` und die zugehörige Plaintext-Datei heißt `mbl-2024-559.txt` und befindet sich unter [plaintext/mbl-2024-559.txt](./plaintext/mbl-2024-559.txt).
 
+#### Mögliche Textunterschiede zwischen PDF und Textdatei
+
+Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
+* Löschung von Tabs
+* Löschung von vielfachen Leerzeichen
+* Silbentrennung zurücksetzen: Aufgetrennte Wörter am Zeilenende werden wieder zusammengesetzt
+* Lösche Zeilen mit Seitenangabe (typische Footer, z.B. `Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3`)
+* Lösche Leerzeichen am Anfang und Ende jeder Zeile
+
+Diese Anpassungen zielen darauf ab, den nachträglichen Aufwand für die Textanalyse zu verringern.
+Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Regex für die Analyse unnötig aufzublähen.
+
 ### Aktualisierung der Daten
 
 Für die lokale Ausführung des Skriptes zur Datenabholung und -aufbereitung steht ein [Docker](./docker) Container bereit.

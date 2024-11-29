@@ -11,18 +11,12 @@ Genehmigungsverfahren nach dem BImSchG;
 (Kommunale Entsorgungsanstalt Nord-Niedersachsen, Osterholz-Scharmbeck)
 Bek. d. GAA Lüneburg v. 08.05.2024 – 4.1-CUX911009114/LG 22- 049 –
 
-Die Kommunale Entsorgungsanstalt Nord- Niedersachsen (KENN), Siemensstraße 4 b, 27711 Osterholz-
-Scharmbeck, hat am 31.07.2023 die Erteilung einer immissionsschutzrechtlichen Genehmigung zur Errichtung
+Die Kommunale Entsorgungsanstalt Nord- Niedersachsen (KENN), Siemensstraße 4 b, 27711 OsterholzScharmbeck, hat am 31.07.2023 die Erteilung einer immissionsschutzrechtlichen Genehmigung zur Errichtung
 und zum Betrieb einer Bioabfallvergärungs- und Kompostierungsanlage am geplanten Anlagenstandort in
 27711 Osterholz-Scharmbeck, Siemensstraße 4 b, Gemarkung Pennigbüttel, beantragt.
 Die beantragte Bioabfallvergärungs- und Kompostieranlage bestehend aus einer Anlage zur Herstellung
-von Kompost (Durchsatzkapazität: 165 t/d) einer Trockenfermentation (Durchsatzkapazität: 185 t/d), Gasauf-
-bereitung (Verarbeitungskapazität: 3 600 000 Nm³/a), Gaslagerung (Gesamtlagerkapazität: 3 500 m³), Nach-
-kompostierung, Kompostaufbereitung (Durchsatzkapazität: 250 t/d) und einer Lagerung von Bioabfall, Grün-
-abfall und Kompost (Gesamtlagerkapazität: 1 567 t) soll am Standort des Entsorgungszentrums Pennigbüttel
-realisiert werden. Im Rahmen der Umsetzung des Vorhabens sollen dabei auch bereits am geplanten Anla-
-genstandort befindliche Bauten, insbesondere eine stillgelegte Mechanisch- biologische Abfallbehandlungsan-
-lage (kurz: MBA), umgebaut werden. Es werden insbesondere folgende Errichtungsmaßnahmen erforderlich:
+von Kompost (Durchsatzkapazität: 165 t/d) einer Trockenfermentation (Durchsatzkapazität: 185 t/d), Gasaufbereitung (Verarbeitungskapazität: 3 600 000 Nm³/a), Gaslagerung (Gesamtlagerkapazität: 3 500 m³), Nachkompostierung, Kompostaufbereitung (Durchsatzkapazität: 250 t/d) und einer Lagerung von Bioabfall, Grünabfall und Kompost (Gesamtlagerkapazität: 1 567 t) soll am Standort des Entsorgungszentrums Pennigbüttel
+realisiert werden. Im Rahmen der Umsetzung des Vorhabens sollen dabei auch bereits am geplanten Anlagenstandort befindliche Bauten, insbesondere eine stillgelegte Mechanisch- biologische Abfallbehandlungsanlage (kurz: MBA), umgebaut werden. Es werden insbesondere folgende Errichtungsmaßnahmen erforderlich:
 – Demontage der kompletten Bestandstechnik der stillgelegten MBA,
 – Abbruch von Containerverladehalle, Biofilter, Lagerhalle für Kompost und Erdenmischungen,
 Bestandsleitungen und Schächten, Sickerwasserentwässerung und Asphalt der vorhandenen
@@ -40,24 +34,20 @@ ckerwassererfassung,
 Hallen (Ablufterfassung) und bis zur sowie im Bereich der Abluftreinigungsanlage. Anbindung der Ab-
 luftleitung der Annahmehalle für Hausmüll an die Abluftreinigungsanlage,
 
-Nds. MBl. 2024 Nr. 213 vom 8. Mai 2024 Seite 2
 – Errichtung eines gekapselten Biofilters (2- teilig) mit Abluftkamin, zwei vorgeschalteten Abluftwäschern
 mit Schwefelsäurezudosierung, eines Lagerbehälters für Schwefelsäure und eines Lagerbehälters für
 Abschlämmwasser (Ammoniumsulfatlösung ASL) aus den Wäschern,
 – Errichtung einer Aufbereitungstechnik zur Abtrennung des Kompostes,
 – Ertüchtigung einer vorhandenen Bauschutthalle zu einer Kompostlagerhalle,
-– Neubau von vier an die Dachentwässerung angeschlossenen, unterirdisch verbauten Löschwasserbe-
-hältern, einer nachgeschalteten Versickerungsanlage für das Überschussregenwasser sowie der not-
-wendigen Einläufe und Leitungen zur Erfassung und Ableitung von Regenwasser der asphaltierten Frei-
-flächen.
+– Neubau von vier an die Dachentwässerung angeschlossenen, unterirdisch verbauten Löschwasserbehältern, einer nachgeschalteten Versickerungsanlage für das Überschussregenwasser sowie der not-
+wendigen Einläufe und Leitungen zur Erfassung und Ableitung von Regenwasser der asphaltierten Freiflächen.
 – Neubau einer Umfahrung der in die Neuanlage integrierten vorhandenen Rottehalle sowie Anpassung
 der vorhandenen u. a. mit Schaffung einer neuen Zufahrtsmöglichkeit einschließlich Waage über ein
 vorhandenes Tor.
 Die Errichtung und der Betrieb der beantragten Anlage bedürfen der Genehmigung gemäß den §§ 4 und
 10 BImSchG i. V. m. § 1 sowie den Nummern 8.5.1 (G/E), 8.11.2.4 (V), 8.6.2.1 (G/E), 1.16 (V), 8.12.2 (V) und
 9.1.1.2 (V) des Anhangs 1 der 4. BImSchV.
-Die Antragstellerin hat die Erteilung einer Zulassung des vorzeitigen Beginns nach § 8 a BImSchG bean-
-tragt, um bereits mit bestimmten Errichtungsmaßnahmen beginnen zu können. Über diesen Antrag hat die
+Die Antragstellerin hat die Erteilung einer Zulassung des vorzeitigen Beginns nach § 8 a BImSchG beantragt, um bereits mit bestimmten Errichtungsmaßnahmen beginnen zu können. Über diesen Antrag hat die
 Genehmigungsbehörde bisher keine Entscheidung getroffen.
 Bei der Anlage handelt es sich um eine Anlage gemäß Artikel 10 der Richtlinie 2010/75/EU des
 Europäischen Parlaments und des Rates vom 24.11.2010 über Industrieemissionen (integrierte Vermeidung
@@ -67,9 +57,7 @@ Gemäß Nummer 8.1 der Anlage zur ZustVO-Umwelt-Arbeitsschutz ist das GAA Lüneb
 Genehmigungsbehörde.
 Das geplante Vorhaben wird hiermit gemäß § 10 Abs. 3 BImSchG öffentlich bekannt gemacht.
 Im Rahmen dieses Genehmigungsverfahrens war gemäß § 7 Abs. 1 UVPG i. V. m. Nummer 8.4.1.1 (A),
-1.11.1.1 (A) und 9.1.1.3 (S) der Anlage zum UVPG zu ermitteln, ob für das beantragte Vorhaben die Durch-
-führung einer Umweltverträglichkeitsprüfung erforderlich ist. Die Prüfung hat ergeben, dass eine Umweltver-
-träglichkeitsprüfung für das Vorhaben nicht erforderlich ist. Das Ergebnis wurde gemäß § 5 UVPG am
+1.11.1.1 (A) und 9.1.1.3 (S) der Anlage zum UVPG zu ermitteln, ob für das beantragte Vorhaben die Durchführung einer Umweltverträglichkeitsprüfung erforderlich ist. Die Prüfung hat ergeben, dass eine Umweltverträglichkeitsprüfung für das Vorhaben nicht erforderlich ist. Das Ergebnis wurde gemäß § 5 UVPG am
 22.04.2024 auf dem niedersächsischen UVP-Portal bekannt gegeben. Es wird darauf aufmerksam gemacht,
 dass diese Feststellung nicht selbständig angefochten werden kann.
 Für das Vorhaben liegen dem GAA Lüneburg als Bestandteil der Antragsunterlagen derzeit insbesondere
@@ -90,7 +78,6 @@ Stickstoff- und Säureeinträgen in den umliegenden Schutzgebieten,
 – Eingriffs-Ausgleichs-Betrachtung zum Bauvorhaben,
 – G utachterliche Stellungnahme zur Vorprüfung nach dem UVPG,
 
-Nds. MBl. 2024 Nr. 213 vom 8. Mai 2024 Seite 3
 – Ausgangszustandsbericht.
 Der Antrag auf Erteilung der Genehmigung und die Antragsunterlagen nach § 4 der 9. BImSchV, liegen in
 der Zeit vom 15. 05. bis einschließlich 14.06.2024 bei den folgenden Stellen zu den angegebenen Zeiten zur
@@ -99,8 +86,7 @@ Einsichtnahme öffentlich aus:
 der Dienststunden,
 montags bis donnerstags in der Zeit von 8.00 bis 16.30 Uhr,
 freitags in der Zeit von 8.00 bis 14.00 Uhr;
-– Stadt Osterholz-Scharmbeck, Rathausstraße 1, 27711 Osterholz-Scharmbeck, 2. OG im Flur des Sach-
-gebietes Bauverwaltung,
+– Stadt Osterholz-Scharmbeck, Rathausstraße 1, 27711 Osterholz-Scharmbeck, 2. OG im Flur des Sachgebietes Bauverwaltung,
 montags in der Zeit von 8.00 bis 16.00 Uhr,
 dienstags und donnerstags in der Zeit von 8.00 bis 18.00 Uhr,
 mittwochs und freitags in der Zeit von 8.00 bis 12.00 Uhr.

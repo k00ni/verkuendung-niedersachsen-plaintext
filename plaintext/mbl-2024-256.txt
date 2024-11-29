@@ -13,12 +13,10 @@ RdErl. d. MW v. 30.05.2024 – 63-05305 –
 Bezug: RdErl. v. 01.08.2023 (Nds. MBl. S. 595)
 – VORIS 20220 –
 
-1. Die Preisindexzahl, mit der nach § 3 Abs. 1 BauGO vom 13.01.1998 (Nds. GVBl. S. 3), zuletzt geän-
-dert durch Verordnung vom 21.03.2022 (Nds. GVBl. S. 2 21), die Rohbauwerte der Anlage 2 der BauGO ab
+1. Die Preisindexzahl, mit der nach § 3 Abs. 1 BauGO vom 13.01.1998 (Nds. GVBl. S. 3), zuletzt geändert durch Verordnung vom 21.03.2022 (Nds. GVBl. S. 2 21), die Rohbauwerte der Anlage 2 der BauGO ab
 01.10.2024 zu vervielfältigen sind, beträgt 1,603.
 Die sich danach ab 01.10.2024 ergebenden Rohbauwerte werden in der Anlage bekannt gemacht.
-2. Dieser RdErl. tritt am 01.10.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugser-
-lass tritt mit Ablauf des 30.09.2024 außer Kraft.
+2. Dieser RdErl. tritt am 01.10.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass tritt mit Ablauf des 30.09.2024 außer Kraft.
 
 An die
 unteren Bauaufsichtsbehörden
@@ -34,7 +32,6 @@ EUR/m
 2. Wochenendhäuser 173
 3. Büro- und Verwaltungsgebäude, Banken und Arztpraxen 264
 
-Nds. MBl. 2024 Nr. 256 vom 5. Juni 2024 Seite 2
 Nr. Gebäudearten Rohbauwert
 EUR/m
 3
@@ -48,8 +45,7 @@ EUR/m
 10. Hallenbäder 242
 11. Verkaufsstätten mit nicht mehr als 50 000 m
 3
-Brutto- Rauminhalt in einge-
-schossigen Gebäuden
+Brutto- Rauminhalt in eingeschossigen Gebäuden
 
 11.1 bis 2 000 m
 3
@@ -64,11 +60,9 @@ Brutto- Rauminhalt 69
 übersteigende Brutto- Rauminhalt 46
 12. Verkaufsstätten mit nicht mehr als 5 000 m
 3
-Brutto- Rauminhalt in mehrge-
-schossigen Gebäuden
+Brutto- Rauminhalt in mehrgeschossigen Gebäuden
 
-12.1 Verkaufsstätten in einem Geschoss und sonstigen Nutzungen mit Aufenthalts-
-räumen in den übrigen Geschossen
+12.1 Verkaufsstätten in einem Geschoss und sonstigen Nutzungen mit Aufenthaltsräumen in den übrigen Geschossen
 149
 
 12.2 Verkaufsstätten in mehr als einem Geschoss 266
@@ -88,7 +82,6 @@ Brutto- Rauminhalt
 1)
 85
 
-Nds. MBl. 2024 Nr. 256 vom 5. Juni 2024 Seite 3
 Nr. Gebäudearten Rohbauwert
 EUR/m
 3
@@ -152,8 +145,7 @@ Bauart schwer
 20. Gebäude zur Lagerung landwirtschaftlicher Produkte
 2)
 43
-21. Gebäude zum Abstellen landwirtschaftlicher Maschinen oder landwirtschaftli-
-cher Geräte
+21. Gebäude zum Abstellen landwirtschaftlicher Maschinen oder landwirtschaftlicher Geräte
 2)
 
 30
@@ -164,7 +156,6 @@ landwirtschaftlichen Betriebsgebäuden liegen
 
 23. Schuppen, offene Kleingaragen und ähnliche Gebäude 71
 
-Nds. MBl. 2024 Nr. 256 vom 5. Juni 2024 Seite 4
 Nr. Gebäudearten Rohbauwert
 EUR/m
 3
@@ -187,10 +178,7 @@ Bei der Errechnung der Rohbauwerte werden unter den Gebäuden liegende Güllekel
 Bei Gebäuden mit mehr als fünf Vollgeschossen ist der Rohbauwert um 5 % und bei Hochhäusern um
 10 % zu erhöhen. Bei Hallenbauten mit Kränen sind für den von Kranbahnen erfassten Hallenbereich 38
 EUR/m² hinzuzurechnen.
-Die in der Tabelle angegebenen Werte berücksichtigen nur Flachgründungen mit Streifen- oder Einzel-
-fundamenten. Mehrkosten für andere Gründungen sind gesondert zu ermitteln; dies gilt auch für Außen-
-wandverkleidungen, für die ein Standsicherheitsnachweis geführt werden muss.
+Die in der Tabelle angegebenen Werte berücksichtigen nur Flachgründungen mit Streifen- oder Einzelfundamenten. Mehrkosten für andere Gründungen sind gesondert zu ermitteln; dies gilt auch für Außenwandverkleidungen, für die ein Standsicherheitsnachweis geführt werden muss.
 Bei Gebäuden mit gemischter Nutzung ist für die Gebäudeteile mit verschiedenen Nutzungsarten der
 Rohbauwert anteilig zu ermitteln, soweit Nutzungsarten nicht nur Nebenzwecken dienen.
-Der nicht ausgebaute Dachraum eines Dachgeschosses ist, abweichend von DIN 277, nur mit einem Drit-
-tel seines Rauminhalts anzurechnen.
+Der nicht ausgebaute Dachraum eines Dachgeschosses ist, abweichend von DIN 277, nur mit einem Drittel seines Rauminhalts anzurechnen.

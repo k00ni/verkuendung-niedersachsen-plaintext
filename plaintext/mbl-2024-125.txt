@@ -17,26 +17,19 @@ RdErl. d. MI v. 01.03.2024 – 72.21- 13235/4.20 –
 
 1. Allgemeines
 1.1 Bei jeder Funkverbindung wird ein Datensatz, die sog. Operativ-Taktische Adresse (OPTA), von der
-oder dem Sendenden an jedes empfangende Endgerät übertragen. Die OPTA wird automatisch mit dem Be-
-tätigen der Sendetaste an alle Teilnehmenden in einer Rufgruppe übertragen. Dadurch wird bundesweit eine
+oder dem Sendenden an jedes empfangende Endgerät übertragen. Die OPTA wird automatisch mit dem Betätigen der Sendetaste an alle Teilnehmenden in einer Rufgruppe übertragen. Dadurch wird bundesweit eine
 direkte Interpretierbarkeit der übertragenen OPTA deutlich erleichtert.
-1.2 Die OPTA wird auf der im Endgerät verwendeten BOS-Sicherheitskarte des Bundesamtes für Sicher-
-heit in der Informationstechnik (BSI) gespeichert. Die Nutzung von Endgeräten im bundesweiten BOS- Funk-
-netz ist nur mit der BOS-Sicherheitskarte möglich. Daher wird jedem Funkteilnehmergerät eine eineindeutige
+1.2 Die OPTA wird auf der im Endgerät verwendeten BOS-Sicherheitskarte des Bundesamtes für Sicherheit in der Informationstechnik (BSI) gespeichert. Die Nutzung von Endgeräten im bundesweiten BOS- Funknetz ist nur mit der BOS-Sicherheitskarte möglich. Daher wird jedem Funkteilnehmergerät eine eineindeutige
 OPTA zugeteilt.
 1.3 Der gesprochene Funkrufname ist Bestandteil der OPTA. Die Neuregelung folgt der OPTA; bezieht
 aber die Grundlagen des bisherigen Analogfunkverkehrs mit ein.
-1.4 Die anliegenden Regelungen gelten für alle Feuerwehren, Träger des Rettungsdienstes und Beauf-
-tragte sowie für alle Katastrophenschutz-Einheiten und - Einrichtungen.
+1.4 Die anliegenden Regelungen gelten für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte sowie für alle Katastrophenschutz-Einheiten und - Einrichtungen.
 2. OPTA
-2.1 Die OPTA besteht aus 24 alpha- numerischen Stellen und ist auf der BOS-Sicherheitskarte gespei-
-chert.
+2.1 Die OPTA besteht aus 24 alpha- numerischen Stellen und ist auf der BOS-Sicherheitskarte gespeichert.
 2.2 Für die weitere Gliederung der OPTA im Rahmen der folgenden Regelungen sind die Landkreise, die
-Region Hannover, die kreisfreien Städte sowie die Städte Cuxhaven, Hameln, Hannover, Hildesheim und Göt-
-tingen im Rahmen ihrer besonderen Aufgabenstellungen nach dem NBrandSchG, dem NRettDG und dem
+Region Hannover, die kreisfreien Städte sowie die Städte Cuxhaven, Hameln, Hannover, Hildesheim und Göttingen im Rahmen ihrer besonderen Aufgabenstellungen nach dem NBrandSchG, dem NRettDG und dem
 NKatSG zuständig.
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 2
 2.3 Die 24 Ziffernfolgen werden aus Gründen der Übersichtlichkeit in fünf Blöcke eingeteilt:
 
 
@@ -45,47 +38,28 @@ Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 2
 2.4.2 Block 2 (Ziffern 3 bis 5): Kürzel für die BOS (siehe Anlage 1)
 2.4.3 Block 3 (Ziffern 6 bis 8): Regionale Zuordnung zu einem Landkreis, zu einer kreisfreien Stadt,
 zur Region Hannover oder Landeshauptstadt Hannover – dargestellt
-durch das amtliche Kraftfahrzeugkennzeichen (nach der Kennzeichen-
-liberalisierung wieder eingeführte Kraftfahrzeugkennzeichen bleiben
+durch das amtliche Kraftfahrzeugkennzeichen (nach der Kennzeichenliberalisierung wieder eingeführte Kraftfahrzeugkennzeichen bleiben
 außer Acht). Führen Stadt und Landkreis das gleiche Kennzeichen,
-wird der Landkreis in der Regel durch die nachgestellte Raute (#) ge-
-kennzeichnet.
+wird der Landkreis in der Regel durch die nachgestellte Raute (#) gekennzeichnet.
 2.4.4 Block 4.1 (Ziffern 9 bis 11): Es werden die Ziffern 9 und 10 als örtliche oder Organisationskennung
 verwendet. Ziffer 11 wird mit dem Trennzeichen „-“ ausgefüllt. Weitere
 Erläuterungen erfolgen in Nummer 2.5.
-2.4.5 Block 4.1 (Ziffern 12 und 13): Fahrzeug- oder Funktionskennungen werden gemäß Anlage 2 be-
-nutzt.
-2.4.6 Block 4.2 (Ziffern 14 bis 21): Es werden in alpha-numerischer Form Kurzbezeichnungen für Leitstel-
-len, Fahrzeuge und Funktionen eingetragen. Diese Kurzbezeichnun-
-gen dienen der Erläuterung der Funktion des Teilnehmers oder des
+2.4.5 Block 4.1 (Ziffern 12 und 13): Fahrzeug- oder Funktionskennungen werden gemäß Anlage 2 benutzt.
+2.4.6 Block 4.2 (Ziffern 14 bis 21): Es werden in alpha-numerischer Form Kurzbezeichnungen für Leitstellen, Fahrzeuge und Funktionen eingetragen. Diese Kurzbezeichnungen dienen der Erläuterung der Funktion des Teilnehmers oder des
 taktischen Wertes des Fahrzeugs im Klartext. Sie orientieren sich an
-den Norm- oder anderen verwechselungsfreien Bezeichnungen. Ein-
-zelheiten sind in der Anlage 3 geregelt. Die Anlage 3 ist nicht abschlie-
-ßend. Ergänzungen oder Änderungen sind auch ohne Änderung die-
-ses RdErl. mit Zustimmung des MI möglich. Eine Kombination von Ab-
-kürzungen ist möglich.
-2.4.7 Block 4.3 (Ziffern 22 und 23): Die Ordnungskennung ermöglicht die Unterscheidung mehrerer Fahr-
-zeuge mit gleicher Funktionskennung an einem Standort oder mehre-
-rer Einrichtungen in einem Zuständigkeitsbereich. Handfunkgeräte, die
+den Norm- oder anderen verwechselungsfreien Bezeichnungen. Einzelheiten sind in der Anlage 3 geregelt. Die Anlage 3 ist nicht abschließend. Ergänzungen oder Änderungen sind auch ohne Änderung dieses RdErl. mit Zustimmung des MI möglich. Eine Kombination von Abkürzungen ist möglich.
+2.4.7 Block 4.3 (Ziffern 22 und 23): Die Ordnungskennung ermöglicht die Unterscheidung mehrerer Fahrzeuge mit gleicher Funktionskennung an einem Standort oder mehrerer Einrichtungen in einem Zuständigkeitsbereich. Handfunkgeräte, die
 keinem Fahrzeug oder keiner Funktion zugeordnet sind, werden an
-dieser Stelle durchnummeriert. Die Ziffern werden rechtsbündig einge-
-tragen. Die Ziffer 1 wird auch vergeben, wenn nur ein MRT (Fahrzeug-
-funkgerät) oder HRT (Handfunkgerät) vorhanden ist.
+dieser Stelle durchnummeriert. Die Ziffern werden rechtsbündig eingetragen. Die Ziffer 1 wird auch vergeben, wenn nur ein MRT (Fahrzeugfunkgerät) oder HRT (Handfunkgerät) vorhanden ist.
 2.4.8 Block 5 (Ziffer 24): Die Ergänzung dient der Unterscheidung von mehreren eingebauten
-Fahrzeugfunkgeräten oder ortsfesten Funkanlagen; Unterscheidungs-
-merkmal: Großbuchstaben (A, B, ...). Einem Fahrzeug fest
+Fahrzeugfunkgeräten oder ortsfesten Funkanlagen; Unterscheidungsmerkmal: Großbuchstaben (A, B, ...). Einem Fahrzeug fest
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 3
-zugeordnete Handfunkgeräte werden in diesem Block durchnumme-
-riert (1, 2, …).
-2.5 Für die örtliche Kennung bzw. Organisationskennung (Nummer 2.4.4, Block 4.1) stehen folgende Zah-
-lenbereiche zur Verfügung:
-01 bis 09 kreisfreie Städte, die Landeshauptstadt Hannover und die Städte Cuxhaven, Hameln, Hil-
-desheim und Göttingen
+zugeordnete Handfunkgeräte werden in diesem Block durchnummeriert (1, 2, …).
+2.5 Für die örtliche Kennung bzw. Organisationskennung (Nummer 2.4.4, Block 4.1) stehen folgende Zahlenbereiche zur Verfügung:
+01 bis 09 kreisfreie Städte, die Landeshauptstadt Hannover und die Städte Cuxhaven, Hameln, Hildesheim und Göttingen
 10 bis 39 Gemeindekennziffern, die Vergabe erfolgt durch den Landkreis; jede Gemeinde erhält nur
 eine Gemeindekennziffer. Städte, die die Ziffern 01 bis 09 verwenden, dürfen die Ziffern
-10 bis 39 für Freiwillige Feuerwehren in ihrem Zuständigkeitsbereich nach den vorgenann-
-ten Grundlagen vergeben.
+10 bis 39 für Freiwillige Feuerwehren in ihrem Zuständigkeitsbereich nach den vorgenannten Grundlagen vergeben.
 40 bis 48 Deutsches Rotes Kreuz (DRK)
 49 bis 56 Johanniter-Unfall-Hilfe (JUH)
 57 bis 63 Malteser Hilfsdienst (MHD)
@@ -117,7 +91,6 @@ Nicht belegt
 05
 – Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 4
 – Block 4.2: Kurzbezeichnung gemäß Anlage 3
 – Blöcke 4.3 und 5: Unterscheidungen nach Bedarf
 3.1.2 Niedersächsisches Landesamt für Brand- und Katastrophenschutz
@@ -131,8 +104,7 @@ Akademiebetrieb 08
 – Block 4.2: Kurzbezeichnung gemäß Anlage 3
 – Blöcke 4.3 und 5: Unterscheidungszeichen
 3.1.3 Sonstige
-Unter Nummer 3.1.3 können Institutionen oder Teile von Institutionen wie zum Beispiel der Bereich Strah-
-lenschutz des NLWKN subsummiert werden.
+Unter Nummer 3.1.3 können Institutionen oder Teile von Institutionen wie zum Beispiel der Bereich Strahlenschutz des NLWKN subsummiert werden.
 – Block 1: NI
 – Block 2: gemäß Anlage 1
 – Block 3: amtliches Kfz-Kennzeichen des Amtssitzes
@@ -153,7 +125,6 @@ lenschutz des NLWKN subsummiert werden.
 – Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
 – Block 4.1: bleibt frei
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 5
 – Block 4.2: Kurzbezeichnung „FMZT“
 – Blöcke 4.3 und 5: Unterscheidungszeichen
 3.4 Landeseinheiten im Katastrophenschutz
@@ -174,22 +145,19 @@ sonstige Fachdienste 89
 – Block 4.2: Kurzbezeichnung gemäß Anlage 3
 – Blöcke 4.3 und 5: Unterscheidungszeichen
 3.5 Kreisfeuerwehrbereitschaften (KFB)
-Die folgenden Angaben gelten für Handfunkgeräte der Führungskräfte, soweit diese vorrangig für die Kreis-
-feuerwehrbereitschaften eingesetzt werden.
+Die folgenden Angaben gelten für Handfunkgeräte der Führungskräfte, soweit diese vorrangig für die Kreisfeuerwehrbereitschaften eingesetzt werden.
 – Block 1: NI
 – Block 2: gemäß Anlage 1
 – Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
 – Block 4.1 (Ziffern 9 bis 11): 80 bis 90
 – Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
 – Block 4.2: Kurzbezeichnung „KFB“ und ggf. Zugbezeichnung
-– Block 4.3: Die KFB werden durchnummeriert; die Ziffern werden rechts-
-bündig eingetragen.
+– Block 4.3: Die KFB werden durchnummeriert; die Ziffern werden rechtsbündig eingetragen.
 – Block 5: Unterscheidungszeichen
 3.6 Hilfsorganisationen auf Landesebene
 – Block 1: NI
 – Block 2: gemäß Anlage 1
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 6
 – Block 3: bleibt frei
 – Block 4.1 (Ziffern 9 bis 10): die Zeichen werden rechtsbündig eingetragen
 – Deutsches Rotes Kreuz, Landesverband Niedersachsen (LV NDS) 40
@@ -225,7 +193,6 @@ Optionale Möglichkeit als Alternative zu Nummer 2.5 dieses RdErl.:
 – Block 4.1 (Ziffern 9 bis 11): örtliche Kennung des Rettungswachen-Standortes 01 bis 09
 bzw. 10 bis 39
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 7
 – Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
 – Block 4.2: Kurzbezeichnung gemäß Anlage 3
 – Block 4.3 und 5: Unterscheidungszeichen
@@ -261,7 +228,6 @@ aufgeführt.
 – Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
 – Block 4.1 (Ziffern 9 bis 10): Kennung gemäß Nummer 2.5
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 8
 – Block 4.1(Ziffern 12 bis 13): 00
 – Block 4.2: Bezeichnung „SIRENE“
 – Blöcke 4.3 und 5: Unterscheidungszeichen
@@ -277,8 +243,7 @@ Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 8
 4.1 Diese Funkrufnamenregelung gilt für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte
 sowie für alle Katastrophenschutz-Einheiten und -Einrichtungen in Niedersachsen.
 4.2 Zur Durchführung des Sprechfunkverkehrs gemäß der BOS-Funkrichtlinie, den Dienstvorschriften 800
-und 810 sowie weiterer durch die oberste Landesbehörde eingeführten Regelungen ist ein Funkrufname er-
-forderlich. Dieser setzt sich aus Teilen der OPTA wie folgt zusammen:
+und 810 sowie weiterer durch die oberste Landesbehörde eingeführten Regelungen ist ein Funkrufname erforderlich. Dieser setzt sich aus Teilen der OPTA wie folgt zusammen:
 4.2.1 Rufname für die BOS gemäß Anlage 1
 4.2.2 Regionale Zuordnung
 4.2.2.1 Für diese Zuordnung wird der Name des Landkreises oder der kreisfreien Stadt benutzt.
@@ -287,33 +252,25 @@ das Wort „Land“ ergänzt.
 4.2.2.2 Endgeräte, die in Block 3 keine Zuordnung haben, führen die Bezeichnung „Niedersachsen“.
 4.2.3 Örtliche- bzw. Organisationskennung
 Es wird die Ziffer gemäß der örtlichen Zuordnung oder der Organisation gesprochen. Luftbesetzte
-Rettungsmittel, die mehr als einem Rettungsdienstträger zugeordnet sind, führen keine örtliche Ken-
-nung gemäß Nummer 2.5. Sie benutzen im Funkrufnamen das Unterscheidungszeichen gemäß
+Rettungsmittel, die mehr als einem Rettungsdienstträger zugeordnet sind, führen keine örtliche Kennung gemäß Nummer 2.5. Sie benutzen im Funkrufnamen das Unterscheidungszeichen gemäß
 Block 4.3.
 4.2.4 Fahrzeug- und Funktionskennung
 Es wird die Ziffer gemäß Anlage 2 gesprochen.
 4.2.5 Ordnungskennung
 4.2.5.1 An dieser Stelle wird ein Unterscheidungszeichen gesprochen, dass von den Kommunen
-gemäß Nummer 2.2 festgelegt wird. Damit können mehrere Fahrzeuge mit gleicher Funkti-
-onskennung an einem Standort unterschieden werden. Es sind auch andere Unterscheidun-
-gen, wie z. B. Ortswehren oder Rettungswachen, möglich.
-4.2.5.2 Des Weiteren werden Handfunkgeräte durchnummeriert und die laufende Nummer gespro-
-chen. Das trifft auch auf Handfunkgeräte zu, die keinem Fahrzeug oder keiner Funktion zu-
-geordnet sind. Die Ziffern werden rechtsbündig eingetragen.
+gemäß Nummer 2.2 festgelegt wird. Damit können mehrere Fahrzeuge mit gleicher Funktionskennung an einem Standort unterschieden werden. Es sind auch andere Unterscheidungen, wie z. B. Ortswehren oder Rettungswachen, möglich.
+4.2.5.2 Des Weiteren werden Handfunkgeräte durchnummeriert und die laufende Nummer gesprochen. Das trifft auch auf Handfunkgeräte zu, die keinem Fahrzeug oder keiner Funktion zugeordnet sind. Die Ziffern werden rechtsbündig eingetragen.
 4.2.5.3 Die Ziffer 1 wird auch gesprochen, wenn nur ein Fahrzeug- oder Handfunkgerät vorhanden
 ist.
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 9
-4.3 Im Übrigen wird im Funkverkehr der unter Nummer 4.2 gebildete Funkrufname ausgesprochen. Hier-
-bei werden auch die alle „0“ des Blockes 4.1 der OPTA zwecks klarer Zuordnung mitgesprochen.
+4.3 Im Übrigen wird im Funkverkehr der unter Nummer 4.2 gebildete Funkrufname ausgesprochen. Hierbei werden auch die alle „0“ des Blockes 4.1 der OPTA zwecks klarer Zuordnung mitgesprochen.
 Die Ansprache von Leitstellen (Nummer 3.2) und Fernmeldezentralen (Nummer 3.3) erfolgt grundsätzlich
 in Klartext (Langbezeichnung gemäß Anlage 3) in Verbindung mit der regionalen Zuordnung.
 5. Schlussbestimmungen
 5.1 Fahrzeuge, welche ab dem Zeitpunkt des Inkrafttretens dieses RdErl. entweder neu beschafft oder
 ersetzt werden, sind unter Anwendung dieser Regelung mit der zulässigen OPTA auszustatten.
 Die OPTA vorhandener Fahrzeuge und Einrichtungen können, sofern sie von der Neuregelung abweichen,
-mit der zum Zeitpunkt der Beantragung der OPTA geltenden Regelung weitergeführt werden. Eine Anglei-
-chung an die Regelungen dieses RdErl. sollte erfolgen.
+mit der zum Zeitpunkt der Beantragung der OPTA geltenden Regelung weitergeführt werden. Eine Angleichung an die Regelungen dieses RdErl. sollte erfolgen.
 Sofern als Ersatzkommunikation auch analoger Funkverkehr genutzt wird, gelten die Regelungen auch für
 den analogen Funkverkehr.
 5.2 Dieser RdErl. tritt am 01.03.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
@@ -329,8 +286,7 @@ BOS Beschreibung Kurzzeichen Rufname
 Feuerwehren Feuerwehr FW Florian
 Hilfsorganisationen Arbeiter-Samariter-Bund (ASB) ASB Sama
 Bergwacht BGW Bergwacht
-Deutsche Gesellschaft zur Rettung Schiffbrüchi-
-ger
+Deutsche Gesellschaft zur Rettung Schiffbrüchiger
 DGS Triton
 Deutsche Lebens-Rettungs-Gesellschaft
 (DLRG)
@@ -349,10 +305,8 @@ Leopold
 Kater
 Technisches Hilfswerk THW Heros
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 10
 BOS Beschreibung Kurzzeichen Rufname
-Bundesamt für Bevölkerungs- und Katastro-
-phenhilfe
+Bundesamt für Bevölkerungs- und Katastrophenhilfe
 Sirenensteuerung, Warnung der Bevölkerung
 BBK
 
@@ -421,8 +375,7 @@ Ortsfeste Funkstellen
 00 Feuerwache, Feuerwehrhaus, Rettungswache, sonstige Feststation
 Funktionskennungen
 01 Leiterin oder Leiter der Organisation gemäß Organisationsregelung
-02 Stellvertretende Leiterin oder stellvertretender Leiter der Organisation gemäß Organisa-
-tionsregelung
+02 Stellvertretende Leiterin oder stellvertretender Leiter der Organisation gemäß Organisationsregelung
 1)
 
 03 Sonstige Leitungsfunktion/Kontingentführung (Landesebene) und Führungsfunktion von
@@ -432,7 +385,6 @@ Einheiten ab Verbandsgröße
 04 Sonstige Leitungsfunktionen
 1), 2)
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 11
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
 05 Sonstige Leitungsfunktionen
 1), 2)
@@ -464,19 +416,16 @@ Tanklösch- und Sonderlöschfahrzeuge
 (z. B. TLF 16/24, TLF 3000 mit Hilfeleistungssatz)
 23 Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung
 (z. B. TLF 16/25)
-24 Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung und Hilfeleis-
-tungssatz (z. B. TLF 16/25 mit Hilfeleistungssatz)
+24 Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung und Hilfeleistungssatz (z. B. TLF 16/25 mit Hilfeleistungssatz)
 25 Tanklöschfahrzeug > 3 000 l Wasser mit Truppbesatzung
 (z. B. TLF 24/50, TLF 20/40, TLF 4000)
-26 Tanklöschfahrzeug > 3 000 l Wasser und Sonderlöschmittelkomponente mit Truppbe-
-satzung (z. B. TLF 24/50, TLF 20/40 SL, TLF 4000)
+26 Tanklöschfahrzeug > 3 000 l Wasser und Sonderlöschmittelkomponente mit Truppbesatzung (z. B. TLF 24/50, TLF 20/40 SL, TLF 4000)
 27 Großtanklöschfahrzeug > 6 000 l Wasser (z. B. Flugfeldlöschfahrzeug)
 28 Sonderlöschmittelfahrzeug, Trockenlöschfahrzeug, Schaummittelfahrzeug
 29 sonstige Tank- oder Sonderlöschfahrzeug (z. B. TroTLF16, CCFM)
 Hub- (rettungs-) fahrzeuge
 30 Drehleiter mit Korb und einer Nennrettungshöhe ≥ 23 m (z. B. DLK 23-12, DLAK 23/12)
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 12
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
 31 Drehleiter mit Korb und einer Nennrettungshöhe ≥ 18 m < 23 m (z. B. DLK 18-12, DLAK
 18/12)
@@ -516,7 +465,6 @@ Rüst- und Gerätewagen
 
 Versorgungs- und Logistikfahrzeuge
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 13
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
 60 Kombinationskraftwagen Logistik
 61 Schlauchwagen 500, Schlauchwagen 1000,
@@ -556,27 +504,23 @@ Notfallrettung, Notarztsysteme
 86 Baby-Notarztwagen
 87 Intensivtransportwagen
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 14
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
 88 Großraumrettungswagen und Großraumkrankentransportwagen
 89 Sonstige Rettungsmittel
 7)
 
 Krankentransport, vorübergehende Einrichtungen, Sanitätsdienst
-90 Vorübergehende Einrichtungen wie Behandlungsplatz, Betreuungsstelle, Unfallhilfs-
-stelle
+90 Vorübergehende Einrichtungen wie Behandlungsplatz, Betreuungsstelle, Unfallhilfsstelle
 91 (Nicht belegt)
 92 Krankentransportwagen
 93 Notfallkrankenwagen – RD
 94 Krankentransportwagen 4-Tragen oder 2-Tragen, Krankentransportwagen Typ B
 (Bund)
-95 Gerätewagen Behandlungsplatz, Gerätewagen Massenanfall an Verletzten – GSE/er-
-weiterter RD
+95 Gerätewagen Behandlungsplatz, Gerätewagen Massenanfall an Verletzten – GSE/erweiterter RD
 96 Gerätewagen Sanität, Gerätewagen Behandlung (MTF)
 97 Infektions-Krankentransportwagen, Infektions-Rettungswagen
 98 Krankentransportwagen geländegängig, Rettungswagen geländegängig
-99 Mannschaftstransportwagen-multifunktional, Kraftfahrzeuge zur Beförderung Mobilitäts-
-behinderter, sonstige Krankentransportmittel
+99 Mannschaftstransportwagen-multifunktional, Kraftfahrzeuge zur Beförderung Mobilitätsbehinderter, sonstige Krankentransportmittel
 1)
 Mehrere gleichrangige Funktionsträgerinnen oder Funktionsträger sind ggf. im Block 4.3 durchzunummerieren.
 2)
@@ -614,7 +558,6 @@ KONFUE
 Einsatzleiterin oder Einsatzleiter EL
 Leiterin oder Leiter der Organisation LDO
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 15
 Art Kurzbezeichnung Abkürzung
 Leiterin oder Leiter vom Dienst LVD
 Leiterin oder Leiter Hauptberufliche Wachbereitschaft LHWB
@@ -633,16 +576,14 @@ Brandmeisterin oder Brandmeister vom Dienst BVD
 Einsatzleitdienst ELD
 Kreisbrandmeisterin oder Kreisbrandmeister KBM
 Kreisschirrmeisterin oder Kreisschirrmeister KSM
-Funk- und Kommunikationsbeauftragte oder Funk- und Kommunikations-
-beauftragter (S 6)
+Funk- und Kommunikationsbeauftragte oder Funk- und Kommunikationsbeauftragter (S 6)
 FUNK
 Kreisbereitschaftsführerin oder Kreisbereitschaftsführer KBF
 Regionalbereitschaftsführerin oder Regionalbereitschaftsführer RBF
 Leitende Notärztin oder Leitender Notarzt LNA
 Organisatorische Leiterin oder Organisatorischer Leiter Rettungsdienst ORGL
 Abschnittsleiterin oder Abschnittsleiter AL
-Bereitschaftsführerin/Verbandsführerin oder Bereitschaftsführer/Verbands-
-führer
+Bereitschaftsführerin/Verbandsführerin oder Bereitschaftsführer/Verbandsführer
 VF
 Stadtbrandmeisterin oder Stadtbrandmeister STBM
 Gemeindebrandmeisterin oder Gemeindebrandmeister GBM
@@ -653,7 +594,6 @@ Fachberaterin oder Fachberater FACHBER
 oder
 FB
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 16
 Art Kurzbezeichnung Abkürzung
 Führungskraft Logistik und Führungstrupp Logistik LOGFUE
 Taucheinsatzführer TAUFUE
@@ -693,7 +633,6 @@ SUED
 OST
 WEST
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 17
 Art Kurzbezeichnung Abkürzung
 Zusatz Schiffsbrandbekämpfung
 Sonstige
@@ -715,8 +654,7 @@ Brandsicherheitswachdienst BRASIWA
 Psychosoziale Notfallversorgung PSNV
 Analytische Task Force ATF
 Leitstelle LTS
-Einrich-
-tung
+Einrichtung
 Fernmeldezentrale
 Stab
 FMZT
@@ -737,7 +675,6 @@ Abstützmaterial
 AB
 BAU
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 18
 Art Kurzbezeichnung Abkürzung
 Anhänger Umwelt UMWELTA
 Atemschutz A
@@ -773,7 +710,6 @@ Gefahrgut G
 geländegängig GL
 Gerätewagen GW
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 19
 Art Kurzbezeichnung Abkürzung
 Gerätewagen Logistik klein (KatS) GW-L-KL
 Gerätewagen Logistik groß (KatS) GW-L-GR
@@ -812,7 +748,6 @@ Lastkraftwagen LKW
 Lastkraftwagen Kipper LKWKIP
 Lichtmastfahrzeug LIMA
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 20
 Art Kurzbezeichnung Abkürzung
 Logistik L
 Logistik 1 L1
@@ -850,7 +785,6 @@ Notarzteinsatzfahrzeug NEF
 Notarztwagen NAW
 Notarztwagen-Baby NAWBABY
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 21
 Art Kurzbezeichnung Abkürzung
 Öl OEL
 Personenkraftwagen PKW
@@ -886,7 +820,6 @@ Tanklöschfahrzeug TLF 24/50 TLF24-50
 Tanklöschfahrzeug TLF 3000 TLF3000
 Tanklöschfahrzeug TLF 4000 TLF4000
 
-Nds. MBl. 2024 Nr. 125 vom 7. März 2024 Seite 22
 Art Kurzbezeichnung Abkürzung
 Tanklöschfahrzeug TLF 8/15 TLF8-15
 Tanklöschfahrzeug TLF 8/18

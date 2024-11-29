@@ -26,17 +26,13 @@ ersetzt und nach dem Wort „unregelmäßigen“ wird ein Komma eingefügt.
 a) Nummer 3.1 erhält folgende Fassung:
 „3.1 Gegenstand der Förderung
 Zuwendungsfähig sind Ausgaben für die Erarbeitung von Dorfentwicklungsplänen für die
-Dorfregion unter Berücksichtigung der unter Nummer 1.1 beschriebenen Förderzwecke im Rah-
-men einer umfassenden Bürgerbeteiligung einschließlich einer Vorbereitungs- und Informations-
-phase (VIP) der künftigen Akteurinnen und Akteure bereits vor Aufnahme der Dorfregion in das
+Dorfregion unter Berücksichtigung der unter Nummer 1.1 beschriebenen Förderzwecke im Rahmen einer umfassenden Bürgerbeteiligung einschließlich einer Vorbereitungs- und Informationsphase (VIP) der künftigen Akteurinnen und Akteure bereits vor Aufnahme der Dorfregion in das
 Dorfentwicklungsprogramm des Landes Niedersachsen.“
-b) In Nummer 3.5.2 Abs. 3 wird die Angabe „ÄrL“ durch die Worte „Ämter für regionale Landes-
-entwicklung“ ersetzt.
+b) In Nummer 3.5.2 Abs. 3 wird die Angabe „ÄrL“ durch die Worte „Ämter für regionale Landesentwicklung“ ersetzt.
 5. Nummer 4 wird wie folgt geändert:
 a) Nummer 4.1 wird wie folgt geändert:
 aa) In Nummer 4.1.2.6 wird das Wort „unter“ durch das Wort „einschließlich“ ersetzt.
 
-Nds. MBl. 2024 Nr. 45 vom 24. Januar 2024 Seite 2
 bb) In Nummer 4.1.2.7 wird das Wort „unter“ durch das Wort „einschließlich“ ersetzt.
 cc) In Nummer 4.1.2.8 wird die Angabe „(Innenausbau)“ gestrichen und das Wort „unter“
 durch das Wort „einschließlich“ ersetzt.
@@ -55,33 +51,25 @@ bb) Nummer 4.4.4 erhält folgende Fassung:
 „4.4.4 Förderhöchstbeträge und Investitionsvolumen“
 cc) D er bisherige Wortlaut der Nummer 4.4.4 wir d Nummer 4.4.4.1.
 dd) Es wird die folgende Nummer 4.4.4.2 angefügt:
-„4.4.4.2 Ein Förderobjekt (siehe Nummer 1.4 vierter Spiegelstrich) kann die Zu-
-wendungsvoraussetzungen mehrerer Fördertatbestände gleichzeitig erfüllen.
-Für den Fördertatbestand nach Nummer 4.1.2.5 gilt dies nur bei einem Investiti-
-onsvolumen (Nettokosten) von
+„4.4.4.2 Ein Förderobjekt (siehe Nummer 1.4 vierter Spiegelstrich) kann die Zuwendungsvoraussetzungen mehrerer Fördertatbestände gleichzeitig erfüllen.
+Für den Fördertatbestand nach Nummer 4.1.2.5 gilt dies nur bei einem Investitionsvolumen (Nettokosten) von
 – mehr als 700 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 oder 4.1.2.8 oder
 – mehr als 900 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 und 4.1.2.8.
-Die Regelung gilt für Anträge nach dem Antragsstichtag 30.09.2023 (siehe Num-
-mer 9.3.1).
+Die Regelung gilt für Anträge nach dem Antragsstichtag 30.09.2023 (siehe Nummer 9.3.1).
 Eine Kumulierung der Zuwendungen auf dieselben Ausgaben ist unzulässig, da
 dies faktisch eine Erhöhung des Fördersatzes bedeutet.“
 ee) Nummer 4.4.6 wird wie folgt geändert:
 aaa) Absatz 1 erhält folgende Fassung:
-„4.4.6 Die Gewährung der Zuwendung erfolgt auf Grundlage und nach den Vor-
-schriften der AGVO, hier im Besonderen nach den Artikeln 55 oder 56 AGVO,
-ist mit dem Binnenmarkt i. S. des Artikels 107 des Vertrags über die Arbeits-
-weise der Europäischen Union in der konsolidierten Fassung vom 07.06.2016
+„4.4.6 Die Gewährung der Zuwendung erfolgt auf Grundlage und nach den Vorschriften der AGVO, hier im Besonderen nach den Artikeln 55 oder 56 AGVO,
+ist mit dem Binnenmarkt i. S. des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union in der konsolidierten Fassung vom 07.06.2016
 (ABl. EU Nr. C 202 vom 07.06.2016 S. 47; Nr. C 400 vom 28.10.2016 S. 1; 2017
-Nr. C 59 S. 1) — im Folgenden: AEUV — vereinbar, wurde gegenüber der EU-
-Kommission beantragt und unter der Beihilfe- Nummer SA.111115 (2023/X) ab
+Nr. C 59 S. 1) — im Folgenden: AEUV — vereinbar, wurde gegenüber der EUKommission beantragt und unter der Beihilfe- Nummer SA.111115 (2023/X) ab
 dem 01.01.2024 freigestellt.“
 bbb) Es wird der folgende neue Absatz 2 eingefügt:
 „Informationen über jedes Einzelvorhaben von über 100 000 EUR werden in
 der Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in
-der Beihilfentransparenzdatenbank der Europäischen Kommission veröffent-
-licht.“
+der Beihilfentransparenzdatenbank der Europäischen Kommission veröffentlicht.“
 
-Nds. MBl. 2024 Nr. 45 vom 24. Januar 2024 Seite 3
 ccc) Die bisherigen Absätze 2 bis 4 werden Absätze 3 bis 5.
 ddd) Im neuen Absatz 3 wird die Angabe „1407/2013“ durch die Angabe
 „2023/2831“, das Datum „18. 12. 2013“ durch das Datum „13.12.2023“ und die
@@ -99,44 +87,35 @@ d) Nummer 5.4.3 wird wie folgt geändert:
 aa) Absatz 1 erhält folgende Fassung:
 „5.4.3 Die Gewährung der Zuwendung zu den Ausführungskosten erfolgt auf
 Grundlage und nach den Vorschriften der AGVO, hier im Besonderen nach Artikel 56
-AGVO, ist mit dem Binnenmarkt i. S. des Artikels 107 AEUV vereinbar, wurde gegen-
-über der EU-Kommission angezeigt und unter der Beihilfe- Nummer SA.111115
+AGVO, ist mit dem Binnenmarkt i. S. des Artikels 107 AEUV vereinbar, wurde gegenüber der EU-Kommission angezeigt und unter der Beihilfe- Nummer SA.111115
 (2023/X) ab dem 0 1.01.2024 freigestellt.“
 bb) Es wird der folgende neue Absatz 2 eingefügt:
 „Informationen über jedes Einzelvorhaben von über 100 000 EUR werden in der
-Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Bei-
-hilfentransparenzdatenbank der Europäischen Kommission veröffentlicht.“
+Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Beihilfentransparenzdatenbank der Europäischen Kommission veröffentlicht.“
 cc) Der bisherige Absatz 2 wird Absatz 3 und darin wird die Angabe „SA.49473 (2017/XA)“
 durch die Angabe „SA.107195 (2023/XA)“ ersetzt.
-e) In Nummer 5.6.2 erster Spiegelstrich wird nach der Angabe „FlurbG“ das Leerzeichen ge-
-löscht.
+e) In Nummer 5.6.2 erster Spiegelstrich wird nach der Angabe „FlurbG“ das Leerzeichen gelöscht.
 7. Nummer 6 wird wie folgt geändert:
 a) Nummer 6.1.3.3 erhält folgende Fassung:
-„6.1.3.3 Der Innenausbau oder eine Umnutzung sind förderfähig, sofern es für die künf-
-tige Funktion des Förderobjektes erforderlich ist.“
+„6.1.3.3 Der Innenausbau oder eine Umnutzung sind förderfähig, sofern es für die künftige Funktion des Förderobjektes erforderlich ist.“
 b) Nummer 6.2.2 wird wie folgt geändert:
 aa) Am Ende von Nummer 6.2.2.2 wird der P unkt durch ein Komma ersetzt.
 bb) Es wird die folgende Nummer 6.2.2.3 angefügt:
-„6.2.2.3 Vereine, die für Vorhaben nach Nummer 6.1 eine Förderung des LSB Nie-
-dersachsen erhalten könnten.“
+„6.2.2.3 Vereine, die für Vorhaben nach Nummer 6.1 eine Förderung des LSB Niedersachsen erhalten könnten.“
 c) In Nummer 6.4.2.2 Satz 2 wird die Angabe „2023“ durch die Angabe „2025“ ersetzt.
 d) Nummer 6.4.5 wird wie folgt geändert:
 aa) Absatz 1 erhält folgende Fassung:
-„6.4.5 Die Gewährung der Zuwendung erfolgt auf Grundlage und nach den Vor-
-schriften der AGVO, hier im Besonderen nach den Artikel n 55 oder 56 AGVO, ist mit
+„6.4.5 Die Gewährung der Zuwendung erfolgt auf Grundlage und nach den Vorschriften der AGVO, hier im Besonderen nach den Artikel n 55 oder 56 AGVO, ist mit
 dem Binnenmarkt i. S. des Artikels 107 AEUV vereinbar, wurde gegenüber der EU-
 
-Nds. MBl. 2024 Nr. 45 vom 24. Januar 2024 Seite 4
 Kommission beantragt und unter der Beihilfe-N ummer SA.111115 (2023/X) ab dem
 01.01.2024 freigestellt.“
 bb) Es wird der folgende neue Absatz 2 eingefügt:
 „Informationen über jedes Einzelvorhaben von über 100 000 Euro werden in der
-Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Bei-
-hilfentransparenzdatenbank der Europäischen Kommission veröffentlicht.“
+Regel binnen sechs Monaten nach dem Tag der Gewährung der Beihilfe in der Beihilfentransparenzdatenbank der Europäischen Kommission veröffentlicht.“
 cc) Die bisherigen Absätze 2 und 3 werden Absätze 3 und 4.
 8. Nummer 7.1.3.2 erhält folgende Fassung:
-„7.1.3.2 Der Innenausbau zum Erhalt der gegenwärtigen Nutzung oder eine Umnutzung sind för-
-derfähig, sofern es für die künftige Funktion des Förderobjektes erforderlich ist.“
+„7.1.3.2 Der Innenausbau zum Erhalt der gegenwärtigen Nutzung oder eine Umnutzung sind förderfähig, sofern es für die künftige Funktion des Förderobjektes erforderlich ist.“
 9. Nummer 8.2 wird wie folgt geändert:
 aa) Es wird der folgende neue Satz 2 eingefügt:
 „Die Regelung gilt für Anträge bis zum Antragsstichtag 30.09.2023 (siehe Nummer 9.3.1).“

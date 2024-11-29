@@ -20,23 +20,16 @@ Dienststellen mit Kreditkarten unter Beachtung der folgenden Regelungen geleiste
 1. Allgemeines
 1.1 Bei der Beschaffung und der Nutzung von Kreditkarten ist der Grundsatz der Wirtschaftlichkeit und
 Sparsamkeit zu beachten.
-1.2 Die Beschaffung einer Kreditkarte bedarf der vorherigen Zustimmung (Einwilligung) der obersten Lan-
-desbehörde, die auch den Nutzungsumfang (Zweckbestimmung der Auszahlungen) festlegt. Dabei soll ein
+1.2 Die Beschaffung einer Kreditkarte bedarf der vorherigen Zustimmung (Einwilligung) der obersten Landesbehörde, die auch den Nutzungsumfang (Zweckbestimmung der Auszahlungen) festlegt. Dabei soll ein
 Höchstbetrag (Kreditrahmen) bestimmt werden. Die oberste Landesbehörde kann diese Befugnisse auf die
 ihr unmittelbar nachgeordneten Dienststellen delegieren, sofern dadurch die betroffene Dienststelle nicht
 selbst zuständig wird.
-Bargeldabhebungen sind durch die oberste Landesbehörde nur in besonderen Ausnahmefällen zuzulas-
-sen, wie z. B. Reisen in Länder , in denen der Geldverkehr nicht anders abgewickelt werden kann oder wenn
-grundsätzlich ein erheblicher Aufwand damit verbunden ist. Die Erlaubnis, mit der Kreditkarte Bargeld abzu-
-heben, ist auf diesen besonderen Fall zu begrenzen. Die oberste Landesbehörde kann die Befugnisse in die-
-sem Zusammenhang nicht auf die ihr unmittelbar nachgeordneten Dienststellen übertragen.
+Bargeldabhebungen sind durch die oberste Landesbehörde nur in besonderen Ausnahmefällen zuzulassen, wie z. B. Reisen in Länder , in denen der Geldverkehr nicht anders abgewickelt werden kann oder wenn
+grundsätzlich ein erheblicher Aufwand damit verbunden ist. Die Erlaubnis, mit der Kreditkarte Bargeld abzuheben, ist auf diesen besonderen Fall zu begrenzen. Die oberste Landesbehörde kann die Befugnisse in diesem Zusammenhang nicht auf die ihr unmittelbar nachgeordneten Dienststellen übertragen.
 1.3 Die Kreditkarte wird auf eine natürliche Person ausgestellt und nicht auf die Einrichtung. Das bedeutet,
-dass nur die Karteninhaberin oder der Karteninhaber mit der Karte Transaktionen ausführen darf. Eine miss-
-bräuchliche Nutzung durch Dritte kann im Wiederholungsfall zur Sperrung der Karte führen. Auskünfte seitens
-des ausgebenden Kreditinstituts können nur der Karteninhaberin/dem Karteninhaber persönlich erteilt wer-
-den.
+dass nur die Karteninhaberin oder der Karteninhaber mit der Karte Transaktionen ausführen darf. Eine missbräuchliche Nutzung durch Dritte kann im Wiederholungsfall zur Sperrung der Karte führen. Auskünfte seitens
+des ausgebenden Kreditinstituts können nur der Karteninhaberin/dem Karteninhaber persönlich erteilt werden.
 
-Nds. MBl. 2024 Nr. 411 vom 24. September 2024 Seite 2
 2. Kreditkartenverträge mit der NORD/LB
 2.1 Rahmenvertrag
 Das Land Niedersachsen, vertreten durch das MF, vertreten durch die LHK hat mit der NORD/LB einen
@@ -48,10 +41,8 @@ der Niedersächsischen Landesverwaltung, für die unter der Kontoinhaberin LHK i
 Rahmenvertrages eine VisaCard Business One von der NORD/LB erhalten.
 2.2 Legitimation
 Jeder Kreditkartenantrag wird individuell für jede Antragstellerin und jeden Antragsteller angefertigt und
-darf nur einmal verwendet werden. Die Kartenanträge sind beim Team Zahlungsverkehr der LHK (E-Mail: lhk-
-zahlungsverkehr@mf.niedersachsen.de) anzufordern. Hierbei sind die konkrete Bezeichnung der Dienststelle
-sowie die Anschrift und das bei der NORD/LB von der LHK geführte dienststellenbezogene HVS-106-Giro-
-konto oder ggf. 190- Untergirokonto zu benennen.
+darf nur einmal verwendet werden. Die Kartenanträge sind beim Team Zahlungsverkehr der LHK (E-Mail: lhkzahlungsverkehr@mf.niedersachsen.de) anzufordern. Hierbei sind die konkrete Bezeichnung der Dienststelle
+sowie die Anschrift und das bei der NORD/LB von der LHK geführte dienststellenbezogene HVS-106-Girokonto oder ggf. 190- Untergirokonto zu benennen.
 Zudem ist eine Kopie der Vorder- und Rückseite des Personalausweises der künftigen Karteninhaberin
 oder des künftigen Karteninhabers einzureichen. Diese Kopie ist von der Dienststellenleitung oder der oder
 dem siegelführungsberechtigten Bediensteten mit Unterschrift und Dienstsiegelabdruck zu versehen. Hiermit
@@ -61,23 +52,17 @@ VwVfG, dass sie oder er sich Gewissheit über die Person verschafft hat.
 Der vorbereitete Kartenantrag ist von der Antragstellerin oder dem Antragsteller zu unterschreiben und der
 LHK zu übersenden.
 Bei neu produzierten Kreditkarten (für Neukunden und Folgekarten bei Bestandskunden) wird zwingend
-eine PIN vergeben. Der Kreditkartenantrag ist hier entsprechend vorausgefüllt. Die PIN wird auch zum Bezah-
-len an elektronischen Kassen – auch online – benötigt.
+eine PIN vergeben. Der Kreditkartenantrag ist hier entsprechend vorausgefüllt. Die PIN wird auch zum Bezahlen an elektronischen Kassen – auch online – benötigt.
 2.4 Mitwirkung der LHK
 Die LHK zeichnet als Kontoinhaberin in dem Feld „Firma“ den Kartenantrag und übersendet ihn dann an
 die NORD/LB. Alle Veränderungen (Ausscheiden, Änderung der Dienststellenanschrift der Karteninhaberin
-oder des Karteninhabers, Kündigung des Kartenvertrages, Verlust der Kreditkarte, Veränderung des Kredit-
-kartenlimits, etc.) sind zwingend der LHK und durch diese der NORD/LB anzuzeigen. Die LHK erhält von der
-NORD/LB Abschriften der an die Karteninhaberinnen und Karteninhaber gerichteten monatlichen Abrechnun-
-gen.
+oder des Karteninhabers, Kündigung des Kartenvertrages, Verlust der Kreditkarte, Veränderung des Kreditkartenlimits, etc.) sind zwingend der LHK und durch diese der NORD/LB anzuzeigen. Die LHK erhält von der
+NORD/LB Abschriften der an die Karteninhaberinnen und Karteninhaber gerichteten monatlichen Abrechnungen.
 3. Nutzungen
 3.1 Der im Kartenantrag festzulegende persönliche Verfügungsrahmen ist so gering wie möglich zu halten.
-3.2 Bargeldabhebungen mit der Kreditkarte sind grundsätzlich unzulässig, soweit nicht die oberste Lan-
-desbehörde eine Ausnahme gemäß Nummer 1.2 bestimmt hat.
+3.2 Bargeldabhebungen mit der Kreditkarte sind grundsätzlich unzulässig, soweit nicht die oberste Landesbehörde eine Ausnahme gemäß Nummer 1.2 bestimmt hat.
 3.3 Die Kreditkarte darf nur für dienstliche Zwecke genutzt werden. Eine private Nutzung ist nicht zulässig.
-3.4 Die Kreditkarteninhaberin oder der Kreditkarteninhaber ist für die mit den Kreditkartenmerkmalen ge-
-leisteten Zahlungen persönlich verantwortlich. Die Kreditkartenvertragsbedingungen sind zu beachten. Insbe-
-sondere ist bei einem Verdacht auf missbräuchliche Verfügungen oder bei einem Verlust der Kreditkarte die
+3.4 Die Kreditkarteninhaberin oder der Kreditkarteninhaber ist für die mit den Kreditkartenmerkmalen geleisteten Zahlungen persönlich verantwortlich. Die Kreditkartenvertragsbedingungen sind zu beachten. Insbesondere ist bei einem Verdacht auf missbräuchliche Verfügungen oder bei einem Verlust der Kreditkarte die
 vorgesehene Unterrichtung zur Sperrung der Kreditkarte unverzüglich vorzunehmen.
 3.5 Die Kreditkarte ist bei Geschäften im Internet wegen der damit verbundenen erhöhten Risiken mit
 besonderer Sorgfalt zu nutzen. Die Kreditkartenmerkmale (Kartennummer, Gültigkeitsdauer sowie der
@@ -85,34 +70,26 @@ CVV/CVC-Code) sollten nur bei Einsatz von SET- oder SSL-Verfahren über das Inte
 anderen relativ sicheren Wegen (z. B. als passwortgeschützter Anhang einer E-Mail oder in einer E-Mail, die
 Ende-zu-Ende-verschlüsselt ist), übermittelt werden.
 
-Nds. MBl. 2024 Nr. 411 vom 24. September 2024 Seite 3
 3.6 Wird eine Kreditkarte für die Bezahlung von Onlinekäufen verwendet, ist dafür ab dem 14.09.2019
-eine sog. starke Kundenauthentifizierung erforderlich. Hierfür wird ergänzend zu Nummer 3.5 ein Sicherheits-
-tool benötigt. So sind für von der NORD/LB herausgegebene Kreditkarten beispiel sweise eine Registrierung
+eine sog. starke Kundenauthentifizierung erforderlich. Hierfür wird ergänzend zu Nummer 3.5 ein Sicherheitstool benötigt. So sind für von der NORD/LB herausgegebene Kreditkarten beispiel sweise eine Registrierung
 und Aktivierung der App „S-ID-Check“ auf einem dienstlichen Smartphone oder Tablet notwendig.
-3.7 Technische Empfehlungen sind dem Dokument „Servicerisiko beschreibung S-ID-Check“ im MF-Intra-
-net unter „HWS/Regelungen zum Zahlungsverkehr“ zu entnehmen. Die Einhaltung der IT-Sicherheit ist durch
+3.7 Technische Empfehlungen sind dem Dokument „Servicerisiko beschreibung S-ID-Check“ im MF-Intranet unter „HWS/Regelungen zum Zahlungsverkehr“ zu entnehmen. Die Einhaltung der IT-Sicherheit ist durch
 die obersten Landesbehörden zu gewährleisten.
 4. Haftung
-4.1 Unregelmäßigkeiten bei der Nutzung der Kreditkarte müssen gegenüber der Dienstelle angezeigt wer-
-den.
+4.1 Unregelmäßigkeiten bei der Nutzung der Kreditkarte müssen gegenüber der Dienstelle angezeigt werden.
 4.2 Die LHK haftet nicht für die mit der Kreditkarte eingegangenen Rechtsgeschäfte.
 5. Ausgleich Kreditkartenkonto
-Der Ausgleich des Kreditkartenkontos erfolgt zu Lasten des im Kreditkartenantrag genannten dienststel-
-lenbezogenen HVS- 106-Girokontos bzw. ggf. 190- Untergirokontos.
+Der Ausgleich des Kreditkartenkontos erfolgt zu Lasten des im Kreditkartenantrag genannten dienststellenbezogenen HVS- 106-Girokontos bzw. ggf. 190- Untergirokontos.
 Diese Belastung wird im HVS auf das Vorschusskonto der Dienststelle gebucht. Die Dienststelle hat den
 Vorschuss schnellstmöglich abzuwickeln und die Ausgaben im Haushalt nachzuweisen. Dazu erteilt die
 Dienststelle eine Auszahlungsanordnung mit dem Zahlungsverfahren „MAN“ und bucht den Vorschuss um.
 6. Veränderung des Kreditkartenlimits
 Soll das Kreditkartenlimit dauerhaft verändert werden, ist dieses dem Karten ausgebenden Kreditinstitut
-über die Dienststellenleitung oder die siegelführungsberechtigte Bedienstete oder den siegelführungsberech-
-tigten Bediensteten rechtzeitig mitzuteilen.
+über die Dienststellenleitung oder die siegelführungsberechtigte Bedienstete oder den siegelführungsberechtigten Bediensteten rechtzeitig mitzuteilen.
 Für Karten, die die NORD/LB herausgegeben hat, ist die entsprechende Mitteilung der LHK zuzuleiten. Für
 diese Kreditkarten kann das Limit im Fall eines akuten, situativen Bedarfs taggleich erhöht werden.
-Hierzu ist das gewünschte Limit, der Name der Karteninhaberin oder des Karteninhabers, die Kartennum-
-mer und die Dauer der Erhöhung mit dem Hinweis, dass das Kreditkartenlimit taggleich angepasst werden
-soll, der Landeshauptkasse unter der E- Mail-Adresse: lhk-zahlungsverkehr@mf.niedersachsen.de bis spätes-
-tens 12.00 Uhr mitzuteilen. Von dieser Möglichkeit ist nur in Ausnahmefällen Gebrauch zu machen.
+Hierzu ist das gewünschte Limit, der Name der Karteninhaberin oder des Karteninhabers, die Kartennummer und die Dauer der Erhöhung mit dem Hinweis, dass das Kreditkartenlimit taggleich angepasst werden
+soll, der Landeshauptkasse unter der E- Mail-Adresse: lhk-zahlungsverkehr@mf.niedersachsen.de bis spätestens 12.00 Uhr mitzuteilen. Von dieser Möglichkeit ist nur in Ausnahmefällen Gebrauch zu machen.
 7. Abrechnung
 7.1 Der von dem Kreditkartenanbieter für das Kreditkartenkonto erstellte Kontoauszug (Abrechnung) ist
 unverzüglich zu prüfen. Unberechtigte Zahlungsposten sind entsprechend den Kreditkartenvertragsbedingun- gen zu beanstanden. Der Abrechnungszeitraum, auf den sich auch der im Kartenantrag festgelegte monatliche Verfügungsrahmen bezieht, läuft jeweils vom Siebenten eines Monats bis zum Siebenten des Folgemonats.
@@ -126,7 +103,6 @@ Landesbetriebe führen in Abgrenzung zu Nummer 2.1 Satz 2 ihre Geschäftsgirokon
 und können Kreditkarten in eigener Verantwortung beantragen. Eine Mitwirkung der LHK gemäß Nummer 2.4
 entfällt. Die Nummern 1, 3, 7 und 8 dieses RdErl. finden für Landesbetriebe analog Anwendung.
 
-Nds. MBl. 2024 Nr. 411 vom 24. September 2024 Seite 4
 10. Schlussbestimmungen
 Dieser RdErl. tritt am 18 .09.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass tritt
 mit Ablauf des 17.09.2024 außer Kraft.

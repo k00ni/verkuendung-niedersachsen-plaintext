@@ -15,19 +15,12 @@ Bezug: RdErl. v. 17.08.2020 (Nds. MBl. S. 912)
 – VORIS 21021 –
 
 1. Allgemeines
-Das 2007 bei der Polizei Niedersachsen eingeführte Online- Verfahren der sog. Onlinewache hat sich be-
-währt und ist etablierter Bestandteil eines modernen, bürgerorientierten Auftritts der Polizei Niedersachsen.
-Es trägt den Anforderungen einer digitalisierten Gesellschaft Rechnung und zeigt insbesondere bei Entwick-
-lungen wie der COVID-19-Pandemie, wie wichtig ein solch digitales Angebot ist. Aufgrund des Weiterentwick-
-lungsbedarfes der niedersächsischen Onlinewache und zur Harmonisierung der digitalen, polizeilichen Ange-
-bote aller Länderpolizeien ist die Polizei Niedersachsen nunmehr auf ein bundesweites Produkt der Online-
-wache umgestiegen, welches im Rahmen der Umsetzung des Onlinezugangsgesetzes durch die Länder Saar-
-land und Rheinland -Pfalz entwickelt und den Ländern zur Nutzung zur Verfügung gestellt wurde. Für den
+Das 2007 bei der Polizei Niedersachsen eingeführte Online- Verfahren der sog. Onlinewache hat sich bewährt und ist etablierter Bestandteil eines modernen, bürgerorientierten Auftritts der Polizei Niedersachsen.
+Es trägt den Anforderungen einer digitalisierten Gesellschaft Rechnung und zeigt insbesondere bei Entwicklungen wie der COVID-19-Pandemie, wie wichtig ein solch digitales Angebot ist. Aufgrund des Weiterentwicklungsbedarfes der niedersächsischen Onlinewache und zur Harmonisierung der digitalen, polizeilichen Angebote aller Länderpolizeien ist die Polizei Niedersachsen nunmehr auf ein bundesweites Produkt der Onlinewache umgestiegen, welches im Rahmen der Umsetzung des Onlinezugangsgesetzes durch die Länder Saarland und Rheinland -Pfalz entwickelt und den Ländern zur Nutzung zur Verfügung gestellt wurde. Für den
 Betrieb gelten die nachfolgenden Regelungen.
 2. Vorgangsarten
 Die Onlinewache der Polizei Niedersachsen stellt den Nutzenden unter einem zentralen Portal (
-https://por-
-tal.onlinewache.polizei.de) eine digitale Eingabemöglichkeit zur Übermittlung von Informationen an die Polizei
+https://portal.onlinewache.polizei.de) eine digitale Eingabemöglichkeit zur Übermittlung von Informationen an die Polizei
 zur Verfügung. Die Polizei erhält durch diesen Service ein Mehr an Informationen, was bei Hinweisen und
 Anzeigen zu strafbaren Handlungen konkretere Ansatzpunkte für die Ermittlungen erwarten lässt.
 Folgende Eingabemöglichkeiten sind abrufbar:
@@ -38,7 +31,6 @@ Folgende Eingabemöglichkeiten sind abrufbar:
 – Straftaten anderer Art,
 – Hass im Netz;
 
-Nds. MBl. 2024 Nr. 270 vom 13. Juni 2024 Seite 2
 2.2 Weitere Vorgänge
 – Hinweisgabe (z. B. ungewöhnliche Beobachtungen),
 – Hinweise zu Korruption und Wirtschaftskriminalität ,
@@ -46,33 +38,23 @@ Nds. MBl. 2024 Nr. 270 vom 13. Juni 2024 Seite 2
 – Informationen zu Prävention und Opferschutz,
 – Dienststellenfinder (perspektivisch).
 3. Bearbeitung der Vorgänge
-Die Nutzenden der Onlinewache erhalten nach Anzeigeerstattung, Hinweisgabe oder sonstiger Kontakt-
-aufnahme zur Polizei eine Sendebestätigung mit einer Vorgangsnummer, die im weiteren Verlauf der Bear-
-beitung im Vorgangsbearbeitungssystem (VBS) verwendet wird. Zusätzlich ist es möglich, Dokumente und
+Die Nutzenden der Onlinewache erhalten nach Anzeigeerstattung, Hinweisgabe oder sonstiger Kontaktaufnahme zur Polizei eine Sendebestätigung mit einer Vorgangsnummer, die im weiteren Verlauf der Bearbeitung im Vorgangsbearbeitungssystem (VBS) verwendet wird. Zusätzlich ist es möglich, Dokumente und
 Bilddateien in den Vorgang zu laden.
 Erfasste Sachverhalte werden den regionalen Polizeibehörden in dem sog. „Backoffice“ der Onlinewache
-zur Bewertung präsentiert. Eine Bewertung erfolgt durch die im 24- Stunden- Betrieb besetzten Leitstellen hin-
-sichtlich eventuell erforderlicher Sofortmaßnahmen. Weiter nehmen die Mitarbeitenden der Leitstellen eine
-Qualifizierung der Anzeigen vor und initiieren anschließend den automatischen Import in das Vorgangsbear-
-beitungssystem NIVADIS. Auch die hochgeladenen Dateien werden nach entsprechender Bereinigung im
+zur Bewertung präsentiert. Eine Bewertung erfolgt durch die im 24- Stunden- Betrieb besetzten Leitstellen hinsichtlich eventuell erforderlicher Sofortmaßnahmen. Weiter nehmen die Mitarbeitenden der Leitstellen eine
+Qualifizierung der Anzeigen vor und initiieren anschließend den automatischen Import in das Vorgangsbearbeitungssystem NIVADIS. Auch die hochgeladenen Dateien werden nach entsprechender Bereinigung im
 PDF-Format in den Vorgang ins VBS geladen. Alternativ ist auch eine Abgabe des Sachverhalts per E-Mail
 an eine Dienststelle möglich.
 Die weitere Bearbeitung erfolgt durch die zugewiesene Polizeidienststelle.
-Hinweise zu Korruption und Wirtschaftskriminalität kann die Nutzende über einen Link direkt im sog. Busi-
-ness Keeper Monitoring System (BKMS) eingeben, welches auch die Möglichkeit eröffnet, anonym Hinweise
+Hinweise zu Korruption und Wirtschaftskriminalität kann die Nutzende über einen Link direkt im sog. Business Keeper Monitoring System (BKMS) eingeben, welches auch die Möglichkeit eröffnet, anonym Hinweise
 mitzuteilen. Die Steuerung bzw. Bearbeitung dieser Hinweise erfolgt unter Berücksichtigung der Richtlinie zur
-Intensivierung der Verfolgung der Korruptionsdelinquenz des Landeskriminalamtes Niedersachsen (Num-
-mer 2.2.3; Stand 01.01.2012).
+Intensivierung der Verfolgung der Korruptionsdelinquenz des Landeskriminalamtes Niedersachsen (Nummer 2.2.3; Stand 01.01.2012).
 4. Rechtliche Hinweise
 Strafanzeigen i. S. des § 158 Abs. 1 StPO sind nicht an eine Form gebunden. Online- Anzeigen sind daher
-wie andere mündliche oder schriftliche Anzeigen zu bearbeiten. Hinsichtlich des Strafantrags gelten die Best-
-immungen des § 158 Abs. 2 StPO.
-Notwendige Unterschriften sind durch die bearbeitende Dienststelle im Rahmen der laufenden Sachbear-
-beitung einzuholen; Merkblätter (z. B. Merkblatt über Rechte von Verletzten und Geschädigten im Strafverfah-
-ren [StP 2]) werden den Anzeigeerstattenden über die Onlinewache zum Download zur Verfügung gestellt.
+wie andere mündliche oder schriftliche Anzeigen zu bearbeiten. Hinsichtlich des Strafantrags gelten die Bestimmungen des § 158 Abs. 2 StPO.
+Notwendige Unterschriften sind durch die bearbeitende Dienststelle im Rahmen der laufenden Sachbearbeitung einzuholen; Merkblätter (z. B. Merkblatt über Rechte von Verletzten und Geschädigten im Strafverfahren [StP 2]) werden den Anzeigeerstattenden über die Onlinewache zum Download zur Verfügung gestellt.
 5. Evaluation
-Nach einer Erprobungsphase von neun Monaten ist eine erste Evaluation in Hinblick auf den Personalein-
-satz und Aufwand vorgesehen.
+Nach einer Erprobungsphase von neun Monaten ist eine erste Evaluation in Hinblick auf den Personaleinsatz und Aufwand vorgesehen.
 6. Schlussbestimmungen
 Dieser RdErl. tritt am 01.07.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass tritt
 mit Ablauf des 30.06.2024 außer Kraft.

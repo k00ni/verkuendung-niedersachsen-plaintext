@@ -17,12 +17,10 @@ und in Arbeitskarten dargestellt.
 Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Das Überschwemmungsgebiet ist ab dem
 Tag nach dieser Bek. gemäß § 76 Abs. 3 WHG vom 31.07.2009 (BGBl. I S. 2585), zuletzt geändert durch
 Artikel 7 des Gesetzes vom 22.12.2023 (BGBl. 2023 I Nr. 409), i. V. m. § 115 NWG vom 19.02.2010 (Nds.
-GVBl. S. 64), zuletzt geändert durch Artikel 7 des Gesetzes vom 12.12.2023 (Nds. GVBl. S. 289), vorläufig gesichert. Es gelten gemäß § 78 WHG die Verbote und Genehmigungsvorbehalte für Überschwemmungsge-
-biete.
+GVBl. S. 64), zuletzt geändert durch Artikel 7 des Gesetzes vom 12.12.2023 (Nds. GVBl. S. 289), vorläufig gesichert. Es gelten gemäß § 78 WHG die Verbote und Genehmigungsvorbehalte für Überschwemmungsgebiete.
 Das Überschwemmungsgebiet erstreckt sich auf die Gebiete der Landkreise Celle und Gifhorn, der Stadt
 Celle und der Region Hannover, der Samtgemeinden Flotwedel und Meinersen, der Gemeinde Uetze sowie
-der Stadt Gifhorn und ist in den mit veröffentlichten Übersichtskarten (Anlage) im Maßstab 1 : 50 000 darge-
-stellt. Die Arbeitskarten im Maßstab 1 : 5 000 (Blatt 1 bis 29) werden bei dem
+der Stadt Gifhorn und ist in den mit veröffentlichten Übersichtskarten (Anlage) im Maßstab 1 : 50 000 dargestellt. Die Arbeitskarten im Maßstab 1 : 5 000 (Blatt 1 bis 29) werden bei dem
 Landkreis Celle,
 Trift 26,
 29221 Celle,
@@ -35,23 +33,18 @@ Landkreis Gifhorn,
 Schlossplatz 1,
 38518 Gifhorn,
 
-Nds. MBl. 2024 Nr. 186 vom 24. April 2024 Seite 2
 und bei der
 Region Hannover,
 Höltystraße 17,
 30171 Hannover,
 aufbewahrt und können ab dem Tag nach dieser Bek. während der Dienststunden dort kostenlos eingesehen
-werden. In den Arbeitskarten sind die Grenzen des gemäß § 115 Abs. 4 NWG vorläufig gesicherten Über-
-schwemmungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte Überschwemmungs-
-gebiet selbst ist blau dargestellt.
+werden. In den Arbeitskarten sind die Grenzen des gemäß § 115 Abs. 4 NWG vorläufig gesicherten Überschwemmungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte Überschwemmungsgebiet selbst ist blau dargestellt.
 Da die Überschwemmungsgebiete der Aller in den Gebieten des Landkreises Celle und der Stadt Celle
-bereits durch Veröffentlichungen der Bezugserlass a) und b) vorläufig gesichert wurden, werden die Bezugs-
-bekanntmachungen durch diese Bek. wie folgt ersetzt: Die Bek. zu a), betreffend den Landkreis Celle, wird
+bereits durch Veröffentlichungen der Bezugserlass a) und b) vorläufig gesichert wurden, werden die Bezugsbekanntmachungen durch diese Bek. wie folgt ersetzt: Die Bek. zu a), betreffend den Landkreis Celle, wird
 durch diese Bek. vollumfänglich ersetzt. Die Bek. zu b) werden durch diese Bek. ausschließlich in den hier
 bekanntgemachten Verfahrengrenzen, betreffend die Stadt Celle, ersetzt.
 Rechtsbehelfsbelehrung:
-Gegen diese Bek. kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Wi-
-derspruch ist schriftlich oder zur Niederschrift bei dem
+Gegen diese Bek. kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Widerspruch ist schriftlich oder zur Niederschrift bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
 Betriebsstelle Verden,
 Bürgermeister-Münchmeyer-Straße 6,
@@ -68,9 +61,7 @@ Am Sportplatz 23,
 26506 Norden,
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- nieder-
-sachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNo-
-des=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
 108000
 110000

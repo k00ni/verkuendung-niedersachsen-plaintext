@@ -15,14 +15,12 @@ die aus dem nachstehenden Verzeichnis ersichtlichen Kreiswahlleiterinnen und Kre
 Stellvertretungen ernannt worden:
 Wahlkreis
 Nr.
-Name des Wahl-
-kreises
+Name des Wahlkreises
 Kreiswahlleiterin oder
 Kreiswahlleiter
 Stellvertreterin oder
 Stellvertreter
-Dienststelle der Wahlleite-
-rin oder des Wahlleiters
+Dienststelle der Wahlleiterin oder des Wahlleiters
 a = Telefon
 b = Telefax
 c = E-Mail
@@ -35,8 +33,7 @@ Fischteichweg 7– 13
 26603 Aurich
 a: 04941 16-0
 b: 04941 16-1096
-c: wahlen@landkreis-au-
-rich.de
+c: wahlen@landkreis-aurich.de
 25 Unterems Kreisverwaltungsoberrätin
 Freesemann
 Kreisverwaltungsrat
@@ -47,8 +44,7 @@ Bergmannstraße 37
 a: 0491 926-1370
 b: 0491 926-91370
 c: wahlen@lkleer.de
-26 Friesland – Wil-
-helmshaven –
+26 Friesland – Wilhelmshaven –
 Wittmund
 Oberbürgermeister
 Feist
@@ -61,8 +57,7 @@ a: 04421 12-1234
 b: –
 c: wahlamt@
 wilhelmshaven.de
-27 Oldenburg – Am-
-merland
+27 Oldenburg – Ammerland
 Stadtkämmerin
 Dr. Figura
 Städtischer Rat
@@ -72,21 +67,17 @@ Pferdemarkt 14
 26121 Oldenburg
 a: 0441 235-3414
 b: 0441 235 -3430
-c: wahlen@stadt-olden-
-burg.de
+c: wahlen@stadt-oldenburg.de
 
-Nds. MBl. 2024 Nr. 356 vom 14. August 2024 Seite 2
 
 Wahlkreis
 Nr.
-Name des Wahl-
-kreises
+Name des Wahlkreises
 Kreiswahlleiterin oder
 Kreiswahlleiter
 Stellvertreterin oder
 Stellvertreter
-Dienststelle der Wahlleite-
-rin oder des Wahlleiters
+Dienststelle der Wahlleiterin oder des Wahlleiters
 a = Telefon
 b = Telefax
 c = E-Mail
@@ -114,10 +105,8 @@ Vincent-Lübeck-Straße 2
 27474 Cuxhaven
 a: 04721 66-0
 b: 04721 66-2040
-c: wahlen@landkreis-
-cuxhaven.de
-30 Stade I – Roten-
-burg II
+c: wahlen@landkreiscuxhaven.de
+30 Stade I – Rotenburg II
 Erster Kreisrat
 Heinze
 Kreisverwaltungsdirektorin
@@ -127,8 +116,7 @@ Am Sande 2
 21682 Stade
 a: 04141 12-0
 b: 04141 12-1025
-c: wahlen@landkreis-
-stade.de
+c: wahlen@landkreisstade.de
 31 Mittelems Erster Kreisrat
 Gerenkamp
 Kreisrat
@@ -150,8 +138,7 @@ Ravensberger Straße 20
 49377 Vechta
 a: 04441 898-0 b: 04441 898-1037
 c: info@landkreis-vechta.de
-33 Diepholz – Nien-
-burg I
+33 Diepholz – Nienburg I
 Kreisrätin
 Korfage
 Kreisamtsrätin
@@ -163,8 +150,7 @@ a: 05441 976-0
 b: 05441 976-1770
 c: kommunalaufsicht@
 diepholz.de
-34 Osterholz – Ver-
-den
+34 Osterholz – Verden
 Erste Kreisrätin
 Tryta
 Oberkreisrat
@@ -173,10 +159,8 @@ Landkreis Verden
 Lindhooper Straße 67
 27283 Verden (Aller)
 a: 04231 15-0 b: 04231 15-603
-c: wahlen@landkreis-ver-
-den.de
-35 Rotenburg I – Hei-
-dekreis
+c: wahlen@landkreis-verden.de
+35 Rotenburg I – Heidekreis
 Landrat
 Grote
 Erster Kreisrat
@@ -199,34 +183,28 @@ b: 04171 693-99100
 c: kreiswahlleiter@
 lkharburg.de
 
-Nds. MBl. 2024 Nr. 356 vom 14. August 2024 Seite 3
 Wahlkreis
 Nr.
-Name des Wahl-
-kreises
+Name des Wahlkreises
 Kreiswahlleiterin oder
 Kreiswahlleiter
 Stellvertreterin oder
 Stellvertreter
-Dienststelle der Wahlleite-
-rin oder des Wahlleiters
+Dienststelle der Wahlleiterin oder des Wahlleiters
 a = Telefon
 b = Telefax
 c = E-Mail
-37 Lüchow-Dannen-
-berg – Lüneburg
+37 Lüchow-Dannenberg – Lüneburg
 Landrätin
 Schulz
 Erster Kreisrat
 Schermuly
-Landkreis Lüchow-Dannen-
-berg
+Landkreis Lüchow-Dannenberg
 Königsberger Straße 10
 29439 Lüchow (Wendland)
 a: 05841 120-237
 b: 05841 120-88 200
-c: wahlen@luechow-dannen-
-berg.de
+c: wahlen@luechow-dannenberg.de
 38 Osnabrück-Land Erste Kreisrätin
 Rosensträter
 Kreisverwaltungsdirektor
@@ -267,8 +245,7 @@ Trammplatz 2
 30159 Hannover
 a: 0511 168-42655
 b: 0511 168-45129
-c: wahlen@hannover-
-stadt.de
+c: wahlen@hannoverstadt.de
 42 Stadt Hannover II siehe WK 41 siehe WK 41 siehe WK 41
 43 Hannover-Land I Erster Regionsrat
 Palandt
@@ -279,8 +256,7 @@ Hildesheimer Straße 20
 30169 Hannover
 a: 0511 616-23728
 b: 0511 616-34190
-c: wahlbuero@region-hanno-
-ver.de
+c: wahlbuero@region-hannover.de
 44 Celle – Uelzen Landrat
 Dr. Blume
 Erster Kreisrat
@@ -293,8 +269,7 @@ b: 0581 82-445
 c: info@landkreis-uelzen.de
 45 Gifhorn – Peine Kreisverwaltungsoberrat
 Sund
-Ltd. Kreisverwaltungsdirek-
-tor
+Ltd. Kreisverwaltungsdirektor
 Rode
 Landkreis Gifhorn
 Schlossplatz 1
@@ -311,21 +286,17 @@ Landkreis Hameln-Pyrmont
 Süntelstraße 9
 31785 Hameln
 a: 05151 903-0 b: 05151 903-1502
-c: landkreis@hameln-pyr-
-mont.de
+c: landkreis@hameln-pyrmont.de
 47 Hannover-Land II siehe WK 43 siehe WK 43 siehe WK 43
 
-Nds. MBl. 2024 Nr. 356 vom 14. August 2024 Seite 4
 Wahlkreis
 Nr.
-Name des Wahl-
-kreises
+Name des Wahlkreises
 Kreiswahlleiterin oder
 Kreiswahlleiter
 Stellvertreterin oder
 Stellvertreter
-Dienststelle der Wahlleite-
-rin oder des Wahlleiters
+Dienststelle der Wahlleiterin oder des Wahlleiters
 a = Telefon
 b = Telefax
 c = E-Mail
@@ -341,8 +312,7 @@ a: 05121 309-2251
 b: 05121 309-952251
 c: wahlen@
 landkreishildesheim.de
-49 Salzgitter – Wol-
-fenbüttel
+49 Salzgitter – Wolfenbüttel
 Erster Kreisrat
 Beddig
 Referatsleiterin
@@ -362,8 +332,7 @@ Reichsstraße 3
 a: 0531 470 -4114
 b: 0531 470-4141
 c: wahlen@braunschweig.de
-51 Helmstedt – Wolfs-
-burg
+51 Helmstedt – Wolfsburg
 Landrat
 Radeck
 Erster Kreisrat
@@ -373,8 +342,7 @@ Südertor 6
 38350 Helmstedt
 a: 05351 121-1208
 b: 05351 121-1661
-c: wahlen@landkreis-helm-
-stedt.de
+c: wahlen@landkreis-helmstedt.de
 52 Goslar – Northeim
 – Göttingen II
 Kreisverwaltungsdirektor

@@ -39,7 +39,6 @@ werden. In den Arbeitskarten ist die Grenze des nach § 115 Abs. 4 NWG vorläufi
 Überschwemmungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte
 Überschwemmungsgebiet selbst ist blau dargestellt.
 
-Nds. MBl. 2024 Nr. 37 vom 24. Januar 2024 Seite 2
 Da die Überschwemmungsgebiete der Kimmer Bäke und der Berne in den Landkreisen Oldenburg und
 Wersermarsch bereits durch Veröffentlichung im Nds. MBl. am 18.10.2023 vorläufig gesichert wurden, wird
 die Bezugsbekanntmachung durch diese Bek. ersetzt.
@@ -61,6 +60,5 @@ Direktion, Am Sportplatz 23,
 26506 Norden
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung eingestellt unter: https://www.umweltkarten-
-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogN
+Die aktuellen Karten werden nach der Bearbeitung eingestellt unter: https://www.umweltkartenniedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogN
 odes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.

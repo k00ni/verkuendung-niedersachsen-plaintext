@@ -14,14 +14,11 @@ RdErl. d. MK v. 15.07.2024 – 25-81005 –
 – VORIS 22410 –
 
 1. Zuwendungszweck, Rechtsgrundlage
-1.1 Das Land Niedersachsen gewährt nach Maßgabe dieser Richtlinie, der Bek. der Verwaltungsverein-
-barung zur Durchführung des Gesetzes über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und
-Betreuungsangebote für Kinder im Grundschulalter „Verwaltungsvereinbarung Investitionsprogramm Ganz-
-tagsausbau“ vom 17.05.2023 (BAnz AT 23.06.2023 B2) – im Folgenden: VV II – und der VV zu § 44 LHO
+1.1 Das Land Niedersachsen gewährt nach Maßgabe dieser Richtlinie, der Bek. der Verwaltungsvereinbarung zur Durchführung des Gesetzes über Finanzhilfen des Bundes zum Ausbau ganztägiger Bildungs- und
+Betreuungsangebote für Kinder im Grundschulalter „Verwaltungsvereinbarung Investitionsprogramm Ganztagsausbau“ vom 17.05.2023 (BAnz AT 23.06.2023 B2) – im Folgenden: VV II – und der VV zu § 44 LHO
 Zuwendungen für den Auf- und Ausbau von Ganztagsschulen zur Verbesserung eines bedarfsgerechten und
 qualitativ hochwertigen Ganztagsangebots an Schulen in freier Trägerschaft.
-1.2 Ein Anspruch der Antragsteller auf Gewährung einer Förderung besteht nicht. Die Bewilligungsbe-
-hörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+1.2 Ein Anspruch der Antragsteller auf Gewährung einer Förderung besteht nicht. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 2. Gegenstand der Förderung
 2.1 Gefördert werden
 – Schulen in freier Trägerschaft als finanzhilfeberechtigte Ersatzschulen i. S. der §§ 149 und 154 NSchG,
@@ -29,22 +26,15 @@ hörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verf�
 – schulorganisatorisch verbundene Schulsysteme mit Grundschulzweig /Primarstufe,
 – Förderschulen mit Primarstufe, die über ein Ganztagsangebot verfügen.
 Die Finanzhilfeberechtigung muss bis zum 31.10.2023 erfüllt sein.
-2.2 Ganztagsgrundschulen i. S. dieser Richtlinie sind ganztägig betriebene Grundschulen sowie schulor-
-ganisatorisch verbundene Schulsysteme mit Grundschulzweig/ Primarstufe und Förderschulen mit Ganztags-
-angeboten in der Primarstufe, soweit sie von Kindern im Grundschulalter (Jahrgang 1 b is 4) besucht werden
+2.2 Ganztagsgrundschulen i. S. dieser Richtlinie sind ganztägig betriebene Grundschulen sowie schulorganisatorisch verbundene Schulsysteme mit Grundschulzweig/ Primarstufe und Förderschulen mit Ganztagsangeboten in der Primarstufe, soweit sie von Kindern im Grundschulalter (Jahrgang 1 b is 4) besucht werden
 und ab dem 0 1.08.2026 sowie ab Beendigung der Maßnahmen den in Artikel 1 Nr. 3 Buchst. a GaFöG i. V. m.
 § 24 Abs. 4 SGB VIII und Artikel 2 GaFöG geregelten zeitlichen Betreuungsumfang anbieten können. Alle
-Investitionen und Maßnahmen müssen einen entsprechenden Beitrag hinsichtlich des jahrgangsweisen auf-
-steigenden Rechtsanspruchs auf Ganztagsbetreuung für Kinder im Grundschulalter ab dem 0 1.08.2026
+Investitionen und Maßnahmen müssen einen entsprechenden Beitrag hinsichtlich des jahrgangsweisen aufsteigenden Rechtsanspruchs auf Ganztagsbetreuung für Kinder im Grundschulalter ab dem 0 1.08.2026
 
-Nds. MBl. 2024 Nr. 322 vom 17. Juli 2024 Seite 2
-leisten. Das Ganztagsangebot muss mit dem jeweils zuständigen öffentlichen Träger der Kinder- und Jugend-
-hilfe abgestimmt sein.
-2.3 Förderfähig sind Investitionen für den Neubau, den Umbau, die Erweiterung – einschließlich des Er-
-werbs von Gebäuden und Grundstücken –, die (energetische) Sanierung sowie die Ausstattung ganztägiger
+leisten. Das Ganztagsangebot muss mit dem jeweils zuständigen öffentlichen Träger der Kinder- und Jugendhilfe abgestimmt sein.
+2.3 Förderfähig sind Investitionen für den Neubau, den Umbau, die Erweiterung – einschließlich des Erwerbs von Gebäuden und Grundstücken –, die (energetische) Sanierung sowie die Ausstattung ganztägiger
 Bildungs- und Betreuungsangebote unter den Voraussetzungen des § 3 Sätze 1 bis 4 GaFinHG einschließlich
-der damit zusammenhängenden investiven Begleit- und Folgemaßnahmen, soweit diese in einem unmittelba-
-ren und notwendigen Zusammenhang mit den Investitionen stehen.
+der damit zusammenhängenden investiven Begleit- und Folgemaßnahmen, soweit diese in einem unmittelbaren und notwendigen Zusammenhang mit den Investitionen stehen.
 2.4 Investitionen und Maßnahmen, die nicht dem Zweck e der Ganztagsbetreuung von Grundschulkindern,
 sondern ausschließlich dem Zwecke des Schulunterrichts dienen, sind nicht förderfähig (vgl. § 1 Abs. 1 Satz 3
 VV II).
@@ -56,12 +46,9 @@ Ausstattung der Schule und des Schulgebäudes sichergestellt und die anfallenden
 Zuständigkeit getragen werden. Diese Erklärung ist im Zuge der Antragstellung auf Förderung nach dieser
 Richtlinie vorzulegen.
 3. Zuwendungsempfänger
-Zuwendungsempfänger sind die Träger von Schulen und Schulsystemen i. S. von Nummer 2.1 – im Fol-
-genden: Träger –.
+Zuwendungsempfänger sind die Träger von Schulen und Schulsystemen i. S. von Nummer 2.1 – im Folgenden: Träger –.
 4. Bewilligungsvoraussetzungen
-4.1 Förderfähig sind Maßnahmen, die ab dem Inkrafttreten des GaFinHG, d. h. ab dem 12.10.2021, be-
-gonnen wurden und bis zum 31.12.2027 abgeschlossen werden. Zu den Maßnahmen zählen auch selbstän-
-dige Abschnitte eines Vorhabens.
+4.1 Förderfähig sind Maßnahmen, die ab dem Inkrafttreten des GaFinHG, d. h. ab dem 12.10.2021, begonnen wurden und bis zum 31.12.2027 abgeschlossen werden. Zu den Maßnahmen zählen auch selbständige Abschnitte eines Vorhabens.
 4.2 Maßnahmen nach Nummer 2.3, die ab dem 12.10.2021 begonnen wurden, dürfen zum Zeitpunkt des
 Inkrafttretens dieser Richtlinie noch nicht durch Abnahme aller Leistungen abgeschlossen sein.
 4.3 Maßnahmen und Vorhaben können nur gefördert werden, wenn die Gesamtfinanzierung gesichert i st.
@@ -69,30 +56,21 @@ Inkrafttretens dieser Richtlinie noch nicht durch Abnahme aller Leistungen abges
 gesetzliche Aufsicht – insbesondere Schulaufsicht – verfügen (vgl. § 1 Abs. 1 Satz 2 VV II und § 45 Abs. 1
 Satz 2 Nr. 3 SGB VIII).
 5. Art und Umfang, Höhe der Zuwendung
-5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektför-
-derung gewährt.
+5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektförderung gewährt.
 Der Fördersatz beträgt bis zu 70 % der zuwendungsfähigen Ausgaben aus Bundesmitteln sowie bis zu
-10 % der zuwendungsfähigen Ausgaben aus Landesmitteln (jeweils nicht höher als die in der Anlage genann-
-ten Summen je Schule) und mindestens 20 % Kofinanzierung aus Eigenmitteln.
+10 % der zuwendungsfähigen Ausgaben aus Landesmitteln (jeweils nicht höher als die in der Anlage genannten Summen je Schule) und mindestens 20 % Kofinanzierung aus Eigenmitteln.
 5.2 Zuwendungsfähig sind Ausgaben, die zur Realisierung der in Nummer 2.3 genannten Investitionen
 erforderlich sind und die Voraussetzungen der VV II erfüllen.
 5.3 Die Anlage zu dieser Richtlinie enthält den auf die jeweilige Schule entfallenden Höchstbetrag für den
-Zeitraum ab dem Inkrafttreten dieser Richtlinie bis einschließlich 31.10.2025 (erster Förderzeitraum, vgl. Num-
-mer 7.4).
-Der jeweilige Höchstbetrag der Zuwendung setzt sich zusammen aus dem Bundesanteil mit einem Sockel-
-betrag von 10 000 EUR und der Anzahl der Schülerinnen und Schüler der Schulstatistik des Vorjahres i n den
+Zeitraum ab dem Inkrafttreten dieser Richtlinie bis einschließlich 31.10.2025 (erster Förderzeitraum, vgl. Nummer 7.4).
+Der jeweilige Höchstbetrag der Zuwendung setzt sich zusammen aus dem Bundesanteil mit einem Sockelbetrag von 10 000 EUR und der Anzahl der Schülerinnen und Schüler der Schulstatistik des Vorjahres i n den
 Schuljahrgängen 1 bis 4 der Schule im Verhältnis zu der Gesamtzahl der Schülerinnen und Schüler in den
 Schuljahrgängen 1 bis 4 an Schulen in freier Trägerschaft in Niedersachsen sowie dem Landesanteil.
 
-Nds. MBl. 2024 Nr. 322 vom 17. Juli 2024 Seite 3
-5.4 Nicht beantragte Mittel nach Nummer 5. 3 werden nach Ablauf des 31.10.2025 zu einem Gesamt-
-budget zusammengeführt und ab 01.02.2026 zur Beantragung für alle Schulen der Anlage zu dieser Richtlinie
+5.4 Nicht beantragte Mittel nach Nummer 5. 3 werden nach Ablauf des 31.10.2025 zu einem Gesamtbudget zusammengeführt und ab 01.02.2026 zur Beantragung für alle Schulen der Anlage zu dieser Richtlinie
 freigegeben (zweiter Förderzeitraum).
-5.5 Folgeanträge für Mittel nach Nummer 5.4 müssen spätestens bis zum 31.07.2026 mit allen notwendi-
-gen Unterlagen (siehe § 3 Abs. 3 VV II sowie Nummer 7) über das Antragsverfahren bei den Bewilligungsbe-
-hörden vorliegen. Die Bewilligungsbehörden stellen die für die Antragstellung und den Verwendungsnachweis
-erforderlichen Informationen und Vordrucke auf ihrer Internetseite (www.bildungsportal-niedersachsen.de) be-
-reit.
+5.5 Folgeanträge für Mittel nach Nummer 5.4 müssen spätestens bis zum 31.07.2026 mit allen notwendigen Unterlagen (siehe § 3 Abs. 3 VV II sowie Nummer 7) über das Antragsverfahren bei den Bewilligungsbehörden vorliegen. Die Bewilligungsbehörden stellen die für die Antragstellung und den Verwendungsnachweis
+erforderlichen Informationen und Vordrucke auf ihrer Internetseite (www.bildungsportal-niedersachsen.de) bereit.
 5.6 Der Zuwendungsbetrag wird auf volle 1 000 EUR abgerundet.
 5.7 Die Zuwendung für eine Maßnahme darf den Wert von 7 500 EUR nicht unterschreiten.
 6. Sonstige Zuwendungsbestimmungen
@@ -102,14 +80,12 @@ verwenden, sofern sie nicht vorher durch vergleichbare Ausstattungen oder Einric
 6.2 Sämtliche Folgekosten (z. B. Betriebskosten, Reparaturkosten) sind vom Zuwendungsempfänger zu
 übernehmen, solange die angeschafften Gegenstände in der Schule verwendet werden.
 6.3 Eine Förderung nach dieser Richtlinie begründet keinen Anspruch auf eine Genehmigung nach
-§ 23 NSchG oder auf eine zusätzliche Personalausstattung. Eine nicht zweckentsprechende Mittelverwen-
-dung hat die Rückforderung der gewährten Zuwendungen (Bundes- und Landesmittel) zur Folge.
+§ 23 NSchG oder auf eine zusätzliche Personalausstattung. Eine nicht zweckentsprechende Mittelverwendung hat die Rückforderung der gewährten Zuwendungen (Bundes- und Landesmittel) zur Folge.
 6.4 Auf die Förderung nach dem Investitionsprogramm Ganztagsausbau des Bundes und der Länder ist
 durch die Zuwendungsempfänger in geeigneter Form hinzuweisen.
 7. Anweisungen zum Verfahren
 7.1 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die
-Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Bewilligungs bescheides und die Rückfor-
-derung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen
+Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Bewilligungs bescheides und die Rückforderung der gewährten Zuwendung gelten die VV zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen
 zugelassen worden sind.
 7.2 Bewilligungsbehörde ist das jeweils für die Schule zuständige RLSB.
 7.3 Es wird eine Ausnahme vom Verbot des vorzeitigen Vorhabenbeginns nach VV Nr. 1.3 zu § 44 LHO
@@ -119,9 +95,7 @@ werden.
 7.4 Anträge können mit den erforderlichen Angaben ab dem Zeitpunkt des Inkrafttretens dieser Richtlinie
 gestellt werden. Der Antrag muss spätestens bis zum 31.10.2025 mit allen notwendigen Unterlagen (siehe
 Nummer 7. 4.1 ff sowie § 3 Abs. 3 der VV II) über das Antragsverfahren bei der jeweiligen Bewilligungsbehörde
-vorliegen (erster Förderzeitraum). Die Bewilligungsbehörden stellen die für die Antragstellung und den Ver-
-wendungsnachweis erforderlichen Informationen und Vordrucke auf ihrer Internetseite (www.bildungsportal-
-niedersachsen.de) bereit.
+vorliegen (erster Förderzeitraum). Die Bewilligungsbehörden stellen die für die Antragstellung und den Verwendungsnachweis erforderlichen Informationen und Vordrucke auf ihrer Internetseite (www.bildungsportalniedersachsen.de) bereit.
 Alle Anträge müssen folgende Informationen enthalten:
 7.4.1 Eine Beschreibung der Maßnahme des Vorhabens.
 7.4.2 Eine Darlegung der messbaren Ziele der Maßnahme. Hierbei muss differenziert werden zwischen der
@@ -131,7 +105,6 @@ b) von der Schaffung räumlicher Kapazitäten profitieren,
 c) erhalten werden oder vom Erhalt räumlicher Kapazitäten profitieren.
 7.4.3 Eine Investitionsplanung (Kosten- und Zeitplanung, Beginn der Maßnahme) .
 
-Nds. MBl. 2024 Nr. 322 vom 17. Juli 2024 Seite 4
 7.4.4 Eine Darlegung, dass für die Maßnahme die Voraussetzungen der §§ 1, 2, 3 und 7 GaFinHG vorliegen
 und keine Doppelförderung beantragt wird.
 7.4.5 Bei Sanierungsaufwendungen die Versicherung, dass diese nicht ausschließlich der Instandhaltung
@@ -141,27 +114,18 @@ Maßnahme handelt.
 7.4.7 Eine Bestätigung, dass die Fördermittel des Bundes gemäß § 5 Abs. 1 VV II zusätzlich eingesetzt
 werden.
 Die Zusätzlichkeit ist gegeben, wenn keine Finanzmittel des Landes einschließlich seiner Kommunen
-ersetzt werden, die vor Inkrafttreten des Ganztagsfinanzhilfegesetzes am 12.10.2021 zur Finanzie-
-rung eines dem Zwecke des Ganztagsausbaus für Grundschulkinder dienenden Investitionsvorha-
-bens durch Finanzplanung festgeschrieben oder durch Verwaltungsakt, Vertrag, anderweitige Förde-
-rung oder Zuweisung gewährt wurden und den Förderzeitraum 12.10.2021 bis 31.12.2027 betreffen.
+ersetzt werden, die vor Inkrafttreten des Ganztagsfinanzhilfegesetzes am 12.10.2021 zur Finanzierung eines dem Zwecke des Ganztagsausbaus für Grundschulkinder dienenden Investitionsvorhabens durch Finanzplanung festgeschrieben oder durch Verwaltungsakt, Vertrag, anderweitige Förderung oder Zuweisung gewährt wurden und den Förderzeitraum 12.10.2021 bis 31.12.2027 betreffen.
 7.4.8 Eine Bestätigung des Einverständnisses des Eigentümers des Grundstücks und des Gebäudes zur
 Maßnahme, sofern der Träger nicht Eigentümer des Grundstücks und des Gebäudes ist.
 7.4.9 Eine Bestätigung, dass der zuständige öffentliche Träger der Jugendhilfe dem Antrag des Trägers
 zugestimmt hat. § 25 Abs. 3 NSchG gilt entsprechend
-7.4.10 Sofern die Förderung einer Maßnahme nach § 2 Abs. 3 Nr. 1 der „Verwaltungsvereinbarung Finanz-
-hilfen des Bundes für das Investitionsprogramm zum beschleunigten Infrastrukturausbau der Ganz-
-tagsbetreuung für Grundschulkinder“ erfolgt ist, die Versicherung und Darstellung des Zusammen-
-hangs zu dieser Maßnahme.
-7.5 Eine Erklärung zur Bereitschaft des Trägers , an der Erfüllung des Rechtsanspruchs auf Ganztagsbe-
-treuung für Kinder im Grundschulalter nach Artikel 1 GaFöG mitzuwirken.
+7.4.10 Sofern die Förderung einer Maßnahme nach § 2 Abs. 3 Nr. 1 der „Verwaltungsvereinbarung Finanzhilfen des Bundes für das Investitionsprogramm zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder“ erfolgt ist, die Versicherung und Darstellung des Zusammenhangs zu dieser Maßnahme.
+7.5 Eine Erklärung zur Bereitschaft des Trägers , an der Erfüllung des Rechtsanspruchs auf Ganztagsbetreuung für Kinder im Grundschulalter nach Artikel 1 GaFöG mitzuwirken.
 7.6 Alle geförderten Maßnahmen und Vorhaben sind bis spätestens zum 31.03.2028 abzurechnen.
-7.7 Die Auszahlung der bewilligten Mittel kann zum Ende eines Monats erfolgen, sobald diese zur anteili-
-gen Begleichung erforderlicher Zahlungen benötigt werden.
+7.7 Die Auszahlung der bewilligten Mittel kann zum Ende eines Monats erfolgen, sobald diese zur anteiligen Begleichung erforderlicher Zahlungen benötigt werden.
 7.8 Es wird ein einfacher Verwendungsnachweis nach VV Nr. 5.1.5 zu § 44 LHO i. V. m. Nummer 6.6
 ANBest-P in Form eines Sachberichts und eines zahlenmäßigen Nachweises in Form einer summarischen
-Darstellung der Einnahmen und Ausgaben zugelassen. Die Anforderungen des § 7 VV II müssen hierbei voll-
-ständig erfüllt werden und deren Einhaltung nachvollziehbar sein. Der Verwendungsnachweis ist abweichend von Nummer 6.1 ANBest-P spätestens bis zum 31 .03.2028 der jeweiligen Bewilligungsbehörde vorzulegen.
+Darstellung der Einnahmen und Ausgaben zugelassen. Die Anforderungen des § 7 VV II müssen hierbei vollständig erfüllt werden und deren Einhaltung nachvollziehbar sein. Der Verwendungsnachweis ist abweichend von Nummer 6.1 ANBest-P spätestens bis zum 31 .03.2028 der jeweiligen Bewilligungsbehörde vorzulegen.
 8. Schlussbestimmungen
 Dieser RdErl. tritt am 15.07.2024 in Kraft und mit Ablauf des 31.12.2028 außer Kraft.
 
@@ -177,10 +141,8 @@ und Schüler
 Primarstufe
 pro SuS x 725
 EUR
-max. Bundes-
-förderung EUR
-max. Landes-
-förderung EUR
+max. Bundesförderung EUR
+max. Landesförderung EUR
 max.
 Fördersumme
 Gesamt EUR
