@@ -525,9 +525,9 @@ wR R- Horizont bei Wölbackerböden
 Übergangshorizonte:
 Übergangshorizonte können durch Kombination von einem Großbuchstaben mit mehreren Kleinbuchstaben (z. B. Bvt) oder durch Kombination von zwei Großbuchstaben mit zugehörigen Kleinbuchstaben
 (z. B. Bv-Sw) gebildet werden.
-Es ist nicht zulässig, einen von zwei unterschiedlichen Großbuchstaben wegzulassen (z. B. Bvw für BvSw). Wenn zwei Großbuchstaben verwendet werden, wird der Übergang durch einen Bindestrich („ – “)
+Es ist nicht zulässig, einen von zwei unterschiedlichen Großbuchstaben wegzulassen (z. B. Bvw für BvSw). Wenn zwei Großbuchstaben verwendet werden, wird der Übergang durch einen Bindestrich („–“)
 deutlich gemacht. Bei Übergangshorizonten aus einem reliktischen oder fossilen Horizont und einem
-rezenten Horizont wird der Übergang durch ein Pluszeichen („ + “) gekennzeichnet (vgl. Abbildung 2).
+rezenten Horizont wird der Übergang durch ein Pluszeichen („+“) gekennzeichnet (vgl. Abbildung 2).
 
 Abbildung 2: Übergangshorizonte (ausgewählte Beispiele)
 2.3.3 Feld 26: Bodenart/Torfart ( HNBOD)

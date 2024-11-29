@@ -43,6 +43,7 @@ Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
 * Lösche Zeilen mit Seitenangabe (typische Footer, z.B. `Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3`)
 * Lösche Leerzeichen am Anfang und Ende jeder Zeile
 * Korrigiere "zerbrochene" Datumsangaben (z.B. `01. 01. 2024`)
+* Lösche Leerzeichen am Anfang und Ende von Zeichenketten zwischen Anführungstrichen (z.B. `„Wiedemann Familien Stiftung “`)
 
 Diese Anpassungen zielen darauf ab, den nachträglichen Aufwand für die Textanalyse zu verringern.
 Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Regex für die Analyse unnötig aufzublähen.
@@ -51,7 +52,7 @@ Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Re
 
 Für die lokale Ausführung des Skriptes zur Datenabholung und -aufbereitung steht ein [Docker](./docker) Container bereit.
 Diesen einfach bauen und danach starten, z.B. unter Linux über das Terminal mittels `cd docker && make`.
-Im Container selbst einfach make eingeben und die Daten werden auf den neusten Stand gebraucht.
+Im Container selbst einfach make eingeben und die Daten werden auf den neusten Stand gebracht.
 
 Für alle, die ohne Docker arbeiten wollen: der Hauptteil des Programm ist lokalisiert unter [./src/VerkuendungNiedersachsenPlaintext.php](./src/VerkuendungNiedersachsenPlaintext.php).
 Im [bin](./bin) Ordner ist eine kleine run-Datei für einfachere Nutzung über das Terminal.

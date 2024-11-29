@@ -123,6 +123,18 @@ class VerkuendungNiedersachsenPlaintext
         // fix broken dates such as "01. 01.2024" or "31. 12. 2024"
         $plaintext = preg_replace('/([0-9]{2})\.\s*([0-9]{2})\.\s*([0-9]{4})/m', '${1}.${2}.${3}', $plaintext);
 
+        /*
+         * remove obsolete whitespaces at the beginning and the end of strings between „ and “
+         *
+         * example:
+         *                                                                                                      this
+         *                                                                                                      ||
+         *                                                                                                      ||
+         *                                                                                                      \/
+         *      „– für die die Beihilfen die Anmeldeschwelle nach Artikel 4 Abs. 1 Buchst . s AGVO überschreiten, “
+         */
+        $plaintext = preg_replace('/„\s*(.*?)\s*“/m', '„${1}“', $plaintext);
+
         $str = '';
         foreach (explode(PHP_EOL, $plaintext) as $line) {
             /*
