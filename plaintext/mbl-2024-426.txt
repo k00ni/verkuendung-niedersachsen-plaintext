@@ -17,7 +17,7 @@ den weiteren in der Dokumentation zur Modellierung der Geoinformationen des amtl
 Die Dokumentation der Geobasisdaten Niedersachsen (Geobasis NI) und die Datenübermittlungsrichtlinie sind in der jeweils geltenden Fassung auf der Internetseite des LGLN unter www.lgln.niedersachsen.de
 
 verfügbar.
-Dieser RdErl. tritt am 01. 01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.
+Dieser RdErl. tritt am 01.01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.
 
 An
 das Landesamt für Geoinformation und Landesvermessung Niedersachsen

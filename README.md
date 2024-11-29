@@ -42,6 +42,7 @@ Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
 * Silbentrennung zurücksetzen: Aufgetrennte Wörter am Zeilenende werden wieder zusammengesetzt
 * Lösche Zeilen mit Seitenangabe (typische Footer, z.B. `Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3`)
 * Lösche Leerzeichen am Anfang und Ende jeder Zeile
+* Korrigiere "zerbrochene" Datumsangaben (z.B. `01. 01. 2024`)
 
 Diese Anpassungen zielen darauf ab, den nachträglichen Aufwand für die Textanalyse zu verringern.
 Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Regex für die Analyse unnötig aufzublähen.

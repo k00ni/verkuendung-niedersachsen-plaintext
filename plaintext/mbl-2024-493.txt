@@ -16,7 +16,7 @@ RdErl. d. MF v. 16.10.2024
 Bezug: RdErl. v. 13.10.2022 (Nds. MBl. S. 1392)
 ― VORIS 20441 ―
 
-1. Nach dem NBVAnpG 2024/2025 vom 25. 09.2024 (Nds. GVBl. 2024 Nr. 83) erfolgen ab dem 01.11.2024
+1. Nach dem NBVAnpG 2024/2025 vom 25.09.2024 (Nds. GVBl. 2024 Nr. 83) erfolgen ab dem 01.11.2024
 und ab dem 0 1.02.2025 Erhöhungen der Besoldung und der Versorgungsbezüge.
 Die maßgeblichen Beträge der Grundgehaltssätze, des Familienzuschlags, der Amts- und Stellenzulagen,
 der Mehrarbeitsvergütung, der Grundgehaltsspannen des Auslandszuschlags und der Anwärtergrundbeträge
@@ -80,7 +80,7 @@ Mindesthöchstgrenze — NBeamtVG
 Ruhestandsbeamtin/Ruhestandsbeamter (150 % von RD) 4 240,97 4 455,17 4 348,07Witwe/Witwer (150 % von RD) 4 455,17
 Waise (40 % vom Betrag der Ruhestandsbeamtin/
 des Ruhestandsbeamten) 1 696,39 1 782,07
-Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 580,90 3 734,58 3 657,74Mindesthöchstgrenze — BeamtVG F. bis 31. 12. 1998
+Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 580,90 3 734,58 3 657,74Mindesthöchstgrenze — BeamtVG F. bis 31.12.1998
 (§ 53 Abs. 2 Nrn. 1, 2 a. F., § 53 a Abs. 2 a. F., § 53 Abs. 9) Ruhestandsbeamtin/Ruhestandsbeamter (125 % von RD) 3 534,14 3 712,64 3 623,39
 Witwe/Witwer (125 % von RD) 3 712,64
 Waise (40 % vom Betrag der Ruhestandsbeamtin/ des Ruhestandsbeamten) 1 413,66 1 485,06
@@ -154,7 +154,7 @@ Mindesthöchstgrenze — NBeamtVG
 Ruhestandsbeamtin/Ruhestandsbeamter (150 % von RD) 4 542,63 4 767,03 4 654,83Witwe/Witwer (150 % von RD) 4 767,03
 Waise (40 % vom Betrag der Ruhestandsbeamtin/
 des Ruhestandsbeamten) 1 817,05 1 906,81
-Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 797,34 3 958,34 3 877,84Mindesthöchstgrenze — BeamtVG F. bis 31. 12. 1998
+Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 797,34 3 958,34 3 877,84Mindesthöchstgrenze — BeamtVG F. bis 31.12.1998
 (§ 53 Abs. 2 Nrn. 1, 2 a. F., § 53 a Abs. 2 a. F., § 53 Abs. 9) Ruhestandsbeamtin/Ruhestandsbeamter (125 % von RD) 3 785,53 3 972,53 3 879,03
 Witwe/Witwer (125 % von RD) 3 972,53
 Waise (40 % vom Betrag der Ruhestandsbeamtin/ des Ruhestandsbeamten) 1 514,21 1 589,01
@@ -228,7 +228,7 @@ Mindesthöchstgrenze — NBeamtVG
 Ruhestandsbeamtin/Ruhestandsbeamter (150 % von RD) 4 542,63 4 767,03 4 654,83Witwe/Witwer (150 % von RD) 4 767,03
 Waise (40 % vom Betrag der Ruhestandsbeamtin/
 des Ruhestandsbeamten) 1 817,05 1 906,81
-Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 815,34 3 976,34 3 895,84Mindesthöchstgrenze — BeamtVG F. bis 31. 12. 1998
+Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 815,34 3 976,34 3 895,84Mindesthöchstgrenze — BeamtVG F. bis 31.12.1998
 (§ 53 Abs. 2 Nrn. 1, 2 a. F., § 53 a Abs. 2 a. F., § 53 Abs. 9) Ruhestandsbeamtin/Ruhestandsbeamter (125 % von RD) 3 785,53 3 972,53 3 879,03
 Witwe/Witwer (125 % von RD) 3 972,53
 Waise (40 % vom Betrag der Ruhestandsbeamtin/ des Ruhestandsbeamten) 1 514,21 1 589,01
@@ -302,7 +302,7 @@ Mindesthöchstgrenze — NBeamtVG
 Ruhestandsbeamtin/Ruhestandsbeamter (150 % von RD) 4 792,47 5 029,23 4 910,85Witwe/Witwer (150 % von RD) 5 029,23
 Waise (40 % vom Betrag der Ruhestandsbeamtin/
 des Ruhestandsbeamten) 1 916,99 2 011,69
-Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 994,60 4 164,47 4 079,53Mindesthöchstgrenze — BeamtVG F. bis 31. 12. 1998
+Ruhestandsbeamtin/Ruhestandsbeamter (§ 64 Abs. 2 Nr. 3) 3 994,60 4 164,47 4 079,53Mindesthöchstgrenze — BeamtVG F. bis 31.12.1998
 (§ 53 Abs. 2 Nrn. 1, 2 a. F., § 53 a Abs. 2 a. F., § 53 Abs. 9) Ruhestandsbeamtin/Ruhestandsbeamter (125 % von RD) 3 993,73 4 191,03 4 092,38
 Witwe/Witwer (125 % von RD) 4 191,03
 Waise (40 % vom Betrag der Ruhestandsbeamtin/ des Ruhestandsbeamten) 1 597,49 1 676,41

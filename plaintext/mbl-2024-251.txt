@@ -121,7 +121,7 @@ zulässig.
 2. Die Funktionen „Bluetooth“ darf für Messungen im Rahmen der 1. BImSchV und der 44. BImSchV nicht
 verwendet werden.
 3. Das Kombinationsmessgerät ist nicht für den Außeneinsatz geeignet.
-4. Ergänzungsprüfung zu der Bekanntmachung des Umweltbundesamtes vom 28. 06.2022 (BAnz AT
+4. Ergänzungsprüfung zu der Bekanntmachung des Umweltbundesamtes vom 28.06.2022 (BAnz AT
 28.07.2022 B3, Kapitel I Nummer 1.3) hinsichtlich der Eignung zur Überwachung des CO-Grenzwertes
 und zur Ermittlung der Abgaskomponente O
 2 und der Abgastemperatur an Feuerungsanlagen für feste
@@ -131,7 +131,7 @@ TÜV SÜD Industrie Service GmbH.
 Prüfkennzeichen:
 TÜV By RgG 297.
 Prüfbericht:
-Bericht Nr. M- BI 1156-05 /23 vom 22. 09.2023.
+Bericht Nr. M- BI 1156-05 /23 vom 22.09.2023.
 
 3. Messgeräte zur Ermittlung von partikelförmigen Emissionen und der gasförmigen Abgaskomponente O
 2 und CO an Kleinfeuerungsanlagen

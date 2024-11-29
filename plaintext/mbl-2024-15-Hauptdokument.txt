@@ -160,10 +160,10 @@ abzuführenden Beiträge berücksichtigen, ohne dass es einer neuen Bescheinigun
 Rentenversicherungsträger bei Pflegetätigkeit in den alten Ländern mit dem Faktor 1,041237113 und in den
 neuen Ländern mit dem Faktor 1,053191489 multipliziert werden. Diese Faktoren spiegeln die Änderung des
 Rentenversicherungsbeitrages im Verhältnis zum Vorjahr wider.
-Die bisherige Aufteilung der Rentenversicherungsbeiträge für Pflegepersonen entfällt ab dem 01. 01.2024.
+Die bisherige Aufteilung der Rentenversicherungsbeiträge für Pflegepersonen entfällt ab dem 01.01.2024.
 Beitragszahlungen sind ab diesem Zeitpunkt ausschließlich an die Deutsche Rentenversicherung Bund zu
 leisten.
-Die ab dem 01. 01.2024 gültigen Beiträge zur Arbeitslosenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
+Die ab dem 01.01.2024 gültigen Beiträge zur Arbeitslosenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 monatlicher Beitrag 2024 in EUR
 alte Länder neue Länder
 45,96 45,05

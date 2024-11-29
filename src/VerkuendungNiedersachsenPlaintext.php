@@ -120,6 +120,9 @@ class VerkuendungNiedersachsenPlaintext
         // make sure that there are not more than 2 newlines after another
         $plaintext = preg_replace('/\n{2,}/', PHP_EOL. PHP_EOL, $plaintext);
 
+        // fix broken dates such as "01. 01.2024" or "31. 12. 2024"
+        $plaintext = preg_replace('/([0-9]{2})\.\s*([0-9]{2})\.\s*([0-9]{4})/m', '${1}.${2}.${3}', $plaintext);
+
         $str = '';
         foreach (explode(PHP_EOL, $plaintext) as $line) {
             /*

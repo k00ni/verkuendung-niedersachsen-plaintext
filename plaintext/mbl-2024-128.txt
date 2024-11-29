@@ -21,7 +21,7 @@ Zuwendungen für den Ausbau von gigabitfähigen Netzen in sog. „grauen Flecken
 1.2 Die Zuwendungen ergänzen die Förderungen des Bundes gemäß den Regelungen der
 – Richtlinie „Förderung zur Unterstützung des Gigabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutschland“ vom 26.04.2021 (BAnz AT 21.05.2021 B3) des Bundesministeriums für Verkehr
 und digitale Infrastruktur (für Anträge mit Eingang vor dem 03 .04.2023) – im Folgenden: Gigabit-RL,
-– Richtlinie „Förderung zur Unterstützung des Gigabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutschland“ – Gigabit-Richtlinie des Bundes 2.0 (Gigabit-RL 2.0) vom 31. 03.2023 (BAnz AT
+– Richtlinie „Förderung zur Unterstützung des Gigabitausbaus der Telekommunikationsnetze in der Bundesrepublik Deutschland“ – Gigabit-Richtlinie des Bundes 2.0 (Gigabit-RL 2.0) vom 31.03.2023 (BAnz AT
 17.05.2023 B6) des Bundesministeriums für Digitales und Verkehr (für Anträge mit Eingang ab dem
 03.04.2023) – im Folgenden: Gigabit-RL 2.0,
 in der jeweils geltenden Fassung.
@@ -59,7 +59,7 @@ von Baukostenzuschüssen zur Erschließung einer schwer erschließbaren Einzella
 Gigabit-RL im Einzelfall unter Berücksichtigung der Voraussetzung der zur Verfügung stehenden Haushaltsmittel nach pflichtgemäßem Ermessen zu entscheiden.
 5.3 Die zuwendungsfähigen Ausgaben entsprechen den durch den Bund nach der entsprechenden Gigabit-RL oder der Gigabit-RL 2.0 im Bewilligungsbescheid festgelegten zuwendungsfähigen Ausgaben, abzüglich der nicht förderfähigen Ausgaben, die im Zusammenhang mit der Finanzierung des Projekts (sog. Finanzierungsaufwendungen) stehen.
 5.4 Es gelten die folgenden Bagatellgrenzen:
-– für Anträge mit Eingang vor dem 03. 04.2023: Vorhaben nach Nummer 3.1 und 3.2 der Gigabit -RL mit
+– für Anträge mit Eingang vor dem 03.04.2023: Vorhaben nach Nummer 3.1 und 3.2 der Gigabit -RL mit
 einer Fördersumme unter 100 000 EUR werden – mit Ausnahme von Nummer 6.8 Satz 1 der Gigabit -RL
 – nicht gefördert (Bagatellgrenze). Die Bestimmung der Nummer 6.8 Satz 2 der Gigabit -RL gilt entsprechend.
 – f
