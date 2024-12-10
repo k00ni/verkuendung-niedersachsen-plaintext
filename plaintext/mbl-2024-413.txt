@@ -1,23 +1,27 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 24. September 2024 Nummer 413
+74. (79.) Jahrgang
+
+Hannover, den 24. September 2024
+
+Nummer 413
 
 Ministerium für Umwelt, Energie und Klimaschutz
-
 Richtlinie über die Gewährung von Zuwendungen zur Förderung von Vorhaben
 zur Gewässerschutzberatung in Trinkwassergewinnungsgebieten
 und Zielgebieten der EG-Wasserrahmenrichtlinie
 (Richtlinie Gewässerschutzberatung – GSB)
 Erl. d. MU v. 24.09.2024 – 23-62626/3/040 –
 – VORIS 28200 –
+Bezug:
 
-Bezug: RdErl. d. ML v. 02.05.2023 (Nds. MBl. S. 365)
+RdErl. d. ML v. 02.05.2023 (Nds. MBl. S. 365)
 – VORIS 64100 –
 
 1. Zuwendungszweck, Rechtsgrundlage
-1.1 Das Land Niedersachsen, die Freie Hansestadt Bremen und die Freie und Hansestadt Hamburg gewähren auch unter finanzieller Beteiligung der EU nach Maßgabe dieser Richtlinie, der VV/VV-Gk zu § 44 LHO
+1.1
+Das Land Niedersachsen, die Freie Hansestadt Bremen und die Freie und Hansestadt Hamburg gewähren auch unter finanzieller Beteiligung der EU nach Maßgabe dieser Richtlinie, der VV/VV-Gk zu § 44 LHO
 und, sofern EU-Mittel eingesetzt werden, nach der Verordnung (EU) 2021/2115 des Europäischen Parlaments
 und des Rates vom 2. Dezember 2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im
 Rahmen der Gemeinsamen Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die
@@ -25,20 +29,38 @@ Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwic
 (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr.
 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021, S. 1; L 181 vom 7.7.2022,
 S. 35; L 227 vom 1.9.2022, S. 137), zuletzt geändert durch Verordnung (EU) 2024/1468 des Europäischen
-Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468, 24.5.2024) , sowie dem hierzu ergangenen
+Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468, 24.5.2024), sowie dem hierzu ergangenen
 Folgerecht der EU, Zuwendungen für Vorhaben der Gewässerschutzberatung.
-1.2 Zweck der Förderung ist der Schutz von Trinkwassergewinnungsgebieten, die Wiederherstellung und
+1.2
+Zweck der Förderung ist der Schutz von Trinkwassergewinnungsgebieten, die Wiederherstellung und
 die Erhaltung von natürlichen Gewässern, des Grundwassers und ihrer ökologischen Qualitätskomponenten
 und von oberflächenwassergespeisten Trinkwassergewinnungsanlagen.
 Die Gewässerschutzberatung zielt dabei auf
-– die Aufklärung und Sensibilisierung für eine gewässerschonende Bewirtschaftung,
-– die Vermeidung und Reduzierung von Belastungen durch anthropogene Stoffeinträge aus der Land-
-und Forstwirtschaft sowie dem Produktionsgartenbau,
-– die Steigerung von Wissen über die Quellen der Umweltbelastungen und
-– die Verbreitung gewässerschonender Bewirtschaftungsmethoden.
+–
 
-1.3 Die Gewährung der Zuwendung mit ELER-Mitteln erfolgt gemäß den ANBest-ELER KLARA ( Bezugserlass).
-1.4 Soweit nichts anderes bestimmt ist, gelten die in dieser Richtlinie enthaltenen Regelungen für das
+die Aufklärung und Sensibilisierung für eine gewässerschonende Bewirtschaftung,
+
+–
+
+die Vermeidung und Reduzierung von Belastungen durch anthropogene Stoffeinträge aus der Landund Forstwirtschaft sowie dem Produktionsgartenbau,
+
+–
+
+die Steigerung von Wissen über die Quellen der Umweltbelastungen und
+
+–
+
+die Verbreitung gewässerschonender Bewirtschaftungsmethoden.
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Seite 2
+
+1.3
+Die Gewährung der Zuwendung mit ELER-Mitteln erfolgt gemäß den ANBest-ELER KLARA (Bezugserlass).
+1.4
+Soweit nichts anderes bestimmt ist, gelten die in dieser Richtlinie enthaltenen Regelungen für das
 gesamte Landesgebiet Niedersachsens, das Gebiet der Freien Hansestadt Bremen und das Gebiet der Freien
 und Hansestadt Hamburg, also für das Programmgebiet der Regionenkategorie „Übergangsregionen“ (ÜR)
 gemäß Artikel 91 Abs. 2 Buchst. c der Verordnung (EU) 2021/2115, bestehend aus den Landkreisen Celle,
@@ -47,33 +69,73 @@ Uelzen und Verden, sowie für das aus dem übrigen Landesgebiet Niedersachsens, 
 Hansestadt Bremen und dem Gebiet der Freien und Hansestadt Hamburg bestehende Programmgebiet der
 Regionenkategorie „stärker entwickelte Regionen“ (SER) gemäß Artikel 91 Abs. 2 Buchst. d der Verordnung
 (EU) 2021/2115.
-1.5 Ein Anspruch auf Gewährung der Zuwendung besteht nicht, vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+1.5
+Ein Anspruch auf Gewährung der Zuwendung besteht nicht, vielmehr entscheidet die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 2. Gegenstand der Förderung
-2.1 Gefördert werden Vorhaben in Form von Beratungsleistungen gemäß Artikel 78 der Verordnung (EU)
+2.1
+Gefördert werden Vorhaben in Form von Beratungsleistungen gemäß Artikel 78 der Verordnung (EU)
 2021/2115 für Betriebe der Land- und Forstwirtschaft oder des Produktionsgartenbaus zum Trinkwasserschutz
-sowie zum Erreichen und Erhalt des guten Zustands oder Potenz ials von Grundwasser- und Oberflächenwasserkörpern nach der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
+sowie zum Erreichen und Erhalt des guten Zustands oder Potenzials von Grundwasser- und Oberflächenwasserkörpern nach der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik
-(ABl. L 327 vom 22.12.2000, S.1), zuletzt g eändert durch Richtlinie 2014/101/EU der Kommission vom
+(ABl. L 327 vom 22.12.2000, S.1), zuletzt geändert durch Richtlinie 2014/101/EU der Kommission vom
 30. Oktober 2014 (ABl. L 311 vom 31.10.2014, S. 32), in der jeweils geltenden Fassung – EG-Wasserrahmenrichtlinie – im Folgenden: EG-WRRL –.
 Zu den förderfähigen Leistungen gehören
-– die Beratung der Land- und Forstwirtschaft sowie des Produktionsgartenbaus,
-– die Erstellung erforderlicher Beratungsgrundlagen, z. B. Planungen und Konzepte,
-– die Untersuchungen von Böden, Pflanzen und Gewässern, soweit dies als Voraussetzung und Begleitung von Beratung erforderlich ist.
-2.2 Daneben werden Modell - und Pilotprojekte zur Entwicklung, Demonstration und Erfolgsbewertung gewässerschonender Landbewirtschaftungssysteme oder - maßnahmen gefördert.
-2.3 Von der Förderung ausgeschlossen sind
-– administrative Arbeiten zu freiwilligen Vereinbarungen, z. B. Postversand, Abrechnung und Kontrollaufgaben,
-– administrative Arbeiten zu Anträgen auf Ausgleichszahlungen gemäß § 93 Abs. 1 NWG für das Anwendungsverbot von Glyphosat, z. B. Postversand, Abrechnung, Kontrollaufgaben und Auszahlungstätigkeiten sowie sämtliche Leistungen zur Erstellung und Bearbeitung von Einzelfallanträgen,
-– Leistungen zur Erstellung von Schutzkonzepten,
-– Teilnahme der mit der Beratungsleistung betrauten Mitarbeiterinnen und Mitarbeiter an Fortbildungsveranstaltungen,
-– Eigenleistungen und
-– Umsatzsteuer für Vorhaben in Trinkwassergewinnungsgebieten.
+–
+
+die Beratung der Land- und Forstwirtschaft sowie des Produktionsgartenbaus,
+
+–
+
+die Erstellung erforderlicher Beratungsgrundlagen, z. B. Planungen und Konzepte,
+
+–
+
+die Untersuchungen von Böden, Pflanzen und Gewässern, soweit dies als Voraussetzung und Begleitung von Beratung erforderlich ist.
+
+2.2
+Daneben werden Modell- und Pilotprojekte zur Entwicklung, Demonstration und Erfolgsbewertung gewässerschonender Landbewirtschaftungssysteme oder -maßnahmen gefördert.
+2.3
+
+Von der Förderung ausgeschlossen sind
+
+–
+
+administrative Arbeiten zu freiwilligen Vereinbarungen, z. B. Postversand, Abrechnung und Kontrollaufgaben,
+
+–
+
+administrative Arbeiten zu Anträgen auf Ausgleichszahlungen gemäß § 93 Abs. 1 NWG für das Anwendungsverbot von Glyphosat, z. B. Postversand, Abrechnung, Kontrollaufgaben und Auszahlungstätigkeiten sowie sämtliche Leistungen zur Erstellung und Bearbeitung von Einzelfallanträgen,
+
+–
+
+Leistungen zur Erstellung von Schutzkonzepten,
+
+–
+
+Teilnahme der mit der Beratungsleistung betrauten Mitarbeiterinnen und Mitarbeiter an Fortbildungsveranstaltungen,
+
+–
+
+Eigenleistungen und
+
+–
+
+Umsatzsteuer für Vorhaben in Trinkwassergewinnungsgebieten.
+
 3. Zuwendungsempfänger
 Zuwendungsempfänger – im Bereich des Unionsrechts auch Begünstigte genannt – sind Unternehmen der
 öffentlichen Wasserversorgung und deren Zusammenschlüsse sowie Körperschaften des öffentlichen Rechts,
 die für die Umsetzung der EG-WRRL in Niedersachsen, Bremen und Hamburg zuständig sind.
 
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Seite 3
+
 4. Bewilligungsvoraussetzungen
-4.1 Die Förderung von Beratungsleistungen nach Nummer 2.1 erfolgt unter folgenden Voraussetzungen:
+4.1
+
+Die Förderung von Beratungsleistungen nach Nummer 2.1 erfolgt unter folgenden Voraussetzungen:
+
 4.1.1 Die Vorhaben müssen in Trinkwassergewinnungsgebieten oder in Gebieten der jeweiligen Zielkulissen
 nach der EG-WRRL in Niedersachsen, der Freien und Hansestadt Hamburg oder in der Freien Hansestadt Bremen durchgeführt werden. In Bereichen außerhalb dieser Abgrenzungen kann das Vorhaben
 durchgeführt werden, wenn dies im Zusammenhang mit den Zielkulissen des Trinkwasserschutzes oder
@@ -85,31 +147,56 @@ sowie einen gewässerschonenden Produktionsgartenbau unterstützen. In Trinkwass
 4.1.4 Bei Vorhaben in Trinkwassergewinnungsgebieten müssen Zuwendungsempfänger für das hierdurch
 geschützte Trinkwasser die Trinkwassergewinnung in Niedersachsen, in Gebieten der Freien und Hansestadt Hamburg oder in Gebieten der Freien Hansestadt Bremen betreiben.
 4.1.5 Die Auswahl der Vorhaben erfolgt nach fachlichen Prioritäten.
-4.2 Die Förderung von Modell- und Pilotprojekten gemäß Nummer 2.2 erfolgt unter folgenden Voraussetzungen:
+4.2
+Die Förderung von Modell- und Pilotprojekten gemäß Nummer 2.2 erfolgt unter folgenden Voraussetzungen:
 Die Modell- und Pilotprojekte müssen
-– zur Einführung und Verbreitung innovativer Ansätze zur Reduzierung diffuser Einträge aus der Land-
-und Forstwirtschaft sowie des Produktionsgartenbaus oder
-– zur Entwicklung neuer Ansätze einer Erfolgsbewertung oder Verbesserung von Maßnahmen zum Gewässerschutz beitragen und
-– geeignet sein, die Effektivität und/oder Effizienz der Gewässerschutzberatung landesweit zu verbessern.
-Voraussetzung ist außerdem, dass noch keine vergleichbaren , themenbezogenen Untersuchungsergebnisse vorliegen und keine vergleichbaren Vorhaben mit öffentlichen Mitteln gefördert werden. Dies ist in einem
+–
+
+zur Einführung und Verbreitung innovativer Ansätze zur Reduzierung diffuser Einträge aus der Landund Forstwirtschaft sowie des Produktionsgartenbaus oder
+
+–
+
+zur Entwicklung neuer Ansätze einer Erfolgsbewertung oder Verbesserung von Maßnahmen zum Gewässerschutz beitragen und
+
+–
+
+geeignet sein, die Effektivität und/oder Effizienz der Gewässerschutzberatung landesweit zu verbessern.
+
+Voraussetzung ist außerdem, dass noch keine vergleichbaren, themenbezogenen Untersuchungsergebnisse vorliegen und keine vergleichbaren Vorhaben mit öffentlichen Mitteln gefördert werden. Dies ist in einem
 vorzulegenden fachlichen Arbeitskonzept darzustellen.
 Einrichtungen für Forschung und/oder Wissensverbreitung (z. B. Forschungsabteilungen von Unternehmen
-der öffentlichen Wasserversorgung) werden unabhängig von ihrer Rechtsform gefördert , wenn deren Hauptaufgabe in der unabhängigen Grundlagenforschung, industriellen Forschung oder experimentellen Entwicklung besteht oder deren Ergebnisse durch Lehre, Veröffentlichung und Wissenstransfer verbreitet werden .
+der öffentlichen Wasserversorgung) werden unabhängig von ihrer Rechtsform gefördert, wenn deren Hauptaufgabe in der unabhängigen Grundlagenforschung, industriellen Forschung oder experimentellen Entwicklung besteht oder deren Ergebnisse durch Lehre, Veröffentlichung und Wissenstransfer verbreitet werden.
 5. Art und Umfang, Höhe der Zuwendung
-5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss zur Projektförderung als Vollfinanzierung gewährt.
-5.2 Vorhaben nach Nummer 2.1 werden mit Mitteln der EU kofinanziert. Die Höhe der Zuwendung orientiert sich entsprechend den Vorgaben der Verordnung (EU) 2021/2115 am Sitz des Begünstigten und der
+5.1
+Die Zuwendung wird als nicht rückzahlbarer Zuschuss zur Projektförderung als Vollfinanzierung gewährt.
+5.2
+Vorhaben nach Nummer 2.1 werden mit Mitteln der EU kofinanziert. Die Höhe der Zuwendung orientiert sich entsprechend den Vorgaben der Verordnung (EU) 2021/2115 am Sitz des Begünstigten und der
 damit verbundenen Regionenkategorie. SER werden mit 43 % aus ELER-Mitteln und mit 57 % aus Landesmitteln und ÜR mit 60 % aus ELER-Mitteln und 40 % aus Landesmitteln finanziert.
 Vorhaben nach Nummer 2.2 werden ausschließlich aus Landesmitteln finanziert.
 
-5.3 Bei Beratungsleistungen in Trinkwassergewinnungsgebieten müssen die förderfähigen voraussichtlichen Ausgaben mindestens 20 000 EUR pro Jahr betragen. Der Förderantrag hat sich zeitlich an der Laufzeit
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Seite 4
+
+5.3
+Bei Beratungsleistungen in Trinkwassergewinnungsgebieten müssen die förderfähigen voraussichtlichen Ausgaben mindestens 20 000 EUR pro Jahr betragen. Der Förderantrag hat sich zeitlich an der Laufzeit
 des Schutzkonzepts zu orientieren.
-5.4 Bei Beratungsleistungen in Zielgebieten der EG-WRRL beträgt die Laufzeit in der Regel fünf Jahre.
-5.5 Bei der Berechnung der Zuwendung ist von den Ausgaben auszugehen, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck des beantragten Vorhabens zu erreichen.
+5.4
+
+Bei Beratungsleistungen in Zielgebieten der EG-WRRL beträgt die Laufzeit in der Regel fünf Jahre.
+
+5.5
+Bei der Berechnung der Zuwendung ist von den Ausgaben auszugehen, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck des beantragten Vorhabens zu erreichen.
 Dabei darf die Höhe der Zuwendung die tatsächlichen Ausgaben des Zuwendungsempfängers nicht übersteigen.
-5.6 Für EU-kofinanzierte Vorhaben gilt das Ausgabenerstattungsprinzip.
+5.6
+
+Für EU-kofinanzierte Vorhaben gilt das Ausgabenerstattungsprinzip.
+
 6. Sonstige Zuwendungsbestimmungen
-6.1 Von der Förderung ausgeschlossen sind Vorhaben, für die eine Förderung aus anderen Finanzierungsquellen erfolgt (Verbot der Doppelfinanzierung).
-6.2 Bei Modell- und Pilotprojekten nach Nummer 2.2 sind dem Land die Rechte an der Nutzung der Ergebnisse (z. B. zur Veröffentlichung) zu sichern.
+6.1
+Von der Förderung ausgeschlossen sind Vorhaben, für die eine Förderung aus anderen Finanzierungsquellen erfolgt (Verbot der Doppelfinanzierung).
+6.2
+Bei Modell- und Pilotprojekten nach Nummer 2.2 sind dem Land die Rechte an der Nutzung der Ergebnisse (z. B. zur Veröffentlichung) zu sichern.
 Darüber hinaus gilt, dass, wenn eine Einrichtung für Forschung und/oder Wissensverbreitung gemäß Nummer 4.2 Abs. 3 auch wirtschaftliche Tätigkeiten ausübt (z. B. Betriebe von Wasserversorgungs- und Abwassernetzen), sie dann für die Finanzierung, Kosten und Erlöse dieser Tätigkeiten getrennt Buch führt.
 7. Anweisungen zum Verfahren
 7.1 Allgemeine Verfahrensvorschriften
@@ -124,31 +211,72 @@ Bewilligungsbehörde ist der NLWKN.
 Die Bewilligungsbehörde stellt die für die Antragstellung, den Mittelabruf und den Verwendungsnachweis
 erforderlichen Informationen auf der Internetseite (www.nlwkn.niedersachsen.de) bereit.
 7.3 Antragsverfahren
-7.3.1 Anträge sind auf den vorgeschriebenen Vordrucken an die Bewilligungsbehörde zu richten.
-7.3.2 Bei der Förderantragstellung sind die hinreichend konkretisierten Planungsunterlagen vorzulegen.
-Hierzu gehören insbesondere eine Beschreibung des geplanten Vorhabens, ein Finanzierungsplan und ein Zeitplan.
-7.3.3 Das in Nummer 4.1.2 Satz 2 vorgeschriebene Schutzkonzept ist mit dem Fördera ntrag einzureichen
-und muss zumindest Folgendes enthalten:
-– Kurzbeschreibung der Ausgangssituation,
-– Nennung der Belastungsschwerpunkte,
-– Herleitung des Maßnahmenbedarfs unter Nennung der bisher durchgeführten Maßnahmen und der
-zukünftig geplanten Maßnahmen,
-– Beschreibung der im Projektzeitraum zu erreichenden Ziele und der Kriterien, anhand derer das Erreichen der Ziele festgestellt werden soll (Erfolgsparameter),
-– Kostenplan für den Beratungszeitraum,
+7.3.1
 
-– Organisationskonzept.
+Anträge sind auf den vorgeschriebenen Vordrucken an die Bewilligungsbehörde zu richten.
+
+7.3.2 Bei der Förderantragstellung sind die hinreichend konkretisierten Planungsunterlagen vorzulegen.
+Hierzu gehören insbesondere eine Beschreibung des geplanten Vorhabens, ein Finanzierungsplan und ein
+Zeitplan.
+7.3.3 Das in Nummer 4.1.2 Satz 2 vorgeschriebene Schutzkonzept ist mit dem Förderantrag einzureichen
+und muss zumindest Folgendes enthalten:
+–
+
+Kurzbeschreibung der Ausgangssituation,
+
+–
+
+Nennung der Belastungsschwerpunkte,
+
+–
+
+Herleitung des Maßnahmenbedarfs unter Nennung der bisher durchgeführten Maßnahmen und der
+zukünftig geplanten Maßnahmen,
+
+–
+
+Beschreibung der im Projektzeitraum zu erreichenden Ziele und der Kriterien, anhand derer das
+Erreichen der Ziele festgestellt werden soll (Erfolgsparameter),
+
+–
+
+Kostenplan für den Beratungszeitraum,
+
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+–
+
+Seite 5
+
+Organisationskonzept.
+
 7.3.4 Für Beratungsleistungen in Zielgebieten der EG-WRRL ist eine Gebietskulisse für Niedersachsen,
 Bremen und Hamburg ermittelt und auf der Internetseite des NLWKN veröffentlicht oder kann beim NLWKN
 angefordert werden. In dieser Gebietskulisse besteht ein Bedarf für Maßnahmen zur Verbesserung des Zustands der Grund- und/oder Oberflächenwasserkörper.
 7.3.5 Das Arbeitskonzept, das für Modell- und Pilotprojekte mit dem Förderantrag einzureichen ist, muss
 zumindest Folgendes enthalten:
-– Kurzbeschreibung der Ausgangssituation,
-– Herleitung des Projektbedarfs mit fachlicher Erläuterung der überregionalen Bedeutung des
-Projektgegenstands oder - themas,
-– Darstellung der durch das Modell- und Pilotvorhaben zu erwartenden Ergebnisse und deren praktischer
+–
+
+Kurzbeschreibung der Ausgangssituation,
+
+–
+
+Herleitung des Projektbedarfs mit fachlicher Erläuterung der überregionalen Bedeutung des
+Projektgegenstands oder -themas,
+
+–
+
+Darstellung der durch das Modell- und Pilotvorhaben zu erwartenden Ergebnisse und deren praktischer
 Bedeutung für den Gewässerschutz,
-– Darstellung von Teilergebnissen mit Zeitplan und von Indikatoren, die die Ergebniserreichung anzeigen,
-– Kostenplan für den Projektzeitraum.
+
+–
+
+Darstellung von Teilergebnissen mit Zeitplan und von Indikatoren, die die Ergebniserreichung anzeigen,
+
+–
+
+Kostenplan für den Projektzeitraum.
+
 Bei der Erstellung des Arbeitskonzepts ist auf die zur Zielerreichung genannten Punkte in Nummer 4.2
 Abs. 1 einzugehen.
 7.4 Vergabeverfahren
@@ -157,18 +285,21 @@ Bewilligung gemäß den geltenden vergaberechtlichen Regelungen durchgeführt we
 7.5 Auszahlung der Unionsmittel
 7.5.1 Der Begünstigte muss für die Auszahlung der Mittel einen Auszahlungsantrag einschließlich zahlungsbegründender Unterlagen bei der Bewilligungsbehörde einreichen, die nach Maßgabe der Verordnung (EU)
 2021/2116 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 über die Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EU) Nr.
-1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45) , zuletzt geändert durch Verordnung
-(EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 ( ABl. L, 2024/1468,
+1306/2013 (ABl. L 435 vom 6.12.2021, S. 187; L 29 vom 10.2.2022, S. 45), zuletzt geändert durch Verordnung
+(EU) 2024/1468 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468,
 24.5.2024), in der jeweils geltenden Fassung, prüft, ob die Voraussetzungen für eine Auszahlung der Zuwendung vorliegen und die Auflagen erfüllt werden.
 Zugelassen sind in der Regel zwei Auszahlungsanträge pro Kalenderjahr. Näheres kann im Bewilligungsbescheid oder im Zuweisungsschreiben konkretisiert werden. Eine Zuwendung wird nur gewährt, wenn die
 erbrachten Leistungen anhand von prüffähigen Belegen (Leistungsnachweise gemäß der Anlage) nachgewiesen sind.
-7.5.2 Die Auszahlung der Fördermittel für EU-kofinanzierte Vorhaben erfolgt durch die EU-Zahlstelle beim
+7.5.2
 ML.
+
+Die Auszahlung der Fördermittel für EU-kofinanzierte Vorhaben erfolgt durch die EU-Zahlstelle beim
+
 7.6 Vorhaben in Trägerschaft des Landes
 Bei Vorhaben in Trägerschaft des NLWKN tritt die Mittelzuweisung an die Stelle des Bewilligungsbescheides. Alle im Rahmen dieser Richtlinie getroffenen Regelungen werden dabei entsprechend angewendet.
 8. Staatliche Beihilfen
-Zuwendungen nach dieser Richtlinie, die in der Interventionsbeschreibung „EL- 0801- Beratung“ des von
-der EU-Kommission am 21.11.2022 genehmigten GAP -Strategieplans 2023–2027 der Bundesrepublik
+Zuwendungen nach dieser Richtlinie, die in der Interventionsbeschreibung „EL-0801-Beratung“ des von
+der EU-Kommission am 21.11.2022 genehmigten GAP-Strategieplans 2023–2027 der Bundesrepublik
 Deutschland für die Unterstützung der Union aus dem EGFL und dem ELER genannt werden, unterfallen
 Artikel 145 Abs. 2 erster Halbsatz der Verordnung (EU) 2021/2115 i. V. m. Artikel 42 des Vertrags über die
 Arbeitsweise der Europäischen Union in der konsolidierten Fassung vom 7. Juni 2016 (ABl. C 202 vom
@@ -176,7 +307,11 @@ Arbeitsweise der Europäischen Union in der konsolidierten Fassung vom 7. Juni 2
 (EU) 2019/1255 des Rates vom 18. Juli 2019 (ABl. L 196 vom 24.7.2019, S. 1) – im Folgenden: AEUV –. Auf
 diese Zuwendungen finden die Artikel 107 bis 109 AEUV keine Anwendung.
 
-Zuwendungen für Modell- und Pilotprojekte zur Entwicklung, Demonstration und Erfolgsbewertung gewässerschonender Landbewirtschaftungssysteme oder - maßnahmen werden nach Maßgabe und unter Einhaltung der Voraussetzungen des Artikels 38 i. V. m. Artikel 1 Abs. 1 Buchst . e und Artikel 4 Abs.1 Buchst. i der
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Seite 6
+
+Zuwendungen für Modell- und Pilotprojekte zur Entwicklung, Demonstration und Erfolgsbewertung gewässerschonender Landbewirtschaftungssysteme oder -maßnahmen werden nach Maßgabe und unter Einhaltung der Voraussetzungen des Artikels 38 i. V. m. Artikel 1 Abs. 1 Buchst. e und Artikel 4 Abs.1 Buchst. i der
 Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in
 Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327
 vom 21.12.2022, S. 1), geändert durch Verordnung (EU) 2023/2607 der Kommission vom 22. November 2023
@@ -196,165 +331,348 @@ Senatorin für Umwelt, Klima und Wissenschaft der Freien Hansestadt Bremen
 Behörde für Umwelt, Klima, Energie und Agrarwirtschaft der Freien und Hansestadt Hamburg
 
 Anlage
-
 Leistungsverzeichnis zur Gewässerschutzberatung
 Hinweise:
-1. Eine weitere Differenzierung einzelner Leistungen ist grundsätzlich möglich.
-2. Abweichende Leistungen, Einheiten und/oder Leistungsnachweise sind nicht ausgeschlossen. Sie sind
+1.
+
+Eine weitere Differenzierung einzelner Leistungen ist grundsätzlich möglich.
+
+2.
+
+Abweichende Leistungen, Einheiten und/oder Leistungsnachweise sind nicht ausgeschlossen. Sie sind
 zu beantragen und bedürfen der Zustimmung der Bewilligungsbehörde.
-3. Innerhalb einzelner Blöcke sind begründete Abweichungen vom ursprünglichen Angebot ohne Rücksprache mit der Bewilligungsbehörde möglich, wenn die vereinbarten Gesamtkosten des betroffenen
+
+3.
+
+Innerhalb einzelner Blöcke sind begründete Abweichungen vom ursprünglichen Angebot ohne Rücksprache mit der Bewilligungsbehörde möglich, wenn die vereinbarten Gesamtkosten des betroffenen
 Blocks nicht überschritten werden.
-4. Zwischen den Blöcken sind Verschiebungen von Leistungen gegenüber dem ursprünglichen Angebot
+
+4.
+
+Zwischen den Blöcken sind Verschiebungen von Leistungen gegenüber dem ursprünglichen Angebot
 möglich. Diese müssen im Einklang mit dem Schutz- (Trinkwasserschutz) oder Beratungskonzept
 (WRRL) stehen.
 Verschiebungen, die nicht im Einklang mit dem Schutz- oder Beratungskonzept stehen, sind nicht förderfähig. Die Verschiebungen sind zu begründen und der Bewilligungsbehörde vor der Leistungserbringung mitzuteilen. Die vereinbarten Gesamtkosten dürfen nicht überschritten werden.
+
 Die im Folgenden verwendete Bezeichnung „Gebiet“ bezieht sich auf die jeweils vorliegende Gebietskulisse
 (Trinkwassergewinnungsgebiet oder Beratungsgebiet nach der EG-WRRL).
 
-Position Leistung Einheit
-beispielhafte Erläuterung der
-Leistung
-Leistungsnachweis
-Block 1
-I. Erhebung, Aktualisierung und Auswertung von Grundlagendaten
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
 
-1. Betriebsdaten
-1.1 Ersterfassung von Betriebsdaten
-Betrieb Ermittlung der Stammdaten, z. B.
-Bewirtschaftende, Tierbesatz und weitere Kennzahlen als Beratungsgrundlage, Einpflegen in Datenbank
-Bewirtschafterliste
-1.2 Aktualisierung von Betriebsdaten
-Betrieb Aktualisierung der Stammdaten
-wie Nummer 1.1
-Bewirtschafterliste der
-aktualisierten Betriebe
-2. Schlagdaten
-2.1 Ersterfassung von
+Position
+Block 1
+1.
+
+Leistung
+
+Einheit
+
+I. Erhebung, Aktualisierung und Auswertung von Grundlagendaten
+Betriebsdaten
+
+1.1
+
+Ersterfassung von Betriebsdaten
+
+Betrieb
+
+1.2
+
+Aktualisierung von Betriebsdaten
 Schlagdaten
-Schlag Erfassung der Daten von im Gebiet befindlichen Schlägen wie Bewirtschaftende, Flächengröße, Flächennutzung, FLIK-Nummer und
-weiterer Kennzahlen, Einpflegen in
-die Datenbank
-Schlagliste
-2.2 Aktualisierung von
+
+Betrieb
+
+2.1
+
+Ersterfassung von
 Schlagdaten
-Schlag Aktualisierung der Daten vergleichbar Nummer 2.1
-Liste der aktualisierten Schläge
-3. Erstellung einer digitalen Bodenformenkarte
+
+Schlag
+
+2.2
+
+Aktualisierung von
+Schlagdaten
+Erstellung einer digitalen Bodenformenkarte
+
+Schlag
+
+2.
+
+3.
+
+4.
+
+Themenkarten
+
+4.1
+
+Erstellung und Aktualisierung von Themenkarten zum Gewässerschutz
+
+4.2
+
+Erstellung einer digitalen Nitrataustragsgefährdungskarte (NAGKarte) (morphologisch)
+
+4.3
+
+Erstellung einer digitalen NAG-Karte (schlagbezogen)
+
+4.4
+
+Aktualisierung einer digitalen NAG-Karte
+(schlagbezogen)
+Schlagkarten
+
+5.
+
 ha, h oder
 Karte
+
+Seite 7
+
+beispielhafte Erläuterung der
+Leistung
+
+Leistungsnachweis
+
+Ermittlung der Stammdaten, z. B.
+Bewirtschafterliste
+Bewirtschaftende, Tierbesatz und
+weitere Kennzahlen als Beratungsgrundlage, Einpflegen in Datenbank
+Aktualisierung der Stammdaten
+Bewirtschafterliste der
+wie Nummer 1.1
+aktualisierten Betriebe
+
+Erfassung der Daten von im Gebiet befindlichen Schlägen wie Bewirtschaftende, Flächengröße, Flächennutzung, FLIK-Nummer und
+weiterer Kennzahlen, Einpflegen in
+die Datenbank
+Aktualisierung der Daten vergleichbar Nummer 2.1
 Einbindung der bodenkundlichen
 Geländeerhebung oder Einbindung
 analoger oder digitaler Daten, z. B.
 Bodenschätzungsdaten, geologische Karten, topografische Karten
 (DGK, TK 10 etc.), grafische Darstellung (einschließlich Attributtabelle)
-Karte
-4. Themenkarten
-4.1 Erstellung und Aktualisierung von Themen- karten zum Gewässer- schutz
+
 ha,
-Schlag, h oder Karte
 Aufbereitung und Einbindung der
-erforderlichen analogen und digitalen Daten zum jeweiligen Thema
+Schlag, h erforderlichen analogen und digitaoder Karte len Daten zum jeweiligen Thema
 sowie grafische Darstellung (einschließlich Attributtabelle)
-Karte, Listen
-4.2 Erstellung einer digitalen Nitrataustragsgefährdungskarte (NAGKarte) (morphologisch)
-ha, h oder
-Karte
-Einbindung der erforderlichen analogen oder digitalen Daten, z. B.
+ha, h oder Einbindung der erforderlichen anaKarte
+logen oder digitalen Daten, z. B.
 Bodenschätzungsdaten, geologische, geomorphologische Karten,
 Bodenkarten, topografische Karten
 (DGK, TK 10 etc.); Verschneidung
 der Daten, Berechnung nach DIN,
 grafische Darstellung (einschließlich Attributtabelle)
-Karte
-4.3 Erstellung einer digitalen NAG-Karte (schlagbezogen)
-Schlag, h
-oder Karte
-Einbindung der erforderlichen digitalen Daten zur Berechnung nach
+Schlag, h Einbindung der erforderlichen digioder Karte talen Daten zur Berechnung nach
 DIN, grafische Darstellung (einschließlich Attributtabelle)
-Karte, Schlagliste
-4.4 Aktualisierung einer digitalen NAG-Karte
-(schlagbezogen)
-Schlag, h
-oder Karte
-Einbindung der erforderlichen digitalen Daten nach Nummer 4.3
-Karte, Liste der aktualisierten Schläge
-5. Schlagkarten
+Schlag, h Einbindung der erforderlichen digioder Karte talen Daten nach Nummer 4.3
 
-Position Leistung Einheit
+Schlagliste
+
+Liste der aktualisierten Schläge
+Karte
+
+Karte, Listen
+
+Karte
+
+Karte, Schlagliste
+
+Karte, Liste der aktualisierten Schläge
+
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
 beispielhafte Erläuterung der
 Leistung
-Leistungsnachweis
-5.1 Erstellung einer
-digitalen Schlag(nummern)karte oder Karte
-mit Abteilungen (Forst)
-Schlag/Abteilung, h
-oder Karte
-Einbindung der erforderlichen digitalen Daten, z. B. Gebietsgrenzen, topografische Karten (DGK, TK 10
-etc.), Nachdigitalisierung von Daten; Verschneidung mit Schlag-
-oder Abteilungsinformationen, grafische Darstellung (einschließlich
+Schlag/Ab- Einbindung der erforderlichen digiteilung, h
+talen Daten, z. B. Gebietsgrenzen,
+oder Karte topografische Karten (DGK, TK 10
+etc.), Nachdigitalisierung von Daten; Verschneidung mit Schlagoder Abteilungsinformationen, grafische Darstellung (einschließlich
 Attributtabelle)
-Karte, Schlag- bzw.
-Abteilungsliste
-5.2 Aktualisierung einer
+Schlag/Ab- Einbindung der erforderlichen digiteilung
+talen Daten vergleichbar Nummer
+oder h
+5.1
+
+Position
+
+Leistung
+
+5.1
+
+Erstellung einer
 digitalen Schlag(nummern)karte oder Karte
 mit Abteilungen (Forst)
-Schlag/Abteilung
-oder h
-Einbindung der erforderlichen digitalen Daten vergleichbar Nummer
-5.1
-Karte, Liste der aktualisierten Schläge oder
-Abteilungen (Forst)
-6. Betriebsflächenkarten
-6.1 Erstellung einer digitalen Betriebsflächenkarte
-Betrieb Darstellung der Flächen eines oder
+
+5.2
+
+Aktualisierung einer
+digitalen Schlag(nummern)karte oder Karte
+mit Abteilungen (Forst)
+
+6.
+
+Betriebsflächenkarten
+
+6.1
+
+Erstellung einer digitalen Betriebsflächenkarte
+
+6.2
+
+Aktualisierung einer di- Betrieb
+gitalen Betriebsflächenkarte
+
+7.
+
+Erstellung einer digitalen Flächennutzungskarte
+
+8.
+
+Prioritätenliste
+
+8.1
+
+Erstellung einer einzelbetrieblichen Prioritätenliste
+
+Betrieb
+
+8.2
+
+Aktualisierung einer
+einzelbetrieblichen Prioritätenliste
+Integration von zentral
+bereitgestellten Daten
+in den Datenbestand
+
+Betrieb
+
+9.
+
+Block 2
+1.
+
+Seite 8
+
+Einheit
+
+Betrieb
+
+Darstellung der Flächen eines oder
 aller Bewirtschaftenden im Gebiet;
 Einbindung der erforderlichen digitalen Daten, z. B. topografische
 Karten (DGK, TK 10 etc.), Gebietsgrenzen, wenn erforderlich Nachdigitalisierung von Daten, Verschneidung mit Bewirtschafterinformationen, grafische Darstellung (einschließlich Attributtabelle); Weitergabe an die Bewirtschaftenden unter Beachtung des Datenschutzes
-eine beispielhafte
-Karte, Liste der Betriebe
-6.2 Aktualisierung einer digitalen Betriebsflächenkarte
-Betrieb Darstellung der Flächen eines oder
+Darstellung der Flächen eines oder
 aller Bewirtschaftenden im Gebiet
 vergleichbar Nummer 6.1
+
+Leistungsnachweis
+Karte, Schlag- bzw.
+Abteilungsliste
+
+Karte, Liste der aktualisierten Schläge oder
+Abteilungen (Forst)
+
+eine beispielhafte
+Karte, Liste der Betriebe
+
 eine beispielhafte
 Karte, Liste der aktualisierten Betriebe
-7. Erstellung einer digitalen Flächennutzungs- karte
-Schlag, h
-oder Karte
-Darstellung der Flächennutzung im
-Gebiet; Einbindung erforderlicher Daten, z. B. topografische Karten
+
+Schlag, h Darstellung der Flächennutzung im Karte
+oder Karte Gebiet; Einbindung erforderlicher
+Daten, z. B. topografische Karten
 (DGK, TK 10 etc.), Schlagkarte
-und Verschneidung mit den Flächennutzungsdaten, grafische Dar- stellung (einschließlich Attributtabelle)
-Karte
-8. Prioritätenliste
-8.1 Erstellung einer einzelbetrieblichen Prioritä- tenliste
-Betrieb Rangierung der Betriebe eines Gebiets nach Prioritäten und Festle- gung der Betreuungsintensität
+und Verschneidung mit den Flächennutzungsdaten, grafische Darstellung (einschließlich Attributtabelle)
+
+h
+
+II. Umsetzung der Beratung
+einzelbetriebliche Bera- h
+tung
+
+Rangierung der Betriebe eines Ge- Prioritätenliste
+biets nach Prioritäten und Festlegung der Betreuungsintensität
 nach nachvollziehbaren Kriterien
-Prioritätenliste
-8.2 Aktualisierung einer
-einzelbetrieblichen Prioritätenliste
-Betrieb Rangierung der Betriebe vergleichbar Nummer 8.1
-aktualisierte Prioritätenliste
-9. Integration von zentral
-bereitgestellten Daten
-in den Datenbestand
-h insbesondere in der EG-WRRLKulisse liefert der Aufraggeber
+Rangierung der Betriebe vergleich- aktualisierte Prioritäbar Nummer 8.1
+tenliste
+insbesondere in der EG-WRRLStundennachweis
+Kulisse liefert der Aufraggeber
 Grundlagendaten, die für die Beratungstätigkeit zu verarbeiten sind,
 an die beauftragten Beratungsträger
-Stundennachweis
-Block 2 II. Umsetzung der Beratung
-
-1. einzelbetriebliche Beratung
-h Vor- und Nachbereitung sowie.
-Durchführung von Beratungsleis- tungen zu Gewässerschutzthemen
-unter Berücksichtigung und
+Vor- und Nachbereitung sowie.
 Stundennachweis mit
-Betriebszuordnung (ggf. anonymisiert)
+Durchführung von BeratungsleisBetriebszuordnung
+tungen zu Gewässerschutzthemen (ggf. anonymisiert)
+unter Berücksichtigung und
 
-Position Leistung Einheit
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
+Leistung
+
+Einheit
+
+2.
+
+Datenaufbereitung und
+-auswertung
+
+h
+
+3.
+
+Koordinationstätigkeiten
+
+h
+
+4.
+
+Konzepterstellung
+
+h
+
+5.
+
+Gruppenberatung,
+Feldbegehung
+Feld- oder Waldrundfahrt
+Arbeitskreis, Seminar,
+Tagung, Kooperationssitzung
+Rundschreiben
+
+Termin
+oder h
+Termin
+oder h
+Termin
+oder h
+
+6.
+7.
+8.
+9.
+
+Block 3
+1.
+
+Rundschreiben
+Betreuung gebietsbezo- h
+gener Referenzsysteme
+III. Begleitende Untersuchungen und Versuche
+Frühjahrs-Nmin-Untersuchung einschließlich
+Probenahme
+
+Untersuchung
+
+Seite 9
+
 beispielhafte Erläuterung der
 Leistung
-Leistungsnachweis
 Nutzung der jeweils aktuellen
 rechtlichen Rahmenbedingungen
 z. B. Düngung, Eintragspfade in
@@ -363,235 +681,385 @@ gewässerschonende Bewirtschaftung in Moorgebieten, freiwillige
 Vereinbarungen, Ausgleichszahlungen (eingeschränkt), Gemeinsame Agrarpolitik (GAP) 2023–
 2027, Beratung zu freiwilligen
 GAP-Fördermaßnahmen mit Gewässerschutzwirkung
-2. Datenaufbereitung und
--auswertung
-h Arbeiten im Zusammenhang mit
+Arbeiten im Zusammenhang mit
 Gewässerschutzthemen z. B. Düngeberatung, freiwillige Vereinbarungen, Ausgleichszahlungen und
 Archivierung entsprechender Daten
-Stundennachweis
-3. Koordinationstätigkeiten
-h Arbeiten zur Koordinierung im Beratungsgebiet und auf überregionaler Ebene (z. B. Teilnahme an
+Arbeiten zur Koordinierung im Beratungsgebiet und auf überregionaler Ebene (z. B. Teilnahme an
 Besprechungen und Ortsterminen), Übergabe von Daten und
 Weiterleitung an Dritte
-Stundennachweis
-4. Konzepterstellung h Entwicklung von Konzepten zu
+Entwicklung von Konzepten zu
 speziellen Sachfragen, z. B. Karte
 zur räumlichen Prioritätensetzung
 und weitere Planungskarten, Aktualisierung und Nachkalkulation des
 Gesamtmaßnahmenkatalogs
-Stunden- und Ergebnisnachweis
-5. Gruppenberatung,
-Feldbegehung
-Termin
-oder h Vor- und ggf. Nachbereitung des
-Präsenz- oder online- Termins, ggf.
+Vor- und ggf. Nachbereitung des
+Präsenz- oder online-Termins, ggf.
 Einladung, Teilnahme am Termin
 oder Durchführung des Termins
 (ggf. auch forstliche Termine)
+schriftliche Erstellung des Rundschreibens und Versendung
+Arbeiten vor Ort, z. B. Ein-/Aufbau
+und Messungen, Datenverarbeitung, ggf. notwendige Abstimmungen
+
+Leistungsnachweis
+
+Stundennachweis
+
+Stundennachweis
+
+Stunden- und Ergebnisnachweis
+
 Einladung, Teilnehmerliste, ggf. Protokoll
 (Dauer, Beratungsinhalt)
-6. Feld- oder Waldrundfahrt
-Termin
-oder h
-7. Arbeitskreis, Seminar,
-Tagung, Kooperationssitzung
-Termin
-oder h
-8. Rundschreiben Rundschreiben
-schriftliche Erstellung des Rundschreibens und Versendung
 Kopie des Rundschreibens
-9. Betreuung gebietsbezogener Referenzsysteme
-h Arbeiten vor Ort, z. B. Ein-/Aufbau
-und Messungen, Datenverarbei- tung, ggf. notwendige Abstimmungen
 Stundennachweis
-Block 3
 
-III. Begleitende Untersuchungen und Versuche
-1. Frühjahrs-Nmin-Untersuchung einschließlich Probenahme
-Untersuchung
-Konzeption der Probenahme, Herstellung einer Mischprobe aus 16 Einstichen, Laboranalyse von schichtbezogenen Mischproben (in
+Konzeption der Probenahme, Her- Untersuchungsliste
+stellung einer Mischprobe aus 16
+mit Ergebnissen (ggf.
+Einstichen, Laboranalyse von
+anonymisiert)
+schichtbezogenen Mischproben (in
 der Regel pro Schlag; in drei Tiefenstufen) auf Nitrat, Ammonium
 und Wassergehalt mit schriftlicher
 Ergebnisdarstellung, Interpretation
 der Analyseergebnisse unter Beachtung der vorangegangenen Bewirtschaftung, Mitteilung der
-Untersuchungsliste
-mit Ergebnissen (ggf. anonymisiert)
 
-Position Leistung Einheit
-beispielhafte Erläuterung der
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
 Leistung
-Leistungsnachweis
-Analyseergebnisse an die Bewirtschaftenden
-2. Nitratcheck-Analyse
+
+Einheit
+
+2.
+
+Nitratcheck-Analyse
 einschließlich
 Probenahme
+
 Untersuchung
+
+3.
+
+N-Tester-Analyse einschließlich
+Probenahme
+
+Untersuchung
+
+4.
+
+Wirtschaftsdüngeruntersuchung einschließlich Probenahme
+
+Untersuchung
+
+5.
+
+Grundnährstoffuntersuchung einschließlich
+Probenahme
+
+Untersuchung
+
+6.
+
+Humusgehaltsuntersuchung einschließlich
+Probenahme
+
+Untersuchung
+
+7.
+
+Smin-Analyse (ggf. ein- Untersuschließlich Probechung
+nahme, wenn keine
+Nmin-Probenahme
+stattfindet)
+
+8.
+
+Boden-pH-Schnelltest
+einschließlich
+Probenahme
+
+Untersuchung
+
+9.
+
+Analyse der Phosphorgehalte (P-Gehalte) im
+Oberboden einschließlich Probenahme
+
+Untersuchung
+
+Seite 10
+
+beispielhafte Erläuterung der
+Leistung
+Analyseergebnisse an die Bewirtschaftenden
 Einsatz des Nitratcheck-Geräts
 oder vergleichbarer Geräte, vegetationsbegleitende Beprobung zur
 Gewinnung und Messung von
 Pflanzen- und Bodenproben gemäß Geräteanleitung, Auswertung,
 Mitteilung der Analyseergebnisse
 an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-3. N-Tester-Analyse einschließlich
-Probenahme
-Untersuchung
 Einsatz des Hydro-N-Testers oder
 vergleichbarer Geräte bei der Messung des Chlorophyllgehalts in Getreideblättern gemäß Geräteanleitung, Auswertung, Mitteilung der
 Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-4. Wirtschaftsdüngeruntersuchung einschließlich Probenahme
-Untersuchung
 Probenahme: bei Mist Herstellung
 einer Mischprobe, bei Gülle und
 Jauche Beprobung nach Homogenisierung, in der Regel Laboranalyse der Hauptnährstoffe bezogen
 auf die Frischsubstanz und die
 Trockensubstanz, Mitteilung der
 Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-5. Grundnährstoffuntersuchung einschließlich
-Probenahme
-Untersuchung
 Probenahme: Herstellung von
 Mischproben, Laboranalyse der
 Grundnährstoffe, Mitteilung der
 Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-6. Humusgehaltsuntersuchung einschließlich
-Probenahme
-Untersuchung
 Laboranalyse auf Stickstoff (N),
 Kohlenstoff (C), C/N-Verhältnis
 Humus, um die langfristige Bodenfruchtbarkeit festzustellen und zur
 Abschätzung des N-Potentials,
 Mitteilung der Analyseergebnisse
 an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-7. Smin-Analyse (ggf. einschließlich Probenahme, wenn keine
-Nmin-Probenahme
-stattfindet)
-Untersuchung
 Laboranalyse des Smin-Gehalts
 (Schwefel) als Grundlage gezielter
 vegetationsbegleitender Düngeempfehlungen, Mitteilung der Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-8. Boden-pH-Schnelltest
-einschließlich
-Probenahme
-Untersuchung
 Felduntersuchung des Boden-pHWertes als Grundlage gezielter vegetationsbegleitender Düngeempfehlungen, Mitteilung der Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-9. Analyse der Phosphorgehalte (P-Gehalte) im
-Oberboden einschließlich Probenahme
-Untersuchung
 Laboranalyse der P-Gehalte im
 Oberboden (Gesamt-P und CALlös-P) z. B. zur Charakterisierung
 von Dränauslaufstandorten, Mitteilung der Analyseergebnisse an die
 Bewirtschaftenden
+
+Leistungsnachweis
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
 Untersuchungsliste
 mit Ergebnissen (anonymisiert)
 
-Position Leistung Einheit
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
+Leistung
+
+Einheit
+
+10.
+
+Pflanzenanalyse einschließlich
+Probenahme
+
+Untersuchung
+
+11.
+
+CAT-Bodenuntersuchung einschließlich
+Probenahme
+
+Untersuchung
+
+12.
+
+Analyse des Ernteguts
+einschließlich
+Probenahme
+
+Untersuchung
+
+13.
+
+Futteranalysen einschließlich
+Probenahme
+
+Untersuchung
+
+14.
+
+Demonstrationsversuch Versuch
+
+15.
+
+Exaktversuch
+
+Block 4
+1.
+
+IV. Erfolgskontrolle
+Nmin-Untersuchung
+(nach Ernte, Herbst)
+einschließlich
+Probenahme
+
+2.
+
+Schlagbilanzen
+
+3.
+
+Gesamtbetriebliche Bi- Bilanz
+lanzierung (z. B. Hoftorbilanz)
+
+Versuch
+
+Untersuchung
+
+Schlag
+
+Seite 11
+
 beispielhafte Erläuterung der
 Leistung
-Leistungsnachweis
-10. Pflanzenanalyse einschließlich
-Probenahme
-Untersuchung
 Pflanzenanalyse im Labor als
 Grundlage gezielter vegetationsbegleitender Düngeempfehlungen,
 Mitteilung der Analyseergebnisse
 an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-11. CAT-Bodenuntersuchung einschließlich
-Probenahme
-Untersuchung
 Laboranalyse von Mangan, Kupfer,
 Bor, Zink, Natrium und Schwefel
 auf Problemstandorten als Grundlage gezielter Düngeplanung, Mitteilung der Analyseergebnisse an
 die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-12. Analyse des Ernteguts
-einschließlich
-Probenahme
-Untersuchung
 Laboranalyse des Ernteguts zur
 Bewertung der N-Effizienz, zusätzlich Phosphor und Kalium, Mitteilung der Analyseergebnisse an die
 Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-13. Futteranalysen einschließlich
-Probenahme
-Untersuchung
 Futterproben-Analyse im Labor,
 z. B. betriebseigenes Getreide bei
 N-reduzierter Düngung, Mitteilung
 der Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-mit Ergebnissen (ggf.
-anonymisiert)
-14. Demonstrationsversuch Versuch Anlage und Durchführung des Versuchs mit Flächenbewirtschafter,
+Anlage und Durchführung des Versuchs mit Flächenbewirtschafter,
 Analyse festzulegender Parameter, ggf. Durchführung begleitender
 Untersuchungen und Ertragsermittlung, Probenahme, Auswertung der Versuchsergebnisse
-Ergebnisdarstellung
-15. Exaktversuch Versuch Anlage und Durchführung des Versuchs durch Versuchsansteller,
+Anlage und Durchführung des Versuchs durch Versuchsansteller,
 Durchführung begleitender Untersuchungen, Ertragsermittlung, Probenahme, statistische Auswertung
 der Versuchsergebnisse, Analyse
 festzulegender Parameter
-Ergebnisdarstellung
-Block 4 IV. Erfolgskontrolle
-1. Nmin-Untersuchung
-(nach Ernte, Herbst) einschließlich Probenahme
-Untersuchung
-Konzeption der Probenahme, Herstellung einer Mischprobe aus 16 Einstichen, Laboranalyse von schichtbezogenen Mischproben (in
+Konzeption der Probenahme, Herstellung einer Mischprobe aus 16
+Einstichen, Laboranalyse von
+schichtbezogenen Mischproben (in
 der Regel pro Schlag; in drei Tiefenstufen) auf Nitrat, Ammonium
 und Wassergehalt mit schriftlicher
 Ergebnisdarstellung, Interpretation
 der Analyseergebnisse unter Beachtung der vorangegangenen Bewirtschaftung, Mitteilung der Analyseergebnisse an die Bewirtschaftenden
-Untersuchungsliste
-und Ergebnisse (ggf.
-anonymisiert)
-2. Schlagbilanzen Schlag Übernahme der Schlagkarteien, digitale Archivierung, Berechnung der schlagspezifischen Nährstoffbilanzen, in der Regel für N, P und
+Übernahme der Schlagkarteien, digitale Archivierung, Berechnung
+der schlagspezifischen Nährstoffbilanzen, in der Regel für N, P und
 Kalium (K)
-Untersuchungsliste
-und Ergebnisse (ggf.
-anonymisiert)
-3. Gesamtbetriebliche Bilanzierung (z. B. Hoftorbilanz)
-Bilanz Übernahme von Eingangsgrößen
+Übernahme von Eingangsgrößen
 aus den Daten der betrieblichen
 Buchführung, Plausibilisierung der
 Daten, digitale Archivierung, Berechnung der betriebsspezifischen
+
+Leistungsnachweis
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+Untersuchungsliste
+mit Ergebnissen (ggf.
+anonymisiert)
+Ergebnisdarstellung
+
+Ergebnisdarstellung
+
+Untersuchungsliste
+und Ergebnisse (ggf.
+anonymisiert)
+
+Untersuchungsliste
+und Ergebnisse (ggf.
+anonymisiert)
 Auflistung der Bilanzen mit Ergebnissalden (ggf. anonymisiert)
 
-Position Leistung Einheit
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
+Leistung
+
+Einheit
+
+4.
+
+Untersuchung der Sickerwasserdränzone
+durch Nitrattiefenprofile
+Planung
+
+h
+
+4.1
+
+4.2
+
+Probenahme, Profilansprache und Untersuchungen
+
+m oder
+Anzahl
+
+4.3
+
+Datenaufbereitung und
+Auswertung
+
+h
+
+5.
+
+Dränzonen- und Oberflächengewässeruntersuchung
+Planung
+
+5.1
+
+h
+
+5.2
+
+Probenahme und Untersuchung
+
+Untersuchungsstelle
+
+5.3
+
+Datenaufbereitung und h
+Auswertung, Dokumentation
+
+Seite 12
+
 beispielhafte Erläuterung der
 Leistung
-Leistungsnachweis
 Nährstoffbilanzen in der Regel für
 N, P und K
-4. Untersuchung der Sickerwasserdränzone
-durch Nitrattiefenprofile
 
-4.1 Planung h Konzeption einer auf N-Tiefenprofilen basierenden Untersuchung mit
+Leistungsnachweis
+
+Konzeption einer auf N-Tiefenprofilen basierenden Untersuchung mit
 Darstellung der zugrunde liegenden Frage, Auswahl geeigneter
 Schläge unter Beachtung der
 Standorte sowie weiterer ggf. erforderlicher Daten (z. B. Bewirtschaftungsdaten des Schlages),
@@ -600,109 +1068,163 @@ Probenahmestrecken sowie der
 Anzahl der zu analysierenden
 Schichten, Absprache mit anderen
 Beratungsträgern sowie Bewirtschaftenden, Festlegung des Parameterumfangs
-Stundennachweis
-4.2 Probenahme, Profilansprache und Untersu- chungen
-m oder
-Anzahl
 schichtgetreue Entnahme von Bodensubstrat für die spätere Laboranalyse, Feldanalyse des erbohrten Profils mit Anlegen eines Bohrprotokolls, Laboranalyse schichtbezogener Einzelproben auf den in
 der Planung ermittelten Parameterumfang (z. B. Nitrat, Ammonium, Sulfat, Wassergehalt, pH)
-Bohrprotokoll, Untersuchungsliste
-4.3 Datenaufbereitung und
-Auswertung
-h digitale Datenablage der Einzelwerte, tabellarische und grafische
+digitale Datenablage der Einzelwerte, tabellarische und grafische
 Darstellung des Tiefenverlaufs der
 betrachteten Parameter, Ergebnisdarstellung im Jahresbericht, Mitteilung der Analyseergebnisse an
 die Bewirtschaftenden
-Stunden- und Ergebnisnachweis
-5. Dränzonen- und Oberflächengewässerunter-
-suchung
 
-5.1 Planung h Konzeption der Untersuchung mit
-Darstellung der zugrunde liegenden Frage, Auswahl geeigneter Ausläufe oder Messstellen im Vorfluter unter Beachtung der Standorte sowie weiterer ggf. erforderlicher Daten (z. B. Bewirtschaftungsdaten des Schlages), Planung der Beprobungstermine und
+Stundennachweis
+
+Konzeption der Untersuchung mit
+Darstellung der zugrunde liegenden Frage, Auswahl geeigneter
+Ausläufe oder Messstellen im Vorfluter unter Beachtung der Standorte sowie weiterer ggf. erforderlicher Daten (z. B. Bewirtschaftungsdaten des Schlages), Planung der Beprobungstermine und
 des Parameterumfangs
-Stundennachweis,
-Kurzbericht
-5.2 Probenahme und Untersuchung
-Untersuchungs- stelle
-Entnahme des labormäßig zu untersuchenden Wassers, Laborana- lyse der Einzelproben pro Untersuchungsstelle auf den in der Planung ermittelten Parameterumfang
+Entnahme des labormäßig zu untersuchenden Wassers, Laboranalyse der Einzelproben pro Untersuchungsstelle auf den in der Planung ermittelten Parameterumfang
 (z. B. Nitrat, Ammonium, Sulfat,
 pH)
-Untersuchungsliste,
-Ergebnisse und Probenahmeprotokoll
-5.3 Datenaufbereitung und
-Auswertung, Dokumentation
-h digitale Datenablage der Einzelwerte, tabellarische und ggf. grafische Darstellung des Zeitverlaufs
+digitale Datenablage der Einzelwerte, tabellarische und ggf. grafische Darstellung des Zeitverlaufs
+
+Stundennachweis,
+Kurzbericht
+
+Bohrprotokoll, Untersuchungsliste
+
 Stunden- und Ergebnisnachweis
 
-Position Leistung Einheit
-beispielhafte Erläuterung der
+Untersuchungsliste,
+Ergebnisse und Probenahmeprotokoll
+
+Stunden- und Ergebnisnachweis
+
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
 Leistung
-Leistungsnachweis
-der betrachteten Parameter, Dokumentation des Erfolgs durchgeführter Maßnahmen zur Erosionsminderung, Ergebnisdarstellung
-6. Untersuchung der
+
+6.
+
+Untersuchung der
 Grundwasseroberfläche
 mit Sauglanze
+Planung
+h
 
-6.1 Planung h Konzeption einer auf Sauglanzen
+6.1
+
+Einheit
+
+6.2
+
+Probenahme und Untersuchung
+
+Untersuchungsstelle
+
+6.3
+
+Datenaufbereitung und
+Auswertung
+
+h
+
+7.
+
+Untersuchung des
+oberflächenflächennahen Grundwassers mit
+vorhandenen Grundwassermessstellen
+oder dem Direct-PushVerfahren
+Planung
+
+7.1
+
+7.2
+
+h
+
+Probenahme und UnUntersutersuchung (einschließ- chungslich vorbereitender Arstelle
+beiten für die eigentliche Probenahme)
+
+Seite 13
+
+beispielhafte Erläuterung der
+Leistungsnachweis
+Leistung
+der betrachteten Parameter, Dokumentation des Erfolgs durchgeführter Maßnahmen zur Erosionsminderung, Ergebnisdarstellung
+
+Konzeption einer auf Sauglanzen
 basierenden Untersuchung mit
 Darstellung der zugrunde liegenden Frage, Auswahl geeigneter
 Schläge unter Beachtung der
 Standorte sowie weiterer ggf. erforderlicher Daten (z. B. Bewirtschaftungsdaten des Schlages),
 Planung der Beprobungstermine
 und des Parameterumfangs
-Stundennachweis
-6.2 Probenahme und Untersuchung
-Untersuchungs-
-stelle
-Entnahme des labormäßig zu untersuchenden Wassers, Laborana- lyse der Einzelproben pro Untersu- chungsstelle auf den in der Planung ermittelten Parameterumfang
+Entnahme des labormäßig zu untersuchenden Wassers, Laboranalyse der Einzelproben pro Untersuchungsstelle auf den in der Planung ermittelten Parameterumfang
 (z. B. Nitrat, Ammonium, Sulfat,
 pH)
-Untersuchungsliste
-6.3 Datenaufbereitung und
-Auswertung
-h digitale Datenablage der Einzelwerte, tabellarische und ggf. grafi- sche Darstellung des Zeitverlaufs
+digitale Datenablage der Einzelwerte, tabellarische und ggf. grafische Darstellung des Zeitverlaufs
 der betrachteten Parameter, Ergebnisdarstellung, Mitteilung der
 Analyseergebnisse an die Bewirtschaftenden
-Stunden- und Ergebnisnachweis
-7. Untersuchung des
-oberflächenflächennahen Grundwassers mit
-vorhandenen Grundwassermessstellen
-oder dem Direct-PushVerfahren
 
-7.1 Planung h Konzeption einer auf vorhandenen
+Stundennachweis
+
+Untersuchungsliste
+
+Stunden- und Ergebnisnachweis
+
+Konzeption einer auf vorhandenen Stundennachweis
 Grundwassermessstellen oder
-dem Direct-Push- Verfahren basierenden Untersuchung mit Darstellung der zugrunde liegenden
+dem Direct-Push-Verfahren basierenden Untersuchung mit Darstellung der zugrunde liegenden
 Frage, Auswahl geeigneter Standorte sowie weiterer ggf. erforderlicher Daten (z. B. die Messstelle
 umgebende Flächennutzung),
 Sichtung vorhandener Messstellen
 mit Eignungseinschätzung, Auswertung hydrogeologischer Grundlagendaten, Planung der Beprobungstermine und des Parameterumfangs
-Stundennachweis
-7.2 Probenahme und Untersuchung (einschließ- lich vorbereitender Arbeiten für die eigentliche Probenahme)
-Untersuchungs-
-stelle
-Entnahme des labormäßig zu untersuchenden Wassers, Aufnahme von Vor-Ort-Parametern, Laboranalyse der Einzelproben pro Untersuchungsstelle auf den in der
+Entnahme des labormäßig zu unUntersuchungsliste
+tersuchenden Wassers, Aufnahme
+von Vor-Ort-Parametern, Laboranalyse der Einzelproben pro Untersuchungsstelle auf den in der
 Planung ermittelten
-Untersuchungsliste
 
-Position Leistung Einheit
+Nds. MBl. 2024 Nr. 413 vom 24. September 2024
+
+Position
+
+Leistung
+
+Einheit
+
+7.3
+
+Datenaufbereitung und
+Auswertung
+
+h
+
+8.
+
+Bericht, jahresübergrei- Bericht
+fende Auswertungen
+
+Seite 14
+
 beispielhafte Erläuterung der
 Leistung
-Leistungsnachweis
 Parameterumfang (z. B. Nitrat,
 Ammonium, Sulfat, pH, Pflanzenschutzmittel und Metabolite) und
 dargestellten Zweck (Altersbestimmung, Untersuchung der Denitrifikation)
-7.3 Datenaufbereitung und
-Auswertung
-h digitale Datenablage der Einzelwerte, tabellarische und ggf. grafische Darstellung des Zeitverlaufs
+digitale Datenablage der Einzelwerte, tabellarische und ggf. grafische Darstellung des Zeitverlaufs
 der betrachteten Parameter, Ergebnisdarstellung, Mitteilung der
 Analyseergebnisse an die Bewirtschaftenden
-Stunden- und Ergebnisnachweis
-8. Bericht, jahresübergreifende Auswertungen
-Bericht zusammenfassende Darstellung
+zusammenfassende Darstellung
 der Ergebnisse eines Beratungszeitraumes mit Darstellung der
 Ausgangssituation einschließlich
 Zielbeschreibung, Beschreibung
 der eingesetzten Maßnahmen und
 Darstellung der tatsächlichen Zielerreichung, Ableitung zukünftiger
 Beratungsinhalte
+
+Leistungsnachweis
+
+Stunden- und Ergebnisnachweis
+
 Bericht und Stundennachweise

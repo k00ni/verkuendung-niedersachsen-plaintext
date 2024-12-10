@@ -1,16 +1,18 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 15. Februar 2024 Nummer 88
+74. (79.) Jahrgang
+
+Hannover, den 15. Februar 2024
+
+Nummer 88
 
 Ministerium für Inneres und Sport
 Landesausschuss „Rettungsdienst“ nach § 13 NRettDG;
 „Musterleitfaden zur Auswahl des geeigneten Transportmittels zur Krankenbeförderung“
-Bek. d. MI v. 08.01.2024 – 74.11- 41576- 10-13/0 –
-
+Bek. d. MI v. 08.01.2024 – 74.11-41576-10-13/0 –
 Gemäß § 8 der Geschäftsordnung des Landesausschusses „Rettungsdienst“ wird die vom Landesausschuss beschlossene Empfehlung eines Musterleifadens zur Auswahl des geeigneten Transportmittels zur
-Krankenbeför derung (Anlage) bekannt gegeben.
+Krankenbeförderung (Anlage) bekannt gegeben.
 In diversen Bereichen des Gesundheitswesens (z. B. Krankenhäusern, Arztpraxen, Pflegeheimen etc.) bestehen seit Jahren Unklarheiten, für welche Patientinnen und Patienten welches Transportmittel medizinisch
 indiziert und geeignet ist. Die Ursachen dazu sind vielschichtig und reichen von uneinheitlichen Begriffen bei
 den Transportmitteln (sogar innerhalb von Bundesländern) bis zu unterschiedlichsten verteilten Informationen,
@@ -29,74 +31,110 @@ Gespräche vor Ort anregen.
 Der Musterleitfaden soll außerdem die Chance bieten, in Niedersachsen zu einem einheitlichen „Vokabular“
 bei den Transportmitteln zu gelangen. Dies ist insbesondere für den Bereich der „Tragestuhl-
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 88 vom 15. Februar 2024
+
+Seite 2
+
 /Liegendtransporte“ notwendig, da hier bisher unterschiedlichste Begriffe verwendet werden und für Verwirrungen sorgen können (z. B. Sondermietwagen, Tragestuhlfahrzeug, Behindertentransportwagen (BTW), Liegemietwagen etc.). Der Musterleitfaden benennt diesen Bereich so, wie er in Niedersachsen von immer mehr
 Anbietern genannt wird und am wenigsten missverständlich ist, als „Patientenfahrdienst“ mit den Optionen
 „Tragestuhltransport“ und „Liegendtransport“.
 Der Landesauschuss „Rettungsdienst“ ruft dazu auf, den Musterleitfaden bei Bedarf örtlich anzupassen
 und bittet darum, die entsprechenden Anpassungen der Geschäftsstelle des Landesausschusses „Rettungsdienst“ zur Weiterentwicklung des Musterleitfadens zur Verfügung zu stellen. Eine bearbeitbare Version des
 Algorithmus kann bei der Geschäftsstelle angefordert werden.
-Die aktuelle Empfehlung des Musterleitfadens (Version 1.0) kann auf der Internetseite des MI unter folgendem Link
-https://www.mi.niedersachsen.de/startseite/themen/innere_sicherheit/rettungsdienste/landesausschuss- rettungsdienst-94255.html bzw. über die Internetseite des Landesausschusses „Rettungsdienst“
+Die aktuelle Empfehlung des Musterleitfadens (Version 1.0) kann auf der Internetseite des MI unter folgendem Link https://www.mi.niedersachsen.de/startseite/themen/innere_sicherheit/rettungsdienste/landesausschuss-rettungsdienst-94255.html bzw. über die Internetseite des Landesausschusses „Rettungsdienst“
 https://lard-nds.de abgerufen werden.
 
+Anlage zu Nds. MBl. 2024 Nr. 88 vom 15. Februar 2024
+
+Seite 3
+
 Musterleitfaden zur Auswahl des geeigneten Transportmittels zur Krankenbeförderung
-Notfall?
-(2)
+Version 1.0 09.2023
+Krankenbeförderung (1) zwingend medizinisch notwendig
+
+ja
+
+Notruf 112
+
+Notfall?(2)
+nein
 Medizinischfachliche Betreuung/
 medizinische
 Ausstattung
 erforderlich?
+
+ja
+
+nein
+ja
+
 Person
 gehfähig?
+
+nein
+
 Liegendtransport
 erforderlich?
-Gesamter Weg
-barrierefrei?
-(5)
-Person
-umsetzbar?
+
+ja
+
+nein
+
+nein
+
 Begleitperson
 notwendig?
+
+ja
+
+ja
+
+nein
+
+ja
 Private
 Begleitung
 möglich ?
-Notruf 112
-Krankentransportwagen
-(KTW)
-(3)
-Patientenfahrdienst /
-Liegendtransport
-Patientenfahrdienst /
-Tragestuhltransport
-Patientenfahrdienst /
-Rollstuhltransport
+
+Person
+umsetzbar?
+
+Gesamter Weg
+barrierefrei? (5)
+
+nein
+
+nein
+
+ja
+
 z.B. Öffentliches
-Verkehrsmittel
-(4)
+Verkehrsmittel (4)
+
+Privat-PKW (4)
+
 Taxi/
 Mietwagen
-Privat-PKW
-(4)
-ja
-ja
-ja
-ja
-ja
-ja
-nein
-nein
-nein
-nein
-nein
-ja
-nein
-nein
-nein ja
-Krankenbeförderung
-(1)
-zwingend medizinisch notwendig
-Version 1.0 09.2023Anlage zu Nds. MBl. 2024 Nr. 88 vom 15. Februar 2024 Seite P
 
+Patientenfahrdienst /
+Rollstuhltransport
+
+Patientenfahrdienst /
+Tragestuhltransport
+
+Patientenfahrdienst /
+Liegendtransport
+
+Krankentransportwagen
+(KTW) (3)
+
+Anlage zu Nds. MBl. 2024 Nr. 88 vom 15. Februar 2024
+
+Seite 4
+
+Musterleitfaden zur Auswahl des geeigneten Transportmittels zur Krankenbeförderung
 (1) Medizinische Notwendigkeit Krankenbeförderung (Krankentransport-Richtlinie G-BA §4)
 Maßgeblich für die Auswahl des Beförderungsmittels ist ausschließlich die zwingende medizinische Notwendigkeit im Einzelfall unter Beachtung des
 Wirtschaftlichkeitsgebots. Für die Auswahlentscheidung sind deshalb insbesondere der aktuelle Gesundheitszustand des Patienten und seine Gehfähigkeit zu
@@ -106,30 +144,33 @@ Lebensgefahr oder schwere gesundheitliche Schäden zu befürchten, wenn nicht un
 (3) Verordnung Krankenwagen (KTW)
 Begründung im Muster-4-Formblatt („Transportschein“) erforderlich (Art und Ausmaß der Funktionsstörung)
 (4) Transportmittel öffentliche Verkehrsmittel und Privat-PKW
-Keine Verordnung nötig, aber Bescheinigung des Behandlungstermins für eine eventuelle Kostenübernahme durch die Krankenkassenerforderlich.
+Keine Verordnung nötig, aber Bescheinigung des Behandlungstermins für eine eventuelle Kostenübernahme durch die Krankenkassen erforderlich.
 (5) Weg barrierefrei
 Berücksichtigung evtl. Barrieren auf dem gesamten Transportweg bis zur Wohnungstür oder Örtlichkeit der Patientenübergabe.
+
 (6) Private Begleitung
 Eine private Begleitung kann beispielsweise über Angehörige, Freunde oder Nachbarn erfolgen.
-Musterleitfaden zur Auswahl des geeigneten Transportmittels zur Krankenbeförderung
+Ausstattung der Beförderungs- / Transportmittel:
 Ausstattung Patientenfahrdienst
--Keine medizinisch fachliche Betreuung
--Keine medizinische Ausstattung
--Tansportmöglichkeiten:
-➢Rollstuhl
-➢Tragestuhl
-➢Trage (Liegendtransport)
+- Keine medizinisch fachliche Betreuung
+- Keine medizinische Ausstattung
+- Tansportmöglichkeiten:
+➢ Rollstuhl
+➢ Tragestuhl
+➢ Trage (Liegendtransport)
+
 Besatzung für Tragestuhl und
-Liegendtransportbesteht aus 2 Personen
+Liegendtransport besteht aus 2 Personen
+
 Ausstattung KTW
-−medizinisch fachliche Betreuung
-−medizinische Ausstattung:
-➢Sauerstoffinhalationseinheit
-➢Absauggerät
-➢Defibrillator (AED)
-➢Notfalltasche
-−Transportmöglichkeiten:
-➢Tragestuhl
-➢Trage
-Die tatsächliche Verfügbarkeit der einzelnen Transportmittel sowie deren Bestellung ist regional unterschiedlich geregelt undkann daher hier nicht abgebildet werden.
-Ausstattung der Beförderungs-/ Transportmittel:Anlage zu Nds. MBl. 2024 Nr. 88 vom 15. Februar 2024 Seite 4
+− medizinisch fachliche Betreuung
+− medizinische Ausstattung:
+➢ Sauerstoffinhalationseinheit
+➢ Absauggerät
+➢ Defibrillator (AED)
+➢ Notfalltasche
+− Transportmöglichkeiten:
+➢ Tragestuhl
+➢ Trage
+
+Die tatsächliche Verfügbarkeit der einzelnen Transportmittel sowie deren Bestellung ist regional unterschiedlich geregelt und kann daher hier nicht abgebildet werden.

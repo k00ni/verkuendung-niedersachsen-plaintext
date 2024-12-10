@@ -1,159 +1,408 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 11. Januar 2024 Nummer 15
+74. (79.) Jahrgang
+
+Hannover, den 11. Januar 2024
+
+Nummer 15
 
 Finanzministerium
-
 Niedersächsische Beihilfeverordnung (NBhVO);
 Bezugsgrößen in der gesetzlichen Rentenversicherung sowie
 Beitragszahlung für Pflegekräfte nach § 33 Abs. 5 NBhVO
 RdErl. d. MF v. 19.12.2023 – VD3–03540/01/033 –
 – VORIS 20444 –
+Bezug:
 
-Bezug: RdErl. v. 28.12.2022 (Nds. MBl. 2023 S. 12)
+RdErl. v. 28.12.2022 (Nds. MBl. 2023 S. 12)
 – VORIS 20444 –
 
 Ab dem 01.01.2024 beträgt die Bezugsgröße in der Sozialversicherung (§ 18 SGB IV), die die Bemessungsgrundlage für die Beiträge der Krankenversicherungsunternehmen mit Pflegepflichtversicherung zur
 Rentenversicherung für Pflegepersonen nach § 166 Abs. 1 SGB VI ist, für die alten Bundesländer 3 535,00
-EUR monatlich (bisher 3 395,00 EUR) und für die neuen Bundesländer 3 465,00 E UR monatlich (bisher
+EUR monatlich (bisher 3 395,00 EUR) und für die neuen Bundesländer 3 465,00 EUR monatlich (bisher
 3 290,00 EUR).
 Die ab dem 01.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 bezogene Leistung „häusliche Pflegehilfe“
 beitragspflichtige
 Einnahmen in EUR
+
 monatlicher Beitrag
 2024 in EUR
+
 Pflegegrad der
 oder des Pflegebedürftigen
+
 Prozent der
 Bezugsgröße
+
 alte
 Länder
+
 neue
 Länder
+
 alte
 Länder
+
 neue
 Länder
-1 – – – – –
-2 18,90 668,12 654,89 124,27 121,81
-3 30,10 1 064,04 1 042,97 197,91 193,99
-4 49,00 1 732,15 1 697,85 322,18 315,80
-5 70,00 2 474,50 2 425,50 460,26 451,14
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+18,90
+
+668,12
+
+654,89
+
+124,27
+
+121,81
+
+3
+
+30,10
+
+1 064,04
+
+1 042,97
+
+197,91
+
+193,99
+
+4
+
+49,00
+
+1 732,15
+
+1 697,85
+
+322,18
+
+315,80
+
+5
+
+70,00
+
+2 474,50
+
+2 425,50
+
+460,26
+
+451,14
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 15 vom 11. Januar 2024
+
+Seite 2
 
 bezogene Leistung „Pauschalbeihilfe“
 beitragspflichtige
 Einnahmen in EUR
+
 monatlicher Beitrag
 2024 in EUR
+
 Pflegegrad der
 oder des Pflegebedürftigen
+
 Prozent der
 Bezugsgröße
+
 alte
 Länder
+
 neue
 Länder
+
 alte
 Länder
+
 neue
 Länder
-1 – – – – –
-2 27,00 954,45 935,55 177,53 174,01
-3 43,00 1 520,05 1 489,95 282,73 277,13
-4 70,00 2 474,50 2 425,50 460,26 451,14
-5 100,00 3 535,00 3 465,00 657,51 644,49
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+27,00
+
+954,45
+
+935,55
+
+177,53
+
+174,01
+
+3
+
+43,00
+
+1 520,05
+
+1 489,95
+
+282,73
+
+277,13
+
+4
+
+70,00
+
+2 474,50
+
+2 425,50
+
+460,26
+
+451,14
+
+5
+
+100,00
+
+3 535,00
+
+3 465,00
+
+657,51
+
+644,49
 
 bezogene Leistung „Kombinationsleistung“
 beitragspflichtige
 Einnahmen in EUR
+
 monatlicher Beitrag
 2024 in EUR
+
 Pflegegrad der
 oder des Pflegebedürftigen
+
 Prozent der
 Bezugsgröße
-alte
-Länder
-neue
-Länder
-alte
-Länder
-neue
-Länder
-1 – – – – –
-2 22,95 811,28 795,22 150,90 147,91
-3 36,55 1 292,04 1 266,46 240,32 235,56
-4 59,50 2 103,33 2 061,68 391,22 383,47
-5 85,00 3 004,75 2 945,25 558,88 547,82
 
-Die für Besitzstandsfälle ab dem 0 1.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
+alte
+Länder
+
+neue
+Länder
+
+alte
+Länder
+
+neue
+Länder
+
+1
+
+–
+
+–
+
+–
+
+–
+
+–
+
+2
+
+22,95
+
+811,28
+
+795,22
+
+150,90
+
+147,91
+
+3
+
+36,55
+
+1 292,04
+
+1 266,46
+
+240,32
+
+235,56
+
+4
+
+59,50
+
+2 103,33
+
+2 061,68
+
+391,22
+
+383,47
+
+5
+
+85,00
+
+3 004,75
+
+2 945,25
+
+558,88
+
+547,82
+
+Die für Besitzstandsfälle ab dem 01.01.2024 gültigen Beiträge zur Rentenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
+
+Nds. MBl. 2024 Nr. 15 vom 11. Januar 2024
 
 Stufe der
 Pflegebedürftigkeit
 der oder des
 Pflegebedürftigen
+
+schwerstpflegebedürftig
+(Pflegestufe III)
+schwerpflegebedürftig
+(Pflegestufe II)
+erheblich pflegebedürftig
+(Pflegestufe I)
+
+Seite 3
+
 tatsächlicher
 zeitlicher
 Pflegeaufwand
 mindestens
 wöchentlich in
 Stunden
+
 Bemessungsgrundlage
+Prozent der
+Bezugsgröße
+
+monatlicher Betrag
+2024 in EUR
+
 Beitrag bei einem
 Beitragssatz von
 18,6 % in EUR
-Prozent der
-Bezugsgröße
-monatlicher Betrag
-2024 in EUR
+
 alte
 Länder
+
 neue
 Länder
+
 alte
 Länder
+
 neue
 Länder
-schwerstpflegebedürftig
-(Pflegestufe III)
+
 28
-21
-14
+
 80
-60
-40
+
 2 828,00
-2 121,00
-1 414,00
+
 2 772,00
-2 079,00
-1 386,00
+
 526,01
-394,51
-263,00
+
 515,59
-386,69
-257,80
-schwerpflegebedürftig
-(Pflegestufe II)
+
 21
+
+60
+
+2 121,00
+
+2 079,00
+
+394,51
+
+386,69
+
 14
+
+40
+
+1 414,00
+
+1 386,00
+
+263,00
+
+257,80
+
+21
+
 53,3333
-35,5555
+
 1 885,33
-1 256,89
+
 1 848,00
-1 232,00
+
 350,67
-233,78
+
 343,73
+
+14
+
+35,5555
+
+1 256,89
+
+1 232,00
+
+233,78
+
 229,15
-erheblich pflegebedürftig
-(Pflegestufe I)
-14 26,6667 942,67 924,00 175,34 171,86
+
+14
+
+26,6667
+
+942,67
+
+924,00
+
+175,34
+
+171,86
 
 Nach Mitteilung des Verbandes der Privaten Krankenversicherung e. V. können die Beihilfestellen als anteilig Zahlungsverpflichtete nach § 170 Abs. 1 Nr. 6 Buchst. c SGB VI die sich ergebenden Änderungen der
 abzuführenden Beiträge berücksichtigen, ohne dass es einer neuen Bescheinigung der privaten Krankenversicherung über die Höhe der maßgeblichen beitragspflichtigen Einnahmen der Pflegekraft bedarf. Dazu müssen die aufgrund der bisherigen Werte von den Beihilfestellen im Jahr 2023 ermittelten Zahlbeträge an die
@@ -165,10 +414,15 @@ Beitragszahlungen sind ab diesem Zeitpunkt ausschließlich an die Deutsche Rente
 leisten.
 Die ab dem 01.01.2024 gültigen Beiträge zur Arbeitslosenversicherung für nicht erwerbsmäßig tätige Pflegekräfte lauten wie folgt:
 monatlicher Beitrag 2024 in EUR
-alte Länder neue Länder
-45,96 45,05
+alte Länder
 
-Dieser RdErl. tritt a m 01.01.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass t ritt
+neue Länder
+
+45,96
+
+45,05
+
+Dieser RdErl. tritt am 01.01.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft. Der Bezugserlass tritt
 mit Ablauf des 31.12.2023 außer Kraft.
 An die
 Dienststellen der Landesverwaltung

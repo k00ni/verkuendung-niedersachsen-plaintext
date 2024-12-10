@@ -1,16 +1,19 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 22. Oktober 2024 Nummer 468
+74. (79.) Jahrgang
+
+Hannover, den 22. Oktober 2024
+
+Nummer 468
 
 Ministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-
 Richtlinie für die Ermittlung des gemeinen Wertes von Schafen und Ziegen
-RdErl. d. ML v. 25 .09.2024 – 203-42140- 13491/2023 –
+RdErl. d. ML v. 25.09.2024 – 203-42140-13491/2023 –
 – VORIS 78512 –
+Bezug:
 
-Bezug: RdErl. v. 19.06.2017 (Nds. MBl. S. 799), geändert durch
+RdErl. v. 19.06.2017 (Nds. MBl. S. 799), geändert durch
 RdErl. v. 17.05.2022 (Nds. MBl. S. 713)
 – VORIS 78512 –
 
@@ -27,9 +30,15 @@ bei trächtigen Tieren einem Trächtigkeitszuschlag nach Nummer 1.1.5 und einer 
 1.1.2 Grundbetrag
 Der Grundbetrag für gekörte Böcke entspricht dem Durchschnittspreis der letzten niedersächsischen Auktion für die jeweilige Rasse und Zuchtwertklasse (I bis III).
 Der Grundbetrag für nicht gekörte Böcke entspricht dem Schlachtpreis gemäß der öffentlichen Notierung.
-Sofern durch Ab- Hof-Verkäufe höhere Preise erzielt worden sind, sind diese durch entsprechende Verkaufsbelege der letzten zwölf Monate vor dem Schadenseintritt nachzuweisen.
+Sofern durch Ab-Hof-Verkäufe höhere Preise erzielt worden sind, sind diese durch entsprechende Verkaufsbelege der letzten zwölf Monate vor dem Schadenseintritt nachzuweisen.
 Der Grundbetrag für weibliche Herdbuchtiere entspricht dem Durchschnittspreis der letzten Auktion für
 Mutterlämmer der jeweiligen Herdbuchorganisation.
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 468 vom 22. Oktober 2024
+
+Seite 2
 
 Der Grundbetrag für weibliche Gebrauchsschafe entspricht dem Grundbetrag eines schlachtreifen Lammes
 nach Nummer 1.2.2, der je nach Konstitution um 10 bis 25 % erhöht werden kann. In diesen Fällen ist von
@@ -53,7 +62,7 @@ und 1.1.4 pro Jahr. Der aktuelle Schlachtwert bildet die untere Grenze für den 
 1.2 Nutzschafe
 1.2.1 Gemeiner Wert
 Der gemeine Wert von Nutzschafen setzt sich zusammen aus dem Grundbetrag nach Nummer 1.2.2, dem
-Zuschlag für Mehrgewichte über 6 kg Lebendgewicht bis 45 kg für Fleischschafrassen, 40 kg Lebendge wicht
+Zuschlag für Mehrgewichte über 6 kg Lebendgewicht bis 45 kg für Fleischschafrassen, 40 kg Lebendgewicht
 für Landschafrassen und 37 kg Lebendgewicht für Heidschnuckenrassen sowie andere kleinrahmige Rassen
 zuzüglich gegebenenfalls einem Aufschlag nach Nummer 1.2.3.
 1.2.2 Grundbetrag (GB) und Zuschlag (Z)
@@ -62,14 +71,20 @@ das Lebendgewicht (LG) eines schlachtreifen Lammes von Fleischschafrassen wird a
 Der Wert eines schlachtreifen Lammes ergibt sich aus der Multiplikation der in Absatz 1 genannten Gewichte mit der amtlichen Marktnotierung für Lebendgewicht und entspricht dem maximal erzielbaren Wert für
 Schlachtlämmer.
 Der Zuschlag (Z) für Gewichte über 6 kg (Neugeborenengewicht [NG]) errechnet sich aus der Differenz
-zwischen dem Produkt Schlachtlebendgewicht (LG) x Marktnotierung und dem Grundbetrag (GB) , welche
+zwischen dem Produkt Schlachtlebendgewicht (LG) x Marktnotierung und dem Grundbetrag (GB), welche
 durch die Differenz zwischen Schlachtlebendgewicht (LG) und Neugeborenengewicht (NG) dividiert und mit
+
+Nds. MBl. 2024 Nr. 468 vom 22. Oktober 2024
+
+Seite 3
 
 der Differenz aus Lebendgewicht (KG) und Neugeborenengewicht (NG) des zu schätzenden Tieres multipliziert wird:
 Z=
+
 (LG × Marktnotierung) - GB
-LG - NG
 ×(KG - NG)
+LG - NG
+
 Für schlachtreife Tiere über 45 kg, 40 kg beziehungsweise 37 kg Lebendgewicht wird der Zuschlag nicht
 gewährt. Darüber hinausgehende Schätzwerte müssen durch Verkaufsbelege nachgewiesen werden.
 1.2.3 Remontierungszuschlag
@@ -97,8 +112,17 @@ Für über zwei Monate tragende Ziegen wird ein Trächtigkeitszuschlag in Höhe 
 Für über zwei Monate tragende Ziegen wird ein Trächtigkeitszuschlag (T) in Abhängigkeit von der rassetypischen Anzahl lebend geborener Lämmer pro Trächtigkeit (Ablammergebnis [A]) gewährt. Das Ablammergebnis (A) für die jeweilige Rasse ist bei der Landwirtschaftskammer Niedersachsen zu erfragen.
 Der Trächtigkeitszuschlag (T) errechnet sich aus dem rassetypischen Ablammergebnis (A) multipliziert mit
 60 EUR für Fleischrassen und 30 EUR für extensive Ziegenrassen:
-Fleischrassen: T = A x 60 EUR
-Extensive Ziegenrassen: T = A x 30 EUR .
+Fleischrassen:
+
+T = A x 60 EUR
+
+Extensive Ziegenrassen:
+
+T = A x 30 EUR.
+
+Nds. MBl. 2024 Nr. 468 vom 22. Oktober 2024
+
+Seite 4
 
 2.1.7 Altersbedingte Wertminderung
 Von dem gemeinen Wert sind in Abhängigkeit von der Nutzungsdauer folgende Abschläge abzuziehen:
@@ -118,42 +142,72 @@ Der Grundbetrag (GB) eines neugeborenen lebensfähigen Ziegenlammes beträgt fü
 weibliche Milchziegen 80 EUR und für extensive Ziegenrassen und männliche Milchziegenlämmer 50 EUR.
 Der Zuschlag pro Lebensmonat beträgt ein Zwölftel der Differenz aus dem gemeinen Wert des nicht tragenden Muttertieres (ohne Alterswertminderung) und dem Neugeborenenpreis (GB) von 80 EUR beziehungsweise 50 EUR und berechnet sich nach folgender Formel:
 Zuschlag pro Lebensmonat =
+
 G + Z + ZZ + M - GB
 12 Monate
 
-G = Grundbetrag nach Nummer 2.1.2
-Z = Herdbuchzuchtzuschlag des Muttertiers nach Nummer 2.1.3
-ZZ = Zuchtwertzuschlag nach Nummer 2.1.4
-M = Zuschlag für Milchleistung des Muttertiers nach Nummer 2.1.5
-GB = Grundbetrag eines neugeborenen lebensfähigen Lammes.
+G
+
+= Grundbetrag nach Nummer 2.1.2
+
+Z
+
+= Herdbuchzuchtzuschlag des Muttertiers nach Nummer 2.1.3
+
+ZZ
+
+= Zuchtwertzuschlag nach Nummer 2.1.4
+
+M
+
+= Zuschlag für Milchleistung des Muttertiers nach Nummer 2.1.5
+
+GB
+
+= Grundbetrag eines neugeborenen lebensfähigen Lammes.
+
 Dieser Zuschlag wird nur für maximal zwölf Monate gewährt.
 Bei tragenden Jungziegen wird zusätzlich der Trächtigkeitszuschlag nach Nummer 2.1.6 gewährt.
 2.4 Ziegenlämmer zur Schlachtung
-Der gemeine Wert von Ziegenlämmern zur Schlachtung errechnet sich aus dem Lebendgewicht multipliziert mit der Marktnotierung lebend für Schaf-Schlachtlämmer. Sofern durch Ab- Hof-Verkäufe höhere Preise
+Der gemeine Wert von Ziegenlämmern zur Schlachtung errechnet sich aus dem Lebendgewicht multipliziert mit der Marktnotierung lebend für Schaf-Schlachtlämmer. Sofern durch Ab-Hof-Verkäufe höhere Preise
 erzielt worden sind, sind diese durch entsprechende Verkaufsbelege der letzten zwölf Monate vor dem Schadenseintritt nachzuweisen.
 3. Grundsätzliche Hinweise
-3.1 Bei der Festlegung des Grundbetrages (Durchschnittspreis/tatsächlicher Ankaufspreis) und anderer
+3.1
+Bei der Festlegung des Grundbetrages (Durchschnittspreis/tatsächlicher Ankaufspreis) und anderer
 wertbeeinflussender Beträge ist die von der Käuferin oder dem Käufer zu zahlende Mehrwertsteuer nicht zu
 berücksichtigen.
-3.2 Werden Marktentlastungsmaßnahmen in der betreffenden Region durchgeführt, sind an der Stelle der
+3.2
+Werden Marktentlastungsmaßnahmen in der betreffenden Region durchgeführt, sind an der Stelle der
 Marktnotierungen die jeweils für das betroffene Gebiet festgelegten Beihilfesätze zu berücksichtigen.
 Im Fall eines erheblichen Preisverfalls aufgrund großflächiger und langandauernder Seuchenzüge können
 in Absprache mit der Tierseuchenkasse die Marktnotierungen der Tötungswoche des Erstausbruches berücksichtigt werden.
 
-3.3 Über das Ergebnis der Ermittlungen des gemeinen Wertes von Schafen oder Ziegen ist je Bestand
+Nds. MBl. 2024 Nr. 468 vom 22. Oktober 2024
+
+Seite 5
+
+3.3
+Über das Ergebnis der Ermittlungen des gemeinen Wertes von Schafen oder Ziegen ist je Bestand
 eine Niederschrift anzufertigen. Die Niederschrift ist von den an der Schätzung beteiligten Personen der zuständigen Behörde zu unterzeichnen. Dem Protokoll sind die Ergebnisse der Wägung sowie Nachweise über
 eventuell erzielte Verkaufserlöse beizufügen.
-3.4 Von den Nummern 1 und 2 abweichende Schätzungen des gemeinen Wertes von Schafen oder Ziegen dürfen in Sonderfällen nur in Abstimmung mit der Tierseuchenkasse vorgenommen werden.
-3.5 Zuschläge sind nur zu berücksichtigen, wenn sie belegt werden können.
-3.6 Bei seuchenartigen Gewichtsverlusten von seuchenkranken Tieren nach der amtlichen Tötungsanordnung ist bei der Schätzung von einem rassetypischen Durchschnittsgewicht entsprechend dem Lebensalter
+3.4
+Von den Nummern 1 und 2 abweichende Schätzungen des gemeinen Wertes von Schafen oder Ziegen dürfen in Sonderfällen nur in Abstimmung mit der Tierseuchenkasse vorgenommen werden.
+3.5
+
+Zuschläge sind nur zu berücksichtigen, wenn sie belegt werden können.
+
+3.6
+Bei seuchenartigen Gewichtsverlusten von seuchenkranken Tieren nach der amtlichen Tötungsanordnung ist bei der Schätzung von einem rassetypischen Durchschnittsgewicht entsprechend dem Lebensalter
 auszugehen.
-3.7 Vor der Tötungsanordnung vorhandene sichtbare Qualitätsmängel, wie zum Beispiel Abmagerung,
+3.7
+Vor der Tötungsanordnung vorhandene sichtbare Qualitätsmängel, wie zum Beispiel Abmagerung,
 Mastitiden, Gliedmaßenschäden, Verletzungen, Abszesse und Parasitosen, sind bei der Wertermittlung durch
 angemessene Abschläge zu berücksichtigen.
-3.8 Für die Ermittlung des Wertes des Tieres ist dessen Lebendgewicht durch Wägung zu ermitteln. Ist
+3.8
+Für die Ermittlung des Wertes des Tieres ist dessen Lebendgewicht durch Wägung zu ermitteln. Ist
 dies nicht möglich, so sind die Gewichte zu schätzen und mit den Werten der Wägung in den Tierkörperbeseitigungseinrichtungen abzugleichen. Die Wiegeprotokolle sind dem Schätzprotokoll hinzuzufügen.
 4. Schlussbestimmungen
-Dieser R dErl. tritt am 01.01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.
+Dieser RdErl. tritt am 01.01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.
 
 An
 die Landkreise und kreisfreien Städte, Region Hannover, den Zweckverband Veterinäramt JadeWeser

@@ -1,16 +1,17 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 31. Juli 2024 Nummer 346
+74. (79.) Jahrgang
+
+Hannover, den 31. Juli 2024
+
+Nummer 346
 
 Staatliches Gewerbeaufsichtsamt Oldenburg
-
 Genehmigungsverfahren nach dem BImSchG;
 Öffentliche Bekanntmachung
 (RWE Nukleus Green H2 GmbH, Lingen [Ems])
 Bek. d. GAA Oldenburg v. 31.07.2024 – OL 23-206-01 –
-
 Das GAA Oldenburg hat der RWE Nukleus Green H2 GmbH, Schüttorfer Straße 100, 49808 Lingen (Ems),
 mit der Entscheidung vom 21.06.2024 eine Genehmigung zur Änderung einer Wasserstofferzeugungsanlage
 mit einer Produktionskapazität an Wasserstoff von zusätzlichen 17 500 t/a am o. g. Standort gemäß den §§
@@ -19,16 +20,38 @@ Das beantragte Vorhaben umfasst folgende Maßnahmen: Die Änderung der Linie 3.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 31.07. bis einschließlich 13.08.2024 bei folgenden Stellen eingesehen werden:
-– Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, Zimmer 417,
+–
+
+Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
 während der Dienststunden,
-montags bis donnerstags in der Zeit von 7.30 bis 15.30 Uhr,
-freitags in der Zeit von 7.30 bis 12.00 Uhr
+montags bis donnerstags in der Zeit von
+
+7.30 bis 15.30 Uhr,
+
+freitags in der Zeit von
+
+7.30 bis 12.00 Uhr
+
 sowie zusätzlich nach vorheriger telefonischer Anmeldung;
-– Stadt Lingen, Neue Straße 5, 49808 Lingen, während der Öffnungszeiten,
-montags bis mittwochs 9.00 bis 16.00 Uhr,
-donnerstags 9.00 bis 17.00 Uhr,
-freitags 9.00 bis 12.30 Uhr,
-samstags 9.00 bis 12.00 Uhr.
+–
+
+Stadt Lingen, Neue Straße 5, 49808 Lingen, während der Öffnungszeiten,
+montags bis mittwochs
+
+9.00 bis 16.00 Uhr,
+
+donnerstags
+
+9.00 bis 17.00 Uhr,
+
+freitags
+
+9.00 bis 12.30 Uhr,
+
+samstags
+
+9.00 bis 12.00 Uhr.
+
 Diese Bek. und der vollständige Genehmigungsbescheid einschließlich seiner Begründung sind auch im
 Internet unter http://www.gewerbeaufsicht.niedersachsen.de und dort über den Pfad „Bekanntmachungen >
 Oldenburg – Emden – Osnabrück“ einsehbar.
@@ -36,39 +59,86 @@ Gemäß § 27 i. V. m. § 20 UVPG erfolgt die Bekanntmachung auch im UVP-Portal.
 Gemäß § 10 Abs. 7 und 8 BImSchG i. V. m. § 21 a der 9. BImSchV werden der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 Es wird darauf hingewiesen, dass der Bescheid mit dem Ende der Auslegungsfrist gegenüber Dritten als
 zugestellt gilt.
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 346 vom 31. Juli 2024
+
+Seite 2
 
 Das genehmigte Vorhaben betrifft eine Anlage nach der Industrieemissions-Richtlinie. Darüber hinaus finden die „Schlussfolgerungen zu den besten verfügbaren Techniken für „Abwasser-/Abgasbehandlung und Abwasser-/Abgasmanagementsysteme in der chemischen Industrie Anwendung. Die aktuellen BVT-Merkblätter
 können im Internet beim Umweltbundesamt heruntergeladen werden.
 
+Nds. MBl. 2024 Nr. 346 vom 31. Juli 2024
+
+Seite 3
+
 Anlage
 Tenor
-1. Das GAA Oldenburg hat der RWE Nukleus Green H2 GmbH, Schüttorfer Strasse 100, 49808 Lingen
+1.
+Das GAA Oldenburg hat der RWE Nukleus Green H2 GmbH, Schüttorfer Strasse 100, 49808 Lingen
 (Ems) mit der Entscheidung vom 21.06.2024 eine Genehmigung zur Änderung einer Wasserstofferzeugungsanlage mit einer Produktionskapazität an Wasserstoff von zusätzlichen 17 500 t/a am o. g. Standort gem. §§
 16 und 10 des Bundes-Immissionsschutzgesetzes (BImSchG) erteilt.
 2. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die Errichtung folgender wesentlicher Anlagenteile und Nebeneinrichtungen einschließlich ihres Betriebes:
-– Elektrolyseur Linie 3 (PEM-Wasserelektrolyse),
-– Nebenanlagen (Schaltanlagen, Kühlsysteme, Elektroanschluss etc.) und
-– Betriebsgebäude.
+–
+
+Elektrolyseur Linie 3 (PEM-Wasserelektrolyse),
+
+–
+
+Nebenanlagen (Schaltanlagen, Kühlsysteme, Elektroanschluss etc.) und
+
+–
+
+Betriebsgebäude.
+
 Standort der Anlage ist:
-Ort: 49808 Lingen (Ems)
-Straße: Schüttorfer Straße 100
-Gemarkung: Darme
-Flur: 5 und 7
-Flurstücke: 13/4 (5) und 57/14 (7)
+Ort:
+
+49808 Lingen (Ems)
+
+Straße:
+
+Schüttorfer Straße 100
+
+Gemarkung:
+
+Darme
+
+Flur:
+
+5 und 7
+
+Flurstücke:
+
+13/4 (5) und 57/14 (7)
+
 Die im Formular „Inhaltsverzeichnis“ des Antrags vom 08.12.2023 im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 3. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-– die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
-– die im Kapitel 12.9 für das Bauvorhaben beantragten Abweichungen werden gem. § 51 NBauO als Erleichterungen gestattet. Die im Kapitel 12.9 für Alarmierungseinrichtungen und Brandmeldeanlagen beantragte Abweichungen werden gemäß § 66 NBauO zugelassen; zudem wird die beantragte Unter- schreitung der Abstände auf demselben Grundstück gem. § 51 NBauO gestattet,
-– die Genehmigung zur Umwandlung von Wald gemäß § 8 Abs. 1 NWaldLG und der dazugehörigen waldrechtlichen Kompensation nach § 8 Abs. 4 NWaldLG (Kompensationsmaßnahme K 4) und
-– die Ausnahme nach § 30 Abs. 3 BNatSchG für die Inanspruchnahme von ca. 10.650 m² des gesetzlich
-geschützten Biotopes Trockene Sandheide (HCT/RSZ und HCT/RAG) mit Hilfe der Ausgleichsmaß- nahme mit einer Entwicklung von neuen 10 650 m² Sandtrockenrasen als Teilfläche einer ca. 1,6 ha
+–
+
+die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
+
+–
+
+die im Kapitel 12.9 für das Bauvorhaben beantragten Abweichungen werden gem. § 51 NBauO als
+Erleichterungen gestattet. Die im Kapitel 12.9 für Alarmierungseinrichtungen und Brandmeldeanlagen
+beantragte Abweichungen werden gemäß § 66 NBauO zugelassen; zudem wird die beantragte Unterschreitung der Abstände auf demselben Grundstück gem. § 51 NBauO gestattet,
+
+–
+
+die Genehmigung zur Umwandlung von Wald gemäß § 8 Abs. 1 NWaldLG und der dazugehörigen waldrechtlichen Kompensation nach § 8 Abs. 4 NWaldLG (Kompensationsmaßnahme K 4) und
+
+–
+
+die Ausnahme nach § 30 Abs. 3 BNatSchG für die Inanspruchnahme von ca. 10.650 m² des gesetzlich
+geschützten Biotopes Trockene Sandheide (HCT/RSZ und HCT/RAG) mit Hilfe der Ausgleichsmaßnahme mit einer Entwicklung von neuen 10 650 m² Sandtrockenrasen als Teilfläche einer ca. 1,6 ha
 städtischen Ersatzfläche „E 481“ (Kompensationsmaßnahme K2).
+
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Kostenentscheidung
 Die Kosten dieses Verfahrens trägt die Antragstellerin.
-
 Rechtsbehelfsbelehrung
 Gegen diese Entscheidung kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen
-Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, erhoben werden.
+Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, erhoben werden.

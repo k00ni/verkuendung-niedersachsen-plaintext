@@ -1,44 +1,57 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 23. Juli 2024 Nummer 331
+74. (79.) Jahrgang
+
+Hannover, den 23. Juli 2024
+
+Nummer 331
 
 Niedersächsisches Ministerium für Umwelt, Energie und Klimaschutz
-
 Einführung der Hinweise der Bund/Länder-Arbeitsgemeinschaft Immissionsschutz (LAI)
 zur Auslegung der TA Lärm
 RdErl. d. MU v. 15.07.2024 – 40502/200-0019 –
 – VORIS 28500 –
+Bezug:
 
-Bezug: a) Gem. RdErl. d. MU, d. ML, d. MS und d. MW v. 15.03.2024 (Nds. MBl. 2024 Nr. 141)
+a)
+b)
+
+Gem. RdErl. d. MU, d. ML, d. MS und d. MW v. 15.03.2024 (Nds. MBl. 2024 Nr. 141)
 – VORIS 28500 –
-b) RdErl. d. MU v. 21.01.201 9 (Nds. MBl. S. 343)
+RdErl. d. MU v. 21.01.2019 (Nds. MBl. S. 343)
 – VORIS 28500 –
 
 1. Regelungsinhalt
-1.1 Zum einheitlichen Vollzug des BImSchG und der darauf gestützten TA Lärm sind die in der Anlage
+1.1
+Zum einheitlichen Vollzug des BImSchG und der darauf gestützten TA Lärm sind die in der Anlage
 beigefügten „LAI-Hinweise zur Auslegung der TA Lärm (Fragen und Antworten zur TA Lärm)“ Stand
 24.02.2023, zur Auslegung der Regelungen der TA Lärm und insbesondere bei der Prüfung von Schallgutachten zugrunde zu legen.
-1.2 Darüber hinaus ist folgendes zu beachten:
-1.2.1 Die LAI-Hinweise zur Auslegung der TA Lärm verweisen in den Ausführungen Nr . 1 Abs. 8 darauf, dass
-sofern länderbezogene Regelungen für Freizeitanlagen oder Freiluftgaststätten vorliegen, diese anzuwenden sind. Mit der Einführung des Bezugserlasses zu a sind in Niedersachsen insbesonde re Freiluftgaststätten und Freiluftschankflächen ab dem 01.04.2024 nach der niedersächsischen Freizeitanlagenlärmschutzrichtlinie zu beurteilen.
+1.2
+
+Darüber hinaus ist folgendes zu beachten:
+
+1.2.1 Die LAI-Hinweise zur Auslegung der TA Lärm verweisen in den Ausführungen Nr. 1 Abs. 8 darauf, dass
+sofern länderbezogene Regelungen für Freizeitanlagen oder Freiluftgaststätten vorliegen, diese anzuwenden sind. Mit der Einführung des Bezugserlasses zu a sind in Niedersachsen insbesondere Freiluftgaststätten und Freiluftschankflächen ab dem 01.04.2024 nach der niedersächsischen Freizeitanlagenlärmschutzrichtlinie zu beurteilen.
 1.2.2 Über die Ausführungen in Nummer 6.7 der LAI-Hinweise zur Auslegung der TA Lärm zu Gemengelagen
 hinaus ist folgendes zu beachten:
-Nach Festlegung ein es geeigneten Zwischenwertes ist dieser bei der Beurteilung der Ge-
-räuschimmissionen an den betreffenden Immissionsorten nicht nur bei der anstehenden Entscheidung,
+Nach Festlegung eines geeigneten Zwischenwertes ist dieser bei der Beurteilung der Geräuschimmissionen an den betreffenden Immissionsorten nicht nur bei der anstehenden Entscheidung,
 sondern auch in Zukunft einheitlich anzuwenden. Vor diesem Hintergrund sind andere Immissionsschutzbehörden, die für die Bauleitplanung zuständigen Behörden sowie ggf. weitere Stellen über die
 Festsetzung zu informieren.
 1.2.3 Bei der Behandlung von Windkraftanlagen ist ergänzend der Bezugserlass zu b in der jeweils geltenden
 Fassung zu beachten.
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 331 vom 23. Juli 2024
 
 2. Schlussbestimmungen
 Dieser RdErl. tritt am 01.08.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
-
 An die
 Dienststellen der Gewerbeaufsichtsverwaltung
 Region Hannover, Landkreise, kreisfreien Städte und großen selbständigen Städte
+
+Seite 2
 
 Anlage
 
@@ -46,90 +59,167 @@ Bund/Länder-Arbeitsgemeinschaft Immissionsschutz (LAI)
 ein Arbeitsgremium der
 Umweltministerkonferenz der Bundesrepublik Deutschland
 
-
-
-
-
-
-
-
-
-
-
 LAI-Hinweise zur Auslegung der TA Lärm
 (Fragen und Antworten zur TA Lärm)
 
-
 UMK-Umlaufbeschluss 13/2023
-
 Stand: 24.02.2023
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-2
-
 
 Inhalt
-Allgemeines 4
-1. Anwendungsbereich 7
-2.2 Einwirkungsbereich einer Anlage 10
-2.3 Maßgeblicher Immissionsort 11
-2.4 Vor-, Zusatz- und Gesamtbelastung; Fremdgeräusche 13
-2.5 Stand der Technik zur Lärmminderung 14
-3.2.1 Prüfung im Regelfall 15
-3.2.2 Ergänzende Prüfung im Sonderfall 19
-3.3 Prüfung der Einhaltung der Vorsorgepflicht 21
-4. Allgemeine Grundsätze für die Prüfung nicht genehmigungsbedürftiger Anlagen 22
-4.1 Grundpflichten des Betreibers und 4.2 Vereinfachte Regelfallprüfung 23
-4.2 Vereinfachte Regelfallprüfung 24
-5.1 Absatz 3 Nachträgliche Anordnungen bei genehmigungsbedürftigen Anlagen 25
-5.2 Anordnungen im Einzelfall bei nicht genehmigungsbedürftigen Anlagen 26
-6. Immissionsrichtwerte 27
-6.1 Immissionsrichtwerte für Immissionsorte außerhalb von Gebäuden 28
-6.2 Immissionsrichtwerte für Immissionsorte innerhalb von Gebäuden 29
-6.3 Immissionsrichtwerte für seltene Ereignisse 30
-6.4 Beurteilungszeiten 31
-6.5 Zuschlag für Tageszeiten mit erhöhter Empfindlichkeit 32
-6.6 Zuordnung des Immissionsortes 33
-6.7 Gemengelagen 34
+Allgemeines
 
-6.9 Messabschlag bei Überwachungsmessungen 36
-7.2 Bestimmungen für seltene Ereignisse 37
-
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-3
-
-
-7.3 Berücksichtigung tieffrequenter Geräusche 38
-7.4 Berücksichtigung von Verkehrsgeräuschen 40
-A.1.2 Ermittlung der Vor-, Zusatz- und Gesamtbelastung 43
-A.1.4 Beurteilungspegel L
-r 44
-A.2.5.2 Zuschlag für Ton- und Informationshaltigkeit K
-T 45
-A.2.6 Darstellung der Ergebnisse 46
-A.3.3.3 Durchführung der Messungen 47
-A.3.3.6 Zuschlag für Impulshaltigkeit 48
-Anhang allgemein 49
-
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 4
 
+1. Anwendungsbereich
+
+7
+
+2.2 Einwirkungsbereich einer Anlage
+
+10
+
+2.3 Maßgeblicher Immissionsort
+
+11
+
+2.4 Vor-, Zusatz- und Gesamtbelastung; Fremdgeräusche
+
+13
+
+2.5 Stand der Technik zur Lärmminderung
+
+14
+
+3.2.1 Prüfung im Regelfall
+
+15
+
+3.2.2 Ergänzende Prüfung im Sonderfall
+
+19
+
+3.3 Prüfung der Einhaltung der Vorsorgepflicht
+
+21
+
+4. Allgemeine Grundsätze für die Prüfung nicht genehmigungsbedürftiger Anlagen
+
+22
+
+4.1 Grundpflichten des Betreibers und 4.2 Vereinfachte Regelfallprüfung
+
+23
+
+4.2 Vereinfachte Regelfallprüfung
+
+24
+
+5.1 Absatz 3 Nachträgliche Anordnungen bei genehmigungsbedürftigen Anlagen
+
+25
+
+5.2 Anordnungen im Einzelfall bei nicht genehmigungsbedürftigen Anlagen
+
+26
+
+6. Immissionsrichtwerte
+
+27
+
+6.1 Immissionsrichtwerte für Immissionsorte außerhalb von Gebäuden
+
+28
+
+6.2 Immissionsrichtwerte für Immissionsorte innerhalb von Gebäuden
+
+29
+
+6.3 Immissionsrichtwerte für seltene Ereignisse
+
+30
+
+6.4 Beurteilungszeiten
+
+31
+
+6.5 Zuschlag für Tageszeiten mit erhöhter Empfindlichkeit
+
+32
+
+6.6 Zuordnung des Immissionsortes
+
+33
+
+6.7 Gemengelagen
+
+34
+
+6.9 Messabschlag bei Überwachungsmessungen
+
+36
+
+7.2 Bestimmungen für seltene Ereignisse
+
+37
+2
+
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
+7.3 Berücksichtigung tieffrequenter Geräusche
+
+38
+
+7.4 Berücksichtigung von Verkehrsgeräuschen
+
+40
+
+A.1.2 Ermittlung der Vor-, Zusatz- und Gesamtbelastung
+
+43
+
+A.1.4 Beurteilungspegel Lr
+
+44
+
+A.2.5.2 Zuschlag für Ton- und Informationshaltigkeit KT
+
+45
+
+A.2.6 Darstellung der Ergebnisse
+
+46
+
+A.3.3.3 Durchführung der Messungen
+
+47
+
+A.3.3.6 Zuschlag für Impulshaltigkeit
+
+48
+
+Anhang allgemein
+
+49
+
+3
+
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 Allgemeines
 Korrektur offensichtlicher redaktioneller Unrichtigkeiten
 Bei der Ergänzung der TA Lärm um Immissionsrichtwerte für urbane Gebiete wurde die
-Anpassung der Verweise in den Nummern 6.5 und 7.4 der TA Lärm übersehen
-1
-. Die
+Anpassung der Verweise in den Nummern 6.5 und 7.4 der TA Lärm übersehen1. Die
 Unstimmigkeiten, die ohne eine Korrektur der redaktionellen Fehler beim Vollzug der TA
 Lärm entstehen würden – insbesondere ein verringerter Schutz gegen Lärm in Kurgebieten,
 für Krankenhäuser und Pflegeanstalten – würden sowohl den fachlichen Wertungen als auch
 der Systematik der TA Lärm widersprechen. Sie waren weder von der Bundesregierung noch
 vom Bundesrat gewollt. Die wörtliche Anwendung der Nummern 6.5 und 7.4 der TA Lärm ist
 daher nicht mehr uneingeschränkt zur Konkretisierung der gesetzlichen Anforderungen aus
-den §§ 5 und 22 Bundes -Immissionsschutzgesetz (BImSchG) geeignet. Auf die Anpassungen
+den §§ 5 und 22 Bundes-Immissionsschutzgesetz (BImSchG) geeignet. Auf die Anpassungen
 in den Verweisen der TA Lärm wird in diesen Hinweisen bei den Nummern 6.5 und 7.4
 eingegangen.
+
 Weitere Gültigkeit von Auflagen bezüglich Lärmimmissionen in früheren
 Genehmigungsbescheiden, die von der TA Lärm 98 abweichende Bestimmungen
 enthalten
@@ -140,29 +230,23 @@ als auch für Nebenbestimmungen zu Baugenehmigungen.
 „Altgenehmigungen“ nach BImSchG
 Ob der Betrieb genehmigungskonform erfolgt, bestimmt sich allein nach den in der
 Genehmigung enthaltenen Nebenbestimmungen. Dort eventuell angeordnete Messungen
-haben auf der Grundlage der in Bezug genommenen TA Lärm 68 bzw. VDI 2058 Blatt 1
-2
-zu
+haben auf der Grundlage der in Bezug genommenen TA Lärm 68 bzw. VDI 2058 Blatt 12 zu
 erfolgen. Ist keine Vorschrift in Bezug genommen, so ist die TA Lärm 68 heranzuziehen.
 Die TA Lärm 98 ist anzuwenden, wenn es um die Frage geht, ob der genehmigungskonforme
 Betrieb auch den nun durch die TA Lärm 98 konkretisierten Anforderungen des BImSchG
 entspricht.
 
-
-
-
-
-
 1
-Schreiben des Bundesumweltministeriums vom 7. Juli 2017
-[Abruf 13.02.2023].
+
+Schreiben des Bundesumweltministeriums vom 7. Juli 2017 [Abruf 13.02.2023].
+
 2
+
 Die VDI 2058 Blatt 1 ist zurückgezogen (DIN Mitteilungen, Heft 6/99, S. A450 unter 17.140.20).
 
+4
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-5
-
-
 Soweit die TA Lärm 98 zu strengeren Anforderungen führt, kann eine nachträgliche
 Anordnung nach § 17 BImSchG unter Beachtung der Nummern 5.1 und 5.3 TA Lärm 98
 erlassen werden.
@@ -193,19 +277,18 @@ Anforderungen der Baugenehmigung, soll von der Durchsetzung der Nebenbestimmunge
 abgesehen werden. Nicht genehmigungsbedürftige Anlagen müssen Anforderungen
 genügen, die den Schutz vor schädlichen Umwelteinwirkungen sicherstellen. Mit Einhaltung
 der TA Lärm 98 ist dieser Schutz gewährleistet.
+
 Verhältnis von TA Lärm zu neuen akustischen Erkenntnissen
 Die Fortentwicklung akustischer Kenntnisse und der Fortschritt bei der Messtechnik führen
 dazu, dass Normen, auf die in der TA Lärm 98 Bezug genommen wird (statische Verweise),
 fortentwickelt und durch neuere Fassungen oder andere Normen ersetzt wurden. Der
 
+5
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-6
-
-
 Anhang enthält Hinweise für Bezüge zu technischen Normen und Regelwerken und eine
 Zusammenstellung der Normen und Regelwerke der TA Lärm.
-Die Fortentwicklung der akustischen Kenntnisse veranlasste die Bund- Länder-
-Arbeitsgemeinschaft für Immissionsschutz zur Herausgabe von Hinweisen zur Ermittlung und
+Die Fortentwicklung der akustischen Kenntnisse veranlasste die Bund-LänderArbeitsgemeinschaft für Immissionsschutz zur Herausgabe von Hinweisen zur Ermittlung und
 Beurteilung der Geräusche von bestimmten Anlagentypen, die wegen ihrer akustischen
 Besonderheiten nicht sachgerecht durch die Vorgaben der TA Lärm erfasst werden. Das
 betrifft
@@ -213,20 +296,21 @@ betrifft
 2) den Leitfaden für die Verbesserung des Schutzes gegen Lärm bei stationären Geräten
 und
 3) die Hinweise zum Schallimmissionsschutz bei Windkraftanlagen.
-Die Leitfäden und die Hinweise sind veröffentlicht auf der Internetseite der LAI
-unter der
+Die Leitfäden und die Hinweise sind veröffentlicht auf der Internetseite der LAI unter der
 Rubrik „Physikalische Einwirkungen“.
+
 Beurteilung der Immissionssituation und der zu beurteilenden Anlage durch die
 Messstellen nach §§ 26, 28 BImSchG, Zusammenwirken mit der
 Immissionsschutzbehörde
 Die Ermessensspielräume der TA Lärm sind von der zuständigen Immissionsschutzbehörde
 auszufüllen. Die Messstellen, die nach §§ 26, 28 BImSchG angeordnete Messungen
-ausführen, ermitteln die Geräuschemissionen bzw. - immissionen einschließlich deren
+ausführen, ermitteln die Geräuschemissionen bzw. -immissionen einschließlich deren
 Charakteristik und bilden für den Regelfall den Beurteilungspegel des zu beurteilenden
 Geräusches einschließlich ggf. erforderlicher Zuschläge. Eine darüber hinausgehende
 Bewertung oder vom Regelfall abweichende Bildung des Beurteilungspegels ist insbesondere
 bei den „Kann”-Bestimmungen nur in Abstimmung mit der Immissionsschutzbehörde
 möglich.
+
 Verhältnis von Immissionswerten in Genehmigungsbescheiden zur Gesamtbelastung
 bei vorhandener Vorbelastung
 Die Immissionsrichtwerte der TA Lärm 98 gelten für die Gesamtbelastung im Sinne von
@@ -237,9 +321,9 @@ Nebenbestimmungen und Auflagen für die Anlage selbst aufgenommen werden können
 in der Regel für die Anlage ein Immissionsrichtwertanteil festzulegen, der die Vorbelastung
 berücksichtigt.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-7
+6
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 1. Anwendungsbereich
 Zum Begriff der Anlage nach der TA Lärm 98
@@ -255,6 +339,7 @@ einzelne Anlagen möglich. So ist z. B. eine Schreinerei insgesamt als Anlage zu
 nicht die einzelnen, dort vorhandenen Maschinen.
 Die Anwendbarkeit der TA Lärm 98 ist nicht auf gewerbliche Anlagen beschränkt, auch
 hoheitlich betriebene und private Anlagen werden erfasst.
+
 Anwendbarkeit der TA Lärm 98 für die Beurteilung von Anlagentypen, die vom
 Anwendungsbereich ausgenommen sind
 Auch für alle Anlagen, die aus dem Anwendungsbereich der TA Lärm 98 ausgenommen
@@ -268,18 +353,15 @@ Für Sportanlagen gilt die 18. BImSchV und für Baustellen die AVV Baulärm –
 Geräuschimmissionen.
 Anlagen nach Buchstabe d) befinden sich auf Truppenübungsplätzen und werden gesondert
 beurteilt (siehe auch LAI-Leitfaden für die Genehmigung von Standortschießanlagen auf der
-Internetseite der LAI
-unter der Rubrik „Physikalische Einwirkungen“).
+Internetseite der LAI unter der Rubrik „Physikalische Einwirkungen“).
 Bei Anlagen nach Buchstaben h) sollen nur Geräusche technischen Ursprungs entsprechend
 der TA Lärm 98 beurteilt werden.
 Zur Konkretisierung der immissionsschutzrechtlichen Anforderungen an Freizeitanlagen hat
 die LAI die Freizeitlärmrichtlinie zur Anwendung empfohlen (siehe auch Freizeitlärmrichtlinie
 auf der Internetseite der LAI unter der Rubrik „Physikalische Einwirkungen“). Sofern
+7
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-8
-
-
 länderbezogene Regelungen für Freizeitanlagen oder Freiluftgaststätten vorliegen, sind diese
 anzuwenden.
 Bei Sportanlagen, die Anlagen für verschiedene Sportarten einschließlich einer
@@ -287,32 +369,34 @@ geschlossenen Schießanlage umfassen, kann auch für die Schießanlage als Teil 
 Gesamtanlage die Beurteilung nach 18. BImSchV angewandt werden. Im Übrigen haben
 Schießstände und Schießplätze (siehe VDI 3745) bezüglich ihrer Geräuschimmissionen die
 Anforderungen der TA Lärm zu erfüllen.
+
 Begriff „Freiluftgaststätten“
 Es ist zu differenzieren zwischen Freiluftgaststätten und Gaststätten mit Außengastronomie.
 Im Unterschied zu letzteren wird im Falle einer Freiluftgaststätte nicht nur der Betrieb der
 Gaststätte auf einige im Freien liegende Plätze erweitert, sondern der im Freien liegende
 Bereich tritt als eigenständiger Teil hinzu, er wird z. B. für sich bewirtschaftet.
+
 Begriff „nicht genehmigungsbedürftige landwirtschaftlichen Anlagen“
 Hilfestellung für die Bestimmung, was eine landwirtschaftliche Anlage ist, bietet
-beispielsweise der § 201 Baugesetzbuch
-3
-. Da die genehmigungsbedürftigen
+beispielsweise der § 201 Baugesetzbuch3. Da die genehmigungsbedürftigen
 landwirtschaftlichen Anlagen im Anhang zur 4. BImSchV abschließend aufgeführt sind,
 gehören alle anderen landwirtschaftlichen Anlagen in die Gruppe der nicht
 genehmigungsbedürftigen Anlagen.
+
 Begriff „Tagebaue“
 Der Begriff „Tagebaue” ist gemäß § 4 Absatz 2 BImSchG auszulegen. Deshalb sind nur
 Anlagen ausgenommen, die unter den Geltungsbereich des Bundesberggesetzes fallen.
+
 Begriff „Seehafenumschlagsanlagen“
 Seehafenumschlagsanlagen sind eindeutig zu begrenzen auf diejenigen Anlagen, die
 unmittelbar zum Löschen und Beladen von Schiffen dienen. Die Herausnahme dieser
 Anlagen aus dem Geltungsbereich der TA Lärm 98 soll den Besonderheiten des
 
-
-
 3
+
 § 201 BauGB Begriff der Landwirtschaft.
-„Landwirtschaft im Sinne dieses Gesetzes ist insbesondere der Ackerbau, die Wiesen - und
+
+„Landwirtschaft im Sinne dieses Gesetzes ist insbesondere der Ackerbau, die Wiesen- und
 Weidenwirtschaft einschließlich Tierhaltung, soweit das Futter überwiegend auf den zum
 landwirtschaftlichen Betrieb gehörenden, landwirtschaftlich genutzten Flächen erzeugt werden
 kann, die gartenbauliche Erzeugung, der Erwerbsgartenbau, der Weinbau, die berufsmäßige
@@ -320,18 +404,19 @@ Imkerei und die berufsmäßige Binnenfischerei.“ (Fassung aufgrund des Gesetze
 Baugesetzbuchs an EU-Richtlinien (Europarechtsanpassungsgesetz Bau - EAG Bau) vom 24.06.2004
 (BGBl. I S. 1359) m.W.v. 20.07.2004).
 
+8
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-9
-
-
 Schiffsverkehrs Rechnung tragen und darf nicht dazu führen, dass möglicherweise alle im
 Hafenbereich befindlichen Anlagen privilegiert werden.
+
 Begriff „Anlagen für soziale Zwecke“
 Der Begriff „Anlagen für soziale Zwecke” ist im Sinne der Baunutzungsverordnung (BauNVO)
 und der TA Lärm 98 identisch zu interpretieren. Wie in der BauNVO sind Anlagen für soziale
 Zwecke von solchen für kirchliche, kulturelle, gesundheitliche oder sportliche Zwecke
 abzugrenzen. Krankenhäuser sind Einrichtungen, die gesundheitlichen Zwecken dienen,
 Feuerwachen dienen gemeinnützigen Zwecken.
+
 Abstellen von Eisenbahnfahrzeugen
 Während der Nutzung als (nächtliches) Abstellgleis für Züge (z. B. Elektrotriebwagen)
 unterliegen Eisenbahngleise als sonstige ortsfeste Einrichtung im Sinne des § 3 Absatz 5
@@ -344,17 +429,23 @@ betriebliche Einheit im weiteren Sinne zu betrachten und als solche
 immissionsschutzrechtlich einzuordnen (siehe auch BVerwG v. 22.11.2018, Az.: 7 C 7/17, Rn
 11, juris).
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-10
+9
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 2.2 Einwirkungsbereich einer Anlage
 Zum Einwirkungsbereich einer Anlage
 Der betrachtete Immissionsort liegt dann nicht im Einwirkungsbereich einer Anlage, wenn
 dort
-• ihr Beurteilungspegel 10 dB(A) oder mehr unter dem Immissionsrichtwert liegt und
-• zusätzlich keine Geräuschspitzen auftreten, die den für die Beurteilung maßgeblichen
+•
+
+ihr Beurteilungspegel 10 dB(A) oder mehr unter dem Immissionsrichtwert liegt und
+
+•
+
+zusätzlich keine Geräuschspitzen auftreten, die den für die Beurteilung maßgeblichen
 Immissionswert erreichen.
+
 Hier soll nur der Regelfall betrachtet werden. Der Regelung der Nummer 2.2 der TA Lärm
 liegt die Annahme zu Grunde, dass auf einen Immissionsort lediglich eine begrenzte Anzahl
 von Anlagen einwirkt. So führen 12 Anlagen mit gleicher Schallenergie, deren
@@ -364,9 +455,9 @@ In welchen Fällen von einer Anwendung der Nummer 2.2 abzusehen ist, hängt nebe
 Anzahl der Anlagen auch vom Ausmaß der Unterschreitung des Immissionsrichtwerts und
 der Schallenergie der relevanten Anlagen ab.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-11
+10
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 2.3 Maßgeblicher Immissionsort
 Anzahl der bei der Beurteilung einer Anlage in Betracht zu ziehenden maßgeblichen
@@ -388,6 +479,7 @@ Immissionsorte festgelegt werden, an denen die Einhaltung der Immissionsbeiträg
 Einzelanlagen geprüft wird.
 Im Genehmigungsbescheid ist es ausreichend, wenn der Immissionsort / die Immissionsorte
 zweifelsfrei bezeichnet sind.
+
 Zum Ort der Schallpegelpegelmessungen im Falle von Nachbarschaftsbeschwerden
 Die Schallpegelpegelmessungen können beim Beschwerdeführer, aber auch an anderen
 Orten erfolgen, wenn daraus die Immissionsbelastung am maßgeblichen Immissionsort
@@ -396,18 +488,18 @@ bestimmt werden kann. Nur im begründeten Einzelfall sollten zwei Messungen
 Falls sich im konkreten Einzelfall ergibt, dass ein maßgeblicher Immissionsort aus einer
 Genehmigung nicht mehr den Vorgaben der Nummer 2.3 TA Lärm genügt, ist bei einer
 Messung auf den neuen maßgeblichen Immissionsort abzustellen.
+
 Beurteilung von Büroräumen im Hinblick auf die Nachtzeit
 Unter Nummer 2.3 i. V. m. A.1.3 a) der TA Lärm 98 wird auf schutzbedürftige Räume nach
 DIN 4109, Ausgabe November 1989, verwiesen. Zu schutzbedürftigen Räumen gehören
 danach auch Büroräume. Deren Schutzanspruch richtet sich nach Nummer 6.1 der TA Lärm
 98. Allerdings kann eine Sonderfallprüfung nach Nummer 3.2.2 angezeigt sein und dabei
+11
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-12
-
-
 festgestellt werden, dass benutzte Büroräume auch nachts nur den Schutzanspruch der
 Tageszeit haben.
+
 Beurteilung unbebauter Grundstücken in Gewerbegebieten, die nach Bebauungsplan
 mit Gebäuden mit Büronutzung bebaut werden können
 Grundsätzlich sind in einem Gewerbegebiet maßgebliche Immissionsorte dort anzunehmen,
@@ -415,21 +507,23 @@ wo Büronutzungen zulässig sind. Die Vorgaben der Nummer A.1.3 b) sind zu beach
 bei Vorliegen eines Bebauungsplans können bereits auf dem Nachbargrundstück
 maßgebliche Immissionsorte liegen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-13
+12
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 2.4 Vor-, Zusatz- und Gesamtbelastung; Fremdgeräusche
 Abgrenzung von Vor- und Zusatzbelastung bei einer wesentlichen Änderung
 Im Falle der wesentlichen Änderung einer Anlage sind die von der gesamten Anlage
 verursachten Immissionen als Zusatzbelastung anzusehen. Die Zusatzbelastung ist nicht auf
 den Immissionsbeitrag der wesentlichen Änderung beschränkt.
+
 Zurechenbarkeit der Geräuschimmissionen einer Anlage (Anlage B) zur Vorbelastung,
 wenn ein maßgeblicher Immissionsort innerhalb der Anlage selbst liegt (Erläuterung:
 Anlage A soll beurteilt werden. Ein maßgeblicher Immissionsort hierfür liegt innerhalb
 der Anlage B)
 Die Geräusche der Anlage, in der der maßgebliche Immissionsort liegt (Anlage B), sind nicht
 zur Vorbelastung hinzuzurechnen.
+
 Abgrenzung, Umfang und Qualität der Vorbelastungsuntersuchung
 Für die Vorbelastung zu Grunde zu legende Betriebszustände
 Voraussetzung für eine Vorbelastungsermittlung ist die Bestimmung der zu betrachtenden
@@ -447,9 +541,9 @@ beitragenden Anlagen auszugehen. Für die tatsächliche Emission/Immission ist d
 zulässige maximale Anlagenauslastung heranzuziehen. Höchstens ist jedoch die genehmigte
 mögliche Geräuschemission/-immission anzunehmen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-14
+13
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 2.5 Stand der Technik zur Lärmminderung
 Definition des Begriffs „in engem räumlichen und betrieblichen Zusammenhang mit
@@ -462,12 +556,12 @@ auf dem Grundstück des Betroffenen, Schallschutzfenster etc.) zur Lärmminderun
 gemeint, da sie nicht in einem engen räumlichen und betrieblichen Zusammenhang mit der
 Schallquelle stehen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-15
+14
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 3.2.1 Prüfung im Regelfall
-Verhältnis der in Absatz 2– 5 der Nummer 3.2.1 formulierten Regelungen zueinander
+Verhältnis der in Absatz 2–5 der Nummer 3.2.1 formulierten Regelungen zueinander
 Verhältnis der Nummer 3.2.1 zu den Grundpflichten des Betreibers nach Nummer 3.1
 (Sind die Regelungen einzeln nacheinander und unabhängig voneinander zu prüfen
 und soll die für die Betroffenen oder die Betreiber günstigste Regelung gewählt
@@ -491,7 +585,6 @@ unterschieden. Dadurch, dass ausdrücklich auf die Gesamtbelastung abgestellt wi
 die Immissionsrichtwerte anlagenübergreifend (Akzeptorbezug). Überschreitungen der
 Immissionsrichtwerte, die die TA Lärm 98 zulässt (Nummer 3.2.1 Absätze 2–5, 3.2.2, 4., 5.,
 6.3 und 6.7), sind zumutbar.
-
 Die Absätze 2–5 der Nummer 3.2.1 benennen Situationen, in denen wegen Berücksichtigung
 der Vorbelastung eine geringfügige oder zeitlich begrenzte Überschreitung der
 Immissionsrichtwerte hingenommen werden kann. Dabei bedeuten die Formulierungen „die
@@ -501,11 +594,9 @@ nach Nummer 3.3 zu beachten.
 Damit können alle erforderlichen Auflagen zur Verwirklichung des Schutzes und der
 Vorsorge verlangt werden, das bedeutet insbesondere die Festsetzung von
 Immissionsrichtwertanteilen und Immissionsbegrenzungen bzw. die Anwendung des Standes
+15
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-16
-
-
 der Technik zur Lärmminderung. Somit kann auch vermieden werden, dass bei einer
 Neuansiedlung von Betrieben die erste Anlage die Immissionsrichtwerte allein ausschöpft.
 Entsprechend der systematischen Unabhängigkeit der Absätze 2 bis 5 ist es jedenfalls bei der
@@ -519,33 +610,33 @@ Wirken bspw. mehrere Anlagen auf einen Immissionsort ein, die jede für sich min
 6 dB(A) unter dem Immissionsrichtwert liegt, die aber insgesamt zu einer relevanten
 Überschreitung des Immissionswertes führen, so können die Voraussetzungen für eine
 ergänzende Prüfung im Sonderfall gegeben sein.
+
 Absatz 3: Interpretation von „diese Überschreitung nicht mehr als 1 dB(A) beträgt“
 Es wird auf die Gesamtbelastung Bezug genommen.
-
 Die Überschreitung ergibt sich aus dem ungerundeten Gesamtbeurteilungspegel minus dem
 Immissionsrichtwert. Diese Differenz ist nach DIN 1333 zu runden (siehe Abschnitt
 Rundungsvorschriften für gerechnete und gemessene Pegelwerte im Anhang) und auf
 Einhaltung von nicht mehr als 1 dB(A) zu prüfen.
+
 Absatz 3: Dauerhafte Sicherstellung der Situation
-In Absatz 3 wird als eine Möglichkeit der Abschluss eines öffentlich- rechtlichen Vertrages der
+In Absatz 3 wird als eine Möglichkeit der Abschluss eines öffentlich-rechtlichen Vertrages der
 beteiligten Anlagenbetreiber mit der Überwachungsbehörde genannt. Grundsätzlich sind die
 Betreiber aller Anlagen, die zur Gesamtbelastung beitragen, an dem Vertrag zu beteiligen.
 Zur Vereinfachung wird empfohlen abzuschätzen, welche Anlagen maßgeblich zur
 Gesamtbelastung beitragen. In den meisten Fällen ist es ausreichend, nur die Betreiber
 dieser Anlagen in den öffentlich-rechtlichen Vertrag zur Vermeidung einer
 Richtwertüberschreitung einzubeziehen.
+
 Absatz 4: Erteilung von Auflagen für Anlagen, die zur Vorbelastung beitragen
 Hier sind nur Maßnahmen an bestehenden Anlagen des Antragstellers vorgesehen. Absatz 4
 setzt den Fall voraus, dass nur Anlagen des Antragstellers zur Vorbelastung beitragen und
 allein Maßnahmen an den Anlagen des Antragstellers ausreichen, um eine Überschreitung
 der Immissionsrichtwerte sicher zu verhindern.
 
+16
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-17
-
-
 Hinweis:
-
 Eine Auflage, durch die eine Stilllegung oder Beseitigung einer anderen Anlage desselben
 Betreibers vorgeschrieben wird, erscheint rechtlich nicht haltbar. Denkbar wäre ein
 öffentlich- rechtlicher Vertrag, der die Stilllegung oder Beseitigung einer anderen Anlage
@@ -559,6 +650,7 @@ eigenständige Nebenbestimmung handelt, nicht bei einer modifizierenden Auflage 
 einer Genehmigungsinhaltsbestimmung.
 Minderungsmaßnahmen an den Anlagen anderer Betreiber können im Rahmen einer
 Sonderfallprüfung (Nummer 3.2.2 Satz 2 c)) Berücksichtigung finden.
+
 Absatz 4: Erteilung von Auflagen für Anlagen, die zur Vorbelastung beitragen, bei der
 Durchführung von Sanierungsmaßnahmen bei Überschreitung des
 Immissionsrichtwertes innerhalb von 3 Jahren
@@ -566,41 +658,35 @@ Hier sind Maßnahmen an bestehenden Anlagen des Antragstellers vorgesehen. Absat
 setzt den Fall voraus, dass Anlagen des Antragstellers maßgeblich zur Vorbelastung
 beitragen und allein Maßnahmen an den Anlagen des Antragstellers ausreichen, um eine
 Überschreitung der Immissionsrichtwerte sicher zu verhindern.
+
 Absatz 5: Anwendbarkeit und Beurteilung von Fremdgeräuschen
 Absatz 5 gilt insbesondere bei Geräuschimmissionen, die von der TA Lärm 98 nicht erfasst
 werden, also vor allem bei Verkehrsgeräuschen von öffentlichen Verkehrswegen
 und -flächen.
-
 Nummer 3.2.1 Absatz 5 kann auch auf nicht genehmigungsbedürftige Anlagen sinngemäß
 angewendet werden.
 Das Einwirken ständig vorhandener Fremdgeräusche kann angenommen werden, wenn der
-mittlere Wert (Median, Kenngröße H
-50 nach VDI-Richtlinie 3723 Bl. 1, Mai 1993) von
-mindestens drei in aufsteigender Folge geordneten Messwerten L
-AF95 des kennzeichnenden
+mittlere Wert (Median, Kenngröße H50 nach VDI-Richtlinie 3723 Bl. 1, Mai 1993) von
+mindestens drei in aufsteigender Folge geordneten Messwerten LAF95 des kennzeichnenden
 Fremdgeräusches den Mittelungspegel der zu beurteilenden Anlage(n) signifikant, d. h. mit
 seiner unteren Vertrauensbereichsgrenze übersteigt.
 
+17
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-18
-
-
 Diese Prüfung ist bezogen auf die Beurteilungszeit, d. h. tags in der Regel 16 Stunden und
 nachts für die volle Stunde mit dem kleinsten zu erwartenden Unterschied zwischen dem
-gemessenen L
-AF95 des kennzeichnenden Fremdgeräusches und dem Mittelungspegel der zu
+gemessenen LAF95 des kennzeichnenden Fremdgeräusches und dem Mittelungspegel der zu
 beurteilenden Anlage(n) durchzuführen.
 Im Interesse einer hinreichenden Qualität der Fremdgeräuschbestimmung sollte der
-Vertrauensbereich von H
-50 nicht größer als 3 dB(A) sein (vgl. VDI 3723 Bl. 1, Abschnitte 2.3, 4
+Vertrauensbereich von H50 nicht größer als 3 dB(A) sein (vgl. VDI 3723 Bl. 1, Abschnitte 2.3, 4
 und 5.2). Ist das Fremdgeräusch durch gleichbleibend stationäre Geräusche naher Quellen
-bestimmt, so genügt eine einmalige Messung des Fremdgeräusch-L
-AF95 entsprechend
+bestimmt, so genügt eine einmalige Messung des Fremdgeräusch-LAF95 entsprechend
 Nummer A.3 TA Lärm 98 mit Angabe seiner Aussagequalität (Vertrauensbereich).
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-19
+18
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 3.2.2 Ergänzende Prüfung im Sonderfall
 Kriterien für eine ergänzende Prüfung im Sonderfall
@@ -628,15 +714,16 @@ Eine Sonderfallprüfung nach 3.2.2 kann auch aufgrund der Geräuschcharakteristi
 Anlagen erforderlich sein. Beispielsweise können bei an den Bereich der tiefen Frequenzen
 angrenzenden Frequenzen Effekte wie bei tieffrequenten Geräuschen selbst auftreten, die
 eine Prüfung von Minderungsmaßnahmen in Analogie zu 7.3 TA Lärm erforderlich machen.
+
 Durchführbarkeit einer „ergänzenden Prüfungen im Sonderfall“ auch unter der
 Voraussetzung, dass die Anlage nach Nummer 3.2.1 genehmigt werden könnte
 Das Wort „insbesondere“ lässt auch für den Lärmschutz positive Fallgestaltungen zu. Eine
 ergänzende Prüfung im Sonderfall nach 3.2.2 kann somit auch zu einer erhöhten
 Anforderung gegenüber 3.2.1 führen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-20
+19
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 Vorliegen der Voraussetzungen „durch andere als die in Nummer 3.2.1 Abs. 4
 genannten Maßnahmen“, so dass eine Sonderfallprüfung in Betracht kommt
@@ -645,9 +732,9 @@ Durch solche Maßnahmen (z. B. Baumaßnahmen der Kommune, bevorstehende
 Geräuschminderungen an Anlagen anderer Betreiber) muss die Einhaltung der
 Immissionsrichtwerte sicher absehbar sein.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-21
+20
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 3.3 Prüfung der Einhaltung der Vorsorgepflicht
 Interpretation der Vorsorgepflicht nach Nummer 3.3
@@ -657,16 +744,16 @@ bestimmen. Dabei sind konkreter Aufwand und erreichbare Lärmminderung sowie die
 erwartende Immissionssituation im Einwirkungsbereich, insbesondere unter
 Berücksichtigung der Bauleitplanung, zu berücksichtigen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-22
+21
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 4. Allgemeine Grundsätze für die Prüfung nicht
 genehmigungsbedürftiger Anlagen
 Übertragbarkeit von Teilen der Regelfallprüfung für genehmigungsbedürftige Anlagen
 nach Nummer 3.2.1 (z. B. quantitative Berücksichtigung der Vorbelastung bei der
 Feststellung der zulässigen Zusatzbelastung, die 3 Jahresfrist für eine
-Altanlagesanierung bzw. - stilllegung und die Verdeckung der Fremdgeräusche) und
+Altanlagesanierung bzw. -stilllegung und die Verdeckung der Fremdgeräusche) und
 von Teilen der Sonderfallprüfung nach Nummer 3.2.2 (z. B. Standortbindung,
 absehbare Verbesserungen und Sozialadäquanz) auf nicht genehmigungsbedürftige
 Anlagen
@@ -677,9 +764,9 @@ Baugesuchen zu berücksichtigen. Die speziellen Vorschriften der Nummer 4 TA Lä
 insbesondere die vereinfachte Regelfallprüfung nach Nummer 4.2 ist hierbei jedoch zu
 beachten.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-23
+22
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 4.1 Grundpflichten des Betreibers und 4.2 Vereinfachte
 Regelfallprüfung
@@ -692,15 +779,14 @@ und Nummer 4.1 TA Lärm 98 entspricht, die Genehmigung der Anlage jedoch zu eine
 Überschreitung des einschlägigen Immissionsrichtwertes führen wird und die Anlage daher
 nach § 15 BauNVO in dem betreffenden Baugebiet unzulässig sein kann.
 Erläuterung:
-
 Nummer 4.2 vereinfacht lediglich die Regelfallprüfung im Rahmen öffentlich-rechtlicher
 Zulassungsverfahren. Materiell gilt die akzeptorbezogene Beurteilung auch für die nicht
 genehmigungsbedürftigen Anlagen (siehe auch Nummern 4.2. Buchstabe c), 5.2 und 5.3 TA
 Lärm).
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-24
+23
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 4.2 Vereinfachte Regelfallprüfung
 Berücksichtigung der Vorbelastung bei nicht genehmigungsbedürftigen Anlagen
@@ -714,9 +800,9 @@ Gesamtheit aller Maßnahmen die Einhaltung des Immissionsrichtwertes nicht gewä
 werden, ist der Genehmigungsbehörde mitzuteilen, dass aus immissionsschutzrechtlicher
 Sicht eine Genehmigung versagt werden sollte (§ 25 Absatz 2 BImSchG).
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-25
+24
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 5.1 Absatz 3 Nachträgliche Anordnungen bei
 genehmigungsbedürftigen Anlagen
@@ -724,6 +810,7 @@ Einschränken des Ermessens bei nachträglichen Anordnungen
 Mit Nummer 5.1 Absatz 3 wird festgelegt, wie das Ermessen bei nachträglichen
 Anordnungen bei genehmigungsbedürftigen Analgagen auszuüben ist. Eine generelle
 Erhöhung der Immissionsrichtwerte erfolgt hierdurch nicht.
+
 Erstmalige Berücksichtigung der Vorbelastung
 Die Vorbelastung wird dann als erstmals berücksichtigt angesehen, wenn die Behörde die
 Gesamtbelastung erstmals z. B. aufgrund einer Beschwerde oder bei der routinemäßigen
@@ -738,24 +825,38 @@ Immissionsrichtwerte um weniger als 5 dB(A) überschritten sind, ist im Rahmen d
 Ermessensausübung von nachträglichen Anordnungen abzusehen Die Regelung gilt auch bei
 Überprüfungen aufgrund einer Nachbarschaftsbeschwerde.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-26
+25
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 5.2 Anordnungen im Einzelfall bei nicht genehmigungsbedürftigen
 Anlagen
 Beispiele für konkrete Anhaltspunkte, dass eine bestimmte Anlage durch
 vermeidbare Geräuschemissionen relevant zu einer durch die Geräusche mehrerer
 Anlagen hervorgerufenen schädlichen Umwelteinwirkung beiträgt
-• Beschwerden,
-• Orts- und Betriebskenntnisse,
-• überschlägige Berechnungen,
-• orientierende Schallpegelmessungen und
-• Angaben in Lärmaktionsplänen.
+•
+
+Beschwerden,
+
+•
+
+Orts- und Betriebskenntnisse,
+
+•
+
+überschlägige Berechnungen,
+
+•
+
+orientierende Schallpegelmessungen und
+
+•
+
+Angaben in Lärmaktionsplänen.
+
+26
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-27
-
 
 6. Immissionsrichtwerte
 Prüfen der Immissionswerte bei einer Anlage
@@ -765,9 +866,9 @@ Immissionsrichtwerte an den jeweiligen Immissionsorten eingehalten sind. Unzulä
 Immissionen liegen insbesondere nicht vor, wenn der Betreiber oder der Nutzer der
 emittierenden Anlage durch die Geräuschimmissionen betroffen ist.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-28
+27
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.1 Immissionsrichtwerte für Immissionsorte außerhalb von
 Gebäuden
@@ -792,9 +893,9 @@ offen. Andererseits soll durch den Schutz der nächtlichen Ruhe die Fortentwickl
 Wohnnutzung unterstützt werden. Dies setzt eine Festlegung des Nachtpegels auf einen
 Wert voraus, der eine ungestörte Nachtruhe sichert.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-29
+28
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.2 Immissionsrichtwerte für Immissionsorte innerhalb von
 Gebäuden
@@ -804,6 +905,7 @@ Nicht zu betriebsfremden schutzbedürftigen Räumen i. S. Nummer 6.2 zählen Rä
 DIN 4109, Ausgabe November 1989, die in baulicher Verbindung mit den Betriebsräumen
 stehen und unmittelbar dem eigentlichen Betriebszweck dienen, ohne dass ihre Nutzer am
 Anlagenbetrieb beteiligt sind (z. B. Bereitschaftsräume für Wachpersonal, Telefonzentrale).
+
 Ruhezeitenzuschlag
 Ein Ruhezeitenzuschlag ist für Nummer 6.2 nicht anzuwenden, da Nummer 6.5 nur Bezug auf
 Nummer 6.1 nimmt.
@@ -815,9 +917,9 @@ welche Nummer 6.5 abstellt, werden in Nummer 6.2 allgemeine Immissionsrichtwerte
 innerhalb von Gebäuden festgelegt, die unabhängig von der Gebietseinstufung der
 Nummer 6.1 a–g gelten.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-30
+29
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.3 Immissionsrichtwerte für seltene Ereignisse
 Berücksichtigung von seltenen Ereignissen
@@ -832,9 +934,9 @@ Immissionsorte innerhalb von Gebäuden liegen. In diesen Fällen sind die einzuh
 Immissionsrichtwerte entsprechend den Vorgaben der Nummer 7.2 Absatz 2 im Einzelfall
 festzulegen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-31
+30
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.4 Beurteilungszeiten
 Erläuterung des Begriffs „volle Nachtstunde”
@@ -845,15 +947,16 @@ wäre, kann nach Nummer 3.2.2 eine andere Zeiteinteilung in Betracht kommen.
 Ermittelt werden muss, in welcher Nachtstunde voraussichtlich die höchste Lärmbelastung
 auftreten wird. Hierzu sollten vorher Erkundigungen bei Beschwerdeführern eingeholt oder
 Ermittlungen beim möglichen Lärmverursacher angestellt werden.
+
 Verschieben der Nachtzeit bei mehreren Anlagen verschiedener Betreiber
 Auch wenn mehrere Anlagen verschiedener Betreiber auf einen Immissionsort einwirken
 und nur ein Betreiber von der Möglichkeit der Verschiebung der Nachtzeit Gebrauch macht,
 muss sichergestellt sein, dass für die betroffenen Nachbarn eine achtstündige Nachtruhe
 eingehalten ist.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-32
+31
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.5 Zuschlag für Tageszeiten mit erhöhter Empfindlichkeit
 Korrektur eines redaktionellen Fehlers
@@ -865,15 +968,16 @@ Krankenhäusern und Pflegeanstalten mit dem neuen Buchstaben g) von der Regelung
 erfassen. Daher sind die Zuschläge abweichend vom Verweis der Nummer 6.5 für die
 Kategorien Kleinsiedlungsgebiet, allgemeines und reines Wohngebiet, Kurgebiet,
 Krankenhäuser und Pflegeanstalten anzuwenden.
+
 Vorliegen besonderer örtlicher Verhältnisse, bei denen von Zuschlägen für
 Tageszeiten mit erhöhter Empfindlichkeiten abgesehen werden kann
 Besondere örtliche Verhältnisse in diesem Zusammenhang können zu beachten sein, wenn
 beispielsweise während der angegebenen Zeiten eine erhöhte Empfindlichkeit tatsächlich
 nicht gegeben ist. Das Schutzniveau darf jedoch nicht herabgesetzt werden.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-33
+32
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.6 Zuordnung des Immissionsortes
 Gebiete, für die Bebauungspläne aufgestellt wurden, in denen die tatsächliche
@@ -897,6 +1001,7 @@ die Geräuschemissionen zu senken.
 Soweit Wohnhäuser durch die Aufstellung von Bebauungsplänen als GE- oder GI-Gebiet
 überplant werden, kann allenfalls im Hinblick auf den Schutz der Gesundheit von
 Nummer 6.6 Satz 1 abgewichen werden. Dies ist jedoch im Einzelfall zu begründen.
+
 Sonstige in Bebauungsplänen festgesetzte Flächen für Gebiete und Einrichtungen
 sowie Gebiete und Einrichtungen, für die keine Festsetzungen bestehen
 Für den Fall, dass die TA Lärm die Kategorie des der Prüfung zugrunde zu legenden Gebietes
@@ -904,9 +1009,9 @@ bzw. der typischen Nutzungsart in der Aufzählung der Nummer 6.1 nicht vorgibt, 
 Gebiet bzw. die typische Nutzungsart gemäß Nummer 6.6 Satz 2 entsprechend der
 Schutzbedürftigkeit zu beurteilen. Dies ist zu begründen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-34
+33
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.7 Gemengelagen
 Erläuterungen zum Begriff „Gemengelage”
@@ -918,9 +1023,9 @@ weniger Anlass bestehen, von der Ermessensvorschrift der Nummer 6.7 Gebrauch zu
 machen.
 Eine kleinräumige Mischung unterschiedlicher Nutzungen fällt nicht unter den Begriff
 „Gemengelage”.
-
 Einzelne, nicht prägende gebietsfremde Nutzungen führen nicht zur Veränderung des
 Gebietscharakters.
+
 Zwischenwertbildung
 Aus dem Wortlaut der Nummer 6.7 Absatz 1 Satz 1 geht hervor, dass diese Regelung für
 urbane Gebiete nicht anwendbar ist, weil für urbane Gebiete höhere Immissionsrichtwerte
@@ -934,36 +1039,50 @@ Sollregelung der Nummer 6.7 Absatz 1 Satz 2 der TA Lärm in besonderen Fällen a
 werden.
 Für die Bestimmung des Einwirkungsbereiches und der Irrelevanz ist der Zwischenwert
 maßgeblich und nicht der Immissionsrichtwert der planerischen Gebietseinstufung.
+
 Identifikation einer Gemengelage im Umfeld großflächiger Industrieanlagen
 Zur Identifikation und räumlichen Abgrenzung einer Gemengelage im Umfeld großflächiger
 Industrieanlagen liegt mit der Veröffentlichung von Tegeder & Sachs (Zeitschrift für
 Lärmbekämpfung 1 (2006), S. 20 ff.) ein geeignetes Verfahren vor.
 Das Verfahren liefert unter folgenden Randbedingungen repräsentative Immissionspegel als
 Indikator für das Vorliegen einer Gemengelage:
-• Anwendung nur für großflächige Industrieanlagen;
+•
+
+Anwendung nur für großflächige Industrieanlagen;
+34
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-35
+•
 
-
-• Berücksichtigung vorliegender Nutzungseinschränkungen (z. B. Grünpuffer,
+Berücksichtigung vorliegender Nutzungseinschränkungen (z. B. Grünpuffer,
 Wartungsflächen);
-• Differenzierte Emissionsansätze (z. B. für Tanklagerflächen, bei Nichtzulässigkeit von
+
+•
+
+Differenzierte Emissionsansätze (z. B. für Tanklagerflächen, bei Nichtzulässigkeit von
 Produktion);
-• Absenkung der Emissionen um 5 dB gegenüber DIN 18005 zur Berücksichtigung des
+
+•
+
+Absenkung der Emissionen um 5 dB gegenüber DIN 18005 zur Berücksichtigung des
 Standes der Technik;
-• Absenkung um 3 dB zur Berücksichtigung der Pflicht zur eigenen Rücksichtnahme.
+
+•
+
+Absenkung um 3 dB zur Berücksichtigung der Pflicht zur eigenen Rücksichtnahme.
+
 Es kann damit eine Grundlage für die Zwischenwertbildung darstellen. Bei der Festsetzung
 des Zwischenwertes sind jedoch auch alle sonstigen Aspekte des Einzelfalls einzubeziehen.
+
 Satz 3: Stand der Technik zur Lärmminderung
 Der Stand der Technik zur Lärmminderung ist bei der Ermittlung der Höhe des
 Zwischenwertes lediglich als Rechengröße zu berücksichtigen.
 Die Frage, ob zur Einhaltung des Standes der Technik der Lärmminderung Sanierungen
 erforderlich sind, ist nicht im Rahmen der Regelung nach Nummer 6.7 zu prüfen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-36
+35
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 6.9 Messabschlag bei Überwachungsmessungen
 Berücksichtigen des Messabschlages
@@ -976,6 +1095,7 @@ Dagegen ist kein Messabschlag anzuwenden bei Messungen zur Prüfung, ob die Anla
 entsprechend der Genehmigung errichtet worden ist oder betrieben wird und welche nicht
 als Grundlage einer behördlichen Anordnung dienen sollen (Inbetriebnahmemessung,
 Eigenüberwachung etc.).
+
 Berücksichtigung des Messabschlages bei der Beurteilung tieffrequenter Geräusche
 Nummer 6.9 ist für die Frage heranzuziehen, ob eine Anordnung nach §§ 17 oder 24
 BImSchG getroffen werden soll. In diesem Zusammenhang kann ein Messabschlag
@@ -988,9 +1108,9 @@ Messung tieffrequenter Geräusche ein Messabschlag erforderlich sein. Die Größ
 Messverfahren und den fehlenden Umgebungsgeräuschen gerecht werden. Insoweit kann
 ein kleinerer Messabschlag sachgerecht sein.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-37
+36
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 7.2 Bestimmungen für seltene Ereignisse
 Erläuterungen zum Begriff „voraussehbare Besonderheiten”, Geltungsbereich
@@ -999,6 +1119,7 @@ diesem Sinne auch als voraussehbar, wenn der Zeitpunkt und die Häufigkeit ihres
 nicht genau fest liegen.
 Die Regelungen nach Nummer 7.2 gelten für alle Anlagen im Anwendungsbereich der TA
 Lärm.
+
 Gleichzeitige Einwirkung verschiedener Anlagentypen (z. B. Sport- und
 Gewerbeanlagen)
 Falls es zu einer Kumulation unterschiedlicher Anlagentypen kommt, kann grundsätzlich eine
@@ -1010,22 +1131,23 @@ gebotenen gegenseitigen Rücksichtnahme Rechnung getragen werden muss. Insoweit 
 nicht allein die Zahl der Ereignisse maßgeblich, sondern auch wann und in welchen
 Abständen sie stattfinden, inwieweit sie in die Nachtzeit hineinreichen oder wie laut der
 sonstige standardmäßige und seltene Betrieb der Anlagen ist.
+
 Bewertung für die Häufigkeit seltener Ereignisse (nicht mehr als an 10 Tagen oder 10
 Nächten)
 Im Sinne von Nummer 7.2 TA Lärm ist ein Tag die Zeit von 6.00 Uhr bis 22.00 Uhr. Eine Nacht
 ist die Zeit von 22.00 Uhr bis 6.00 Uhr. Dies entspricht der Definition in Nummer 6.4 Absatz 1
 TA Lärm. Eine Überschreitung kann für insgesamt 10 Beurteilungszeiten zugelassen werden.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-38
+37
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 7.3 Berücksichtigung tieffrequenter Geräusche
-Geräteausstattung und Verfahrensweise, wenn ein Schallpegelmesser den L Ceq und
-L
-Aeq nicht parallel erfassen kann
+Geräteausstattung und Verfahrensweise, wenn ein Schallpegelmesser den LCeq und
+LAeq nicht parallel erfassen kann
 Bei der Ermittlung tieffrequenter Geräusche sind Schallpegelmesser entsprechend
 Nummer 4.2 der DIN 45680 zu verwenden.
+
 Einstiegskriterium
 Für Geräusche, die vorherrschende Energieanteile im Frequenzbereich unter 90 Hz besitzen
 (tieffrequente Geräusche), ist im Einzelfall nach den örtlichen Verhältnissen zu prüfen, ob
@@ -1034,7 +1156,6 @@ auf Geräusche, die einen dominanten Anteil im tieffrequenten Bereich haben. And
 nur eine Prüfung auf Einhaltung der Immissionsrichtwerte nach Nummer 6 der TA Lärm
 notwendig.
 Die Beurteilung der tieffrequenten Geräusche erfolgt grundsätzlich in drei Prüfschritten.
-
 1) Es ist zunächst zu prüfen, ob die Geräusche im Einzelfall in einem schutzbedürftigen
 Raum bei geschlossenen Fenstern deutlich wahrnehmbar und eindeutig einer Anlage
 zurechenbar sind. Die Prüfung beschränkt sich auf den dem Betrieb der Anlage
@@ -1057,39 +1178,39 @@ Abweichungen vom Regelfall sind gesondert zu begründen.
 durchzuführen. Ob im Einzelfall auftretende tieffrequente Geräusche schädliche
 Umwelteinwirkungen sind, wird nach DIN 45680:1997 beurteilt. Wird dabei
 festgestellt, dass sogenannte Anhaltswerte des Beiblatts 1 zur DIN 45680:1997
+38
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-39
-
-
 überschritten sind, sind erhebliche Belästigungen durch tieffrequente Geräusche
 nicht mehr auszuschließen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-40
+39
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 7.4 Berücksichtigung von Verkehrsgeräuschen
 Korrektur eines redaktionellen Fehlers
 In Folge des Einfügens urbaner Gebiete in Nummer 6.1 Satz 1 als Buchstabe c) hätte in
 Nummer 7.4 Absatz 2 die Angabe „Buchstaben c bis f“ durch die Angabe „Buchstaben c bis
-g“ ersetzt werden müssen, um wie bisher durch die Regelung zur Berücksichtigung des An -
-und Abfahrverkehrs auf öffentlichen Verkehrsflächen auch die Gebietskategorie Kurgebiete,
+g“ ersetzt werden müssen, um wie bisher durch die Regelung zur Berücksichtigung des Anund Abfahrverkehrs auf öffentlichen Verkehrsflächen auch die Gebietskategorie Kurgebiete,
 Krankenhäuser und Pflegeanstalten mit dem neuen Buchstaben g) zu erfassen. Die Regelung
 ist abweichend vom Verweis der Nummer 7.4 Absatz 2 für die Kategorien Urbanes Gebiet,
 Kern-, Dorf- und Mischgebiet, Kleinsiedlungsgebiet, allgemeines und reines Wohngebiet,
 Kurgebiet, Krankenhäuser und Pflegeanstalten anzuwenden.
+
 Absatz 1: Erläuterungen zum Begriff „sonstige Fahrzeuggeräusche“
 Unter „sonstige Fahrzeuggeräusche auf dem Betriebsgrundstück“ sind die Geräusche zu
 verstehen, die durch den Betrieb anderer Anlagen verursacht werden und deshalb im
 Rahmen der Anlagengenehmigung in die Vorbelastung einzubeziehen sind (z. B. wenn die
 Zufahrt zu einem Lager, das nicht Teil oder Nebeneinrichtung der zu beurteilenden Anlage
 ist, über das Betriebsgelände einer Produktionsanlage führt).
+
 Absatz 2: Bestimmung des anlagenbezogenen Verkehrsanteils
 Die Behörde hat nach eigenem Ermessen zu entscheiden. Für eine Abschätzung des
 Verkehrsanteils sind Verkehrszählungen nicht zwingend notwendig, es sollte untersucht
 werden, ob z. B. vorhandenes Datenmaterial nach Berechnungen der 16. BImSchV genutzt
 werden kann oder eine Abschätzung ausreichend ist.
+
 Absatz 2: Bewertung von Geräuschen (z. B. Verladegeräusche), die weder unmittelbar
 von der Anlage ausgehen noch Verkehrsgeräusche im Sinne von Nummer 7.4
 Absatz 2 der TA Lärm sind, aber in unmittelbarem Zusammenhang mit der Anlage
@@ -1102,14 +1223,14 @@ Anlagengeräusch zuzuordnen, sondern sind nach den verhaltensbezogenen
 Lärmbekämpfungsvorschriften (z. B. § 117 OWiG oder nach entsprechend landesrechtlichen
 Vorschriften) zu behandeln.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-41
+40
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 Absatz 2: Kriterien zur Ergreifung verkehrsbezogener Minderungsmaßnahmen
 Die Bedingungen in Absatz 2, Spiegelstrich 1 bis 3 gelten kumulativ, d. h. nur wenn alle drei
-Bedingungen erfüllt sind, sollen Maßnahmen organisatorischer Art die Geräusche des An-
-und Abfahrverkehrs soweit wie möglich vermindert werden.
+Bedingungen erfüllt sind, sollen Maßnahmen organisatorischer Art die Geräusche des Anund Abfahrverkehrs soweit wie möglich vermindert werden.
+
 Absatz 2: Bewertung des Abstandskriteriums (500 m)
 In Absatz 2 ist mit „Abstand von 500 m” die kürzeste horizontale Entfernung zu Ein- und
 Ausfahrt gemeint. Der Verkehrsweg ist im Regelfall soweit zu betrachten, soweit er
@@ -1117,8 +1238,7 @@ innerhalb dieses Bereichs liegt.
 Der 500-m-Regelung liegt die Annahme zu Grunde, dass regelmäßig außerhalb dieses Radius
 der dem Betrieb der Anlage zuzurechnende Verkehr in den allgemeinen Straßenverkehr
 integriert ist und als Ziel- und Quellverkehr der Anlage nicht mehr vom übrigen
-Straßenverkehr unterscheidbar ist. Der in Nummer 7.4 Absatz 4 TA Lärm definierte 500-m-
-Abstand bietet jedoch als Konkretisierung der Voraussetzung eines „räumlich
+Straßenverkehr unterscheidbar ist. Der in Nummer 7.4 Absatz 4 TA Lärm definierte 500-mAbstand bietet jedoch als Konkretisierung der Voraussetzung eines „räumlich
 überschaubaren Bereiches“ (nach der Rechtsprechung) lediglich einen Anhaltspunkt für die
 Zurechenbarkeit des Ziel- und Quellverkehrs. Entscheidend ist jedoch die konkrete Situation
 im Einzelfall, insbesondere die Führung der Verkehrswege. So kann der Anlagenbezug auch
@@ -1127,11 +1247,11 @@ bestimmte Zufahrtsstraße benutzt werden muss, die ausschließlich oder weit üb
 vom Ziel- und Quellverkehr der Anlage genutzt wird. (vgl. VG Minden, Urteil vom 8. Februar
 2012 – 11 K 1229/11 –, juris Rn. 33ff.; VG Lüneburg, Beschluss vom 21. Februar 2011 – 2 B
 85/10 –, juris Rn. 22, OVG NRW, Beschluss v. 24.10.2003 - 21 A 2723/01- juris Rn. 18ff.,
-BVerwG, Urteil vom 7. Mai 1996 – 1 C 10/95 – , BVerwGE 101, 157- 166, juris Rn. 35)
+BVerwG, Urteil vom 7. Mai 1996 – 1 C 10/95 –, BVerwGE 101, 157-166, juris Rn. 35)
 Dann kann eine Sonderfallprüfung nach Nummer 3.2.2 erforderlich sein.
-
 Die Einschränkung auf Gebiete nach Nummer 6.1 Buchstaben c) bis g) bezieht sich auf die
 Lage der Immissionsorte.
+
 Absatz 2: Berücksichtigung der Ein- und Ausfahrt
 Die Ein- und Ausfahrt wird durch die Teilnahme am öffentlichen Verkehr begrenzt. Das
 Fahrzeug nimmt nicht mehr am öffentlichen Verkehr teil, wenn die erste Achse des
@@ -1140,24 +1260,27 @@ Fahrzeuges den öffentlichen Verkehrsweg verlassen hat. Das Fahrzeug nimmt am
 befindet. Unter Verkehrsweg ist hier die Fahrbahn für den Kfz-Verkehr zu verstehen, nicht
 der Fußweg.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-42
+41
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 Absatz 2: Bewertung von Parkplätzen auf öffentlichen Verkehrsflächen
 Parkplätze auf öffentlichen Verkehrsflächen werden nach der RLS-19 (siehe Erläuterung zu
 Absatz 3 und 4 Berechnungsvorschriften für Verkehrsgeräusche nach der 16. BImSchV)
 berechnet und zusammen mit dem übrigen Verkehrslärm gemäß Nummer 7.4 Absatz 2
 beurteilt. Dies beinhaltet auch alle bei einem Parkvorgang üblichen Nebengeräusche.
+
 Absatz 2: Bestimmung des anlagenbezogenen Verkehrsanteils
 Die Behörde hat nach eigenem Ermessen zu entscheiden. Für eine Bestimmung des
 Verkehrsanteils sind Verkehrszählungen nicht zwingend notwendig, es sollte untersucht
 werden, ob z. B. vorhandenes Datenmaterial aus Berechnungen nach der 16. BImSchV
 genutzt werden kann oder eine Abschätzung ausreichend ist.
+
 Absatz 2: Erläuterungen zum Begriff „Vermischung mit dem übrigen Verkehr“
 Eine „Vermischung mit dem übrigen Verkehr” ist in der Regel dann gegeben, wenn das
 anlagenbedingte Verkehrsaufkommen die Verkehrsströme auf öffentlichen Verkehrswegen
 nicht mehr erkennbar beeinflusst.
+
 Absatz 3 und 4: Berechnungsvorschriften für Verkehrsgeräusche nach der 16.
 BImSchV
 Die Regelungen zur Berücksichtigung von Verkehrsgeräuschen in Nummer 7.4 der TA Lärm
@@ -1167,54 +1290,53 @@ Abschaffung des sogenannten „Schienenbonus“ und eine Aktualisierung der Verf
 Berechnung des Straßen- und Schienenverkehrslärms (RLS-19 und Schall 03). Dies ist bei der
 Anwendung der Nummer 7.4 der TA Lärm zu beachten.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-43
+42
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 A.1.2 Ermittlung der Vor-, Zusatz- und Gesamtbelastung
 Absatz 3: Berechnung der Gesamtbelastung nach Gleichung G1
 Die Gleichung G1 in A.1.2 gilt für genehmigungsbedürftige Anlagen.
-
 Für nicht genehmigungsbedürftige Anlagen findet zunächst ein vereinfachtes
 Beurteilungsverfahren nach Nummer 4.2 Anwendung. Liegen jedoch die Voraussetzungen
 nach Nummer 4.2 Buchstabe c) vor, so muss die Gesamtbelastung ebenfalls nach Gleichung
 G1 in A.1.2 ermittelt werden.
 
+43
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-44
 
-
-A.1.4 Beurteilungspegel L r
-Bestimmung von C met einschließlich Korrekturfaktor C 0
-Ein fachlich gesichertes Verfahren, mit dem C met aus Daten der Wetterstatistik ermittelt
+A.1.4 Beurteilungspegel Lr
+Bestimmung von Cmet einschließlich Korrekturfaktor C0
+Ein fachlich gesichertes Verfahren, mit dem Cmet aus Daten der Wetterstatistik ermittelt
 werden kann, liegt bisher nicht vor. Daher muss auf vereinfachte Verfahren zurückgegriffen
 werden, die den länderspezifischen Besonderheiten Rechnung tragen. Deshalb kann zum
 gegenwärtigen Zeitpunkt keine bundeseinheitliche Regelung getroffen werden.
 
+44
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-45
 
-
-A.2.5.2 Zuschlag für Ton- und Informationshaltigkeit K T
+A.2.5.2 Zuschlag für Ton- und Informationshaltigkeit KT
 Kriterien für die Informationshaltigkeit von Geräuschen und deren Berücksichtigung
 Geräusche sind informationshaltig, wenn sie in besonderer Weise die Aufmerksamkeit einer
 Person wecken und sie zum Mithören unerwünschter Informationen anregen.
 Je nach zu erwartender Auffälligkeit ist ein Zuschlag von 3 oder 6 dB(A) zu berücksichtigen.
 Die TA Lärm 98 lässt keine Zwischenwerte zu.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-46
+45
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 A.2.6 Darstellung der Ergebnisse
 Genauigkeit der Ergebnisse bei der Lärmprognose
-In der Regel ist von den in der DIN ISO 9613 -2 (Ausgabe 10/1999) angegebenen
+In der Regel ist von den in der DIN ISO 9613-2 (Ausgabe 10/1999) angegebenen
 Ungenauigkeiten von ±3 dB(A) auszugehen, die unter bestimmten Bedingungen (im
 Nahbereich) auch ±1 dB(A) betragen können.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-47
+46
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 A.3.3.3 Durchführung der Messungen
 Anzahl der durchzuführenden Messungen bei Abweichung der Messwerte
@@ -1222,26 +1344,24 @@ Es kommt im Einzelfall auf die Messaufgabe an (DIN 45645 Nummer 6.5.1). Bei
 ausreichendem Vorwissen und geringen Abständen von den Geräuschquellen genügt häufig
 eine Messung. Die Messung hat den tatsächlichen Betriebsumfang zu erfassen.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-48
+47
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 A.3.3.6 Zuschlag für Impulshaltigkeit
 Kriterien für die Berücksichtigung der Impulshaltigkeit
 Grundsätzlich ist nach dem Höreindruck festzustellen, ob eine besondere Auffälligkeit des
 Geräusches durch Impulse gegeben ist. Nur wenn diese Auffälligkeit festgestellt wird, ist
-nach A.3.3.6 der Impulszuschlag K
-I,j zu bestimmen. Der Impulszuschlag ist nur für die
+nach A.3.3.6 der Impulszuschlag KI,j zu bestimmen. Der Impulszuschlag ist nur für die
 Teilzeiten zu vergeben, in denen die Impulse nach dem Höreindruck auftreten. In
 Nummer A.1.4 TA Lärm wird darauf verwiesen, dass der Beurteilungspegel in Anlehnung an
-die DIN 45645- 1, Gleichung 1, gebildet wird. Darin bedeutet K
-I den Impulszuschlag nach
+die DIN 45645-1, Gleichung 1, gebildet wird. Darin bedeutet KI den Impulszuschlag nach
 Nummer 4.2.1 der DIN 45645-1. Ein Zuschlag wird nicht ab einer bestimmten Differenz,
 sondern bei Vorliegen einer Impulshaltigkeit gegeben.
 
-LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-49
+48
 
+LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
 
 Anhang allgemein
 Rundungsvorschriften für gerechnete und gemessene Pegelwerte
@@ -1259,187 +1379,310 @@ Rundestelle weggelassen.“ In einer Anmerkung zu Nummer 4.5.1 wird empfohlen, k
 anderen Rundungsregeln mehr anzuwenden. Der Empfehlung ist zu folgen.
 Tabelle 1 Beispiele für die Rundung auf die erste Stelle vor dem Komma
 
-Zahl 1,499 1,500 2,500
+Zahl
+
+1,499
+
+1,500
+
+2,500
+
 halber
 Rundestellenwert
-0,5 0,5 0,5
-Summe 1,999 2,000 3,000
-gerundete Zahl 1 2 3
+
+0,5
+
+0,5
+
+0,5
+
+Summe
+
+1,999
+
+2,000
+
+3,000
+
+gerundete Zahl
+
+1
+
+2
+
+3
 
 Bezüge zu technischen Normen und Regelwerken
-Die TA Lärm entfaltet in ihrer Eigenart als normkonkretisierende Verwaltungsvorschrift eine Bindungswirkung. Diese erstreckt sich auch auf in Bezug genommene technische Regelwerke
+Die TA Lärm entfaltet in ihrer Eigenart als normkonkretisierende Verwaltungsvorschrift eine
+Bindungswirkung. Diese erstreckt sich auch auf in Bezug genommene technische Regelwerke
 (statische Verweise), deren sachverständige Aussagen sich die TA Lärm zu eigen macht.
 Hieraus folgt, dass dem Inhalt nach grundsätzlich die zitierten Regelwerke anzuwenden sind.
-
-Die Bindungswirkung der TA Lärm entfällt dann, wenn die in der TA Lärm enthaltenen Aussagen durch neue, gesicherte Erkenntnisfortschritte in Wissenschaft und Technik
+Die Bindungswirkung der TA Lärm entfällt dann, wenn die in der TA Lärm enthaltenen
+Aussagen durch neue, gesicherte Erkenntnisfortschritte in Wissenschaft und Technik
 überholt sind, die den ihnen zu Grunde liegenden Einschätzungen, Bewertungen und
 Prognosen den Boden entziehen, und sie deshalb den gesetzlichen Anforderungen nicht
 mehr gerecht werden. Das heißt, der Erkenntnisstand bei Erlass der TA Lärm und dessen
 seinerzeitige technische Umsetzung müssen mit dem aktuellen Stand der Technik verglichen
 werden, um beurteilen zu können, ob sich in diesem Sinne wesentliche Änderungen ergeben
 haben (vgl. OVG NRW, Urteil v. 20.04.2022, Az 8 A 1575/19, juris Rn. 111ff. m.w.N.).
+49
 
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-50
-
-
 Die Abweichung von den Vorgaben der TA Lärm bedarf demnach auch in dem Fall der
 Änderung in Bezug genommener technischer Regelwerke einer besonderen Prüfung und
 Begründung unter Berücksichtigung dieser Maßgaben.
 Tabelle 2 Zusammenstellung der Normen und Regelwerke der TA Lärm
 
-Fund-
-stelle
+Fundstelle
+
 Norm bzw. Regelwerke in der TA
 Lärm
-Ausgabe Neufassung
-bzw. Nachfolger
+
 Ausgabe
-2.6 DIN EN 60651 Mai 1994 DIN EN 61672-1 Juli 2014
-A.3.2 (2004-08 zurückgezogen)
-4
-DIN EN 61672-2 Januar 2018
+
+Neufassung
+bzw. Nachfolger
+
+Ausgabe
+
+2.6
+DIN EN 60651
+A.3.2
+(2004-08 zurückgezogen)4
 A.3.3.1
+
+Mai 1994
+
+DIN EN 61672-1
+DIN EN 61672-2
+
+Juli 2014
+Januar 2018
+
 2.7
 2.9
-DIN 45641 Juni 1990
 
-2.7 DIN EN 60804 Mai 1994 DIN EN 61672-1 Juli 2014
-A.3.2 (2004-08 zurückgezogen)
-5
-DIN EN 61672-2 Januar 2018
-A.1.1.2 ISO 8297
-6
-Dezember
+DIN 45641
 
-A.3.4.3 1994
+Juni 1990
 
-E DIN ISO 9613-2
-7,
+2.7
+A.3.2
 
-8
-September DIN ISO 9613-2 Oktober
-A.1.2 Gleichung 6 1997 1999
-A.1.4 Gleichung 6
-A.1.6 Gleichung 6
+DIN EN 60804
+(2004-08 zurückgezogen)5
+
+Mai 1994
+
+DIN EN 61672-1
+DIN EN 61672-2
+
+Juli 2014
+Januar 2018
+
+A.1.1.2 ISO 82976
+A.3.4.3
+E DIN ISO 9613-27, 8
+Gleichung 6
+Gleichung 6
+Gleichung 6
+
+September DIN ISO 9613-2
+1997
+
+Oktober
+1999
+
+DIN 4109
+
+November
+1989
+
+Januar 2018
+
+DIN 45645-1
+Abschnitt 6.1
+Gleichung 1
+
+Juli 1996
+
+A.1.2
+A.1.4
+A.1.6
 A.2.2
 A.2.3.1 Abschnitt 1
 A.2.3.4 Abschnitte 6, 7.4 und 7.5
 A.3.3.3 Gleichung 6
-A.1.3 DIN 4109 November
-1989
-DIN 4109-1 Januar 2018
+A.1.3
 
-DIN 45645- 1 Juli 1996
+Dezember
+1994
 
-A.1.3 Abschnitt 6.1
-A.1.4 Gleichung 1
+A.1.3
+A.1.4
 A.3.1
 A.3.2
 A.3.3.3 Abschnitte 6.2 bis 6.5
 A.3.3.7 Abschnitte 7 und 6.5.1
 
+DIN 4109-1
 
 4
+
 Nachfolgerdokumente sind DIN EN 61672-1:2003-10 und DIN EN 61672-2:2004-08; aber zu
 beachten sind die Neuausgaben vom Juli 2014 bzw. Januar 2018.
+
 5
+
 Nachfolgerdokumente sind DIN EN 61672-1:2003-10 und DIN EN 61672-2:2004-08; aber zu
 beachten sind die Neuausgaben vom Juli 2014 bzw. Januar 2018.
+
 6
+
 Mögliche Bezugnahme auf nationale Umsetzung: DIN ISO 8297:2000-08.
+
 7
+
 Bezugnahme auf die Entwurfsfassung; Klarstellung im nationalen Vorwort. „Gegenüber dem
-Entwurf DIN ISO 9613-2:1997- 09 wurden keine Änderungen vorgenommen“
+Entwurf DIN ISO 9613-2:1997-09 wurden keine Änderungen vorgenommen“
+
 8
+
 Befindet sich gegenwärtig in Überarbeitung.
 
+50
+
 LAI-Hinweise zur Auslegung der TA Lärm – Stand: 24.02.2023
-51
+Fundstelle
 
-
-
-Fund-
-stelle
 Norm bzw. Regelwerke in der TA
 Lärm
-Ausgabe Neufassung
-bzw. Nachfolger
+
 Ausgabe
+
 A.1.4
+A.1.5
 
-DIN 45681 März 2005
-9
+DIN 4568010
 
-A.1.5 DIN 45680
-10
 März 1997
 
-A.1.6 VDI 3745 Blatt 1 Mai 1993
+A.1.6
 
-A.2.2 DIN 45635- 1 ohne
-Datum
+VDI 3745 Blatt 1
 
-A.2.2 Normenreihe ISO 3740 bis ISO
-3747 und ISO 8297
-11
+Mai 1993
+
+A.2.2
+
+DIN 45635-1
 
 ohne
 Datum
 
-A.2.2 Normenreihe DIN EN ISO 11200
-12
+A.2.2
+
+Normenreihe ISO 3740 bis ISO
+3747 und ISO 829711
+
 ohne
 Datum
 
+A.2.2
 
-VDI 2571 ohne
+Normenreihe DIN EN ISO 1120012
 
-(2006-10 zurückgezogen)
-13
+ohne
 Datum
+
+VDI 2571
+(2006-10 zurückgezogen)13
+
+ohne
+Datum
+
+DIN 18005 Teil 114
+
+Mai 1987
+
+VDI 2714
+(2006-10 zurückgezogen)15
+A.2.2
+Abschnitt 5
+A.2.4.3 Abschnitte 5.1, 5.2 und 7.1
+
+Januar
+1988
+
+A.2.3.3 VDI 3760
+
+Februar
+1996
+
+A.3.3.5 E DIN 45681
+
+Mai 1992
+
 A.2.2
 A.2.3.3 Abschnitt 3
 A.2.4.2 Abschnitt 3, Gleichung (9 b)
-A.2.2 DIN 18005 Teil 1
-14
-Mai 1987 DIN 18005-1 Juli 2002
+A.2.2
 
-VDI 2714 Januar
-
-(2006-10 zurückgezogen)
-15
-1988
-A.2.2 Abschnitt 5
-A.2.4.3 Abschnitte 5.1, 5.2 und 7.1
-A.2.3.3 VDI 3760 Februar
-1996
-
-A.3.3.5 E DIN 45681 Mai 1992 DIN 45681 März
-2005
-16
-
-VDI 3723 Blatt 1 Mai 1993
-
-
+VDI 3723 Blatt 1
 9
+
+Neufassung
+bzw. Nachfolger
+
+Ausgabe
+
+DIN 45681
+
+März 20059
+
+DIN 18005-1
+
+Juli 2002
+
+DIN 45681
+
+März
+200516
+
+Mai 1993
+
 Die TA Lärm konnte sich noch nicht auf die erst nach ihrem Inkrafttreten entwickelte Norm
 beziehen. Die Berichtigung der DIN 45681 vom August 2006 ist zu berücksichtigen.
+
 10
+
 Für diese Norm liegt aktuell ein Entwurf (E DIN 45680:2020-06) vor, der überarbeitet wird und
 daher nicht angewandt werden soll.
+
 11
+
 Mögliche Referenz auf nationale Umsetzungen: DIN EN ISO 3740:2019-08 bis DIN EN
-ISO 3747:2011-03; DIN ISO 8297:2000- 08.
+ISO 3747:2011-03; DIN ISO 8297:2000-08.
+
 12
+
 Teile der Normenreihe sind DIN EN ISO 11200; DIN EN ISO 11201, DIN EN ISO 11202, DIN EN ISO
 11203 und DIN EN ISO 11204.
+
 13
+
 Es wird die Anwendung der DIN EN ISO 12354-4:2017-113 empfohlen.
+
 14
+
 Befindet sich gegenwärtig in Überarbeitung (E DIN 18005:2022-02).
+
 15
-Der Regelsetzer empfiehlt die Anwendung von DIN ISO 9613-2:1999-10 mit ISO/TR 17534-
-3:2015- 01.
+
+Der Regelsetzer empfiehlt die Anwendung von DIN ISO 9613-2:1999-10 mit ISO/TR 175343:2015- 01.
+
 16
+
 Bezugnahme auf die Entwurfsfassung.
+
+51

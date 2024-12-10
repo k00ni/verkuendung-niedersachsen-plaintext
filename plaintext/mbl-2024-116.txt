@@ -1,64 +1,126 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 28. Februar 2024 Nummer 116
+74. (79.) Jahrgang
+
+Hannover, den 28. Februar 2024
+
+Nummer 116
 
 Staatliches Gewerbeaufsichtsamt Oldenburg
-
 Entscheidung nach dem BImSchG;
 Öffentliche Bekanntmachung
 (NeuConnect Deutschland GmbH & Co. KG, Wilhelmshaven)
 Bek. d. GAA Oldenburg v. 28.02.2024 – OL 23-072-01 –
-
 Das GAA Oldenburg hat der Firma NeuConnect Deutschland GmbH & Co. KG mit der Entscheidung vom
 23.11.2024 eine zweite und letzte Teilgenehmigung gemäß § 8 i. V. m. § 19 BImSchG für die Errichtung und
 den Betrieb einer Umrichterstation – 500 kV–380 kV – am Betriebsstandort in Coldewei, 26388
 Wilhelmshaven erteilt.
 Gegenstand dieses Verfahrens waren im Wesentlichen die folgende Maßnahmen:
-– Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
-einschließlich der benötigten E- MSR-Technik,
-– die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
+
+–
+
+Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
+einschließlich der benötigten E-MSR-Technik,
+
+–
+
+die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
 kW (3,7 MW) einschließlich eines Dieseltanks (24 m³, 90 % Füllhöhe maximal) zur Brennstoffversorgung,
-– den Anschluss an das Umspannwerk Fedderwarden.
+
+–
+
+den Anschluss an das Umspannwerk Fedderwarden.
+
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
 Der vollständige Bescheid und die genehmigten Antragsunterlagen (soweit sie nicht dem Betriebsgeheimnis unterliegen) können in der Zeit vom 29.02. bis einschließlich 13.03.2024 bei folgenden Stellen eingesehen werden:
-– Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, während der
-Dienststunden,
-montags bis donnerstags in der Zeit von 7.30 bis 16.00 Uhr,
-freitags in der Zeit von 7.30 bis 13.00 Uhr;
-– Stadt Wilhelmshaven, im Foyer des Technischen Rathauses, Rathausplatz 9, während der Dienststunden,
-montags bis donnerstags in der Zeit von 7.30 bis 16.00 Uhr,
-freitags in der Zeit von 7.30 bis 13.00 Uhr.
-Diese Bek. und der Genehmigungsbescheid sind auch im Internet unter https://ww
 
-dersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/ einsehbar.
+–
+
+–
+
+Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, während der
+Dienststunden,
+montags bis donnerstags in der Zeit von
+
+7.30 bis 16.00 Uhr,
+
+freitags in der Zeit von
+
+7.30 bis 13.00 Uhr;
+
+Stadt Wilhelmshaven, im Foyer des Technischen Rathauses, Rathausplatz 9, während der Dienststunden,
+montags bis donnerstags in der Zeit von
+
+7.30 bis 16.00 Uhr,
+
+freitags in der Zeit von
+
+7.30 bis 13.00 Uhr.
+
+Diese Bek. und der Genehmigungsbescheid sind auch im Internet unter https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/ einsehbar.
 Gemäß § 21 a der 9. BImSchV auf Antrag der Vorhabenträgerin werden der verfügende Teil des
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 116 vom 28. Februar 2024
 
 Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 
+Seite 2
+
+Nds. MBl. 2024 Nr. 116 vom 28. Februar 2024
+
+Seite 3
+
 Anlage
 I. Tenor
-
 1. Entscheidung
 Der Firma NeuConnect Deutschland GmbH & Co. KG, Emsstraße 20, 26382 Wilhelmshaven, wird aufgrund
 ihres Antrages vom 27.03.2023, zuletzt ergänzt durch Schreiben vom 18.07.2023 nach Maßgabe dieses Bescheides die 2. Teilgenehmigung zur Errichtung und zum Betrieb einer Umrichterstation (500 kV – 380 kV)
 erteilt. Die 1. Teilgenehmigung vom 20.08.2021 behält weiterhin ihre Gültigkeit.
 2. Gegenstand der zweiten Teilgenehmigung
 Die 2. Teilgenehmigung umfasst die Errichtung und den Betrieb der Umrichterstation mit folgenden Maßnahmen:
-– Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
-inkl. der benötigten E- MSR-Technik,
-– die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
+–
+
+Die Errichtung und der Betrieb des Umrichters (DC: 500 kV – AC: 380 kV) und des DC-AC Konverters,
+inkl. der benötigten E-MSR-Technik,
+
+–
+
+die Errichtung und der Betrieb eines Notstromaggregats mit einer Feuerungswärmeleistung von 3 700
 kW (3,7 MW) inklusive eines Dieseltanks (24 m³, 90% Füllhöhe maximal) zur Brennstoffversorgung
-– den Anschluss an das Umspannwerk Fedderwarden.
+
+–
+
+den Anschluss an das Umspannwerk Fedderwarden.
+
 3. Standort der Anlage ist:
-Ort: 26388 Wilhelmshaven
-Straße: Schilldeich 38
-Gemarkung: Rüstringen
-Ostwert: 32438375
-Nordwert: 5934745
-Flur; Flurstücke: Flur 21; 17/3 und Flur 22; 31/2, 283/6, 354/32.
+Ort:
+
+26388 Wilhelmshaven
+
+Straße:
+
+Schilldeich 38
+
+Gemarkung:
+
+Rüstringen
+
+Ostwert:
+
+32438375
+
+Nordwert:
+
+5934745
+
+Flur; Flurstücke:
+
+Flur 21; 17/3 und Flur 22; 31/2, 283/6, 354/32.
+
 Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses
 Bescheides und liegen diesem zugrunde.
 4. Konzentrationswirkung
@@ -68,6 +130,5 @@ Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidunge
 5. Kostenentscheidung
 Die Kosten des Verfahrens trägt die Antragstellerin.
 VI. Rechtsbehelfsbelehrung
-
 Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen
-Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, erhoben werden.
+Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, erhoben werden.

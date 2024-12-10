@@ -1,16 +1,17 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 18. September 2024 Nummer 406
+74. (79.) Jahrgang
+
+Hannover, den 18. September 2024
+
+Nummer 406
 
 Staatliches Gewerbeaufsichtsamt Oldenburg
-
 Genehmigungsverfahren nach dem BImSchG;
 Öffentliche Bekanntmachung
 (Statkraft Markets GmbH, Emden)
 Bek. d. GAA Oldenburg v. 18.09.2024 – OL–23-091-01 –
-
 Das GAA Oldenburg hat der Firma Statkraft Markets GmbH Emden, Zum Kraftwerk, 26725 Emden, mit der
 Entscheidung vom 14.05.2024 eine Genehmigung für die Errichtung und den Betrieb einer Wasserstofferzeugungsanlage mit einer Produktionskapazität an Wasserstoff von 225 kg/h am o. g. Standort gemäß den §§ 4
 und 10 des BImSchG erteilt.
@@ -18,15 +19,31 @@ Das beantragte Vorhaben umfasst folgende Maßnahmen: Die Errichtung und den Betr
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 19.09. bis einschließlich 03.10.2024 bei folgenden Stellen eingesehen werden:
-– Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, Zimmer 417,
+–
+
+Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
 während der Dienststunden,
-montags bis donnerstags in der Zeit von 7.30 bis 15.30 Uhr,
-freitags in der Zeit von 7.30 bis 12.00 Uhr
+montags bis donnerstags in der Zeit von
+
+7.30 bis 15.30 Uhr,
+
+freitags in der Zeit von
+
+7.30 bis 12.00 Uhr
+
 sowie zusätzlich nach vorheriger telefonischer Anmeldung;
-– Stadt Emden, Fachdienst Umwelt und Klimaschutz, Verwaltungsgebäude II, Ringstraße 38 b, im 2. OG,
+–
+
+Stadt Emden, Fachdienst Umwelt und Klimaschutz, Verwaltungsgebäude II, Ringstraße 38 b, im 2. OG,
 Zimmer 212, während der Dienststunden,
-montags bis donnerstags in der Zeit von 8.00 bis 16.30 Uhr,
-freitags in der Zeit von 8.00 bis 12.30 Uhr.
+montags bis donnerstags in der Zeit von
+
+8.00 bis 16.30 Uhr,
+
+freitags in der Zeit von
+
+8.00 bis 12.30 Uhr.
+
 Diese Bek. und der vollständige Genehmigungsbescheid einschließlich seiner Begründung sind auch im
 Internet unter https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/
 einsehbar.
@@ -35,32 +52,58 @@ Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht
 Es wird darauf hingewiesen, dass der Bescheid mit dem Ende der Auslegungsfrist gegenüber Dritten als
 zugestellt gilt.
 
-Das genehmigte Vorhaben betrifft eine Anlage nach der Industrieemissions-Richtlinie. Darüber hinaus finden die „Schlussfolgerungen zu den besten verfügbaren Techniken für „Abwasser-/Abgasbehandlung und Abwasser-/Abgasmanagementsysteme in der chemischen Industrie Anwendung. Die aktuellen BVT -Merkblätter
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 406 vom 18. September 2024
+
+Seite 2
+
+Das genehmigte Vorhaben betrifft eine Anlage nach der Industrieemissions-Richtlinie. Darüber hinaus finden die „Schlussfolgerungen zu den besten verfügbaren Techniken für „Abwasser-/Abgasbehandlung und Abwasser-/Abgasmanagementsysteme in der chemischen Industrie Anwendung. Die aktuellen BVT-Merkblätter
 können im Internet beim Umweltbundesamt heruntergeladen werden.
-
 Anlage
-
 Tenor
-1. Der Firma Statkraft Markets GmbH, Zum Kraftwerk, 26725 Emden, wird aufgrund ihres Antrages vom
+1.
+Der Firma Statkraft Markets GmbH, Zum Kraftwerk, 26725 Emden, wird aufgrund ihres Antrages vom
 03.04.2023, zuletzt ergänzt durch Schreiben vom 12.02.24, die Genehmigung zur Errichtung und zum Betrieb
 einer Wasserstofferzeugungsanlange erteilt.
 2. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die Errichtung und den Betrieb einer Wasserstofferzeugungsanlage.
 3. Standort der Anlage ist:
-Ort: 26725 Emden
-Straße: Zum Kraftwerk
-Gemarkung: Emden
-Flur: 50
-Flurstücke: 9/9, 9/10, 9/11
+Ort:
+
+26725 Emden
+
+Straße:
+
+Zum Kraftwerk
+
+Gemarkung:
+
+Emden
+
+Flur:
+
+50
+
+Flurstücke:
+
+9/9, 9/10, 9/11
+
 Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses
 Genehmigungsbescheides und liegen diesem zugrunde.
 4. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-– Baugenehmigung gemäß § 70 Niedersächsischer Bauordnung (NBauO),
-– Erlaubnis nach §18 (1) der Betriebssicherheitsverordnung (BetrSichV).
+–
+
+Baugenehmigung gemäß § 70 Niedersächsischer Bauordnung (NBauO),
+
+–
+
+Erlaubnis nach §18 (1) der Betriebssicherheitsverordnung (BetrSichV).
+
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 5. Kostenentscheidung
 Die Kosten dieses Verfahrens trägt die Antragstellerin.
 Rechtsbehelfsbelehrung
 Gegen diese Entscheidung kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen
-Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, erhoben werden.
+Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, erhoben werden.

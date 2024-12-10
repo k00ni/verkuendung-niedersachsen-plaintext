@@ -1,1877 +1,4970 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 25. September 2024 Nummer 417
+74. (79.) Jahrgang
+
+Hannover, den 25. September 2024
+
+Nummer 417
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Verordnung
 über das Verzeichnis der Gewässer II. Ordnung
 für das Verbandsgebiet des Unterhaltungsverbandes Nr. 113
 (I. Entwässerungsverband Emden)
-Vom 28.08.2024 – A3-62020- 113 EV Emden –
-
+Vom 28.08.2024 – A3-62020-113 EV Emden –
 Aufgrund des § 39 NWG i. d. F. vom 19.02.2010 (Nds. GVBl. S. 64), zuletzt geändert durch Artikel 7 des
-Gesetzes vom 12 .12.2023 (Nds. GVBl. S. 289) und Verordnung vom 06.12.2023 (Nds. GVBl. S. 339), i. V. m.
+Gesetzes vom 12.12.2023 (Nds. GVBl. S. 289) und Verordnung vom 06.12.2023 (Nds. GVBl. S. 339), i. V. m.
 § 1 Nr. 3 ZustVO-Wasser vom 10.03.2011 (Nds. GVBl. S. 70), zuletzt geändert durch Verordnung vom
 10.10.2022 (Nds. GVBl. S. 646), wird verordnet:
-
 Artikel 1
 Für das Verbandsgebiet des Unterhaltungsverbandes Nr. 113 (I. Entwässerungsverband Emden) wird für
 die Gewässer II. Ordnung das nachstehende Verzeichnis aufgestellt (Anlage).
-
 Artikel 2
 Die Verordnung über das Verzeichnis der Gewässer II. Ordnung im Gebiet des Unterhaltungsverbandes
-Nr. 113, I. Entwässerungsverband Emden, vom 27.3.1986 (ABl. für den Regierungsbezirk Weser -Ems S. 412),
+Nr. 113, I. Entwässerungsverband Emden, vom 27.3.1986 (ABl. für den Regierungsbezirk Weser-Ems S. 412),
 zuletzt geändert durch die Verordnung vom 27.4.2011 (Nds. MBl. S. 319 ff.), wird aufgehoben.
-
 Artikel 3
 Diese Verordnung tritt am Tag nach ihrer Verkündung im Nds. MBl. in Kraft.
-
-Aurich, den 28.08.202 4
-
+Aurich, den 28.08.2024
 Niedersächsischer Landesbetrieb
 für Wasserwirtschaft, Küsten- und Naturschutz
 Pollmann
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Endpunkte des Gewässers
+
 Lage
-Landkreisvon bis
+Nr.
+
+Bezeichnung des Gewässers
+
+1
+
+2
+
+Landkreis von
+
+bis
+
 E = East
 N = North
-1 2 3 4 5
+3
+
+1
+
+Abbingwehrer Tief
+
+Aurich
+
+2
+
+Abelitz
+
+Aurich
+
+3
+
+Abelitz-Moordorf-Kanal
+
+Aurich
+
+4
+
+Abelitzschloot
+
+Aurich
+
+5
+
+Adewegschloot
+
+Aurich
+
+6
+
+Akkensschloot
+
+Aurich
+
+7
+
+Alander Schöpfwerksschloot
+
+Aurich
+
+8
+
+Alandschloot
+
+Aurich
+
+9
+
+Albringswehrschloot
+
+Aurich
+
+10
+
+Alte Ehe
+
+Aurich
+
+11
+
+Alt Ekelserschloot
+
+Aurich
+
+4
+
 Gew.Nr. 217 Longewehrschloot
-E 32382534 E 32383487
-N 5923666 N 5922153
+E 32382534
+N 5923666
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32381796 E 32384028
-N 5923884 N 5933964
+E 32381796
+N 5923884
 Gew.Nr. 2 Abelitz
-E 32382359 E 32392847
-N 5924656 N 5928261
+E 32382359
+N 5924656
 Gew.Nr. 112 Georgsheiler Zugschloot
-E 32387027 E 32385960
-N 5925308 N 5925117
+E 32387027
+N 5925308
 Gew.Nr. 2 Abelitz
-E 32384102 E 32389542
-N 5933600 N 5934821
+E 32384102
+N 5933600
 Gew.Nr. 136 Hauener Tief
-E 32372397 E 32371734
-N 5929006 N 5929731
+E 32372397
+N 5929006
 Gew.Nr. 79 Durchstich Weel Aland
-E 32382054 E 32382658
-N 5925217 N 5925354
+E 32382054
+N 5925217
 Gew.Nr. 7 Alander Schöpfwerksschloot
-E 32382364 E 32381584
-N 5925568 N 5925835
+E 32382364
+N 5925568
 Gew.Nr. 152 Hinter Tief
-E 32380546 E 32379621
-N 5917565 N 5917225
+E 32380546
+N 5917565
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32391813 E 32393180
-N 5929349 N 5930643
+E 32391813
+N 5929349
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32390389 E 32391017
-N 5926063 N 5926420
-Nr. Bezeichnung des Gewässers
-Endpunkte des Gewässers
-5 Adewegschloot Aurich
-6 Akkensschloot Aurich
-3 Abelitz-Moordorf-Kanal Aurich
-4 Abelitzschloot Aurich
-1 Abbingwehrer Tief Aurich
-2 Abelitz Aurich
-11 Alt Ekelserschloot Aurich
-9 Albringswehrschloot Aurich
-10 Alte Ehe Aurich
-7 Alander Schöpfwerksschloot Aurich
-8 Alandschloot Aurich
+E 32390389
+N 5926063
+
+5
+
+E 32383487
+N 5922153
+E 32384028
+N 5933964
+E 32392847
+N 5928261
+E 32385960
+N 5925117
+E 32389542
+N 5934821
+E 32371734
+N 5929731
+E 32382658
+N 5925354
+E 32381584
+N 5925835
+E 32379621
+N 5917225
+E 32393180
+N 5930643
+E 32391017
+N 5926420
+
+12
+
+Alte Maar
+
+13
+
+Alt Münkeboeerschloot
+
+14
+
+Alte Welt Schloot
+
+15
+
+Alter Dammschloot
+
+16
+
+Alter Friedrichshofsschloot
+
+17
+
+Altes Tief
+
+18
+
+Altes Greetsieler Sieltief
+
+19
+
+Alter Schöpfwerksschloot
+
+20
+
+Amerlander Schöpfwerksschloot
+
+21
+
+Amselschloot
+
+22
+
+Angernheimschloot
+
+23
+
+Angernpolderschloot
+
+24
+
+Appingerschloot
 
 Hieve
-E 32385329 E 32385774
-N 5918981 N 5917784
+E 32385329
+N 5918981
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32391230 E 32393167
-N 5929768 N 5931428
+E 32391230
+Aurich
+N 5929768
 Gew.Nr. 233 Meewenburgschloot
-E 32382357 E 32381664
-N 5932055 N 5932063
+E 32382357
+Aurich
+N 5932055
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32376620 E 32378117
-N 5932076 N 5930604
+E 32376620
+Aurich
+N 5932076
 Gew.Nr. 196 Klunnerbültschloot
-E 32387957 E 32387486
-N 5921094 N 5921140
+E 32387957
+Aurich
+N 5921094
 Gew.Nr. 198 Knockster Tief
-E 32370084 E 32368670
-N 5912825 N 5916856
+Emd/Aur E 32370084
+N 5912825
 Schöpfwerk Greetsiel
-E 32373933 E 32383302
-N 5929690 N 5921807
+E 32373933
+Aurich
+N 5929690
 Gew.Nr. 232 Meedekanal
-E 32389090 E 32390002
-N 5925806 N 5925003
+E 32389090
+Aurich
+N 5925806
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32383144 E 32383914
-N 5924740 N 5925582
+E 32383144
+Aurich
+N 5924740
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32390475 E 32390512
-N 5925291 N 5924989
+E 32390475
+Aurich
+N 5925291
 Gew.Nr. 343 Schoonorther Polderschloot
-E 32379753 E 32381230
-N 5929243 N 5928865
+E 32379753
+Aurich
+N 5929243
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32376064 E 32376685
-N 5928143 N 5928712
+E 32376064
+Aurich
+N 5928143
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373110 E 32373545
-12 Alte Maar Emden
-17 Altes Tief Emd/Aur
-18 Altes Greetsieler Sieltief Aurich
-15 Alter Dammschloot Aurich
-16 Alter Friedrichshofsschloot Aurich
-13 Alt Münkeboeerschloot Aurich
-14 Alte Welt Schloot Aurich
-23 Angernpolderschloot Aurich
-24 Appingerschloot Aurich
-21 Amselschloot Aurich
-22 Angernheimschloot Aurich
-19 Alter Schöpfwerksschloot Aurich
-20 Amerlander Schöpfwerksschloot Aurich
+E 32373110
+Aurich
 
-N 5928056 N 5927965
+Emden
+
+E 32385774
+N 5917784
+E 32393167
+N 5931428
+E 32381664
+N 5932063
+E 32378117
+N 5930604
+E 32387486
+N 5921140
+E 32368670
+N 5916856
+E 32383302
+N 5921807
+E 32390002
+N 5925003
+E 32383914
+N 5925582
+E 32390512
+N 5924989
+E 32381230
+N 5928865
+E 32376685
+N 5928712
+E 32373545
+
+25
+
+Appingerwegschloot
+
+Aurich
+
+26
+
+Bablerdiematschloot
+
+Aurich
+
+27
+
+Bachstelzenschloot
+
+Aurich
+
+28
+
+Barsteder Schloot
+
+Aurich
+
+29
+
+Bartslandschloot
+
+Emden
+
+30
+
+Bartshauser Schloot
+
+Aurich
+
+31
+
+Bauerslustschloot
+
+Aurich
+
+32
+
+Baumackerschloot
+
+Aurich
+
+33
+
+Bedekaspeler Schloot
+
+Aurich
+
+34
+
+Beererschloot
+
+Aurich
+
+35
+
+Bettenwehrschloot
+
+Aurich
+
+36
+
+Bischofshörnschloot
+
+Aurich
+
+N 5928056
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373071 E 32372678
-N 5928285 N 5926900
+E 32373071
+N 5928285
 Gew.Nr. 167 Jheringslandschloot
-E 32386570 E 32387153
-N 5924433 N 5925046
+E 32386570
+N 5924433
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32389647 E 32389354
-N 5928138 N 5928678
+E 32389647
+N 5928138
 Gew.Nr. 290 Paulstief
-E 32393112 E 32392786
-N 5923094 N 5923663
+E 32393112
+N 5923094
 Gew.Nr. 64 Cirkwehrumer Tief
-E 32378680 E 32379600
-N 5922373 N 5922346
+E 32378680
+N 5922373
 Gew.Nr. 276 Onkedreischloot
-E 32373597 E 32373720
-N 5915061 N 5915747
+E 32373597
+N 5915061
 Gew.Nr. 340 Süderriede
-E 32385337 E 32383037
-N 5921418 N 5921095
+E 32385337
+N 5921418
 Gew.Nr. 269 Nordfennenschloot
-E 32392775 E 32392289
-N 5922493 N 5923071
+E 32392775
+N 5922493
 Großes Meer
-E 32388401 E 32387478
-N 5922528 N 5922813
+E 32388401
+N 5922528
 Gew.Nr. 20 Amerlander Schöpfwerksschloot
-E 32383914 E 32383509
-N 5925582 N 5925994
+E 32383914
+N 5925582
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32375532 E 32374683
-N 5922171 N 5921649
+E 32375532
+N 5922171
 Gew.Nr. 394 Uttumer Tief
-E 32378335 E 32376363
-N 5923950 N 5923230
+E 32378335
+N 5923950
 Gew.Nr. 2 Abelitz
 
-29 Bartslandschloot Emden
-30 Bartshauser Schloot Aurich
-27 Bachstelzenschloot Aurich
-28 Barsteder Schloot Aurich
-25 Appingerwegschloot Aurich
-26 Bablerdiematschloot Aurich
-35 Bettenwehrschloot Aurich
-36 Bischofshörnschloot Aurich
-33 Bedekaspeler Schloot Aurich
-34 Beererschloot Aurich
-31 Bauerslustschloot Aurich
-32 Baumackerschloot Aurich
+N 5927965
+E 32372678
+N 5926900
+E 32387153
+N 5925046
+E 32389354
+N 5928678
+E 32392786
+N 5923663
+E 32379600
+N 5922346
+E 32373720
+N 5915747
+E 32383037
+N 5921095
+E 32392289
+N 5923071
+E 32387478
+N 5922813
+E 32383509
+N 5925994
+E 32374683
+N 5921649
+E 32376363
+N 5923230
 
-E 32384390 E 32382949
-N 5928071 N 5927789
+37
+
+Börghamschloot
+
+Aurich
+
+38
+
+Bohlwarfschloot
+
+Aurich
+
+39
+
+Bohnenburgerschloot
+
+Aurich
+
+40
+
+Bollandswater
+
+Aurich
+
+41
+
+Borssumer Kanal
+
+Emden
+
+42
+
+Botterfleth
+
+Aurich
+
+43
+
+Brandendenschloot
+
+Aurich
+
+44
+
+Brannlandschloot
+
+Aurich
+
+45
+
+Breike
+
+Aurich
+
+46
+
+Bretthunerschloot
+
+Aurich
+
+47
+
+Bugelschloot
+
+Aurich
+
+49
+
+Bulleegschloot
+
+Aurich
+
+50
+
+Bunderschloot
+
+Aurich
+
+E 32384390
+N 5928071
 Gew.Nr. 198 Knockster Tief
-E 32378175 E 32378907
-N 5918599 N 5917315
+E 32378175
+N 5918599
 Gew.Nr. 132 Hamswehrumer Tief
-E 32369939 E 32369622
-N 5921533 N 5923418
+E 32369939
+N 5921533
 Gew.Nr. 2 Abelitz
-E 32384560 E 32386241
-N 5929908 N 5928675
+E 32384560
+N 5929908
 Gew.Nr. 368 Trecktief
-E 32382050 E 32382046
-N 5914724 N 5915984
+E 32382050
+N 5914724
 Gew.Nr. 2 Abelitz
-E 32382962 E 32382238
-N 5925501 N 5927921
+E 32382962
+N 5925501
 Gew.Nr. 392 Uthwerdumer Vorfluter
-E 32390953 E 32391535
-N 5927003 N 5926991
+E 32390953
+N 5927003
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32390899 E 32390626
-N 5932105 N 5932546
+E 32390899
+N 5932105
 Gew.Nr. 154 Hiwkeschloot
-E 32389636 E 32388304
-N 5922012 N 5922940
+E 32389636
+N 5922012
 Gew.Nr. 352 Schweitief
-E 32386345 E 32386213
-N 5927412 N 5928266
+E 32386345
+N 5927412
 Gew.Nr. 227 Manslagter Tief
-E 32372443 E 32372382
-N 5925043 N 5924211
+E 32372443
+N 5925043
 Gew.Nr. 20 Amerlander Schöpfwerksschloot
-E 32383166 E 32382427
-N 5924851 N 5924918
+E 32383166
+N 5924851
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32380777 E 32380393
-N 5928232 N 5927706
-41 Borssumer Kanal Emden
-42 Botterfleth Aurich
-39 Bohnenburgerschloot Aurich
-40 Bollandswater Aurich
-37 Börghamschloot Aurich
-38 Bohlwarfschloot Aurich
-47 Bugelschloot Aurich
-49 Bulleegschloot Aurich
-45 Breike Aurich
-46 Bretthunerschloot Aurich
-43 Brandendenschloot Aurich
-44 Brannlandschloot Aurich
-50 Bunderschloot Aurich
+E 32380777
+N 5928232
+
+E 32382949
+N 5927789
+E 32378907
+N 5917315
+E 32369622
+N 5923418
+E 32386241
+N 5928675
+E 32382046
+N 5915984
+E 32382238
+N 5927921
+E 32391535
+N 5926991
+E 32390626
+N 5932546
+E 32388304
+N 5922940
+E 32386213
+N 5928266
+E 32372382
+N 5924211
+E 32382427
+N 5924918
+E 32380393
+N 5927706
+
+51
+
+Burgelschloot
+
+Emden
+
+52
+
+Buntewegschloot
+
+Aurich
+
+53
+
+Bundesbahnschloot in Walle
+
+Aurich
+
+54
+
+Buschhauserschloot
+
+Aurich
+
+55
+
+Buschplatzschloot
+
+Aurich
+
+56
+
+Bussenschloot
+
+Aurich
+
+57
+
+Butterlandschloot
+
+Aurich
+
+58
+
+Campener Tief
+
+Aurich
+
+59
+
+Camperlandenschloot
+
+Aurich
+
+60
+
+Canhuser Schöpfwerkschloot
+
+Aurich
+
+61
+
+Canumer Schloot
+
+Aurich
+
+62
+
+Canumer Tief
+
+Aurich
+
+63
+
+Cirksenaschloot
+
+Aurich
 
 Gew.Nr. 319 Rothe Vorwerkschloot
-E 32371365 E 32370973
-N 5912779 N 5913447
+E 32371365
+N 5912779
 Gew.Nr. 430 Woquarder Buntewegschloot
-E 32372650 E 32373606
-N 5922486 N 5924353
+E 32372650
+N 5922486
 Gew.Nr. 415 Westerender Ehe
-E 32396844 E 32396642
-N 5925968 N 5925993
+E 32396844
+N 5925968
 Gew.Nr. 58 Campener Tief
-E 32371242 E 32371757
-N 5918187 N 5917568
+E 32371242
+N 5918187
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32390268 E 32390297
-N 5924835 N 5924197
+E 32390268
+N 5924835
 Gew.Nr. 225 Maar
-E 32388385 E 32387788
-N 5928898 N 5930149
+E 32388385
+N 5928898
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373519 E 32372986
-N 5926690 N 5926510
+E 32373519
+N 5926690
 Gew.Nr. 123 Groothuser Tief
-E 32372297 E 32368690
-N 5917935 N 5919545
+E 32372297
+N 5917935
 Gew.Nr. 2 Abelitz
-E 32384260 E 32383474
-N 5929122 N 5928346
+E 32384260
+N 5929122
 Gew.Nr. 217 Longewehrschloot
-E 32381658 E 32381455
-N 5923575 N 5923254
+E 32381658
+N 5923575
 Gew.Nr. 103 Freepsumer Schöpfwerksschloot
-E 32374939 E 32375385
-N 5919815 N 5918282
+E 32374939
+N 5919815
 Gew.Nr. 104 Freepsumer Tief
-E 32375603 E 32374676
-N 5919729 N 5921160
+E 32375603
+N 5919729
 Gew.Nr. 212 Leybuchtmittelgraben
-E 32377663 E 32376335
-54 Buschhauserschloot Aurich
-55 Buschplatzschloot Aurich
-52 Buntewegschloot Aurich
-53 Bundesbahnschloot in Walle Aurich
-51 Burgelschloot Emden
-60 Canhuser Schöpfwerkschloot Aurich
-61 Canumer Schloot Aurich
-58 Campener Tief Aurich
-59 Camperlandenschloot Aurich
-56 Bussenschloot Aurich
-57 Butterlandschloot Aurich
-62 Canumer Tief Aurich
-63 Cirksenaschloot Aurich
+E 32377663
 
-N 5930034 N 5929014
+E 32370973
+N 5913447
+E 32373606
+N 5924353
+E 32396642
+N 5925993
+E 32371757
+N 5917568
+E 32390297
+N 5924197
+E 32387788
+N 5930149
+E 32372986
+N 5926510
+E 32368690
+N 5919545
+E 32383474
+N 5928346
+E 32381455
+N 5923254
+E 32375385
+N 5918282
+E 32374676
+N 5921160
+E 32376335
+
+64
+
+Cirkwehrumer Tief
+
+Aurich
+
+65
+
+Cnulkeschloot
+
+Aurich
+
+66
+
+Concordiaschloot
+
+Emden
+
+67
+
+Coldewehrschloot
+
+Aurich
+
+68
+
+Coldewehrer Schöpfwerksschloot
+
+Aurich
+
+69
+
+Constantiaschloot
+
+Emden
+
+70
+
+Dammswegschloot
+
+Aurich
+
+71
+
+Denkenaschloot
+
+Aurich
+
+72
+
+Diekenshofschloot
+
+Aurich
+
+73
+
+Dobbenschloot
+
+Aurich
+
+74
+
+Dohlenschloot
+
+Aurich
+
+75
+
+Doodshörnschloot
+
+Emden
+
+N 5930034
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32377675 E 32382167
-N 5921560 N 5923137
+E 32377675
+N 5921560
 Gew.Nr. Canumer Tief
-E 32374918 E 32375920
-N 5920539 N 5921686
+E 32374918
+N 5920539
 Gew.Nr. Landlustschloot
-E 32377154 E 32377203
-N 5918440 N 5916716
+E 32377154
+N 5918440
 Gew.Nr. 68 Coldewehrer Schöpfwerksschloot
-E 32374161 E 32375505
-N 5917732 N 5918021
+E 32374161
+N 5917732
 Gew.Nr. 293 Pewsumer Tief
-E 32373991 E 32374247
-N 5917764 N 5919620
+E 32373991
+N 5917764
 Gew.Nr. 209 Larreleter Tief
-E 32378359 E 32378454
-N 5915744 N 5916681
+E 32378359
+N 5915744
 Gew.Nr. 217 Longewehrschloot
-E 32381658 E 32380683
-N 5923575 N 5923322
+E 32381658
+N 5923575
 Gew.Nr. 63 Cirksenaschloot
-E 32377650 E 32379095
-N 5929431 N 5929206
+E 32377650
+N 5929431
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32380878 E 32381882
-N 5928304 N 5928085
+E 32380878
+N 5928304
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32383144 E 32382636
-N 5924740 N 5924330
+E 32383144
+N 5924740
 Gew.Nr. 84 Eisenbahnschloot
-E 32386473 E 32386098
-N 5929934 N 5930932
+E 32386473
+N 5929934
 Gew.Nr. 373 Twixlumer Schöpfwerksschloot
-E 32374131 E 32374335
-N 5916075 N 5916912
+E 32374131
+N 5916075
 Gew.Nr. 213 Leybuchtsammelgraben
-66 Concordiaschloot Emden
-67 Coldewehrschloot Aurich
-64 Cirkwehrumer Tief Aurich
-65 Cnulkeschloot Aurich
 
-72 Diekenshofschloot Aurich
-73 Dobbenschloot Aurich
-70 Dammswegschloot Aurich
-71 Denkenaschloot Aurich
-68 Coldewehrer Schöpfwerksschloot Aurich
-69 Constantiaschloot Emden
+N 5929014
+E 32382167
+N 5923137
+E 32375920
+N 5921686
+E 32377203
+N 5916716
+E 32375505
+N 5918021
+E 32374247
+N 5919620
+E 32378454
+N 5916681
+E 32380683
+N 5923322
+E 32379095
+N 5929206
+E 32381882
+N 5928085
+E 32382636
+N 5924330
+E 32386098
+N 5930932
+E 32374335
+N 5916912
 
-74 Dohlenschloot Aurich
-75 Doodshörnschloot Emden
+76
 
-E 32376243 E 32377976
-N 5931689 N 5930242
+Dorfteichschloot
+
+Aurich
+
+77
+
+Dreescheschloot
+
+Aurich
+
+78
+
+Drennhusenschloot
+
+Aurich
+
+79
+
+Durchstich Weel Aland
+
+Aurich
+
+80
+
+Dykhusenschloot
+
+Aurich
+
+81
+
+Eckiger Kampschloot
+
+Aurich
+
+82
+
+Eidelschloot
+
+Aurich
+
+83
+
+Eilsumer Schloot
+
+Aurich
+
+84
+
+Eisenbahnschloot
+
+Aurich
+
+85
+
+Elfdiematschloot
+
+Aurich
+
+86
+
+Elsterschloot
+
+Aurich
+
+87
+
+Emder Stadtgraben
+
+Emden
+
+87A
+
+Alter Emder Stadtgraben
+
+Emden
+
+E 32376243
+N 5931689
 Gew.Nr. 2 Abelitz
-E 32384016 E 32384407
-N 5931370 N 5930740
+E 32384016
+N 5931370
 Gew.Nr. 42 Botterfleth
-E 32382342 E 32381489
-N 5926982 N 5927179
+E 32382342
+N 5926982
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32381381 E 32382401
-N 5925541 N 5925147
+E 32381381
+N 5925541
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373922 E 32374535
-N 5924916 N 5925433
+E 32373922
+N 5924916
 Gew.Nr. 10 Alte Ehe
-E 32391947 E 32392313
-N 5929536 N 5929132
+E 32391947
+N 5929536
 Gew.Nr. 165 Van Hove Tief
-E 32382687 E 32381749
-N 5933345 N 5933117
+E 32382687
+N 5933345
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32376501 E 32376163
-N 5926743 N 5925948
+E 32376501
+N 5926743
 Gew.Nr. 135 Haneburgerschloot
-E 32386351 E 32386322
-N 5929712 N 5930194
+E 32386351
+N 5929712
 Gew.Nr. 225 Maar
-E 32384916 E 32385125
-N 5928564 N 5929205
+E 32384916
+N 5928564
 Gew.Nr. 225 Maar
-E 32387718 E 32388342
-N 5928690 N 5928586
+E 32387718
+N 5928690
 Gew.Nr. 209 Larreleter Tief
-E 32380061 E 32381475
-N 5915069 N 5914618
+E 32380061
+N 5915069
 Gew.Nr. 209 Larreleter Tief
-E 32380163 E 32381244
-N 5914858 N 5915056
-78 Drennhusenschloot Aurich
-79 Durchstich Weel Aland Aurich
-76 Dorfteichschloot Aurich
-77 Dreescheschloot Aurich
-84 Eisenbahnschloot Aurich
-85 Elfdiematschloot Aurich
-82 Eidelschloot Aurich
-83 Eilsumer Schloot Aurich
-80 Dykhusenschloot Aurich
-81 Eckiger Kampschloot Aurich
-87AAlter Emder Stadtgraben Emden
-86 Elsterschloot Aurich
-87 Emder Stadtgraben Emden
+E 32380163
+N 5914858
+
+E 32377976
+N 5930242
+E 32384407
+N 5930740
+E 32381489
+N 5927179
+E 32382401
+N 5925147
+E 32374535
+N 5925433
+E 32392313
+N 5929132
+E 32381749
+N 5933117
+E 32376163
+N 5925948
+E 32386322
+N 5930194
+E 32385125
+N 5929205
+E 32388342
+N 5928586
+E 32381475
+N 5914618
+E 32381244
+N 5915056
+
+88
+
+Engerhaferschloot
+
+Aurich
+
+89
+
+Erbsenbindereischloot
+
+Aurich
+
+90
+
+Escherschloot
+
+Aurich
+
+91
+
+Extumer Kiefmoorschloot
+
+Aurich
+
+92
+
+Extumer Schloot
+
+Aurich
+
+93
+
+Extumer Vorfluter
+
+Aurich
+
+94
+
+Fasanenschloot
+
+Aurich
+
+95
+
+Fehnhuserschloot
+
+Aurich
+
+96
+
+Fenneschloot
+
+Aurich
+
+97
+
+Ferienhausschloot
+
+Aurich
+
+98
+
+Flugplatzschloot
+
+Emden
+
+99
+
+Flachdrögereischloot
+
+Aurich
+
+100
+
+Forlitzerschloot
+
+Aurich
 
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32388357 E 32388019
-N 5926542 N 5927669
+E 32388357
+N 5926542
 Gew.Nr. 132 Hamswehrumer Tief
-E 32371117 E 32368934
-N 5920139 N 5921048
+E 32371117
+N 5920139
 Gew.Nr. 227 Manslagter Tief
-E 32373248 E 32372932
-N 5924771 N 5924202
+E 32373248
+N 5924771
 Gew.Nr. 415 Westerender Ehe
-E 32394999 E 32394670
-N 5924097 N 5925183
+E 32394999
+N 5924097
 Gew.Nr. 415 Westerender Ehe
-E 32394952 E 32394017
-N 5923897 N 5924189
+E 32394952
+N 5923897
 Gew.Nr. 415 Westerender Ehe
-E 32394754 E 32396971
-N 5923304 N 5925820
+E 32394754
+N 5923304
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32388844 E 32388570
-N 5927415 N 5928016
+E 32388844
+N 5927415
 Gew.Nr. 225 Maar
-E 32388152 E 32386559
-N 5928777 N 5930399
+E 32388152
+N 5928777
 Gew.Nr. 352 Schweitief
-E 32386935 E 32387481
-N 5927992 N 5927842
+E 32386935
+N 5927992
 Gew.Nr. 232 Meedekanal
-E 32387263 E 32386771
-N 5924365 N 5923661
+E 32387263
+N 5924365
 Gew.Nr. 152 Hinter Tief
-E 32380633 E 32382624
-N 5916890 N 5917215
+E 32380633
+N 5916890
 Gew.Nr. 10 Alte Ehe
-E 32392092 E 32392719
-N 5929810 N 5929498
+E 32392092
+N 5929810
 Gew.Nr. 154 Hiwkeschloot
-E 32389139 E 32388391
-89 Erbsenbindereischloot Aurich
-90 Escherschloot Aurich
-88 Engerhaferschloot Aurich
-95 Fehnhuserschloot Aurich
-96 Fenneschloot Aurich
-93 Extumer Vorfluter Aurich
-94 Fasanenschloot Aurich
-91 Extumer Kiefmoorschloot Aurich
-92 Extumer Schloot Aurich
-99 Flachdrögereischloot Aurich
-100Forlitzerschloot Aurich
-97 Ferienhausschloot Aurich
-98 Flugplatzschloot Emden
+E 32389139
 
-N 5921738 N 5921206
+E 32388019
+N 5927669
+E 32368934
+N 5921048
+E 32372932
+N 5924202
+E 32394670
+N 5925183
+E 32394017
+N 5924189
+E 32396971
+N 5925820
+E 32388570
+N 5928016
+E 32386559
+N 5930399
+E 32387481
+N 5927842
+E 32386771
+N 5923661
+E 32382624
+N 5917215
+E 32392719
+N 5929498
+E 32388391
+
+101
+
+Fraukehammschloot
+
+Aurich
+
+102
+
+Freepsumer Meerschloot
+
+Aurich
+
+103
+
+Freepsumer Schöpfwerksschloot
+
+Aurich
+
+104
+
+Freepsumer Tief
+
+Aurich
+
+105
+
+Friedrichshofschloot
+
+Aurich
+
+106
+
+Friedrichswertherschloot
+
+Aurich
+
+107
+
+Frisiaschloot
+
+Emden
+
+108
+
+Gaster Äckerschloot
+
+Aurich
+
+109
+
+Gasteschloot
+
+Aurich
+
+110
+
+Gatjewegschlloot
+
+Aurich
+
+111
+
+Gemüseschloot
+
+Emden
+
+112
+
+Georgsheiler Zugschloot
+
+Aurich
+
+N 5921738
 Gew.Nr. 2 Abelitz
-E 32384248 E 32385565
-N 5926970 N 5927456
+E 32384248
+N 5926970
 Gew.Nr. 104 Freepsumer Tief
-E 32375789 E 32377158
-N 5919610 N 5919814
+E 32375789
+N 5919610
 Gew.Nr. 62 Canumer Tief
-E 32375099 E 32374637
-N 5919904 N 5918157
+E 32375099
+N 5919904
 Gew.Nr. 198 Knockster Tief
-E 32376967 E 32376231
-N 5918434 N 5920235
+E 32376967
+N 5918434
 Gew.Nr. 343 Schoonorther Polderschloot
-E 32379794 E 32381393
-N 5929597 N 5929210
+E 32379794
+N 5929597
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32378802 E 32379831
-N 5927947 N 5927743
+E 32378802
+N 5927947
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32377443 E 32379352
-N 5914223 N 5914360
+E 32377443
+N 5914223
 Gew.Nr. 382 Upganter Zugschloot
-E 32386213 E 32385941
-N 5931927 N 5931887
+E 32386213
+N 5931927
 Gew.Nr. 232 Meedekanal
-E 32388932 E 32389737
-N 5925551 N 5924569
+E 32388932
+N 5925551
 Gew.Nr. 2 Abelitz
-E 32384434 E 32389705
-N 5933106 N 5934401
+E 32384434
+N 5933106
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32373570 E 32373540
-N 5913064 N 5911309
+E 32373570
+N 5913064
 Gew.Nr. 232 Meedekanal
-E 32387421 E 32387801
-N 5924381 N 5925714
+E 32387421
+N 5924381
 Gew.Nr. 2 Abelitz
-101Fraukehammschloot Aurich
-102Freepsumer Meerschloot Aurich
 
-107Frisiaschloot Emden
-108Gaster Äckerschloot Aurich
-105Friedrichshofschloot Aurich
-106Friedrichswertherschloot Aurich
-103Freepsumer Schöpfwerksschloot Aurich
-104Freepsumer Tief Aurich
+N 5921206
+E 32385565
+N 5927456
+E 32377158
+N 5919814
+E 32374637
+N 5918157
+E 32376231
+N 5920235
+E 32381393
+N 5929210
+E 32379831
+N 5927743
+E 32379352
+N 5914360
+E 32385941
+N 5931887
+E 32389737
+N 5924569
+E 32389705
+N 5934401
+E 32373540
+N 5911309
+E 32387801
+N 5925714
 
-111Gemüseschloot Emden
-112Georgsheiler Zugschloot Aurich
-109Gasteschloot Aurich
-110Gatjewegschlloot Aurich
+113
 
-E 32384751 E 32386681
-N 5932543 N 5934192
+Graben A
+
+Aurich
+
+114
+
+Grashausschloot
+
+Aurich
+
+115
+
+Greedackerschloot
+
+Aurich
+
+116
+
+Greedenescherschloot
+
+Aurich
+
+117
+
+Grimersumer Escherschloot
+
+Aurich
+
+118
+
+Grimersumer Ostschloot
+
+Aurich
+
+119
+
+Grimersumer Neulandschloot
+
+Aurich
+
+120
+
+Greedenwegschloot
+
+Aurich
+
+121
+
+Groiktjeschloot
+
+Aurich
+
+122
+
+Grootdiekschloot
+
+Aurich
+
+123
+
+Groothuser Tief
+
+Aurich
+
+124
+
+Gr. Heikelandschloot
+
+Aurich
+
+125
+
+Gr. Heikelander Schöpfwerksschloot
+
+Aurich
+
+E 32384751
+N 5932543
 Gew.Nr. 198 Knockster Tief
-E 32383120 E 32385073
-N 5921574 N 5921865
+E 32383120
+N 5921574
 Gew.Nr. 154 Hiwkeschloot
-E 32389760 E 32392754
-N 5922105 N 5921937
+E 32389760
+N 5922105
 Gew.Nr. 72 Diekenshofschloot
-E 32381081 E 32379774
-N 5928090 N 5927367
+E 32381081
+N 5928090
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32378687 E 32379289
-N 5927399 N 5927467
+E 32378687
+N 5927399
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32379081 E 32379901
-N 5926595 N 5926339
+E 32379081
+N 5926595
 Gew.Nr. 404 Warfenfeldschloot
-E 32380527 E 32379405
-N 5926979 N 5927188
+E 32380527
+N 5926979
 Gew.Nr. 415 Westerender Ehe
-E 32396913 E 32396954
-N 5926032 N 5926287
+E 32396913
+N 5926032
 Gew.Nr. 104 Freepsumer Tief
-E 32376960 E 32377319
-N 5918598 N 5919730
+E 32376960
+N 5918598
 Gew.Nr. 2 Abelitz
-E 32384353 E 32383772
-N 5929568 N 5929885
+E 32384353
+N 5929568
 Gew.Nr. 198 Knockster Tief
-E 32373441 E 32371670
-N 5916634 N 5922212
+E 32373441
+N 5916634
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32383900 E 32383633
-N 5923734 N 5923314
+E 32383900
+N 5923734
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32383107 E 32386163
-N 5924820 N 5924029
-113Graben A Aurich
-114Grashausschloot Aurich
-119Grimersumer Neulandschloot Aurich
-120Greedenwegschloot Aurich
-117Grimersumer Escherschloot Aurich
-118Grimersumer Ostschloot Aurich
-115Greedackerschloot Aurich
-116Greedenescherschloot Aurich
-125Gr. Heikelander Schöpfwerksschloot Aurich
-123Groothuser Tief Aurich
-124Gr. Heikelandschloot Aurich
-121Groiktjeschloot Aurich
-122Grootdiekschloot Aurich
+E 32383107
+N 5924820
+
+E 32386681
+N 5934192
+E 32385073
+N 5921865
+E 32392754
+N 5921937
+E 32379774
+N 5927367
+E 32379289
+N 5927467
+E 32379901
+N 5926339
+E 32379405
+N 5927188
+E 32396954
+N 5926287
+E 32377319
+N 5919730
+E 32383772
+N 5929885
+E 32371670
+N 5922212
+E 32383633
+N 5923314
+E 32386163
+N 5924029
+
+126
+
+Gr. Horenburgerschloot
+
+Aurich
+
+127
+
+Groß Midlumer Tief
+
+Aurich
+
+128
+
+Gr. Sanderschloot
+
+Aurich
+
+129
+
+Gr. Sander Schöpfwerksschloot
+
+Aurich
+
+130
+
+Habelandenschloot
+
+Aurich
+
+131
+
+Hackereischloot
+
+Aurich
+
+132
+
+Hamswehrumer Tief
+
+Aurich
+
+133
+
+Hamschwester Escher
+
+Aurich
+
+134
+
+Hagenpolderschloot
+
+Aurich
+
+135
+
+Haneburgerschloot
+
+Aurich
+
+136
+
+Hauener Tief
+
+Aurich
+
+137
+
+Hauptzuggraben Moorhusen-Münkeboe
+
+Aurich
+
+138
+
+Haxtumer Schloot
+
+Aurich
 
 Gew.Nr. 227 Manslagter Tief
-E 32371270 E 32369293
-N 5924069 N 5925694
+E 32371270
+N 5924069
 Gew.Nr. 198 Knockster Tief
-E 32378488 E 32377151
-N 5918766 N 5920705
+E 32378488
+N 5918766
 Gew.Nr. 129 Gr. Sander Schöpfwerksschloot
-E 32385473 E 32385558
-N 5922528 N 5922017
+E 32385473
+N 5922528
 Loppersumer Meer
-E 32385318 E 32386240
-N 5922534 N 5922454
+E 32385318
+N 5922534
 Gew.Nr. 42 Botterfleth
-E 32382377 E 32383631
-N 5926713 N 5926250
+E 32382377
+N 5926713
 Gew.Nr. Osterupganter Zugschloot
-E 32386733 E 32386970
-N 5931419 N 5932007
+E 32386733
+N 5931419
 Gew.Nr. 58 Campener Tief
-E 32372064 E 32368071
-N 5917876 N 5919332
+E 32372064
+N 5917876
 Gew.Nr. 136 Hauener Tief
-E 32371354 E 32370656
-N 5929139 N 5928839
+E 32371354
+N 5929139
 Gew.Nr. 343 Schoonorther Polderschloot
-E 32379707 E 32379862
-N 5929183 N 5931114
+E 32379707
+N 5929183
 Gew.Nr. 40 Bollandswater
-E 32386160 E 32385979
-N 5929226 N 5930082
+E 32386160
+N 5929226
 Gew.Nr. 297 Pilsumer Tief
-E 32372672 E 32370404
-N 5928897 N 5929383
+E 32372672
+N 5928897
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32391462 E 32391489
-N 5929088 N 5932890
+E 32391462
+N 5929088
 Gew.Nr. 93
-E 32396015 E 32397661
-126Gr. Horenburgerschloot Aurich
-131Hackereischloot Aurich
-132Hamswehrumer Tief Aurich
-129Gr. Sander Schöpfwerksschloot Aurich
-130Habelandenschloot Aurich
-127Groß Midlumer Tief Aurich
-128Gr. Sanderschloot Aurich
-137Hauptzuggraben Moorhusen-Münkeboe Aurich
-138Haxtumer Schloot Aurich
-135Haneburgerschloot Aurich
-136Hauener Tief Aurich
-133Hamschwester Escher Aurich
-134Hagenpolderschloot Aurich
+E 32396015
 
-N 5925220 N 5925083
+E 32369293
+N 5925694
+E 32377151
+N 5920705
+E 32385558
+N 5922017
+E 32386240
+N 5922454
+E 32383631
+N 5926250
+E 32386970
+N 5932007
+E 32368071
+N 5919332
+E 32370656
+N 5928839
+E 32379862
+N 5931114
+E 32385979
+N 5930082
+E 32370404
+N 5929383
+E 32391489
+N 5932890
+E 32397661
+
+139
+
+Heikeschloot
+
+Aurich
+
+140
+
+Hellingschloot
+
+Aurich
+
+141
+
+Hellschloot
+
+Aurich
+
+142
+
+Haneborgschloot
+
+Aurich
+
+143
+
+Harsweger Vorfluter
+
+Emden
+
+144
+
+Heerwegschloot
+
+Emden
+
+145
+
+Helenenhofschloot
+
+Aurich
+
+146
+
+Helsmuhderschloot
+
+Aurich
+
+147
+
+Herrenhofschloot
+
+Aurich
+
+148
+
+Herrenhüttener Zuggraben
+
+Aurich
+
+149
+
+Heller Polderschloot
+
+Aurich
+
+150
+
+Hillmers Sandschloot
+
+Aurich
+
+N 5925220
 Hieve
-E 32385880 E 32386605
-N 5919860 N 5919919
+E 32385880
+N 5919860
 Gew.Nr. 448 Altes Binnentief
-E 32373510 E 32373894
-N 5929477 N 5930255
+E 32373510
+N 5929477
 Gew.Nr. 2 Abelitz
-E 32384092 E 32384903
-N 5926435 N 5926676
+E 32384092
+N 5926435
 Gew.Nr. 201 Kurzes Tief
-E 32383845 E 32382888
-N 5918330 N 5920072
+E 32383845
+N 5918330
 Gew.Nr. 368 Trecktief
-E 32382919 E 32380984
-N 5917519 N 5917454
+E 32382919
+N 5917519
 Gew.Nr. 353 Stadtwykschloot
-E 32379502 E 32379879
-N 5917826 N 5918403
+E 32379502
+N 5917826
 Gew.Nr. 293 Pewsumer Tief
-E 32374188 E 32375321
-N 5922655 N 5923523
+E 32374188
+N 5922655
 Gew.Nr. 255 Münkeboeer Riede
-E 32391804 E 32392471
-N 5931280 N 5931518
+E 32391804
+N 5931280
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32382594 E 32381924
-N 5929194 N 5928191
+E 32382594
+N 5929194
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32389678 E 32394142
-N 5924371 N 5925996
+E 32389678
+N 5924371
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32374834 E 32375836
-N 5930217 N 5929243
+E 32374834
+N 5930217
 Gew.Nr. 33 Bedekaspeler Schloot
-E 32387694 E 32387539
-N 5922798 N 5923356
+E 32387694
+N 5922798
 Gew.Nr. 165 Van Hove Tief
 
-143Harsweger Vorfluter Emden
-144Heerwegschloot Emden
-141Hellschloot Aurich
-142Haneborgschloot Aurich
-139Heikeschloot Aurich
-140Hellingschloot Aurich
-149Heller Polderschloot Aurich
-150Hillmers Sandschloot Aurich
-147Herrenhofschloot Aurich
-148Herrenhüttener Zuggraben Aurich
-145Helenenhofschloot Aurich
-146Helsmuhderschloot Aurich
+N 5925083
+E 32386605
+N 5919919
+E 32373894
+N 5930255
+E 32384903
+N 5926676
+E 32382888
+N 5920072
+E 32380984
+N 5917454
+E 32379879
+N 5918403
+E 32375321
+N 5923523
+E 32392471
+N 5931518
+E 32381924
+N 5928191
+E 32394142
+N 5925996
+E 32375836
+N 5929243
+E 32387539
+N 5923356
 
-E 32383768 E 32384211
-N 5931639 N 5932147
+151
+
+Hingstlandswegschloot
+
+152
+
+Hinter Tief
+
+153
+
+Hinter Theenerschloot
+
+154
+
+Hiwkeschloot
+
+155
+
+Hoekschloot
+
+156
+
+Hörenschloot
+
+158
+
+Hochlandschloot
+
+159
+
+Hoogehenkeschloot
+
+160
+
+Hogelüchtschloot
+
+161
+
+Hoogetiepkeschloot
+
+162
+
+Hoogewegschloot
+
+163
+
+Hohe Plateschloot
+
+164
+
+Hohe Wasserleitung
+
+E 32383768
+N 5931639
 Gew.Nr. 198 Knockster Tief
-E 32379963 E 32380527
-N 5919189 N 5914908
+Emd/Aur E 32379963
+N 5919189
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32392440 E 32392433
-N 5924264 N 5924653
+E 32392440
+Aurich
+N 5924264
 Gew.Nr. 415 Westerender Ehe
-E 32388158 E 32390585
-N 5919403 N 5922383
+E 32388158
+Aurich
+N 5919403
 Gew.Nr. 402 Vorwerker Schöpfwerksschloot
-E 32374967 E 32376164
-N 5912873 N 5913152
+E 32374967
+Emden
+N 5912873
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32392907 E 32393651
-N 5924773 N 5924729
+E 32392907
+Aurich
+N 5924773
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32390832 E 32391582
-N 5932609 N 5932448
+E 32390832
+Aurich
+N 5932609
 Gew.Nr. 17 Altes Tief
-E 32369742 E 32370496
-N 5914294 N 5914765
+E 32369742
+Aurich
+N 5914294
 Gew.Nr. 358 Strengschloot
-E 32384487 E 32385136
-N 5924127 N 5924796
+E 32384487
+Aurich
+N 5924127
 Gew.Nr. 17 Altes Tief
-E 32369766 E 32371296
-N 5914784 N 5914624
+E 32369766
+Aurich
+N 5914784
 Gew.Nr. 380 Untersloet
-E 32372115 E 32372264
-N 5925400 N 5926299
+E 32372115
+Aurich
+N 5925400
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32376857 E 32377958
-N 5932334 N 5931269
+E 32376857
+Aurich
+N 5932334
 Gew.Nr. 382 Upganter Zugschloot
-E 32386217 E 32389877
-N 5931931 N 5933072
-155Hoekschloot Emden
-156Hörenschloot Aurich
-153Hinter Theenerschloot Aurich
-154Hiwkeschloot Aurich
-151Hingstlandswegschloot Aurich
-152Hinter Tief Emd/Aur
-162Hoogewegschloot Aurich
-163Hohe Plateschloot Aurich
-160Hogelüchtschloot Aurich
-161Hoogetiepkeschloot Aurich
-158Hochlandschloot Aurich
-159Hoogehenkeschloot Aurich
-164Hohe Wasserleitung Aurich
+E 32386217
+Aurich
+N 5931931
+
+Aurich
+
+E 32384211
+N 5932147
+E 32380527
+N 5914908
+E 32392433
+N 5924653
+E 32390585
+N 5922383
+E 32376164
+N 5913152
+E 32393651
+N 5924729
+E 32391582
+N 5932448
+E 32370496
+N 5914765
+E 32385136
+N 5924796
+E 32371296
+N 5914624
+E 32372264
+N 5926299
+E 32377958
+N 5931269
+E 32389877
+N 5933072
+
+165
+
+Van Hove Tief
+
+Aurich
+
+166
+
+Jappenlandschloot
+
+Aurich
+
+167
+
+Jheringslandschloot
+
+Aurich
+
+168
+
+Jennelter Tief
+
+Aurich
+
+169
+
+Ihlderholtschloot
+
+Emden
+
+170
+
+Ihlingswarfschloot
+
+Aurich
+
+171
+
+Kaiser Wilhelm Schloot
+
+Emden
+
+172
+
+Kahlemeerschloot
+
+Aurich
+
+173
+
+Kanalschloot
+
+Aurich
+
+174
+
+Karkfennenschloot
+
+Aurich
+
+175
+
+Karlshofschloot
+
+Aurich
+
+176
+
+Karl Wenholt Schloot
+
+Aurich
+
+177
+
+Kaulwegschloot
+
+Aurich
 
 Gew.Nr. 2 Abelitz
-E 32384145 E 32382726
-N 5931660 N 5933993
+E 32384145
+N 5931660
 Gew.Nr. 232 Meedekanal
-E 32387961 E 32387234
-N 5924745 N 5925089
+E 32387961
+N 5924745
 Gew.Nr. 232 Meedekanal
-E 32386949 E 32386235
-N 5924328 N 5924847
+E 32386949
+N 5924328
 Gew.Nr. 394 Uttumer Tief
-E 32376886 E 32375790
-N 5925383 N 5925230
+E 32376886
+N 5925383
 Gew.Nr. 276 Onkedreischloot
-E 32373924 E 32373378
-N 5914157 N 5914663
+E 32373924
+N 5914157
 Gew.Nr. 444 Zugschloot durch Marienhafe
-E 32384832 E 32384526
-N 5931758 N 5930831
+E 32384832
+N 5931758
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32377695 E 32379716
-N 5914711 N 5914986
+E 32377695
+N 5914711
 Gew.Nr. 198 Knockster Tief
-E 32377596 E 32377227
-N 5918426 N 5918912
+E 32377596
+N 5918426
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32392305 E 32392017
-N 5928802 N 5927740
+E 32392305
+N 5928802
 Gew.Nr. 45 Breike
-E 32389329 E 32389961
-N 5922488 N 5923044
+E 32389329
+N 5922488
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32379197 E 32377256
-N 5926076 N 5924830
+E 32379197
+N 5926076
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32375087 E 32376091
-N 5930482 N 5929508
+E 32375087
+N 5930482
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32377222 E 32378609
-168Jennelter Tief Aurich
-169Ihlderholtschloot Emden
-166Jappenlandschloot Aurich
-167Jheringslandschloot Aurich
-165Van Hove Tief Aurich
-174Karkfennenschloot Aurich
-175Karlshofschloot Aurich
-172Kahlemeerschloot Aurich
-173Kanalschloot Aurich
-170Ihlingswarfschloot Aurich
-171Kaiser Wilhelm Schloot Emden
-176Karl Wenholt Schloot Aurich
-177Kaulwegschloot Aurich
+E 32377222
 
-N 5932713 N 5931400
+E 32382726
+N 5933993
+E 32387234
+N 5925089
+E 32386235
+N 5924847
+E 32375790
+N 5925230
+E 32373378
+N 5914663
+E 32384526
+N 5930831
+E 32379716
+N 5914986
+E 32377227
+N 5918912
+E 32392017
+N 5927740
+E 32389961
+N 5923044
+E 32377256
+N 5924830
+E 32376091
+N 5929508
+E 32378609
+
+178
+
+Kaukenmeerschloot
+
+Aurich
+
+179
+
+Kiebitzschloot
+
+Aurich
+
+180
+
+Kielschloot
+
+Aurich
+
+181
+
+Kirchenschloot
+
+Aurich
+
+182
+
+Kirchwegschloot
+
+Aurich
+
+183
+
+Klärteichschloot
+
+Aurich
+
+184
+
+Knüvenschloot
+
+Aurich
+
+185
+
+Kleine Bultschloot
+
+Aurich
+
+186
+
+Kl. Ringstraßenschloot
+
+Aurich
+
+187
+
+Kl. Heikelander Schloot
+
+Aurich
+
+188
+
+Kl. Horenburgerschloot
+
+Aurich
+
+189
+
+Kl. Sander Schöpfwerksschloot
+
+Aurich
+
+N 5932713
 Gew.Nr. 66 Concordiaschloot
-E 32377179 E 32376896
-N 5918248 N 5917752
+E 32377179
+N 5918248
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32389175 E 32389279
-N 5927678 N 5928338
+E 32389175
+N 5927678
 Gew.Nr. 42 Botterfleth
-E 32382404 E 32381187
-N 5926414 N 5926514
+E 32382404
+N 5926414
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32389891 E 32390200
-N 5928192 N 5927608
+E 32389891
+N 5928192
 Gew.Nr. 113 Graben A
-E 32385253 E 32389908
-N 5932648 N 5934019
+E 32385253
+N 5932648
 Gew.Nr. 225 Maar
-E 32387458 E 32387886
-N 5928601 N 5928037
+E 32387458
+N 5928601
 Gew.Nr. 415 Westerender Ehe
-E 32395852 E 32395876
-N 5925088 N 5925761
+E 32395852
+N 5925088
 Gew.Nr. 97 Ferienhausschloot
-E 32387330 E 32386472
-N 5924115 N 5923891
+E 32387330
+N 5924115
 Gew.Nr. 362 Theener Neulandschloot
-E 32392214 E 32392346
-N 5926444 N 5926528
+E 32392214
+N 5926444
 Gew.Nr. 262 Neue Maar
-E 32384067 E 32383434
-N 5922924 N 5922466
+E 32384067
+N 5922924
 Gew.Nr. 380 Untersloet
-E 32371592 E 32371190
-N 5925774 N 5925357
+E 32371592
+N 5925774
 Gew.Nr. 340 Süderriede
-E 32385689 E 32385712
-N 5921384 N 5920191
+E 32385689
+N 5921384
 Gew.Nr. 394 Uttumer Tief
-180Kielschloot Aurich
-181Kirchenschloot Aurich
-178Kaukenmeerschloot Aurich
-179Kiebitzschloot Aurich
 
-186Kl. Ringstraßenschloot Aurich
-187Kl. Heikelander Schloot Aurich
-184Knüvenschloot Aurich
-185Kleine Bultschloot Aurich
-182Kirchwegschloot Aurich
-183Klärteichschloot Aurich
+N 5931400
+E 32376896
+N 5917752
+E 32389279
+N 5928338
+E 32381187
+N 5926514
+E 32390200
+N 5927608
+E 32389908
+N 5934019
+E 32387886
+N 5928037
+E 32395876
+N 5925761
+E 32386472
+N 5923891
+E 32392346
+N 5926528
+E 32383434
+N 5922466
+E 32371190
+N 5925357
+E 32385712
+N 5920191
 
-188Kl. Horenburgerschloot Aurich
-189Kl. Sander Schöpfwerksschloot Aurich
+190
 
-E 32376886 E 32378666
-N 5925383 N 5925720
+Kl. Wolderschloot
+
+191
+
+Kloster Alandschloot
+
+192
+
+Kloster Alander Schöpfwerksschloot
+
+193
+
+Kloster Fennenschloot
+
+194
+
+Kloster Uppingenschloot
+
+195
+
+Klugkistschloot
+
+196
+
+Klunnerbültschloot
+
+197
+
+Knockster Schöpfwerkstief
+
+198
+
+Knockster Tief
+
+199
+
+Kobbelwarfschloot
+
+200
+
+Kolkschloot
+
+201
+
+Kurzes Tief
+
+202
+
+Landlustschloot
+
+E 32376886
+N 5925383
 Gew.Nr. 192 Kloster Alander Schöpfwerksschloot
-E 32381552 E 32381074
-N 5924187 N 5923887
+E 32381552
+Aurich
+N 5924187
 Gew.Nr. 234 Meer Alandschloot
-E 32382111 E 32380982
-N 5924258 N 5924296
+E 32382111
+Aurich
+N 5924258
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32381177 E 32381396
-N 5925767 N 5926183
+E 32381177
+Aurich
+N 5925767
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32379348 E 32379248
-N 5923949 N 5925102
+E 32379348
+Aurich
+N 5923949
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32389256 E 32389671
-N 5927767 N 5927574
+E 32389256
+Aurich
+N 5927767
 Gew.Nr. 291 Peerfennenschloot
-E 32387977 E 32388398
-N 5920678 N 5921810
+E 32387977
+Aurich
+N 5920678
 Gew.Nr. 17 Altes Tief
-E 32369775 E 32372311
-N 5913174 N 5915017
+Emd/Aur E 32369775
+N 5913174
 Ems (Knock)
-E 32368366 E 32386378
-N 5911424 N 5922776
+Emd/Aur E 32368366
+N 5911424
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32385393 E 32385724
-N 5925349 N 5926664
+E 32385393
+Aurich
+N 5925349
 Gew.Nr. 95 Fehnhuserschloot
-E 32386795 E 32386999
-N 5930217 N 5930691
+E 32386795
+Aurich
+N 5930217
 Gew.Nr. 368 Trecktief
-E 32383681 E 32385015
-N 5918183 N 5919231
+Emden E 32383681
+N 5918183
 Gew.Nr. 208 Larrelter Schöpfwerkstief
-E 32377132 E 32376995
-N 5915053 N 5917524
-192Kloster Alander Schöpfwerksschloot Aurich
-193Kloster Fennenschloot Aurich
-190Kl. Wolderschloot Aurich
-191Kloster Alandschloot Aurich
-198Knockster Tief Emd/Aur
-199Kobbelwarfschloot Aurich
-196Klunnerbültschloot Aurich
-197Knockster Schöpfwerkstief Emd/Aur
-194Kloster Uppingenschloot Aurich
-195Klugkistschloot Aurich
-202Landlustschloot Emden
-200Kolkschloot Aurich
-201Kurzes Tief Emden
+E 32377132
+Emden
+N 5915053
+
+Aurich
+
+E 32378666
+N 5925720
+E 32381074
+N 5923887
+E 32380982
+N 5924296
+E 32381396
+N 5926183
+E 32379248
+N 5925102
+E 32389671
+N 5927574
+E 32388398
+N 5921810
+E 32372311
+N 5915017
+E 32386378
+N 5922776
+E 32385724
+N 5926664
+E 32386999
+N 5930691
+E 32385015
+N 5919231
+E 32376995
+N 5917524
+
+203
+
+Langemeedenschloot
+
+Aurich
+
+204
+
+Lange Butterlandschloot
+
+Aurich
+
+205
+
+Lange Äckerschloot
+
+Aurich
+
+206
+
+Langer Dorfwegschloot
+
+Aurich
+
+207
+
+Langereckschloot
+
+Aurich
+
+208
+
+Larrelter Schöpfwerkstief
+
+Emden
+
+209
+
+Larrelter Tief
+
+Emden
+
+210
+
+Lerchenschloot
+
+Aurich
+
+211
+
+Leegelandschloot
+
+Aurich
+
+212
+
+Leybuchtmittelgraben
+
+Aurich
+
+213
+
+Leybuchtsammelgraben
+
+Aurich
+
+214
+
+Leydeichschloot
+
+Aurich
+
+215
+
+Logumer Tief
+
+Emden
 
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32376640 E 32377022
-N 5927889 N 5928617
+E 32376640
+N 5927889
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373587 E 32372795
-N 5926065 N 5926587
+E 32373587
+N 5926065
 Gew.Nr. 113 Graben A
-E 32385585 E 32386064
-N 5932709 N 5933840
+E 32385585
+N 5932709
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32392817 E 32393181
-N 5928296 N 5928834
+E 32392817
+N 5928296
 Gew.Nr. 385 Upender Zuggraben
-E 32389852 E 32390548
-N 5930503 N 5931210
+E 32389852
+N 5930503
 Gew.Nr. 209 Larreleter Tief
-E 32377108 E 32375983
-N 5914953 N 5917341
+E 32377108
+N 5914953
 Gew.Nr. 198 Knockster Tief
-E 32373181 E 32380163
-N 5915893 N 5914858
+E 32373181
+N 5915893
 Gew.Nr. Buschplatzschoot
-E 32390356 E 32390902
-N 5924806 N 5924843
+E 32390356
+N 5924806
 Gew.Nr. 227 Manslagter Tief
-E 32373314 E 32373078
-N 5924914 N 5925562
+E 32373314
+N 5924914
 Gew.Nr. 227 Manslagter Tief
-E 32375842 E 32378720
-N 5931271 N 5931221
+E 32375842
+N 5931271
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32373895 E 32377615
-N 5929638 N 5933121
+E 32373895
+N 5929638
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32377492 E 32378454
-N 5932993 N 5932058
+E 32377492
+N 5932993
 Gew.Nr. 437 Wybelsumer Tief
-E 32375323 E 32375761
-204Lange Butterlandschloot Aurich
-205Lange Äckerschloot Aurich
-203Langemeedenschloot Aurich
-210Lerchenschloot Aurich
-211Leegelandschloot Aurich
-208Larrelter Schöpfwerkstief Emden
-209Larrelter Tief Emden
-206Langer Dorfwegschloot Aurich
-207Langereckschloot Aurich
-214Leydeichschloot Aurich
-215Logumer Tief Emden
-212Leybuchtmittelgraben Aurich
-213Leybuchtsammelgraben Aurich
+E 32375323
 
-N 5914013 N 5913054
+E 32377022
+N 5928617
+E 32372795
+N 5926587
+E 32386064
+N 5933840
+E 32393181
+N 5928834
+E 32390548
+N 5931210
+E 32375983
+N 5917341
+E 32380163
+N 5914858
+E 32390902
+N 5924843
+E 32373078
+N 5925562
+E 32378720
+N 5931221
+E 32377615
+N 5933121
+E 32378454
+N 5932058
+E 32375761
+
+216
+
+Loogschloot
+
+Aurich
+
+217
+
+Longewehrschloot
+
+Aurich
+
+218
+
+Loppersumer Tief
+
+Aurich
+
+219
+
+Loodenschloot
+
+Aurich
+
+220
+
+Loquarder Tief
+
+Aurich
+
+221
+
+Loquarder Escherschloot
+
+Aurich
+
+222
+
+Loquarder Meedenschloot
+
+Aurich
+
+223
+
+Loquarder Schöpfwerkstief
+
+Aurich
+
+224
+
+Lüttje Leegelandschloot
+
+Aurich
+
+225
+
+Maar
+
+Aurich
+
+226
+
+Mannenmeedenschloot
+
+Aurich
+
+227
+
+Manslagter Tief
+
+Aurich
+
+N 5914013
 Gew.Nr. 297 Pilsumer Tief
-E 32371652 E 32372051
-N 5927710 N 5927227
+E 32371652
+N 5927710
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32383331 E 32381658
-N 5924468 N 5923575
+E 32383331
+N 5924468
 Gew.Nr. 341 Suurhuser Hammrichschloot
-E 32382847 E 32385251
-N 5920807 N 5920139
+E 32382847
+N 5920807
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32374110 E 32373466
-N 5929179 N 5928896
+E 32374110
+N 5929179
 Gew.Nr. 198 Knockster Tief
-E 32373179 E 32368979
-N 5915883 N 5918204
+E 32373179
+N 5915883
 Gew.Nr. 220 Loquarder Tief
-E 32370327 E 32368609
-N 5916886 N 5917608
+E 32370327
+N 5916886
 Gew.Nr. 223 Loquarder Schöpfwerkstief
-E 32372400 E 32370376
-N 5915842 N 5916653
+E 32372400
+N 5915842
 Gew.Nr. 197 Knockster Schöpfwerkstief
-E 32372311 E 32372298
-N 5915017 N 5916848
+E 32372311
+N 5915017
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373589 E 32374105
-N 5925101 N 5925086
+E 32373589
+N 5925101
 Gew.Nr. 2 Abelitz
-E 32384383 E 32390713
-N 5928523 N 5928546
+E 32384383
+N 5928523
 Gew.Nr. 397 Visquarder Meedenschloot
-E 32374154 E 32374898
-N 5926572 N 5926996
+E 32374154
+N 5926572
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373469 E 32368801
-N 5925235 N 5924335
+E 32373469
+N 5925235
 Gew.Nr. 229 Magotspolderquergraben
-216Loogschloot Aurich
-217Longewehrschloot Aurich
 
-222Loquarder Meedenschloot Aurich
-223Loquarder Schöpfwerkstief Aurich
-220Loquarder Tief Aurich
-221Loquarder Escherschloot Aurich
-218Loppersumer Tief Aurich
-219Loodenschloot Aurich
+N 5913054
+E 32372051
+N 5927227
+E 32381658
+N 5923575
+E 32385251
+N 5920139
+E 32373466
+N 5928896
+E 32368979
+N 5918204
+E 32368609
+N 5917608
+E 32370376
+N 5916653
+E 32372298
+N 5916848
+E 32374105
+N 5925086
+E 32390713
+N 5928546
+E 32374898
+N 5926996
+E 32368801
+N 5924335
 
-226Mannenmeedenschloot Aurich
-227Manslagter Tief Aurich
-224Lüttje Leegelandschloot Aurich
-225Maar Aurich
+228
 
-E 32378694 E 32379323
-N 5928131 N 5928757
+Magotpolderdeichschloot
+
+Aurich
+
+229
+
+Magotpolderquergraben
+
+Aurich
+
+230
+
+Marienhofschloot
+
+Aurich
+
+231
+
+Marscher Tief
+
+Aurich
+
+232
+
+Meedekanal
+
+Aurich
+
+233
+
+Meevenburgschloot
+
+Aurich
+
+234
+
+Meer Alandschloot
+
+Aurich
+
+236
+
+Meerlandschloot
+
+Aurich
+
+237
+
+Meerkompanieschloot
+
+Aurich
+
+238
+
+Meerwegschloot
+
+Aurich
+
+239
+
+Metzlandschloot
+
+Aurich
+
+240
+
+Middenstfennenschloot
+
+Emden
+
+241
+
+Middelstewehrschloot
+
+Aurich
+
+E 32378694
+N 5928131
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32378721 E 32378106
-N 5928088 N 5928317
+E 32378721
+N 5928088
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32394374 E 32395068
-N 5925796 N 5926126
+E 32394374
+N 5925796
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32385809 E 32386020
-N 5925457 N 5919945
+E 32385809
+N 5925457
 Gew.Nr. 231 Marscher Tief
-E 32386519 E 32390313
-N 5924080 N 5926400
+E 32386519
+N 5924080
 Gew.Nr. 165 Van Hove Tief
-E 32382745 E 32379942
-N 5932123 N 5931784
+E 32382745
+N 5932123
 Gew.Nr. 217 Longewehrschloot
-E 32382528 E 32381456
-N 5923864 N 5925274
+E 32382528
+N 5923864
 Gew.Nr. 394 Uttumer Tief
-E 32377938 E 32378554
-N 5924222 N 5924772
+E 32377938
+N 5924222
 Gew.Nr. 102 Freepsumer Meerschloot
-E 32375873 E 32377175
-N 5919597 N 5919807
+E 32375873
+N 5919597
 Gew.Nr. 323 Rysumer Hammrichschloot
-E 32368526 E 32369105
-N 5915146 N 5915081
+E 32368526
+N 5915146
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32375586 E 32377350
-N 5923705 N 5923859
+E 32375586
+N 5923705
 Gew.Nr. 368 Trecktief
-E 32382535 E 32384286
-N 5917017 N 5916469
+E 32382535
+N 5917017
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32375881 E 32375252
-N 5928221 N 5926412
-228Magotpolderdeichschloot Aurich
-229Magotpolderquergraben Aurich
-234Meer Alandschloot Aurich
-236Meerlandschloot Aurich
-232Meedekanal Aurich
-233Meevenburgschloot Aurich
-230Marienhofschloot Aurich
-231Marscher Tief Aurich
-241Middelstewehrschloot Aurich
-239Metzlandschloot Aurich
-240Middenstfennenschloot Emden
-237Meerkompanieschloot Aurich
-238Meerwegschloot Aurich
+E 32375881
+N 5928221
+
+E 32379323
+N 5928757
+E 32378106
+N 5928317
+E 32395068
+N 5926126
+E 32386020
+N 5919945
+E 32390313
+N 5926400
+E 32379942
+N 5931784
+E 32381456
+N 5925274
+E 32378554
+N 5924772
+E 32377175
+N 5919807
+E 32369105
+N 5915081
+E 32377350
+N 5923859
+E 32384286
+N 5916469
+E 32375252
+N 5926412
+
+242
+
+Midlumer Tief
+
+Aurich
+
+243
+
+Midlumer Meedeschloot
+
+Aurich
+
+244
+
+Mittelgraben
+
+Aurich
+
+245
+
+Mittelschloot
+
+Aurich
+
+246
+
+Mövenschloot
+
+Aurich
+
+247
+
+Moordorfer Schloot
+
+Aurich
+
+248
+
+Moordorfer Kreisstraßenschloot
+
+Aurich
+
+249
+
+Moorburger Äckerschloot
+
+Aurich
+
+250
+
+Moorwegschloot
+
+Aurich
+
+251
+
+Mudderpott
+
+Aurich
+
+252
+
+Müggenburgschloot
+
+Emden
+
+253
+
+Mühlenschloot
+
+Aurich
+
+254
+
+Müllers Fenneschloot
+
+Aurich
 
 Gew.Nr. 198 Knockster Tief
-E 32378311 E 32377765
-N 5918674 N 5919281
+E 32378311
+N 5918674
 Gew.Nr. 198 Knockster Tief
-E 32377765 E 32377891
-N 5918437 N 5917413
+E 32377765
+N 5918437
 Gew.Nr. 213 Leybuchtsammelgraben
-E 32376121 E 32376852
-N 5931562 N 5930818
+E 32376121
+N 5931562
 Gew.Nr. 2 Abelitz
-E 32384102 E 32382690
-N 5933600 N 5933248
+E 32384102
+N 5933600
 Gew.Nr. 117 Grimersumer Escherschloot
-E 32379289 E 32379672
-N 5927467 N 5927454
+E 32379289
+N 5927467
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32393702 E 32393295
-N 5925431 N 5926023
+E 32393702
+N 5925431
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32393154 E 32392778
-N 5925084 N 5925769
+E 32393154
+N 5925084
 Gew.Nr. 385 Upender Zuggraben
-E 32389763 E 32389227
-N 5930562 N 5931040
+E 32389763
+N 5930562
 Gew.Nr. 135 Haneburgerschloot
-E 32386181 E 32386783
-N 5929354 N 5929848
+E 32386181
+N 5929354
 Gew.Nr. 45 Breike
-E 32389294 E 32388616
-N 5922550 N 5922174
+E 32389294
+N 5922550
 Gew.Nr. 437 Wybelsumer Tief
-E 32375742 E 32376221
-N 5914258 N 5913442
+E 32375742
+N 5914258
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32391165 E 32391725
-N 5930842 N 5932140
+E 32391165
+N 5930842
 Gew.Nr. 97 Ferienhausschloot
-E 32387330 E 32388028
-242Midlumer Tief Aurich
-247Moordorfer Schloot Aurich
-248Moordorfer Kreisstraßenschloot Aurich
-245Mittelschloot Aurich
-246Mövenschloot Aurich
-243Midlumer Meedeschloot Aurich
-244Mittelgraben Aurich
-253Mühlenschloot Aurich
-254Müllers Fenneschloot Aurich
-251Mudderpott Aurich
-252Müggenburgschloot Emden
-249Moorburger Äckerschloot Aurich
-250Moorwegschloot Aurich
+E 32387330
 
-N 5924115 N 5923816
+E 32377765
+N 5919281
+E 32377891
+N 5917413
+E 32376852
+N 5930818
+E 32382690
+N 5933248
+E 32379672
+N 5927454
+E 32393295
+N 5926023
+E 32392778
+N 5925769
+E 32389227
+N 5931040
+E 32386783
+N 5929848
+E 32388616
+N 5922174
+E 32376221
+N 5913442
+E 32391725
+N 5932140
+E 32388028
+
+255
+
+Münkeboeer Riede
+
+Aurich
+
+256
+
+Neu Haunenerschloot
+
+Aurich
+
+257
+
+Neuer Helsmuhderschloot
+
+Aurich
+
+258
+
+Neulandschloot
+
+Aurich
+
+259
+
+Neues Greetsieler Sieltief
+
+Aurich
+
+260
+
+Neelenhofschloot
+
+Emden
+
+261
+
+Neuloquarderschloot
+
+Aurich
+
+262
+
+Neue Maar
+
+Aurich
+
+263
+
+Neu-Siegelsumerschloot
+
+Aurich
+
+264
+
+Nesserlanderschloot
+
+Emden
+
+265
+
+Niederemsischer Deichachtschloot
+
+Emden
+
+266
+
+Nienhoferschloot
+
+Aurich
+
+N 5924115
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32391107 E 32391871
-N 5930306 N 5932356
+E 32391107
+N 5930306
 Gew.Nr. 6 Akkensschloot
-E 32372340 E 32372323
-N 5929562 N 5930463
+E 32372340
+N 5929562
 Gew.Nr. 146 Helsmuhdeschloot
-E 32391906 E 32392703
-N 5931364 N 5931266
+E 32391906
+N 5931364
 Gew.Nr. 72 Diekenshofschloot
-E 32381081 E 32381501
-N 5928090 N 5928616
+E 32381081
+N 5928090
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32373805 E 32379937
-N 5929439 N 5919806
+E 32373805
+N 5929439
 Gew.Nr. 319 Rothe Vorwerkschloot
-E 32372362 E 32372955
-N 5913240 N 5914634
+E 32372362
+N 5913240
 Gew.Nr. 58 Campener Tief
-E 32370956 E 32368939
-N 5918338 N 5918740
+E 32370956
+N 5918338
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32384047 E 32384187
-N 5922953 N 5922649
+E 32384047
+N 5922953
 Gew.Nr. 285 Osterupganter Zugschloot
-E 32388139 E 32387866
-N 5931099 N 5930810
+E 32388139
+N 5931099
 Gew.Nr. 436 Wybelsumer Poldertief
-E 32377594 E 32377642
-N 5911237 N 5912172
+E 32377594
+N 5911237
 Gew.Nr. 436 Wybelsumer Poldertief
-E 32370714 E 32377681
-N 5911919 N 5915021
+E 32370714
+N 5911919
 Gew.Nr. 380 Untersloet
-E 32371156 E 32370000
-N 5926333 N 5925500
+E 32371156
+N 5926333
 Gew.Nr. 212 Leybuchtmittelgraben
 
-259Neues Greetsieler Sieltief Aurich
-260Neelenhofschloot Emden
-257Neuer Helsmuhderschloot Aurich
-258Neulandschloot Aurich
-255Münkeboeer Riede Aurich
-256Neu Haunenerschloot Aurich
-265Niederemsischer Deichachtschloot Emden
-266Nienhoferschloot Aurich
-263Neu-Siegelsumerschloot Aurich
-264Nesserlanderschloot Emden
-261Neuloquarderschloot Aurich
-262Neue Maar Aurich
+N 5923816
+E 32391871
+N 5932356
+E 32372323
+N 5930463
+E 32392703
+N 5931266
+E 32381501
+N 5928616
+E 32379937
+N 5919806
+E 32372955
+N 5914634
+E 32368939
+N 5918740
+E 32384187
+N 5922649
+E 32387866
+N 5930810
+E 32377642
+N 5912172
+E 32377681
+N 5915021
+E 32370000
+N 5925500
 
-E 32376048 E 32376694
-N 5931075 N 5929461
+267
+
+Norderstraßenschloot
+
+Aurich
+
+268
+
+Nordseitenschloot
+
+Aurich
+
+269
+
+Nordfennenschloot
+
+Aurich
+
+270
+
+Obersloet
+
+Aurich
+
+271
+
+Ockerwegfennenschloot
+
+Aurich
+
+272
+
+Ochsenkampschloot
+
+Aurich
+
+273
+
+Oldeborger Gasteschloot
+
+Aurich
+
+274
+
+Oldeborger Äckerschloot
+
+Aurich
+
+275
+
+Ochsenfennenschloot
+
+Aurich
+
+276
+
+Onkedreischloot
+
+Emden
+
+277
+
+Oreartschloot
+
+Aurich
+
+278
+
+Ortswegschloot
+
+Aurich
+
+279
+
+Osteeler Altendeichschloot
+
+Aurich
+
+E 32376048
+N 5931075
 Gew.Nr. 382 Upganter Zugschloot
-E 32388378 E 32388398
-N 5932949 N 5932297
+E 32388378
+N 5932949
 Gew.Nr. 154 Hiwkeschloot
-E 32390532 E 32392775
-N 5922367 N 5922493
+E 32390532
+N 5922367
 Gew.Nr. 266 Nienhoferschloot
-E 32370419 E 32369852
-N 5926151 N 5926780
+E 32370419
+N 5926151
 Gew.Nr. 342A Suurhuser Waterlösen
-E 32382094 E 32383429
-N 5920214 N 5918853
+E 32382094
+N 5920214
 Gew.Nr. 283 Osterhuser Tief
-E 32381473 E 32380334
-N 5920955 N 5921155
+E 32381473
+N 5920955
 Gew.Nr. 225 Maar
-E 32388616 E 32388949
-N 5928948 N 5929974
+E 32388616
+N 5928948
 Gew.Nr. 225 Maar
-E 32389761 E 32388467
-N 5928946 N 5930468
+E 32389761
+N 5928946
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32378084 E 32378142
-N 5926914 N 5927465
+E 32378084
+N 5926914
 Gew.Nr. 435 Wybelsumer Schöpfwerkstief
-E 32374570 E 32373292
-N 5913820 N 5915041
+E 32374570
+N 5913820
 Gew.Nr. 397 Visquarder Meedenschloot
-E 32374142 E 32375072
-N 5926440 N 5926622
+E 32374142
+N 5926440
 Gew.Nr. 227 Manslagter Tief
-E 32372993 E 32372699
-N 5924819 N 5926450
+E 32372993
+N 5924819
 Gew.Nr. 314 Reithammerschloot
-E 32381319 E 32382750
-N 5932468 N 5933787
-271Ockerwegfennenschloot Aurich
-272Ochsenkampschloot Aurich
-269Nordfennenschloot Aurich
-270Obersloet Aurich
-267Norderstraßenschloot Aurich
-268Nordseitenschloot Aurich
-277Oreartschloot Aurich
-278Ortswegschloot Aurich
-275Ochsenfennenschloot Aurich
-276Onkedreischloot Emden
-273Oldeborger Gasteschloot Aurich
-274Oldeborger Äckerschloot Aurich
-279Osteeler Altendeichschloot Aurich
+E 32381319
+N 5932468
+
+E 32376694
+N 5929461
+E 32388398
+N 5932297
+E 32392775
+N 5922493
+E 32369852
+N 5926780
+E 32383429
+N 5918853
+E 32380334
+N 5921155
+E 32388949
+N 5929974
+E 32388467
+N 5930468
+E 32378142
+N 5927465
+E 32373292
+N 5915041
+E 32375072
+N 5926622
+E 32372699
+N 5926450
+E 32382750
+N 5933787
+
+280
+
+Ostfenneschloot
+
+Aurich
+
+281
+
+Osteräckerschloot
+
+Aurich
+
+282
+
+Osterfennenschloot
+
+Aurich
+
+283
+
+Osterhuser Tief
+
+Aurich
+
+284
+
+Osterupganter Äckerschloot
+
+Aurich
+
+285
+
+Osterupganter Zugschloot
+
+Aurich
+
+286
+
+Otterstädtschloot
+
+Emden
+
+287
+
+Ostüchschloot
+
+Aurich
+
+288
+
+Ostlandschloot
+
+Aurich
+
+289
+
+Panneschloot
+
+Aurich
+
+290
+
+Paulstief
+
+Aurich
+
+291
+
+Peerfennenschloot
+
+Aurich
+
+292
+
+Petjenburgerschloot
+
+Aurich
 
 Gew.Nr. 2 Abelitz
-E 32384389 E 32385738
-N 5928151 N 5928247
+E 32384389
+N 5928151
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32391248 E 32392095
-N 5928863 N 5928086
+E 32391248
+N 5928863
 Gew.Nr. 394 Uttumer Tief
-E 32379200 E 32379246
-N 5923943 N 5923061
+E 32379200
+N 5923943
 Gew.Nr. 198 Knockster Tief
-E 32381592 E 32379280
-N 5920423 N 5921607
+E 32381592
+N 5920423
 Gew.Nr. Runjewegschloot
-E 32388107 E 32387585
-N 5931934 N 5931911
+E 32388107
+N 5931934
 Gew.Nr. 382 Upganter Zugschloot
-E 32386093 E 32388989
-N 5931425 N 5932378
+E 32386093
+N 5931425
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32372610 E 32372582
-N 5913046 N 5911319
+E 32372610
+N 5913046
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32374532 E 32373982
-N 5928879 N 5928555
+E 32374532
+N 5928879
 Gew.Nr. 17 Altes Tief
-E 32369384 E 32370050
-N 5915843 N 5915738
+E 32369384
+N 5915843
 Gew.Nr. 230 Marienhofschloot
-E 32394538 E 32394811
-N 5925659 N 5925426
+E 32394538
+N 5925659
 Gew.Nr. 269 Nordfennenschloot
-E 32392775 E 32393663
-N 5922493 N 5923910
+E 32392775
+N 5922493
 Gew.Nr. 154 Hiwkeschloot
-E 32388771 E 32387494
-N 5920287 N 5920459
+E 32388771
+N 5920287
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373660 E 32374200
-283Osterhuser Tief Aurich
-284Osterupganter Äckerschloot Aurich
-281Osteräckerschloot Aurich
-282Osterfennenschloot Aurich
-280Ostfenneschloot Aurich
-289Panneschloot Aurich
-290Paulstief Aurich
-287Ostüchschloot Aurich
-288Ostlandschloot Aurich
-285Osterupganter Zugschloot Aurich
-286Otterstädtschloot Emden
-291Peerfennenschloot Aurich
-292Petjenburgerschloot Aurich
+E 32373660
 
-N 5924962 N 5923960
+E 32385738
+N 5928247
+E 32392095
+N 5928086
+E 32379246
+N 5923061
+E 32379280
+N 5921607
+E 32387585
+N 5931911
+E 32388989
+N 5932378
+E 32372582
+N 5911319
+E 32373982
+N 5928555
+E 32370050
+N 5915738
+E 32394811
+N 5925426
+E 32393663
+N 5923910
+E 32387494
+N 5920459
+E 32374200
+
+293
+
+Pewsumer Tief
+
+Aurich
+
+294
+
+Pfarrfennenschloot
+
+Aurich
+
+295
+
+Pferdefennenschloot
+
+Aurich
+
+296
+
+Pilsumer Schafwegschloot
+
+Aurich
+
+297
+
+Pilsumer Tief
+
+Aurich
+
+298
+
+Pilsumer Brückenschloot
+
+Aurich
+
+299
+
+Pilsumer Ziegeleischloot
+
+Aurich
+
+300
+
+Platthausschloot
+
+Aurich
+
+301
+
+Popkenmeedenschloot
+
+Aurich
+
+302
+
+Poppingaschloot
+
+Aurich
+
+303
+
+Poscerschloot
+
+Aurich
+
+304
+
+Pumpschloot
+
+Emden
+
+N 5924962
 Gew.Nr. 198 Knockster Tief
-E 32373738 E 32374838
-N 5917019 N 5922881
+E 32373738
+N 5917019
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32376912 E 32376218
-N 5921519 N 5920455
+E 32376912
+N 5921519
 Gew.Nr. 232 Meedekanal
-E 32388876 E 32388385
-N 5925468 N 5926124
+E 32388876
+N 5925468
 Gew.Nr. 297 Pilsumer Tief
-E 32371101 E 32370176
-N 5927519 N 5928174
+E 32371101
+N 5927519
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373000 E 32369306
-N 5928971 N 5927469
+E 32373000
+N 5928971
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32372994 E 32373457
-N 5928610 N 5928387
+E 32372994
+N 5928610
 Gew.Nr. 136 Hauener Tief
-E 32371666 E 32371306
-N 5929032 N 5928269
+E 32371666
+N 5929032
 Gew.Nr. 126 Gr. Horenburgerschloot
-E 32370456 E 32369886
-N 5924968 N 5924594
+E 32370456
+N 5924968
 Gew.Nr. 203 Langemeedenschloot
-E 32376696 E 32377420
-N 5927989 N 5928469
+E 32376696
+N 5927989
 Gew.Nr. 175 Karlshofschloot
-E 32379344 E 32380173
-N 5925458 N 5925579
+E 32379344
+N 5925458
 Gew.Nr. 353 Stadtwykschloot
-E 32379157 E 32378962
-N 5918809 N 5917785
+E 32379157
+N 5918809
 Gew.Nr. 169 Ihlderholtschloot
-E 32373513 E 32373741
-N 5914053 N 5913237
+E 32373513
+N 5914053
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-295Pferdefennenschloot Aurich
-296Pilsumer Schafwegschloot Aurich
-293Pewsumer Tief Aurich
-294Pfarrfennenschloot Aurich
 
-301Popkenmeedenschloot Aurich
-302Poppingaschloot Aurich
-299Pilsumer Ziegeleischloot Aurich
-300Platthausschloot Aurich
-297Pilsumer Tief Aurich
-298Pilsumer Brückenschloot Aurich
+N 5923960
+E 32374838
+N 5922881
+E 32376218
+N 5920455
+E 32388385
+N 5926124
+E 32370176
+N 5928174
+E 32369306
+N 5927469
+E 32373457
+N 5928387
+E 32371306
+N 5928269
+E 32369886
+N 5924594
+E 32377420
+N 5928469
+E 32380173
+N 5925579
+E 32378962
+N 5917785
+E 32373741
+N 5913237
 
-303Poscerschloot Aurich
-304Pumpschloot Emden
+305
 
-E 32385094 E 32385386
-N 5925304 N 5927755
+Pungerschloot
+
+Aurich
+
+306
+
+Quarischloot
+
+Aurich
+
+307
+
+Querfeuerschloot
+
+Emden
+
+308
+
+Quirkeborgschloot
+
+Aurich
+
+309
+
+Quittenwegschloot
+
+Emden
+
+310
+
+Rahester Zugschloot
+
+Aurich
+
+311
+
+Rauefünfschloot
+
+Aurich
+
+312
+
+Rebhuhnschloot
+
+Aurich
+
+313
+
+Reiherschloot
+
+Aurich
+
+314
+
+Reithammerschloot
+
+Aurich
+
+315
+
+Reithammerwegschloot
+
+Aurich
+
+316
+
+Reittief
+
+Aurich
+
+317
+
+Roelfsschloot
+
+Aurich
+
+E 32385094
+N 5925304
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32392533 E 32393141
-N 5924363 N 5924164
+E 32392533
+N 5924363
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32374525 E 32374502
-N 5912835 N 5911291
+E 32374525
+N 5912835
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32376576 E 32377787
-N 5926732 N 5928373
+E 32376576
+N 5926732
 Gew.Nr. 208 Larrelter Schöpfwerkstief
-E 32376800 E 32376161
-N 5915492 N 5916910
+E 32376800
+N 5915492
 Gew.Nr. 415 Westerender Ehe
-E 32393895 E 32396818
-N 5922496 N 5924039
+E 32393895
+N 5922496
 Gew.Nr. 232 Meedekanal
-E 32388557 E 32388009
-N 5925079 N 5925826
+E 32388557
+N 5925079
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32388746 E 32388411
-N 5927073 N 5927672
+E 32388746
+N 5927073
 Gew.Nr. 123 Groothuser Tief
-E 32372207 E 32372022
-N 5919237 N 5919400
+E 32372207
+N 5919237
 Gew.Nr. 165 Van Hove Tief
-E 32382705 E 32380917
-N 5932740 N 5931628
+E 32382705
+N 5932740
 Gew.Nr. 165 Van Hove Tief
-E 32382815 E 32383772
-N 5932390 N 5932538
+E 32382815
+N 5932390
 Gew.Nr. 123 Groothuser Tief
-E 32372665 E 32370504
-N 5916906 N 5917656
+E 32372665
+N 5916906
 Gew.Nr. 223 Loquarder Schöpfwerkstief
-E 32372529 E 32371582
-N 5916174 N 5917063
-307Querfeuerschloot Emden
-308Quirkeborgschloot Aurich
-305Pungerschloot Aurich
-306Quarischloot Aurich
-313Reiherschloot Aurich
-314Reithammerschloot Aurich
-311Rauefünfschloot Aurich
-312Rebhuhnschloot Aurich
-309Quittenwegschloot Emden
-310Rahester Zugschloot Aurich
-317Roelfsschloot Aurich
-315Reithammerwegschloot Aurich
-316Reittief Aurich
+E 32372529
+N 5916174
+
+E 32385386
+N 5927755
+E 32393141
+N 5924164
+E 32374502
+N 5911291
+E 32377787
+N 5928373
+E 32376161
+N 5916910
+E 32396818
+N 5924039
+E 32388009
+N 5925826
+E 32388411
+N 5927672
+E 32372022
+N 5919400
+E 32380917
+N 5931628
+E 32383772
+N 5932538
+E 32370504
+N 5917656
+E 32371582
+N 5917063
+
+318
+
+Rothe Scheunenschloot
+
+Aurich
+
+319
+
+Rothe Vorwerkschloot
+
+Emden
+
+320
+
+Rummelschloot
+
+Emden
+
+321
+
+Runjewegschloot
+
+Aurich
+
+322
+
+Rysumer Tief
+
+Aurich
+
+323
+
+Rysumer Hammrichschloot
+
+Aurich
+
+324
+
+Rysumer Schloot
+
+Aurich
+
+325
+
+Sandemeerschloot
+
+Aurich
+
+326
+
+Sandwaterschloot
+
+Aurich
+
+327
+
+Siebendiematschloot
+
+Aurich
+
+328
+
+Sielmönkerschloot
+
+Aurich
+
+329
+
+Siedlungsschloot
+
+Aurich
+
+330
+
+Siepkelandschloot
+
+Aurich
 
 Gew.Nr. 343 Schoonorther Polderschloot
-E 32379813 E 32381135
-N 5930146 N 5929828
+E 32379813
+N 5930146
 Gew.Nr. 17 Altes Tief
-E 32370030 E 32372460
-N 5912895 N 5914293
+E 32370030
+N 5912895
 Gew.Nr. 435 Wybelsumer Schöpfwerkstief
-E 32374560 E 32374604
-N 5913844 N 5915340
+E 32374560
+N 5913844
 Gew.Nr. 285 Osterupganter Zugschloot
-E 32388420 E 32387995
-N 5931424 N 5932237
+E 32388420
+N 5931424
 Gew.Nr. 223 Loquarder Schöpfwerkstief
-E 32372311 E 32368707
-N 5915017 N 5917218
+E 32372311
+N 5915017
 Gew.Nr. 17 Altes Tief
-E 32369731 E 32368122
-N 5914129 N 5918644
+E 32369731
+N 5914129
 Gew.Nr. 17 Altes Tief
-E 32369114 E 32368415
-N 5915972 N 5915398
+E 32369114
+N 5915972
 Gew.Nr. 68 Coldewehrer Schöpfwerksschloot
-E 32374152 E 32375239
-N 5917736 N 5917986
+E 32374152
+N 5917736
 Gew.Nr. 33 Bedekaspeler Schloot
-E 32387729 E 32388554
-N 5922805 N 5922428
+E 32387729
+N 5922805
 Gew.Nr. 352 Schweitief
-E 32386301 E 32387528
-N 5926294 N 5927257
+E 32386301
+N 5926294
 Gew.Nr. 239 Metzlandschloot
-E 32375903 E 32376020
-N 5923376 N 5922464
+E 32375903
+N 5923376
 Gew.Nr. 198 Knockster Tief
-E 32380744 E 32380593
-N 5920055 N 5918921
+E 32380744
+N 5920055
 Gew.Nr. 137 Hauptzuggraben Moorhusen-Münkeboe
-E 32390856 E 32390126
-319Rothe Vorwerkschloot Emden
-320Rummelschloot Emden
-318Rothe Scheunenschloot Aurich
-325Sandemeerschloot Aurich
-326Sandwaterschloot Aurich
-323Rysumer Hammrichschloot Aurich
-324Rysumer Schloot Aurich
-321Runjewegschloot Aurich
-322Rysumer Tief Aurich
-329Siedlungsschloot Aurich
-330Siepkelandschloot Aurich
-327Siebendiematschloot Aurich
-328Sielmönkerschloot Aurich
+E 32390856
 
-N 5931549 N 5931853
+E 32381135
+N 5929828
+E 32372460
+N 5914293
+E 32374604
+N 5915340
+E 32387995
+N 5932237
+E 32368707
+N 5917218
+E 32368122
+N 5918644
+E 32368415
+N 5915398
+E 32375239
+N 5917986
+E 32388554
+N 5922428
+E 32387528
+N 5927257
+E 32376020
+N 5922464
+E 32380593
+N 5918921
+E 32390126
+
+331
+
+Siersmeerschloot
+
+Aurich
+
+332
+
+Sitzenhammschloot
+
+Aurich
+
+333
+
+Soltendobbenschloot
+
+Emden
+
+334
+
+Sperberschloot
+
+Aurich
+
+335
+
+Spiegelhausschloot
+
+Aurich
+
+336
+
+Spoelmannsschloot
+
+Aurich
+
+337
+
+Spülbeckenschloot
+
+Emden
+
+338
+
+Spülschloot
+
+Emden
+
+339
+
+Süderdiekschloot
+
+Aurich
+
+340
+
+Süderriede
+
+Aurich
+
+341
+
+Suurhuser Hammrichschloot
+
+Aurich
+
+342
+
+Suurhuser Tief
+
+Aurich
+
+N 5931549
 Gew.Nr. 12 Alte Maar
-E 32385624 E 32386506
-N 5918200 N 5918912
+E 32385624
+N 5918200
 Gew.Nr. 154 Hiwkeschloot
-E 32388975 E 32390405
-N 5919756 N 5920809
+E 32388975
+N 5919756
 Gew.Nr. 201 Kurzes Tief
-E 32384317 E 32385173
-N 5918688 N 5917343
+E 32384317
+N 5918688
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32391704 E 32391542
-N 5924216 N 5924898
+E 32391704
+N 5924216
 Gew.Nr. 429 Woltzetener Schöpfwerksschloot
-E 32373334 E 32373370
-N 5918458 N 5917522
+E 32373334
+N 5918458
 Gew.Nr. 2 Abelitz
-E 32384447 E 32382872
-N 5927640 N 5927517
+E 32384447
+N 5927640
 Gew.Nr. 265 Niederemsischer Deichachtschloot
-E 32371642 E 32371622
-N 5912615 N 5911334
+E 32371642
+N 5912615
 Gew.Nr. 436 Wybelsumer Poldertief
-E 32374990 E 32375965
-N 5911283 N 5912104
+E 32374990
+N 5911283
 Gew.Nr. 1 Abbingwehrer Tief
-E 32382911 E 32383329
-N 5923322 N 5923795
+E 32382911
+N 5923322
 Gew.Nr. 198 Knockster Tief
-E 32384997 E 32386158
-N 5922429 N 5921660
+E 32384997
+N 5922429
 Gew.Nr. 198 Knockster Tief
-E 32382795 E 32385235
-N 5920886 N 5920109
+E 32382795
+N 5920886
 Gew.Nr. 371 Tütelborgschloot
-E 32381392 E 32382841
-N 5919480 N 5917793
+E 32381392
+N 5919480
 Gew.Nr. 198 Knockster Tief
-331Siersmeerschloot Aurich
-332Sitzenhammschloot Aurich
 
-337Spülbeckenschloot Emden
-338Spülschloot Emden
-335Spiegelhausschloot Aurich
-336Spoelmannsschloot Aurich
-333Soltendobbenschloot Emden
-334Sperberschloot Aurich
+N 5931853
+E 32386506
+N 5918912
+E 32390405
+N 5920809
+E 32385173
+N 5917343
+E 32391542
+N 5924898
+E 32373370
+N 5917522
+E 32382872
+N 5927517
+E 32371622
+N 5911334
+E 32375965
+N 5912104
+E 32383329
+N 5923795
+E 32386158
+N 5921660
+E 32385235
+N 5920109
+E 32382841
+N 5917793
 
-341Suurhuser Hammrichschloot Aurich
-342Suurhuser Tief Aurich
-339Süderdiekschloot Aurich
-340Süderriede Aurich
+342A
 
-E 32381864 E 32381498
-N 5920408 N 5919780
+Suurhuser Waterlösen
+
+343
+
+Schoonorther Polderschloot
+
+344
+
+Schoonorther Sommerpolderschloot
+
+345
+
+Schoonorther Zugschloot
+
+346
+
+Schloot am Ringkanal
+
+347
+
+Schloot an der Pumpstation
+
+348
+
+Schottjer Schloot
+
+349
+
+Schottje Äckerschloot
+
+350
+
+Schulenschloot
+
+351
+
+Schwalbenschloot
+
+352
+
+Schweitief
+
+353
+
+Stadtwykschloot
+
+354
+
+Stertsiebenschloot
+
+E 32381864
+N 5920408
 Gew.Nr. 345 Schoonorther Zugschloot
-E 32379266 E 32379858
-N 5928634 N 5930930
+E 32379266
+Aurich
+N 5928634
 Gew.Nr. 212 Leybuchtmittelgraben
-E 32378314 E 32378315
-N 5930081 N 5929717
+E 32378314
+Aurich
+N 5930081
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32378698 E 32383559
-N 5927098 N 5930686
+E 32378698
+Aurich
+N 5927098
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32392742 E 32392546
-N 5924594 N 5925353
+E 32392742
+Aurich
+N 5924594
 Gew.Nr. 436 Wybelsumer Poldertief
-E 32375953 E 32376097
-N 5911268 N 5912272
+E 32375953
+Emden
+N 5911268
 Gew.Nr. 382 Upganter Zugschloot
-E 32385656 E 32386065
-N 5930826 N 5930541
+E 32385656
+Aurich
+N 5930826
 Gew.Nr. 40 Bollandswater
-E 32385489 E 32385571
-N 5929248 N 5929898
+E 32385489
+Aurich
+N 5929248
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32390552 E 32391023
-N 5925543 N 5925805
+E 32390552
+Aurich
+N 5925543
 Gew.Nr. 232 Meedekanal
-E 32389620 E 32390301
-N 5926126 N 5925541
+E 32389620
+Aurich
+N 5926126
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32386286 E 32386789
-N 5925708 N 5928545
+E 32386286
+Aurich
+N 5925708
 Gew.Nr. 198 Knockster Tief
-E 32379055 E 32379360
-N 5919050 N 5917565
+Emd/Aur E 32379055
+N 5919050
 Gew.Nr. 416 Westerhusener Tief
-E 32378363 E 32378026
-N 5919953 N 5920704
-342ASuurhuser Waterlösen Aurich
-343Schoonorther Polderschloot Aurich
-348Schottjer Schloot Aurich
-349Schottje Äckerschloot Aurich
-346Schloot am Ringkanal Aurich
-347Schloot an der Pumpstation Emden
-344Schoonorther Sommerpolderschloot Aurich
-345Schoonorther Zugschloot Aurich
-354Stertsiebenschloot Aurich
-352Schweitief Aurich
-353Stadtwykschloot Emd/Aur
-350Schulenschloot Aurich
-351Schwalbenschloot Aurich
+E 32378363
+Aurich
+N 5919953
+
+Aurich
+
+E 32381498
+N 5919780
+E 32379858
+N 5930930
+E 32378315
+N 5929717
+E 32383559
+N 5930686
+E 32392546
+N 5925353
+E 32376097
+N 5912272
+E 32386065
+N 5930541
+E 32385571
+N 5929898
+E 32391023
+N 5925805
+E 32390301
+N 5925541
+E 32386789
+N 5928545
+E 32379360
+N 5917565
+E 32378026
+N 5920704
+
+355
+
+Stinkgraben
+
+Emden
+
+356
+
+Störtebecker Riede
+
+Aurich
+
+357
+
+Störtebeker Tief
+
+Aurich
+
+358
+
+Strengschloot
+
+Aurich
+
+359
+
+Strohburgerschloot
+
+Aurich
+
+360
+
+Stubbenlandschloot
+
+Aurich
+
+361
+
+Teicheschloot
+
+Emden
+
+362
+
+Theener Neulandschloot
+
+Aurich
+
+363
+
+Theenerschloot
+
+Aurich
+
+364
+
+Tholenswehrschloot
+
+Emden
+
+365
+
+Thunschloot
+
+Aurich
+
+366
+
+Timpenschloot
+
+Aurich
+
+368
+
+Trecktief
+
+Emden
 
 Gew.Nr. 107 Frisiaschloot
-E 32378729 E 32378852
-N 5913391 N 5913819
+E 32378729
+N 5913391
 Gew.Nr. 212 Leybuchtmittelgraben
-E 32376588 E 32377458
-N 5930544 N 5929657
+E 32376588
+N 5930544
 Gew.Nr. 165 Van Hove Tief
-E 32382900 E 32380789
-N 5931534 N 5930552
+E 32382900
+N 5931534
 Gew.Nr. 125 Gr. Heikelander Schöpfwerksschloot
-E 32383187 E 32385356
-N 5924662 N 5924269
+E 32383187
+N 5924662
 Gew.Nr. 430 Woquarder Buntewegschloot
-E 32372653 E 32371969
-N 5922666 N 5923756
+E 32372653
+N 5922666
 Gew.Nr. 407 Waterkampschloot
-E 32388107 E 32388906
-N 5924459 N 5924704
+E 32388107
+N 5924459
 Gew.Nr. 209 Larreleter Tief
-E 32378015 E 32377811
-N 5915734 N 5916704
+E 32378015
+N 5915734
 Gew.Nr. 421 Wiegboldsburer Riede
-E 32390389 E 32391967
-N 5926063 N 5925788
+E 32390389
+N 5926063
 Gew.Nr. 232 Meedekanal
-E 32389255 E 32390392
-N 5926079 N 5925205
+E 32389255
+N 5926079
 Gew.Nr. 41 Borssumer Kanal
-E 32382010 E 32383049
-N 5915442 N 5916699
+E 32382010
+N 5915442
 Gew.Nr. 225 Maar
-E 32390506 E 32390846
-N 5929207 N 5929459
+E 32390506
+N 5929207
 Gew.Nr. 64 Cirkwehrumer Tief
-E 32380677 E 32380684
-N 5922712 N 5923091
+E 32380677
+N 5922712
 Gew.Nr. 87 Emder Stadtgraben
-E 32381234 E 32384679
-355Stinkgraben Emden
-360Stubbenlandschloot Aurich
-361Teicheschloot Emden
-358Strengschloot Aurich
-359Strohburgerschloot Aurich
-356Störtebecker Riede Aurich
-357Störtebeker Tief Aurich
-366Timpenschloot Aurich
-368Trecktief Emden
-364Tholenswehrschloot Emden
-365Thunschloot Aurich
-362Theener Neulandschloot Aurich
-363Theenerschloot Aurich
+E 32381234
 
-N 5915210 N 5916982
+E 32378852
+N 5913819
+E 32377458
+N 5929657
+E 32380789
+N 5930552
+E 32385356
+N 5924269
+E 32371969
+N 5923756
+E 32388906
+N 5924704
+E 32377811
+N 5916704
+E 32391967
+N 5925788
+E 32390392
+N 5925205
+E 32383049
+N 5916699
+E 32390846
+N 5929459
+E 32380684
+N 5923091
+E 32384679
+
+369
+
+Tollenhammschloot
+
+Aurich
+
+370
+
+Tüdderlandschloot
+
+Aurich
+
+371
+
+Tütelborgschloot
+
+Aurich
+
+372
+
+Twarswegschloot
+
+Aurich
+
+373
+
+Twixlumer Schöpfwerksschloot
+
+Emden
+
+374
+
+Twixelschloot
+
+Aurich
+
+375
+
+Tycherschloot
+
+Aurich
+
+376
+
+Uhlsmeerschloot
+
+Aurich
+
+377
+
+Uiterdyker Elfchloot
+
+Aurich
+
+378
+
+Uiterdyker Siebenschloot
+
+Aurich
+
+379
+
+Uiterstewehrschloot
+
+Aurich
+
+380
+
+Untersloet
+
+Aurich
+
+N 5915210
 Gew.Nr. 2 Abelitz
-E 32384394 E 32383033
-N 5927345 N 5928270
+E 32384394
+N 5927345
 Gew.Nr. 407 Waterkampschloot
-E 32388339 E 32389484
-N 5923982 N 5924365
+E 32388339
+N 5923982
 Gew.Nr. 368 Trecktief
-E 32382976 E 32381818
-N 5917566 N 5919719
+E 32382976
+N 5917566
 Gew.Nr. 353 Stadtwykschloot
-E 32379151 E 32379880
-N 5918829 N 5918723
+E 32379151
+N 5918829
 Gew.Nr. 209 Larreleter Tief
-E 32374038 E 32375519
-N 5915858 N 5917356
+E 32374038
+N 5915858
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32377369 E 32377475
-N 5926560 N 5925932
+E 32377369
+N 5926560
 Gew.Nr. 297 Pilsumer Tief
-E 32371455 E 32371764
-N 5927447 N 5926372
+E 32371455
+N 5927447
 Gew.Nr. 104 Freepsumer Tief
-E 32376492 E 32376344
-N 5918785 N 5918208
+E 32376492
+N 5918785
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32387633 E 32387420
-N 5926119 N 5926764
+E 32387633
+N 5926119
 Gew.Nr. 88 Engerhaferschloot
-E 32388223 E 32387634
-N 5926990 N 5927296
+E 32388223
+N 5926990
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32375406 E 32375176
-N 5928424 N 5927414
+E 32375406
+N 5928424
 Gew.Nr. 227 Manslagter Tief
-E 32372219 E 32370580
-N 5925239 N 5927206
+E 32372219
+N 5925239
 Gew.Nr. 285 Osterupganter Zugschloot
 
-373Twixlumer Schöpfwerksschloot Emden
-374Twixelschloot Aurich
-371Tütelborgschloot Aurich
-372Twarswegschloot Aurich
-369Tollenhammschloot Aurich
-370Tüdderlandschloot Aurich
-379Uiterstewehrschloot Aurich
-380Untersloet Aurich
-377Uiterdyker Elfchloot Aurich
-378Uiterdyker Siebenschloot Aurich
-375Tycherschloot Aurich
-376Uhlsmeerschloot Aurich
+N 5916982
+E 32383033
+N 5928270
+E 32389484
+N 5924365
+E 32381818
+N 5919719
+E 32379880
+N 5918723
+E 32375519
+N 5917356
+E 32377475
+N 5925932
+E 32371764
+N 5926372
+E 32376344
+N 5918208
+E 32387420
+N 5926764
+E 32387634
+N 5927296
+E 32375176
+N 5927414
+E 32370580
+N 5927206
 
-E 32386385 E 32386866
-N 5931279 N 5931098
+381
+
+Ulfertsschloot
+
+Aurich
+
+382
+
+Upganter Zugschloot
+
+Aurich
+
+383
+
+Uplewarder Tief
+
+Aurich
+
+384
+
+Upganter Äckerschloot
+
+Aurich
+
+385
+
+Upender Zuggraben
+
+Aurich
+
+386
+
+Uphuserschloot
+
+Emden
+
+387
+
+Uplewarder Grashausschloot
+
+Aurich
+
+388
+
+Uppingerschloot
+
+Aurich
+
+389
+
+Upstalsboomschloot
+
+Aurich
+
+390
+
+Uthwerdumer Meedenschloot
+
+Aurich
+
+391
+
+Uthwerdumer Äckerschloot
+
+Aurich
+
+392
+
+Uthwerdumer Vorfluter
+
+Aurich
+
+393
+
+Utlangswehrschloot
+
+Aurich
+
+E 32386385
+N 5931279
 Gew.Nr. 2 Abelitz
-E 32384575 E 32389585
-N 5930245 N 5933450
+E 32384575
+N 5930245
 Gew.Nr. 132 Hamswehrumer Tief
-E 32370742 E 32370449
-N 5921042 N 5920972
+E 32370742
+N 5921042
 Gew.Nr. 200 Kolkschloot
-E 32386928 E 32386234
-N 5930500 N 5930977
+E 32386928
+N 5930500
 Gew.Nr. 225 Maar
-E 32390416 E 32389476
-N 5929205 N 5931258
+E 32390416
+N 5929205
 Gew.Nr. 240 Middenstfennenschloot
-E 32383487 E 32383555
-N 5916731 N 5915569
+E 32383487
+N 5916731
 Gew.Nr. 58 Campener Tief
-E 32370555 E 32368126
-N 5918711 N 5920176
+E 32370555
+N 5918711
 Gew.Nr. 394 Uttumer Tief
-E 32380209 E 32379706
-N 5923977 N 5924486
+E 32380209
+N 5923977
 Gew.Nr. 93 Extumer Vorfluter
-E 32394988 E 32396571
-N 5923846 N 5924296
+E 32394988
+N 5923846
 Gew.Nr. 4 Abelitzschloot
-E 32386875 E 32386800
-N 5925258 N 5925690
+E 32386875
+N 5925258
 Gew.Nr. 392 Uthwerdumer Vorfluter
-E 32390724 E 32389971
-N 5926822 N 5926557
+E 32390724
+N 5926822
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32388745 E 32390790
-N 5926895 N 5927742
+E 32388745
+N 5926895
 Gew.Nr. 2 Abelitz
-E 32384144 E 32382951
-N 5933406 N 5932800
-385Upender Zuggraben Aurich
-386Uphuserschloot Emden
-383Uplewarder Tief Aurich
-384Upganter Äckerschloot Aurich
-381Ulfertsschloot Aurich
-382Upganter Zugschloot Aurich
-391Uthwerdumer Äckerschloot Aurich
-392Uthwerdumer Vorfluter Aurich
-389Upstalsboomschloot Aurich
-390Uthwerdumer Meedenschloot Aurich
-387Uplewarder Grashausschloot Aurich
-388Uppingerschloot Aurich
-393Utlangswehrschloot Aurich
+E 32384144
+N 5933406
+
+E 32386866
+N 5931098
+E 32389585
+N 5933450
+E 32370449
+N 5920972
+E 32386234
+N 5930977
+E 32389476
+N 5931258
+E 32383555
+N 5915569
+E 32368126
+N 5920176
+E 32379706
+N 5924486
+E 32396571
+N 5924296
+E 32386800
+N 5925690
+E 32389971
+N 5926557
+E 32390790
+N 5927742
+E 32382951
+N 5932800
+
+394
+
+Uttumer Tief
+
+Aurich
+
+395
+
+Uttumer Ziegeleischloot
+
+Aurich
+
+396
+
+Victorburer Vorfluter
+
+Aurich
+
+397
+
+Visquarder Meedenschloot
+
+Aurich
+
+398
+
+Visquarder Siedlungsschloot
+
+Aurich
+
+399
+
+Vordermeedenschloot
+
+Aurich
+
+400
+
+Vorkampschloot
+
+Aurich
+
+401
+
+Vorwerkstief
+
+Aurich
+
+402
+
+Vorwerker Schöpfwerksschloot
+
+Emden
+
+403
+
+VW Schloot
+
+Emden
+
+404
+
+Warfenfeldschloot
+
+Aurich
+
+405
+
+Warfsfennenschloot
+
+Aurich
+
+406
+
+Wasserwerkschloot
+
+Aurich
 
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32376787 E 32380649
-N 5926573 N 5923948
+E 32376787
+N 5926573
 Gew.Nr. 394 Uttumer Tief
-E 32377256 E 32376326
-N 5924830 N 5923762
+E 32377256
+N 5924830
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-E 32390657 E 32392524
-N 5928547 N 5926750
+E 32390657
+N 5928547
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32374890 E 32373723
-N 5928640 N 5926548
+E 32374890
+N 5928640
 Gew.Nr. 277 Oreartschloot
-E 32374487 E 32375645
-N 5926110 N 5926279
+E 32374487
+N 5926110
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32380937 E 32380565
-N 5924963 N 5925663
+E 32380937
+N 5924963
 Gew.Nr. 415 Westerender Ehe
-E 32394556 E 32394776
-N 5923009 N 5922695
+E 32394556
+N 5923009
 Gew.Nr. 58 Campener Tief
-E 32371311 E 32371315
-N 5918155 N 5918777
+E 32371311
+N 5918155
 Gew.Nr. 215 Logumer Tief
-E 32375606 E 32374237
-N 5913492 N 5913115
+E 32375606
+N 5913492
 Gew.Nr. 436 Wybelsumer Poldertief
-E 32376465 E 32377017
-N 5911258 N 5912115
+E 32376465
+N 5911258
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32380385 E 32380527
-N 5925866 N 5926979
+E 32380385
+N 5925866
 Gew.Nr. 342 Suurhuser Tief
-E 32381831 E 32381287
-N 5918468 N 5919166
+E 32381831
+N 5918468
 Gew.Nr. 250 Moorwegschloot
-E 32386830 E 32387339
-397Visquarder Meedenschloot Aurich
-398Visquarder Siedlungsschloot Aurich
-395Uttumer Ziegeleischloot Aurich
-396Victorburer Vorfluter Aurich
-394Uttumer Tief Aurich
-403VW Schloot Emden
-404Warfenfeldschloot Aurich
-401Vorwerkstief Aurich
-402Vorwerker Schöpfwerksschloot Emden
-399Vordermeedenschloot Aurich
-400Vorkampschloot Aurich
-405Warfsfennenschloot Aurich
-406Wasserwerkschloot Aurich
+E 32386830
 
-N 5929388 N 5929707
+E 32380649
+N 5923948
+E 32376326
+N 5923762
+E 32392524
+N 5926750
+E 32373723
+N 5926548
+E 32375645
+N 5926279
+E 32380565
+N 5925663
+E 32394776
+N 5922695
+E 32371315
+N 5918777
+E 32374237
+N 5913115
+E 32377017
+N 5912115
+E 32380527
+N 5926979
+E 32381287
+N 5919166
+E 32387339
+
+407
+
+Waterkampschloot
+
+Aurich
+
+408
+
+Waterschloot
+
+Aurich
+
+409
+
+Wehrster Escherschloot
+
+Aurich
+
+410
+
+Weizenkampschloot
+
+Aurich
+
+411
+
+Werdasfennenschloot
+
+Emden
+
+412
+
+Werringerschloot
+
+Aurich
+
+413
+
+Werringerhornschloot
+
+Aurich
+
+414
+
+Westerburgerschloot
+
+Aurich
+
+415
+
+Westerender Ehe
+
+Aurich
+
+416
+
+Westerhusener Tief
+
+Aurich
+
+417
+
+Westlandschloot
+
+Aurich
+
+418
+
+Westerhusener Neulandschloot
+
+Emden
+
+N 5929388
 Gew.Nr. 232 Meedekanal
-E 32388091 E 32389235
-N 5924477 N 5923852
+E 32388091
+N 5924477
 Gew.Nr. 164 Hohe Wasserleitung
-E 32386979 E 32387007
-N 5932078 N 5932370
+E 32386979
+N 5932078
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32374531 E 32375678
-N 5928880 N 5929131
+E 32374531
+N 5928880
 Gew.Nr. 225 Maar
-E 32386615 E 32386395
-N 5928531 N 5929357
+E 32386615
+N 5928531
 Gew.Nr. 373 Twixlumer Schöpfwerksschloot
-E 32374325 E 32375474
-N 5915985 N 5916707
+E 32374325
+N 5915985
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32393534 E 32393700
-N 5925324 N 5924832
+E 32393534
+N 5925324
 Gew.Nr. 415 Westerender Ehe
-E 32394763 E 32393899
-N 5923343 N 5923669
+E 32394763
+N 5923343
 Gew.Nr. 123 Groothuser Tief
-E 32371760 E 32370380
-N 5921830 N 5923136
+E 32371760
+N 5921830
 Gew.Nr. 139 Heikeschloot
-E 32386542 E 32398065
-N 5919913 N 5926887
+E 32386542
+N 5919913
 Gew.Nr. 198 Knockster Tief
-E 32379333 E 32378902
-N 5919013 N 5920615
+E 32379333
+N 5919013
 Gew.Nr. 426 Wolderschloot
-E 32378507 E 32377541
-N 5926170 N 5926320
+E 32378507
+N 5926170
 Gew.Nr. 209 Larreleter Tief
-E 32379108 E 32379028
-N 5915529 N 5916445
+E 32379108
+N 5915529
 Gew.Nr. 3 Abelitz-Moordorf-Kanal
-409Wehrster Escherschloot Aurich
-410Weizenkampschloot Aurich
-407Waterkampschloot Aurich
-408Waterschloot Aurich
 
-415Westerender Ehe Aurich
-416Westerhusener Tief Aurich
-413Werringerhornschloot Aurich
-414Westerburgerschloot Aurich
-411Werdasfennenschloot Emden
-412Werringerschloot Aurich
+N 5929707
+E 32389235
+N 5923852
+E 32387007
+N 5932370
+E 32375678
+N 5929131
+E 32386395
+N 5929357
+E 32375474
+N 5916707
+E 32393700
+N 5924832
+E 32393899
+N 5923669
+E 32370380
+N 5923136
+E 32398065
+N 5926887
+E 32378902
+N 5920615
+E 32377541
+N 5926320
+E 32379028
+N 5916445
 
-417Westlandschloot Aurich
-418Westerhusener Neulandschloot Emden
+419
 
-E 32390140 E 32390640
-N 5928358 N 5927926
+West Victorburerschloot
+
+Aurich
+
+420
+
+Wichhusenschloot
+
+Aurich
+
+421
+
+Wiegboldsburer Riede
+
+Aurich
+
+422
+
+Wiegboldsburer Vorfluter
+
+Aurich
+
+423
+
+Wilhelmshofschloot
+
+Aurich
+
+424
+
+Wirdewegschloot
+
+Aurich
+
+425
+
+Wirdumer Tief
+
+Aurich
+
+426
+
+Wolderschloot
+
+Aurich
+
+427
+
+Woltzetener Tief
+
+Aurich
+
+428
+
+Woltzetener Meedenschloot
+
+Aurich
+
+429
+
+Woltzetener Schöpfwerksschloot
+
+Aurich
+
+430
+
+Woquarder Buntewegschloot
+
+Aurich
+
+431
+
+Woquarder Meedenschloot
+
+Aurich
+
+E 32390140
+N 5928358
 Gew.Nr. 198 Knockster Tief
-E 32380559 E 32379450
-N 5919912 N 5920883
+E 32380559
+N 5919912
 Gew.Nr. 231 Marscher Tief
-E 32386606 E 32390389
-N 5923588 N 5926063
+E 32386606
+N 5923588
 Gew.Nr. 148 Herrenhüttener Zuggraben
-E 32390208 E 32392088
-N 5923735 N 5923863
+E 32390208
+N 5923735
 Gew.Nr. 357 Störtebeker Tief
-E 32381861 E 32381323
-N 5930373 N 5929710
+E 32381861
+N 5930373
 Gew.Nr. 2 Abelitz
-E 32384028 E 32382749
-N 5933964 N 5933899
+E 32384028
+N 5933964
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32380750 E 32381436
-N 5925829 N 5927537
+E 32380750
+N 5925829
 Gew.Nr. 18 Altes Greetsieler Sieltief
-E 32379151 E 32376835
-N 5926291 N 5925714
+E 32379151
+N 5926291
 Gew.Nr. 293 Pewsumer Tief
-E 32373788 E 32373209
-N 5919666 N 5920319
+E 32373788
+N 5919666
 Gew.Nr. 429 Woltzetener Schöpfwerksschloot
-E 32373854 E 32373040
-N 5918452 N 5916937
+E 32373854
+N 5918452
 Gew.Nr. 293 Pewsumer Tief
-E 32373961 E 32372378
-N 5918439 N 5919999
+E 32373961
+N 5918439
 Gew.Nr. 123 Groothuser Tief
-E 32371819 E 32372655
-N 5921563 N 5924132
+E 32371819
+N 5921563
 Gew.Nr. 293 Pewsumer Tief
-E 32373836 E 32372386
-N 5921249 N 5921836
-421Wiegboldsburer Riede Aurich
-422Wiegboldsburer Vorfluter Aurich
-419West Victorburerschloot Aurich
-420Wichhusenschloot Aurich
-427Woltzetener Tief Aurich
-428Woltzetener Meedenschloot Aurich
-425Wirdumer Tief Aurich
-426Wolderschloot Aurich
-423Wilhelmshofschloot Aurich
-424Wirdewegschloot Aurich
-431Woquarder Meedenschloot Aurich
-429Woltzetener Schöpfwerksschloot Aurich
-430Woquarder Buntewegschloot Aurich
+E 32373836
+N 5921249
+
+E 32390640
+N 5927926
+E 32379450
+N 5920883
+E 32390389
+N 5926063
+E 32392088
+N 5923863
+E 32381323
+N 5929710
+E 32382749
+N 5933899
+E 32381436
+N 5927537
+E 32376835
+N 5925714
+E 32373209
+N 5920319
+E 32373040
+N 5916937
+E 32372378
+N 5919999
+E 32372655
+N 5924132
+E 32372386
+N 5921836
+
+432
+
+Woquarder Tief
+
+Aurich
+
+433
+
+Wulgenlandenschloot
+
+Aurich
+
+434
+
+Wuffschloot
+
+Emden
+
+435
+
+Wybelsumer Schöpfwerkstief
+
+Emden
+
+436
+
+Wybelsumer Poldertief
+
+Emden
+
+437
+
+Wybelsumer Tief
+
+Emden
+
+439
+
+Zaunkönigschloot
+
+Aurich
+
+440
+
+Zeisigschloot
+
+Aurich
+
+441
+
+Zirkelschloot
+
+Aurich
+
+442
+
+Zitterschloot
+
+Aurich
+
+443
+
+Zuggraben Moorweg
+
+Aurich
+
+444
+
+Zugschloot durch Marienhafe
+
+Aurich
+
+445
+
+Zweitiefenschloot
+
+Aurich
 
 Gew.Nr. 293 Pewsumer Tief
-E 32373589 E 32372851
-N 5922189 N 5922001
+E 32373589
+N 5922189
 Gew.Nr. 59 Camperlandenschloot
-E 32384153 E 32383732
-N 5929078 N 5929012
+E 32384153
+N 5929078
 Gew.Nr. 208 Larrelter Schöpfwerkstief
-E 32376602 E 32376408
-N 5916825 N 5918117
+E 32376602
+N 5916825
 Gew.Nr. 437 Wybelsumer Tief
-E 32374661 E 32373987
-N 5913637 N 5914893
+E 32374661
+N 5913637
 Gew.Nr. 198 Knockster Tief
-E 32370157 E 32378379
-N 5912879 N 5911232
+E 32370157
+N 5912879
 Gew.Nr. 209 Larreleter Tief
-E 32375462 E 32374661
-N 5914800 N 5913637
+E 32375462
+N 5914800
 Gew.Nr. 201 Kurzes Tief
-E 32384334 E 32383718
-N 5918705 N 5919273
+E 32384334
+N 5918705
 Hieve
-E 32384793 E 32383157
-N 5919513 N 5919498
+E 32384793
+N 5919513
 Gew.Nr. 310 Rahester Zugschloot
-E 32396001 E 32395476
-N 5922740 N 5923328
+E 32396001
+N 5922740
 Gew.Nr. 201 Kurzes Tief
-E 32384440 E 32384297
-N 5918770 N 5919304
+E 32384440
+N 5918770
 Gew.Nr. 95 Fehnhuserschloot
-E 32387571 E 32387866
-N 5929807 N 5930810
+E 32387571
+N 5929807
 Gew.Nr. 2 Abelitz
-E 32384678 E 32386180
-N 5931693 N 5931626
+E 32384678
+N 5931693
 Gew.Nr. 132 Hamswehrumer Tief
-E 32370981 E 32371248
-433Wulgenlandenschloot Aurich
-434Wuffschloot Emden
-432Woquarder Tief Aurich
-440Zeisigschloot Aurich
-441Zirkelschloot Aurich
-437Wybelsumer Tief Emden
-439Zaunkönigschloot Aurich
-435Wybelsumer Schöpfwerkstief Emden
-436Wybelsumer Poldertief Emden
-444Zugschloot durch Marienhafe Aurich
-445Zweitiefenschloot Aurich
-442Zitterschloot Aurich
-443Zuggraben Moorweg Aurich
+E 32370981
 
-N 5920464 N 5921351
+E 32372851
+N 5922001
+E 32383732
+N 5929012
+E 32376408
+N 5918117
+E 32373987
+N 5914893
+E 32378379
+N 5911232
+E 32374661
+N 5913637
+E 32383718
+N 5919273
+E 32383157
+N 5919498
+E 32395476
+N 5923328
+E 32384297
+N 5919304
+E 32387866
+N 5930810
+E 32386180
+N 5931626
+E 32371248
+
+446
+
+Zwitterschloot
+
+Aurich
+
+447
+
+Zwillingsschloot
+
+Aurich
+
+448
+
+Zwischentief Altes Siel
+
+Aurich
+
+N 5920464
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373390 E 32373769
-N 5927137 N 5928058
+E 32373390
+N 5927137
 Gew.Nr. Quirkeborgschloot
-E 32376991 E 32378014
-N 5927255 N 5927545
+E 32376991
+N 5927255
 Gew.Nr. 259 Neues Greetsieler Sieltief
-E 32373517 E 32373644
-N 5929526 N 5929677
-448Zwischentief Altes Siel Aurich
-446Zwitterschloot Aurich
-447Zwillingsschloot Aurich
+E 32373517
+N 5929526
+
+N 5921351
+E 32373769
+N 5928058
+E 32378014
+N 5927545
+E 32373644
+N 5929677

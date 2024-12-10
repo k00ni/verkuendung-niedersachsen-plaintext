@@ -1,279 +1,827 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 7. März 2024 Nummer 125
+74. (79.) Jahrgang
+
+Hannover, den 7. März 2024
+
+Nummer 125
 
 Ministerium für Inneres und Sport
-
 Digitalfunk;
-Operativ- Taktische Adressen und Funkrufnamen
+Operativ-Taktische Adressen und Funkrufnamen
 für den Brand- und Katastrophenschutz
 sowie den Rettungsdienst
-
-RdErl. d. MI v. 01.03.2024 – 72.21- 13235/4.20 –
-
+RdErl. d. MI v. 01.03.2024 – 72.21-13235/4.20 –
 – VORIS 21100 –
-
 1. Allgemeines
-1.1 Bei jeder Funkverbindung wird ein Datensatz, die sog. Operativ-Taktische Adresse (OPTA), von der
+1.1
+Bei jeder Funkverbindung wird ein Datensatz, die sog. Operativ-Taktische Adresse (OPTA), von der
 oder dem Sendenden an jedes empfangende Endgerät übertragen. Die OPTA wird automatisch mit dem Betätigen der Sendetaste an alle Teilnehmenden in einer Rufgruppe übertragen. Dadurch wird bundesweit eine
 direkte Interpretierbarkeit der übertragenen OPTA deutlich erleichtert.
-1.2 Die OPTA wird auf der im Endgerät verwendeten BOS-Sicherheitskarte des Bundesamtes für Sicherheit in der Informationstechnik (BSI) gespeichert. Die Nutzung von Endgeräten im bundesweiten BOS- Funknetz ist nur mit der BOS-Sicherheitskarte möglich. Daher wird jedem Funkteilnehmergerät eine eineindeutige
+1.2
+Die OPTA wird auf der im Endgerät verwendeten BOS-Sicherheitskarte des Bundesamtes für Sicherheit in der Informationstechnik (BSI) gespeichert. Die Nutzung von Endgeräten im bundesweiten BOS-Funknetz ist nur mit der BOS-Sicherheitskarte möglich. Daher wird jedem Funkteilnehmergerät eine eineindeutige
 OPTA zugeteilt.
-1.3 Der gesprochene Funkrufname ist Bestandteil der OPTA. Die Neuregelung folgt der OPTA; bezieht
+1.3
+Der gesprochene Funkrufname ist Bestandteil der OPTA. Die Neuregelung folgt der OPTA; bezieht
 aber die Grundlagen des bisherigen Analogfunkverkehrs mit ein.
-1.4 Die anliegenden Regelungen gelten für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte sowie für alle Katastrophenschutz-Einheiten und - Einrichtungen.
+1.4
+Die anliegenden Regelungen gelten für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte sowie für alle Katastrophenschutz-Einheiten und -Einrichtungen.
 2. OPTA
-2.1 Die OPTA besteht aus 24 alpha- numerischen Stellen und ist auf der BOS-Sicherheitskarte gespeichert.
-2.2 Für die weitere Gliederung der OPTA im Rahmen der folgenden Regelungen sind die Landkreise, die
+2.1
+chert.
+
+Die OPTA besteht aus 24 alpha-numerischen Stellen und ist auf der BOS-Sicherheitskarte gespei-
+
+2.2
+Für die weitere Gliederung der OPTA im Rahmen der folgenden Regelungen sind die Landkreise, die
 Region Hannover, die kreisfreien Städte sowie die Städte Cuxhaven, Hameln, Hannover, Hildesheim und Göttingen im Rahmen ihrer besonderen Aufgabenstellungen nach dem NBrandSchG, dem NRettDG und dem
 NKatSG zuständig.
 
-2.3 Die 24 Ziffernfolgen werden aus Gründen der Übersichtlichkeit in fünf Blöcke eingeteilt:
+Herausgeber: Niedersächsische Staatskanzlei
 
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
 
-2.4 Die Blöcke werden wie folgt beschrieben:
-2.4.1 Block 1 (Ziffern 1 und 2): Kennung für den Bund (BU) oder das Land Niedersachsen (NI)
-2.4.2 Block 2 (Ziffern 3 bis 5): Kürzel für die BOS (siehe Anlage 1)
-2.4.3 Block 3 (Ziffern 6 bis 8): Regionale Zuordnung zu einem Landkreis, zu einer kreisfreien Stadt,
+Seite 2
+
+2.3
+
+Die 24 Ziffernfolgen werden aus Gründen der Übersichtlichkeit in fünf Blöcke eingeteilt:
+
+2.4
+
+Die Blöcke werden wie folgt beschrieben:
+
+2.4.1 Block 1 (Ziffern 1 und 2):
+
+Kennung für den Bund (BU) oder das Land Niedersachsen (NI)
+
+2.4.2 Block 2 (Ziffern 3 bis 5):
+
+Kürzel für die BOS (siehe Anlage 1)
+
+2.4.3 Block 3 (Ziffern 6 bis 8):
+
+Regionale Zuordnung zu einem Landkreis, zu einer kreisfreien Stadt,
 zur Region Hannover oder Landeshauptstadt Hannover – dargestellt
 durch das amtliche Kraftfahrzeugkennzeichen (nach der Kennzeichenliberalisierung wieder eingeführte Kraftfahrzeugkennzeichen bleiben
 außer Acht). Führen Stadt und Landkreis das gleiche Kennzeichen,
 wird der Landkreis in der Regel durch die nachgestellte Raute (#) gekennzeichnet.
-2.4.4 Block 4.1 (Ziffern 9 bis 11): Es werden die Ziffern 9 und 10 als örtliche oder Organisationskennung
+
+2.4.4 Block 4.1 (Ziffern 9 bis 11):
+
+Es werden die Ziffern 9 und 10 als örtliche oder Organisationskennung
 verwendet. Ziffer 11 wird mit dem Trennzeichen „-“ ausgefüllt. Weitere
 Erläuterungen erfolgen in Nummer 2.5.
-2.4.5 Block 4.1 (Ziffern 12 und 13): Fahrzeug- oder Funktionskennungen werden gemäß Anlage 2 benutzt.
-2.4.6 Block 4.2 (Ziffern 14 bis 21): Es werden in alpha-numerischer Form Kurzbezeichnungen für Leitstellen, Fahrzeuge und Funktionen eingetragen. Diese Kurzbezeichnungen dienen der Erläuterung der Funktion des Teilnehmers oder des
+
+2.4.5 Block 4.1 (Ziffern 12 und 13):
+
+Fahrzeug- oder Funktionskennungen werden gemäß Anlage 2 benutzt.
+
+2.4.6 Block 4.2 (Ziffern 14 bis 21):
+
+Es werden in alpha-numerischer Form Kurzbezeichnungen für Leitstellen, Fahrzeuge und Funktionen eingetragen. Diese Kurzbezeichnungen dienen der Erläuterung der Funktion des Teilnehmers oder des
 taktischen Wertes des Fahrzeugs im Klartext. Sie orientieren sich an
 den Norm- oder anderen verwechselungsfreien Bezeichnungen. Einzelheiten sind in der Anlage 3 geregelt. Die Anlage 3 ist nicht abschließend. Ergänzungen oder Änderungen sind auch ohne Änderung dieses RdErl. mit Zustimmung des MI möglich. Eine Kombination von Abkürzungen ist möglich.
-2.4.7 Block 4.3 (Ziffern 22 und 23): Die Ordnungskennung ermöglicht die Unterscheidung mehrerer Fahrzeuge mit gleicher Funktionskennung an einem Standort oder mehrerer Einrichtungen in einem Zuständigkeitsbereich. Handfunkgeräte, die
+
+2.4.7 Block 4.3 (Ziffern 22 und 23):
+
+Die Ordnungskennung ermöglicht die Unterscheidung mehrerer Fahrzeuge mit gleicher Funktionskennung an einem Standort oder mehrerer Einrichtungen in einem Zuständigkeitsbereich. Handfunkgeräte, die
 keinem Fahrzeug oder keiner Funktion zugeordnet sind, werden an
 dieser Stelle durchnummeriert. Die Ziffern werden rechtsbündig eingetragen. Die Ziffer 1 wird auch vergeben, wenn nur ein MRT (Fahrzeugfunkgerät) oder HRT (Handfunkgerät) vorhanden ist.
-2.4.8 Block 5 (Ziffer 24): Die Ergänzung dient der Unterscheidung von mehreren eingebauten
+
+2.4.8 Block 5 (Ziffer 24):
+
+Die Ergänzung dient der Unterscheidung von mehreren eingebauten
 Fahrzeugfunkgeräten oder ortsfesten Funkanlagen; Unterscheidungsmerkmal: Großbuchstaben (A, B, ...). Einem Fahrzeug fest
 
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 3
+
 zugeordnete Handfunkgeräte werden in diesem Block durchnummeriert (1, 2, …).
-2.5 Für die örtliche Kennung bzw. Organisationskennung (Nummer 2.4.4, Block 4.1) stehen folgende Zahlenbereiche zur Verfügung:
-01 bis 09 kreisfreie Städte, die Landeshauptstadt Hannover und die Städte Cuxhaven, Hameln, Hildesheim und Göttingen
-10 bis 39 Gemeindekennziffern, die Vergabe erfolgt durch den Landkreis; jede Gemeinde erhält nur
+2.5
+Für die örtliche Kennung bzw. Organisationskennung (Nummer 2.4.4, Block 4.1) stehen folgende Zahlenbereiche zur Verfügung:
+01 bis 09
+
+kreisfreie Städte, die Landeshauptstadt Hannover und die Städte Cuxhaven, Hameln, Hildesheim und Göttingen
+
+10 bis 39
+
+Gemeindekennziffern, die Vergabe erfolgt durch den Landkreis; jede Gemeinde erhält nur
 eine Gemeindekennziffer. Städte, die die Ziffern 01 bis 09 verwenden, dürfen die Ziffern
 10 bis 39 für Freiwillige Feuerwehren in ihrem Zuständigkeitsbereich nach den vorgenannten Grundlagen vergeben.
-40 bis 48 Deutsches Rotes Kreuz (DRK)
-49 bis 56 Johanniter-Unfall-Hilfe (JUH)
-57 bis 63 Malteser Hilfsdienst (MHD)
-64 bis 70 Arbeiter-Samariter-Bund (ASB)
-71 bis 77 Deutsche Lebens-Rettungs-Gesellschaft (DLRG)
-78 bis 79 Beauftragte für den Rettungsdienst oder Mitwirkende im Katastrophenschutz, die keiner
+
+40 bis 48
+
+Deutsches Rotes Kreuz (DRK)
+
+49 bis 56
+
+Johanniter-Unfall-Hilfe (JUH)
+
+57 bis 63
+
+Malteser Hilfsdienst (MHD)
+
+64 bis 70
+
+Arbeiter-Samariter-Bund (ASB)
+
+71 bis 77
+
+Deutsche Lebens-Rettungs-Gesellschaft (DLRG)
+
+78 bis 79
+
+Beauftragte für den Rettungsdienst oder Mitwirkende im Katastrophenschutz, die keiner
 der o. g. Hilfsorganisationen angehören
-80 bis 90 Funkgeräte im Eigentum der in Nummer 2.2 genannten Kommunen
-91 Intensivtransport
-92 Waldbrandbeauftragte
-93 bis 94 Werkfeuerwehren
-95 bis 96 Gesperrt
-97 Führungskräfte Rettungsdienst
-98 Gesperrt
-99 Führungskräfte der Kreisfeuerwehr und der kreisfreien Städte
+
+80 bis 90
+
+Funkgeräte im Eigentum der in Nummer 2.2 genannten Kommunen
+
+91
+
+Intensivtransport
+
+92
+
+Waldbrandbeauftragte
+
+93 bis 94
+
+Werkfeuerwehren
+
+95 bis 96
+
+Gesperrt
+
+97
+
+Führungskräfte Rettungsdienst
+
+98
+
+Gesperrt
+
+99
+
+Führungskräfte der Kreisfeuerwehr und der kreisfreien Städte
+
 3. Besonderheiten
 3.1 Landeseigene Einheiten und Einrichtungen
 3.1.1 Ministerium für Inneres und Sport
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 10): oberste Landesbehörde 01
-Einsatzverwendungen 02
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+oberste Landesbehörde
+
+01
+
+Einsatzverwendungen
+
+02
+
 Sonderbedarf
 Nicht belegt
 Nicht belegt
+
 03
 04
 05
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
 
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungen nach Bedarf
-3.1.2 Niedersächsisches Landesamt für Brand- und Katastrophenschutz
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 10): obere Katastrophenschutzbehörde 06
-Einheiten des Katastrophenschutzes 07
-Akademiebetrieb 08
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 4
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungen nach Bedarf
+
+3.1.2
+
+Niedersächsisches Landesamt für Brand- und Katastrophenschutz
+
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+obere Katastrophenschutzbehörde
+
+06
+
+Einheiten des Katastrophenschutzes
+
+07
+
+Akademiebetrieb
+
+08
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.1.3 Sonstige
 Unter Nummer 3.1.3 können Institutionen oder Teile von Institutionen wie zum Beispiel der Bereich Strahlenschutz des NLWKN subsummiert werden.
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: amtliches Kfz-Kennzeichen des Amtssitzes
-– Block 4.1 (Ziffern 9 bis 10): 09
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungszeichen
-3.2 Leitstellen
-– Block 1: NI
-– Block 2: bleibt frei
-– Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
-– Block 4.1: bleibt frei
-– Block 4.2: Kurzbezeichnung „LTS“
-– Blöcke 4.3 und 5: Unterscheidungszeichen
-3.3 Fernmeldezentralen der Katastrophenschutzstäbe
-– Block 1: NI
-– Block 2: bleibt frei
-– Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
-– Block 4.1: bleibt frei
+– Block 1:
 
-– Block 4.2: Kurzbezeichnung „FMZT“
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+amtliches Kfz-Kennzeichen des Amtssitzes
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+09
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
+3.2 Leitstellen
+– Block 1:
+
+NI
+
+– Block 2:
+
+bleibt frei
+
+– Block 3:
+
+regionale Kennung gemäß amtlichem Kfz-Kennzeichen
+
+– Block 4.1:
+
+bleibt frei
+
+– Block 4.2:
+
+Kurzbezeichnung „LTS“
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
+3.3 Fernmeldezentralen der Katastrophenschutzstäbe
+– Block 1:
+
+NI
+
+– Block 2:
+
+bleibt frei
+
+– Block 3:
+
+regionale Kennung gemäß amtlichem Kfz-Kennzeichen
+
+– Block 4.1:
+
+bleibt frei
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 5
+
+– Block 4.2:
+
+Kurzbezeichnung „FMZT“
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.4 Landeseinheiten im Katastrophenschutz
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 10): Fachdienste Führungsdienst und Fernmeldedienst 80
-Fachdienst CBRN-Dienst 81
-Fachdienst Betreuungsdienst 82
-Fachdienste Logistikdienst und Versorgungsdienst 83
-Fachdienst Sanitätsdienst 84
-Fachdienst Brandschutzdienst 85
-Fachdienst Brandschutzdienst 86
-Fachdienst Wasserrettungsdienst 87
-sonstige Fachdienste 88
-sonstige Fachdienste 89
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+Fachdienste Führungsdienst und Fernmeldedienst
+
+80
+
+Fachdienst CBRN-Dienst
+
+81
+
+Fachdienst Betreuungsdienst
+
+82
+
+Fachdienste Logistikdienst und Versorgungsdienst
+
+83
+
+Fachdienst Sanitätsdienst
+
+84
+
+Fachdienst Brandschutzdienst
+
+85
+
+Fachdienst Brandschutzdienst
+
+86
+
+Fachdienst Wasserrettungsdienst
+
+87
+
+sonstige Fachdienste
+
+88
+
+sonstige Fachdienste
+
+89
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.5 Kreisfeuerwehrbereitschaften (KFB)
 Die folgenden Angaben gelten für Handfunkgeräte der Führungskräfte, soweit diese vorrangig für die Kreisfeuerwehrbereitschaften eingesetzt werden.
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
-– Block 4.1 (Ziffern 9 bis 11): 80 bis 90
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung „KFB“ und ggf. Zugbezeichnung
-– Block 4.3: Die KFB werden durchnummeriert; die Ziffern werden rechtsbündig eingetragen.
-– Block 5: Unterscheidungszeichen
-3.6 Hilfsorganisationen auf Landesebene
-– Block 1: NI
-– Block 2: gemäß Anlage 1
+– Block 1:
 
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 10): die Zeichen werden rechtsbündig eingetragen
-– Deutsches Rotes Kreuz, Landesverband Niedersachsen (LV NDS) 40
-– Deutsches Rotes Kreuz, LV NDS – Ausbildung 41
-– Deutsches Rotes Kreuz, LV NDS – Einsatzstab 42
-– Deutsches Rotes Kreuz, LV NDS – Reserve 43
-– Deutsches Rotes Kreuz, LV NDS – BTP 500 44
-– Deutsches Rotes Kreuz, LV NDS – Reserve 45
-– Deutsches Rotes Kreuz, LV NDS – Fachdienstbereitschaft 46
-– Deutsches Rotes Kreuz, Landesverband Oldenburg 47
-– Deutsches Rotes Kreuz, Landesverband Oldenburg 48
-– Johanniter-Unfall-Hilfe, Landesverband – Reserve 49
-– Johanniter-Unfall-Hilfe, Landesverband – Landesgeschäftsstelle 50
-– Johanniter-Unfall-Hilfe, Landesverband – Akademie 51
-– Johanniter-Unfall-Hilfe, Landesverband – Bremen-Verden 52
-– Johanniter-Unfall-Hilfe, Landesverband – Harz-Heide 53
-– Johanniter-Unfall-Hilfe, Landesverband – Niedersachsen-Mitte 54
-– Johanniter-Unfall-Hilfe, Landesverband – Südniedersachsen 55
-– Johanniter-Unfall-Hilfe, Landesverband – Weser-Ems 56
-– Malteser Hilfsdienst 60
-– Malteser Hilfsdienst – Ausbildung – 61
-– Arbeiter-Samariter-Bund 65
-– Deutsche Lebensrettungsgesellschaft 75
-– Deutsche Lebensrettungsgesellschaft – Ausbildung – 76
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+regionale Kennung gemäß amtlichem Kfz-Kennzeichen
+
+– Block 4.1 (Ziffern 9 bis 11):
+
+80 bis 90
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung „KFB“ und ggf. Zugbezeichnung
+
+– Block 4.3:
+
+Die KFB werden durchnummeriert; die Ziffern werden rechtsbündig eingetragen.
+
+– Block 5:
+
+Unterscheidungszeichen
+
+3.6 Hilfsorganisationen auf Landesebene
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 6
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+die Zeichen werden rechtsbündig eingetragen
+
+– Deutsches Rotes Kreuz, Landesverband Niedersachsen (LV NDS)
+
+40
+
+– Deutsches Rotes Kreuz, LV NDS – Ausbildung
+
+41
+
+– Deutsches Rotes Kreuz, LV NDS – Einsatzstab
+
+42
+
+– Deutsches Rotes Kreuz, LV NDS – Reserve
+
+43
+
+– Deutsches Rotes Kreuz, LV NDS – BTP 500
+
+44
+
+– Deutsches Rotes Kreuz, LV NDS – Reserve
+
+45
+
+– Deutsches Rotes Kreuz, LV NDS – Fachdienstbereitschaft
+
+46
+
+– Deutsches Rotes Kreuz, Landesverband Oldenburg
+
+47
+
+– Deutsches Rotes Kreuz, Landesverband Oldenburg
+
+48
+
+– Johanniter-Unfall-Hilfe, Landesverband – Reserve
+
+49
+
+– Johanniter-Unfall-Hilfe, Landesverband – Landesgeschäftsstelle
+
+50
+
+– Johanniter-Unfall-Hilfe, Landesverband – Akademie
+
+51
+
+– Johanniter-Unfall-Hilfe, Landesverband – Bremen-Verden
+
+52
+
+– Johanniter-Unfall-Hilfe, Landesverband – Harz-Heide
+
+53
+
+– Johanniter-Unfall-Hilfe, Landesverband – Niedersachsen-Mitte
+
+54
+
+– Johanniter-Unfall-Hilfe, Landesverband – Südniedersachsen
+
+55
+
+– Johanniter-Unfall-Hilfe, Landesverband – Weser-Ems
+
+56
+
+– Malteser Hilfsdienst
+
+60
+
+– Malteser Hilfsdienst – Ausbildung –
+
+61
+
+– Arbeiter-Samariter-Bund
+
+65
+
+– Deutsche Lebensrettungsgesellschaft
+
+75
+
+– Deutsche Lebensrettungsgesellschaft – Ausbildung –
+
+76
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.7 Rettungsdienst
 Optionale Möglichkeit als Alternative zu Nummer 2.5 dieses RdErl.:
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
-– Block 4.1 (Ziffern 9 bis 11): örtliche Kennung des Rettungswachen-Standortes 01 bis 09
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+regionale Kennung gemäß amtlichem Kfz-Kennzeichen
+
+– Block 4.1 (Ziffern 9 bis 11):
+
+örtliche Kennung des Rettungswachen-Standortes 01 bis 09
 bzw. 10 bis 39
 
-– Block 4.1 (Ziffern 12 bis 13): Kennungen gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Block 4.3 und 5: Unterscheidungszeichen
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 7
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennungen gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Block 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.8 Rettungshubschrauber
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 11): bleibt frei
-– Block 4.1 (Ziffern 12 bis 13): Kennung gemäß Anlage 2
-– Block 4.2: Kennung gemäß Anlage 3
-– Block 4.3: Unterscheidungszeichen gemäß bundeseinheitlicher Liste
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 11):
+
+bleibt frei
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Kennung gemäß Anlage 2
+
+– Block 4.2:
+
+Kennung gemäß Anlage 3
+
+– Block 4.3:
+
+Unterscheidungszeichen gemäß bundeseinheitlicher Liste
+
 3.9 Intensivtransport
 – Zentrale Koordinierungsstelle
-– Block 1: NI
-– Block 2: gemäß Beauftragung und Anlage 1
-– Block 3: bleibt frei
-– Block 4.1: bleibt fei
-– Block 4.2: Kurzbezeichnung „KOST“
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Beauftragung und Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1:
+
+bleibt fei
+
+– Block 4.2:
+
+Kurzbezeichnung „KOST“
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 – Intensivtransportmittel
-– Block 1: NI
-– Block 2: gemäß Beauftragung und Anlage 1
-– Block 3: bleibt frei
-– Block 4.1 (Ziffern 9 bis 11): Kennung gemäß Nummer 2.5
-– Block 4.1 (Ziffern 12 bis 13): Fahrzeugkennung gemäß Anlage 2
-– Block 4.2: Kurzbezeichnung gemäß Anlage 3
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Beauftragung und Anlage 1
+
+– Block 3:
+
+bleibt frei
+
+– Block 4.1 (Ziffern 9 bis 11):
+
+Kennung gemäß Nummer 2.5
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+Fahrzeugkennung gemäß Anlage 2
+
+– Block 4.2:
+
+Kurzbezeichnung gemäß Anlage 3
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.10 Sirenenalarmierung
 Unter Nummer 3.10 sind besondere Regelungen für die Steuerung, Warnung und Alarmierung von Sirenen
 aufgeführt.
-– Block 1: NI
-– Block 2: SIR
-– Block 3: regionale Kennung gemäß amtlichem Kfz-Kennzeichen
-– Block 4.1 (Ziffern 9 bis 10): Kennung gemäß Nummer 2.5
+– Block 1:
 
-– Block 4.1(Ziffern 12 bis 13): 00
-– Block 4.2: Bezeichnung „SIRENE“
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+NI
+
+– Block 2:
+
+SIR
+
+– Block 3:
+
+regionale Kennung gemäß amtlichem Kfz-Kennzeichen
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+Kennung gemäß Nummer 2.5
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 8
+
+– Block 4.1(Ziffern 12 bis 13):
+
+00
+
+– Block 4.2:
+
+Bezeichnung „SIRENE“
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 3.11 Reservegeräte
-– Block 1: NI
-– Block 2: gemäß Anlage 1
-– Block 3: amtliches Kfz-Kennzeichen des Amtssitzes
-– Block 4.1 (Ziffern 9 bis 10): Kennung gemäß Nummer 2.5
-– Block 4.1 (Ziffern 12 bis 13): 79
-– Block 4.2: Kurzbezeichnung „RES“
-– Blöcke 4.3 und 5: Unterscheidungszeichen
+– Block 1:
+
+NI
+
+– Block 2:
+
+gemäß Anlage 1
+
+– Block 3:
+
+amtliches Kfz-Kennzeichen des Amtssitzes
+
+– Block 4.1 (Ziffern 9 bis 10):
+
+Kennung gemäß Nummer 2.5
+
+– Block 4.1 (Ziffern 12 bis 13):
+
+79
+
+– Block 4.2:
+
+Kurzbezeichnung „RES“
+
+– Blöcke 4.3 und 5:
+
+Unterscheidungszeichen
+
 4. Funkrufnamenregelung
-4.1 Diese Funkrufnamenregelung gilt für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte
+4.1
+Diese Funkrufnamenregelung gilt für alle Feuerwehren, Träger des Rettungsdienstes und Beauftragte
 sowie für alle Katastrophenschutz-Einheiten und -Einrichtungen in Niedersachsen.
-4.2 Zur Durchführung des Sprechfunkverkehrs gemäß der BOS-Funkrichtlinie, den Dienstvorschriften 800
+4.2
+Zur Durchführung des Sprechfunkverkehrs gemäß der BOS-Funkrichtlinie, den Dienstvorschriften 800
 und 810 sowie weiterer durch die oberste Landesbehörde eingeführten Regelungen ist ein Funkrufname erforderlich. Dieser setzt sich aus Teilen der OPTA wie folgt zusammen:
-4.2.1 Rufname für die BOS gemäß Anlage 1
-4.2.2 Regionale Zuordnung
-4.2.2.1 Für diese Zuordnung wird der Name des Landkreises oder der kreisfreien Stadt benutzt.
+4.2.1
+
+Rufname für die BOS gemäß Anlage 1
+
+4.2.2
+
+Regionale Zuordnung
+
+4.2.3
+
+4.2.2.1
+
+Für diese Zuordnung wird der Name des Landkreises oder der kreisfreien Stadt benutzt.
 Führen Stadt und Landkreis den gleichen Namen, wird der Landkreisname in der Regel um
 das Wort „Land“ ergänzt.
-4.2.2.2 Endgeräte, die in Block 3 keine Zuordnung haben, führen die Bezeichnung „Niedersachsen“.
-4.2.3 Örtliche- bzw. Organisationskennung
+
+4.2.2.2
+
+Endgeräte, die in Block 3 keine Zuordnung haben, führen die Bezeichnung „Niedersachsen“.
+
+Örtliche- bzw. Organisationskennung
 Es wird die Ziffer gemäß der örtlichen Zuordnung oder der Organisation gesprochen. Luftbesetzte
 Rettungsmittel, die mehr als einem Rettungsdienstträger zugeordnet sind, führen keine örtliche Kennung gemäß Nummer 2.5. Sie benutzen im Funkrufnamen das Unterscheidungszeichen gemäß
 Block 4.3.
-4.2.4 Fahrzeug- und Funktionskennung
+
+4.2.4
+
+Fahrzeug- und Funktionskennung
 Es wird die Ziffer gemäß Anlage 2 gesprochen.
-4.2.5 Ordnungskennung
-4.2.5.1 An dieser Stelle wird ein Unterscheidungszeichen gesprochen, dass von den Kommunen
+
+4.2.5
+
+Ordnungskennung
+4.2.5.1
+
+An dieser Stelle wird ein Unterscheidungszeichen gesprochen, dass von den Kommunen
 gemäß Nummer 2.2 festgelegt wird. Damit können mehrere Fahrzeuge mit gleicher Funktionskennung an einem Standort unterschieden werden. Es sind auch andere Unterscheidungen, wie z. B. Ortswehren oder Rettungswachen, möglich.
-4.2.5.2 Des Weiteren werden Handfunkgeräte durchnummeriert und die laufende Nummer gesprochen. Das trifft auch auf Handfunkgeräte zu, die keinem Fahrzeug oder keiner Funktion zugeordnet sind. Die Ziffern werden rechtsbündig eingetragen.
-4.2.5.3 Die Ziffer 1 wird auch gesprochen, wenn nur ein Fahrzeug- oder Handfunkgerät vorhanden
+
+4.2.5.2
+
+Des Weiteren werden Handfunkgeräte durchnummeriert und die laufende Nummer gesprochen. Das trifft auch auf Handfunkgeräte zu, die keinem Fahrzeug oder keiner Funktion zugeordnet sind. Die Ziffern werden rechtsbündig eingetragen.
+
+4.2.5.3
+
+Die Ziffer 1 wird auch gesprochen, wenn nur ein Fahrzeug- oder Handfunkgerät vorhanden
 ist.
 
-4.3 Im Übrigen wird im Funkverkehr der unter Nummer 4.2 gebildete Funkrufname ausgesprochen. Hierbei werden auch die alle „0“ des Blockes 4.1 der OPTA zwecks klarer Zuordnung mitgesprochen.
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 9
+
+4.3
+Im Übrigen wird im Funkverkehr der unter Nummer 4.2 gebildete Funkrufname ausgesprochen. Hierbei werden auch die alle „0“ des Blockes 4.1 der OPTA zwecks klarer Zuordnung mitgesprochen.
 Die Ansprache von Leitstellen (Nummer 3.2) und Fernmeldezentralen (Nummer 3.3) erfolgt grundsätzlich
 in Klartext (Langbezeichnung gemäß Anlage 3) in Verbindung mit der regionalen Zuordnung.
 5. Schlussbestimmungen
-5.1 Fahrzeuge, welche ab dem Zeitpunkt des Inkrafttretens dieses RdErl. entweder neu beschafft oder
+5.1
+Fahrzeuge, welche ab dem Zeitpunkt des Inkrafttretens dieses RdErl. entweder neu beschafft oder
 ersetzt werden, sind unter Anwendung dieser Regelung mit der zulässigen OPTA auszustatten.
 Die OPTA vorhandener Fahrzeuge und Einrichtungen können, sofern sie von der Neuregelung abweichen,
 mit der zum Zeitpunkt der Beantragung der OPTA geltenden Regelung weitergeführt werden. Eine Angleichung an die Regelungen dieses RdErl. sollte erfolgen.
 Sofern als Ersatzkommunikation auch analoger Funkverkehr genutzt wird, gelten die Regelungen auch für
 den analogen Funkverkehr.
-5.2 Dieser RdErl. tritt am 01.03.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
+5.2
+
+Dieser RdErl. tritt am 01.03.2024 in Kraft und mit Ablauf des 31.12.2029 außer Kraft.
 
 An
 die Landkreise, kreisfreien Städte, Region Hannover, Landeshauptstadt Hannover, Städte Cuxhaven, Hameln, Hildesheim und Göttingen
@@ -282,581 +830,1829 @@ das Niedersächsisches Landesamt für Brand- und Katastrophenschutz
 Anlage 1
 Bezeichnung der Behörden und Organisationen
 mit Sicherheitsaufgaben (BOS) und Kurzzeichen
-BOS Beschreibung Kurzzeichen Rufname
-Feuerwehren Feuerwehr FW Florian
-Hilfsorganisationen Arbeiter-Samariter-Bund (ASB) ASB Sama
-Bergwacht BGW Bergwacht
+BOS
+
+Beschreibung
+
+Kurzzeichen
+
+Rufname
+
+Feuerwehren
+
+Feuerwehr
+
+FW
+
+Florian
+
+Hilfsorganisationen
+
+Arbeiter-Samariter-Bund (ASB)
+
+ASB
+
+Sama
+
+Bergwacht
+
+BGW
+
+Bergwacht
+
 Deutsche Gesellschaft zur Rettung Schiffbrüchiger
-DGS Triton
+
+DGS
+
+Triton
+
 Deutsche Lebens-Rettungs-Gesellschaft
 (DLRG)
-DLR Pelikan
-Deutsches Rotes Kreuz (DRK) DRK Rotkreuz
-Johanniter-Unfall-Hilfe (JUH) JUH Akkon
-Malteser Hilfsdienst (MHD) MHD Johannes
-Rettungshubschrauber CHR Christoph
-Sonstige als BOS anerkannte Rettungsdienste RD Rettung
-Wasserwacht WW Wasserwacht
-Katastrophenschutz Oberste Katastrophenschutzbehörde
-Weitere Katastrophenschutzeinheiten
-LEO
-KAT
-Leopold
-Kater
-Technisches Hilfswerk THW Heros
 
-BOS Beschreibung Kurzzeichen Rufname
+DLR
+
+Pelikan
+
+Deutsches Rotes Kreuz (DRK)
+
+DRK
+
+Rotkreuz
+
+Johanniter-Unfall-Hilfe (JUH)
+
+JUH
+
+Akkon
+
+Malteser Hilfsdienst (MHD)
+
+MHD
+
+Johannes
+
+Rettungshubschrauber
+
+CHR
+
+Christoph
+
+Sonstige als BOS anerkannte Rettungsdienste
+
+RD
+
+Rettung
+
+Wasserwacht
+
+WW
+
+Wasserwacht
+
+Oberste Katastrophenschutzbehörde
+
+LEO
+
+Leopold
+
+Weitere Katastrophenschutzeinheiten
+
+KAT
+
+Kater
+
+Technisches Hilfswerk
+
+THW
+
+Heros
+
+Katastrophenschutz
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+BOS
+
+Polizei
+
+Sonstige BOS
+
+1)
+2)
+3)
+
+Beschreibung
+
+Seite 10
+
+Kurzzeichen
+
+Rufname
+
 Bundesamt für Bevölkerungs- und Katastrophenhilfe
-Sirenensteuerung, Warnung der Bevölkerung
+
 BBK
 
-SIR
 1)
+
+Sirenensteuerung, Warnung der Bevölkerung
+
+SIR
 
 –
-Havariekommando HAV
+
+Havariekommando
+
+HAV
+
 1)
 
-Sonstige Einheiten des Katastrophenschutzes
-2)
+Sonstige Einheiten des Katastrophenschutzes2)
+
 SON
+
 1)
 
-Polizei Polizei POL
-1)
+Polizei
 
-Bundespolizei POL
-1)
-
-Bundeskriminalamt BKA
-1)
-
-Polizei des Deutschen Bundestages
-3)
 POL
+
 1)
 
-Sonstige BOS Innenministerien des Bundes und der Länder IM
+Bundespolizei
+
+POL
+
+1)
+
+Bundeskriminalamt
+
+BKA
+
+1)
+
+Polizei des Deutschen Bundestages3)
+
+POL
+
+1)
+
+Innenministerien des Bundes und der Länder
+
+IM
+
 1)
 
 Bundesanstalt für den Digitalfunk der Behörden
 und Organisationen mit Sicherheitsaufgaben
+
 BOS
+
 1)
 
-Kommunaler Ordnungsdienst ORD
+Kommunaler Ordnungsdienst
+
+ORD
+
 1)
-Justiz JUS Justizia
+
+Justiz
+
+JUS
+
+Justizia
+
 Bundesamt
 für Logistik und Mobilität
+
 BAG
-1)
-
-Verfassungsschutz V
-1)
-
-Zoll ZOL
-1)
-
-Bundeswehr MIL
-1)
 
 1)
+
+Verfassungsschutz
+
+V
+
+1)
+
+Zoll
+
+ZOL
+
+1)
+
+Bundeswehr
+
+MIL
+
+1)
+
 Der Rufname wird im Klartext übertragen.
-2)
 Gegebenenfalls aufgrund landesgesetzlicher Regelung.
-3)
 Die Polizei des Deutschen Bundestages führt auf den Stellen 6 bis 8 (Block 3) die Zeichenfolge „DBT“ für „Deutscher Bundestag“.
 
 Anlage 2
 Fahrzeug- und Funktionskennungen
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
 Ortsfeste Funkstellen
-00 Feuerwache, Feuerwehrhaus, Rettungswache, sonstige Feststation
+00
+
+Feuerwache, Feuerwehrhaus, Rettungswache, sonstige Feststation
 Funktionskennungen
-01 Leiterin oder Leiter der Organisation gemäß Organisationsregelung
-02 Stellvertretende Leiterin oder stellvertretender Leiter der Organisation gemäß Organisationsregelung
-1)
 
-03 Sonstige Leitungsfunktion/Kontingentführung (Landesebene) und Führungsfunktion von
-Einheiten ab Verbandsgröße
-1), 2)
+01
 
-04 Sonstige Leitungsfunktionen
-1), 2)
+Leiterin oder Leiter der Organisation gemäß Organisationsregelung
+
+02
+
+Stellvertretende Leiterin oder stellvertretender Leiter der Organisation gemäß Organisationsregelung 1)
+
+03
+
+Sonstige Leitungsfunktion/Kontingentführung (Landesebene) und Führungsfunktion von
+Einheiten ab Verbandsgröße 1), 2)
+
+04
+
+Sonstige Leitungsfunktionen 1), 2)
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 11
 
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
-05 Sonstige Leitungsfunktionen
-1), 2)
+05
 
-06 Sonstige Leitungsfunktionen
-1), 2)
+Sonstige Leitungsfunktionen 1), 2)
 
-07 Leitende Notärztin oder Leitender Notarzt
-08 Organisatorische Leiterin oder Organisatorischer Leiter Rettungsdienst
-09 Fachberaterin oder Fachberater, sonstige Funktionen
+06
 
+Sonstige Leitungsfunktionen 1), 2)
 
+07
+
+Leitende Notärztin oder Leitender Notarzt
+
+08
+
+Organisatorische Leiterin oder Organisatorischer Leiter Rettungsdienst
+
+09
+
+Fachberaterin oder Fachberater, sonstige Funktionen
 Einsatzleit- und Mannschaftstransportfahrzeuge
-10 Kommandowagen
-11 Einsatzleitwagen 1, Zugtruppkraftwagen (KatS), Messleitkomponente
-12 Einsatzleitwagen 2, Führungskraftwagen (KatS)
-13 teilstationäre Führungsmittel, Sonderfahrzeuge für TEL
-14 sonstige Fahrzeuge des Fernmeldedienstes
-15 Kombinationskraftwagen „Unmanned Aerial Vehicles“ (UAV), sonstige Fahrzeuge mit
+
+10
+
+Kommandowagen
+
+11
+
+Einsatzleitwagen 1, Zugtruppkraftwagen (KatS), Messleitkomponente
+
+12
+
+Einsatzleitwagen 2, Führungskraftwagen (KatS)
+
+13
+
+teilstationäre Führungsmittel, Sonderfahrzeuge für TEL
+
+14
+
+sonstige Fahrzeuge des Fernmeldedienstes
+
+15
+
+Kombinationskraftwagen „Unmanned Aerial Vehicles“ (UAV), sonstige Fahrzeuge mit
 UAV
-16 Mannschaftstransportwagen (z. B. Betreuung, PSNV, Verpflegung)
-17 Mannschaftstransportwagen
-18 Kraftomnibus
-19 Sonstige ELW, MTW, Pkw
+
+16
+
+Mannschaftstransportwagen (z. B. Betreuung, PSNV, Verpflegung)
+
+17
+
+Mannschaftstransportwagen
+
+18
+
+Kraftomnibus
+
+19
+
+Sonstige ELW, MTW, Pkw
 Tanklösch- und Sonderlöschfahrzeuge
-20 Tanklöschfahrzeug ≤ 2 000 l Wasser (z. B. TLF 8/18, TLF 2000)
-21 Tanklöschfahrzeug ≤ 3 000 l Wasser mit Truppbesatzung (z. B. TLF 16/24, TLF 3000)
-22 Tanklöschfahrzeug ≤ 3 000 l Wasser mit Truppbesatzung und Hilfeleistungssatz
+
+20
+
+Tanklöschfahrzeug ≤ 2 000 l Wasser (z. B. TLF 8/18, TLF 2000)
+
+21
+
+Tanklöschfahrzeug ≤ 3 000 l Wasser mit Truppbesatzung (z. B. TLF 16/24, TLF 3000)
+
+22
+
+Tanklöschfahrzeug ≤ 3 000 l Wasser mit Truppbesatzung und Hilfeleistungssatz
 (z. B. TLF 16/24, TLF 3000 mit Hilfeleistungssatz)
-23 Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung
+
+23
+
+Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung
 (z. B. TLF 16/25)
-24 Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung und Hilfeleistungssatz (z. B. TLF 16/25 mit Hilfeleistungssatz)
-25 Tanklöschfahrzeug > 3 000 l Wasser mit Truppbesatzung
+
+24
+
+Tanklöschfahrzeug ≤ 3 000 l Wasser mit mindestens Staffelbesatzung und Hilfeleistungssatz (z. B. TLF 16/25 mit Hilfeleistungssatz)
+
+25
+
+Tanklöschfahrzeug > 3 000 l Wasser mit Truppbesatzung
 (z. B. TLF 24/50, TLF 20/40, TLF 4000)
-26 Tanklöschfahrzeug > 3 000 l Wasser und Sonderlöschmittelkomponente mit Truppbesatzung (z. B. TLF 24/50, TLF 20/40 SL, TLF 4000)
-27 Großtanklöschfahrzeug > 6 000 l Wasser (z. B. Flugfeldlöschfahrzeug)
-28 Sonderlöschmittelfahrzeug, Trockenlöschfahrzeug, Schaummittelfahrzeug
-29 sonstige Tank- oder Sonderlöschfahrzeug (z. B. TroTLF16, CCFM)
+
+26
+
+Tanklöschfahrzeug > 3 000 l Wasser und Sonderlöschmittelkomponente mit Truppbesatzung (z. B. TLF 24/50, TLF 20/40 SL, TLF 4000)
+
+27
+
+Großtanklöschfahrzeug > 6 000 l Wasser (z. B. Flugfeldlöschfahrzeug)
+
+28
+
+Sonderlöschmittelfahrzeug, Trockenlöschfahrzeug, Schaummittelfahrzeug
+
+29
+
+sonstige Tank- oder Sonderlöschfahrzeug (z. B. TroTLF16, CCFM)
 Hub- (rettungs-) fahrzeuge
-30 Drehleiter mit Korb und einer Nennrettungshöhe ≥ 23 m (z. B. DLK 23-12, DLAK 23/12)
+
+30
+
+Drehleiter mit Korb und einer Nennrettungshöhe ≥ 23 m (z. B. DLK 23-12, DLAK 23/12)
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 12
 
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
-31 Drehleiter mit Korb und einer Nennrettungshöhe ≥ 18 m < 23 m (z. B. DLK 18-12, DLAK
+31
+
+Drehleiter mit Korb und einer Nennrettungshöhe ≥ 18 m < 23 m (z. B. DLK 18-12, DLAK
 18/12)
-32 Drehleiter mit Korb und einer Nennrettungshöhe < 18 m (z. B. DLK 12-9, DLAK 12/9)
-33 Drehleiter ohne Korb (z. B. DL 23-12, DLA 23/12, DLA 18/12, DLA 12/9)
-34 (nicht belegt)
-35 (nicht belegt)
-36 Hubfahrzeuge (z. B. Gabelstapler, Teleskoplader, Umschlaggerät)
-37 Hubarbeitsbühne, Teleskopgelenkmast mit einer Nennrettungshöhe ≤ 23 m
-38 Hubarbeitsbühne, Teleskopgelenkmast mit einer Nennrettungshöhe > 23 m
-39 sonstige Hubrettungsfahrzeuge
+
+32
+
+Drehleiter mit Korb und einer Nennrettungshöhe < 18 m (z. B. DLK 12-9, DLAK 12/9)
+
+33
+
+Drehleiter ohne Korb (z. B. DL 23-12, DLA 23/12, DLA 18/12, DLA 12/9)
+
+34
+
+(nicht belegt)
+
+35
+
+(nicht belegt)
+
+36
+
+Hubfahrzeuge (z. B. Gabelstapler, Teleskoplader, Umschlaggerät)
+
+37
+
+Hubarbeitsbühne, Teleskopgelenkmast mit einer Nennrettungshöhe ≤ 23 m
+
+38
+
+Hubarbeitsbühne, Teleskopgelenkmast mit einer Nennrettungshöhe > 23 m
+
+39
+
+sonstige Hubrettungsfahrzeuge
 Tragkraftspritzen- und Lösch(gruppen)fahrzeuge
-40 Tragkraftspritzenfahrzeug
-41 Tragkraftspritzenfahrzeug – Wasser
-42 Staffellöschfahrzeug (z. B. StLF 10/6, MLF)
-43 Löschgruppenfahrzeug ohne Wassertank (z. B. LF 8)
-44 Löschgruppenfahrzeug Katastrophenschutz (z. B. LF 16-TS, LF 20-KatS, LF-KatS)
-45 Löschgruppenfahrzeug (z. B. LF 8/6, LF 10/6, LF 10)
-46 Hilfeleistungslöschgruppenfahrzeug (z. B. HLF 10/6, HLF 10)
-47 Löschgruppenfahrzeug (z. B. LF 16, LF 16/12, LF 20/16, LF 20)
-48 Hilfeleistungslöschgruppenfahrzeug (z. B. HLF 16, HLF 16/12, HLF 20/16, HLF 20)
-49 Sonstiges Löschfahrzeug
-Rüst- und Gerätewagen
-4)
 
-50 Vorausrüstwagen, Kleinalarmfahrzeug
-51 Rüstwagen 1, Gerätewagen Logistik-Technische Hilfe
-52 Rüstwagen, Rüstwagen 2
-53 Feuerwehrkran
-54 Gerätewagen Wassergefahren/Technik, Rüstwagen sonstige
-55 Gerätewagen Licht, Gerätewagen Strom-/Elektroversorgung
-56 Gerätewagen Atemschutz
-57 Gerätewagen Tauchen, Gerätewagen Spezialtauchen
-58 Gerätewagen Wasserrettung, Gerätewagen Strömungsrettung
-59 Gerätewagen Rettungshunde, sonstige Gerätewagen
-5)
+40
 
+Tragkraftspritzenfahrzeug
+
+41
+
+Tragkraftspritzenfahrzeug – Wasser
+
+42
+
+Staffellöschfahrzeug (z. B. StLF 10/6, MLF)
+
+43
+
+Löschgruppenfahrzeug ohne Wassertank (z. B. LF 8)
+
+44
+
+Löschgruppenfahrzeug Katastrophenschutz (z. B. LF 16-TS, LF 20-KatS, LF-KatS)
+
+45
+
+Löschgruppenfahrzeug (z. B. LF 8/6, LF 10/6, LF 10)
+
+46
+
+Hilfeleistungslöschgruppenfahrzeug (z. B. HLF 10/6, HLF 10)
+
+47
+
+Löschgruppenfahrzeug (z. B. LF 16, LF 16/12, LF 20/16, LF 20)
+
+48
+
+Hilfeleistungslöschgruppenfahrzeug (z. B. HLF 16, HLF 16/12, HLF 20/16, HLF 20)
+
+49
+
+Sonstiges Löschfahrzeug
+Rüst- und Gerätewagen 4)
+
+50
+
+Vorausrüstwagen, Kleinalarmfahrzeug
+
+51
+
+Rüstwagen 1, Gerätewagen Logistik-Technische Hilfe
+
+52
+
+Rüstwagen, Rüstwagen 2
+
+53
+
+Feuerwehrkran
+
+54
+
+Gerätewagen Wassergefahren/Technik, Rüstwagen sonstige
+
+55
+
+Gerätewagen Licht, Gerätewagen Strom-/Elektroversorgung
+
+56
+
+Gerätewagen Atemschutz
+
+57
+
+Gerätewagen Tauchen, Gerätewagen Spezialtauchen
+
+58
+
+Gerätewagen Wasserrettung, Gerätewagen Strömungsrettung
+
+59
+
+Gerätewagen Rettungshunde, sonstige Gerätewagen 5)
 Versorgungs- und Logistikfahrzeuge
 
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
-60 Kombinationskraftwagen Logistik
-61 Schlauchwagen 500, Schlauchwagen 1000,
+60
+
+Kombinationskraftwagen Logistik
+
+61
+
+Schlauchwagen 500, Schlauchwagen 1000,
 GW Logistik Schlauch mit mindestens 1 000 m B-Schlauch
-62 Schlauchwagen 2000, Schlauchwagen-Katastrophenschutz,
+
+62
+
+Schlauchwagen 2000, Schlauchwagen-Katastrophenschutz,
 GW Logistik Schlauch mit mindestens 2 000 m B-Schlauch
-63 Kleinlastkraftwagen < 3,5 t zGM, Gerätewagen Logistik ≤ 7,49 t zGM
-64 Gerätewagen Nachschub
+
+63
+
+Kleinlastkraftwagen < 3,5 t zGM, Gerätewagen Logistik ≤ 7,49 t zGM
+
+64
+
+Gerätewagen Nachschub
 Gerätewagen Logistik 1, Gerätwagen Logistik klein (KatS),
 Lastkraftwagen ≤ 12 t zGM Ladebordwand
-65 Wechselladerfahrzeug 5500 (18 t)
-66 Wechselladerfahrzeug 6500 (26 t)
-67 Wechselladerfahrzeug Kran
-68 Gerätewagen Logistik 2, Gerätewagen Logistik groß (KatS),
-Lastkraftwagen > 12 t zGM mit Ladebordwand
-69 Lkw-Kipper, Sattelzugmaschine, sonstige Versorgungs- und Logistikfahrzeuge
-ABC-, Betreuungs- und sonstige Fahrzeuge
-70 Gerätewagen Messtechnik
-71 ABC-/CBRN-Erkundungskraftwagen, Gerätewagen Strahlenspürtrupp
-72 Gerätewagen Dekontamination (Personen, Verletzte oder Geräte)
-73 Gerätewagen Gefahrgut, Gerätewagen Logistik-Gefahrgut
-74 Gerätewagen Betreuung
-75 Gerätewagen Technik
-76 Gerätewagen Verpflegung, Küchenkraftwagen und Kühlfahrzeug
-77 Mehrzweckboot, Hochwasserschutzboot
-78 Rettungsboot
-79 Sonstige Fahrzeuge, Reservefunkgeräte (z. B. Krad, Flugzeug)
-Notfallrettung, Notarztsysteme
-80 Arztbesetzte Luftfahrzeuge
-6)
 
-81 Notarztwagen
-82 Notarzteinsatzfahrzeug
-83 Rettungswagen – RD
-84 Rettungswagen – RD temporär
-85 Rettungswagen – GSE/erweiterter RD/KatS
-86 Baby-Notarztwagen
-87 Intensivtransportwagen
+65
+
+Wechselladerfahrzeug 5500 (18 t)
+
+66
+
+Wechselladerfahrzeug 6500 (26 t)
+
+67
+
+Wechselladerfahrzeug Kran
+
+68
+
+Gerätewagen Logistik 2, Gerätewagen Logistik groß (KatS),
+Lastkraftwagen > 12 t zGM mit Ladebordwand
+
+69
+
+Lkw-Kipper, Sattelzugmaschine, sonstige Versorgungs- und Logistikfahrzeuge
+ABC-, Betreuungs- und sonstige Fahrzeuge
+
+70
+
+Gerätewagen Messtechnik
+
+71
+
+ABC-/CBRN-Erkundungskraftwagen, Gerätewagen Strahlenspürtrupp
+
+72
+
+Gerätewagen Dekontamination (Personen, Verletzte oder Geräte)
+
+73
+
+Gerätewagen Gefahrgut, Gerätewagen Logistik-Gefahrgut
+
+74
+
+Gerätewagen Betreuung
+
+75
+
+Gerätewagen Technik
+
+76
+
+Gerätewagen Verpflegung, Küchenkraftwagen und Kühlfahrzeug
+
+77
+
+Mehrzweckboot, Hochwasserschutzboot
+
+78
+
+Rettungsboot
+
+79
+
+Sonstige Fahrzeuge, Reservefunkgeräte (z. B. Krad, Flugzeug)
+Notfallrettung, Notarztsysteme
+
+80
+
+Arztbesetzte Luftfahrzeuge 6)
+
+81
+
+Notarztwagen
+
+82
+
+Notarzteinsatzfahrzeug
+
+83
+
+Rettungswagen – RD
+
+84
+
+Rettungswagen – RD temporär
+
+85
+
+Rettungswagen – GSE/erweiterter RD/KatS
+
+86
+
+Baby-Notarztwagen
+
+87
+
+Intensivtransportwagen
+
+Seite 13
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Seite 14
 
 Ziffer für die OPTA Fahrzeug- und Funktionskennungen
-88 Großraumrettungswagen und Großraumkrankentransportwagen
-89 Sonstige Rettungsmittel
-7)
+88
 
+Großraumrettungswagen und Großraumkrankentransportwagen
+
+89
+
+Sonstige Rettungsmittel 7)
 Krankentransport, vorübergehende Einrichtungen, Sanitätsdienst
-90 Vorübergehende Einrichtungen wie Behandlungsplatz, Betreuungsstelle, Unfallhilfsstelle
-91 (Nicht belegt)
-92 Krankentransportwagen
-93 Notfallkrankenwagen – RD
-94 Krankentransportwagen 4-Tragen oder 2-Tragen, Krankentransportwagen Typ B
+
+90
+
+Vorübergehende Einrichtungen wie Behandlungsplatz, Betreuungsstelle, Unfallhilfsstelle
+
+91
+
+(Nicht belegt)
+
+92
+
+Krankentransportwagen
+
+93
+
+Notfallkrankenwagen – RD
+
+94
+
+Krankentransportwagen 4-Tragen oder 2-Tragen, Krankentransportwagen Typ B
 (Bund)
-95 Gerätewagen Behandlungsplatz, Gerätewagen Massenanfall an Verletzten – GSE/erweiterter RD
-96 Gerätewagen Sanität, Gerätewagen Behandlung (MTF)
-97 Infektions-Krankentransportwagen, Infektions-Rettungswagen
-98 Krankentransportwagen geländegängig, Rettungswagen geländegängig
-99 Mannschaftstransportwagen-multifunktional, Kraftfahrzeuge zur Beförderung Mobilitätsbehinderter, sonstige Krankentransportmittel
-1)
+
+95
+
+Gerätewagen Behandlungsplatz, Gerätewagen Massenanfall an Verletzten – GSE/erweiterter RD
+
+96
+
+Gerätewagen Sanität, Gerätewagen Behandlung (MTF)
+
+97
+
+Infektions-Krankentransportwagen, Infektions-Rettungswagen
+
+98
+
+Krankentransportwagen geländegängig, Rettungswagen geländegängig
+
+99
+
+Mannschaftstransportwagen-multifunktional, Kraftfahrzeuge zur Beförderung Mobilitätsbehinderter, sonstige Krankentransportmittel
 Mehrere gleichrangige Funktionsträgerinnen oder Funktionsträger sind ggf. im Block 4.3 durchzunummerieren.
-2)
 Mit den Ziffern 03 bis 06 lassen sich die verschiedenen Führungsstufen (z. B. gemäß FwDV 100) darstellen.
-3)
 Entfällt.
-4)
 Abrollbehälter können die Ziffer der thematisch passenden Geräte oder Rüstwagen erhalten.
-5)
 Zum Beispiel Rettungshund oder Tierrettung.
-6)
 Zum Beispiel RTH, ITH.
-7)
 Zum Beispiel Schwerlast-RTW.
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
 
 Anlage 3
 Abkürzungen zur Verwendung in der OPTA
 – Nicht abschließendes Verzeichnis –
-Art Kurzbezeichnung Abkürzung
-Funktions-
-bereiche
-Oberste Landesbehörde,
-z. B. Innenministerium
-IM
-Oberste Katastrophenschutzbehörde
-Niedersächsisches Landesamt für Brand- und Katastrophenschutz
-LEO
-NLBK
-Landesbranddirektorin oder Landesbranddirektor LBD
-Polizeidirektion PD
-Regierungsbrandmeisterin oder Regierungsbrandmeister
-Kontingentführerin oder Kontingentführer
-RBM
-KONFUE
-Einsatzleiterin oder Einsatzleiter EL
-Leiterin oder Leiter der Organisation LDO
+Art
 
-Art Kurzbezeichnung Abkürzung
-Leiterin oder Leiter vom Dienst LVD
-Leiterin oder Leiter Hauptberufliche Wachbereitschaft LHWB
-Leiterin oder Leiter Fernmeldebetrieb LDF
-Leiterin oder Leiter Werkfeuerwehr LWF
-1. Stellvertretende Leiterin oder LDOV
+Kurzbezeichnung
+
+Funktions- Oberste Landesbehörde,
+bereiche
+z. B. Innenministerium
+
+Abkürzung
+IM
+
+Oberste Katastrophenschutzbehörde
+
+LEO
+
+Niedersächsisches Landesamt für Brand- und Katastrophenschutz
+
+NLBK
+
+Landesbranddirektorin oder Landesbranddirektor
+
+LBD
+
+Polizeidirektion
+
+PD
+
+Regierungsbrandmeisterin oder Regierungsbrandmeister
+
+RBM
+
+Kontingentführerin oder Kontingentführer
+
+KONFUE
+
+Einsatzleiterin oder Einsatzleiter
+
+EL
+
+Leiterin oder Leiter der Organisation
+
+LDO
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 15
+
+Kurzbezeichnung
+
+Abkürzung
+
+Leiterin oder Leiter vom Dienst
+
+LVD
+
+Leiterin oder Leiter Hauptberufliche Wachbereitschaft
+
+LHWB
+
+Leiterin oder Leiter Fernmeldebetrieb
+
+LDF
+
+Leiterin oder Leiter Werkfeuerwehr
+
+LWF
+
+1. Stellvertretende Leiterin oder
+
+LDOV
+
 1. Stellvertretende Leiter der Organisation
-2. Stellvertretende Leiterin oder LDOVV
+2. Stellvertretende Leiterin oder
+
+LDOVV
+
 2. Stellvertretender Leiter der Organisation
-Lagedienstführerin oder Lagedienstführer LAGEDI
-Führungskraft Führungsstufe D (A-Dienst) ADI
-Führungskraft Führungsstufe C (B-Dienst) BDI
-Führungskraft Führungsstufe B (C-Dienst) CDI
-Führungsassistenz FÜASS
-Brandmeisterin oder Brandmeister vom Dienst BVD
-Einsatzleitdienst ELD
-Kreisbrandmeisterin oder Kreisbrandmeister KBM
-Kreisschirrmeisterin oder Kreisschirrmeister KSM
+Lagedienstführerin oder Lagedienstführer
+
+LAGEDI
+
+Führungskraft Führungsstufe D (A-Dienst)
+
+ADI
+
+Führungskraft Führungsstufe C (B-Dienst)
+
+BDI
+
+Führungskraft Führungsstufe B (C-Dienst)
+
+CDI
+
+Führungsassistenz
+
+FÜASS
+
+Brandmeisterin oder Brandmeister vom Dienst
+
+BVD
+
+Einsatzleitdienst
+
+ELD
+
+Kreisbrandmeisterin oder Kreisbrandmeister
+
+KBM
+
+Kreisschirrmeisterin oder Kreisschirrmeister
+
+KSM
+
 Funk- und Kommunikationsbeauftragte oder Funk- und Kommunikationsbeauftragter (S 6)
+
 FUNK
-Kreisbereitschaftsführerin oder Kreisbereitschaftsführer KBF
-Regionalbereitschaftsführerin oder Regionalbereitschaftsführer RBF
-Leitende Notärztin oder Leitender Notarzt LNA
-Organisatorische Leiterin oder Organisatorischer Leiter Rettungsdienst ORGL
-Abschnittsleiterin oder Abschnittsleiter AL
+
+Kreisbereitschaftsführerin oder Kreisbereitschaftsführer
+
+KBF
+
+Regionalbereitschaftsführerin oder Regionalbereitschaftsführer
+
+RBF
+
+Leitende Notärztin oder Leitender Notarzt
+
+LNA
+
+Organisatorische Leiterin oder Organisatorischer Leiter Rettungsdienst
+
+ORGL
+
+Abschnittsleiterin oder Abschnittsleiter
+
+AL
+
 Bereitschaftsführerin/Verbandsführerin oder Bereitschaftsführer/Verbandsführer
+
 VF
-Stadtbrandmeisterin oder Stadtbrandmeister STBM
-Gemeindebrandmeisterin oder Gemeindebrandmeister GBM
-Ortsbrandmeisterin oder Ortsbrandmeister ORTSBM
-Pressesprecherin oder Pressesprecher PRESSE
-Zugführerin oder Zugführer ZF
-Fachberaterin oder Fachberater FACHBER
+
+Stadtbrandmeisterin oder Stadtbrandmeister
+
+STBM
+
+Gemeindebrandmeisterin oder Gemeindebrandmeister
+
+GBM
+
+Ortsbrandmeisterin oder Ortsbrandmeister
+
+ORTSBM
+
+Pressesprecherin oder Pressesprecher
+
+PRESSE
+
+Zugführerin oder Zugführer
+Fachberaterin oder Fachberater
+
+ZF
+FACHBER
 oder
 FB
 
-Art Kurzbezeichnung Abkürzung
-Führungskraft Logistik und Führungstrupp Logistik LOGFUE
-Taucheinsatzführer TAUFUE
-Unterführerin oder Unterführer, Gruppenführerin oder Gruppenführer GF
-Truppführerin oder Truppführer TF
-Angriffstruppführerin oder Angriffstruppführer ANGRTF
-Stellvertreterin oder Stellvertreter …V
-Angriffstruppfrau oder Angriffstruppmann ANGRM
-Wassertruppführerin oder Wassertruppführer WTF
-Wassertruppfrau oder Wassertruppmann WTM
-Schlauchtruppführerin oder Schlauchtruppführer STF
-Schlauchtruppfrau oder Schlauchtruppmann STM
-Maschinistin oder Maschinist MA
-Zusatz Information und Kommunikation IUK
-Zusatz Rettungshunde RETTHU
-Zusatz Wasserrettung WASS
-Zusatz Tauchen TAUCH
-Zusatz Rettung/Rettungsdienst RETT
-Zusatz Höhenrettung HRETT
-Zusatz Verpflegung/Küche VPF
-Zusatz Betreuung BTR
-Zusatz Behandlung BEH
-Zusatz Fernmeldedienst FMD
-Zusatz Umwelt UMW
-Zusatz Waldbrand/Vegetationsbrand VEG
-Zusatz ABC ABC
-Zusatz Dekontamination DEKON
-Zusatz Hygiene HYG
-Zusatz Psychosoziale Notfallversorgung PSNV
-Zusatz Notfallseelsorge SEELS
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 16
+
+Kurzbezeichnung
+
+Abkürzung
+
+Führungskraft Logistik und Führungstrupp Logistik
+
+LOGFUE
+
+Taucheinsatzführer
+
+TAUFUE
+
+Unterführerin oder Unterführer, Gruppenführerin oder Gruppenführer
+
+GF
+
+Truppführerin oder Truppführer
+
+TF
+
+Angriffstruppführerin oder Angriffstruppführer
+Stellvertreterin oder Stellvertreter
+Angriffstruppfrau oder Angriffstruppmann
+
+ANGRTF
+…V
+ANGRM
+
+Wassertruppführerin oder Wassertruppführer
+
+WTF
+
+Wassertruppfrau oder Wassertruppmann
+
+WTM
+
+Schlauchtruppführerin oder Schlauchtruppführer
+
+STF
+
+Schlauchtruppfrau oder Schlauchtruppmann
+
+STM
+
+Maschinistin oder Maschinist
+
+MA
+
+Zusatz Information und Kommunikation
+
+IUK
+
+Zusatz Rettungshunde
+
+RETTHU
+
+Zusatz Wasserrettung
+
+WASS
+
+Zusatz Tauchen
+
+TAUCH
+
+Zusatz Rettung/Rettungsdienst
+
+RETT
+
+Zusatz Höhenrettung
+
+HRETT
+
+Zusatz Verpflegung/Küche
+
+VPF
+
+Zusatz Betreuung
+
+BTR
+
+Zusatz Behandlung
+
+BEH
+
+Zusatz Fernmeldedienst
+
+FMD
+
+Zusatz Umwelt
+
+UMW
+
+Zusatz Waldbrand/Vegetationsbrand
+
+VEG
+
+Zusatz ABC
+
+ABC
+
+Zusatz Dekontamination
+
+DEKON
+
+Zusatz Hygiene
+
+HYG
+
+Zusatz Psychosoziale Notfallversorgung
+
+PSNV
+
+Zusatz Notfallseelsorge
+
+SEELS
+
 Zusatz örtliche Lage
-
-
 
 NORD
 SUED
 OST
 WEST
 
-Art Kurzbezeichnung Abkürzung
-Zusatz Schiffsbrandbekämpfung
-Sonstige
-SCHIFF
-SONST
-Einheit Technische Einsatzleitung TEL
-Einsatzleitung vor Ort ELO
-Bereitschaft BER
-Zug ZUG
-Gruppe GRU
-Staffel STF
-Trupp TRU
-Schnelleinsatzgruppe SEG
-Kreisfeuerwehrbereitschaft KFB
-Medizinische Task Force MTF
-Reserve Funkgeräte RES
-Funkgeräte für Ausbildung AUSBDG
-Brandsicherheitswachdienst BRASIWA
-Psychosoziale Notfallversorgung PSNV
-Analytische Task Force ATF
-Leitstelle LTS
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Einheit
+
 Einrichtung
+
+Seite 17
+
+Kurzbezeichnung
+
+Abkürzung
+
+Zusatz Schiffsbrandbekämpfung
+
+SCHIFF
+
+Sonstige
+
+SONST
+
+Technische Einsatzleitung
+
+TEL
+
+Einsatzleitung vor Ort
+
+ELO
+
+Bereitschaft
+
+BER
+
+Zug
+
+ZUG
+
+Gruppe
+
+GRU
+
+Staffel
+
+STF
+
+Trupp
+
+TRU
+
+Schnelleinsatzgruppe
+
+SEG
+
+Kreisfeuerwehrbereitschaft
+
+KFB
+
+Medizinische Task Force
+
+MTF
+
+Reserve Funkgeräte
+
+RES
+
+Funkgeräte für Ausbildung
+
+AUSBDG
+
+Brandsicherheitswachdienst
+
+BRASIWA
+
+Psychosoziale Notfallversorgung
+
+PSNV
+
+Analytische Task Force
+
+ATF
+
+Leitstelle
+
+LTS
+
 Fernmeldezentrale
-Stab
+
 FMZT
+
+Stab
+
 STAB
-Örtliche Einsatzleitung ÖEL
-Feuerwache FWACHE
-Feuerwehrhaus FHAUS
-Rettungswache RWACHE
-Unterkunft UNTERK
-Behandlungsplatz BHP
-Betreuungsstelle BTS
-Unfallhilfsstelle UHS
-Feuerwehrtechnische Zentrale FTZ
-Fahrzeuge ABC Erkundungskraftwagen (ABC-Erkunder) ABCERK
-ABC-Messleitwagen MESSLE
+
+Örtliche Einsatzleitung
+
+ÖEL
+
+Feuerwache
+
+FWACHE
+
+Feuerwehrhaus
+
+FHAUS
+
+Rettungswache
+
+RWACHE
+
+Unterkunft
+
+UNTERK
+
+Behandlungsplatz
+
+BHP
+
+Betreuungsstelle
+
+BTS
+
+Unfallhilfsstelle
+
+UHS
+
+Feuerwehrtechnische Zentrale
+
+FTZ
+
+Fahrzeuge ABC Erkundungskraftwagen (ABC-Erkunder)
+
+ABCERK
+
+ABC-Messleitwagen
+
+MESSLE
+
 Abrollbehälter
-Abstützmaterial
+
 AB
+
+Abstützmaterial
+
 BAU
 
-Art Kurzbezeichnung Abkürzung
-Anhänger Umwelt UMWELTA
-Atemschutz A
-Atemschutz/Strahlenschutz AS
-Bagger/Schaufellader BAGGER
-Behindertentransportwagen BEHINDTW
-Betreuungs-Lastkraftwagen BLKW
-Betreuungskombi BTRKOMBI
-Betreuung BTR
-CBRN-Erkundungswagen CBRNERKW
-CBRN-Messleitkomponente CBRNMLK
-Dekon-Fahrzeug Gerät (Dekon-G) DEKONG
-Dekon-Fahrzeug Personen (Dekon-P) DEKONP
-Dekon-Fahrzeug Verletzter (Dekon-V) DEKONV
-Drehleiter DL 16/4 DL16-4
-Drehleiter DLAK 12/9 DLK12-9
-Drehleiter DLAK 18/12 DLK18-12
-Drehleiter DLAK 23/12 DLK23-12
-Drehleiter DLK 12/9 DLK12-9
-Drehleiter DLK 18/12 DLK18-12
-Drehleiter DLK 23/12 DLK23-12
-Einsatzleitwagen ATF ELWATF
-Einsatzleitwagen ELW 1 ELW1
-Einsatzleitwagen ELW 2 ELW2
-Einsatzleitwagen ELW 3 ELW3
-Fernmeldebau FMBAU
-Feuerlöschboot FLB
-Feuerwehrflugdienst FLUGDI
-Flugfeldlöschfahrzeug FLF
-Führungskraftwagen FUEKW
-Führungs- und Kommunikationskraftwagen FUEKOMKW
-Gefahrgut G
-geländegängig GL
-Gerätewagen GW
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
 
-Art Kurzbezeichnung Abkürzung
-Gerätewagen Logistik klein (KatS) GW-L-KL
-Gerätewagen Logistik groß (KatS) GW-L-GR
-Großkrankenwagen GKTW
+Art
+
+Seite 18
+
+Kurzbezeichnung
+Anhänger Umwelt
+
+Abkürzung
+UMWELTA
+
+Atemschutz
+
+A
+
+Atemschutz/Strahlenschutz
+
+AS
+
+Bagger/Schaufellader
+
+BAGGER
+
+Behindertentransportwagen
+
+BEHINDTW
+
+Betreuungs-Lastkraftwagen
+
+BLKW
+
+Betreuungskombi
+Betreuung
+
+BTRKOMBI
+BTR
+
+CBRN-Erkundungswagen
+
+CBRNERKW
+
+CBRN-Messleitkomponente
+
+CBRNMLK
+
+Dekon-Fahrzeug Gerät (Dekon-G)
+
+DEKONG
+
+Dekon-Fahrzeug Personen (Dekon-P)
+
+DEKONP
+
+Dekon-Fahrzeug Verletzter (Dekon-V)
+
+DEKONV
+
+Drehleiter DL 16/4
+
+DL16-4
+
+Drehleiter DLAK 12/9
+
+DLK12-9
+
+Drehleiter DLAK 18/12
+
+DLK18-12
+
+Drehleiter DLAK 23/12
+
+DLK23-12
+
+Drehleiter DLK 12/9
+
+DLK12-9
+
+Drehleiter DLK 18/12
+
+DLK18-12
+
+Drehleiter DLK 23/12
+
+DLK23-12
+
+Einsatzleitwagen ATF
+
+ELWATF
+
+Einsatzleitwagen ELW 1
+
+ELW1
+
+Einsatzleitwagen ELW 2
+
+ELW2
+
+Einsatzleitwagen ELW 3
+
+ELW3
+
+Fernmeldebau
+
+FMBAU
+
+Feuerlöschboot
+
+FLB
+
+Feuerwehrflugdienst
+
+FLUGDI
+
+Flugfeldlöschfahrzeug
+
+FLF
+
+Führungskraftwagen
+
+FUEKW
+
+Führungs- und Kommunikationskraftwagen
+
+FUEKOMKW
+
+Gefahrgut
+
+G
+
+geländegängig
+
+GL
+
+Gerätewagen
+
+GW
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 19
+
+Kurzbezeichnung
+
+Abkürzung
+
+Gerätewagen Logistik klein (KatS)
+
+GW-L-KL
+
+Gerätewagen Logistik groß (KatS)
+
+GW-L-GR
+
+Großkrankenwagen
+
+GKTW
+
 Großrettungswagen
-Hilfeleistungslöschfahrzeug HLF 16/12
-Hilfeleistungslöschfahrzeug HLF 16/25
+
 GRTW
-HLF16- 12
-HLF16- 25
-Hilfeleistungslöschfahrzeug HLF 20/16 HLF20-16
-Hilfeleistungslöschgruppenfahrzeug HLF 10 HLF10
-Hilfeleistungslöschgruppenfahrzeug HLF 10/6 HLF10-6
-Hilfeleistungslöschgruppenfahrzeug HLF 20 HLF20
-Hubarbeitsbühne, HAB HAB
-Information und Kommunikation IUK
-Intensivtransporthubschrauber ITH
-Intensivtransportwagen ITW
-Kleinalarmfahrzeug KLAF KLAF
-Kleinlöschfahrzeug KLF
-Kombinationskraftwagen KOMBI
-Kombinationskraftwagen Logistik KOMBI-LOG
-Kombinationskraftwagen UAV KOMBI-UAV
-Kommandowagen KDOW
-Krad KRAD
-Kraftomnibus KOM
-Kran KRAN
-Krankentransportwagen 4-Tragen KTW4
-Krankentransportwagen Typ A 1 KTWA1
-Krankentransportwagen Typ A 2 KTWA2
-Krankentransportwagen Typ B KTWB
-Krankentransportwagen-Infektion KTWINF
-Krankentransportwagen geländegängig KTW-GL
-Kühlfahrzeug/Kühltransport KÜHL
-Lastkraftwagen LKW
-Lastkraftwagen Kipper LKWKIP
-Lichtmastfahrzeug LIMA
 
-Art Kurzbezeichnung Abkürzung
-Logistik L
-Logistik 1 L1
-Logistik 2 L2
-Löschgruppenfahrzeug 20 KatS LF20KATS
-Löschgruppenfahrzeug KatS LFKATS
-Löschgruppenfahrzeug LF 10 LF10
-Löschgruppenfahrzeug LF 10/6 LF10-6
-Löschgruppenfahrzeug LF 16 LF16
-Löschgruppenfahrzeug LF 16 TS LF16TS
-Löschgruppenfahrzeug LF 16/12 LF16-12
-Löschgruppenfahrzeug LF 20 LF20
-Löschgruppenfahrzeug LF 20/16 LF20-16
-Löschgruppenfahrzeug LF 24 LF24
-Löschgruppenfahrzeug LF 8 LF8
-Löschgruppenfahrzeug LF 8/6 LF8-6
-Löschgruppenfahrzeug LF 8/6 mit technischer Hilfeleistung LF8-6H
-Luftbeobachter LUFTBE
-Mannschaftstransportwagen MTW
-Mannschaftstransportwagen Behandlung MTWBEH
-Mannschaftstransportwagen Betreuung MTWBTR
-Mannschaftstransportwagen Dekontamination Verletzter MTWDEKON
-Mannschaftstransportwagen multifunktional MTWMUL
-Mannschaftstransportwagen Verpflegung MTWVPF
-Medizin MED
-Mehrzweckboot MZB
-Mehrzweckfahrzeug MZF
-Messtechnik MESS
-Messleitkomponente MLK
+Hilfeleistungslöschfahrzeug HLF 16/12
+
+HLF16-12
+
+Hilfeleistungslöschfahrzeug HLF 16/25
+
+HLF16-25
+
+Hilfeleistungslöschfahrzeug HLF 20/16
+
+HLF20-16
+
+Hilfeleistungslöschgruppenfahrzeug HLF 10
+
+HLF10
+
+Hilfeleistungslöschgruppenfahrzeug HLF 10/6
+
+HLF10-6
+
+Hilfeleistungslöschgruppenfahrzeug HLF 20
+
+HLF20
+
+Hubarbeitsbühne, HAB
+
+HAB
+
+Information und Kommunikation
+
+IUK
+
+Intensivtransporthubschrauber
+
+ITH
+
+Intensivtransportwagen
+
+ITW
+
+Kleinalarmfahrzeug KLAF
+
+KLAF
+
+Kleinlöschfahrzeug
+
+KLF
+
+Kombinationskraftwagen
+
+KOMBI
+
+Kombinationskraftwagen Logistik
+
+KOMBI-LOG
+
+Kombinationskraftwagen UAV
+
+KOMBI-UAV
+
+Kommandowagen
+
+KDOW
+
+Krad
+
+KRAD
+
+Kraftomnibus
+
+KOM
+
+Kran
+
+KRAN
+
+Krankentransportwagen 4-Tragen
+
+KTW4
+
+Krankentransportwagen Typ A 1
+
+KTWA1
+
+Krankentransportwagen Typ A 2
+
+KTWA2
+
+Krankentransportwagen Typ B
+
+KTWB
+
+Krankentransportwagen-Infektion
+
+KTWINF
+
+Krankentransportwagen geländegängig
+
+KTW-GL
+
+Kühlfahrzeug/Kühltransport
+
+KÜHL
+
+Lastkraftwagen
+
+LKW
+
+Lastkraftwagen Kipper
+Lichtmastfahrzeug
+
+LKWKIP
+LIMA
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 20
+
+Kurzbezeichnung
+
+Abkürzung
+
+Logistik
+
+L
+
+Logistik 1
+
+L1
+
+Logistik 2
+
+L2
+
+Löschgruppenfahrzeug 20 KatS
+
+LF20KATS
+
+Löschgruppenfahrzeug KatS
+
+LFKATS
+
+Löschgruppenfahrzeug LF 10
+
+LF10
+
+Löschgruppenfahrzeug LF 10/6
+
+LF10-6
+
+Löschgruppenfahrzeug LF 16
+
+LF16
+
+Löschgruppenfahrzeug LF 16 TS
+
+LF16TS
+
+Löschgruppenfahrzeug LF 16/12
+
+LF16-12
+
+Löschgruppenfahrzeug LF 20
+
+LF20
+
+Löschgruppenfahrzeug LF 20/16
+
+LF20-16
+
+Löschgruppenfahrzeug LF 24
+
+LF24
+
+Löschgruppenfahrzeug LF 8
+
+LF8
+
+Löschgruppenfahrzeug LF 8/6
+
+LF8-6
+
+Löschgruppenfahrzeug LF 8/6 mit technischer Hilfeleistung
+
+LF8-6H
+
+Luftbeobachter
+
+LUFTBE
+
+Mannschaftstransportwagen
+
+MTW
+
+Mannschaftstransportwagen Behandlung
+
+MTWBEH
+
+Mannschaftstransportwagen Betreuung
+
+MTWBTR
+
+Mannschaftstransportwagen Dekontamination Verletzter
+
+MTWDEKON
+
+Mannschaftstransportwagen multifunktional
+
+MTWMUL
+
+Mannschaftstransportwagen Verpflegung
+
+MTWVPF
+
+Medizin
+
+MED
+
+Mehrzweckboot
+
+MZB
+
+Mehrzweckfahrzeug
+
+MZF
+
+Messtechnik
+
+MESS
+
+Messleitkomponente
+
+MLK
+
 Mittleres Löschfahrzeug MLF
-Mulde
+
 MLF
+
+Mulde
+
 MULDE
-Notarzteinsatzfahrzeug NEF
-Notarztwagen NAW
-Notarztwagen-Baby NAWBABY
 
-Art Kurzbezeichnung Abkürzung
-Öl OEL
-Personenkraftwagen PKW
-Quad, ATV, UTV QUAD
-Rettungsboot RETTB
-Rettungshubschrauber RTH
-Rettungshund RETTHU
-Rettungswagen, Krankentransportwagen Typ C RTW
-Rettungswagen, Krankentransportwagen Typ C „schwerlast“ SRTW
-Rettungswagen, Infektions-Rettungswagen RTWINF
-Rüst RUEST
-Rüstwagen RW
-Rüstwagen RW 1 RW1
-Rüstwagen RW 2 RW2
-Sanität SAN
-Sattelzugmaschine SZM
-Schlauchwagen KatS SWKATS
-Schlauchwagen SW 1000 SW1000
-Schlauchwagen SW 2000 SW2000
-Schlauchwagen SW 500 SW500
-Sonderfahrzeug SON
-Sonderkraftfahrzeug TEL SONKFTEL
-Spezialtauchen SPTAU
-Staffellöschfahrzeug 20/25 STLF20-25
-Staffellöschfahrzeug StLF10/6 STLF10-6
-Strahlenschutz S
-Strömungsrettung STRRT
-Tanklöschfahrzeug TLF 16/24 TLF16-24
-Tanklöschfahrzeug TLF 16/25 TLF16-25
-Tanklöschfahrzeug TLF 20/40 TLF20-40
-Tanklöschfahrzeug TLF 2000 TLF2000
-Tanklöschfahrzeug TLF 24/50 TLF24-50
-Tanklöschfahrzeug TLF 3000 TLF3000
-Tanklöschfahrzeug TLF 4000 TLF4000
+Notarzteinsatzfahrzeug
 
-Art Kurzbezeichnung Abkürzung
-Tanklöschfahrzeug TLF 8/15 TLF8-15
+NEF
+
+Notarztwagen
+
+NAW
+
+Notarztwagen-Baby
+
+NAWBABY
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 21
+
+Kurzbezeichnung
+
+Abkürzung
+
+Öl
+
+OEL
+
+Personenkraftwagen
+
+PKW
+
+Quad, ATV, UTV
+
+QUAD
+
+Rettungsboot
+
+RETTB
+
+Rettungshubschrauber
+
+RTH
+
+Rettungshund
+
+RETTHU
+
+Rettungswagen, Krankentransportwagen Typ C
+
+RTW
+
+Rettungswagen, Krankentransportwagen Typ C „schwerlast“
+
+SRTW
+
+Rettungswagen, Infektions-Rettungswagen
+
+RTWINF
+
+Rüst
+
+RUEST
+
+Rüstwagen
+
+RW
+
+Rüstwagen RW 1
+
+RW1
+
+Rüstwagen RW 2
+
+RW2
+
+Sanität
+
+SAN
+
+Sattelzugmaschine
+
+SZM
+
+Schlauchwagen KatS
+
+SWKATS
+
+Schlauchwagen SW 1000
+
+SW1000
+
+Schlauchwagen SW 2000
+
+SW2000
+
+Schlauchwagen SW 500
+
+SW500
+
+Sonderfahrzeug
+
+SON
+
+Sonderkraftfahrzeug TEL
+Spezialtauchen
+
+SONKFTEL
+SPTAU
+
+Staffellöschfahrzeug 20/25
+
+STLF20-25
+
+Staffellöschfahrzeug StLF10/6
+
+STLF10-6
+
+Strahlenschutz
+
+S
+
+Strömungsrettung
+
+STRRT
+
+Tanklöschfahrzeug TLF 16/24
+
+TLF16-24
+
+Tanklöschfahrzeug TLF 16/25
+
+TLF16-25
+
+Tanklöschfahrzeug TLF 20/40
+
+TLF20-40
+
+Tanklöschfahrzeug TLF 2000
+
+TLF2000
+
+Tanklöschfahrzeug TLF 24/50
+
+TLF24-50
+
+Tanklöschfahrzeug TLF 3000
+
+TLF3000
+
+Tanklöschfahrzeug TLF 4000
+
+TLF4000
+
+Nds. MBl. 2024 Nr. 125 vom 7. März 2024
+
+Art
+
+Seite 22
+
+Kurzbezeichnung
+
+Abkürzung
+
+Tanklöschfahrzeug TLF 8/15
+
+TLF8-15
+
 Tanklöschfahrzeug TLF 8/18
-Tanklöschfahrzeug CCFM 3000
+
 TLF8-18
+
+Tanklöschfahrzeug CCFM 3000
+
 CCFM3000
-Tankwagen TANKW
-Taucher TAU
-Technik TECH
-Teleskopfahrzeug TMF
-Teleskopgelenkmast TGM
-Tier TIER
-Tragkraftspritzenanhänger TSA
-Tragkraftspritzenfahrzeug TSF TSF
-Tragkraftspritzenfahrzeug TSF-W TSFW
-Trockentanklöschfahrzeug TroTLF 16 TROTLF
-Unmanned Aerial Vehicles (UAV, Drohne) DROHNE
-Umschlaggerät USLG
-Verpflegung VPF
-Vorausrüstwagen VRW
-Wasserrettung WASS
-Wassergefahren WASG
-Wechselladerfahrzeug WLF
-Wechselladerfahrzeug mit Kran WLFK
-Zugtruppkraftwagen ZUGTRKW
-Zusatz Z
-Zusatz für Hilfeleistung H
-Zusatz für Schlauchmaterial SW
-Zusatz für Technische Hilfe TH
-Zusatz für Atemschutzüberwachung ASÜ
-Zusatz für Hochleistungsförderpumpensystem HFS
-Zusatz für Schiffbrandbekämpfung SCHIFF
+
+Tankwagen
+
+TANKW
+
+Taucher
+
+TAU
+
+Technik
+
+TECH
+
+Teleskopfahrzeug
+
+TMF
+
+Teleskopgelenkmast
+
+TGM
+
+Tier
+
+TIER
+
+Tragkraftspritzenanhänger
+
+TSA
+
+Tragkraftspritzenfahrzeug TSF
+
+TSF
+
+Tragkraftspritzenfahrzeug TSF-W
+
+TSFW
+
+Trockentanklöschfahrzeug TroTLF 16
+
+TROTLF
+
+Unmanned Aerial Vehicles (UAV, Drohne)
+
+DROHNE
+
+Umschlaggerät
+
+USLG
+
+Verpflegung
+
+VPF
+
+Vorausrüstwagen
+
+VRW
+
+Wasserrettung
+
+WASS
+
+Wassergefahren
+
+WASG
+
+Wechselladerfahrzeug
+
+WLF
+
+Wechselladerfahrzeug mit Kran
+
+WLFK
+
+Zugtruppkraftwagen
+
+ZUGTRKW
+
+Zusatz
+
+Z
+
+Zusatz für Hilfeleistung
+
+H
+
+Zusatz für Schlauchmaterial
+
+SW
+
+Zusatz für Technische Hilfe
+
+TH
+
+Zusatz für Atemschutzüberwachung
+
+ASÜ
+
+Zusatz für Hochleistungsförderpumpensystem
+
+HFS
+
+Zusatz für Schiffbrandbekämpfung
 Zusatz für Waldbrand/Vegetationsbrand
-Zusatz für Wasser
-Zusatz für Sonderlöschmittel
-Zusatz für Unterkunft
+
+SCHIFF
 VEG
+
+Zusatz für Wasser
+
 WASSER
+
+Zusatz für Sonderlöschmittel
+
 SONLM
+
+Zusatz für Unterkunft
+
 UNTK

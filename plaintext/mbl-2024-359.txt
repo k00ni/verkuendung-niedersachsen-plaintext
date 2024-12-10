@@ -1,17 +1,18 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 15. August 2024 Nummer 359
+74. (79.) Jahrgang
+
+Hannover, den 15. August 2024
+
+Nummer 359
 
 Niedersächsisches Ministerium für Wissenschaft und Kultur
-
 Errichtung von Anlagen zur Gewinnung von erneuerbaren Energien
 auf oder in der Umgebung von Kulturdenkmalen
-RdErl. d. MWK v. 15 .08.2024 – 34-57701/A –
+RdErl. d. MWK v. 15.08.2024 – 34-57701/A –
 – VORIS 22510 –
 – Im Einvernehmen mit MI, MU und MW –
-
 1. Regelungsinhalt
 Aufgrund des sich beschleunigenden Klimawandels ist eine Dekarbonisierung der Umwandlung von Energieträgern in elektrische Energie, zugleich die Gewährleistung der Versorgungssicherheit und die Reduzierung
 der Abhängigkeit von Rohrstofflieferanten, zu einem zentralen, überragenden Ziel geworden.
@@ -28,6 +29,12 @@ in der bis zum 05.07.2022 geltenden Fassung die Genehmigungsfähigkeit von Anlag
 „zwingend verlangt“ sein.
 Das Erfordernis einer Abwägung ist nicht aufgehoben, es wird aber durch § 7 Abs. 2 Satz 2 NDSchG eine
 Regelvermutung zugunsten der erneuerbaren Energien eingeführt.
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 359 vom 15. August 2024
+
+Seite 2
 
 Von einer Reversibilität ist grundsätzlich auszugehen, da Windkraft- oder Solaranlagen regelmäßig auf Zeit
 errichtet werden und nach Ablauf ihrer Lebensdauer abgebaut oder erneuert werden. Auch bei einem Lebenszyklus von zwanzig oder mehr Jahren ist noch von Reversibilität auszugehen.
@@ -50,7 +57,8 @@ Hochbauverwaltung des Landes
 
 Anlage
 Leitfaden
-1. Mit der am 06 .07.2022 in Kraft getretenen Fassung von § 7 Abs. 2 NDSchG wird dem öffentlichen
+1.
+Mit der am 06.07.2022 in Kraft getretenen Fassung von § 7 Abs. 2 NDSchG wird dem öffentlichen
 Interesse an der Errichtung von Anlagen zur Erzeugung erneuerbarer Energien ein an bestimmte Voraussetzungen geknüpfter Vorrang vor dem Interesse an der unveränderten Erhaltung von Kulturdenkmalen eingeräumt (siehe § 7 Abs. 2 Satz 2 NDSchG). Dieser bedingte Vorrang fußt auf dem überragenden Interesse am
 Ausbau und der Nutzung erneuerbarer Energien, das in der Gewährleistung der Versorgungssicherheit und
 der Dekarbonisierung der Energieträger zur Eindämmung des Klimawandels und der Unabhängigkeit von
@@ -64,45 +72,99 @@ Dieser Leitfaden betrifft die Anwendung des Denkmalrechts.
 Wenn in einer örtlichen Bauvorschrift nach § 84 NBauO Bestimmungen zu Anlagen zur Gewinnung von
 erneuerbaren Energien getroffen sind, bleiben diese von § 7 NDSchG unberührt. Diese Vorschriften unterfallen dem öffentlichen Baurecht. Das Vorliegen der Voraussetzungen nach § 84 NBauO prüft für diesen Fall die
 örtlich zuständige Bauaufsichtsbehörde.
-2. Die folgenden Fragestellungen und Prüfschritte dienen einer denkmalfachlichen Bewertung für den
+2.
+Die folgenden Fragestellungen und Prüfschritte dienen einer denkmalfachlichen Bewertung für den
 Einzelfall, wobei die Tiefe der Prüfung vom jeweiligen Fall abhängt.
 Ein sorgfältig abgewogenes Ergebnis fußt regelmäßig auf einer hinreichenden Sachverhaltsermittlung. Da
 die Genehmigungsfähigkeit gemäß § 10 Abs. 1 i. V. m. § 7 NDSchG insbesondere am Denkmalwert gemessen
 werden muss, bedarf es zunächst der Feststellungen zum Denkmal selbst, dann zur Maßnahme.
 
+Nds. MBl. 2024 Nr. 359 vom 15. August 2024
+
+Seite 3
+
 2.1 Feststellung der denkmalrechtlichen Betroffenheit
-Welches konkrete Kulturdenkmal ist betroffen (z. B. Kirche, Schloss, Wohnhaus, Wohn- /Wirtschaftsgebäude, Scheune, Stall, Hofanlage, Siedlung, Gartenanlage, Park, Friedhof, Bunker, Förderturm, Brücke, Schiff
+Welches konkrete Kulturdenkmal ist betroffen (z. B. Kirche, Schloss, Wohnhaus, Wohn-/Wirtschaftsgebäude, Scheune, Stall, Hofanlage, Siedlung, Gartenanlage, Park, Friedhof, Bunker, Förderturm, Brücke, Schiff
 etc.).
 2.2 Feststellung der Art der zu installierenden Anlage und des daraus resultierenden konkreten baulichen
 Umfangs der Maßnahme
 2.2.1 Art der Anlage
-a) Welche Anlagenart soll installiert werden und welche Gestaltwerte hat die Anlage? (Farbe, hochglänzend, matt, kontrastreiches Raster mit Binnenstruktur, monochrom etc.)?
-b) Wie viele Anlagen sind an welchen Standorten geplant und welche Flächen (m²) werden benötigt?
-c) Welche Kubatur entwickelt die Anlage (flächenbündig, aufgeständert etc.)?
-d) Sind Nebenanlagen oder Zusatzgeräte erforderlich (Aufstellungsorte)?
+a)
+
+Welche Anlagenart soll installiert werden und welche Gestaltwerte hat die Anlage? (Farbe, hochglänzend, matt, kontrastreiches Raster mit Binnenstruktur, monochrom etc.)?
+
+b)
+
+Wie viele Anlagen sind an welchen Standorten geplant und welche Flächen (m²) werden benötigt?
+
+c)
+
+Welche Kubatur entwickelt die Anlage (flächenbündig, aufgeständert etc.)?
+
+d)
+
+Sind Nebenanlagen oder Zusatzgeräte erforderlich (Aufstellungsorte)?
+
 2.2.2 Wie sind die zu erwartenden Eingriffe in Bezug auf die Summe der bereits vorhandenen Veränderungen
 zu gewichten, z. B. hinsichtlich bereits vorhandener Windenergieanlagen, Dachflächenfenster, Lüftungselemente etc.?
 2.2.3 Anbringung: Wie ist die Montage (Umsetzung) in Bezug auf das Kulturdenkmal geplant?
-a) Wie erfolgt die Befestigung (Durchdringung der Dachhaut, Eingriffe in Tragwerk, Fassade)?
-b) Wie und wo werden Leitungsstränge geführt (Decke, Wände, wand- oder ortsfeste Ausstattung
+a)
+
+Wie erfolgt die Befestigung (Durchdringung der Dachhaut, Eingriffe in Tragwerk, Fassade)?
+
+b)
+
+Wie und wo werden Leitungsstränge geführt (Decke, Wände, wand- oder ortsfeste Ausstattung
 betroffen)?
+
 2.2.4 Wird das Denkmal durch die baulichen Veränderungen gefährdet (§ 6 Abs. 2 NDSchG)?
-a) Ist unter statischen Aspekten eine Verstärkung der Dachkonstruktion erforderlich (Winddruck,
+a)
+
+Ist unter statischen Aspekten eine Verstärkung der Dachkonstruktion erforderlich (Winddruck,
 Windsog, Lasten)?
-b) Liegt für die zu errichtende Anlage ein Ausführungskonzept unter Berücksichtigung des Brand-
-und Hochwasserschutzes vor? Ist ein ergänzendes Brandschutzkonzept erforderlich? Ist sichergestellt, dass die Anlage gemäß der geltenden Normen und Vorschriften ausgeführt ist, z. B.
+
+b)
+
+Liegt für die zu errichtende Anlage ein Ausführungskonzept unter Berücksichtigung des Brandund Hochwasserschutzes vor? Ist ein ergänzendes Brandschutzkonzept erforderlich? Ist sichergestellt, dass die Anlage gemäß der geltenden Normen und Vorschriften ausgeführt ist, z. B.
 durch entsprechende Bestätigung geeigneter Sachverständiger? Die Anforderung der vorgenannten Unterlagen ist auf § 24 Abs. 1 Satz 1 NDSchG zu stützen.
-c) Sind im Brandfall wirksame Löscharbeiten i. S. von § 14 NBauO möglich?
-2.3 Der jeweilige konkrete Unterschutzstellungsgrund (geschichtliche, künstlerische, wissenschaftliche
+
+c)
+
+Sind im Brandfall wirksame Löscharbeiten i. S. von § 14 NBauO möglich?
+
+2.3
+Der jeweilige konkrete Unterschutzstellungsgrund (geschichtliche, künstlerische, wissenschaftliche
 oder städtebauliche Gründe gemäß § 3 Abs. 2 NDSchG) ist die Grundlage für die Bewertung der objektspezifischen Betroffenheit. Auf Nichtdenkmalen in einer Gruppe baulicher Anlagen gemäß § 3 Abs. 3 NDSchG oder
 in der Umgebung von Kulturdenkmalen ist eine dort errichtete Anlage zur Gewinnung von erneuerbaren Energien nur denkmalrechtlich relevant, wenn sich diese Maßnahme auf den Unterschutzstellungsgrund eines benachbarten Kulturdenkmals negativ auswirkt.
-2.4 Sind denkmalkonstituierende materielle Werte (Denkmalsubstanz) betroffen? Diese können sich beziehen auf z. B.
-a) Dachwerk/Dachkonstruktion (statische Ertüchtigung),
-b) Dachhaut/Eindeckung, z. B. Ziegel, Schiefer, Sandsteindeckung (z. B. ist Reet ungeeignet),
-c) Elemente des Daches, z. B. First, Ortgang, Grate, Traufausbildung,
-d) Dachaufbauten, z. B. Schornsteine und Gauben,
-e) Konstruktion und Fassadenelemente,
-f) Elemente eines Gartens, einer Freifläche.
+2.4
+Sind denkmalkonstituierende materielle Werte (Denkmalsubstanz) betroffen? Diese können sich beziehen auf z. B.
+a)
+
+Dachwerk/Dachkonstruktion (statische Ertüchtigung),
+
+b)
+
+Dachhaut/Eindeckung, z. B. Ziegel, Schiefer, Sandsteindeckung (z. B. ist Reet ungeeignet),
+
+c)
+
+Elemente des Daches, z. B. First, Ortgang, Grate, Traufausbildung,
+
+d)
+
+Dachaufbauten, z. B. Schornsteine und Gauben,
+
+e)
+
+Konstruktion und Fassadenelemente,
+
+f)
+
+Elemente eines Gartens, einer Freifläche.
+
+Nds. MBl. 2024 Nr. 359 vom 15. August 2024
+
+Seite 4
 
 3. Genehmigungsfähigkeit
 Die Prüfung der Genehmigungsfähigkeit richtet sich nach § 10 NDSchG. Dabei ist nach dem Beschluss
@@ -120,12 +182,24 @@ Der Vorrang für den Einsatz erneuerbarer Energien ist gemäß § 7 Abs. 2 Satz 
 dann gegeben, wenn der Eingriff in das äußere Erscheinungsbild reversibel ist und in die denkmalwerte Substanz nur geringfügig eingegriffen wird.
 Mehr als nur geringfügig eingegriffen in die denkmalwerte Substanz wird im Falle von Photovoltaikanlagen
 auf Dächern beispielsweise, wenn
-– das Material der Dachhaut (z. B. Reet-/Strohdach, bestimmte Metalldächer) keine Aufbringung der Anlage zulässt,
-– statische Probleme auftreten könnten (z. B. durch Verwirbelungen), die Auswirkungen auf das gesamte
+–
+
+das Material der Dachhaut (z. B. Reet-/Strohdach, bestimmte Metalldächer) keine Aufbringung der Anlage zulässt,
+
+–
+
+statische Probleme auftreten könnten (z. B. durch Verwirbelungen), die Auswirkungen auf das gesamte
 Denkmal haben können,
-– der Dachstuhl so verstärkt werden muss, dass sich eine andere Dachgestalt ergibt oder die historische
+
+–
+
+der Dachstuhl so verstärkt werden muss, dass sich eine andere Dachgestalt ergibt oder die historische
 Konstruktion verändert wird oder
-– Dacheindeckungen mit künstlerischem Wert überdeckt werden und in diese Substanz unmittelbar eingegriffen wird.
+
+–
+
+Dacheindeckungen mit künstlerischem Wert überdeckt werden und in diese Substanz unmittelbar eingegriffen wird.
+
 Auch wenn die tatbestandlichen Voraussetzungen des § 7 Abs. 2 Satz 2 NDSchG gegeben sind, kommt
 die Regelvermutung nicht zum Tragen, soweit ein atypischer Fall vorliegt. Das kann zum Beispiel der Fall sein,
 wenn konstituierende Merkmale und Denkmalwerte und dadurch die Denkmalbedeutung durch den Eingriff
@@ -136,10 +210,22 @@ würde, dass die Anlage wegen der Bedeutung des Denkmals nicht hinzunehmen ist. 
 herausragend bedeutende Baudenkmale wie z. B. UNESCO-Welterbestätten in Betracht. Da sich Deutschland
 völkerrechtlich zum Erhalt des Welterbes und damit zu der Einhaltung der dazu erforderlichen denkmalfachlichen Standards verpflichtet hat, ist das öffentliche Interesse an der Errichtung von Anlagen zur Nutzung von
 erneuerbaren Energien an und in der Umgebung von Welterbestätten nicht von vornherein dem Denkmalschutz überlegen. Bei diesen Objekten ist über die beschriebenen Prüfungsschritte hinaus die Welterbeverträglichkeit besonders zu prüfen. Das Ergebnis ist mit der Denkmalfachbehörde abzustimmen.
-Darüber hinaus kann z. B. ein atypischer Fall bei baulichen Anlagen vorliegen, wenn diese einen herausragenden Geschichts - oder Kunstwert haben,
-– weil sie eine außergewöhnliche architektonische Qualität aufweisen,
-– weil sie für die Architekturgeschichte epochenbestimmend oder
-– weil sie im Rahmen ihrer nationalen Bedeutung identitätsstiftend sind.
+Darüber hinaus kann z. B. ein atypischer Fall bei baulichen Anlagen vorliegen, wenn diese einen herausragenden Geschichts- oder Kunstwert haben,
+–
+
+weil sie eine außergewöhnliche architektonische Qualität aufweisen,
+
+–
+
+weil sie für die Architekturgeschichte epochenbestimmend oder
+
+–
+
+weil sie im Rahmen ihrer nationalen Bedeutung identitätsstiftend sind.
+
+Nds. MBl. 2024 Nr. 359 vom 15. August 2024
+
+Seite 5
 
 Mit Blick auf den Willen des Gesetzgebers und das überragende öffentliche Interesse an der Errichtung
 von Anlagen zur Nutzung erneuerbarer Energien kann die Prüfung, ob ein atypischer Fall vorliegt, nur in sehr
@@ -156,23 +242,62 @@ Nach der Empfehlung der Niedersächsischen Landeskommission für Denkmalpflege v
 bei der Planung von Solarthermie- und Photovoltaikanlagen darauf geachtet werden, dass die Anlagen sich
 dezent, additiv und erkennbar reversibel in das Erscheinungsbild des Baudenkmals einfügen. Bevorzugt werden sollen matte, monochrome, einfache, rechteckige Flächen mit Abstand zu den Dachrändern, Dacheinbauten und Dachaufbauten. Bei Neueindeckung sollten auch dachintegrierte Systeme in Betracht gezogen werden.
 Demzufolge können die folgenden Fragen je nach Einzelfall in Betracht kommen:
-4.1 Gibt es Möglichkeiten, zu erwartende Beeinträchtigungen einer Photovoltaik- oder solarthermischen
+4.1
+
+Gibt es Möglichkeiten, zu erwartende Beeinträchtigungen einer Photovoltaik- oder solarthermischen
 Anlage durch eine architektonisch schlüssige und gestalterisch ansprechendere Anordnung zu reduzieren? Z. B. durch:
-a) Verbesserung der Montageart der Module: möglichst bündiger Einbau der Module und unauffällige Leitungsführung etc.;
-b) Verkleinerung der Flächenausdehnung der Module;
-c) Verbesserung der Gestaltwerte der Module (Bemusterung, Modellversuch):
-– Abschlüsse und Rahmen farblich zurückhaltend,
-– bei Photovoltaikanlagen: monokristalline Systeme,
-– Vermeidung von Spiegelungen;
-d) Anspruch an architektonischen Entwurf im Wirkungsraum des Denkmals oder in der Gruppe baulicher Anlagen:
-– rechteckige oder an Dachrand angepasste Formen, keine L- oder U-förmigen Felder,
-– vollflächige Anlagen statt belegten Teilflächen, Zusammenfassen von Modulfeldern,
-– Module parallel zur Dachfläche, falls nicht möglich: genügend Abstand zwischen nicht parallelen Linien oder maßgeschneiderte Modulflächen oder Blindmodule.
+a)
+
+Verbesserung der Montageart der Module: möglichst bündiger Einbau der Module und unauffällige Leitungsführung etc.;
+
+b)
+
+Verkleinerung der Flächenausdehnung der Module;
+
+c)
+
+Verbesserung der Gestaltwerte der Module (Bemusterung, Modellversuch):
+
+d)
+
+–
+
+Abschlüsse und Rahmen farblich zurückhaltend,
+
+–
+
+bei Photovoltaikanlagen: monokristalline Systeme,
+
+–
+
+Vermeidung von Spiegelungen;
+
+Anspruch an architektonischen Entwurf im Wirkungsraum des Denkmals oder in der Gruppe baulicher Anlagen:
+–
+
+rechteckige oder an Dachrand angepasste Formen, keine L- oder U-förmigen Felder,
+
+–
+
+vollflächige Anlagen statt belegten Teilflächen, Zusammenfassen von Modulfeldern,
+
+–
+
+Module parallel zur Dachfläche, falls nicht möglich: genügend Abstand zwischen nicht parallelen Linien oder maßgeschneiderte Modulflächen oder Blindmodule.
+
 Wichtig: Die vorstehenden Erwägungen dürfen die grundlegende Entscheidung des Gesetzgebers zugunsten der Anlagen zur Nutzung von erneuerbaren Energien nicht konterkarieren. Die Auferlegung
-von geforderten Maßnahmen hinsichtlich des „ Wie" der Genehmigung gemäß § 10 Abs. 1 i. V. m. § 7
+von geforderten Maßnahmen hinsichtlich des „Wie" der Genehmigung gemäß § 10 Abs. 1 i. V. m. § 7
 NDSchG darf sich also nicht als faktische Ablehnung darstellen. Dies schließt eine für den Anlagenbetreiber – insbesondere wirtschaftlich – unzumutbare Ausgestaltung aus. Aufwändige und mit hohen
 Kosten verbundene technische Sonderlösungen können daher in der Regel nicht verlangt werden, wie
 z. B. die Installation in ertragsschwacher Lage.
-4.2 Ist ein weniger vom öffentlichen Raum einsehbarer Anbringungsort der Anlage möglich?
+4.2
 
-4.3 Bei atypischen Fällen: Wurden alternative Standorte für die Montage einer Photovoltaikanlage untersucht und geprüft, z. B. benachbarter Neubau/Freifläche, untergeordnetes Nebengebäude oder Gemeinschaftsanlagen? Es muss sich dabei um sich aufdrängende Standortalternativen handeln. Die Darlegungslast dafür obliegt der Behörde.
+Ist ein weniger vom öffentlichen Raum einsehbarer Anbringungsort der Anlage möglich?
+
+Nds. MBl. 2024 Nr. 359 vom 15. August 2024
+
+4.3
+
+Seite 6
+
+Bei atypischen Fällen: Wurden alternative Standorte für die Montage einer Photovoltaikanlage untersucht und geprüft, z. B. benachbarter Neubau/Freifläche, untergeordnetes Nebengebäude oder Gemeinschaftsanlagen? Es muss sich dabei um sich aufdrängende Standortalternativen handeln. Die Darlegungslast dafür obliegt der Behörde.

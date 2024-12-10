@@ -1,34 +1,59 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 1. August 2024 Nummer 349
+74. (79.) Jahrgang
+
+Hannover, den 1. August 2024
+
+Nummer 349
 
 Finanzministerium
-
 Verwaltungsvorschriften zur Haushaltssystematik des Landes Niedersachsen
 (VV-HNds)
-RdErl. d. MF v. 01.08.2024 – 12 3- 04001/003/000a- 0009 –
+RdErl. d. MF v. 01.08.2024 – 12 3-04001/003/000a-0009 –
 – VORIS 64100 –
+Bezug:
 
-Bezug: RdErl. v. 01.07.2001 (Nds. MBl. S. 503), zuletzt geändert durch
+RdErl. v. 01.07.2001 (Nds. MBl. S. 503), zuletzt geändert durch
 RdErl. v. 19.04.2024 (Nds. MBl. 2024 Nr. 204)
 – VORIS 64100 –
 
 Gemäß § 5 LHO wird die Anlage des Bezugserlasses mit Wirkung vom 01.01.2025 wie folgt geändert:
-1. In Nummer 1 Buchst. B – Gruppierungsplan – wird die folgende Gruppe eingefügt:
-„019 Sonstige Gemeinschaftsteuern Gruppe 019
+1.
+
+In Nummer 1 Buchst. B – Gruppierungsplan – wird die folgende Gruppe eingefügt:
+„019
+
+2.
+
+Sonstige Gemeinschaftsteuern
 Mindeststeuer“.
-2. Nummer 2 Buchst. B – Funktionenplan – wird wie folgt geändert:
-a) In der Funktion 012 wird in dem fünften Zuordnungshinweis das Wort „Bedienstete“ durch das Wort
+Nummer 2 Buchst. B – Funktionenplan – wird wie folgt geändert:
+
+Gruppe 019
+
+a)
+
+In der Funktion 012 wird in dem fünften Zuordnungshinweis das Wort „Bedienstete“ durch das Wort
 „Beschäftigte“ ersetzt.
-b) In der Funktion 241 wird in dem Zuordnungshinweis in dem fünften Aufzählungspunkt die Angabe
+
+b)
+
+In der Funktion 241 wird in dem Zuordnungshinweis in dem fünften Aufzählungspunkt die Angabe
 „Soldatenversorgungsgesetz (SVG)“ durch die Angabe „Soldatenentschädigungsgesetz (SEG)“ ersetzt.
-c) In der Funktion 249 werden in dem ersten Zuordnungshinweis in dem zweiten Aufzählungspunkt die
+
+c)
+
+In der Funktion 249 werden in dem ersten Zuordnungshinweis in dem zweiten Aufzählungspunkt die
 Worte „Angelegenheiten der Suchdienste und der Deutschen Dienststelle (WASt)“ durch die Worte
 „Angelegenheit des Suchdienstes“ ersetzt.
-d) In der Funktion 719 wird in dem ersten Zuordnungshinweis das Wort „Güterverkehr“ durch die Worte
+
+d)
+
+In der Funktion 719 wird in dem ersten Zuordnungshinweis das Wort „Güterverkehr“ durch die Worte
 „Logistik und Mobilität“ ersetzt.
 
 An die
 Dienststellen der Landesverwaltung
+
+Herausgeber: Niedersächsische Staatskanzlei

@@ -1,16 +1,17 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 8. Mai 2024 Nummer 212
+74. (79.) Jahrgang
+
+Hannover, den 8. Mai 2024
+
+Nummer 212
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Vorläufige Sicherung der Überschwemmungsgebiete des Pohler Baches und des Salzbaches
 im Landkreis Schaumburg
 Bek. d. NLWKN v. 08.05.2024 – 62023/02/65 –
-
-Der NLWKN hat die Bereiche des Landkreises Schaumburg, d ie von einem hundertjährlichen Hochwasser
+Der NLWKN hat die Bereiche des Landkreises Schaumburg, die von einem hundertjährlichen Hochwasser
 der Gewässer Pohler Bach und Salzbach überschwemmt werden, ermittelt und in Arbeitskarten dargestellt.
 Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Die Überschwemmungsgebiete sind ab dem
 Tag nach dieser Bek. gemäß § 76 Abs. 3 WHG vom 31.07.2009 (BGBl. I S. 2585), zuletzt geändert durch
@@ -35,7 +36,13 @@ An der Scharlake 39,
 oder bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
 
-Direktion – Geschäftsbereich VI – ,
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 212 vom 8. Mai 2024
+
+Seite 2
+
+Direktion – Geschäftsbereich VI –,
 Im Dreieck 12,
 26127 Oldenburg,
 oder bei dem
@@ -45,39 +52,62 @@ Am Sportplatz 23,
 26506 Norden,
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten -niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+
+Niedersächsischer Landesbetrieb
+für Wasserwirtschaft, Küstenund Naturschutz
 
 Blatt 3
-Blatt 1
-Blatt 2
-Blatt 4
-0 0,5 1 1,5 20,25 Kilometer
-Hildesheim, 20.03.2024
-Bek. d. NLWKN v. 08.05.2024
-AZ: 62023/2/65
+
 Vorläufige Sicherung
 der
 Überschwemmungsgebiete
 des Pohler Baches und
 des Salzbaches
 im Landkreis Schaumburg
-Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küsten-
-und Naturschutz
-±
-1:35.000
 Übersichtskarte
+
+Blatt 4
+
+Bek. d. NLWKN v. 08.05.2024
+AZ: 62023/2/65
+
+Blatt 2
+
 Legende
 Blattschnitte der vorläufigen Sicherung (M 1:5.000)
 Vorläufig gesichertes Überschwemmungsgebiet
 (soweit nicht bereits festgesetzt)
+
 Nachrichtlich
+
 bereits vorläufig gesicherte Überschwemmungsgebiete
 bereits festgesetzte Überschwemmungsgebiete
 Verwaltungsgrenzen
-Gemeindegrenze
 Landkreisgrenze
 Samtgemeindegrenze
-„Quelle: Auszug aus den Geodaten des Landesamtes für "
+Gemeindegrenze
+
+±
+
+1:35.000
+
+Blatt 1
+
+0
+
+0,25 0,5
+
+1
+
+1,5
+
+2 Kilometer
+
+„Quelle: Auszug aus den Geodaten des Landesamtes für
 Geoinformation und Landesvermessung Niedersachsen,
 © 2024
+
+Hildesheim, 20.03.2024
+
+"

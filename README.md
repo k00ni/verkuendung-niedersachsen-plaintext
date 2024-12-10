@@ -37,13 +37,14 @@ In den Metadaten findet man diesen in der Spalte `mainDocment`.
 #### Mögliche Textunterschiede zwischen PDF und Textdatei
 
 Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
+* Lösche alle Zeichen, die nicht in UTF-8 vorliegen
 * Löschung von Tabs
 * Löschung von vielfachen Leerzeichen
-* Silbentrennung zurücksetzen: Aufgetrennte Wörter am Zeilenende werden wieder zusammengesetzt
-* Lösche Zeilen mit Seitenangabe (typische Footer, z.B. `Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3`)
+* Silbentrennung zurücksetzen: Manche aufgetrennte Wörter am Zeilenende werden wieder zusammengesetzt
 * Lösche Leerzeichen am Anfang und Ende jeder Zeile
 * Korrigiere "zerbrochene" Datumsangaben (z.B. `01. 01. 2024`)
 * Lösche Leerzeichen am Anfang und Ende von Zeichenketten zwischen Anführungstrichen (z.B. `„Wiedemann Familien Stiftung “`)
+* Lösche Form Feed Charakter, der dem Drucker mitteilt, eine neue Seite zu beginnen (Zeichen: `FF`, `\f`)
 
 Diese Anpassungen zielen darauf ab, den nachträglichen Aufwand für die Textanalyse zu verringern.
 Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Regex für die Analyse unnötig aufzublähen.

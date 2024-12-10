@@ -1,15 +1,16 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 18. September 2024 Nummer 405
+74. (79.) Jahrgang
+
+Hannover, den 18. September 2024
+
+Nummer 405
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Vorläufige Sicherung des Überschwemmungsgebietes des Westerbachs
 im Landkreis Hildesheim und im Landkreis Peine
 Bek. d. NLWKN v. 18.09.2024 – 62023/02/65 –
-
 Der NLWKN hat die Bereiche des Landkreises Hildesheim und angrenzend des Landkreises Peine, die
 von einem hundertjährlichen Hochwasser des Gewässers Westerbach überschwemmt werden, ermittelt und
 in Arbeitskarten dargestellt.
@@ -22,7 +23,7 @@ Das Überschwemmungsgebiet erstreckt sich auf das Gebiet der Gemeinden Söhlde u
 in der mit veröffentlichten Übersichtskarte (Anlage) im Maßstab 1 : 25 000 dargestellt. Die Arbeitskarte im
 Maßstab 1 : 5 000 (Blatt) werden bei dem
 Landkreis Hildesheim,
-Marie- Wagenknecht-Straße 3,
+Marie-Wagenknecht-Straße 3,
 31134 Hildesheim
 und bei dem
 Landkreis Peine,
@@ -36,11 +37,17 @@ Gegen diese Bek. kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhobe
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
 Betriebsstelle Hannover-Hildesheim,
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 405 vom 18. September 2024
+
+Seite 2
+
 An der Scharlake 39,
 31135 Hildesheim
 oder bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
-Direktion – Geschäftsbereich VI – ,
+Direktion – Geschäftsbereich VI –,
 Im Dreieck 12,
 26127 Oldenburg,
 oder bei dem
@@ -50,36 +57,59 @@ Am Sportplatz 23,
 26506 Norden
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
-Blatt
-0 0,5 1 1,5 20,25 Kilometer
-Hildesheim, 22.08.2024
-Bek. d. NLWKN v. 18.09.2024
-AZ: 62023/2/65
 Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küsten-
-und Naturschutz
-±
-1:25.000
-Übersichtskarte
-Legende
-Blattschnitte der vorläufigen Sicherung (M 1:5.000)
-Vorläufig gesichertes Überschwemmungsgebiet
-(soweit nicht bereits festgesetzt)
-Nachrichtlich
-bereits vorläufig gesicherte Überschwemmungsgebiete
-bereits festgesetzte Überschwemmungsgebiete
-Verwaltungsgrenzen
-Gemeindegrenze
-Landkreisgrenze
-Samtgemeindegrenze
-„Quelle: Auszug aus den Geodaten des Landesamtes für "
-Geoinformation und Landesvermessung Niedersachsen,
-© 2024
+für Wasserwirtschaft, Küstenund Naturschutz
+
 Vorläufige Sicherung
 des Überschwemmungsgebietes
 des Westerbaches
 im Landkreis Hildesheim
 und dem angrenzenden
 Landkreis Peine
+Übersichtskarte
+
+Bek. d. NLWKN v. 18.09.2024
+AZ: 62023/2/65
+
+Legende
+Blattschnitte der vorläufigen Sicherung (M 1:5.000)
+Vorläufig gesichertes Überschwemmungsgebiet
+(soweit nicht bereits festgesetzt)
+
+Nachrichtlich
+
+bereits vorläufig gesicherte Überschwemmungsgebiete
+bereits festgesetzte Überschwemmungsgebiete
+
+Blatt
+
+Verwaltungsgrenzen
+Landkreisgrenze
+Samtgemeindegrenze
+Gemeindegrenze
+
+±
+
+1:25.000
+
+0
+
+0,25
+
+0,5
+
+1
+
+1,5
+
+„Quelle: Auszug aus den Geodaten des Landesamtes für
+Geoinformation und Landesvermessung Niedersachsen,
+© 2024
+
+Hildesheim, 22.08.2024
+
+2 Kilometer
+
+"

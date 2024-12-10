@@ -1,21 +1,23 @@
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 22. Mai 2024 Nummer 237
+74. (79.) Jahrgang
+
+Hannover, den 22. Mai 2024
 
 Ministerium für Wirtschaft, Verkehr, Bauen und Digitalisierung
-
 Richtlinie zur Durchführung
 der sozialen Wohnraumförderung in Niedersachsen
 (Wohnraumförderbestimmungen – WFB)
 RdErl. d. MW v. 23.04.2024 – 64-25100/020-0003 –
 – VORIS 23400 –
+Bezug:
 
-Bezug: a) RdErl. d. MU v . 02.07.2019 (Nds. MBl. S. 1075), geändert durch
+a) RdErl. d. MU v. 02.07.2019 (Nds. MBl. S. 1075), geändert durch
 RdErl. v. 02.11.2021 (Nds. MBl. S. 1696)
 – VORIS 23400 –
 b) RdErl. v. 23.04.2024 (Nds. MBl. 2024 Nr. 236)
 – VORIS 23400 –
-
 
 Inhaltsübersicht
 Erster Abschnitt
@@ -31,6 +33,8 @@ Allgemeine Fördergrundsätze
 9. Einsatz anderer Finanzierungshilfen
 10. Vorrangige Kapitalmarktmittel
 11. Dingliche Sicherung, Sicherung der Zweckbestimmung
+
+Nummer 237
 
 Zweiter Abschnitt
 Mietwohnraumförderung
@@ -54,7 +58,6 @@ Mietwohnraumförderung
 29. Erwerb von Belegungs- und Mietbindungen
 30. Verlängerung auslaufender Belegungs- und Mietbindungen
 31. Maßnahmen zur Vermeidung einer Überkompensation
-
 Dritter Abschnitt
 Eigentumsförderung
 32. Zuwendungsempfängerinnen und Zuwendungsempfänger
@@ -109,94 +112,212 @@ Baufachliche Anforderungen
 Siebter Abschnitt
 Schlussbestimmungen
 71. Schlussbestimmungen
-
 Die Abkürzungen der im nachstehenden Verzeichnis zitierten Gesetze, Verordnungen und Verwaltungsvorschriften in der jeweils geltenden Fassung finden Anwendung:
-AllGO Verordnung über die Gebühren und Auslagen für Amtshandlungen
+AllGO
+
+Verordnung über die Gebühren und Auslagen für Amtshandlungen
 und Leistungen
-ANBest-P Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung
+
+ANBest-P
+
+Allgemeine Nebenbestimmungen für Zuwendungen zur Projektförderung
 (Anlage 2 zu VV Nr. 5.1 zu § 44 LHO)
-AsylG Asylgesetz
-AufenthG Aufenthaltsgesetz
-BauGB Baugesetzbuch
-BetrAVG Betriebsrentengesetz
-BGB Bürgerliches Gesetzbuch
-DVO-NWoFG Verordnung zur Durchführung des Niedersächsischen Wohnraum- und Wohnquartierfördergesetzes
-EStG Einkommensteuergesetz
-GEG Gebäudeenergiegesetz
-HOAI Honorarordnung für Architekten und Ingenieure
-LHO Niedersächsische Landeshaushaltsordnung
-NBauO Niedersächsische Bauordnung
-NHG Niedersächsisches Hochschulgesetz
-NuWG Niedersächsisches Gesetz über unterstützende Wohnformen
-NWoFG Niedersächsisches Wohnraum- und Wohnquartierfördergesetz
-SGB IX Neuntes Buch des Sozialgesetzbuchs – Rehabilitation und Teilhabe von Menschen
+
+AsylG
+
+Asylgesetz
+
+AufenthG
+
+Aufenthaltsgesetz
+
+BauGB
+
+Baugesetzbuch
+
+BetrAVG
+
+Betriebsrentengesetz
+
+BGB
+
+Bürgerliches Gesetzbuch
+
+DVO-NWoFG
+
+Verordnung zur Durchführung des Niedersächsischen Wohnraum- und Wohnquartierfördergesetzes
+
+EStG
+
+Einkommensteuergesetz
+
+GEG
+
+Gebäudeenergiegesetz
+
+HOAI
+
+Honorarordnung für Architekten und Ingenieure
+
+LHO
+
+Niedersächsische Landeshaushaltsordnung
+
+NBauO
+
+Niedersächsische Bauordnung
+
+NHG
+
+Niedersächsisches Hochschulgesetz
+
+NuWG
+
+Niedersächsisches Gesetz über unterstützende Wohnformen
+
+NWoFG
+
+Niedersächsisches Wohnraum- und Wohnquartierfördergesetz
+
+SGB IX
+
+Neuntes Buch des Sozialgesetzbuchs – Rehabilitation und Teilhabe von Menschen
 mit Behinderungen
-SGB XI Elftes Buch des Sozialgesetzbuchs – Soziale Pflegeversicherung
-SGB XII Zwölftes Buch des Sozialgesetzbuchs – Sozialhilfe
-VV Verwaltungsvorschriften
-WoBindG Wohnungsbindungsgesetz
-WoFlV Wohnflächenverordnung
-WoGV Wohngeldverordnung
+
+SGB XI
+
+Elftes Buch des Sozialgesetzbuchs – Soziale Pflegeversicherung
+
+SGB XII
+
+Zwölftes Buch des Sozialgesetzbuchs – Sozialhilfe
+
+VV
+
+Verwaltungsvorschriften
+
+WoBindG
+
+Wohnungsbindungsgesetz
+
+WoFlV
+
+Wohnflächenverordnung
+
+WoGV
+
+Wohngeldverordnung
 
 Erster Abschnitt
 Allgemeine Fördergrundsätze
 1. Förderzweck, Rechtsgrundlagen
-1.1 Das Land Niedersachsen fördert auf der Grundlage des NWoFG den Wohnungsbau und andere Maßnahmen zur Unterstützung von Haushalten bei der Versorgung mit angemessenem Wohnraum. Dazu werden
+1.1
+Das Land Niedersachsen fördert auf der Grundlage des NWoFG den Wohnungsbau und andere Maßnahmen zur Unterstützung von Haushalten bei der Versorgung mit angemessenem Wohnraum. Dazu werden
 
 auf Antrag Zuwendungen aus dem zur Finanzierung der sozialen Wohnraumförderung errichteten Sondervermögen „Wohnraum- und Wohnquartierförderfonds Niedersachsen" gewährt. Diese Richtlinie enthält Bestimmungen zur Durchführung des NWoFG und der sozialen Wohnraumförderung in Niedersachsen.
-1.2 Die Gewährung von Zuwendungen erfolgt entsprechend den Regelungen
-– des NWoFG vom 29.10.2009 (Nds. GVBl. S. 403), zuletzt geändert durch Artikel 1 des Gesetzes vom
+1.2
+
+Die Gewährung von Zuwendungen erfolgt entsprechend den Regelungen
+
+–
+
+des NWoFG vom 29.10.2009 (Nds. GVBl. S. 403), zuletzt geändert durch Artikel 1 des Gesetzes vom
 28.04.2021 (Nds. GVBl. S. 240),
-– der Richtlinie über die Gewährung von Zuwendungen zur sozialen Wohnraumförderung (Wohnraumförderprogramm 2019) – Bezugserlass zu b – und
-– des Beschlusses der Kommission vom 20.12.2011 über die Anwendung von Artikel 106 Absatz 2 des
-Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1. 2012, S. 3) – im Folgenden: DAWIFreistellungsbeschluss –,
+
+–
+
+der Richtlinie über die Gewährung von Zuwendungen zur sozialen Wohnraumförderung (Wohnraumförderprogramm 2019) – Bezugserlass zu b – und
+
+–
+
+des Beschlusses der Kommission vom 20.12.2011 über die Anwendung von Artikel 106 Absatz 2 des
+Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3) – im Folgenden: DAWIFreistellungsbeschluss –,
+
 in der jeweils geltenden Fassung.
-1.3 Die VV zu § 44 LHO finden Anwendung, soweit in dieser Richtlinie auf diese Verwaltungsvorschriften
+1.3
+Die VV zu § 44 LHO finden Anwendung, soweit in dieser Richtlinie auf diese Verwaltungsvorschriften
 verwiesen wird.
 2. Begriffsbestimmungen
 Für diese Richtlinie gelten folgende Begriffsbestimmungen:
-2.1 Ältere Menschen:
+2.1
+
+Ältere Menschen:
 Ältere Menschen bezeichnet Personen, die das 60. Lebensjahr vollendet haben.
-2.2 Änderung und Erweiterung von Gebäuden:
+
+2.2
+
+Änderung und Erweiterung von Gebäuden:
 Änderung und Erweiterung von Gebäuden bezeichnet bauliche Maßnahmen, mit denen unter wesentlichem Bauaufwand – mindestens jedoch ein Drittel vergleichbarer Neubaukosten – dauerhafter Wohnraum geschaffen wird. Dazu gehören insbesondere der Ausbau eines Dachgeschosses, das Aufstocken
 eines Gebäudes, der Anbau an ein Gebäude sowie die Nutzungsänderung von Räumen, die bisher
 nicht Wohnzwecken dienten.
-2.3 Besondere Bedarfsgruppen:
+
+2.3
+
+Besondere Bedarfsgruppen:
 Zu den besonderen Bedarfsgruppen gehören Haushalte und Personen mit besonderen Schwierigkeiten
 bei der Wohnraumversorgung. Dies sind insbesondere Personen, die ohne jede Unterkunft oder unmittelbar von Wohnungslosigkeit bedroht sind, wohnungssuchende Frauen aus Zufluchtsstätten für misshandelte Frauen und ihre Kinder, ordnungsrechtlich untergebrachte Personen sowie Haftentlassene.
 Gleichgestellt sind Personen, die aus sonstigen Gründen einen besonderen Bedarf aufzeigen oder besondere Schwierigkeiten haben, Zugang zu angemessenem Wohnraum zu erhalten.
-2.4 Bewilligungsbehörde:
+
+2.4
+
+Bewilligungsbehörde:
 Bewilligungsbehörde ist die NBank.
-2.5 Bezugsfertigkeit:
+
+2.5
+
+Bezugsfertigkeit:
 Wohnraum gilt als bezugsfertig, wenn er so weit fertiggestellt ist, dass den künftigen Bewohnerinnen
 und Bewohnern zugemutet werden kann, ihn zu beziehen.
-2.6 Eigenheim:
+
+2.6
+
+Eigenheim:
 Ein Eigenheim ist ein im Eigentum einer natürlichen Person stehendes Grundstück mit einem Wohngebäude, das nicht mehr als zwei Wohnungen enthält, von denen eine Wohnung zum Bewohnen durch
 die Eigentümerin oder den Eigentümer und ihre oder seine Angehörigen bestimmt ist.
 
-2.7 Eigentumswohnung:
+2.7
+
+Eigentumswohnung:
 Eine Eigentumswohnung ist eine Wohnung, an der Wohnungseigentum nach den Vorschriften des
 Wohnungseigentumsgesetzes begründet ist. Eine Eigentumswohnung, die zum Bewohnen durch die
 Wohnungseigentümerin oder den Wohnungseigentümer und ihre oder seine Angehörigen bestimmt ist,
 ist selbstgenutztes Wohneigentum i. S. dieser Richtlinie.
-2.8 Energetische Modernisierung:
+
+2.8
+
+Energetische Modernisierung:
 Energetische Modernisierung i. S. dieser Richtlinie bezeichnet über eine Einzelmaßnahme hinausgehende bauliche Gesamtmaßnahmen an und in einem Wohngebäude mit dem Ziel, im Ergebnis einen
 höherwertigen energetischen Standard zu erreichen. Die baulichen Maßnahmen dienen insbesondere
-dem Zweck der CO
-2-Minderung und Energieeinsparung sowie zur Nutzung erneuerbarer Energien.
+dem Zweck der CO2-Minderung und Energieeinsparung sowie zur Nutzung erneuerbarer Energien.
 Dazu gehören insbesondere
-– die nachträgliche Wärmedämmung der Gebäudewände, des Daches, der Kellerdecke oder von
+
+2.9
+
+–
+
+die nachträgliche Wärmedämmung der Gebäudewände, des Daches, der Kellerdecke oder von
 erdberührten Außenflächen beheizter Räume,
-– die Fenster- und Außentürerneuerung,
-– die Erneuerung von Heizungstechnik und
-– Maßnahmen zur Nutzung erneuerbarer Energieträger.
-2.9 Gemeinschaftliche Wohnformen:
+
+–
+
+die Fenster- und Außentürerneuerung,
+
+–
+
+die Erneuerung von Heizungstechnik und
+
+–
+
+Maßnahmen zur Nutzung erneuerbarer Energieträger.
+
+Gemeinschaftliche Wohnformen:
 Gemeinschaftliche Wohnformen i. S. dieser Richtlinie bezeichnet Wohnformen, bei denen mehrere Einzelpersonen oder Haushalte nach der baulichen Gestaltung in einer gemeinsamen Wohneinheit zusammenleben, unabhängig davon, ob es sich um Einzelzimmer oder abgeschlossene Einzelwohnungen mit
 mehreren Zimmern handelt. Gemeinschaftsräume wie Küchen, Esszimmer, Wohnzimmer oder Aufenthaltsräume fördern das Zusammenleben, den Austausch und ggf. eine unterstützende Umgebung für
 Bewohnerinnen und Bewohner. Die Führung des Haushaltes wird von den Bewohnerinnen und Bewohnern im Wesentlichen selbst organisiert.
+
 2.10 Gesamtkosten:
 Gesamtkosten bezeichnet die Summe aller Kosten, die für ein Bauvorhaben entstehen entsprechend
-einer Kostenberechnung nach DIN 276:2018- 12, Kosten im Bauwesen (im Folgenden: DIN 276).
+einer Kostenberechnung nach DIN 276:2018-12, Kosten im Bauwesen (im Folgenden: DIN 276).
 2.11 Haushalte mit geringen Einkommen:
 Der Begriff bezeichnet Haushalte, deren Gesamtjahreseinkommen die in § 3 Abs. 2 NWoFG bestimmten Einkommensgrenzen nicht überschreiten.
 2.12 Haushalte mit mittleren Einkommen:
@@ -221,7 +342,7 @@ Modernisierung bezeichnet bauliche Maßnahmen, die eine nachhaltige Erhöhung de
 des Wohnraums oder des Wohngebäudes, eine dauerhafte Verbesserung der allgemeinen Wohnverhältnisse, eine nachhaltige Einsparung von Energie oder Wasser bewirken oder den Austausch von
 Bleileitungen in der Trinkwasserinstallation beinhalten. Der Modernisierung stehen Maßnahmen gleich,
 bei denen unter wesentlichem Bauaufwand Wohnraum an geänderte Wohnbedürfnisse angepasst wird,
-insbesondere solche, die ein barrierefreies Wohnen ermöglichen, wenn sie in Anlehnung an die Vorgaben der als technische Baubestimmung eingeführten DIN 18040- 2:2011- 09, Barrierefreies Bauen – Planungsgrundlagen – Teil 2: Wohnungen (im Folgenden: DIN 18040- 2) durchgeführt werden. Zur Modernisierung zählen auch bauliche Maßnahmen, die der Anpassung von Wohngebäuden an die Folgen des
+insbesondere solche, die ein barrierefreies Wohnen ermöglichen, wenn sie in Anlehnung an die Vorgaben der als technische Baubestimmung eingeführten DIN 18040-2:2011-09, Barrierefreies Bauen – Planungsgrundlagen – Teil 2: Wohnungen (im Folgenden: DIN 18040-2) durchgeführt werden. Zur Modernisierung zählen auch bauliche Maßnahmen, die der Anpassung von Wohngebäuden an die Folgen des
 Klimawandels dienen, insbesondere die bauliche Sicherung des Gebäudes vor Extremwettereignissen
 und vor eindringendem Wasser bei Starkregen oder Hochwasser, die Installation von Verschattungselementen am Gebäude oder das Anlegen von Dach- und Hausfassadenbegrünung sowie die Neuinstallation und Nachrüstung von Regenwassernutzungsanlagen. Instandsetzungen, die durch Maßnahmen der Modernisierung verursacht werden, fallen unter die Modernisierung.
 2.17 Neubau:
@@ -238,22 +359,51 @@ Wohnraumversorgungskonzept bezeichnet ein strategisches Planungsinstrument der K
 den Bedarf an Wohnraum in einer bestimmten Region zu analysieren und geeignete Maßnahmen zur
 Sicherstellung einer ausreichenden Wohnraumversorgung abzuleiten. Ein Wohnraumversorgungskonzept enthält in der Regel eine Bestandsaufnahme und eine Bedarfsabschätzung für den örtlichen Wohnungsmarkt, darunter Aussagen zur Versorgung mit sozial gefördertem Wohnraum und zum Neubaubedarf sowie Zielsetzungen, Handlungsempfehlungen und Maßnahmen für die örtliche Wohnraumversorgung.
 3. Fördergrundsätze
-3.1 Die soziale Wohnraumförderung ist der Nachhaltigkeit einer Wohnraumversorgung verpflichtet, die die
+3.1
+Die soziale Wohnraumförderung ist der Nachhaltigkeit einer Wohnraumversorgung verpflichtet, die die
 wirtschaftlichen und sozialen Erfordernisse mit der Erhaltung der Umwelt in Einklang bringt. Bei der Förderung
 sind insbesondere zu berücksichtigen
 
-3.1.1 die Erbringung eines angemessenen und wirksamen Beitrages zur Erreichung der internationalen,
+3.1.1
+
+die Erbringung eines angemessenen und wirksamen Beitrages zur Erreichung der internationalen,
 europäischen und nationalen Klimaschutzziele,
-3.1.2 die regionalen und örtlichen wohnungswirtschaftlichen und städtebaulichen Verhältnisse einschließlich der demografischen Entwicklung,
-3.1.3 die besonderen Anforderungen des zu versorgenden Personenkreises, insbesondere die Anforderungen des Wohnens von Familien sowie von Personen, die infolge von Alter, Behinderung oder
+
+3.1.2
+
+die regionalen und örtlichen wohnungswirtschaftlichen und städtebaulichen Verhältnisse einschließlich der demografischen Entwicklung,
+
+3.1.3
+
+die besonderen Anforderungen des zu versorgenden Personenkreises, insbesondere die Anforderungen des Wohnens von Familien sowie von Personen, die infolge von Alter, Behinderung oder
 Krankheit in ihrer Mobilität eingeschränkt sind,
-3.1.4 eine gute Anbindung der Förderobjekte an Infrastruktureinrichtungen wie den öffentlichen Personennahverkehr,
-3.1.5 die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen sowie ausgewogener Siedlungsstrukturen,
-3.1.6 der sparsame Umgang mit Grund und Boden und die Anforderungen Kosten sparenden und Ressourcen schonenden Bauens,
-3.1.7 Maßnahmen, die im Zusammenhang mit städtebaulichen Erneuerungs- oder Entwicklungszielen stehen,
-3.1.8 der Beitrag des genossenschaftlichen Wohnens zur Erreichung der Ziele der Wohnraumförderung,
-3.1.9 besondere Ansätze zur Weiterentwicklung nachhaltiger Wohnraumversorgung.
-3.2 Die Zuwendungsempfängerinnen und Zuwendungsempfänger haben sämtliche Möglichkeiten zur
+
+3.1.4
+
+eine gute Anbindung der Förderobjekte an Infrastruktureinrichtungen wie den öffentlichen Personennahverkehr,
+
+3.1.5
+
+die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen sowie ausgewogener Siedlungsstrukturen,
+
+3.1.6
+
+der sparsame Umgang mit Grund und Boden und die Anforderungen Kosten sparenden und Ressourcen schonenden Bauens,
+
+3.1.7
+
+Maßnahmen, die im Zusammenhang mit städtebaulichen Erneuerungs- oder Entwicklungszielen stehen,
+
+3.1.8
+
+der Beitrag des genossenschaftlichen Wohnens zur Erreichung der Ziele der Wohnraumförderung,
+
+3.1.9
+
+besondere Ansätze zur Weiterentwicklung nachhaltiger Wohnraumversorgung.
+
+3.2
+Die Zuwendungsempfängerinnen und Zuwendungsempfänger haben sämtliche Möglichkeiten zur
 Kostensenkung auszuschöpfen. Bei der Förderung sind die das Haushaltsrecht beherrschenden Grundsätze
 von Wirtschaftlichkeit, Sparsamkeit und Notwendigkeit in besonderem Maße zu beachten.
 4. Zusammenarbeit der zuständigen Stellen
@@ -263,93 +413,152 @@ Bedeutung und tauschen Informationen aus, die zur Wahrnehmung ihrer Aufgaben jew
 Sie gewährleisten durch die Zusammenarbeit eine zügige und sachgerechte Entscheidung über die Anträge.
 Die Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 5. Kontingentierung der Fördermittel, Fördervorrang
-5.1 Eine Kontingentierung der im Sondervermögen „Wohnraum- und Wohnquartierförderfonds Niedersachsen" zur Verfügung stehenden Fördermittel für die einzelnen Fördergegenstände nach dem Bezugserlass
+5.1
+Eine Kontingentierung der im Sondervermögen „Wohnraum- und Wohnquartierförderfonds Niedersachsen" zur Verfügung stehenden Fördermittel für die einzelnen Fördergegenstände nach dem Bezugserlass
 zu b erfolgt grundsätzlich nicht. Die Fördermittel stehen nach dem Gesamtdeckungsprinzip für alle Fördergegenstände gleichermaßen zur Verfügung, soweit nicht nach den Maßgaben des Haushaltsrechts oder aus
 sonstigen Gründen eine getrennte Bewirtschaftung vorgeschrieben oder erforderlich ist. Soweit es zur Wahrung einer gleichmäßigen Inanspruchnahme oder zur sachgerechten Steuerung der Fördermittel erforderlich
 ist, kann die Bewilligungsbehörde im Einvernehmen mit dem Fachministerium Kontingente bilden.
-5.2 Übersteigen die beantragten Zuwendungen die im Sondervermögen „ Wohnraum- und Wohnquartierförderfonds Niedersachsen" zur Verfügung stehenden Fördermittel, so ist Bauvorhaben in der Reihenfolge der
+5.2
+Übersteigen die beantragten Zuwendungen die im Sondervermögen „Wohnraum- und Wohnquartierförderfonds Niedersachsen" zur Verfügung stehenden Fördermittel, so ist Bauvorhaben in der Reihenfolge der
 Nummern 13.1.1.1 bis 13.1.1.6 der Vorrang bei der Bewilligung von Zuwendungen einzuräumen.
-5.3 Unter sonst gleichen Voraussetzungen in städtebaulicher, wohnungspolitischer, sozialer und wirtschaftlicher Hinsicht sollen innerhalb der einzelnen Förderungsränge solche Bauvorhaben gleichwertiger Güte
+5.3
+Unter sonst gleichen Voraussetzungen in städtebaulicher, wohnungspolitischer, sozialer und wirtschaftlicher Hinsicht sollen innerhalb der einzelnen Förderungsränge solche Bauvorhaben gleichwertiger Güte
 und Ausstattung bevorzugt gefördert werden, bei denen aufgrund vergleichsweise niedrigerer Gesamtkosten
 geringere Fördermittel benötigt werden.
-5.4 Soweit hiernach keine Auswahlentscheidung getroffen werden kann, sind weitere Hilfskriterien heranzuziehen, insbesondere der Beitrag zur Schaffung von barrierefreiem Wohnraum, zur Wohnraumversorgung
+5.4
+Soweit hiernach keine Auswahlentscheidung getroffen werden kann, sind weitere Hilfskriterien heranzuziehen, insbesondere der Beitrag zur Schaffung von barrierefreiem Wohnraum, zur Wohnraumversorgung
 von Familien mit Kindern und von besonderen Bedarfsgruppen sowie zur Erreichung der Klimaziele. Die Bewilligungsbehörde kann bei Bedarf ein Punktesystem etablieren, in dem einzelne Hilfskriterien bewertet werden und eine Auswahl anhand der erreichten Gesamtpunktzahl getroffen wird.
 
 6. Allgemeine Bewilligungsvoraussetzungen
 Die Bewilligung einer Zuwendung setzt voraus, dass
-6.1 bei der Zuwendungsempfängerin oder dem Zuwendungsempfänger eine ordnungsgemäße Geschäftsführung gesichert erscheint und sie oder er in der Lage ist, die zweckentsprechende Verwendung der
+6.1
+
+bei der Zuwendungsempfängerin oder dem Zuwendungsempfänger eine ordnungsgemäße Geschäftsführung gesichert erscheint und sie oder er in der Lage ist, die zweckentsprechende Verwendung der
 Fördermittel bestimmungsgemäß nachzuweisen,
-6.2 die Zuwendungsempfängerin oder der Zuwendungsempfänger die Gewähr für eine ordnungsgemäße
+
+6.2
+
+die Zuwendungsempfängerin oder der Zuwendungsempfänger die Gewähr für eine ordnungsgemäße
 und wirtschaftliche Durchführung des Bauvorhabens sowie für eine ordnungsgemäße Verwaltung, Verwendung und Unterhaltung des geförderten Wohnraums bietet,
-6.3 die Zuwendungsempfängerin oder der Zuwendungsempfänger die erforderliche Leistungsfähigkeit und
+
+6.3
+
+die Zuwendungsempfängerin oder der Zuwendungsempfänger die erforderliche Leistungsfähigkeit und
 Zuverlässigkeit besitzt,
-6.4 eine gesicherte Gesamtfinanzierung des zu fördernden Objekts vorliegt,
-6.5 die Zuwendungsempfängerin oder der Zuwendungsempfänger eine angemessene Eigenleistung erbringt.
+
+6.4
+
+eine gesicherte Gesamtfinanzierung des zu fördernden Objekts vorliegt,
+
+6.5
+
+die Zuwendungsempfängerin oder der Zuwendungsempfänger eine angemessene Eigenleistung erbringt.
+
 7. Allgemeine Förderausschlüsse
 Nicht gefördert wird Wohnraum, der
-7.1 an einem Ort außerhalb Niedersachsens gelegen ist oder geschaffen werden soll,
-7.2 zur dauerhaften Vermietung oder Eigennutzung ungeeignet ist,
-7.3 in seiner Bauausführung, Ausstattung oder Größe sowie hinsichtlich der Miete oder der Belastung nicht
+7.1
+
+an einem Ort außerhalb Niedersachsens gelegen ist oder geschaffen werden soll,
+
+7.2
+
+zur dauerhaften Vermietung oder Eigennutzung ungeeignet ist,
+
+7.3
+
+in seiner Bauausführung, Ausstattung oder Größe sowie hinsichtlich der Miete oder der Belastung nicht
 den allgemeinen Wohnbedürfnissen entspricht, aus sonstigen Gründen nicht mit den Zielen und Fördergrundsätzen der sozialen Wohnraumförderung in Einklang steht oder nach seiner Beschaffenheit
 nicht wirtschaftlich, kostensparend und umweltschonend gebaut und betrieben werden kann,
-7.4 als Ferienwohnung, in Ferienhäusern und in Wochenendhäusern errichtet ist oder werden soll,
-7.5 i. S. des § 2 Abs. 2 bis 4 NuWG als Heim gilt; im Zweifelsfall ist eine Stellungnahme der Heimaufsichtsbehörde einzuholen,
-7.6 nicht zur Führung eines möglichst selbstbestimmten, eigenverantwortlichen Lebens geeignet oder bestimmt ist, für stationäre oder quasi-stationäre Versorgungsformen i. S. des SGB IX oder des SGB XI
+
+7.4
+
+als Ferienwohnung, in Ferienhäusern und in Wochenendhäusern errichtet ist oder werden soll,
+
+7.5
+
+i. S. des § 2 Abs. 2 bis 4 NuWG als Heim gilt; im Zweifelsfall ist eine Stellungnahme der Heimaufsichtsbehörde einzuholen,
+
+7.6
+
+nicht zur Führung eines möglichst selbstbestimmten, eigenverantwortlichen Lebens geeignet oder bestimmt ist, für stationäre oder quasi-stationäre Versorgungsformen i. S. des SGB IX oder des SGB XI
 genutzt werden soll oder dessen Überlassung von dem Bestand eines Vertrages über weitere Leistungen abhängig ist oder abhängig gemacht wird, wie etwa Pflege- und Betreuungsleistungen.
+
 8. Förderung begonnener Vorhaben
-8.1 Bereits begonnene Vorhaben dürfen nicht gefördert werden. Als Vorhabenbeginn ist grundsätzlich der
+8.1
+Bereits begonnene Vorhaben dürfen nicht gefördert werden. Als Vorhabenbeginn ist grundsätzlich der
 Abschluss eines dem Vorhaben zuzurechnenden Lieferungs-, Leistungs-, Kauf- oder Werkvertrages zu werten. Nicht als Vorhabenbeginn gelten jedoch der Erwerb des Baugrundstücks, die Bestellung eines Erbbaurechts, die Erstellung der Planungsunterlagen für das Vorhaben, bei Planungsaufträgen die Beauftragung bis
 einschließlich Leistungsphase 6 HOAI, eine Baugrunduntersuchung einschließlich des Auftrags zur Planung
 einer solchen Untersuchung, ein Herrichten des Grundstücks und ein rechtlich nicht bindender Abschluss eines Reservierungsvertrages für eine Kaufmaßnahme.
-8.2 Beim Erwerb von Belegungs- und Mietbindungen ist sowohl der Abschluss eines Mietvertrages als
+8.2
+Beim Erwerb von Belegungs- und Mietbindungen ist sowohl der Abschluss eines Mietvertrages als
 auch die Nutzungsüberlassung an einen wohnberechtigten Haushalt als Vorhabenbeginn zu werten.
-8.3 Die Bewilligungsbehörde kann auf Antrag einen vorzeitigen Vorhabenbeginn auf eigenes Risiko der
+8.3
+Die Bewilligungsbehörde kann auf Antrag einen vorzeitigen Vorhabenbeginn auf eigenes Risiko der
 Antragstellerin oder des Antragstellers zulassen. Ein Antrag kann frühestens gleichzeitig mit dem Antrag auf
 Förderung gestellt werden. Für voraussichtlich nicht förderfähige Vorhaben darf ein vorzeitiger Vorhabenbeginn nicht zugelassen werden. Die Zulassung eines vorzeitigen Vorhabenbeginns begründet keinen Anspruch
 auf Gewährung einer Zuwendung.
 
 9. Einsatz anderer Finanzierungshilfen
-9.1 Neben der sozialen Wohnraumförderung dürfen auch andere Förderungen für denselben Zweck in
+9.1
+Neben der sozialen Wohnraumförderung dürfen auch andere Förderungen für denselben Zweck in
 Anspruch genommen werden. Sollen für dieselben Baumaßnahmen Zuwendungen von mehreren Stellen des
 Landes oder sowohl vom Land als auch von anderen öffentlichen Stellen bewilligt werden, so haben sich die
 beteiligten Stellen vor der Bewilligung so weit wie möglich abzustimmen. Dies gilt insbesondere für den Fall,
 dass
-9.1.1 für dieselbe Kostenposition, die in verschiedenen Förderprogrammen förderfähig ist, mehrere Förderprogramme in Anspruch genommen werden sollen oder
-9.1.2 es sich bei der Förderung um eine Ausgleichsleistung für die Erbringung von Dienstleistungen von
+9.1.1
+
+für dieselbe Kostenposition, die in verschiedenen Förderprogrammen förderfähig ist, mehrere Förderprogramme in Anspruch genommen werden sollen oder
+
+9.1.2
+
+es sich bei der Förderung um eine Ausgleichsleistung für die Erbringung von Dienstleistungen von
 allgemeinem wirtschaftlichem Interesse i. S. des DAWI-Freistellungsbeschlusses handelt.
-9.2 Soweit anderweitige vertragliche oder gesetzliche Ansprüche auf Finanzierungsmittel für dieselben
+
+9.2
+Soweit anderweitige vertragliche oder gesetzliche Ansprüche auf Finanzierungsmittel für dieselben
 baulichen Maßnahmen bestehen, sind diese Finanzierungsmittel vorrangig einzusetzen.
 10. Vorrangige Kapitalmarktmittel
-10.1 Den als Zuwendung gewährten Darlehen sollen nur Darlehen zu den für erststellige Kapitalmarktmittel
+10.1
+Den als Zuwendung gewährten Darlehen sollen nur Darlehen zu den für erststellige Kapitalmarktmittel
 im Wohnungsbau üblichen Bedingungen im Rang vorgehen. Die laufende Darlehenstilgung muss mindestens
 1 % jährlich zuzüglich ersparter Zinsen betragen. Die Bewilligungsbehörde kann verlangen, dass der Zinssatz
 des Darlehens für einen bestimmten Zeitraum festgeschrieben wird.
-10.2 Soll die Tilgung ausgesetzt und mit dem Abschluss von Lebensversicherungs- oder Bausparverträgen
-verbunden werden, so müssen sich die Darlehensgläubigerinnen und - gläubiger gegenüber der Bewilligungsbehörde verpflichten, im Fall der Zwangsvollstreckung in das Grundstück, das Erbbaurecht oder das Wohnungseigentum oder in dessen Erträge oder im Fall eines Notverkaufs ihr Grundpfandrecht höchstens mit dem
+10.2
+Soll die Tilgung ausgesetzt und mit dem Abschluss von Lebensversicherungs- oder Bausparverträgen
+verbunden werden, so müssen sich die Darlehensgläubigerinnen und -gläubiger gegenüber der Bewilligungsbehörde verpflichten, im Fall der Zwangsvollstreckung in das Grundstück, das Erbbaurecht oder das Wohnungseigentum oder in dessen Erträge oder im Fall eines Notverkaufs ihr Grundpfandrecht höchstens mit dem
 Betrag geltend zu machen, der sich ergeben würde, wenn ihr Darlehen unter Berücksichtigung von drei tilgungsfreien Jahren ab Bezugsfertigkeit mit 1 % jährlich zuzüglich ersparter Zinsen getilgt worden wäre.
-10.3 Sollen Darlehen durch eine Grundschuld dinglich gesichert werden, so ist sicherzustellen, dass die
-Grundschuld nach Rückzahlung des gesicherten Darlehens nicht erneut zur Sicherung einer Forderung verwendet wird. Außerdem muss sichergestellt sein, dass ein Aufrücken des als Zuwendung gewährten Darlehens entsprechend der Tilgung der im Rang vorgehenden oder gleichstehenden Darlehen erfolgt. Grundschuldgläubigerinnen und - gläubiger sowie Schuldnerinnen und Schuldner müssen entsprechende Erklärungen abgeben. Die Bewilligungsbehörde kann Ausnahmen zulassen.
+10.3
+Sollen Darlehen durch eine Grundschuld dinglich gesichert werden, so ist sicherzustellen, dass die
+Grundschuld nach Rückzahlung des gesicherten Darlehens nicht erneut zur Sicherung einer Forderung verwendet wird. Außerdem muss sichergestellt sein, dass ein Aufrücken des als Zuwendung gewährten Darlehens entsprechend der Tilgung der im Rang vorgehenden oder gleichstehenden Darlehen erfolgt. Grundschuldgläubigerinnen und -gläubiger sowie Schuldnerinnen und Schuldner müssen entsprechende Erklärungen abgeben. Die Bewilligungsbehörde kann Ausnahmen zulassen.
 11. Dingliche Sicherung, Sicherung der Zweckbestimmung
-11.1 Die als Zuwendung gewährten Darlehen sind im Rang unmittelbar nach den der Finanzierung des
+11.1
+Die als Zuwendung gewährten Darlehen sind im Rang unmittelbar nach den der Finanzierung des
 Bauvorhabens dienenden Kapitalmarktmitteln, aber vor etwaigen als Ersatz der Eigenleistung anerkannten
 Fremdmitteln dinglich zu sichern. Die Bewilligungsbehörde kann eine bestimmte Rangfolge verlangen sowie
-nach den Umständen des Einzelfalle s eine andere Rangfolge festlegen.
-11.2 Bei Darlehen von bis zu 20 000 EUR kann die Bewilligungsbehörde auf eine dingliche Sicherung verzichten.
-11.3 Werden in der Mietwohnraumförderung Zuwendungen ausschließlich als nicht rückzahlbare Zuschüsse gewährt, so ist zur Sicherung der Zweckbestimmung grundsätzlich für die Dauer der Belegungs- und
+nach den Umständen des Einzelfalles eine andere Rangfolge festlegen.
+11.2
+Bei Darlehen von bis zu 20 000 EUR kann die Bewilligungsbehörde auf eine dingliche Sicherung verzichten.
+11.3
+Werden in der Mietwohnraumförderung Zuwendungen ausschließlich als nicht rückzahlbare Zuschüsse gewährt, so ist zur Sicherung der Zweckbestimmung grundsätzlich für die Dauer der Belegungs- und
 Mietbindung eine beschränkte persönliche Dienstbarkeit im Grundbuch einzutragen. Die Bewilligungsbehörde
 kann in begründeten Fällen auf die Eintragung verzichten.
 
 Zweiter Abschnitt
 Mietwohnraumförderung
 12. Zuwendungsempfängerinnen und Zuwendungsempfänger
-12.1 Zuwendungsempfängerinnen und Zuwendungsempfänger können natürliche und juristische Personen
+12.1
+Zuwendungsempfängerinnen und Zuwendungsempfänger können natürliche und juristische Personen
 des öffentlichen und privaten Rechts sowie Personengesellschaften sein. Dazu gehören auch Genossenschaften und Baugemeinschaften. Baugemeinschaften sollen grundsätzlich die Rechtsfähigkeit besitzen.
-12.2 Die Zuwendung empfängt diejenige Person, die das Bauvorhaben für eigene oder fremde Rechnung
+12.2
+Die Zuwendung empfängt diejenige Person, die das Bauvorhaben für eigene oder fremde Rechnung
 im eigenen Namen durchführt oder durch Dritte durchführen lässt.
 13. Fördervoraussetzungen
-13.1 Neubau ist förderfähig, wenn folgende Bedingungen erfüllt sind:
-13.1.1 Aufgrund der örtlichen und regionalen wohnungswirtschaftlichen Verhältnisse muss ein nicht nur
-kurzfristiger Bedarf für geförderten Mietwohnraum bestehen . Diese Voraussetzung gilt als erfüllt
+13.1
+13.1.1
+
+Neubau ist förderfähig, wenn folgende Bedingungen erfüllt sind:
+Aufgrund der örtlichen und regionalen wohnungswirtschaftlichen Verhältnisse muss ein nicht nur
+kurzfristiger Bedarf für geförderten Mietwohnraum bestehen. Diese Voraussetzung gilt als erfüllt
 13.1.1.1 in Gebieten der Gemeinden, die nach der Niedersächsischen Mieterschutzverordnung
 oder der Niedersächsischen Verordnung zur Bestimmung von Gebieten mit einem angespannten Wohnungsmarkt i. S. des Baugesetzbuchs als Gebiete mit angespannten Wohnungsmärkten gelten,
 13.1.1.2 in Gebieten der Gemeinden mit Hochschulen, insbesondere der in § 2 NHG und der in § 2
@@ -368,23 +577,45 @@ die Vermutung als widerlegt anzusehen ist. Für die Prüfung können alle sich v
 insbesondere der Anteil von Wohnungen mit Belegungs- und Mietbindungen am Gesamtwohnungsbestand, der Anteil der wohnberechtigten Haushalte sowie die Mietwohnungsquote der betreffenden
 Gemeinde in Betracht. Die Bewilligungsbehörde berücksichtigt bei der Prüfung des Bedarfs auch
 etwaige von der Wohnraumförderstelle vorgelegte Unterlagen, etwa
-– ein örtliches oder regionales Wohnraumversorgungskonzept ,
-– Analysen, Daten, Erfahrungswerte und fachliche Expertisen der lokalen Marktakteurinnen und
+–
+
+ein örtliches oder regionales Wohnraumversorgungskonzept,
+
+–
+
+Analysen, Daten, Erfahrungswerte und fachliche Expertisen der lokalen Marktakteurinnen und
 -akteure, Verbände, Mietervereinigungen, Forschungseinrichtungen,
-– Ergebnisse von Befragungen und Umfragen, Warte- und Bewerberlisten, Stadtteil- und Stadtentwicklungskonzepte,
-– Daten aus etablierten Monitoring- Systemen für den lokalen Wohnungsmarkt und Ergebnisse
+
+–
+
+Ergebnisse von Befragungen und Umfragen, Warte- und Bewerberlisten, Stadtteil- und Stadtentwicklungskonzepte,
+
+–
+
+Daten aus etablierten Monitoring-Systemen für den lokalen Wohnungsmarkt und Ergebnisse
 der kommunalen Wohnungsmarktbeobachtung.
 
-13.1.2 Die Antragstellerin oder der Antragsteller muss Eigentümerin oder Eigentümer eines für das Bauvorhaben geeigneten Baugrundstücks sein oder für einen angemessenen Zeitraum ein Erbbaurecht an
+13.1.2
+
+Die Antragstellerin oder der Antragsteller muss Eigentümerin oder Eigentümer eines für das Bauvorhaben geeigneten Baugrundstücks sein oder für einen angemessenen Zeitraum ein Erbbaurecht an
 einem solchen Grundstück erworben haben. Diese Bedingung gilt auch als erfüllt, wenn nachgewiesen wird, dass der Erwerb eines solchen Baugrundstücks oder eines entsprechenden Erbbaurechts
 gesichert ist oder durch die Gewährung der Zuwendung gesichert werden soll. Erbbaurechte müssen
 eine Restlaufzeit von mindestens 60 Jahren haben.
-13.1.3 In dem neuen selbständigen Gebäude müssen mindestens zwei geförderte Mietwohnungen geschaffen werden; eine Förderung von zur Vermietung bestimmten Eigentumswohnungen ist ausgeschlossen.
-13.1.4 Das Gebäude muss ein bedarfsgerechtes Verhältnis von Wohnungen vorsehen.
-13.2 Das Bauvorhaben muss den städtebaulichen Zielen entsprechen. Die Wohnraumförderstelle hat dies
+
+13.1.3
+
+In dem neuen selbständigen Gebäude müssen mindestens zwei geförderte Mietwohnungen geschaffen werden; eine Förderung von zur Vermietung bestimmten Eigentumswohnungen ist ausgeschlossen.
+
+13.1.4
+
+Das Gebäude muss ein bedarfsgerechtes Verhältnis von Wohnungen vorsehen.
+
+13.2
+Das Bauvorhaben muss den städtebaulichen Zielen entsprechen. Die Wohnraumförderstelle hat dies
 unter Berücksichtigung der Fördergrundsätze (Nummer 3) in Abstimmung mit der für den Bauort zuständigen
 Gemeinde zu bestätigen.
-13.3 Die nach den örtlichen wohnungswirtschaftlichen Verhältnissen tatsächlich erzielbare Miete muss ausreichen, um die Finanzierungs- und Bewirtschaftungskosten, die durch die laufenden Aufwendungen für das
+13.3
+Die nach den örtlichen wohnungswirtschaftlichen Verhältnissen tatsächlich erzielbare Miete muss ausreichen, um die Finanzierungs- und Bewirtschaftungskosten, die durch die laufenden Aufwendungen für das
 geförderte Objekt ausgelöst werden, auf Dauer zu decken.
 14. Eigenleistungen
 Als Eigenleistungen kommen insbesondere eigene Geldmittel und der Wert des nicht durch Fremdmittel
@@ -394,55 +625,56 @@ des nicht durch Fremdmittel finanzierten und nachweislich grundbuchrechtlich las
 erbracht werden sollen. Die Bewilligungsbehörde kann nach Maßgabe des Bezugserlasses zu b insbesondere
 unter bankwirtschaftlichen Gesichtspunkten eine geringere Eigenleistung zulassen.
 15. Angemessene Wohnungsgrößen
-15.1 Gefördert wird nur Mietwohnraum, dessen Größe entsprechend seiner Zweckbestimmung angemessen ist. Folgende Wohnflächen gelten als angemessen i. S. des § 4 Abs. 1 NWoFG:
-15.1.1 für Haushalte mit einer Person bis 50 m
-2
-,
-15.1.2 für Haushalte mit zwei Personen bis 60 m
-2
-,
-15.1.3 für Haushalte mit drei Personen bis 75 m
-2
-,
-15.1.4 für Haushalte mit vier Personen bis 85 m
-2
-und
-15.1.5 für jede weitere zum Haushalt gehörende Person weitere 10 m
-2
-.
+15.1
+Gefördert wird nur Mietwohnraum, dessen Größe entsprechend seiner Zweckbestimmung angemessen ist. Folgende Wohnflächen gelten als angemessen i. S. des § 4 Abs. 1 NWoFG:
+15.1.1
+
+für Haushalte mit einer Person bis 50 m2,
+
+15.1.2
+
+für Haushalte mit zwei Personen bis 60 m2,
+
+15.1.3
+
+für Haushalte mit drei Personen bis 75 m2,
+
+15.1.4
+
+für Haushalte mit vier Personen bis 85 m2 und
+
+15.1.5
+
+für jede weitere zum Haushalt gehörende Person weitere 10 m2.
+
 Bei der Berechnung der Wohnfläche ist die WoFlV anzuwenden.
-15.2 Die angemessene Größe des Wohnraums erhöht sich um weitere 10 m
-2
-, wenn rollstuhlgerechter
-Wohnraum für Menschen mit Behinderungen geschaffen werden soll und durch die Einhaltung der als technische Baubestimmung eingeführten DIN 18040- 2 unter Beachtung des Kennzeichens „ R" (Anforderungen an
+15.2
+Die angemessene Größe des Wohnraums erhöht sich um weitere 10 m2, wenn rollstuhlgerechter
+Wohnraum für Menschen mit Behinderungen geschaffen werden soll und durch die Einhaltung der als technische Baubestimmung eingeführten DIN 18040-2 unter Beachtung des Kennzeichens „R" (Anforderungen an
 Wohnungen für eine barrierefreie und uneingeschränkte Rollstuhlbenutzung) größere Flächen erforderlich
 sind. Ist einer rollstuhlgerechten Wohnung ein Freisitz zugeordnet, so erhöht sich die angemessene Größe
-des Wohnraums statt um weitere 10 m
-2
-um 12 m
-2
-.
-15.3 Eine geringfügige Überschreitung der angemessenen Wohnungsgrößen führt nicht zur Ablehnung der
+des Wohnraums statt um weitere 10 m2 um 12 m2.
+15.3
+Eine geringfügige Überschreitung der angemessenen Wohnungsgrößen führt nicht zur Ablehnung der
 Förderung. Eine Überschreitung ist geringfügig, wenn die jeweils als angemessen geltende Wohnungsgröße
 um nicht mehr als 2 % überschritten wird. Die Wohnraumförderstelle kann im Einzelfall einer Überschreitung
 der angemessenen Wohnungsgröße um bis zu 10 % zustimmen, wenn bauliche Erfordernisse wie beispielsweise der Grundstückszuschnitt, die Baugrenzen oder Baulasten die Einhaltung der genannten Grenzen verhindern. Auf Nummer 44.4 wird hingewiesen.
 
-15.4 Mietwohnraum muss mindestens so groß sein, dass er den allgemeinen üblichen Anforderungen an
+15.4
+Mietwohnraum muss mindestens so groß sein, dass er den allgemeinen üblichen Anforderungen an
 gesunde Wohnverhältnisse entspricht und dauerhaft der bestimmungsgemäße Gebrauch zu Wohnzwecken
-gewährleistet ist. Die Wohnfläche von Wohnungen soll 30 m
-2
-nicht unterschreiten, sofern nicht besondere
+gewährleistet ist. Die Wohnfläche von Wohnungen soll 30 m2 nicht unterschreiten, sofern nicht besondere
 Wohnkonzepte vorliegen (Variowohnungen, Mikroapartments, alternative und innovative Wohnformen, Modellprojekte zur ressourcensparenden Raumausnutzung) oder nachstehend nichts Abweichendes geregelt ist.
 16. Besondere Wohnformen
-16.1 Mietwohnraum kann unter Berücksichtigung der sozialen und wohnungswirtschaftlichen Umstände
+16.1
+Mietwohnraum kann unter Berücksichtigung der sozialen und wohnungswirtschaftlichen Umstände
 des Einzelfalles auch in gemeinschaftlichen Wohnformen gefördert werden. Dies gilt insbesondere für Wohnraum für Studierende und Auszubildende, für ältere Menschen und Menschen mit Behinderungen sowie für
 Wohngemeinschaften zur gegenseitigen Unterstützung im Alter oder bei Hilfebedürftigkeit und betreute Wohngemeinschaften; bei diesen Wohnformen kann ein angemessen großer Gemeinschaftsraum vorgesehen werden.
-16.2 Einschließlich der gemeinschaftlich genutzten Wohnfläche soll die Größe des Wohnraums je Person
-40 m
-2
-nicht überschreiten; dabei sind nur die zu Wohnzwecken genutzten Flächen zu berücksichtigen, die in
+16.2
+Einschließlich der gemeinschaftlich genutzten Wohnfläche soll die Größe des Wohnraums je Person
+40 m2 nicht überschreiten; dabei sind nur die zu Wohnzwecken genutzten Flächen zu berücksichtigen, die in
 einer abgeschlossenen Wohneinheit liegen und der privaten Lebensführung der Mieterinnen und Mieter dienen. Wenn rollstuhlgerechter Wohnraum für Menschen mit Behinderungen geschaffen werden soll und durch
-die Einhaltung der als technische Baubestimmung eingeführten DIN 18040- 2 unter Beachtung des Kennzeichens „R" (Anforderungen an Wohnungen für eine barrierefreie und uneingeschränkte Rollstuhlbenutzung)
+die Einhaltung der als technische Baubestimmung eingeführten DIN 18040-2 unter Beachtung des Kennzeichens „R" (Anforderungen an Wohnungen für eine barrierefreie und uneingeschränkte Rollstuhlbenutzung)
 größere Flächen erforderlich sind, kann ein angemessener Zuschlag berücksichtigt werden.
 17. Darlehenskonditionen
 Für das Darlehen gelten folgende Konditionen:
@@ -457,183 +689,344 @@ mit mindestens 1,25 % jährlich und danach mit mindestens 2,5 % jährlich getilg
 17.3 Die Bewilligungsbehörde darf den Beginn der Tilgung um bis zu drei Jahre hinausschieben, wenn andernfalls in Bezug auf das geförderte Objekt vorübergehend ein Fehlbetrag zwischen Einnahmen und
 Ausgaben entstehen würde.
 18. Tilgungsnachlass
-18.1 Der Tilgungsnachlass ist ein Teilschulderlass. Er kann nur zusammen mit dem Darlehen in Anspruch
+18.1
+Der Tilgungsnachlass ist ein Teilschulderlass. Er kann nur zusammen mit dem Darlehen in Anspruch
 genommen werden; eine Zuwendung allein in Form des Tilgungsnachlasses ist ausgeschlossen. Der Tilgungsnachlass wird in zwei Teilbeträgen gewährt. Zwei Drittel des Betrages werden nach
-18.1.1 Bezugsfertigkeit und bestimmungsgemäßer Belegung des geförderten Wohnraums (Neubauvorhaben) oder
-18.1.2 dem Abschluss der baulichen Maßnahmen (übrige Vorhaben)
-von dem Darlehensursprungsbetrag abgezogen. Das restliche Drittel wird nach Ablauf des 20. Jahres nach
-den in Nummer 18.1.1 oder 18 .1.2 genannten Zeitpunkten abgezogen.
-18.2 Der Tilgungsnachlass darf nur gewährt werden, wenn
-18.2.1 fällige Zahlungen vertragsgemäß erbracht worden sind,
+18.1.1
 
-18.2.2 nicht vorsätzlich oder grob fahrlässig gegen die Bestimmungen der Förderentscheidung einschließlich des Darlehensvertrages verstoßen worden ist,
-18.2.3 das Darlehen nicht ganz oder teilweise vorzeitig zurückgezahlt worden ist und
-18.2.4 keine Gründe vorliegen, die die Bewilligungsbehörde zur Rücknahme, zum Widerruf oder zur Kündigung der Förderentscheidung berechtigen würden.
-18.3 Eine Auszahlung von Tilgungsnachlässen ist nicht möglich.
+Bezugsfertigkeit und bestimmungsgemäßer Belegung des geförderten Wohnraums (Neubauvorhaben) oder
+
+18.1.2
+
+dem Abschluss der baulichen Maßnahmen (übrige Vorhaben)
+
+von dem Darlehensursprungsbetrag abgezogen. Das restliche Drittel wird nach Ablauf des 20. Jahres nach
+den in Nummer 18.1.1 oder 18.1.2 genannten Zeitpunkten abgezogen.
+18.2
+18.2.1
+
+Der Tilgungsnachlass darf nur gewährt werden, wenn
+fällige Zahlungen vertragsgemäß erbracht worden sind,
+
+18.2.2
+
+nicht vorsätzlich oder grob fahrlässig gegen die Bestimmungen der Förderentscheidung einschließlich des Darlehensvertrages verstoßen worden ist,
+
+18.2.3
+
+das Darlehen nicht ganz oder teilweise vorzeitig zurückgezahlt worden ist und
+
+18.2.4
+
+keine Gründe vorliegen, die die Bewilligungsbehörde zur Rücknahme, zum Widerruf oder zur Kündigung der Förderentscheidung berechtigen würden.
+
+18.3
+
+Eine Auszahlung von Tilgungsnachlässen ist nicht möglich.
+
 19. Belegungsbindungen
-19.1 Durch die Förderentscheidung werden Belegungsbindungen nach § 7 NWoFG begründet. Die Belegungsbindung beginnt bei Neubauvorhaben mit der Bezugsfertigkeit des geförderten Wohnraums und bei den
+19.1
+Durch die Förderentscheidung werden Belegungsbindungen nach § 7 NWoFG begründet. Die Belegungsbindung beginnt bei Neubauvorhaben mit der Bezugsfertigkeit des geförderten Wohnraums und bei den
 übrigen Vorhaben nach Abschluss der baulichen Maßnahmen.
-19.2 Sofern nachfolgend nichts Abweichendes geregelt ist, endet die Belegungsbindung im Fall der Förderung von Wohnraum für Haushalte
-19.2.1 mit geringen Einkommen nach Ablauf von 35 Jahren und
-19.2.2 mit mittleren Einkommen nach Ablauf von 30 Jahren.
-19.3 An dem geförderten Wohnraum können auch Belegungsbindungen bestimmter Art begründet werden
+19.2
+Sofern nachfolgend nichts Abweichendes geregelt ist, endet die Belegungsbindung im Fall der Förderung von Wohnraum für Haushalte
+19.2.1
+
+mit geringen Einkommen nach Ablauf von 35 Jahren und
+
+19.2.2
+
+mit mittleren Einkommen nach Ablauf von 30 Jahren.
+
+19.3
 für
-19.3.1 ältere Menschen,
-19.3.2 Menschen mit Behinderungen und
-19.3.3 besondere Bedarfsgruppen.
-Der Wohnraum darf für die Dauer der Belegungsbindung nur Personen zum Gebrau ch überlassen werden,
+
+An dem geförderten Wohnraum können auch Belegungsbindungen bestimmter Art begründet werden
+
+19.3.1
+
+ältere Menschen,
+
+19.3.2
+
+Menschen mit Behinderungen und
+
+19.3.3
+
+besondere Bedarfsgruppen.
+
+Der Wohnraum darf für die Dauer der Belegungsbindung nur Personen zum Gebrauch überlassen werden,
 die zu dem jeweiligen Personenkreis gehören.
 20. Mietbindung
-20.1 Durch die Förderentscheidung wird eine Mietbindung nach § 9 NWoFG begründet. Die Mietbindung
+20.1
+Durch die Förderentscheidung wird eine Mietbindung nach § 9 NWoFG begründet. Die Mietbindung
 beginnt bei Neubauvorhaben mit der Bezugsfertigkeit des geförderten Wohnraums und bei den übrigen Vorhaben nach Abschluss der baulichen Maßnahmen.
-20.2 Sofern nachfolgend nichts Abweichendes geregelt ist, endet die Mietbindung im Fall der Förderung
+20.2
+Sofern nachfolgend nichts Abweichendes geregelt ist, endet die Mietbindung im Fall der Förderung
 von Wohnraum für Haushalte
-20.2.1 mit geringen Einkommen nach Ablauf von 35 Jahren und
-20.2.2 mit mittleren Einkommen nach Ablauf von 30 Jahren.
-20.3 Mit Beginn der Mietbindung darf der geförderte Wohnraum für die Dauer von drei Jahren nur gegen
+20.2.1
+
+mit geringen Einkommen nach Ablauf von 35 Jahren und
+
+20.2.2
+
+mit mittleren Einkommen nach Ablauf von 30 Jahren.
+
+20.3
+Mit Beginn der Mietbindung darf der geförderte Wohnraum für die Dauer von drei Jahren nur gegen
 eine Miete (Nettokaltmiete) zum Gebrauch überlassen werden, die die nachstehenden Beträge je Quadratmeter Wohnfläche und Monat nicht überschreitet:
 Bei der Förderung von Wohnraum für Haushalte mit
 in Städten und Gemeinden der Mietenstufe
-geringen Einkommen: mittleren Einkommen:
-I: 5,90 EUR 7,30 EUR
-II und III: 6,10 EUR 7,50 EUR
-IV bis VII: 6,40 EUR 7,80 EUR.
+
+geringen Einkommen:
+
+mittleren Einkommen:
+
+I:
+
+5,90 EUR
+
+7,30 EUR
+
+II und III:
+
+6,10 EUR
+
+7,50 EUR
+
+IV bis VII:
+
+6,40 EUR
+
+7,80 EUR.
 
 Die Beträge dürfen um bis zu 0,30 EUR erhöht werden, wenn der Wohnraum mindestens das Niveau eines
 KfW-Effizienzhauses 40 erreicht. Auf Nummer 51.2.2 wird hingewiesen.
 Die Einteilung der Städte und Gemeinden in die Mietenstufen I bis VII richtet sich nach den Bestimmungen
 der Anlage zu § 1 Abs. 3 WoGV in der jeweils geltenden Fassung.
-20.4 Mieterhöhungen sind in den ersten drei Jahren der Mietbindung nicht zulässig. Ab Beginn des vierten Jahres bis zum Ende der Mietbindung sind Mieterhöhungen im Rahmen der Verfahrensregeln der §§ 558
+20.4
+Mieterhöhungen sind in den ersten drei Jahren der Mietbindung nicht zulässig. Ab Beginn des vierten Jahres bis zum Ende der Mietbindung sind Mieterhöhungen im Rahmen der Verfahrensregeln der §§ 558
 bis 559 b BGB zulässig. Bei Erhöhungen darf sich die Miete innerhalb von drei Jahren – von Erhöhungen der
 Betriebskosten nach § 560 BGB abgesehen – jedoch nicht um mehr als 6,15 % erhöhen. Die Miete, die sich
 hiernach ergibt, darf auch im Fall einer erneuten Vermietung während der Mietbindung nicht überschritten
 werden.
-20.5 Abweichende Vereinbarungen i. S. von § 557 BGB, insbesondere die Vereinbarung einer Staffelmiete
+20.5
+Abweichende Vereinbarungen i. S. von § 557 BGB, insbesondere die Vereinbarung einer Staffelmiete
 (§ 557 a Abs. 1 BGB) sowie die Vereinbarung einer Indexmiete (§ 557 b Abs. 1 BGB), sind nicht zulässig.
 21. Übertragung von Belegungs- und Mietbindungen
-21.1 Im Fall der Förderung von Wohnraum für Haushalte mit geringen Einkommen können die Belegungs-
-und Mietbindungen des geförderten Wohnraums auf gesonderten Antrag der Zuwendungsempfängerin oder
+21.1
+Im Fall der Förderung von Wohnraum für Haushalte mit geringen Einkommen können die Belegungsund Mietbindungen des geförderten Wohnraums auf gesonderten Antrag der Zuwendungsempfängerin oder
 des Zuwendungsempfängers unter den Voraussetzungen des § 11 Abs. 3 NWoFG gleichzeitig mit der Förderentscheidung auf anderen Wohnraum übertragen werden (mittelbare Belegung). In dem Antrag ist darzulegen, in welcher Weise die Übertragung der Bindungen der Schaffung oder der Erhaltung sozial stabiler Bewohnerstrukturen dient oder aus welchen anderen örtlichen wohnungswirtschaftlichen Gründen die Übertragung geboten ist. Der Umfang der Übertragung von Bindungen darf 50 % der Anzahl der geförderten Wohnungen nicht überschreiten.
-21.2 Die Übertragung von Bindungen kann der Schaffung oder der Erhaltung sozial stabiler Bewohnerstrukturen dienen, wenn in dem betreffenden Gebiet Anzeichen für eine entsprechende negative Entwicklung vorliegen. Konkrete Anzeichen für das Vorliegen oder die Gefahr einer Entstehung sozial problematischer Bewohnerstrukturen können ein erhöhter Handlungsbedarf im sozialen Bereich, spezifische Problemlagen bestimmter Bewohnergruppen, überforderte Nachbarschaften, Armut, überdurchschnittliche Arbeitslosigkeit und
+21.2
+Die Übertragung von Bindungen kann der Schaffung oder der Erhaltung sozial stabiler Bewohnerstrukturen dienen, wenn in dem betreffenden Gebiet Anzeichen für eine entsprechende negative Entwicklung vorliegen. Konkrete Anzeichen für das Vorliegen oder die Gefahr einer Entstehung sozial problematischer Bewohnerstrukturen können ein erhöhter Handlungsbedarf im sozialen Bereich, spezifische Problemlagen bestimmter Bewohnergruppen, überforderte Nachbarschaften, Armut, überdurchschnittliche Arbeitslosigkeit und
 ein erhöhter interkultureller Integrationsbedarf aufgrund hoher ethnischer Durchmischung sein. In solchen Gebieten kann eine mittelbare Belegung insbesondere bei größeren Mietwohnungsbauvorhaben der Schaffung
 oder der Erhaltung sozial stabiler Bewohnerstrukturen dienen.
-21.3 Die Zuwendungsempfängerin oder der Zuwendungsempfänger muss Bindungen von insgesamt gleichem Wert an anderem Wohnraum (Ersatzwohnungen) einräumen. Die Ersatzwohnungen sollen in der Gemeinde des geförderten Wohnraums gelegen sein und müssen im Bezirk der Wohnraumförderstelle liegen.
+21.3
+Die Zuwendungsempfängerin oder der Zuwendungsempfänger muss Bindungen von insgesamt gleichem Wert an anderem Wohnraum (Ersatzwohnungen) einräumen. Die Ersatzwohnungen sollen in der Gemeinde des geförderten Wohnraums gelegen sein und müssen im Bezirk der Wohnraumförderstelle liegen.
 Das Förderziel und der Förderzweck dürfen durch die mittelbare Belegung nicht beeinträchtigt werden.
-21.4 Ein insgesamt gleicher Wert an anderem Wohnraum ist insbesondere anhand der Wohnfläche, der
+21.4
+Ein insgesamt gleicher Wert an anderem Wohnraum ist insbesondere anhand der Wohnfläche, der
 Anzahl der Wohnungen und dem Wohnwert (Alter, Größe, Beschaffenheit, Ausstattung, Lage) zu bemessen.
 Sofern der Wohnwert der Ersatzwohnungen den Wohnwert der geförderten Wohnungen erkennbar unterschreitet, ist ein entsprechender Ausgleich nach folgender Maßgabe anzustreben:
 Von der Zuwendungsempfängerin oder dem Zuwendungsempfänger sollen entweder
-21.4.1 Ersatzwohnungen mit einer Wohnfläche, die im Umfang dem Eineinhalbfachen der Wohnfläche der
+21.4.1
+
+Ersatzwohnungen mit einer Wohnfläche, die im Umfang dem Eineinhalbfachen der Wohnfläche der
 geförderten Wohnungen entspricht, oder
-21.4.2 doppelt so viele Ersatzwohnungen, wie es der Anzahl der geförderten Wohnungen entspricht, deren
+
+21.4.2
+
+doppelt so viele Ersatzwohnungen, wie es der Anzahl der geförderten Wohnungen entspricht, deren
 Belegungs- und Mietbindungen übertragen werden sollen,
+
 zur Verfügung gestellt werden.
-21.5 Die Wohnraumförderstelle prüft durch Inaugenscheinnahme, ob die Ersatzwohnungen tatsächlich zur
+21.5
+Die Wohnraumförderstelle prüft durch Inaugenscheinnahme, ob die Ersatzwohnungen tatsächlich zur
 dauernden Wohnnutzung geeignet sind, insbesondere ob diese nach ihrer Bauausführung, Ausstattung und
 Größe den allgemeinen Wohnbedürfnissen entsprechen. Der Wohnraum muss über folgende Mindestausstattung verfügen, die funktionsfähig und nutzbar sein muss:
 
-21.5.1 ausreichende natürliche Belichtung und Belüftung,
-21.5.2 Schutz gegen Witterungseinflüsse und Feuchtigkeit,
-21.5.3 Anschluss von Energie- , Wasserversorgung und Entwässerung,
-21.5.4 Heizungsanlage,
-21.5.5 Anschluss für eine Kochküche oder Kochnische und
-21.5.6 Bad mit Badewanne oder Dusche und eine Toilette.
+21.5.1
+
+ausreichende natürliche Belichtung und Belüftung,
+
+21.5.2
+
+Schutz gegen Witterungseinflüsse und Feuchtigkeit,
+
+21.5.3
+
+Anschluss von Energie-, Wasserversorgung und Entwässerung,
+
+21.5.4
+
+Heizungsanlage,
+
+21.5.5
+
+Anschluss für eine Kochküche oder Kochnische und
+
+21.5.6
+
+Bad mit Badewanne oder Dusche und eine Toilette.
+
 Um Fehlförderungen auszuschließen, ist zu gewährleisten, dass die Ersatzwohnungen im Wesentlichen
 dieselben baufachlichen Anforderungen erfüllen, die der geförderte Wohnraum aufgrund einer besonderen
 Zweckbestimmung oder aufgrund von Belegungsbindungen bestimmter Art erfüllen muss.
-21.6 Die Bindungen gehen zum Zeitpunkt der Bezugsfertigkeit der geförderten Wohnungen oder dem Abschluss der baulichen Maßnahmen auf die Ersatzwohnungen über. Diese müssen zum Zeitpunkt des Übergangs bezugsfertig und frei zur Vermietung sein; sie müssen tatsächlich zur Überlassung an wohnberechtigte
+21.6
+Die Bindungen gehen zum Zeitpunkt der Bezugsfertigkeit der geförderten Wohnungen oder dem Abschluss der baulichen Maßnahmen auf die Ersatzwohnungen über. Diese müssen zum Zeitpunkt des Übergangs bezugsfertig und frei zur Vermietung sein; sie müssen tatsächlich zur Überlassung an wohnberechtigte
 Haushalte zur Verfügung stehen.
-21.7 Können bezugsfertige und freie Ersatzwohnungen zum Zeitpunkt des Übergangs der Belegungs- und
+21.7
+Können bezugsfertige und freie Ersatzwohnungen zum Zeitpunkt des Übergangs der Belegungs- und
 Mietbindungen nicht im erforderlichen Umfang zur Verfügung gestellt werden, dürfen Bindungen bereits ab
 der Bekanntgabe der Förderentscheidung schrittweise auf bezugsfertige und freie Ersatzwohnungen übertragen werden. Spätestens 18 Monate nach der Bezugsfertigkeit der geförderten Wohnungen oder dem Abschluss der baulichen Maßnahmen müssen Bindungen von insgesamt gleichem Wert an Ersatzwohnungen
 begründet sein und zur Überlassung an wohnberechtigte Haushalte zur Verfügung stehen. Abweichend von
-den Nummern 19.1 und 20 .1 beginnt die Belegungs- und die Mietbindung in diesen Fällen erst dann, wenn
+den Nummern 19.1 und 20.1 beginnt die Belegungs- und die Mietbindung in diesen Fällen erst dann, wenn
 Ersatzwohnungen im erforderlichen Umfang zur Überlassung an wohnberechtigte Haushalte zur Verfügung
 gestellt worden sind.
-21.8 Stehen Ersatzwohnungen nicht oder nicht rechtzeitig zur Verfügung, so hat die Zuwendungsempfängerin oder der Zuwendungsempfänger einen Geldausgleich oder einen sonstigen angemessenen Ausgleich
+21.8
+Stehen Ersatzwohnungen nicht oder nicht rechtzeitig zur Verfügung, so hat die Zuwendungsempfängerin oder der Zuwendungsempfänger einen Geldausgleich oder einen sonstigen angemessenen Ausgleich
 zu leisten. Das Nähere ist in der Förderentscheidung zu regeln.
-21.9 Zur Übertragung von Bindungen ist ein öffentlich- rechtlicher Vertrag zwischen der oder dem Verfügungsberechtigten, der Wohnraumförderstelle und der Bewilligungsbehörde zu schließen. Gegenstand der
+21.9
+Zur Übertragung von Bindungen ist ein öffentlich-rechtlicher Vertrag zwischen der oder dem Verfügungsberechtigten, der Wohnraumförderstelle und der Bewilligungsbehörde zu schließen. Gegenstand der
 vertraglichen Übertragungsvereinbarung sollen unter Berücksichtigung der Voraussetzungen des § 11
-Abs. 3 NWoFG Anzahl, Dauer, Art und Höhe der Belegungs- und Mietbindungen sowie Größe und Ausstattung des Ersatzwohnraums sein. Außerdem können in den öffentlich- rechtlichen Vertrag zur Klarstellung zusätzliche Regelungen zur Kündigung der Vereinbarung, zur Rückübertragung der Bindungen und Verweise
+Abs. 3 NWoFG Anzahl, Dauer, Art und Höhe der Belegungs- und Mietbindungen sowie Größe und Ausstattung des Ersatzwohnraums sein. Außerdem können in den öffentlich-rechtlichen Vertrag zur Klarstellung zusätzliche Regelungen zur Kündigung der Vereinbarung, zur Rückübertragung der Bindungen und Verweise
 auf die inhaltlichen Regelungen der Förderentscheidung aufgenommen werden.
 22. Vorzeitige Tilgung des Darlehens
-22.1 Zahlt die Zuwendungsempfängerin oder der Zuwendungsempfänger ohne rechtliche Verpflichtung vor
+22.1
+Zahlt die Zuwendungsempfängerin oder der Zuwendungsempfänger ohne rechtliche Verpflichtung vor
 Ablauf der Darlehenslaufzeit den bis zu diesem Zeitpunkt noch ausstehenden Darlehensbetrag in voller Höhe
 zurück, so enden die Belegungs- und Mietbindungen
-22.1.1 bei einer Förderung nach den Nummern 2.1 und 2.3 bis 2.5 des Bezugserlasses zu b nach Ablauf
+22.1.1
+
+bei einer Förderung nach den Nummern 2.1 und 2.3 bis 2.5 des Bezugserlasses zu b nach Ablauf
 des zehnten auf die Rückzahlung folgenden Kalenderjahres,
-22.1.2 bei einer Förderung nach Nummer 2.7 des Bezugserlasses zu b nach Ablauf des dritten auf die
+
+22.1.2
+
+bei einer Förderung nach Nummer 2.7 des Bezugserlasses zu b nach Ablauf des dritten auf die
 Rückzahlung folgenden Kalenderjahres,
-22.1.3 jedoch spätestens mit Ablauf des in der Förderentscheidung bestimmten Zeitraums.
-22.2 Die Zuwendungsempfängerin oder der Zuwendungsempfänger ist jedoch bei einer Förderung nach
+
+22.1.3
+
+jedoch spätestens mit Ablauf des in der Förderentscheidung bestimmten Zeitraums.
+
+22.2
+Die Zuwendungsempfängerin oder der Zuwendungsempfänger ist jedoch bei einer Förderung nach
 den Nummern 2.1 und 2.3 des Bezugserlasses zu b berechtigt, das Förderdarlehen im Fall der Förderung von
 Wohnraum für Haushalte
-22.2.1 mit geringen Einkommen nach Ablauf von 30 Jahren und
+22.2.1
 
-22.2.2 mit mittleren Einkommen nach Ablauf von 20 Jahren
+mit geringen Einkommen nach Ablauf von 30 Jahren und
+
+22.2.2
+
+mit mittleren Einkommen nach Ablauf von 20 Jahren
+
 nach ihrer oder seiner Ankündigung gegenüber der Bewilligungsbehörde vorzeitig zurückzuzahlen. Der Restdarlehensbetrag ist in voller Höhe zur sofortigen Zahlung fällig. Die Ankündigung muss mindestens drei Monate vor der geplanten Rückzahlung erfolgen. Wird der Restdarlehensbetrag in voller Höhe zurückgezahlt, so
 enden die Belegungs- und Mietbindungen ohne Nachwirkungsfristen mit Ablauf des Kalenderjahres, in dem
 die Rückzahlung geleistet worden ist.
-22.3 Die Bewilligungsbehörde unterrichtet die Wohnraumförderstelle unverzüglich über jede Änderung der
+22.3
+Die Bewilligungsbehörde unterrichtet die Wohnraumförderstelle unverzüglich über jede Änderung der
 maßgeblichen Umstände, die Auswirkungen auf die Dauer der Belegungs- und Mietbindungen haben. Die
 Wohnraumförderstelle teilt der Zuwendungsempfängerin oder dem Zuwendungsempfänger das Ende der Belegungs- und Mietbindungen mit, soweit diesbezüglich Änderungen eingetreten sind.
 23. Dauer der Bindungen in Sonderfällen
-23.1 Im Fall der Rückforderung der gewährten Zuwendung wegen Verstoßes gegen die Bestimmungen der
+23.1
+Im Fall der Rückforderung der gewährten Zuwendung wegen Verstoßes gegen die Bestimmungen der
 Förderentscheidung enden die Belegungs- und Mietbindungen zu dem in der Förderentscheidung bestimmten
 Zeitpunkt, spätestens jedoch nach Ablauf des zehnten auf die Rückzahlung folgenden Kalenderjahres.
-23.2 Nummer 22.3 gilt entsprechend.
+23.2
+
+Nummer 22.3 gilt entsprechend.
+
 24. Mietvertragsbedingungen
-24.1 Mietverträge zur Überlassung des geförderten Wohnraums sind unbefristet abzuschließen, soweit
+24.1
+Mietverträge zur Überlassung des geförderten Wohnraums sind unbefristet abzuschließen, soweit
 diese Richtlinie nichts Abweichendes bestimmt.
-24.2 Die Wohnung ist der Mieterin oder dem Mieter in bezugsfertigem Zustand zu übergeben. Regelungen,
+24.2
+Die Wohnung ist der Mieterin oder dem Mieter in bezugsfertigem Zustand zu übergeben. Regelungen,
 nach denen Aufwendungen für die bezugsfertige Herstellung der Wohnung und Kosten für die laufende Instandhaltung von der Mieterin oder dem Mieter zu tragen sind, sind unzulässig.
-24.3 Sofern nachfolgend nichts Abweichendes geregelt ist, ist die Erhebung von Zuschlägen für die Mitvermietung von Einrichtungs- oder Ausstattungsgegenständen sowie von Keller- und Zubehörräumen unzulässig;
+24.3
+Sofern nachfolgend nichts Abweichendes geregelt ist, ist die Erhebung von Zuschlägen für die Mitvermietung von Einrichtungs- oder Ausstattungsgegenständen sowie von Keller- und Zubehörräumen unzulässig;
 dies gilt nicht für die Vermietung von Garagen und Kfz-Einstellplätzen. Die Vermietung einer geförderten Wohnung darf jedoch nicht an die Anmietung einer Garage, eines Kfz-Einstellplatzes oder eines Carports geknüpft
 werden.
-24.4 Das Erheben von Entgelten für zwingende zusätzliche Leistungen der oder des Verfügungsberechtigten, wie etwa für laufende Leistungen zur persönlichen Betreuung und Versorgung, ist nur mit Zustimmung
-der Bewilligungsbehörde zulässig. Dies gilt nicht, wenn die zusätzlichen Leistungen ausschließlich in der Erbringung von allgemeinen Unterstützungsleistungen wie die Vermittlung von Pflege- oder Betreuungsleistungen, Leistungen der hauswirtschaftlichen Versorgung oder Notrufdienste bestehen .
-24.5 Bei der Vermietung von Wohnungen an Betreuungs- oder Hauspersonal im Bereich der Wohnungen
+24.4
+Das Erheben von Entgelten für zwingende zusätzliche Leistungen der oder des Verfügungsberechtigten, wie etwa für laufende Leistungen zur persönlichen Betreuung und Versorgung, ist nur mit Zustimmung
+der Bewilligungsbehörde zulässig. Dies gilt nicht, wenn die zusätzlichen Leistungen ausschließlich in der Erbringung von allgemeinen Unterstützungsleistungen wie die Vermittlung von Pflege- oder Betreuungsleistungen, Leistungen der hauswirtschaftlichen Versorgung oder Notrufdienste bestehen.
+24.5
+Bei der Vermietung von Wohnungen an Betreuungs- oder Hauspersonal im Bereich der Wohnungen
 für ältere Menschen und Menschen mit Behinderungen können Mietverhältnisse entsprechend den
 §§ 576 ff. BGB (Werkmietwohnungen) vereinbart werden.
-24.6 Auf die Bestimmungen des Gesetzes zur Regelung der Wohnungsvermittlung, insbesondere auf § 2
+24.6
+Auf die Bestimmungen des Gesetzes zur Regelung der Wohnungsvermittlung, insbesondere auf § 2
 Abs. 3, wird hingewiesen.
-24.7 Zwischenmietverhältnisse sind grundsätzlich nicht zulässig. Sofern in begründeten Einzelfällen ein
+24.7
+Zwischenmietverhältnisse sind grundsätzlich nicht zulässig. Sofern in begründeten Einzelfällen ein
 Mietverhältnis mit einer gewerblichen Zwischenmieterin oder einem gewerblichen Zwischenmieter geschlossen werden soll, muss
-24.7.1 sie oder er bestätigen, dass ihr oder ihm die Förderentscheidung sowie die maßgeblichen Förderbestimmungen bekannt sind und sämtliche Pflichten der Zuwendungsempfängerin oder des Zuwendungsempfängers, die mit der Zuwendung verbunden sind, von ihr oder von ihm vollumfänglich beachtet und erfüllt werden,
-24.7.2 die Zuwendungsempfängerin oder der Zuwendungsempfänger bestätigen, dass sie oder er etwaige
+24.7.1
+
+sie oder er bestätigen, dass ihr oder ihm die Förderentscheidung sowie die maßgeblichen Förderbestimmungen bekannt sind und sämtliche Pflichten der Zuwendungsempfängerin oder des Zuwendungsempfängers, die mit der Zuwendung verbunden sind, von ihr oder von ihm vollumfänglich beachtet und erfüllt werden,
+
+24.7.2
+
+die Zuwendungsempfängerin oder der Zuwendungsempfänger bestätigen, dass sie oder er etwaige
 Verstöße der gewerblichen Zwischenmieterin oder des gewerblichen Zwischenmieters gegen die
 Förderentscheidung oder sonstige Förderbestimmungen gegen sich gelten lässt.
 
 25. Förderung modellhafter Wohnprojekte
-25.1 Eine Förderung modellhafter Wohnprojekte setzt die positive Prognose voraus, dass die Ergebnisse
+25.1
+Eine Förderung modellhafter Wohnprojekte setzt die positive Prognose voraus, dass die Ergebnisse
 von Dritten aufgegriffen und in der Praxis umgesetzt werden, wenn die Wohnprojekte erfolgreich verlaufen.
 Sie müssen geeignet sein, zumindest auf örtlicher Ebene, als Anregung für die Durchführung ähnlicher Vorhaben zu dienen. Gefördert werden insbesondere Modellprojekte, die zum Ziel haben, neue Konzepte hinsichtlich
-25.1.1 kostengünstigen, seriellen und modularen Bauens,
-25.1.2 flexibler Grundrisse,
-25.1.3 Reduktion von Nebenkosten des Wohnens,
-25.1.4 Anreize zur Reduzierung des Wohnflächenkonsums,
-25.1.5 Aufstockungen oder Ausbau von Dachgeschossen sowie Umbau und
-25.1.6 gemeinschaftlicher Wohnformen
+25.1.1
+
+kostengünstigen, seriellen und modularen Bauens,
+
+25.1.2
+
+flexibler Grundrisse,
+
+25.1.3
+
+Reduktion von Nebenkosten des Wohnens,
+
+25.1.4
+
+Anreize zur Reduzierung des Wohnflächenkonsums,
+
+25.1.5
+
+Aufstockungen oder Ausbau von Dachgeschossen sowie Umbau und
+
+25.1.6
+
+gemeinschaftlicher Wohnformen
+
 zu erproben.
-25.2 Die Wohnraumförderstelle hat eine angemessene Begleitung und Dokumentation des Modellprojekts
+25.2
+Die Wohnraumförderstelle hat eine angemessene Begleitung und Dokumentation des Modellprojekts
 sicherzustellen. Die an der Projektdurchführung Beteiligten sind der Wohnraumförderstelle gegenüber auskunftspflichtig. Die Zuwendungsempfängerin oder der Zuwendungsempfänger verpflichtet sich, ihr auf Verlangen alle projektbezogenen Informationen bereitzustellen. Die Bewilligung erfolgt daher unter der Maßgabe,
 dass die Zuwendungsempfängerin oder der Zuwendungsempfänger alle für eine Auswertung des Projekts
 benötigten Daten zur Verfügung stellt und an notwendigen Erhebungen teilnimmt. Erhebungen können sich
 insbesondere auf die Entwicklung der Mieten, die Einhaltung der Belegungs- und Mietbindungen, die Bewohnerstrukturen, die Fluktuation im geförderten Objekt und die Wirtschaftlichkeit beziehen.
-25.3 Um die geforderte Anregungsfunktion zu gewährleisten, stellen die Wohnraumförderstelle und die Zuwendungsempfängerin oder der Zuwendungsempfänger eine angemessene und geeignete Information der
+25.3
+Um die geforderte Anregungsfunktion zu gewährleisten, stellen die Wohnraumförderstelle und die Zuwendungsempfängerin oder der Zuwendungsempfänger eine angemessene und geeignete Information der
 Öffentlichkeit sicher, etwa durch Veröffentlichungen von Informationen über das Modellprojekt im Internet.
 26. Modernisierung und energetische Modernisierung von Mietwohnraum
-26.1 Die baulichen Maßnahmen müssen nach öffentlich- rechtlichen und zivilrechtlichen, insbesondere
+26.1
+Die baulichen Maßnahmen müssen nach öffentlich-rechtlichen und zivilrechtlichen, insbesondere
 mietrechtlichen Vorschriften zulässig sein. Die Wohnungen müssen nach der Modernisierung den allgemein
 üblichen Wohnbedürfnissen entsprechen.
-26.2 Im Fall einer energetischen Modernisierung ist durch die baulichen Maßnahmen mindestens das energetische Niveau eines KfW-Effizienzhauses 70 zu erreichen.
-26.3 Sofern das energetische Niveau eines KfW-Effizienzhauses 70 technisch, funktionell und mit vertretbarem Aufwand nicht erreichbar ist, kann von den Anforderungen der Nummer 26.2 abgewichen werden.
-Entsprechendes gilt für den Fall, dass bei einem Baudenkmal, bei aufgrund von Vorschriften des Bundes-
-oder Landesrechts besonders geschützter Bausubstanz oder bei sonstiger besonders erhaltenswerter Bausubstanz die Erfüllung der energetischen Anforderungen die Substanz oder das Erscheinungsbild beeinträchtigt oder die notwendigen baulichen Maßnahmen zu einem unverhältnismäßig hohen Aufwand führen.
-26.4 Auf Nummer 51.2.2 wird hingewiesen. Das Vorliegen der Voraussetzungen für Abweichungen nach
+26.2
+Im Fall einer energetischen Modernisierung ist durch die baulichen Maßnahmen mindestens das energetische Niveau eines KfW-Effizienzhauses 70 zu erreichen.
+26.3
+Sofern das energetische Niveau eines KfW-Effizienzhauses 70 technisch, funktionell und mit vertretbarem Aufwand nicht erreichbar ist, kann von den Anforderungen der Nummer 26.2 abgewichen werden.
+Entsprechendes gilt für den Fall, dass bei einem Baudenkmal, bei aufgrund von Vorschriften des Bundesoder Landesrechts besonders geschützter Bausubstanz oder bei sonstiger besonders erhaltenswerter Bausubstanz die Erfüllung der energetischen Anforderungen die Substanz oder das Erscheinungsbild beeinträchtigt oder die notwendigen baulichen Maßnahmen zu einem unverhältnismäßig hohen Aufwand führen.
+26.4
+Auf Nummer 51.2.2 wird hingewiesen. Das Vorliegen der Voraussetzungen für Abweichungen nach
 Nummer 26.3 ist durch eine nach § 88 GEG berechtigte Person zu bestätigen, ggf. mit spezieller Qualifikation
 für den Denkmalschutz.
-26.5 Bestehende Mietverhältnisse in Bezug auf die geförderten Wohnungen bleiben durch die Förderung
+26.5
+Bestehende Mietverhältnisse in Bezug auf die geförderten Wohnungen bleiben durch die Förderung
 unberührt. Die Wohnungen können zum Zeitpunkt der Förderung vermietet sein.
 27. Förderung auf den Ostfriesischen Inseln
 Abweichend von Nummer 20.3 ist die anfängliche höchstzulässige Miete unter Berücksichtigung der Investitionsrechnung im Einzelfall und unter Beachtung der Maßgaben der Nummer 5.4.7 des Bezugserlasses zu
@@ -644,24 +1037,39 @@ nur gegen eine Miete (Nettokaltmiete) zum Gebrauch überlassen werden, die bei W
 27.2 mit mittleren Einkommen 10 EUR
 je Quadratmeter Wohnfläche und Monat nicht überschreitet. Im Übrigen bleiben die Regelungen der Nummer 20 unberührt.
 28. Förderung von Wohnheimplätzen für Studierende und Auszubildende (Junges Wohnen)
-28.1 Soweit Wohnheime ausschließlich zur Belegung mit Studierenden bestimmt sind, soll der Neubau von
+28.1
+Soweit Wohnheime ausschließlich zur Belegung mit Studierenden bestimmt sind, soll der Neubau von
 Wohnheimen nur gefördert werden, wenn sie auf Grundstücken gelegen sind, die verkehrsgünstig zu den
 Hochschulen liegen. Es müssen jeweils mindestens vier zusammenhängende Wohnheimplätze entstehen.
 Gefördert werden Wohnheimplätze in
-28.1.1 Einzelapartments sowie
-28.1.2 in gemeinschaftlichen Wohnformen.
-Die Wohnfläche einschließlich anteiliger Gemeinschaftsräume soll 25 m
-2
-je Wohnheimplatz nicht überschreiten. Wenn rollstuhlgerechter Wohnraum für Menschen mit Behinderungen geschaffen werden soll und
-durch die Einhaltung der als technische Baubestimmung eingeführten DIN 18040- 1:2010- 10, Barrierefreies
-Bauen – Planungsgrundlagen – Teil 1: Öffentlich zugängliche Gebäude (im Folgenden: DIN 18040- 1) i. V. m.
-DIN 18040- 2 unter Beachtung des Kennzeichens „R" (Anforderungen an Wohnungen für eine barrierefreie
+28.1.1
+
+Einzelapartments sowie
+
+28.1.2
+
+in gemeinschaftlichen Wohnformen.
+
+Die Wohnfläche einschließlich anteiliger Gemeinschaftsräume soll 25 m2 je Wohnheimplatz nicht überschreiten. Wenn rollstuhlgerechter Wohnraum für Menschen mit Behinderungen geschaffen werden soll und
+durch die Einhaltung der als technische Baubestimmung eingeführten DIN 18040-1:2010-10, Barrierefreies
+Bauen – Planungsgrundlagen – Teil 1: Öffentlich zugängliche Gebäude (im Folgenden: DIN 18040-1) i. V. m.
+DIN 18040-2 unter Beachtung des Kennzeichens „R" (Anforderungen an Wohnungen für eine barrierefreie
 und uneingeschränkte Rollstuhlbenutzung) größere Flächen erforderlich sind, kann ein angemessener Zuschlag berücksichtigt werden. Für Studierende oder Auszubildende mit Kindern können geeignete Apartments
-mit zusätzlichen, kleinen Kinderzimmern eingeplant werden (Eltern- Kind-Apartments).
-28.2 Geförderte Wohnheimplätze sind für die Dauer der Belegungsbindung Personen vorbehalten, die
-28.2.1 an einer Hochschule in staatlicher Verantwortung oder staatlich anerkannten Hochschule am jeweiligen Hochschulstandort immatrikuliert sind oder
-28.2.2 sich in der Ausbildung befinden.
-28.3 Die Bewilligungsbehörde kann nach Beteiligung der Wohnraumförderstelle gemäß § 6 Abs. 3
+mit zusätzlichen, kleinen Kinderzimmern eingeplant werden (Eltern-Kind-Apartments).
+28.2
+
+Geförderte Wohnheimplätze sind für die Dauer der Belegungsbindung Personen vorbehalten, die
+
+28.2.1
+
+an einer Hochschule in staatlicher Verantwortung oder staatlich anerkannten Hochschule am jeweiligen Hochschulstandort immatrikuliert sind oder
+
+28.2.2
+
+sich in der Ausbildung befinden.
+
+28.3
+Die Bewilligungsbehörde kann nach Beteiligung der Wohnraumförderstelle gemäß § 6 Abs. 3
 Satz 1 NWoFG eine Ausnahme von § 7 Abs. 1 NWoFG in der Weise zulassen, dass die oder der Verfügungsberechtigte den geförderten Wohnraum auch Personen zum Gebrauch überlassen darf, die anstelle eines
 Wohnberechtigungsscheins eine Immatrikulationsbescheinigung einer niedersächsischen Hochschule (Studierende) oder einen von beiden Vertragsparteien unterschriebenen Ausbildungsvertrag (Auszubildende) vorlegen. Die oder der Verfügungsberechtigte ist für die ordnungsgemäße Belegung der geförderten Wohnheimplätze verantwortlich und hat sicherzustellen, dass die Personen, denen der Wohnraum überlassen wird, zu
 dem Personenkreis gehören, denen der Wohnraum nach der Förderentscheidung vorbehalten ist. Während
@@ -669,64 +1077,88 @@ der Dauer der Belegungsbindung hat sie oder er Unterlagen vorzuhalten, aus denen
 ordnungsgemäße Belegung gegeben ist. Die Wohnraumförderstelle ist berechtigt, die ordnungsgemäße Belegung jederzeit zu überprüfen und die Unterlagen einzusehen. Ausländische Studierende sind bei der
 Vergabe von Wohnheimplätzen angemessen zu berücksichtigen. Insoweit kann die Bewilligungsbehörde auch
 Abweichungen von § 8 Abs. 1 NWoFG zulassen. Die Belegungsbindung endet nach Ablauf von 30 Jahren.
-28.4 Abweichend von Nummer 20.3 darf der geförderte Wohnraum mit Beginn der Mietbindung für die
+28.4
+Abweichend von Nummer 20.3 darf der geförderte Wohnraum mit Beginn der Mietbindung für die
 Dauer von drei Jahren nur gegen eine Miete (Nettokaltmiete) überlassen werden, die 10,80 EUR je Quadratmeter Wohnfläche und Monat nicht überschreitet. Als Zuschlag für Möblierung sind bis zu 1,80 EUR je Quadratmeter Wohnfläche im Monat zulässig. Neben der Nettokaltmiete und dem Zuschlag für Möblierung darf
 zusätzlich eine Abgeltung von Betriebskosten nach den allgemeinen mietrechtlichen Vorschriften verlangt werden. Die anfängliche Warmmiete soll im Durchschnitt 360 EUR je Wohnheimplatz nicht überschreiten. Die
 NBank überprüft den Betrag unter Berücksichtigung des vom Landesamt für Statistik Niedersachsen festgestellten Verbraucherpreisindex für Wohnungen, Wasser, Strom, Gas und andere Brennstoffe regelmäßig und
 darf nach eigenem Ermessen eine höhere anfängliche Warmmiete zulassen.
 
-28.5 Für Mieterhöhungen finden die Regelungen in Nummer 20.4 entsprechend Anwendung. Die verbrauchsabhängigen Nebenkosten dürfen unter Berücksichtigung des vom LSN festgestellten Verbraucherpreisindex für Wohnungen, Wasser, Strom, Gas und andere Brennstoffe angepasst werden. Die Mietbindung
+28.5
+Für Mieterhöhungen finden die Regelungen in Nummer 20.4 entsprechend Anwendung. Die verbrauchsabhängigen Nebenkosten dürfen unter Berücksichtigung des vom LSN festgestellten Verbraucherpreisindex für Wohnungen, Wasser, Strom, Gas und andere Brennstoffe angepasst werden. Die Mietbindung
 endet nach Ablauf von 30 Jahren.
-28.6 Abweichend von Nummer 24.1 dürfen Mietverträge befristet werden. Das Recht der Mietvertragsparteien zur außerordentlichen Kündigung aus wichtigem Grund und zur außerordentlichen Kündigung mit gesetzlicher Frist bleibt hiervon unberührt. Der Mietvertrag ist jedoch dann ordentlich mit der gesetzlichen Frist
+28.6
+Abweichend von Nummer 24.1 dürfen Mietverträge befristet werden. Das Recht der Mietvertragsparteien zur außerordentlichen Kündigung aus wichtigem Grund und zur außerordentlichen Kündigung mit gesetzlicher Frist bleibt hiervon unberührt. Der Mietvertrag ist jedoch dann ordentlich mit der gesetzlichen Frist
 zu kündigen, wenn eine Exmatrikulation erfolgt ist oder das Ausbildungsverhältnis endet.
 29. Erwerb von Belegungs- und Mietbindungen
-29.1 Gefördert wird der Erwerb von Belegungs- und Mietbindungen an Mietwohnungen für Haushalte mit
+29.1
+Gefördert wird der Erwerb von Belegungs- und Mietbindungen an Mietwohnungen für Haushalte mit
 geringen Einkommen, die
-29.1.1 zur Vermietung als Wohnraum frei sind,
-29.1.2 keinen anderweitigen Belegungsbindungen unterliegen,
-29.1.3 in sich abgeschlossen sowie zur dauernden Wohnnutzung bestimmt, gut erhalten und geeignet sind
+29.1.1
+
+zur Vermietung als Wohnraum frei sind,
+
+29.1.2
+
+keinen anderweitigen Belegungsbindungen unterliegen,
+
+29.1.3
+
+in sich abgeschlossen sowie zur dauernden Wohnnutzung bestimmt, gut erhalten und geeignet sind
 und
-29.1.4 mindestens über eine Zentral-/Etagenheizung, Küche sowie ein Bad mit Badewanne oder Dusche
+
+29.1.4
+
+mindestens über eine Zentral-/Etagenheizung, Küche sowie ein Bad mit Badewanne oder Dusche
 und eine Toilette verfügen.
-29.2 Die Wohnraumförderstelle prüft die ihr zur Förderung angebotenen Wohnungen durch Inaugenscheinnahme auf ihre Eignung; Nummer 21.5 gilt entsprechend. Zur Vermeidung einer Fehlförderung prüft sie insbesondere, ob die Zuwendung und die Gegenleistung in einem angemessenen Verhältnis stehen. Das Ergebnis der Prüfung ist zu vermerken.
-29.3 Der geförderte Wohnraum unterliegt Belegungs- und Mietbindungen. Die Bindungen beginnen ab erstmaliger Belegung der Wohnungen mit einem wohnberechtigten Haushalt. Im Übrigen gelten die Nummern 19
+
+29.2
+Die Wohnraumförderstelle prüft die ihr zur Förderung angebotenen Wohnungen durch Inaugenscheinnahme auf ihre Eignung; Nummer 21.5 gilt entsprechend. Zur Vermeidung einer Fehlförderung prüft sie insbesondere, ob die Zuwendung und die Gegenleistung in einem angemessenen Verhältnis stehen. Das Ergebnis der Prüfung ist zu vermerken.
+29.3
+Der geförderte Wohnraum unterliegt Belegungs- und Mietbindungen. Die Bindungen beginnen ab erstmaliger Belegung der Wohnungen mit einem wohnberechtigten Haushalt. Im Übrigen gelten die Nummern 19
 und 20 entsprechend. Die Wohnraumförderstelle teilt der Zuwendungsempfängerin oder dem Zuwendungsempfänger unverzüglich nach der erstmaligen Belegung des Wohnraums das sich ergebende Ende der Belegungs- und Mietbindung mit und unterrichtet im Übrigen die Bewilligungsbehörde unverzüglich über die Belegung des geförderten Wohnraums.
-29.4 Im Falle einer Förderung von Wohnraum zugunsten besonderer Bedarfsgruppen ist die Zuwendungsempfängerin oder der Zuwendungsempfänger zu verpflichten, den gebundenen Wohnraum an begünstigte
+29.4
+Im Falle einer Förderung von Wohnraum zugunsten besonderer Bedarfsgruppen ist die Zuwendungsempfängerin oder der Zuwendungsempfänger zu verpflichten, den gebundenen Wohnraum an begünstigte
 Haushalte zu vermieten. Der Wohnraum darf nur einer Person zum Gebrauch überlassen werden, die einen
 wohnungsbezogenen Wohnberechtigungsschein vorlegt, aus dem sich ergibt, dass die zum Haushalt rechnenden Personen zu dem Personenkreis gehören, dem der Wohnraum vorbehalten ist.
 30. Verlängerung auslaufender Belegungs- und Mietbindungen
-30.1 Gefördert wird die Verlängerung planmäßig auslaufender Belegungs- und Mietbindungen an Mietwohnungen, die nach altem Recht i. S. des § 22 Abs. 1 Satz 1 NWoFG mit Zuwendungen des Landes gefördert
+30.1
+Gefördert wird die Verlängerung planmäßig auslaufender Belegungs- und Mietbindungen an Mietwohnungen, die nach altem Recht i. S. des § 22 Abs. 1 Satz 1 NWoFG mit Zuwendungen des Landes gefördert
 worden sind und für die bei der Bewilligungsbehörde ein Förderdarlehen valutiert. Die Antragstellung ist frühestens nach Erhalt des Prolongationsangebotes der Bewilligungsbehörde möglich. Die Voraussetzungen der
 Nummern 29.1.3, 29.1.4 und 29.2 gelten entsprechend. Die Förderung setzt weiterhin voraus, dass nach den
 örtlichen wohnungswirtschaftlichen Verhältnissen weiterhin ein Bedarf für die Belegungs- und Mietbindungen
 besteht; Nummer 13.1 gilt entsprechend.
-30.2 Die bestehenden Belegungs- und Mietbindungen werden als Bindungen nach den §§ 7 und 9 NWoFG
+30.2
+Die bestehenden Belegungs- und Mietbindungen werden als Bindungen nach den §§ 7 und 9 NWoFG
 fortgeführt und um den Zeitraum verlängert, in dem eine Zinsverbilligung nach Maßgabe des Bezugserlasses
 zu b gewährt wird. Das Ende der Bindungen wird hiernach auf das Ende des Monats festgelegt, in den die
 Fälligkeit der letzten Rate des valutierenden Darlehens fällt, jedoch tritt das Ende der Bindungen spätestens
-nach Ablauf von 20 Jahren nach dem Zeitpunkt des planmäßigen Auslaufens der Belegungs - und Mietbindungen ein.
+nach Ablauf von 20 Jahren nach dem Zeitpunkt des planmäßigen Auslaufens der Belegungs- und Mietbindungen ein.
 
-30.3 Die Belegungs- und Mietbindungen sind unverändert fortzuführen mit der Maßgabe, dass die Miete
+30.3
+Die Belegungs- und Mietbindungen sind unverändert fortzuführen mit der Maßgabe, dass die Miete
 (Nettokaltmiete) für den geförderten Wohnraum für die Dauer von drei Jahren nicht erhöht werden darf. Dies
-gilt sowohl für bestehende Mietverhältnisse als auch für den Fall der Wiedervermietung. Nach diesem Zeitraum gilt Nummer 20.4 S ätze 2 bis 4 entsprechend.
+gilt sowohl für bestehende Mietverhältnisse als auch für den Fall der Wiedervermietung. Nach diesem Zeitraum gilt Nummer 20.4 Sätze 2 bis 4 entsprechend.
 31. Maßnahmen zur Vermeidung einer Überkompensation
-31.1 Die Mietwohnraumförderung nach dem Bezugserlass zu b und dieser Richtlinie ist nach dem DAWIFreistellungsbeschluss eine Ausgleichsleistung für die Erbringung einer Dienstleistung von allgemeinem wirtschaftlichem Interesse und keine staatliche Beihilfe i. S. des EU-Beihilferechts. Die soziale Wohnraumförderung gilt grundsätzlich als mit dem Binnenmarkt vereinbar und von der Anmeldepflicht bei der EU-Kommission
+31.1
+Die Mietwohnraumförderung nach dem Bezugserlass zu b und dieser Richtlinie ist nach dem DAWIFreistellungsbeschluss eine Ausgleichsleistung für die Erbringung einer Dienstleistung von allgemeinem wirtschaftlichem Interesse und keine staatliche Beihilfe i. S. des EU-Beihilferechts. Die soziale Wohnraumförderung gilt grundsätzlich als mit dem Binnenmarkt vereinbar und von der Anmeldepflicht bei der EU-Kommission
 befreit. Dies gilt nach Artikel 5 Abs. 1 DAWI-Freistellungsbeschluss jedoch nur, wenn die Höhe der Ausgleichsleistung unter Berücksichtigung eines angemessenen Gewinns nicht über das hinausgeht, was zur
 Abdeckung der Nettokosten der Dienstleistung erforderlich ist. Das EU-Beihilferecht statuiert insoweit das
 Verbot einer Überkompensation.
-31.2 Die Bewilligungsbehörde prüft die Einhaltung des DAWI-Freistellungsbeschlusses im Zuge der Bewilligung. Sie nimmt dazu eine Investitionsrechnung nach dem Modell des vollständigen Finanzplans vor und
+31.2
+Die Bewilligungsbehörde prüft die Einhaltung des DAWI-Freistellungsbeschlusses im Zuge der Bewilligung. Sie nimmt dazu eine Investitionsrechnung nach dem Modell des vollständigen Finanzplans vor und
 ermittelt, bezogen auf das im Rahmen der Finanzierung einzusetzende Eigenkapital, die mit dem geförderten
 Objekt erzielbare Eigenkapitalrendite in Prozent pro Jahr. Bei der Berechnung der Eigenkapitalrendite sind
 auch die Kosten und Einnahmen zu berücksichtigen, die in Zusammenhang mit der Übertragung von Belegungsbindungen (Nummer 21) stehen. Die Zuwendungsempfängerin oder der Zuwendungsempfänger hat
 dazu der Bewilligungsbehörde die für die Berechnung erforderlichen Angaben zu machen und Auskünfte zu
 erteilen, insbesondere zur Miethöhe der Ersatzwohnungen.
-31.3 Ergibt die Berechnung eine Eigenkapitalrendite, die nicht mehr als 100 Basispunkte über dem
-Swapsatz für Finanzierungsmittel mit 30- jähriger Laufzeit liegt, so ist gemäß Artikel 5 Abs. 7 Satz 1 DAWIFreistellungsbeschluss die Angemessenheit des Gewinns in jedem Fall gegeben und eine Überkompensation
+31.3
+Ergibt die Berechnung eine Eigenkapitalrendite, die nicht mehr als 100 Basispunkte über dem
+Swapsatz für Finanzierungsmittel mit 30-jähriger Laufzeit liegt, so ist gemäß Artikel 5 Abs. 7 Satz 1 DAWIFreistellungsbeschluss die Angemessenheit des Gewinns in jedem Fall gegeben und eine Überkompensation
 ausgeschlossen. Übersteigt die berechnete Eigenkapitalrendite den in Satz 1 genannten Wert, so nimmt die
 Bewilligungsbehörde ergänzende Ermittlungen zum angemessenen Gewinn gemäß Artikel 5 Abs. 5 DAWIFreistellungsbeschluss unter Berücksichtigung der typischerweise mit dem Wohnungsbau verbundenen Risiken vor. Übersteigt die Eigenkapitalrendite hiernach den angemessenen Gewinn, so ist die Zuwendung um
 den Betrag anzupassen, dessen Höhe der Überschreitung des ermittelten angemessenen Gewinns gemäß
 Artikel 5 Abs. 5 DAWI-Freistellungsbeschluss entspricht. Eine Anpassung kann insbesondere durch Reduzierung des Tilgungsnachlasses oder von Zuschüssen, der Höhe des Förderdarlehens sowie der höchstzulässigen Miete erfolgen.
-
 Dritter Abschnitt
 Eigentumsförderung
 32. Zuwendungsempfängerinnen und Zuwendungsempfänger
@@ -757,90 +1189,123 @@ sowie mit Menschen mit Behinderungen kann die Bewilligungsbehörde eine geringer
 jedoch nicht weniger als 12,5 % der Gesamtkosten. Für die Selbsthilfe darf, ohne dass sie konkret und substanziiert bestimmt wird, nicht mehr als 5 % der Gesamtkosten in Ansatz gebracht werden. Zuwendungen von
 Dritten können angerechnet werden.
 36. Angemessene Wohnungsgrößen
-36.1 Gefördert wird nur selbst genutztes Wohneigentum, dessen Größe entsprechend seiner Zweckbestimmung angemessen ist. Die Angemessenheit der Wohnfläche ist nach den Umständen des Einzelfalles zu
+36.1
+Gefördert wird nur selbst genutztes Wohneigentum, dessen Größe entsprechend seiner Zweckbestimmung angemessen ist. Die Angemessenheit der Wohnfläche ist nach den Umständen des Einzelfalles zu
 beurteilen. Für den Neubau von Wohnraum ist dabei ein strengerer Maßstab anzulegen, als bei Maßnahmen
 im Bestand.
-36.2 Für den Neubau gelten folgende Maßgaben:
-36.2.1 Die Wohnfläche einer Eigentumswohnung in einem Mehrfamilienhaus für einen Zwei-PersonenHaushalt soll nicht mehr als 75 m
-2
-betragen. Die Wohnfläche eines Eigenheims für einen Zwei-Personen- Haushalt soll nicht mehr als 90 m
-2
-betragen.
-36.2.2 Der weiteren Familienplanung ist mit einer entsprechenden zusätzlichen Wohnfläche Rechnung zu
-tragen. Für jede weitere Person im Haushalt kann die Wohnfläche bis zu 15 m
-2
-mehr betragen. Für
+36.2
+
+Für den Neubau gelten folgende Maßgaben:
+
+36.2.1
+
+Die Wohnfläche einer Eigentumswohnung in einem Mehrfamilienhaus für einen Zwei-PersonenHaushalt soll nicht mehr als 75 m2 betragen. Die Wohnfläche eines Eigenheims für einen Zwei-Personen-Haushalt soll nicht mehr als 90 m2 betragen.
+
+36.2.2
+
+Der weiteren Familienplanung ist mit einer entsprechenden zusätzlichen Wohnfläche Rechnung zu
+tragen. Für jede weitere Person im Haushalt kann die Wohnfläche bis zu 15 m2 mehr betragen. Für
 außergewöhnlich große Familien und Haushalte mit mehr als sechs Personen dürfen zusätzliche
 Wohnflächen zugelassen werden.
-36.2.3 Die angemessene Größe des Wohnraums erhöht sich um weitere 15 m
-2
-, wenn dem Haushalt mindestens ein Mensch mit Behinderungen oder eine pflegebedürftige Person i. S. des § 14 SGB XI
-angehört und nachgewiesen ist, dass größere Bewegungsflächen nach der als technische Baubestimmung eingeführten DIN 18040- 2 erforderlich sind.
-36.2.4 Für Haushaltsangehörige, denen für die berufliche oder betriebliche Tätigkeit kein anderer Arbeitsplatz zur Verfügung steht oder ein häusliches Arbeitszimmer Mittelpunkt der beruflichen oder betrieblichen Tätigkeit ist, kann die Wohnfläche bis zu 15 m
-2
-mehr betragen. Ein häusliches Arbeitszimmer ist ein zur Wohnung gehörender, aber vom übrigen Wohnbereich abgetrennter Raum, der
+
+36.2.3
+
+Die angemessene Größe des Wohnraums erhöht sich um weitere 15 m2, wenn dem Haushalt mindestens ein Mensch mit Behinderungen oder eine pflegebedürftige Person i. S. des § 14 SGB XI
+angehört und nachgewiesen ist, dass größere Bewegungsflächen nach der als technische Baubestimmung eingeführten DIN 18040-2 erforderlich sind.
+
+36.2.4
+
+Für Haushaltsangehörige, denen für die berufliche oder betriebliche Tätigkeit kein anderer Arbeitsplatz zur Verfügung steht oder ein häusliches Arbeitszimmer Mittelpunkt der beruflichen oder betrieblichen Tätigkeit ist, kann die Wohnfläche bis zu 15 m2 mehr betragen. Ein häusliches Arbeitszimmer ist ein zur Wohnung gehörender, aber vom übrigen Wohnbereich abgetrennter Raum, der
 ausschließlich oder nahezu ausschließlich zu beruflichen Zwecken genutzt wird.
-36.3 Maßnahmen im Bestand werden nicht gefördert, wenn die Größe des Wohnraums auch unter Beachtung der individuellen Bedürfnisse des Haushaltes offenkundig als überdimensioniert oder unnötig groß im
+
+36.3
+Maßnahmen im Bestand werden nicht gefördert, wenn die Größe des Wohnraums auch unter Beachtung der individuellen Bedürfnisse des Haushaltes offenkundig als überdimensioniert oder unnötig groß im
 
 Verhältnis zu den Bedürfnissen durchschnittlicher Bewohnerinnen und Bewohner zu betrachten ist oder übermäßig Platz bietet, der nicht sinnvoll genutzt wird und hohe Kosten verursacht.
-36.4 Bei der Berechnung der Wohnfläche ist die WoFlV anzuwenden. Nummer 15.3 Satz 2 gilt entsprechend. Bei nachgewiesenen besonderen Raumbedürfnissen kann die Wohnraumförderstelle weitere Ausnahmen zulassen.
+36.4
+Bei der Berechnung der Wohnfläche ist die WoFlV anzuwenden. Nummer 15.3 Satz 2 gilt entsprechend. Bei nachgewiesenen besonderen Raumbedürfnissen kann die Wohnraumförderstelle weitere Ausnahmen zulassen.
 37. Eigenheime, Wohnungen für Angehörige
-37.1 Eigenheime sind nur förderfähig, wenn sie nicht mehr als zwei Wohnungen enthalten. Die zweite Wohnung muss gegenüber der Hauptwohnung von untergeordneter Bedeutung sein.
-37.2 In einem Eigenheim kann die zweite Wohnung gefördert werden, die zur Vermietung an Angehörige
+37.1
+Eigenheime sind nur förderfähig, wenn sie nicht mehr als zwei Wohnungen enthalten. Die zweite Wohnung muss gegenüber der Hauptwohnung von untergeordneter Bedeutung sein.
+37.2
+In einem Eigenheim kann die zweite Wohnung gefördert werden, die zur Vermietung an Angehörige
 bestimmt ist. Diese Wohnung darf nur Personen zum Gebrauch überlassen werden, die mit der Antragstellerin
 oder dem Antragsteller i. S. von § 5 Abs. 1 Nrn. 4 und 5 NWoFG in gerader Linie oder im ersten Grad der
 Seitenlinie in Beziehung stehen. Die angemessene Wohnungsgröße ist nach den Regelungen der Nummer 15
 zu bemessen. Für die Miete des geförderten Wohnraums gelten die Bestimmungen der Nummer 20.2 entsprechend. Die Angehörige oder der Angehörige muss die einkommensmäßigen Voraussetzungen nach dem
 NWoFG erfüllen.
 38. Tragbarkeit der Belastung
-38.1 Die Tragbarkeit der Belastung wird vermutet, wenn dem Haushalt monatlich folgende Mindestbeträge,
+38.1
+Die Tragbarkeit der Belastung wird vermutet, wenn dem Haushalt monatlich folgende Mindestbeträge,
 nach Abzug der Belastungen aus dem selbst genutzten Wohneigentum sowie der weiteren Zahlungsverpflichtungen, zum Lebensunterhalt verbleiben:
-38.1.1 für die Antragstellerin oder den Antragssteller 550 EUR,
-38.1.2 für jede weitere zum Haushalt rechnende Person zusätzlich 550 EUR,
-38.1.3 jedoch für jedes Kind ein Betrag von 275 EUR.
-38.2 Die Beurteilung orientiert sich an den Geldmitteln, die dem Haushalt tatsächlich und regelmäßig zur
-allgemeinen Lebensführung zur Verfügung stehen. Dazu gehört in erster Linie das durchschnittliche monatliche Nettoeinkommen. Wiederkehrende Sonderzuwendungen wie etwa Weihnachts - und Urlaubsgeld sind
+38.1.1
+
+für die Antragstellerin oder den Antragssteller 550 EUR,
+
+38.1.2
+
+für jede weitere zum Haushalt rechnende Person zusätzlich 550 EUR,
+
+38.1.3
+
+jedoch für jedes Kind ein Betrag von 275 EUR.
+
+38.2
+Die Beurteilung orientiert sich an den Geldmitteln, die dem Haushalt tatsächlich und regelmäßig zur
+allgemeinen Lebensführung zur Verfügung stehen. Dazu gehört in erster Linie das durchschnittliche monatliche Nettoeinkommen. Wiederkehrende Sonderzuwendungen wie etwa Weihnachts- und Urlaubsgeld sind
 ebenfalls zu berücksichtigen. Zu den verfügbaren Geldmitteln gehören ferner das Kindergeld und ein etwaiges
 Wohngeld (Lastenzuschuss). Nicht zu den verfügbaren Geldmitteln gehören Einnahmen, denen entsprechende Aufwendungen der Leistungsempfängerin oder des Leistungsempfängers gegenüberstehen (beispielsweise Blindengeld, Pflegegeld, BAföG-Leistungen).
-38.3 Bei zeitlich befristeten Einnahmen (beispielsweise Elterngeld, Einkünfte aus befristeten Arbeitsverhältnissen, Unterhaltsleistungen) ist auch zu prüfen, ob die Belastung nach Wegfall dieser Einnahmen tragbar
+38.3
+Bei zeitlich befristeten Einnahmen (beispielsweise Elterngeld, Einkünfte aus befristeten Arbeitsverhältnissen, Unterhaltsleistungen) ist auch zu prüfen, ob die Belastung nach Wegfall dieser Einnahmen tragbar
 ist. Künftige Änderungen in der Belastung sind zu berücksichtigen, sofern sich diese hinreichend konkretisiert
 haben und von der Antragstellerin oder dem Antragsteller nachgewiesen werden.
 39. Förderung von Neubau und Erwerb
-Der Neubau und der Erwerb von selbst genutztem Wohne igentum sind förderfähig, wenn folgende Bedingungen erfüllt sind:
-39.1 Bei Neubauvorhaben muss die Antragstellerin oder der Antragsteller Eigentümerin oder Eigentümer
+Der Neubau und der Erwerb von selbst genutztem Wohneigentum sind förderfähig, wenn folgende Bedingungen erfüllt sind:
+39.1
+Bei Neubauvorhaben muss die Antragstellerin oder der Antragsteller Eigentümerin oder Eigentümer
 eines für das Bauvorhaben geeigneten Baugrundstücks sein oder für einen angemessenen Zeitraum ein Erbbaurecht an einem solchen Grundstück erworben haben. Diese Voraussetzung gilt auch als erfüllt, wenn nachgewiesen wird, dass der Erwerb eines solchen Baugrundstücks oder eines entsprechenden Erbbaurechts gesichert ist oder durch die Gewährung der Zuwendung gesichert werden soll. Erbbaurechte müssen eine Restlaufzeit von mindestens 60 Jahren haben.
-39.2 Beim Neubau von Eigenheimen dürfen in dem neuen selbständigen Gebäude nicht mehr als zwei
+39.2
+Beim Neubau von Eigenheimen dürfen in dem neuen selbständigen Gebäude nicht mehr als zwei
 Wohnungen geschaffen werden. Eine Förderung von zur Vermietung bestimmten Eigentumswohnungen ist
 ausgeschlossen.
 
 40. Modernisierung und energetische Modernisierung von selbst genutztem Wohneigentum
-40.1 Die baulichen Maßnahmen müssen nach öffentlich- rechtlichen und zivilrechtlichen Vorschriften zulässig sein. Der Wohnraum muss nach der Modernisierung den allgemein üblichen Wohnbedürfnissen entsprechen.
-40.2 Im Fall einer energetischen Modernisierung ist durch die baulichen Maßnahme n mindestens das energetische Niveau eines KfW-Effizienzhauses 70 zu erreichen.
-40.3 Sofern das energetische Niveau eines KfW-Effizienzhauses 70 technisch, funktionell und mit vertretbarem Aufwand nicht erreichbar ist, kann von den Anforderungen der Nummer 40.2 abgewichen werden.
-Entsprechendes gilt für den Fall, dass bei einem Baudenkmal, bei aufgrund von Vorschriften des Bundes -
-oder Landesrechts besonders geschützter Bausubstanz oder bei sonstiger besonders erhaltenswerter Bausubstanz die Erfüllung der energetischen Anforderungen die Substanz oder das Erscheinungsbild beeinträchtigt oder die notwendigen baulichen Maßnahmen zu einem unverhältnismäßig hohen Aufwand führen.
-40.4 Auf Nummer 51.2.2 wird hingewiesen. Das Vorliegen der Voraussetzungen für Abweichungen nach
+40.1
+Die baulichen Maßnahmen müssen nach öffentlich-rechtlichen und zivilrechtlichen Vorschriften zulässig sein. Der Wohnraum muss nach der Modernisierung den allgemein üblichen Wohnbedürfnissen entsprechen.
+40.2
+Im Fall einer energetischen Modernisierung ist durch die baulichen Maßnahmen mindestens das energetische Niveau eines KfW-Effizienzhauses 70 zu erreichen.
+40.3
+Sofern das energetische Niveau eines KfW-Effizienzhauses 70 technisch, funktionell und mit vertretbarem Aufwand nicht erreichbar ist, kann von den Anforderungen der Nummer 40.2 abgewichen werden.
+Entsprechendes gilt für den Fall, dass bei einem Baudenkmal, bei aufgrund von Vorschriften des Bundesoder Landesrechts besonders geschützter Bausubstanz oder bei sonstiger besonders erhaltenswerter Bausubstanz die Erfüllung der energetischen Anforderungen die Substanz oder das Erscheinungsbild beeinträchtigt oder die notwendigen baulichen Maßnahmen zu einem unverhältnismäßig hohen Aufwand führen.
+40.4
+Auf Nummer 51.2.2 wird hingewiesen. Das Vorliegen der Voraussetzungen für Abweichungen nach
 Nummer 40.3 ist durch eine nach § 88 GEG berechtigte Person zu bestätigen, ggf. mit spezieller Qualifikation
 für den Denkmalschutz.
 41. Darlehenskonditionen
 Für das Darlehen gelten folgende Konditionen:
-41.1 Das Darlehen wird nach Maßgabe des Bezugserlasses zu b für die Dauer von 15 Jahren zu einem
+41.1
+Das Darlehen wird nach Maßgabe des Bezugserlasses zu b für die Dauer von 15 Jahren zu einem
 Zinssatz von 0 % gewährt. Im Anschluss ist das Darlehen jährlich mit einem Zinssatz, der bis zu 3 % über dem
 zum Zeitpunkt der Zinserhöhung gültigen Basiszinssatz gemäß § 247 BGB liegt, jedoch den marktüblichen
 Zinssatz nicht überschreitet, zu verzinsen. Die Bewilligungsbehörde kann den Zinssatz für die Restlaufzeit des
 Darlehens fest vereinbaren.
-41.2 Die Tilgung beginnt mit dem auf die vollständige Auszahlung des Darlehens folgenden Monatsersten,
+41.2
+Die Tilgung beginnt mit dem auf die vollständige Auszahlung des Darlehens folgenden Monatsersten,
 spätestens jedoch zwei Jahre nach dem Monat, der auf die Bekanntgabe der Förderentscheidung folgt. Das
 Darlehen ist in der Regel ab dem ersten Jahr mit 2 % zu tilgen. Eine höhere Tilgung kann mit der Bewilligungsbehörde vereinbart werden.
-41.3 Zur Vermeidung unbilliger Härten kann die Bewillig ungsbehörde den Beginn der Tilgung hinausschieben und eine von Nummer 41.2 abweichende Tilgung festsetzen.
+41.3
+Zur Vermeidung unbilliger Härten kann die Bewilligungsbehörde den Beginn der Tilgung hinausschieben und eine von Nummer 41.2 abweichende Tilgung festsetzen.
 42. Zweckbestimmte Nutzung
-42.1 Soweit nachfolgend nichts Abweichendes geregelt ist, ist die Zuwendungsempfängerin oder der Zuwendungsempfänger verpflichtet, den geförderten Wohnraum für die Dauer von 15 Jahren selbst zu nutzen.
+42.1
+Soweit nachfolgend nichts Abweichendes geregelt ist, ist die Zuwendungsempfängerin oder der Zuwendungsempfänger verpflichtet, den geförderten Wohnraum für die Dauer von 15 Jahren selbst zu nutzen.
 Der Zeitraum beginnt bei Neubauvorhaben mit der Bezugsfertigkeit, beim Erwerb mit dem Einzug und bei den
 übrigen Vorhaben nach Abschluss der baulichen Maßnahme.
-42.2 Gibt die Zuwendungsempfängerin oder der Zuwendungsempfänger die Selbstnutzung vor Ablauf der
+42.2
+Gibt die Zuwendungsempfängerin oder der Zuwendungsempfänger die Selbstnutzung vor Ablauf der
 15 Jahre auf, so entscheidet die Bewilligungsbehörde nach pflichtgemäßem Ermessen über die Aufhebung
 der Förderentscheidung.
-42.3 Unterbricht die Zuwendungsempfängerin oder der Zuwendungsempfänger die Selbstnutzung nur vorübergehend, jedoch höchstens für einen Zeitraum von fünf Jahren, so entscheidet die Bewilligungsbehörde
+42.3
+Unterbricht die Zuwendungsempfängerin oder der Zuwendungsempfänger die Selbstnutzung nur vorübergehend, jedoch höchstens für einen Zeitraum von fünf Jahren, so entscheidet die Bewilligungsbehörde
 über eine Anhebung des Zinssatzes für das gewährte Darlehen für die Dauer der Unterbrechung der Selbstnutzung, der bis zu 3 % über dem zum Zeitpunkt der Zinserhöhung gültigen Basiszinssatz gemäß § 247 BGB
 liegt, jedoch den marktüblichen Zinssatz nicht überschreitet. Wird die Selbstnutzung im Anschluss an die Unterbrechung wieder aufgenommen, so wird der Zinssatz des Darlehens bis zum Ende der Bindungsdauer
 wieder auf 0 % jährlich gesenkt.
@@ -850,23 +1315,29 @@ zur zweckbestimmten Nutzung nach Nummer 42.1 zum Zeitpunkt der Rückzahlung. Gle
 
 gewährte Zuwendung wegen Verstoßes gegen Bestimmungen des Bewilligungsbescheides zurückgefordert
 wird.
-
 Vierter Abschnitt
 Verfahren
 44. Antragstellung
-44.1 Für das Antragsverfahren findet die VV Nr. 3 zu § 44 LHO entsprechende Anwendung.
-44.2 Die Wohnraumförderstelle erörtert, soweit erforderlich, bereits vor Stellung eines Antrags mit der zukünftigen Antragstellerin oder dem zukünftigen Antragsteller, welche Nachweise und Unterlagen von ihr oder
+44.1
+
+Für das Antragsverfahren findet die VV Nr. 3 zu § 44 LHO entsprechende Anwendung.
+
+44.2
+Die Wohnraumförderstelle erörtert, soweit erforderlich, bereits vor Stellung eines Antrags mit der zukünftigen Antragstellerin oder dem zukünftigen Antragsteller, welche Nachweise und Unterlagen von ihr oder
 ihm zu erbringen sind. Sie wirkt im Rahmen ihrer Auskunfts- und Beratungspflicht darauf hin, dass der Antrag
 vollständig und richtig eingereicht wird, insbesondere der von der Bewilligungsbehörde vorgeschriebenen
 Form entspricht und alle zur Entscheidung über den Antrag erforderlichen Angaben enthält.
-44.3 Die Wohnraumförderstelle prüft den Antrag und vermerkt das Ergebnis der Antragsprüfung. Ist der
+44.3
+Die Wohnraumförderstelle prüft den Antrag und vermerkt das Ergebnis der Antragsprüfung. Ist der
 Antrag aus ihrer Sicht entscheidungsreif, leitet sie ihn der Bewilligungsbehörde zu. Die Antragstellerin oder
 der Antragsteller ist über die Weiterleitung des Antrags an die Bewilligungsbehörde unverzüglich zu unterrichten.
-44.4 In ihrer Stellungnahme nach § 6 Abs. 1 Satz 2 NWoFG hat die Wohnraumförderstelle das Ergebnis
+44.4
+In ihrer Stellungnahme nach § 6 Abs. 1 Satz 2 NWoFG hat die Wohnraumförderstelle das Ergebnis
 ihrer Prüfung im Einzelnen darzulegen. In der Stellungnahme ist insbesondere auch darauf einzugehen, welche Abweichungen von den Bestimmungen dieser Richtlinie sie zugelassen hat. Die Stellungnahme soll auch
 die Gesichtspunkte erkennen lassen, von denen die Wohnraumförderstelle bei der Zulassung von Abweichungen ausgegangen ist.
 45. Verfahren bei der Bewilligungsbehörde
-45.1 Die Bewilligungsbehörde nimmt unter Berücksichtigung der Stellungnahme der Wohnraumförderstelle
+45.1
+Die Bewilligungsbehörde nimmt unter Berücksichtigung der Stellungnahme der Wohnraumförderstelle
 eine eingehende Prüfung der formellen und materiellen Voraussetzungen für die Gewährung der Zuwendung
 vor. Sie ist dabei nicht an die Stellungnahme der Wohnraumförderstelle gebunden. Die Bewilligungsbehörde
 hat im Rahmen ihrer Ermittlungen alle Erkenntnismöglichkeiten heranzuziehen, die sich ihr vernünftigerweise
@@ -874,57 +1345,111 @@ bieten. Art und Umfang der Sachverhaltsermittlung bestimmt sie nach den Erforder
 Zur Prüfung der Bonität der Antragstellerin oder des Antragstellers kann die Bewilligungsbehörde auch Auskünfte bei Handels- und Wirtschaftsauskunfteien einholen. Die Antragstellerin oder der Antragsteller hat bei
 der Ermittlung des Sachverhaltes sowie bei der Klärung der formellen und materiellen Voraussetzungen der
 Entscheidung einschließlich notwendiger Vorfragen mitzuwirken.
-45.2 Maßgebender Zeitpunkt für die Feststellung des Sachverhaltes und seine rechtliche Beurteilung über
+45.2
+Maßgebender Zeitpunkt für die Feststellung des Sachverhaltes und seine rechtliche Beurteilung über
 die Zulässigkeit und Begründetheit ist in der Regel der Zeitpunkt der Entscheidung der Bewilligungsbehörde.
 Über Förderanträge soll innerhalb von drei Monaten abschließend entschieden werden. Die Bewilligungsbehörde wirkt darauf hin, dass bei der Antragstellung fehlende Voraussetzungen bis zum Ende der Frist nachgeholt oder nachgewiesen werden.
 46. Förderentscheidung
-46.1 Unbeschadet der gesetzlichen Bestimmungen über die Förderentscheidung in § 6 NWoFG finden die
+46.1
+Unbeschadet der gesetzlichen Bestimmungen über die Förderentscheidung in § 6 NWoFG finden die
 VV Nrn. 4 und 5 zu § 44 LHO entsprechende Anwendung mit folgenden Maßgaben:
-46.1.1 Grundsätzlich wird in der Eigentumsförderung ein Bewilligungs bescheid erteilt und in der Mietwohnraumförderung der Abschluss eines öffentlich- rechtlichen Vertrages (Fördervertrag) angeboten,
-46.1.2 anstelle der Nummern 3.1 und 3.2 ANBest-P findet bei der Vergabe von Aufträgen für Bauleistungen
-die Nummer 48.2 Anwendung.
-46.2 In die Förderentscheidung ist im Fall einer Mietwohnraumförderung ein Verweis auf den DAWI-Freistellungsbeschluss aufzunehmen.
+46.1.1
 
-46.3 Die Bewilligungsbehörde übermittelt der Wohnraumförderstelle eine Kopie der Förderentscheidung
+Grundsätzlich wird in der Eigentumsförderung ein Bewilligungsbescheid erteilt und in der Mietwohnraumförderung der Abschluss eines öffentlich-rechtlichen Vertrages (Fördervertrag) angeboten,
+
+46.1.2
+
+anstelle der Nummern 3.1 und 3.2 ANBest-P findet bei der Vergabe von Aufträgen für Bauleistungen
+die Nummer 48.2 Anwendung.
+
+46.2
+In die Förderentscheidung ist im Fall einer Mietwohnraumförderung ein Verweis auf den DAWI-Freistellungsbeschluss aufzunehmen.
+
+46.3
+Die Bewilligungsbehörde übermittelt der Wohnraumförderstelle eine Kopie der Förderentscheidung
 nach § 6 Abs. 1 Satz 3 NWoFG.
 47. Auszahlung der Fördermittel
-47.1 Für die Auszahlung der Fördermittel findet die VV Nr. 7 zu § 44 LHO Anwendung. Die Zuwendungsempfängerin oder der Zuwendungsempfänger hat die als Eigenleistung einzubringenden Deckungsmittel für
+47.1
+Für die Auszahlung der Fördermittel findet die VV Nr. 7 zu § 44 LHO Anwendung. Die Zuwendungsempfängerin oder der Zuwendungsempfänger hat die als Eigenleistung einzubringenden Deckungsmittel für
 mit dem Zuwendungszweck zusammenhängende Ausgaben grundsätzlich vorrangig einzusetzen.
-47.2 Darlehen dürfen nicht ausgezahlt werden, bevor
-47.2.1 die rangrichtige dingliche Sicherung nachgewiesen ist oder
-47.2.2 die Erklärung einer Notarin oder eines Notars darüber vorliegt, dass der Eintragungsantrag beim
+47.2
+
+Darlehen dürfen nicht ausgezahlt werden, bevor
+
+47.2.1
+
+die rangrichtige dingliche Sicherung nachgewiesen ist oder
+
+47.2.2
+
+die Erklärung einer Notarin oder eines Notars darüber vorliegt, dass der Eintragungsantrag beim
 Grundbuchamt auch im Namen der Gläubigerin oder des Gläubigers gestellt worden ist und keine
 Umstände bekannt sind, die der Eintragung an der vorgesehenen Rangstelle entgegenstehen.
-47.3 Bei Darlehen für den Neubau sowie bei Zuschüssen für den energetisch hochwertigen Neubau von
+
+47.3
+Bei Darlehen für den Neubau sowie bei Zuschüssen für den energetisch hochwertigen Neubau von
 Mietwohnungen erfolgt die Auszahlung auf Anforderung der Zuwendungsempfängerin oder des Zuwendungsempfängers in folgenden vier Teilraten:
-47.3.1 bis zu 30 % nach Baubeginn,
-47.3.2 bis zu 30 % nach der Fertigstellung des Rohbaus,
-47.3.3 bis zu 30 % nach Anbringung des Innenputzes oder anderer vergleichbarer Herrichtung der Innenräume,
-47.3.4 10 % nach restloser Fertigstellung, Vorlage der Schlussbescheinigung nach Nummer 51.3 und bestimmungsgemäßer Wohnungsbelegung.
-47.4 Bei Darlehen für die Änderung und die Erweiterung von Gebäuden, die Modernisierung und die energetische Modernisierung sowie bei Zuschüssen für die Modernisierung einschließlich energetischer Modernisierung von Wohnheimen (gemäß Nummer 2.5.1 des Bezugserlasses zu b) erfolgt die Auszahlung auf Anforderung der Zuwendungsempfängerin oder des Zuwendungsempfängers in folgenden drei Teilraten:
-47.4.1 bis zu 30 % nach Beginn der Baumaßnahme,
-47.4.2 weitere 60 %, wenn Kosten in entsprechender Höhe nachgewiesen sind,
-47.4.3 10 % nach Abschluss der Baumaßnahme und Vorlage der Schlussbescheinigung nach Nummer 51.3.
-47.5 Bei Darlehen für den Erwerb erfolgt die Auszahlung auf Anforderung der Zuwendungsempfängerin
+47.3.1
+
+bis zu 30 % nach Baubeginn,
+
+47.3.2
+
+bis zu 30 % nach der Fertigstellung des Rohbaus,
+
+47.3.3
+
+bis zu 30 % nach Anbringung des Innenputzes oder anderer vergleichbarer Herrichtung der Innenräume,
+
+47.3.4
+
+10 % nach restloser Fertigstellung, Vorlage der Schlussbescheinigung nach Nummer 51.3 und bestimmungsgemäßer Wohnungsbelegung.
+
+47.4
+Bei Darlehen für die Änderung und die Erweiterung von Gebäuden, die Modernisierung und die energetische Modernisierung sowie bei Zuschüssen für die Modernisierung einschließlich energetischer Modernisierung von Wohnheimen (gemäß Nummer 2.5.1 des Bezugserlasses zu b) erfolgt die Auszahlung auf Anforderung der Zuwendungsempfängerin oder des Zuwendungsempfängers in folgenden drei Teilraten:
+47.4.1
+
+bis zu 30 % nach Beginn der Baumaßnahme,
+
+47.4.2
+
+weitere 60 %, wenn Kosten in entsprechender Höhe nachgewiesen sind,
+
+47.4.3
+
+10 % nach Abschluss der Baumaßnahme und Vorlage der Schlussbescheinigung nach Nummer 51.3.
+
+47.5
+Bei Darlehen für den Erwerb erfolgt die Auszahlung auf Anforderung der Zuwendungsempfängerin
 oder des Zuwendungsempfängers in folgenden zwei Teilraten:
-47.5.1 90 % nach Übergabe des Eigentums,
-47.5.2 10 % nach Bezug des selbst genutzten Wohneigentums.
-47.6 Ergänzende Zuschüsse für die Erstellung von barrierefrei nutzbaren Wohnungen werden jeweils mit
+47.5.1
+
+90 % nach Übergabe des Eigentums,
+
+47.5.2
+
+10 % nach Bezug des selbst genutzten Wohneigentums.
+
+47.6
+Ergänzende Zuschüsse für die Erstellung von barrierefrei nutzbaren Wohnungen werden jeweils mit
 der letzten Darlehensrate ausgezahlt und im Falle einer Förderung nach Nummer 2.2 des Bezugserlasses zu
 b mit der letzten Zuschussrate. Zuschüsse bei der Förderung von selbst genutztem Wohneigentum werden
 mit der ersten Darlehensrate ausgezahlt.
-47.7 Im Fall einer Förderung nach Nummer 5.6 des Bezugserlasses zu b (Erwerb von Belegungs- und
+47.7
+Im Fall einer Förderung nach Nummer 5.6 des Bezugserlasses zu b (Erwerb von Belegungs- und
 Mietbindungen) erfolgt die Auszahlung in zwei Teilraten. Die Hälfte des sich ergebenden Betrages wird nach
 dem Nachweis der erstmaligen bestimmungsgemäßen Belegung der Wohnung mit einem wohnberechtigten
-Haushalt ausgezahlt. Die andere Hälfte des Zuschusses wird nach Ablauf der Hälfte der Dauer der Belegungs-
-und Mietbindung ausgezahlt.
-47.8 Im begründeten Einzelfall kann die Bewilligungsbehörde von den für die Auszahlung der Fördermittel
+Haushalt ausgezahlt. Die andere Hälfte des Zuschusses wird nach Ablauf der Hälfte der Dauer der Belegungsund Mietbindung ausgezahlt.
+47.8
+Im begründeten Einzelfall kann die Bewilligungsbehörde von den für die Auszahlung der Fördermittel
 getroffenen Regelungen abweichen.
 
 48. Durchführung von Bauvorhaben
-48.1 Mit Bauvorhaben ist unverzüglich, spätestens jedoch vier Monate nach Bekanntgabe der Förderentscheidung zu beginnen. Die Bewilligungsbehörde kann in begründeten Fällen Abweichungen zulassen sowie
+48.1
+Mit Bauvorhaben ist unverzüglich, spätestens jedoch vier Monate nach Bekanntgabe der Förderentscheidung zu beginnen. Die Bewilligungsbehörde kann in begründeten Fällen Abweichungen zulassen sowie
 eine Frist zur Fertigstellung von Bauvorhaben bestimmen.
-48.2 Zuwendungsempfängerinnen und Zuwendungsempfänger haben bei einer bewilligten Zuwendung
+48.2
+Zuwendungsempfängerinnen und Zuwendungsempfänger haben bei einer bewilligten Zuwendung
 von mehr als 100 000 EUR für jeden Auftrag ab einem geschätzten Auftragswert in Höhe von 15 000 EUR
 (netto) grundsätzlich mindestens drei fachkundige, leistungsfähige Unternehmen zur Angebotsabgabe aufzufordern. Der Auftrag ist an die Bieterin oder den Bieter mit dem wirtschaftlichsten Angebot zu erteilen. Die
 Begründung der einzelnen Entscheidungen ist nachvollziehbar zu dokumentieren. Verpflichtungen von Zuwendungsempfängerinnen und Zuwendungsempfängern, aufgrund haushaltsrechtlicher oder vergaberechtlicher Vorschriften vergaberechtliche Bestimmunen einzuhalten, bleiben unberührt.
@@ -936,83 +1461,153 @@ geförderten Objekts zusätzlich eine Sturmschadenversicherung (jeweils gleitend
 Die Zuwendungsempfängerin oder der Zuwendungsempfänger ist verpflichtet, der Bewilligungsbehörde
 und der Wohnraumförderstelle den Baubeginn anzuzeigen (Baubeginnanzeige). Dazu ist der von der Bewilligungsbehörde zur Verfügung gestellte Vordruck zu verwenden.
 51. Anzeige der Fertigstellung, Schlussbescheinigung
-51.1 Die Zuwendungsempfängerin oder der Zuwendungsempfänger ist verpflichtet, der Wohnraumförderstelle die Fertigstellung der Wohnungen anzuzeigen (Fertigstellungsanzeige). Dazu ist der von der Bewilligungsbehörde zur Verfügung gestellte Vordruck zu verwenden.
-51.2 In der Fertigstellungsanzeige hat die Zuwendungsempfängerin oder der Zuwendungsempfänger zu
+51.1
+Die Zuwendungsempfängerin oder der Zuwendungsempfänger ist verpflichtet, der Wohnraumförderstelle die Fertigstellung der Wohnungen anzuzeigen (Fertigstellungsanzeige). Dazu ist der von der Bewilligungsbehörde zur Verfügung gestellte Vordruck zu verwenden.
+51.2
+In der Fertigstellungsanzeige hat die Zuwendungsempfängerin oder der Zuwendungsempfänger zu
 erklären,
-51.2.1 dass die Zuwendung zweckentsprechend verwendet worden ist und das Bauvorhaben entsprechend
+51.2.1
+
+dass die Zuwendung zweckentsprechend verwendet worden ist und das Bauvorhaben entsprechend
 den Antragsunterlagen ausgeführt worden ist,
-51.2.2 dass die baufachlichen Anforderungen eingehalten worden sind, insbesondere ist eine Bestätigung
+
+51.2.2
+
+dass die baufachlichen Anforderungen eingehalten worden sind, insbesondere ist eine Bestätigung
 darüber beizufügen, dass das Vorhaben dem für die jeweilige Zuwendung erforderlichen energetischen Standard entspricht. Die Bestätigung ist durch Sachverständige zu erstellen, die die Berechtigung haben, Energieausweise auszustellen (§ 88 GEG) oder als eine für die Förderprogramme des
 Bundes zur Energieeffizienz in Wohngebäuden zugelassene Person in der Expertenliste unter
-http://www.energie- effizienz-experten.de eingetragen sind,
-51.2.3 seit wann die Wohnungen bezugsfertig sind,
-51.2.4 ob und für welche Wohnung die Übertragung von Belegungs- und Mietbindungen vorgesehen ist.
-51.3 Die Wohnraumförderstelle nimmt die Fertigstellungsanzeige entgegen, prüft diese und vermerkt das
+http://www.energie-effizienz-experten.de eingetragen sind,
+
+51.2.3
+
+seit wann die Wohnungen bezugsfertig sind,
+
+51.2.4
+
+ob und für welche Wohnung die Übertragung von Belegungs- und Mietbindungen vorgesehen ist.
+
+51.3
+Die Wohnraumförderstelle nimmt die Fertigstellungsanzeige entgegen, prüft diese und vermerkt das
 Ergebnis der Prüfung. Der fertiggestellte Wohnraum soll in Augenschein genommen werden. Die Inaugenscheinnahme soll so zeitnah durchgeführt werden, dass die Vermietung der Wohnungen nicht unangemessen
 verzögert wird. Die Wohnraumförderstelle teilt der Bewilligungsbehörde das Ergebnis der Prüfung einschließlich ihrer Feststellungen anlässlich der Inaugenscheinnahme mit (Schlussbescheinigung).
 52. Verwendungsnachweis
-52.1 Die Zuwendungsempfängerin oder der Zuwendungsempfänger hat der Wohnraumförderstelle die Verwendung der Zuwendung innerhalb von sechs Monaten nach Erfüllung des Zuwendungszwecks nachzuweisen (Verwendungsnachweis). Für den Umfang und den Inhalt des Verwendungsnachweises finden die
+52.1
+Die Zuwendungsempfängerin oder der Zuwendungsempfänger hat der Wohnraumförderstelle die Verwendung der Zuwendung innerhalb von sechs Monaten nach Erfüllung des Zuwendungszwecks nachzuweisen (Verwendungsnachweis). Für den Umfang und den Inhalt des Verwendungsnachweises finden die
 
-Regelungen der Nummer 6 ANBest-P Anwendung, wobei ein einfacher Verwendungsnachweis nach Nummer 6.6 ANBest -P zugelassen wird.
-52.2 Die Wohnraumförderstelle prüft den Verwendungsnachweis und teilt der Bewilligungsbehörde das Ergebnis der Prüfung mit. Für die Prüfung der Verwendung findet Nummer 7 ANBest-P Anwendung.
-52.3 Die Bewilligungsbehörde ist berechtigt, aus begründetem Anlass die Verwendung der Zuwendung
+Regelungen der Nummer 6 ANBest-P Anwendung, wobei ein einfacher Verwendungsnachweis nach Nummer 6.6 ANBest-P zugelassen wird.
+52.2
+Die Wohnraumförderstelle prüft den Verwendungsnachweis und teilt der Bewilligungsbehörde das Ergebnis der Prüfung mit. Für die Prüfung der Verwendung findet Nummer 7 ANBest-P Anwendung.
+52.3
+Die Bewilligungsbehörde ist berechtigt, aus begründetem Anlass die Verwendung der Zuwendung
 sowie den Verwendungsnachweis zu prüfen oder durch Beauftragte prüfen zu lassen. Die Wohnraumförderstelle sowie die Zuwendungsempfängerin oder der Zuwendungsempfänger haben auf ihr Verlangen die erforderlichen Unterlagen bereitzuhalten und die notwendigen Auskünfte zu erteilen.
 53. Unwirksamkeit, Rücknahme oder Widerruf der Förderentscheidung
-Unwirksamkeit, Rücknahme oder Widerruf der Förderentscheidung, Erstattung der Zuwendung und Verzinsung richten sich nach VV Nr. 8 zu § 44 LHO. Dies gilt unabhängig davon, ob die Zuwendung durch Bescheid der Bewilligungsbehörde oder durch öffentlich- rechtlichen Vertrag gewährt wurde. Soweit sich Regelungen der VV Nr. 8 zu § 44 LHO ausschließlich auf Bewilligungsbescheide beziehen, sind die Regelungen
-bei der Förderung durch öffentlich- rechtlichen Vertrag entsprechend anzuwenden.
+Unwirksamkeit, Rücknahme oder Widerruf der Förderentscheidung, Erstattung der Zuwendung und Verzinsung richten sich nach VV Nr. 8 zu § 44 LHO. Dies gilt unabhängig davon, ob die Zuwendung durch Bescheid der Bewilligungsbehörde oder durch öffentlich-rechtlichen Vertrag gewährt wurde. Soweit sich Regelungen der VV Nr. 8 zu § 44 LHO ausschließlich auf Bewilligungsbescheide beziehen, sind die Regelungen
+bei der Förderung durch öffentlich-rechtlichen Vertrag entsprechend anzuwenden.
 54. Verwaltungskostenbeitrag, Bearbeitungsentgelt
-54.1 Für Darlehen wird mit Beginn der Auszahlung ein jährlicher Verwaltungskostenbeitrag erhoben, der
+54.1
+Für Darlehen wird mit Beginn der Auszahlung ein jährlicher Verwaltungskostenbeitrag erhoben, der
 jährlich 0,5 % vom jeweiligen Restkapital beträgt. Die Verwaltungskosten sind wie Zinsen zu behandeln.
-54.2 Für Darlehen wird ein einmaliges Bearbeitungsentgelt in Höhe von 1 % des bewilligten Darlehensbetrages erhoben. Das Bearbeitungsentgelt wird mit Auszahlung der ersten Darlehensrate fällig und wird gegen
+54.2
+Für Darlehen wird ein einmaliges Bearbeitungsentgelt in Höhe von 1 % des bewilligten Darlehensbetrages erhoben. Das Bearbeitungsentgelt wird mit Auszahlung der ersten Darlehensrate fällig und wird gegen
 diese aufgerechnet. Wird die Förderentscheidung vor Beginn der Auszahlung der Zuwendung widerrufen oder
 zurückgenommen, oder verzichtet die Zuwendungsempfängerin oder der Zuwendungsempfänger nach Bekanntgabe der Förderentscheidung, aber vor Beginn der Auszahlung auf die Zuwendung, so ist das volle
 Bearbeitungsentgelt zu entrichten.
-54.3 Für Zuschüsse wird ein einmaliges Bearbeitungsentgelt in Höhe von 0,75 % des bewilligten Betrages
+54.3
+Für Zuschüsse wird ein einmaliges Bearbeitungsentgelt in Höhe von 0,75 % des bewilligten Betrages
 erhoben. Das Bearbeitungsentgelt wird mit Auszahlung des Zuschusses fällig und wird gegen diesen aufgerechnet. Nummer 54.2 Satz 3 gilt entsprechend.
-54.4 Soweit nach der Bewilligung der Zuwendung für die Bearbeitung zusätzliche Kosten entstehen, kann
+54.4
+Soweit nach der Bewilligung der Zuwendung für die Bearbeitung zusätzliche Kosten entstehen, kann
 die Bewilligungsbehörde diese im Rahmen ihres mit dem Fachministerium abgestimmten Entgeltkataloges als
 sonstige Entgelte geltend machen. Die Bewilligungsbehörde veröffentlicht den Entgeltkatalog im Internet unter
 http://www.nbank.de.
-
 Fünfter Abschnitt
 Wohnungsbelegung und -überwachung
 55. Allgemeines
-55.1 Die Wohnraumförderstelle hat alle öffentlich geförderten Wohnungen in ihrem Bezirk getrennt nach
+55.1
+Die Wohnraumförderstelle hat alle öffentlich geförderten Wohnungen in ihrem Bezirk getrennt nach
 Gemeinden in elektronischen Dateien zu erfassen. Für jede Wohnung sind folgende Daten zu speichern:
-– Bezeichnung der Wohnung nach Straße, Hausnummer, Stockwerk und Lage,
-– bei mittelbarer Belegung: Art und Umfang der Einräumung von Belegungs- und Mietbindungen an Ersatzwohnungen,
-– Zahl der Wohnräume und Wohnfläche der Wohnung,
-– Art und Ausstattung der Wohnung (z. B. Mietwohnung im Mehrfamilienhaus, Aufzug, Badewanne
-und/oder Dusche, Balkon),
-– Datum und Aktenzeichen der Förderentscheidung (Bewilligung) sowie die Darlehensnummer der Bewilligungsbehörde,
-– Verfügungsberechtigte oder Verfügungsberechtigter,
+–
 
-– Art und Dauer der Bindungen sowie Ausübung von Belegungsrechten,
-– Art und Dauer eines Vorbehalts für Angehörige eines bestimmten Personenkreises,
-– jeweilige Mieterin oder jeweiliger Mieter oder Wohnungsnutzer, Datum des Einzugs sowie Datum und
+Bezeichnung der Wohnung nach Straße, Hausnummer, Stockwerk und Lage,
+
+–
+
+bei mittelbarer Belegung: Art und Umfang der Einräumung von Belegungs- und Mietbindungen an Ersatzwohnungen,
+
+–
+
+Zahl der Wohnräume und Wohnfläche der Wohnung,
+
+–
+
+Art und Ausstattung der Wohnung (z. B. Mietwohnung im Mehrfamilienhaus, Aufzug, Badewanne
+und/oder Dusche, Balkon),
+
+–
+
+Datum und Aktenzeichen der Förderentscheidung (Bewilligung) sowie die Darlehensnummer der Bewilligungsbehörde,
+
+–
+
+Verfügungsberechtigte oder Verfügungsberechtigter,
+
+–
+
+Art und Dauer der Bindungen sowie Ausübung von Belegungsrechten,
+
+–
+
+Art und Dauer eines Vorbehalts für Angehörige eines bestimmten Personenkreises,
+
+–
+
+jeweilige Mieterin oder jeweiliger Mieter oder Wohnungsnutzer, Datum des Einzugs sowie Datum und
 Aktenzeichen des Wohnberechtigungsscheins oder der Benennung,
-– Zeitpunkt des Endes der Belegungs- und Mietbindung, soweit schon eingetreten oder bestimmbar,
-– Nettokaltmiete bei Bezug (Erstbezug und Wiedervermietung) und Nebenkosten warm/kalt,
-– Genehmigungen für die Selbstnutzung, Nichtvermietung, Zweckentfremdung und bauliche Änderung
+
+–
+
+Zeitpunkt des Endes der Belegungs- und Mietbindung, soweit schon eingetreten oder bestimmbar,
+
+–
+
+Nettokaltmiete bei Bezug (Erstbezug und Wiedervermietung) und Nebenkosten warm/kalt,
+
+–
+
+Genehmigungen für die Selbstnutzung, Nichtvermietung, Zweckentfremdung und bauliche Änderung
 nach § 10 NWoFG,
-– Freistellungen und Entlassungen aus den Bindungen nach § 11 NWoFG,
-– Art des Ausgleichs und Höhe der Ausgleichszahlungen für Maßnahmen nach den §§ 10 und
+
+–
+
+Freistellungen und Entlassungen aus den Bindungen nach § 11 NWoFG,
+
+–
+
+Art des Ausgleichs und Höhe der Ausgleichszahlungen für Maßnahmen nach den §§ 10 und
 11 NWoFG,
-– Erhebung von Geldleistungen und Bußgeldbescheide nach § 14 NWoFG.
+
+–
+
+Erhebung von Geldleistungen und Bußgeldbescheide nach § 14 NWoFG.
+
 Die notwendigen Auskünfte sind erforderlichenfalls nach § 10 Abs. 5 NWoFG bei den Verfügungsberechtigten einzuholen.
-55.2 Landesweit wird eine Übersicht über den Bestand der in einer Bindung stehenden landesseitig geförderten Wohnungen in Niedersachsen geführt. Die Wohnraumförderstellen übersenden der Bewilligungsbehörde hierfür Angaben nach dem Tabellenmuster der Anlage in digitaler Form. Sie übersenden die Daten mit
+55.2
+Landesweit wird eine Übersicht über den Bestand der in einer Bindung stehenden landesseitig geförderten Wohnungen in Niedersachsen geführt. Die Wohnraumförderstellen übersenden der Bewilligungsbehörde hierfür Angaben nach dem Tabellenmuster der Anlage in digitaler Form. Sie übersenden die Daten mit
 Stand 30. Juni und 31. Dezember des Jahres jeweils bis zum 10. des darauffolgenden Monats.
 56. Überlassung von Wohnraum, Wohnberechtigungsschein, Missbrauch
-56.1 Die Vorlage eines Wohnberechtigungsscheins ist grundsätzlich in jedem Fall einer Überlassung zum
+56.1
+Die Vorlage eines Wohnberechtigungsscheins ist grundsätzlich in jedem Fall einer Überlassung zum
 Gebrauch erforderlich, auch wenn die oder der Wohnungssuchende bisher schon eine geförderte Wohnung
 bewohnt hat. Dies gilt auch bei einem Wohnungstausch in demselben Wohngebäude. Dagegen ist die Vorlage
 eines Wohnberechtigungsscheins nicht erforderlich, wenn die Mieterin oder der Mieter einer geförderten Mietwohnung wegen der Sanierung ihrer oder seiner Wohnung vorübergehend in einer anderen geförderten Mietwohnung untergebracht wird.
-56.2 Die oder der Verfügungsberechtigte hat unverzüglich, nachdem sie oder er die geförderte Wohnung
+56.2
+Die oder der Verfügungsberechtigte hat unverzüglich, nachdem sie oder er die geförderte Wohnung
 einer wohnberechtigten Person überlassen hat, der Wohnraumförderstelle die Namen der Person und ihrer
 Haushaltsangehörigen mitzuteilen und ihr den übergebenen Wohnberechtigungsschein vorzulegen. Die Miethöhe und die Mietbindung sind im Interesse der Erfüllung des Förderzwecks zu überwachen. Dazu kann sich
 die Wohnraumförderstelle den Mietvertrag und ggf. Unterlagen über Mieterhöhungsverlangen vorlegen lassen
 (§ 10 Abs. 5 NWoFG).
-56.3 Nach § 8 Abs. 7 NWoFG ist die Erteilung eines Wohnberechtigungsscheins abzulehnen, soweit die
+56.3
+Nach § 8 Abs. 7 NWoFG ist die Erteilung eines Wohnberechtigungsscheins abzulehnen, soweit die
 Inanspruchnahme missbräuchlich wäre. Dies kann insbesondere der Fall sein, wenn erhebliches Vermögen
 vorhanden ist oder wenn die Einkommensgrenze nach § 3 NWoFG nur vorübergehend nicht überschritten
 wird. Eine Prüfung der Tatbestände ist nur vorzunehmen, soweit konkrete Anhaltspunkte für deren Vorliegen
@@ -1022,8 +1617,13 @@ dass die Erteilung eines Wohnberechtigungsscheins bei den festgestellten Vermög
 angemessen mit Mietwohnraum versorgen können (§ 2 Abs. 2 NWoFG).
 56.3.1 Erhebliches Vermögen i. S. von § 8 Abs. 7 NWoFG ist in der Regel vorhanden, wenn die Summe des
 verwertbaren Vermögens der zum Haushalt rechnenden Personen folgende Beträge übersteigt:
-– 60 000 EUR für die erste zum Haushalt rechnende Person und
-– 30 000 EUR für jede weitere zum Haushalt rechnende Person.
+–
+
+60 000 EUR für die erste zum Haushalt rechnende Person und
+
+–
+
+30 000 EUR für jede weitere zum Haushalt rechnende Person.
 
 56.3.2 Vermögen i. S. des § 8 Abs. 7 NWoFG ist die Gesamtheit der in Geld messbaren Güter aller zum
 Haushalt rechnenden Personen. Einkommen und Vermögen grenzen sich grundsätzlich dadurch voneinander
@@ -1039,7 +1639,7 @@ beantragt.
 Grundsätzlich nicht verwertbar sind:
 56.3.3.1 Anwartschaften auf betriebliche Altersversorgung nach Maßgabe des Betriebsrentengesetzes (§§ 2
 und 3 BetrAVG), unabhängig vom gewählten Durchführungsweg (Direktzusage, Unterstützungskasse, Direktversicherung, Pensionskasse oder Pensionsfonds) und unabhängig davon, ob die betriebliche Altersversorgung über die Arbeitgeberin oder den Arbeitgeber oder über Entgeltumwandlung finanziert wurde;
-56.3.3.2 der Anspruch auf eine persönliche Leibrente (sog. Rürup- Rente), die nach § 10 Abs. 1 Nr. 2
+56.3.3.2 der Anspruch auf eine persönliche Leibrente (sog. Rürup-Rente), die nach § 10 Abs. 1 Nr. 2
 Buchst. b EStG nicht vererblich, nicht übertragbar, nicht beleihbar, nicht veräußerbar und nicht kapitalisierbar ist, und bei der darüber hinaus kein Auszahlungsanspruch besteht.
 56.3.4 Zum Vermögen i. S. des § 8 Abs. 7 NWoFG gehören:
 56.3.4.1 Geld und Geldwerte, z. B. Bargeld (gesetzliche Zahlungsmittel) und Schecks,
@@ -1061,13 +1661,19 @@ Haushalt rechnenden Person, höchstens jedoch jeweils 90 000 EUR, nicht überste
 56.3.5.5 ein angemessenes Kraftfahrzeug für jede volljährige zum Haushalt rechnende Person,
 56.3.5.6 Gegenstände, die
 
-a) für die Berufsausbildung oder Erwerbstätigkeit unentbehrlich sind oder
-b) der Befriedigung geistiger, insbesondere wissenschaftlicher oder künstlerischer Bedürfnisse
+a)
+
+für die Berufsausbildung oder Erwerbstätigkeit unentbehrlich sind oder
+
+b)
+
+der Befriedigung geistiger, insbesondere wissenschaftlicher oder künstlerischer Bedürfnisse
 dienen und deren Besitz nicht Luxus ist,
+
 56.3.5.7 Schmerzensgeld nach § 253 Abs. 2 BGB, mit Ausnahme der aus der Anlage von Schmerzensgeld
 erlangten Zinsen (BVerwG, Urteil vom 09.02.2012 – 5 C 10/11 – Leitsatz und Randnummern 9 und
 30) sowie sonstige Leistungen mit Entschädigungscharakter (z. B. aus den Fonds „Heimerziehung
-in der DDR in den Jahren 1949 bis 1990" und „ Heimerziehung West").
+in der DDR in den Jahren 1949 bis 1990" und „Heimerziehung West").
 56.3.6 Wird ein Wohnberechtigungsschein wegen erheblichen Vermögens abgelehnt, kann die Wohnraumförderstelle in dem Ablehnungsbescheid das Vermögen für jede zum Haushalt rechnende Person einzeln ausweisen. Ist das Vermögen mehreren Personen gemeinsam zuzuordnen, kann angegeben werden, zu welchem
 Teil das Vermögen der jeweiligen zum Haushalt rechnenden Person zugeordnet wird (z. B. bei Miteigentum
 zweier Personen an einem Gegenstand ohne abweichende Vereinbarung oder gesetzliche Bestimmung je zur
@@ -1078,61 +1684,75 @@ oder es sich konkret vorausschaubar abzeichnet, dass die Einhaltung der Einkomme
 § 3 NWoFG nur vorübergehend nicht überschritten wird. In diesem Fall wäre die Inanspruchnahme eines
 Wohnberechtigungsscheins missbräuchlich.
 57. Wohnberechtigungsschein für ausländische Wohnungssuchende
-57.1 Ausländische Wohnungssuchende sind nur dann rechtlich und tatsächlich in der Lage, auf längere
+57.1
+Ausländische Wohnungssuchende sind nur dann rechtlich und tatsächlich in der Lage, auf längere
 Dauer einen Wohnsitz als Mittelpunkt der Lebensbeziehungen zu begründen, wenn ein Aufenthalt im Bundesgebiet gegeben ist, der voraussichtlich noch mindestens ein Jahr ab dem Tag der Antragstellung auf Erteilung
 eines Wohnberechtigungsscheines beibehalten werden kann. Dies ist grundsätzlich anzunehmen, wenn ausländische Wohnungssuchende im Besitz einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU sind. Bei einer Blauen Karte EU, einer Aufenthaltserlaubnis sowie einer Duldung nach § 60 a
 Abs. 2 Satz 3 AufenthG i. V. m. § 60 c AufenthG (Ausbildungsduldung) oder i. V. m. § 60 d AufenthG (Beschäftigungsduldung) ist die Aufenthaltsdauer im Einzelfall zu prüfen. Wenn die Dauer der Blauen Karte EU,
 der Aufenthaltserlaubnis oder der Duldung weniger als ein Jahr umfasst und die Ausländerbehörde keine aufenthaltsrechtlichen Bedenken geltend macht, kann von einem Aufenthalt von noch mindestens einem Jahr
 ausgegangen werden.
-57.2 Bei Personen mit einer Aufenthaltsgestattung nach § 55 Abs. 1 AsylG aus Herkunftsländern mit einer
+57.2
+Bei Personen mit einer Aufenthaltsgestattung nach § 55 Abs. 1 AsylG aus Herkunftsländern mit einer
 Schutzquote von über 50 % (gute Bleibeperspektive) kann von einem Aufenthalt von noch mindestens einem
 Jahr ausgegangen werden. Die für die Wohnraumförderung zuständige oberste Fachaufsichtsbehörde stellt
 den Wohnraumförderstellen Informationen darüber bereit, auf welche Herkunftsländer dies zutrifft.
-57.3 Bei Personen mit einer Aufenthaltsgestattung nach § 55 Abs. 1 AsylG aus anderen als den in Nummer
+57.3
+Bei Personen mit einer Aufenthaltsgestattung nach § 55 Abs. 1 AsylG aus anderen als den in Nummer
 57.2 beschriebenen Herkunftsländern kann von einem Aufenthalt von noch mindestens einem Jahr ausgegangen werden, wenn ihr Aufenthalt nach Einschätzung der Ausländerbehörde im Fall einer negativen Entscheidung über ihren Asylantrag voraussichtlich nach § 60 a Abs. 2 Satz 1 AufenthG zu dulden wäre.
-57.4 Die Nummern 57 .1 bis 57.3 gelten nicht für Wohnungssuchende anderer Mitgliedstaaten der EU (Unionsbürgerinnen und Unionsbürger) und deren Haushaltsangehörige. Nicht als Wohnungssuchende gelten die
+57.4
+Die Nummern 57.1 bis 57.3 gelten nicht für Wohnungssuchende anderer Mitgliedstaaten der EU (Unionsbürgerinnen und Unionsbürger) und deren Haushaltsangehörige. Nicht als Wohnungssuchende gelten die
 Angehörigen der im Bundesgebiet stationierten ausländischen Streitkräfte und deren Haushaltsangehörige.
 58. Wohnungsgröße
-58.1 Im Wohnberechtigungsschein ist zu bestimmen, welche Größe des Wohnraums für den Haushalt der
+58.1
+Im Wohnberechtigungsschein ist zu bestimmen, welche Größe des Wohnraums für den Haushalt der
 Wohnungssuchenden angemessen ist. Angemessen sind grundsätzlich die Wohnungsgrößen, die sich aus
-den Regelungen in Nummer 15.1 ergeben. Die angemessene Wohnungsgröße erhöht sich für Alleinerziehende und für Menschen mit Behinderungen um jeweils 10 m
-2
-. Soweit in der jeweiligen Förderentscheidung
+den Regelungen in Nummer 15.1 ergeben. Die angemessene Wohnungsgröße erhöht sich für Alleinerziehende und für Menschen mit Behinderungen um jeweils 10 m2. Soweit in der jeweiligen Förderentscheidung
 nach Quadratmetern größere Wohnflächen angegeben sind als in Nummer 15.1, so gelten für einen wohnungsbezogenen Wohnberechtigungsschein die größeren Wohnflächen als angemessen.
 
-58.2 Die angemessene Wohnfläche kann für die Erteilung eines Wohnberechtigungsscheins nach § 8
-Abs. 5 NWoFG um bis zu 10 m
-2
-erhöht werden, wenn besondere persönliche oder berufliche Bedürfnisse oder
+58.2
+Die angemessene Wohnfläche kann für die Erteilung eines Wohnberechtigungsscheins nach § 8
+Abs. 5 NWoFG um bis zu 10 m2 erhöht werden, wenn besondere persönliche oder berufliche Bedürfnisse oder
 eine besondere Härte nachgewiesen werden:
-58.2.1 Besondere persönliche Bedürfnisse können insbesondere in der Zusammensetzung des Haushalts
+58.2.1
+
+Besondere persönliche Bedürfnisse können insbesondere in der Zusammensetzung des Haushalts
 begründet sein, wie in der Aufnahme von Eltern oder Pflegekindern in eine kinderreiche Familie,
 oder bei dauerhafter Erkrankung oder Behinderung von im Haushalt lebenden Personen. Dazu gehören Erkrankungen, die eine Pflegebedürftigkeit zur Folge haben, oder eine geistige oder körperliche Behinderung.
-58.2.2 Besondere berufliche Bedürfnisse können insbesondere vorliegen, wenn Haushaltsangehörige eine
+
+58.2.2
+
+Besondere berufliche Bedürfnisse können insbesondere vorliegen, wenn Haushaltsangehörige eine
 zusätzliche Wohnfläche zur beruflichen Nutzung benötigen, etwa bei freiberuflicher Tätigkeit oder
 Heimarbeit.
-58.2.3 Eine besondere Härte kann im Einzelfall insbesondere gegeben sein, wenn Wohnungssuchende
+
+58.2.3
+
+Eine besondere Härte kann im Einzelfall insbesondere gegeben sein, wenn Wohnungssuchende
 wegen der Behinderung oder Pflegebedürftigkeit von Haushaltsangehörigen auf bestimmten Wohnraum angewiesen sind. Dies kann in der Lage oder Ausstattung begründet sein, etwa wenn es sich
 um die einzige barrierefreie Wohnung oder Erdgeschosswohnung für Rollstuhlbenutzerinnen und
 Rollstuhlbenutzer handelt.
-58.3 Eine Überschreitung der nach Nummer 58.1 und 58.2 ermittelten angemessenen Wohnungsgrößen
+
+58.3
+Eine Überschreitung der nach Nummer 58.1 und 58.2 ermittelten angemessenen Wohnungsgrößen
 um bis zu 10 % ist unbeachtlich.
 59. Sanktionen
 Ist geförderter Wohnraum einer wohnungssuchenden Person ohne Wohnberechtigungsschein überlassen
 worden, so haben die Verfügungsberechtigten diese zunächst aufzufordern, nachträglich und unverzüglich
-einen Wohnberechtigungsschein, ggf. einen solchen nach § 8 Abs. 4 bis 6 NWoFG , zu beantragen; dieser
+einen Wohnberechtigungsschein, ggf. einen solchen nach § 8 Abs. 4 bis 6 NWoFG, zu beantragen; dieser
 kann nur für die Zukunft erteilt werden. Etwaige Geldleistungen nach § 14 Abs. 3 NWoFG dürfen von den
 Verfügungsberechtigten nur für die Zeit bis zur Erteilung des Wohnberechtigungsscheines erhoben werden.
 In Ausführung von § 10 Abs. 5 NWoFG sind die Verfügungsberechtigten aufzufordern, der Wohnraumförderstelle unter Angabe des voraussichtlichen Zeitpunkts unverzüglich anzuzeigen, wenn Wohnraum bezugsfertig oder frei wird.
 60. Benennungsrecht
-60.1 Durch § 7 Abs. 3 NWoFG werden die Gemeinden ermächtigt, für Gebiete mit erhöhtem Wohnungsbedarf durch Verordnung im übertragenen Wirkungskreis zu bestimmen, dass nach dem NWoFG geförderter
+60.1
+Durch § 7 Abs. 3 NWoFG werden die Gemeinden ermächtigt, für Gebiete mit erhöhtem Wohnungsbedarf durch Verordnung im übertragenen Wirkungskreis zu bestimmen, dass nach dem NWoFG geförderter
 Wohnraum auf Verlangen der Wohnraumförderstelle nur Personen zum Gebrauch überlassen werden darf,
 die von der Wohnraumförderstelle benannt worden sind. Macht die Wohnraumförderstelle in diesen Gebieten
 von ihrem Benennungsrecht Gebrauch, hat sie der oder dem Verfügungsberechtigten mindestens drei wohnberechtigte Wohnungssuchende zur Auswahl zu benennen (§ 7 Abs. 2 Satz 2 NWoFG). Verstößt die oder der
 Verfügungsberechtigte gegen das Benennungsrecht der Wohnraumförderstelle, stellt dies eine Ordnungswidrigkeit dar, die nach § 14 Abs. 1 Nr. 1 NWoFG mit einer Geldbuße von bis zu 10 000 EUR im Einzelfall geahndet werden kann.
 Verordnungen nach § 7 Abs. 3 NWoFG sind nach deren Erlass dem Fachministerium auf dem Dienstweg
 zur Kenntnis vorzulegen.
-60.2 Voraussetzung für den Erlass einer Benennungs-Verordnung ist, dass im Geltungsbereich ein erhöhter Wohnungsbedarf besteht. Damit wird die bewährte und in höchstrichterlicher Rechtsprechung (BVerwG,
+60.2
+Voraussetzung für den Erlass einer Benennungs-Verordnung ist, dass im Geltungsbereich ein erhöhter Wohnungsbedarf besteht. Damit wird die bewährte und in höchstrichterlicher Rechtsprechung (BVerwG,
 Urteil vom 24.08.1998 – 8 C 26/86 – NJW 1989, S. 181) gefestigte Voraussetzung der Verordnung über die
 Überlassung von Sozialwohnungen übernommen. Ein erhöhter Wohnungsbedarf ist gegeben, wenn die Nachfrage nicht oder nicht angemessen mit Wohnraum versorgter Wohnberechtigter innerhalb angemessener Frist
 weder aus dem Bestand oder der Neubaurate an öffentlich geförderten Mietwohnungen noch mit erschwinglichen Mietwohnungen aus dem Altbestand oder dem frei finanzierten Wohnungsbau gedeckt werden kann.
@@ -1140,9 +1760,11 @@ Die Feststellung des erhöhten Wohnungsbedarfs kann auf verschiedene Weise erfol
 
 behauptet werden. Ein qualifiziertes Wohnraumversorgungskonzept, in dem der erhöhte Wohnungsbedarf als
 Ergebnis einer Untersuchung der Wohnraumsituation festgestellt wird, bietet hingegen eine belastbare Grundlage für die Entscheidung.
-60.3 Die Wohnraumförderstelle hat bei der Ausübung des Benennungsrechts im Einzelfall ein Entschließungsermessen (§ 7 Abs. 2 Satz 1 NWoFG). Sie kann, muss es aber nicht ausüben. Darüber hinaus kann in
+60.3
+Die Wohnraumförderstelle hat bei der Ausübung des Benennungsrechts im Einzelfall ein Entschließungsermessen (§ 7 Abs. 2 Satz 1 NWoFG). Sie kann, muss es aber nicht ausüben. Darüber hinaus kann in
 der Benennungs-Verordnung nach § 7 Abs. 3 Satz 2 NWoFG auch bestimmt werden, dass das Benennungsrecht für bestimmten Wohnraum ausgeschlossen ist. So wäre es z. B. möglich, genossenschaftlichen Wohnraum vom Benennungsrecht auszunehmen, soweit dies vor Ort bei dem Erlass einer entsprechenden Verordnung für notwendig gehalten wird.
-60.4 Eine nach § 7 Abs. 3 NWoFG erlassene Benennungs-Verordnung gilt ausschließlich für nach dem
+60.4
+Eine nach § 7 Abs. 3 NWoFG erlassene Benennungs-Verordnung gilt ausschließlich für nach dem
 NWoFG geförderten Wohnraum. Nach § 22 Abs. 1 Satz 2 letzter Teilsatz NWoFG bleibt § 5 a WoBindG unberührt. Damit gilt für älteren geförderten Wohnraum i. S. von § 22 Abs. 1 Satz 1 NWoFG nach wie vor die
 Verordnung über die Überlassung von Sozialwohnungen vom 20.03.1991 (Nds. GVBl. S. 151), zuletzt geändert durch Verordnung vom 27.06.2006 (Nds. GVBl. S. 240). In den von dieser Verordnung erfassten Kommunen gilt gemäß § 22 Abs. 2 NWoFG bis zum 31.12.2021 eine Benennungs-Verordnung nach § 7 Abs. 3 als
 erlassen. Soweit diese Kommunen für nach dem NWoFG geförderten Wohnraum auch ab dem 01.01.2022
@@ -1153,44 +1775,54 @@ Die Belegungsbindungen nach § 7 NWoFG sind jährlich einer systematischen Über
 Dies kann beispielsweise durch einen jährlichen Abgleich der Wohnungsbelegung mit den Daten des Melderegisters erfolgen. Für die systematische Überprüfung notwendige Auskünfte sind erforderlichenfalls nach § 10
 Abs. 5 NWoFG einzuholen.
 62. Freistellung, Änderung und Entlassung
-62.1 Kann die Wohnraumförderstelle ein Benennungsrecht nach § 7 Abs. 2 NWoFG nicht ausüben, so hat
+62.1
+Kann die Wohnraumförderstelle ein Benennungsrecht nach § 7 Abs. 2 NWoFG nicht ausüben, so hat
 sie unverzüglich, spätestens jedoch innerhalb von drei Monaten seit Freiwerden der Wohnung, gegenüber
 den Verfügungsberechtigten auf die Ausübung dieses Rechts zu verzichten. Für die Zeit des Verzichts bleibt
 es bis zu einer Bindungsfreistellung oder Entlassung aus den Bindungen beim allgemeinen Belegungsrecht
 nach § 7 Abs. 1 NWoFG. Eine Freistellung von der Mietbindung ist nicht möglich.
-62.2 Ein Antrag auf Freistellung, Änderung von oder Entlassung aus Belegungsbindungen soll spätestens
+62.2
+Ein Antrag auf Freistellung, Änderung von oder Entlassung aus Belegungsbindungen soll spätestens
 vier Wochen vor dem Freiwerden oder der Bezugsfertigkeit einer Wohnung bei der Wohnraumförderstelle
 gestellt werden. Die oder der Verfügungsberechtigte hat der Wohnraumförderstelle unter genauer Bezeichnung der Wohnung nachzuweisen, dass trotz entsprechender Bemühungen der Abschluss eines Mietvertrages mit einer berechtigten Person nicht möglich ist und die Gründe zu benennen. Die Bemühungen können
 durch Veröffentlichung von angemessenen, marktüblichen Inseraten in geeigneten elektronischen oder Druckmedien in dem Monat vor der Antragstellung nachgewiesen werden. Die oder der Verfügungsberechtigte hat
 weiterhin darzulegen, ob und inwieweit sie oder er die Wohnung auch zu einem Mietpreis unterhalb des förderungsrechtlich Zulässigen angeboten hat.
-62.3 Soweit sich ein Antrag auf Freistellung, Änderung von oder Entlassung aus Belegungsbindungen auf
+62.3
+Soweit sich ein Antrag auf Freistellung, Änderung von oder Entlassung aus Belegungsbindungen auf
 Wohnraum bezieht, der seit Bezugsfertigkeit oder Übertragung der Bindung nicht bestimmungsgemäß belegt
 werden konnte und eine bestimmungsgemäße Belegung auch nicht zu erwarten ist, ist der Antrag der Bewilligungsbehörde mit einer Stellungnahme unter Verwendung des Vordrucks 6001 (siehe Internet-Partnerportal
 der NBank) vorzulegen. Die Bewilligungsbehörde prüft auf dieser Grundlage die Rückforderung der Fördermittel (siehe Nummer 53). Die oder der Verfügungsberechtigte ist über die Abgabe an die Bewilligungsbehörde
 zu benachrichtigen.
-62.4 Bescheide und Verträge über Freistellungen sowie vertragliche Vereinbarungen über Entlassungen
+62.4
+Bescheide und Verträge über Freistellungen sowie vertragliche Vereinbarungen über Entlassungen
 aus oder Änderungen von Belegungsbindungen sind der Bewilligungsbehörde in Kopie vorzulegen. Für die
 Entscheidung sind je Wohnung grundsätzlich Gebühren nach der AllGO zu erheben.
 
 63. Freistellungsdauer
-63.1 Eine Freistellung von Bindungen darf nur befristet erfolgen. Die Freistellungsdauer soll fünf Jahre nicht
+63.1
+Eine Freistellung von Bindungen darf nur befristet erfolgen. Die Freistellungsdauer soll fünf Jahre nicht
 überschreiten. Sie darf höchstens einmal verlängert werden. Beträgt die Restdauer der Bindungen je freizustellender Wohnung zum Zeitpunkt der Entscheidung über die Freistellung weniger als fünf Jahre oder kann
 der Zweck der Freistellung auch nach einer Verlängerung nicht erreicht werden, ist zu prüfen, ob eine Änderung oder Beendigung der Belegungs- und Mietbindung nach § 11 Abs. 3 NWoFG in Betracht kommt (siehe
 Nummer 64.5).
-63.2 Die Freistellung für eine einzelne bestimmte Wohnung kommt nur in Betracht, wenn kein Wohnberechtigungsschein nach § 8 Abs. 4 bis 6 NWoFG erteilt werden kann. Sie ist auf die Dauer des Mietverhältnisses zu befristen. Mit Ablauf der Frist kann ein neuer Antrag gestellt werden.
+63.2
+Die Freistellung für eine einzelne bestimmte Wohnung kommt nur in Betracht, wenn kein Wohnberechtigungsschein nach § 8 Abs. 4 bis 6 NWoFG erteilt werden kann. Sie ist auf die Dauer des Mietverhältnisses zu befristen. Mit Ablauf der Frist kann ein neuer Antrag gestellt werden.
 64. Reichweite einer Freistellung
-64.1 Die Reichweite einer Freistellung nach § 11 Abs. 1 Satz 3 NWoFG hängt maßgeblich vom beantragten Freistellungsumfang und davon ab, aus welchem der in § 11 Abs. 1 NWoFG genannten Gründe die Freistellung erteilt wird. Eine Freistellung kann für einzelne Wohnungen, für Wohnraum bestimmter Art oder für
+64.1
+Die Reichweite einer Freistellung nach § 11 Abs. 1 Satz 3 NWoFG hängt maßgeblich vom beantragten Freistellungsumfang und davon ab, aus welchem der in § 11 Abs. 1 NWoFG genannten Gründe die Freistellung erteilt wird. Eine Freistellung kann für einzelne Wohnungen, für Wohnraum bestimmter Art oder für
 Wohnungen in bestimmten Gebieten erteilt werden. Die Entscheidung kann durch Verwaltungsakt oder durch
-öffentlich- rechtlichen Vertrag getroffen werden. Dabei sind an eine Freistellung für Wohnungen bestimmter Art
+öffentlich-rechtlichen Vertrag getroffen werden. Dabei sind an eine Freistellung für Wohnungen bestimmter Art
 oder in bestimmten Gebieten höhere Anforderungen zu stellen als an Freistellungen für einzelne bestimmte
 Wohnungen.
-64.2 Die Erteilung einer Vielzahl von Einzelfreistellungen darf nicht dazu führen, das Freistellungsverfahren
+64.2
+Die Erteilung einer Vielzahl von Einzelfreistellungen darf nicht dazu führen, das Freistellungsverfahren
 für Wohnungen in einem bestimmten Gebiet zu umgehen. Bevor eine Freistellung für Wohnungen in bestimmten Gebieten in Betracht kommt, ist zu prüfen, ob das angestrebte Ziel nicht ebenso durch eine Freistellung
 für Wohnungen bestimmter Art erreicht werden kann.
-64.3 Von einer Freistellung für Wohnungen bestimmter Art können auch mehrere Wohnungen bestimmter
+64.3
+Von einer Freistellung für Wohnungen bestimmter Art können auch mehrere Wohnungen bestimmter
 Art erfasst sein; beispielsweise Wohnungen für ältere Menschen oder Menschen mit Behinderungen, nicht
 nachgefragte Kleinst- oder Großwohnungen, Dachgeschoss- oder Souterrainwohnungen.
-64.4 Eine Freistellung für Wohnungen in bestimmten Gebieten kann insbesondere zur Erhaltung oder
+64.4
+Eine Freistellung für Wohnungen in bestimmten Gebieten kann insbesondere zur Erhaltung oder
 Schaffung sozial stabiler Bewohnerstrukturen erfolgen. Die Freistellung für Wohnungen in bestimmten Gebieten ist vorrangig vertraglich zu vereinbaren. Für die Entscheidung über die Freistellung ist ein zielführendes
 Konzept, das auch Bestandteil des Wohnraumversorgungskonzeptes sein kann, vorzulegen. Damit kann auch
 ein Plan des Gebietes erforderlich werden, der Angaben über dessen Zustand, unter anderem bezogen auf
@@ -1198,101 +1830,134 @@ die Bausubstanz, die Verkehrswege und die Infrastruktur enthält.
 Der örtliche Bereich, für den die Freistellung für Wohnungen in bestimmten Gebieten erfolgen soll, ist genau
 festzulegen. Unter dem Begriff des Gebietes i. S. des § 11 Abs. 1 Satz 3 NWoFG sind zusammenhängende
 Flächen oder Teilbereiche zu verstehen, die
-– mehr als ein Grundstück oder ein einzelnes Gebäude umfassen,
-– mit auffälligen sozialen und baulichen Problemen belastet sind und
-– sich räumlich durch Verkehrswege, Bauten oder die natürliche Umgebung abgrenzen.
-Bei der Gebietsabgrenzung sollen auch Merkmale wie Gebäude- und Siedlungsstruktur, historische Identität und Bezüge berücksichtigt werden.
-64.5 Die Wohnraumförderstelle kann nach § 11 Abs. 3 NWoFG Angelegenheiten der örtlichen Wohnraumversorgung, insbesondere Belegungs- und Mietbindungen, mit Eigentümerinnen und Eigentümern oder sonstigen Verfügungsberechtigten über Wohnraum vertraglich ändern. Über den Inhalt der Verträge ist die Bewilligungsbehörde zu unterrichten. Sofern hierbei Vereinbarungen über bewilligte Fördermittel getroffen werden,
-bedürfen diese der Zustimmung durch die Bewilligungsbehörde.
-64.6 Folgende Entscheidungen nach § 11 NWoFG bedürfen der vorherigen Zustimmung durch das Fachministerium:
-64.6.1 Freistellung für mehr als acht Wohnungen bestimmter Art,
+–
 
-64.6.2 Freistellung für Wohnungen in bestimmten Gebieten,
-64.6.3 vertragliche Entlassung von mehr als acht Wohnungen aus der Belegungs- und Mietbindung,
-64.6.4 vertragliche Änderung der Belegungs- und Mietbindung bei mehr als acht Wohnungen.
+mehr als ein Grundstück oder ein einzelnes Gebäude umfassen,
+
+–
+
+mit auffälligen sozialen und baulichen Problemen belastet sind und
+
+–
+
+sich räumlich durch Verkehrswege, Bauten oder die natürliche Umgebung abgrenzen.
+
+Bei der Gebietsabgrenzung sollen auch Merkmale wie Gebäude- und Siedlungsstruktur, historische Identität und Bezüge berücksichtigt werden.
+64.5
+Die Wohnraumförderstelle kann nach § 11 Abs. 3 NWoFG Angelegenheiten der örtlichen Wohnraumversorgung, insbesondere Belegungs- und Mietbindungen, mit Eigentümerinnen und Eigentümern oder sonstigen Verfügungsberechtigten über Wohnraum vertraglich ändern. Über den Inhalt der Verträge ist die Bewilligungsbehörde zu unterrichten. Sofern hierbei Vereinbarungen über bewilligte Fördermittel getroffen werden,
+bedürfen diese der Zustimmung durch die Bewilligungsbehörde.
+64.6
+Folgende Entscheidungen nach § 11 NWoFG bedürfen der vorherigen Zustimmung durch das Fachministerium:
+64.6.1
+
+Freistellung für mehr als acht Wohnungen bestimmter Art,
+
+64.6.2
+
+Freistellung für Wohnungen in bestimmten Gebieten,
+
+64.6.3
+
+vertragliche Entlassung von mehr als acht Wohnungen aus der Belegungs- und Mietbindung,
+
+64.6.4
+
+vertragliche Änderung der Belegungs- und Mietbindung bei mehr als acht Wohnungen.
+
 65. Ausgleichsleistungen bei Freistellungen
-65.1 Entscheidungen über Freistellungen sowie über Ausgleichsleistungen nach § 11 NWoFG sind fallbezogen auf die Besonderheiten des Einzelfalle s und auf die Möglichkeiten der oder des Verfügungsberechtigten
+65.1
+Entscheidungen über Freistellungen sowie über Ausgleichsleistungen nach § 11 NWoFG sind fallbezogen auf die Besonderheiten des Einzelfalles und auf die Möglichkeiten der oder des Verfügungsberechtigten
 abzustimmen. Der Ausgleich besteht gleichrangig entweder in einem angemessenen Geldausgleich, der vertraglichen Einräumung eines Belegungsrechts an einer oder mehreren Ersatzwohnungen oder einem sonstigen angemessenen Ausgleich. Die Auswahl zwischen diesen Formen des Ausgleichs erfolgt nach pflichtgemäßem Ermessen.
-65.2 Eine Freistellung soll bei Geldausgleich davon abhängig gemacht werden, dass die oder der Verfügungsberechtigte eine laufende monatliche Ausgleichszahlung entrichtet. Die Festsetzung der laufenden
+65.2
+Eine Freistellung soll bei Geldausgleich davon abhängig gemacht werden, dass die oder der Verfügungsberechtigte eine laufende monatliche Ausgleichszahlung entrichtet. Die Festsetzung der laufenden
 Geldleistung ist als Auflage (Nebenbestimmung) mit der Genehmigung zu verbinden. Bei einer Freistellung
-von der Belegungsbindung soll die laufende Geldleistung 0,50 EUR je m
-2
-Wohnfläche und Monat betragen.
+von der Belegungsbindung soll die laufende Geldleistung 0,50 EUR je m2 Wohnfläche und Monat betragen.
 Die Ausgleichszahlung kann aus Gründen der Verwaltungsvereinfachung auch für die gesamte Freistellungsdauer im Voraus entrichtet werden. Dabei ist eine Mietdauer von regelmäßig mindestens fünf Jahren zugrunde
 zu legen, soweit im Einzelfall nicht eine Freistellung von kürzerer Dauer erteilt wurde. Abweichungen der zugrunde zu legenden Mietdauer von fünf Jahren sind unter Berücksichtigung der örtlichen wohnungswirtschaftlichen Verhältnisse zulässig. Die Entscheidung ist zu dokumentieren.
-65.3 Eine Abwälzung der Ausgleichsabgabe auf die Mieterinnen und Mieter ist mangels Rechtsgrundlage
+65.3
+Eine Abwälzung der Ausgleichsabgabe auf die Mieterinnen und Mieter ist mangels Rechtsgrundlage
 nicht zulässig. Hierauf ist die oder der Verfügungsberechtigte in der Freistellungsentscheidung hinzuweisen.
-65.4 Geldleistungen sind ohne Abzug halbjährlich zum 30. Juni und zum 31. Dezember eines jeden Jahres
+65.4
+Geldleistungen sind ohne Abzug halbjährlich zum 30. Juni und zum 31. Dezember eines jeden Jahres
 an die Bewilligungsbehörde abzuführen. Betrifft die Freistellung Bindungen, die mit einer zu der Wohnraumförderung des Landes hinzugetretenen Förderung einer Gemeinde, eines Landkreises oder der Region Hannover begründet wurden, ist die Ausgleichszahlung im Verhältnis der einbezogenen Förderanteile aufzuteilen.
 Der auf die Förderung von dritter Seite entfallende Anteil ist nicht an die Bewilligungsbehörde abzuführen.
-65.5 Ein Ausgleich unter der Bedingung der vertraglichen Einräumung eines Belegungsrechts für Ersatzwohnungen kommt nur in Betracht, wenn die oder der Verfügungsberechtigte in der Standortgemeinde der
+65.5
+Ein Ausgleich unter der Bedingung der vertraglichen Einräumung eines Belegungsrechts für Ersatzwohnungen kommt nur in Betracht, wenn die oder der Verfügungsberechtigte in der Standortgemeinde der
 freizustellenden Wohnung über mindestens eine weitere gleichwertige und bezugsfertige oder freie, nicht gebundene Wohnung (Ersatzwohnung) verfügt. Über die Freistellung gegen Einräumung eines Belegungsrechts
 an einer oder mehreren Ersatzwohnungen ist erst dann wirksam zu entscheiden, wenn die oder der Verfügungsberechtigte der Wohnraumförderstelle das Belegungsrecht für den konkret bestimmten Ersatzwohnraum vertraglich eingeräumt hat und sich verpflichtet, dieses Recht jederzeit auf Verlangen der Wohnraumförderstelle durch Eintragung einer beschränkten persönlichen Dienstbarkeit im Grundbuch sichern zu lassen. In
 dem Vertrag muss sich die oder der Verfügungsberechtigte auch verpflichten, jede Ersatzwohnung zu gleichen
 Bedingungen wie die Förderwohnung zu überlassen. Der Ersatzwohnraum muss frei oder bezugsfertig sein.
-Mit der Einräumung des Belegungsrechts werden öffentlich- rechtliche Bindungen an der Ersatzwohnung vertraglich begründet. Diese entsprechen den Bindungen der freigestellten Wohnung. Bei der Einräumung eines
+Mit der Einräumung des Belegungsrechts werden öffentlich-rechtliche Bindungen an der Ersatzwohnung vertraglich begründet. Diese entsprechen den Bindungen der freigestellten Wohnung. Bei der Einräumung eines
 Belegungsrechts an einer gleichwertigen Wohnung entfällt ein Ausgleich in Geld oder ein sonstiger Ausgleich.
 Ist jedoch die Ersatzwohnung nicht mindestens gleichwertig, kann daneben ein angemessener Geldausgleich
 verlangt werden.
-65.6 Ein sonstiger Ausgleich in angemessener Art und Weise kann zum Beispiel durch die Verlängerung
+65.6
+Ein sonstiger Ausgleich in angemessener Art und Weise kann zum Beispiel durch die Verlängerung
 eines bereits bestehenden Belegungsrechts erfolgen.
-65.7 Nur bei einer Freistellung im überwiegenden öffentlichen Interesse kann im Einzelfall von einem Ausgleich abgesehen werden. Ein genereller Verzicht auf Ausgleichsleistungen bei Freistellungen von den Belegungsbindungen ist nicht zulässig.
-65.8 Die Entscheidung, ob und in welcher Art und Höhe Ausgleichsleistungen erhoben werden oder aus
+65.7
+Nur bei einer Freistellung im überwiegenden öffentlichen Interesse kann im Einzelfall von einem Ausgleich abgesehen werden. Ein genereller Verzicht auf Ausgleichsleistungen bei Freistellungen von den Belegungsbindungen ist nicht zulässig.
+65.8
+Die Entscheidung, ob und in welcher Art und Höhe Ausgleichsleistungen erhoben werden oder aus
 welchen Gründen darauf verzichtet wird, ist im Einzelfall zu dokumentieren. Freistellungsentscheidungen sind
 
 einschließlich etwaiger Verpflichtungen zu Ausgleichsleistungen der oder dem Verfügungsberechtigten und
 der Bewilligungsbehörde mitzuteilen und in der Wohnungsdatei elektronisch zu erfassen (siehe Nummer 55).
-
-Sechster Abschni tt
+Sechster Abschnitt
 Baufachliche Anforderungen
 66. Allgemeine Anforderungen
-66.1 Bei der Planung, der Errichtung, dem Ausbau und der Ausstattung von geförderten Wohnungen ist zu
+66.1
+Bei der Planung, der Errichtung, dem Ausbau und der Ausstattung von geförderten Wohnungen ist zu
 beachten, dass die Gebäude und Wohnungen nach Haustyp, Bauweise, Grundrissen und Schnitten zur angemessenen Wohnraumversorgung entsprechend der Zweckbestimmung und der vorgesehenen Belegung
 geeignet und zweckmäßig sein müssen.
-66.2 Die Individualräume (Schlafräume sowie Kinder- und Jugendzimmer) müssen angemessen groß sein
-und sollen möglichst über Flure erschlossen werden sowie keine Durchgangsräume sein. Die Größe von Kinder- und Jugendzimmern soll der Funktion des Raums als Schlaf- und Spielzimmer sowie den speziellen Bedürfnissen von Kindern und Jugendlichen angemessen Rechnung tragen; sie soll für ein Kind 10 m
-2
-und für
-zwei Kinder 15 m
-2
-jedoch nicht unterschreiten.
-66.3 Die tatsächliche Grundfläche von Wintergärten, Balkonen, Loggien und Terrassen soll nicht mehr als
+66.2
+Die Individualräume (Schlafräume sowie Kinder- und Jugendzimmer) müssen angemessen groß sein
+und sollen möglichst über Flure erschlossen werden sowie keine Durchgangsräume sein. Die Größe von Kinder- und Jugendzimmern soll der Funktion des Raums als Schlaf- und Spielzimmer sowie den speziellen Bedürfnissen von Kindern und Jugendlichen angemessen Rechnung tragen; sie soll für ein Kind 10 m2 und für
+zwei Kinder 15 m2 jedoch nicht unterschreiten.
+66.3
+Die tatsächliche Grundfläche von Wintergärten, Balkonen, Loggien und Terrassen soll nicht mehr als
 ein Zehntel der jeweils als angemessen geltenden Wohnungsgröße nach Nummer 15 betragen.
 67. Wohnungen für ältere Menschen
-67.1 Wohnungen für ältere Menschen sollen möglichst in der Nähe der erforderlichen Infrastruktureinrichtungen liegen. Hierzu gehören vor allem Einrichtungen des täglichen Bedarfs, wie Einzelhandelsgeschäfte,
+67.1
+Wohnungen für ältere Menschen sollen möglichst in der Nähe der erforderlichen Infrastruktureinrichtungen liegen. Hierzu gehören vor allem Einrichtungen des täglichen Bedarfs, wie Einzelhandelsgeschäfte,
 Arztpraxen, Apotheken, Bank- und Postfilialen. Es ist wünschenswert, dass weitere Einrichtungen wie etwa
 Seniorentreffs, Friseurbetriebe, Kirchengemeinden oder die Gemeindeverwaltung einfach und in kürzerer Zeit
 mit öffentlichen Verkehrsmitteln zu erreichen sind.
-67.2 Die Wohnungen dürfen, wenn ein Aufzug nicht vorhanden ist, nur im Erdgeschoss angeordnet und
+67.2
+Die Wohnungen dürfen, wenn ein Aufzug nicht vorhanden ist, nur im Erdgeschoss angeordnet und
 müssen von der öffentlichen Verkehrsfläche aus stufenlos erreichbar sein.
-67.3 Sofern nicht bereits nach gesetzlichen Bestimmungen vorgeschrieben, sollen die Wohnungen im Übrigen weitestgehend den Anforderungen an barrierefrei nutzbare Wohnungen gemäß der als technische Baubestimmung eingeführten DIN 18040- 2 entsprechen.
+67.3
+Sofern nicht bereits nach gesetzlichen Bestimmungen vorgeschrieben, sollen die Wohnungen im Übrigen weitestgehend den Anforderungen an barrierefrei nutzbare Wohnungen gemäß der als technische Baubestimmung eingeführten DIN 18040-2 entsprechen.
 68. Wohnungen für Menschen mit Behinderungen
 Über die Anforderungen nach den Nummern 67.1 und 67.2 hinaus müssen Wohnungen für Menschen mit
-Behinderungen den Anforderungen an barrierefrei nutzbare Wohnungen gemäß der als technische Baubestimmung eingeführten DIN 18040- 2 entsprechen. Sind Wohnungen für Benutzerinnen und Benutzer von Rollstühlen bestimmt, sind zusätzlich die mit einem „R" kenntlich gemachten Anforderungen der als technische
-Baubestimmung eingeführten DIN 18040- 2 einzuhalten. In Fällen der Änderung oder Erweiterung von Gebäuden sind die Anforderungen soweit einzuhalten, wie dies unter vertretbarem Aufwand möglich ist.
+Behinderungen den Anforderungen an barrierefrei nutzbare Wohnungen gemäß der als technische Baubestimmung eingeführten DIN 18040-2 entsprechen. Sind Wohnungen für Benutzerinnen und Benutzer von Rollstühlen bestimmt, sind zusätzlich die mit einem „R" kenntlich gemachten Anforderungen der als technische
+Baubestimmung eingeführten DIN 18040-2 einzuhalten. In Fällen der Änderung oder Erweiterung von Gebäuden sind die Anforderungen soweit einzuhalten, wie dies unter vertretbarem Aufwand möglich ist.
 69. Wohnheime für Studierende und Auszubildende
-69.1 Wohnheimplätze für Studierende und Auszubildende sind bezugsfertig herzurichten. Die Wohnfläche
-der Einzelapartments soll 18 m
-2
-nicht unterschreiten. Einzelapartments müssen mindestens aus einem Individualraum, einer Sanitärzelle mit Dusche und Toilette sowie einer Küche oder einer Kochgelegenheit (möbliert,
+69.1
+Wohnheimplätze für Studierende und Auszubildende sind bezugsfertig herzurichten. Die Wohnfläche
+der Einzelapartments soll 18 m2 nicht unterschreiten. Einzelapartments müssen mindestens aus einem Individualraum, einer Sanitärzelle mit Dusche und Toilette sowie einer Küche oder einer Kochgelegenheit (möbliert,
 Herd, Kühlschrank, Spüle) bestehen. Die Bemessung und die Ausstattung des Individualraums müssen Möglichkeiten zum Studieren, Wohnen und Schlafen bieten. Der Individualraum darf nicht Durchgangsraum sein.
 Es soll außerdem technisch ein Zugang ins Internet gewährleistet sein. Im Übrigen gelten für Wohnheimplätze
 in Wohngruppen und Wohngemeinschaften die Regelungen der Nummer 70 entsprechend.
-69.2 In einem Wohnheim mit mehr als 20 Plätzen kann ein angemessen großer Gemeinschaftsraum als
+69.2
+In einem Wohnheim mit mehr als 20 Plätzen kann ein angemessen großer Gemeinschaftsraum als
 Mehrzweckraum hergestellt werden. Es dürfen in angemessenem Umfang weitere Nebenräume
 
 (Toilettenanlage, Stuhllager) vorgesehen werden. Ein Zubehörraum mit gemeinschaftlich genutzten Waschmaschinen, ggf. auch mit Wäschetrocknern, soll vorgehalten werden.
-69.3 Sind Wohnheimplätze für Menschen mit Behinderungen bestimmt, ist die als technische Baubestimmung eingeführte DIN 18040-1 i. V. m. DIN 18040- 2 analog einzuhalten.
-69.4 Sind Wohnheimplätze für Benutzerinnen und Benutzer von Rollstühlen bestimmt, sind die mit einem
+69.3
+Sind Wohnheimplätze für Menschen mit Behinderungen bestimmt, ist die als technische Baubestimmung eingeführte DIN 18040-1 i. V. m. DIN 18040-2 analog einzuhalten.
+69.4
+Sind Wohnheimplätze für Benutzerinnen und Benutzer von Rollstühlen bestimmt, sind die mit einem
 „R" kenntlich gemachten Anforderungen der als technische Baubestimmung eingeführten DIN 18040-1 i. V. m.
-DIN18040- 2 analog einzuhalten.
+DIN18040-2 analog einzuhalten.
 70. Besondere Wohnformen
-70.1 In Wohngemeinschaften sollen für je drei Individualräume (Schlafräume) ein angemessenes gemeinsames Bad mit Badewanne oder Dusche sowie ein separater Toilettenraum mit Toilette zur Verfügung stehen.
-70.2 Eine Wohngruppe umfasst mehrere Apartmentwohnungen sowie Gemeinschaftsräume. Jede Apartmentwohnung muss eine Kochgelegenheit und einen Sanitärraum mit Badewanne oder Dusche und Toilette
+70.1
+In Wohngemeinschaften sollen für je drei Individualräume (Schlafräume) ein angemessenes gemeinsames Bad mit Badewanne oder Dusche sowie ein separater Toilettenraum mit Toilette zur Verfügung stehen.
+70.2
+Eine Wohngruppe umfasst mehrere Apartmentwohnungen sowie Gemeinschaftsräume. Jede Apartmentwohnung muss eine Kochgelegenheit und einen Sanitärraum mit Badewanne oder Dusche und Toilette
 umfassen.
-70.3 Die Zahl der Individualräume einer Wohngemeinschaft und die Zahl der Apartments in einer Wohngruppe dürfen zwölf nicht übersteigen.
-
-S iebter Abschni tt
+70.3
+Die Zahl der Individualräume einer Wohngemeinschaft und die Zahl der Apartments in einer Wohngruppe dürfen zwölf nicht übersteigen.
+Siebter Abschnitt
 Schlussbestimmungen
 71. Schlussbestimmungen
 Dieser RdErl. tritt am 01.05.2024 in Kraft und mit Ablauf des 31.12.2025 außer Kraft. Der Bezugserlass zu
@@ -1302,47 +1967,61 @@ Region Hannover, Landkreise, kreisfreien und großen selbständigen
 Städte und selbständigen Gemeinden
 Investitions- und Förderbank Niedersachsen (NBank)
 
-Herausgeber: Niedersächsische Staatskanzlei
 Anlage
 Angaben zu landesseitig geförderten Wohnungen in Niedersachsen
-
 Stand: 30.06.20__ / 31.12.20__ (bitte Jahreszahl ergänzen und Nichtzutreffendes streichen)
-
 Name der Kommune
+
+1
+
 WFSNr.
+
+2
+
 Anzahl der aktuell
 grundsätzlich in einer
 Bindung befindlichen
-geförderten Wohnungen
-1)
+geförderten Wohnungen1)
+3
 
 Anzahl der aktuell von
 Bindungen freigestellten
-geförderten Wohnungen
-2)
+geförderten Wohnungen2)
+4
 
-Erteilte Freistellungen seit dem letzten Berichtszeitpunkt
-3)
+Erteilte Freistellungen seit dem letzten Berichtszeitpunkt3)
+im öffentlichen im privaten
+Interesse
+Interesse
 
-im öffentlichen
-Interesse
-im privaten
-Interesse
+5
+
 mit
-Geldaus- gleich
+Geldausgleich
+
+6
+
+7
+
 mit sonstigen
-Ausgleichs-
-leistungen
+Ausgleichsleistungen
+8
+
 ohne Ausgleich
-1 2 3 4 5 6 7 8 9
 
-
-
+9
 
 1)
+
 Hier sind alle landesseitig geförderten Wohnungen aufzuführen, bei denen die im Förderbescheid festgelegte Bindungsfrist noch nicht ausgelaufen ist, also auch die Wohnungen, die aktuell für
 einen bestimmten Zeitraum von Bindungen freigestellt sind.
+
 2)
+
 Hier ist aufzuführen, wie viele der in Spalte 3 bezifferten Wohnungen aktuell von Bindungen (Miet- und/oder Belegungsbindung) freigestellt sind.
+
 3)
+
 Bitte beim Ausfüllen die Plausibilität der Angaben überprüfen: Die Summe der Spalten 5 und 6 muss deckungsgleich sein mit der Summe der Spalten 7 bis 9.
+
+Herausgeber: Niedersächsische Staatskanzlei

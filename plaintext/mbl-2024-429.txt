@@ -1,15 +1,16 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 2. Oktober 2024 Nummer 429
+74. (79.) Jahrgang
+
+Hannover, den 2. Oktober 2024
+
+Nummer 429
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Vorläufige Sicherung des Überschwemmungsgebietes der Calle und Graue
 in den Landkreisen Diepholz und Nienburg
 Bek. d. NLWKN v. 02.10.2024 – 62023/01/479622 u. 62023/01/47962 –
-
 Der NLWKN hat die Bereiche der Landkreise Diepholz und Nienburg, die von einem hundertjährlichen
 Hochwasser der Gewässer Calle und Graue überschwemmt werden, ermittelt und in Arbeitskarten dargestellt.
 Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Die Überschwemmungsgebiete sind ab dem
@@ -36,6 +37,12 @@ Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
 Betriebsstelle Sulingen,
 Am Bahnhof 1,
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 429 vom 2. Oktober 2024
+
+Seite 2
+
 27232 Sulingen
 oder bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
@@ -49,61 +56,110 @@ Am Sportplatz 23,
 26506 Norden
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
-Calle
-Graue
-Landkreis
-Diepholz
-Landkreis
-Nienburg
-(Weser)
-Blatt 1
-Blatt 2
-Blatt 3
-Gemeinde
-Asendorf
-Gemeinde
-Staffhorst
-Gemeinde
-Balge
+Call
+
+Niedersächsischer Landesbetrieb
+für Wasserwirtschaft, Küstenund Naturschutz
+
 Gemeinde
 Bücken,
 Flecken
-Gemeinde
-Schweringen
-Gemeinde
-Warpe
-Gemeinde
-Wietzen
+
+e
+
 Vorläufige Sicherung
 der Überschwemmungsgebiete
 der Calle und Graue
 in den Landkreisen Diepholz
 und Nienburg
+Gemeinde
+Schweringen
+
+Blatt 1
+Landkreis
+Diepholz
+
+Gemeinde
+Asendorf
+
+Gemeinde
+Warpe
+
 Übersichtskarte
 Bek. d. NLWKN v. 02.10.2024
 Az.: 62023/01/479622 u. 62023/01/47962
-Sulingen, den
-0 1 20,5 Kilometer
-"Quelle: Auszug aus den Geodaten des Landesamtes für "
-Geoinformation und Landesvermessung Niedersachsen,
-© 2024
-1:30.000
-±
+
 Legende
+
+Blatt 2
+
 Blattschnitte der vorläufigen Sicherung (M 1:5000)
+
+Landkreis
+Nienburg
+(Weser)
+Gr
+
+au
+
 Vorläufig gesichertes Überschwemmungsgebiet
 (soweit nicht bereits festgesetzt)
 Nachrichtlich
+
+e
+
 bereits festgesetzte Überschwemmungsgebiete
 Verwaltungsgrenzen
 Landkreisgrenzen
-! ! ! ! !
-! ! ! ! ! ! !
-! ! ! !
-! ! ! ! ! ! ! !
+!!!
+
+!!
+
+! !!
+
+!! !
+
+!! !
+
 Gemeindegrenzen
-Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küstenund Naturschutz
-04.09.2024
+
+!
+
+Gemeinde
+Staffhorst
+
+!! !
+! !!
+
+!!
+
+!
+
+±
+
+Gemeinde
+Wietzen
+
+1:30.000
+
+0
+
+Blatt 3
+
+Gemeinde
+Balge
+
+0,5
+
+1
+
+"Quelle: Auszug aus den Geodaten des Landesamtes für
+Geoinformation und Landesvermessung Niedersachsen,
+© 2024
+
+Sulingen, den 04.09.2024
+
+2 Kilometer
+"

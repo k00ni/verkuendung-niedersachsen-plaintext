@@ -1,31 +1,42 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 26. November 2024 Nummer 578
+74. (79.) Jahrgang
+
+Hannover, den 26. November 2024
+
+Nummer 578
 
 Ministerium für Umwelt, Energie und Klimaschutz
-
 Richtlinie über die Gewährung von Zuwendungen zur Förderung
 von kommunalen Starkregenvorsorgekonzepten
-RdErl. d. MU v. 26.11.2024 – 22-62004/1500- 0007 –
+RdErl. d. MU v. 26.11.2024 – 22-62004/1500-0007 –
 – VORIS 28200 –
-
 1. Zuwendungszweck, Rechtsgrundlage
-1.1 Das Land Niedersachsen gewährt nach Maßgabe dieser Richtlinie und der VV/VV-Gk zu § 44 LHO
-Zuwendungen für Konzepte im Bereich Starkregenvorsorge zur Anpassung an den Klimawandel. Ziel der Förderung ist die Entwicklung von kommunalen Starkregenvorsorgekonzepten zum Schutz vor nachteiligen Folgen aus Starkregenereignissen basierend auf dem Leitfaden „Kommunale Starkregenvorsorge in Niedersachsen“ (Quelle: https://www.uan.de/service/publikationen-downloads/leitfaden- starkregenvorsorge) – im Folgenden: Leitfaden – .
-1.2 Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht, vielmehr entscheidet
+1.1
+Das Land Niedersachsen gewährt nach Maßgabe dieser Richtlinie und der VV/VV-Gk zu § 44 LHO
+Zuwendungen für Konzepte im Bereich Starkregenvorsorge zur Anpassung an den Klimawandel. Ziel der Förderung ist die Entwicklung von kommunalen Starkregenvorsorgekonzepten zum Schutz vor nachteiligen Folgen aus Starkregenereignissen basierend auf dem Leitfaden „Kommunale Starkregenvorsorge in Niedersachsen“ (Quelle: https://www.uan.de/service/publikationen-downloads/leitfaden-starkregenvorsorge) – im Folgenden: Leitfaden –.
+1.2
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht, vielmehr entscheidet
 die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
 2. Gegenstand der Förderung
-2.1 Gefördert wird die Erstellung von kommunalen Starkregenvorsorgekonzepten auf Basis von Starkregengefahrenkarten für bis zu drei Niederschlagsszenarien (mindestens ein Ereignis mit Starkregenindex 5 und mindestens ein Ereignis mit Starkregenindex 7 oder größer). Grundlage für die kommunalen Starkregenvorsorgekonzepte ist der Leitfaden.
+2.1
+Gefördert wird die Erstellung von kommunalen Starkregenvorsorgekonzepten auf Basis von Starkregengefahrenkarten für bis zu drei Niederschlagsszenarien (mindestens ein Ereignis mit Starkregenindex 5 und
+mindestens ein Ereignis mit Starkregenindex 7 oder größer). Grundlage für die kommunalen Starkregenvorsorgekonzepte ist der Leitfaden.
 Die kommunalen Starkregenvorsorgekonzepte müssen die nachfolgend genannten Bestandteile enthalten:
 2.1.1 Als maßgebliche Methodik zur Gefährdungsanalyse dient mindestens eine hydraulische Modellierung
-(2D) entsprechend Kapitel 4 des Leitfadens (Analyse der Gefährdung durch Starkregen). In begründeten Fällen kann die Hinweiskarte Starkregengefahren des Bundesamt es für Kartographie und Geodäsie
+(2D) entsprechend Kapitel 4 des Leitfadens (Analyse der Gefährdung durch Starkregen). In begründeten Fällen kann die Hinweiskarte Starkregengefahren des Bundesamtes für Kartographie und Geodäsie
 (BKG) verwendet werden.
 2.1.2 Die Bewertung des Schadenspotenzials ist entsprechend Kapitel 5 des Leitfadens (Bewertung des
 Schadenspotenzials) durchzuführen.
 2.1.3 Das Risiko ist gemäß Kapitel 6 des Leitfadens (Risikoanalyse) entsprechend der betrachteten Starkregengefahr und der Bewertung des Schadenspotenzials zu analysieren.
 2.1.4 Hieraus ist gemäß Kapitel 7 des Leitfadens (Handlungskonzept) ein Handlungskonzept zu entwickeln.
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 578 vom 26. November 2024
+
+Seite 2
 
 2.1.5 Gemäß Kapitel 8 des Leitfadens (Risikokommunikation und Einbeziehung der Öffentlichkeit) sind die
 Risikokommunikation und die Öffentlichkeit als integrale Bestandteile frühzeitig und fortlaufend bei der
@@ -33,67 +44,145 @@ Erstellung des Starkregenvorsorgekonzepts einzubeziehen (z. B. sollte die Maßna
 den betroffenen Akteuren konzeptionell erarbeitet werden).
 In begründeten Ausnahmefällen kann von den vorstehenden Bestandteilen abgewichen werden (siehe
 Anlage). Dies muss in Abstimmung mit der Bewilligungsbehörde erfolgen.
-2.2 Es werden interkommunale und körperschaftsübergreifende Projekte gefördert, wenn sich mehrere
+2.2
+Es werden interkommunale und körperschaftsübergreifende Projekte gefördert, wenn sich mehrere
 der unter Nummer 3 genannten Zuwendungsempfänger auf ein gemeinsames Projekt verständigen und ein
 Verbundpartner die Projektverantwortung übernimmt.
-2.3 Nicht gefördert werden:
-– bauliche Maßnahmen,
-– Maßnahmen, die bereits eine Förderung nach anderen Förderprogrammen erhalten (Verbot der Doppelfinanzierung),
-– Maßnahmen, zu denen eine rechtliche Verpflichtung besteht, z. B. verbindlich festgesetzte Kompensationsmaßnahmen,
-– die Kanalnetzmodellerstellung, auch nicht bei einer gekoppelten 2D-Modellierung,
-– Generalentwässerungsplanungen und Kanalnetzdimensionierungen.
+2.3
+
+Nicht gefördert werden:
+
+–
+
+bauliche Maßnahmen,
+
+–
+
+Maßnahmen, die bereits eine Förderung nach anderen Förderprogrammen erhalten (Verbot der Doppelfinanzierung),
+
+–
+
+Maßnahmen, zu denen eine rechtliche Verpflichtung besteht, z. B. verbindlich festgesetzte Kompensationsmaßnahmen,
+
+–
+
+die Kanalnetzmodellerstellung, auch nicht bei einer gekoppelten 2D-Modellierung,
+
+–
+
+Generalentwässerungsplanungen und Kanalnetzdimensionierungen.
+
 3. Zuwendungsempfänger
 Zuwendungsempfänger sind:
-– Kommunen,
-– Wasser- und Bodenverbände,
-– kommunale nicht wirtschaftlich tätige Unternehmen,
-– Zusammenschlüsse der vorgenannten Zuwendungsempfänger.
+–
+
+Kommunen,
+
+–
+
+Wasser- und Bodenverbände,
+
+–
+
+kommunale nicht wirtschaftlich tätige Unternehmen,
+
+–
+
+Zusammenschlüsse der vorgenannten Zuwendungsempfänger.
+
 4. Bewilligungsvoraussetzungen
-4.1 Bei interkommunalen und körperschaftsübergreifenden Projekten gemäß Nummer 2.2 ist ein Kooperationsvertrag zu schließen.
-4.2 Das Vorhaben darf noch nicht begonnen worden sein (zur Abgrenzung siehe Nummer 6.5 Satz 1).
-4.3 Die Projekte müssen auf dem Gebiet des Landes Niedersachsen stattfinden.
+4.1
+Bei interkommunalen und körperschaftsübergreifenden Projekten gemäß Nummer 2.2 ist ein Kooperationsvertrag zu schließen.
+4.2
+
+Das Vorhaben darf noch nicht begonnen worden sein (zur Abgrenzung siehe Nummer 6.5 Satz 1).
+
+4.3
+
+Die Projekte müssen auf dem Gebiet des Landes Niedersachsen stattfinden.
+
 5. Art und Umfang, Höhe der Zuwendung
-5.1 Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektförderung gewährt.
-5.2 Die Förderung beträgt maximal 80 % und bei finanzschwachen Kommunen maximal 90 % der zuwendungsfähigen Gesamtausgaben.
+5.1
+Die Zuwendung wird als nicht rückzahlbarer Zuschuss in Form einer Anteilfinanzierung zur Projektförderung gewährt.
+5.2
+Die Förderung beträgt maximal 80 % und bei finanzschwachen Kommunen maximal 90 % der zuwendungsfähigen Gesamtausgaben.
 Finanzschwach sind Kommunen, die im Vorjahr der Antragstellung im Bedarfszuweisungsverfahren (§ 13
 NFAG) das Kriterium der besonderen Finanzschwäche erfüllen.
 Die Zuwendung beträgt maximal 150 000 EUR. Bei interkommunalen und körperschaftsübergreifenden
 Projekten nach Nummer 2.2 kann davon abgewichen werden.
-5.3 Zuwendungsfähig sind Ausgaben, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck des Projekts zu erreichen. Dies sind auf das Projekt bezogene Ausgaben für:
-– Fremdleistungen für die Erstellung des Konzepts nach Nummer 2.1,
-– fundierte Risikokommunikation unter Einbeziehung der Öffentlichkeit mit einer Pauschale in Höhe von
+5.3
+Zuwendungsfähig sind Ausgaben, die bei sparsamer und wirtschaftlicher Ausführung unmittelbar notwendig sind, um den Zweck des Projekts zu erreichen. Dies sind auf das Projekt bezogene Ausgaben für:
+–
+
+Fremdleistungen für die Erstellung des Konzepts nach Nummer 2.1,
+
+–
+
+fundierte Risikokommunikation unter Einbeziehung der Öffentlichkeit mit einer Pauschale in Höhe von
 20 % bezogen auf die Ausgaben zur Erstellung des Starkregenvorsorgekonzepts.
 
-5.4 Der Eigenanteil ist aus Eigenmitteln (Zahlungs-/Barmitteln) des Zuwendungsempfängers zu erbringen.
+Nds. MBl. 2024 Nr. 578 vom 26. November 2024
+
+Seite 3
+
+5.4
+Der Eigenanteil ist aus Eigenmitteln (Zahlungs-/Barmitteln) des Zuwendungsempfängers zu erbringen.
 Eigenleistungen, z. B. eigene Arbeitsleistungen des Zuwendungsempfängers, unbezahlte sowie ehrenamtliche oder freiwillige Arbeitsleistungen, sind nicht auf den Eigenanteil anrechenbar.
 6. Sonstige Zuwendungsbestimmungen
-6.1 Die ANBest-P/ANBest-Gk sind unverändert zum Bestandteil des Bescheides zu machen. Abweichungen von den Regelungen aus den ANBest-P/ANBest-Gk sind in den Bewilligungsbescheid aufzunehmen.
-6.2 Bei der Vergabe von Aufträgen sind die geltenden gesetzlichen Regelungen und die Nummer 3
+6.1
+Die ANBest-P/ANBest-Gk sind unverändert zum Bestandteil des Bescheides zu machen. Abweichungen von den Regelungen aus den ANBest-P/ANBest-Gk sind in den Bewilligungsbescheid aufzunehmen.
+6.2
+Bei der Vergabe von Aufträgen sind die geltenden gesetzlichen Regelungen und die Nummer 3
 AnBest-P zu beachten, soweit sie auf den Zuwendungsempfänger Anwendung finden.
-6.3 Der Zuwendungsempfänger ist verpflichtet, an Evaluationen von Bundes-, Landes- oder EU-Programmen mitzuwirken, die dafür notwendigen Auskünfte zu erteilen, die erforderlichen Daten zu erheben und zur
+6.3
+Der Zuwendungsempfänger ist verpflichtet, an Evaluationen von Bundes-, Landes- oder EU-Programmen mitzuwirken, die dafür notwendigen Auskünfte zu erteilen, die erforderlichen Daten zu erheben und zur
 Verfügung zu stellen.
-6.4 Das beantragte Konzept ist nur zuwendungsfähig, wenn die unter Nummer 2.1 genannten Bestandteile entsprechend dem im Leitfaden beschriebenen Verfahren bearbeitet werden.
-6.5 Die Einbeziehung bisheriger Untersuchungen zu Starkregengefahren oder die Verwendung von Ergebnissen bereits begonnener oder durchgeführter anderer Projekte zu Teilaspekten der Starkregenvorsorge
+6.4
+Das beantragte Konzept ist nur zuwendungsfähig, wenn die unter Nummer 2.1 genannten Bestandteile entsprechend dem im Leitfaden beschriebenen Verfahren bearbeitet werden.
+6.5
+Die Einbeziehung bisheriger Untersuchungen zu Starkregengefahren oder die Verwendung von Ergebnissen bereits begonnener oder durchgeführter anderer Projekte zu Teilaspekten der Starkregenvorsorge
 gelten nicht als Beginn des Vorhabens. Die Kosten für bereits begonnene oder durchgeführte andere Projekte
-können nicht über diese R ichtlinie refinanziert werden.
+können nicht über diese Richtlinie refinanziert werden.
 7. Anweisungen zum Verfahren
-7.1 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die
+7.1
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die
 Prüfung der Verwendung und die ggf. erforderliche Aufhebung des Bewilligungsbescheides und die Rückforderung der gewährten Zuwendung gelten die VV/VV-Gk zu § 44 LHO, soweit nicht in dieser Richtlinie Abweichungen zugelassen sind.
-7.2 Bewilligungsbehörde ist die Investitions- und Förderbank Niedersachsen (NBank), Günther-WagnerAllee 12–16, 30177 Hannover. Zusätzlich wird eine fachliche Stellungnahme des NLWKN hinzugezogen.
-7.3 Die Bewilligungsbehörde stellt die für die Antragstellung, den Mittelabruf und den Verwendungsnachweis erforderlichen Formulare auf ihrer Internetseite (www.nbank.de) zur Verfügung.
-7.4 Das MU legt im Einvernehmen mit der Bewilligungsbehörde Antragsstichtage fest. Die Bekanntmachung erfolgt über die Internetseite der Bewilligungsbehörde. Ein Förderantrag gilt als rechtzeitig eingegan- gen, wenn er der Bewilligungsbehörde bis zum Ablauf des Stichtages formgerecht zugegangen ist. Die Über- mittlung elektronischer Dokumente sowie das Ersetzen der Schriftform durch die elektronische Form sind nach
+7.2
+Bewilligungsbehörde ist die Investitions- und Förderbank Niedersachsen (NBank), Günther-WagnerAllee 12–16, 30177 Hannover. Zusätzlich wird eine fachliche Stellungnahme des NLWKN hinzugezogen.
+7.3
+Die Bewilligungsbehörde stellt die für die Antragstellung, den Mittelabruf und den Verwendungsnachweis erforderlichen Formulare auf ihrer Internetseite (www.nbank.de) zur Verfügung.
+7.4
+Das MU legt im Einvernehmen mit der Bewilligungsbehörde Antragsstichtage fest. Die Bekanntmachung erfolgt über die Internetseite der Bewilligungsbehörde. Ein Förderantrag gilt als rechtzeitig eingegangen, wenn er der Bewilligungsbehörde bis zum Ablauf des Stichtages formgerecht zugegangen ist. Die Übermittlung elektronischer Dokumente sowie das Ersetzen der Schriftform durch die elektronische Form sind nach
 Maßgabe der für die elektronische Kommunikation geltenden Vorschriften des NVwVfG in seiner jeweils geltenden Fassung zulässig.
-7.5 Dem Antrag auf Zuwendung müssen folgende Unterlagen beigefügt werden:
-– Erläuterung der Projektbestandteile,
-– Finanzierungsplan (Berechnung der mit dem Zuwendungszweck zusammenhängenden Ausgaben,
+7.5
+
+Dem Antrag auf Zuwendung müssen folgende Unterlagen beigefügt werden:
+
+–
+
+Erläuterung der Projektbestandteile,
+
+–
+
+Finanzierungsplan (Berechnung der mit dem Zuwendungszweck zusammenhängenden Ausgaben,
 nach Projektbestandteilen aufgegliedert mit einer Übersicht über die beabsichtigte Finanzierung),
-– bei interkommunalen und körperschaftsübergreifenden Projekten gemäß Nummer 2.2 ein Kooperationsvertrag,
-– Zeitplanung.
-7.6 Die Auswahl der Projekte erfolgt nach einem Scoring-Verfahren, dessen Bepunktung in der Anlage
+
+–
+
+bei interkommunalen und körperschaftsübergreifenden Projekten gemäß Nummer 2.2 ein Kooperationsvertrag,
+
+–
+
+Zeitplanung.
+
+7.6
+Die Auswahl der Projekte erfolgt nach einem Scoring-Verfahren, dessen Bepunktung in der Anlage
 festgelegt ist. Bei der Bewertung der beantragten Projekte können maximal 32 Punkte vergeben werden. Die
 Mindestpunktzahl, die zur Berücksichtigung einer Förderung benötigt wird, beträgt 18 Punkte. Die Bewilligung
 erfolgt, unter Berücksichtigung der zur Verfügung stehenden Mittel, in absteigender Reihenfolge der erzielten
 Punkte aller zu einem Stichtag rechtzeitig eingegangenen zuwendungsfähigen Projekte.
+
+Nds. MBl. 2024 Nr. 578 vom 26. November 2024
 
 8. Schlussbestimmungen
 Dieser RdErl. tritt am 26.11.2024 in Kraft und mit Ablauf des 31.12.2028 außer Kraft.
@@ -106,64 +195,140 @@ An
 die Arbeitsgemeinschaft der kommunalen Spitzenverbände Niedersachsens
 den Wasserverbandstag Niedersachsen e. V.
 
+Seite 4
+
+Nds. MBl. 2024 Nr. 578 vom 26. November 2024
+
+Seite 5
+
 Anlage
 Die zu bewilligenden Anträge sollen insgesamt so ausgewählt werden, dass die folgenden Aspekte erfasst
 werden:
-Kriterium nicht vorhanden
+Kriterium
+
+nicht
+vorhanden
+
 ansatzweise
 vorhanden
-vorhanden gut vorhanden
+
+vorhanden
+
+gut vorhanden
+
 1. Fachlich fundierter Plan für die
 dargelegten Arbeitsschritte des
 Projekts
+
+nicht zuwendungsfähig
+
+nicht zuwendungsfähig
+
+10 Punkte
+
+15 Punkte
+
+–
+
+Gefährdungsanalyse
+mit veröffentlichten
+BKG-Hinweiskarten
+oder mit vorhandener 2D-Modellierung
+
+–
+
+hydraulische Modellierung (2D) gemäß
+Leitfaden Kapitel 4
+
+–
+
+Bewertung des
+Schadenspotenzials
+gemäß Leitfaden Kapitel 5
+
+–
+
+Bewertung des
+Schadenspotenzials
+gemäß Leitfaden Kapitel 5
+
+–
+
+Risikoanalyse gemäß Leitfaden Kapitel 6
+
+–
+
+Risikoanalyse gemäß Leitfaden Kapitel 6
+
+–
+
+Handlungskonzept
+gemäß Leitfaden Kapitel 7
+
+–
+
+Handlungskonzept
+gemäß Leitfaden Kapitel 7
+
+–
+
+Risikokommunikation und Einbeziehung der Öffentlichkeit gemäß Leitfaden
+Kapitel 8
+
+–
+
+Risikokommunikation und Einbeziehung der Öffentlichkeit gemäß Leitfaden Kapitel 8
 
 Hinweis:
 Ein Aufstocken auf
 bestehende Grundlagenermittlungen ist
 möglich.
-nicht zuwendungsfähig
-nicht zuwendungsfähig
-10 Punkte
-– Gefährdungsanalyse
-mit veröffentlichten
-BKG-Hinweiskarten
-oder mit vorhandener 2D-Modellierung
 
-– Bewertung des
-Schadenspotenzials
-gemäß Leitfaden Kapitel 5
-– Risikoanalyse gemäß Leitfaden Kapitel 6
-– Handlungskonzept
-gemäß Leitfaden Kapitel 7
-– Risikokommunikation und Einbeziehung der Öffentlichkeit gemäß Leitfaden
-Kapitel 8
-15 Punkte
-– hydraulische Modellierung (2D) gemäß
-Leitfaden Kapitel 4
-
-– Bewertung des
-Schadenspotenzials
-gemäß Leitfaden Kapitel 5
-– Risikoanalyse gemäß Leitfaden Kapitel 6
-– Handlungskonzept
-gemäß Leitfaden Kapitel 7
-– Risikokommunikation und Einbeziehung der Öffentlichkeit gemäß Leitfaden Kapitel 8
 2. Interkommunales
-Projekt oder kör- perschaftsübergreifender Verbund
-0 Punkte entfällt 10 Punkte
-1
-) entfällt
+Projekt oder körperschaftsübergreifender
+Verbund
+
+0 Punkte
+
+entfällt
+
+10 Punkte 1)
+
+entfällt
+
 3. Es handelt sich
 um eine kleine
-Kommune bis
-20 000 Einwohnerinnen und Einwohner
-2
-)
-0 Punkte entfällt 12 Punkte entfällt
+Kommune
+bis
+20 000 Einwohnerinnen und Einwohner2)
+
+0 Punkte
+
+entfällt
+
+12 Punkte
+
+entfällt
+
 4. Relative Betroffenheit in Hinweiskarten Starkregengefahren
-0 Punkte 0 Punkte 3 Punkte 4 Punkte
+
+0 Punkte
+
+0 Punkte
+
+3 Punkte
+
+4 Punkte
+
 1
-) Weitere Punkte möglich je Gemeinde, Samtgemeinde oder Stadt < 10 000 Einwohnerinnen und Einwohner – im interkommunalen
+
+)
+
+Weitere Punkte möglich je Gemeinde, Samtgemeinde oder Stadt < 10 000 Einwohnerinnen und Einwohner – im interkommunalen
 Verbund gibt es einen weiteren Punkt. Maximale Punktzahl 13.
+
+)
+
+Dieses Kriterium kann nicht gleichzeitig mit dem Kriterium Verbundprojekt gewertet werden.
+
 2
-) Dieses Kriterium kann nicht gleichzeitig mit dem Kriterium Verbundprojekt gewertet werden.

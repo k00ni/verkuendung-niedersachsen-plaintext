@@ -1,24 +1,24 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 30. Oktober 2024 Nummer 496
+74. (79.) Jahrgang
+
+Hannover, den 30. Oktober 2024
+
+Nummer 496
 
 Ministerium für Inneres und Sport
-
 Umsetzung der NIS-2-Richtlinie in Niedersachsen;
 Bestimmung von Zuständigkeiten
-
-
-Beschl. d. LReg v. 29.10.2024 – IT2.13- 01220- 1000- 0001-29 –
+Beschl. d. LReg v. 29.10.2024 – IT2.13-01220-1000-0001-29 –
 – VORIS 20500 –
-
 Die LReg hat in ihrer Sitzung am 29.10.2024 folgende Beschlüsse gefasst:
 1. Zuständige Behörde für das Land Niedersachsen im Sinne von Artikel 8 Abs. 1 der Richtlinie (EU)
 2022/2555 des Europäischen Parlaments und des Rates vom 14. Dezember 2022 über Maßnahmen für
 ein hohes gemeinsames Cybersicherheitsniveau in der Union, zur Änderung der Verordnung (EU)
-Nr. 910/2014 und der Richtlinie (EU) 2018/1972 sowie zur Aufhebung der Richtlinie (EU) 2016/1148 (NIS-
-2-Richtlinie) (ABl. L 333 vom 27.12.2022) ist das Niedersächsische Ministerium für Inneres und Sport.
+Nr. 910/2014 und der Richtlinie (EU) 2018/1972 sowie zur Aufhebung der Richtlinie (EU) 2016/1148 (NIS2-Richtlinie) (ABl. L 333 vom 27.12.2022) ist das Niedersächsische Ministerium für Inneres und Sport.
 2. Als Computer-Notfallteam i. S. von Artikel 10 Abs. 1 NIS-2-Richtlinie auf der Ebene der unmittelbaren
 Landesverwaltung wird die Zentralstelle für Informationssicherheit nach § 14 Niedersächsisches Gesetz
 über digitale Verwaltung und Informationssicherheit (NDIG) benannt.
+
+Herausgeber: Niedersächsische Staatskanzlei

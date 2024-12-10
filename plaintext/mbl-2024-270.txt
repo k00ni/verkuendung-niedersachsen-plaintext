@@ -1,47 +1,87 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 13. Juni 2024 Nummer 270
+74. (79.) Jahrgang
+
+Hannover, den 13. Juni 2024
+
+Nummer 270
 
 Ministerium für Inneres und Sport
-
 Internet der Polizei des Landes Niedersachsen;
 Onlinewache
-RdErl. d. MI v. 01.06.2024 – 21.25- 02830/1- 2.1 –
+RdErl. d. MI v. 01.06.2024 – 21.25-02830/1-2.1 –
 – VORIS 21021 –
+Bezug:
 
-Bezug: RdErl. v. 17.08.2020 (Nds. MBl. S. 912)
+RdErl. v. 17.08.2020 (Nds. MBl. S. 912)
 – VORIS 21021 –
 
 1. Allgemeines
-Das 2007 bei der Polizei Niedersachsen eingeführte Online- Verfahren der sog. Onlinewache hat sich bewährt und ist etablierter Bestandteil eines modernen, bürgerorientierten Auftritts der Polizei Niedersachsen.
-Es trägt den Anforderungen einer digitalisierten Gesellschaft Rechnung und zeigt insbesondere bei Entwicklungen wie der COVID-19-Pandemie, wie wichtig ein solch digitales Angebot ist. Aufgrund des Weiterentwicklungsbedarfes der niedersächsischen Onlinewache und zur Harmonisierung der digitalen, polizeilichen Angebote aller Länderpolizeien ist die Polizei Niedersachsen nunmehr auf ein bundesweites Produkt der Onlinewache umgestiegen, welches im Rahmen der Umsetzung des Onlinezugangsgesetzes durch die Länder Saarland und Rheinland -Pfalz entwickelt und den Ländern zur Nutzung zur Verfügung gestellt wurde. Für den
+Das 2007 bei der Polizei Niedersachsen eingeführte Online-Verfahren der sog. Onlinewache hat sich bewährt und ist etablierter Bestandteil eines modernen, bürgerorientierten Auftritts der Polizei Niedersachsen.
+Es trägt den Anforderungen einer digitalisierten Gesellschaft Rechnung und zeigt insbesondere bei Entwicklungen wie der COVID-19-Pandemie, wie wichtig ein solch digitales Angebot ist. Aufgrund des Weiterentwicklungsbedarfes der niedersächsischen Onlinewache und zur Harmonisierung der digitalen, polizeilichen Angebote aller Länderpolizeien ist die Polizei Niedersachsen nunmehr auf ein bundesweites Produkt der Onlinewache umgestiegen, welches im Rahmen der Umsetzung des Onlinezugangsgesetzes durch die Länder Saarland und Rheinland-Pfalz entwickelt und den Ländern zur Nutzung zur Verfügung gestellt wurde. Für den
 Betrieb gelten die nachfolgenden Regelungen.
 2. Vorgangsarten
-Die Onlinewache der Polizei Niedersachsen stellt den Nutzenden unter einem zentralen Portal (
-https://portal.onlinewache.polizei.de) eine digitale Eingabemöglichkeit zur Übermittlung von Informationen an die Polizei
+Die Onlinewache der Polizei Niedersachsen stellt den Nutzenden unter einem zentralen Portal (https://portal.onlinewache.polizei.de) eine digitale Eingabemöglichkeit zur Übermittlung von Informationen an die Polizei
 zur Verfügung. Die Polizei erhält durch diesen Service ein Mehr an Informationen, was bei Hinweisen und
 Anzeigen zu strafbaren Handlungen konkretere Ansatzpunkte für die Ermittlungen erwarten lässt.
 Folgende Eingabemöglichkeiten sind abrufbar:
-2.1 Strafanzeige erstatten
-– Diebstahl (z. B. Fahrraddiebstahl, Diebstahl an/aus Fahrzeugen, Taschendiebstahl),
-– Betrug und/oder Straftaten im Internet,
-– Sachbeschädigung,
-– Straftaten anderer Art,
-– Hass im Netz;
+2.1
 
-2.2 Weitere Vorgänge
-– Hinweisgabe (z. B. ungewöhnliche Beobachtungen),
-– Hinweise zu Korruption und Wirtschaftskriminalität ,
-– Kontaktaufnahme (z. B. allgemeines Anliegen, Feedback),
-– Informationen zu Prävention und Opferschutz,
-– Dienststellenfinder (perspektivisch).
+Strafanzeige erstatten
+–
+
+Diebstahl (z. B. Fahrraddiebstahl, Diebstahl an/aus Fahrzeugen, Taschendiebstahl),
+
+–
+
+Betrug und/oder Straftaten im Internet,
+
+–
+
+Sachbeschädigung,
+
+–
+
+Straftaten anderer Art,
+
+–
+
+Hass im Netz;
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 270 vom 13. Juni 2024
+
+2.2
+
+Seite 2
+
+Weitere Vorgänge
+–
+
+Hinweisgabe (z. B. ungewöhnliche Beobachtungen),
+
+–
+
+Hinweise zu Korruption und Wirtschaftskriminalität,
+
+–
+
+Kontaktaufnahme (z. B. allgemeines Anliegen, Feedback),
+
+–
+
+Informationen zu Prävention und Opferschutz,
+
+–
+
+Dienststellenfinder (perspektivisch).
+
 3. Bearbeitung der Vorgänge
 Die Nutzenden der Onlinewache erhalten nach Anzeigeerstattung, Hinweisgabe oder sonstiger Kontaktaufnahme zur Polizei eine Sendebestätigung mit einer Vorgangsnummer, die im weiteren Verlauf der Bearbeitung im Vorgangsbearbeitungssystem (VBS) verwendet wird. Zusätzlich ist es möglich, Dokumente und
 Bilddateien in den Vorgang zu laden.
 Erfasste Sachverhalte werden den regionalen Polizeibehörden in dem sog. „Backoffice“ der Onlinewache
-zur Bewertung präsentiert. Eine Bewertung erfolgt durch die im 24- Stunden- Betrieb besetzten Leitstellen hinsichtlich eventuell erforderlicher Sofortmaßnahmen. Weiter nehmen die Mitarbeitenden der Leitstellen eine
+zur Bewertung präsentiert. Eine Bewertung erfolgt durch die im 24-Stunden-Betrieb besetzten Leitstellen hinsichtlich eventuell erforderlicher Sofortmaßnahmen. Weiter nehmen die Mitarbeitenden der Leitstellen eine
 Qualifizierung der Anzeigen vor und initiieren anschließend den automatischen Import in das Vorgangsbearbeitungssystem NIVADIS. Auch die hochgeladenen Dateien werden nach entsprechender Bereinigung im
 PDF-Format in den Vorgang ins VBS geladen. Alternativ ist auch eine Abgabe des Sachverhalts per E-Mail
 an eine Dienststelle möglich.
@@ -50,7 +90,7 @@ Hinweise zu Korruption und Wirtschaftskriminalität kann die Nutzende über eine
 mitzuteilen. Die Steuerung bzw. Bearbeitung dieser Hinweise erfolgt unter Berücksichtigung der Richtlinie zur
 Intensivierung der Verfolgung der Korruptionsdelinquenz des Landeskriminalamtes Niedersachsen (Nummer 2.2.3; Stand 01.01.2012).
 4. Rechtliche Hinweise
-Strafanzeigen i. S. des § 158 Abs. 1 StPO sind nicht an eine Form gebunden. Online- Anzeigen sind daher
+Strafanzeigen i. S. des § 158 Abs. 1 StPO sind nicht an eine Form gebunden. Online-Anzeigen sind daher
 wie andere mündliche oder schriftliche Anzeigen zu bearbeiten. Hinsichtlich des Strafantrags gelten die Bestimmungen des § 158 Abs. 2 StPO.
 Notwendige Unterschriften sind durch die bearbeitende Dienststelle im Rahmen der laufenden Sachbearbeitung einzuholen; Merkblätter (z. B. Merkblatt über Rechte von Verletzten und Geschädigten im Strafverfahren [StP 2]) werden den Anzeigeerstattenden über die Onlinewache zum Download zur Verfügung gestellt.
 5. Evaluation

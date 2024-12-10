@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "smalot/pdfparser": "^2.11.0"
+        "spatie/pdf-to-text":"^1.54"
     },
     "autoload": {
         "psr-4": {
@@ -26,6 +26,6 @@
         }
     },
     "config": {
-        "process-timeout": 1200
+        "process-timeout": 300
     }
 }

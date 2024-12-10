@@ -1,37 +1,66 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 17. April 2024 Nummer 177
+74. (79.) Jahrgang
+
+Hannover, den 17. April 2024
+
+Nummer 177
 
 Staatliches Gewerbeaufsichtsamt Oldenburg
-
 Entscheidung nach dem BImSchG;
 Öffentliche Bekanntmachung
 (RWE Generation SE, Lingen [Ems])
 Bek. d. GAA Oldenburg v. 17.04.2024 – OL 23-128-01 –
-
-Das GAA Oldenburg hat der Firma RWE Generation SE, RWE- Platz 3, 45141 Essen, mit der Entscheidung
+Das GAA Oldenburg hat der Firma RWE Generation SE, RWE-Platz 3, 45141 Essen, mit der Entscheidung
 vom 12.03.2024 eine Genehmigung gemäß den §§ 16 und 10 BImSchG für die wesentliche Änderung des
 Gaskraftwerks Emsland durch die Errichtung und den Betrieb einer industriellen Wasserstoff-Gasturbinenanlage – H2GT-Anlage (Block E) in 49808 Lingen (Ems), Schüttorfer Straße 100, erteilt.
 Gegenstand der Änderung war die Errichtung und der Betrieb einer H2GT-Anlage (Block E) als neue Teilanlage am Standort Gaskraftwerk Emsland.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 24.04. bis einschließlich 07.05.2024 bei den folgenden Stellen eingesehen werden:
-– Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, Zimmer 433,
+–
+
+–
+
+Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 433,
 während der Dienststunden,
-montags bis donnerstags in der Zeit von 7.30 bis 16.00 Uhr,
-freitags in der Zeit von 7.30 bis 13.00 Uhr;
-– Stadt Lingen (Ems) , Neue Straße 5, 49808 Lingen (Ems), während der Öffnungszeiten,
-montags bis mittwochs in der Zeit von 9.00 bis 16.00 Uhr,
-donnerstags in der Zeit von 9.00 bis 17.00 Uhr,
-freitags in der Zeit von 9.00 bis 12.30 Uhr,
-samstags in der Zeit von 9.00 bis 12.00 Uhr.
+montags bis donnerstags in der Zeit von
+
+7.30 bis 16.00 Uhr,
+
+freitags in der Zeit von
+
+7.30 bis 13.00 Uhr;
+
+Stadt Lingen (Ems), Neue Straße 5, 49808 Lingen (Ems), während der Öffnungszeiten,
+montags bis mittwochs in der Zeit von
+
+9.00 bis 16.00 Uhr,
+
+donnerstags in der Zeit von
+
+9.00 bis 17.00 Uhr,
+
+freitags in der Zeit von
+
+9.00 bis 12.30 Uhr,
+
+samstags in der Zeit von
+
+9.00 bis 12.00 Uhr.
+
 Diese Bek. und der vollständige Genehmigungsbescheid einschließlich seiner Begründung sind auch im
 Internet unter https://www.gewerbeaufsicht.niedersachsen.de/startseite/bekanntmachungen/oldenburg_emden_osnabruck/ einsehbar.
 Gemäß § 27 i. V. m. § 20 UVPG erfolgt die Bekanntmachung auch im UVP-Portal.
 Nach der öffentlichen Bek. kann der Bescheid einschließlich Begründung bis zum Ablauf der Widerspruchsfrist von den Personen, die Einwendungen erhoben haben, beim Staatlichen Gewerbeaufsichtsamt Oldenburg,
-Theodor-Tantzen- Platz 8, 26122 Oldenburg, schriftlich oder elektronisch angefordert werden.
+Theodor-Tantzen-Platz 8, 26122 Oldenburg, schriftlich oder elektronisch angefordert werden.
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. vom 17. April 2024
+
+Seite 2
 
 Gemäß § 10 Abs. 7 und 8 BImSchG i. V. m. § 21 a der 9. BImSchV werden der verfügende Teil des Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekannt gemacht.
 Es wird darauf hingewiesen, dass der Bescheid mit dem Ende der Auslegungsfrist auch gegenüber Dritten,
@@ -40,41 +69,82 @@ Das genehmigte Vorhaben betrifft eine Anlage nach der Richtlinie 2010/75/EU des 
 der Umweltverschmutzung) – sog. Industrieemissions-Richtlinie – (ABl. L 334 vom 17.12.2010, S. 17; L 158
 vom 19.6.2012, S. 25).
 
-Anlage
+Nds. MBl. 2024 Nr. vom 17. April 2024
 
+Seite 3
+
+Anlage
 Tenor
-Der RWE Generation SE, RWE- Platz 3, 45141 Essen, wird aufgrund ihres Antrages vom 22.08.2023, zuletzt ergänzt am 06.10.2023, die Genehmigung für die wesentliche Änderung des Gaskraftwerks Emsland
+Der RWE Generation SE, RWE-Platz 3, 45141 Essen, wird aufgrund ihres Antrages vom 22.08.2023, zuletzt ergänzt am 06.10.2023, die Genehmigung für die wesentliche Änderung des Gaskraftwerks Emsland
 durch die Errichtung und den Betrieb einer industriellen Wasserstoff-Gasturbinenanlage – H2GT-Anlage
 (Block E) – erteilt.
 Gegenstand der Genehmigung
 Die neue H2GT-Anlage (Block E) als neue Teilanlage am Standort Gaskraftwerk Emsland gliedert sich in
 die drei neuen Betriebseinheiten:
-– H2-Gasturbine und Generator (BE061),
-– Nebenanlagen (BE062) und
-– Abgaskamin (BE063)
+–
+
+H2-Gasturbine und Generator (BE061),
+
+–
+
+Nebenanlagen (BE062) und
+
+–
+
+Abgaskamin (BE063)
 sowie in die zwei übergeordneten Betriebseinheiten
-– Brennstoffversorgung (BE001/ 050) und
-– Wasserver- und Abwasserentsorgung (BE002).
+
+–
+
+Brennstoffversorgung (BE001/ 050) und
+
+–
+
+Wasserver- und Abwasserentsorgung (BE002).
+
 Die genehmigte Feuerungswärmeleistung des Gaskraftwerkes Emsland von 4 026,9 MWth erhöht sich um
 circa 87 MWth. Es wird eine jährliche Betriebsdauer von maximal 1 500 Stunden genehmigt. Der Betrieb soll
 im Rahmen der beantragten Gesamtbetriebsdauer von Montag bis Sonntag und von 0.00 bis 24.00 Uhr erfolgen können.
 Standort der Anlage ist:
-Ort: 49808 Lingen (Ems)
-Straße: Schüttorfer Straße 100
-Gemarkung: Darme
-Flur: 5,6 und 7
-Flurstücke: 13/4, 38/9, 55/1 und 57/14.
+Ort:
+
+49808 Lingen (Ems)
+
+Straße:
+
+Schüttorfer Straße 100
+
+Gemarkung:
+
+Darme
+
+Flur:
+
+5,6 und 7
+
+Flurstücke:
+
+13/4, 38/9, 55/1 und 57/14.
+
 Die im Formular „Inhaltsverzeichnis“ des Antrags im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-– die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
-– die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.1 Unterschreitung der Abstände der Gebäude untereinander auf demselben Grundstück)
+–
+
+die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
+
+–
+
+die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.1 Unterschreitung der Abstände der Gebäude untereinander auf demselben Grundstück)
 wird gemäß § 66 NBauO zugelassen.
-– die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.2 Alarmierungseinrichtung, die sowohl beim Ereignis „Brand“, als auch beim Ereignis „Gaswarnung“ alarmiert) wird gemäß § 66 NBauO zugelassen.
+
+–
+
+die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.2 Alarmierungseinrichtung, die sowohl beim Ereignis „Brand“, als auch beim Ereignis „Gaswarnung“ alarmiert) wird gemäß § 66 NBauO zugelassen.
+
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
 BImSchG nicht von der Genehmigung eingeschlossen werden.
 Kostenentscheidung
 Die Kosten dieses Verfahrens trägt die Antragstellerin.
-
 Rechtsbehelfsbelehrung
-Gegen diese Entscheidung kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen- Platz 8, 26122 Oldenburg, erhoben werden.
+Gegen diese Entscheidung kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Staatlichen Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, erhoben werden.

@@ -1,40 +1,139 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 18. März 2024 Nummer 138
+74. (79.) Jahrgang
+
+Hannover, den 18. März 2024
+
+Nummer 138
 
 Ministerium für Inneres und Sport
 Berichtigung
 des RdErl. Digitalfunk;
-Operativ- Taktische Adressen und Funkrufnamen
+Operativ-Taktische Adressen und Funkrufnamen
 für den Brand- und Katastrophenschutz
 sowie den Rettungsdienst
-
 Der RdErl. des MI vom 01.03.2024 (Nds. MBl. 2024 Nr. 125) – VORIS 21100 – wird wie folgt berichtigt:
 Nummer 2.3 erhält folgende Fassung:
-„2.3 Die 24 Ziffernfolgen werden aus Gründen der Übersichtlichkeit in fünf Blöcke eingeteilt:
+„2.3
+
+Die 24 Ziffernfolgen werden aus Gründen der Übersichtlichkeit in fünf Blöcke eingeteilt:
 Zeichen
-01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
-Blöcke
-1 2 3 4.1 4.2 4.3 5
-Bundesland
-Behörden - und Organisations
--
-kennzeichnung
+
+01
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+4.1
+
+Behörden- und
+Organisationskennzeichnung
 
 Regionale Zuordnung
 
 Örtliche Zuordnung
-
-und Fahrzeug
-- oder
+und Fahrzeug- oder
 Funktionskennung
 
-Funktionszuordnung
+4.2
+
+4.3
+
+5
+
+Ergänzung
+
+3
 
 Ordnungskennung
 
-Ergänzung
+2
+
+Funktionszuordnung
+
+1
+
+Bundesland
+
+Blöcke
+
 Beispiel
-N I F W C E 1 1 - 1 9 E L W 1 0 1“
+N
+
+I
+
+F
+
+W
+
+C
+
+E
+
+1
+
+1
+
+-
+
+1
+
+9
+
+E
+
+L
+
+W
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+1
+
+0
+
+1“

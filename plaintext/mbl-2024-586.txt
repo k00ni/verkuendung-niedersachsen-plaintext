@@ -1,16 +1,19 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 28. November 2024 Nummer 586
+74. (79.) Jahrgang
+
+Hannover, den 28. November 2024
+
+Nummer 586
 
 Ministerium für Inneres und Sport
-
 Polizeiliche Kriminalstatistik; Erfassung und Speicherung
-RdErl. d. MI v. 20.11.2024 – I1/3-11/4-23.12- 12337/1-1 –
+RdErl. d. MI v. 20.11.2024 – I1/3-11/4-23.12-12337/1-1 –
 – VORIS 21021 –
+Bezug:
 
-Bezug: RdErl. d. Nds. MdI v. 28.12.1970 (Nds. MBl. 1971 S. 60, PolNBl. 1971 S. 119)
+RdErl. d. Nds. MdI v. 28.12.1970 (Nds. MBl. 1971 S. 60, PolNBl. 1971 S. 119)
 – VORIS 21021 00 00 32 002 –
 
 Seit dem 01.01.1971 wird die Polizeiliche Kriminalstatistik (PKS) in allen Bundesländern nach einheitlichen
@@ -26,12 +29,18 @@ aus dem niedersächsischen Vorgangsbearbeitungssystem (VBS) NIVADIS in die PKS A
 übertragen.
 Für den Inhalt und die Richtigkeit der erfassten und zu übertragenden Daten ist die Dienststelle zuständig,
 die den Ermittlungsvorgang abschließend bearbeitet. Die Daten haben das Ergebnis des Ermittlungsverfahrens zum Zeitpunkt der Abgabe des Vorgangs an die Strafverfolgungsbehörde oder das Gericht wiederzugeben. Die inhaltliche Ausgestaltung der Datenfelder richtet sich nach dem jeweils gültigen
-PKS – Manuals zur INPOL- A PKS Einzeldatensatzanlieferung.
+PKS – Manuals zur INPOL-A PKS Einzeldatensatzanlieferung.
 Die fachliche Verantwortung obliegt dem LKA NI. Sollten keine sicherheitsrelevanten Bedenken entgegenstehen, haben die Dienststellen dem LKA NI alle zur Fehlerbeseitigung erforderlichen Auskünfte und Berechtigungen zu erteilen und die als fehlerhaft beanstandeten Belege unverzüglich zu berichtigen und zurückzusenden.
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 586 vom 28. November 2024
+
+Seite 2
 
 Das LKA NI hat die statistischen Daten zu sammeln, aufzubereiten und die für die PKS erforderlichen
 landes- und bundesweiten Produkte zu prüfen und ggf. bereitzustellen.
-Dieser R dErl. tritt am 01.01.2025 in Kraft. Der Bezugserlass tritt mit Ablauf des 31.12.2024 außer Kraft.
+Dieser RdErl. tritt am 01.01.2025 in Kraft. Der Bezugserlass tritt mit Ablauf des 31.12.2024 außer Kraft.
 
 An die
 niedersächsischen Polizeidienststellen

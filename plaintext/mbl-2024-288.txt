@@ -1,16 +1,17 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 26. Juni 2024 Nummer 288
+74. (79.) Jahrgang
+
+Hannover, den 26. Juni 2024
+
+Nummer 288
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Vorläufige Sicherung des Überschwemmungsgebietes der Remte
 im Landkreis Hameln-Pyrmont
 Bek. d. NLWKN v. 26.6.2024 – 62023/02/58 –
-
-Der NLWKN hat die Bereiche des Landkreises Hameln- Pyrmont, die von einem hundertjährlichen Hochwasser des Gewässes Remte überschwemmt werden, ermittelt und in Arbeitskarten dargestellt.
+Der NLWKN hat die Bereiche des Landkreises Hameln-Pyrmont, die von einem hundertjährlichen Hochwasser des Gewässes Remte überschwemmt werden, ermittelt und in Arbeitskarten dargestellt.
 Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Die Überschwemmungsgebiete sind ab dem
 Tag nach dieser Bek. gemäß § 76 Abs. 3 WHG vom 31.07.2009 (BGBl. I S. 2585), zuletzt geändert durch
 Artikel 7 des Gesetzes vom 22.12.2023 (BGBl. 2023 I Nr. 409), i. V. m. § 115 NWG vom 19.02.2010 (Nds.
@@ -19,7 +20,7 @@ gesichert. Es gelten gemäß § 78 WHG die Verbote und Genehmigungsvorbehalte f�
 Das Überschwemmungsgebiet erstreckt sich auf das Gebiet des Fleckens Coppenbrügge und ist in der mit
 veröffentlichten Übersichtskarte (Anlage) im Maßstab 1 : 25 000 dargestellt. Die Arbeitskarten im Maßstab
 1 : 5 000 (Blatt 1 bis 3) werden bei dem
-Landkreis Hameln- Pyrmont,
+Landkreis Hameln-Pyrmont,
 Süntelstraße 9,
 31785 Hameln,
 aufbewahrt und können ab dem Tag nach dieser Bek. während der Dienststunden dort kostenlos eingesehen
@@ -33,7 +34,13 @@ An der Scharlake 39,
 31135 Hildesheim
 oder bei dem
 Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz,
-Direktion – Geschäftsbereich VI – ,
+Direktion – Geschäftsbereich VI –,
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 288 vom 26. Juni 2024
+
+Seite 2
 
 Im Dreieck 12,
 26127 Oldenburg
@@ -44,37 +51,60 @@ Am Sportplatz 23,
 26506 Norden,
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten -niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
-Blatt 1
+Niedersächsischer Landesbetrieb
+für Wasserwirtschaft, Küstenund Naturschutz
+
 Blatt 2
-Blatt 3
-0 0,5 1 1,5 20,25 Kilometer
-Hildesheim, 14.05.2024
-Bek. d. NLWKN v. 26.06.2024
-AZ: 62023/2/58
+
 Vorläufige Sicherung
 des
 Überschwemmungsgebietes
 der Remte
 im Landkreis Hameln-Pyrmont
-Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küsten-
-und Naturschutz
-±
-1:25.000
 Übersichtskarte
+Bek. d. NLWKN v. 26.06.2024
+AZ: 62023/2/58
+
 Legende
 Blattschnitte der vorläufigen Sicherung (M 1:5.000)
+
+Blatt 3
+
 Vorläufig gesichertes Überschwemmungsgebiet
 (soweit nicht bereits festgesetzt)
+
 Nachrichtlich
+
 bereits vorläufig gesicherte Überschwemmungsgebiete
 bereits festgesetzte Überschwemmungsgebiete
 Verwaltungsgrenzen
-Gemeindegrenze
 Landkreisgrenze
 Samtgemeindegrenze
-„Quelle: Auszug aus den Geodaten des Landesamtes für "
+Gemeindegrenze
+
+±
+
+Blatt 1
+
+1:25.000
+
+0
+
+0,25
+
+0,5
+
+1
+
+1,5
+
+„Quelle: Auszug aus den Geodaten des Landesamtes für
 Geoinformation und Landesvermessung Niedersachsen,
 © 2024
+
+Hildesheim, 14.05.2024
+
+2 Kilometer
+"

@@ -1,56 +1,62 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 14. Mai 2024 Nummer 223
+74. (79.) Jahrgang
+
+Hannover, den 14. Mai 2024
+
+Nummer 223
 
 Ministerium für Umwelt, Energie und Klimaschutz
-
 Mengenmäßige Bewirtschaftung des Grundwassers
 RdErl. d. MU v. 23.04.2024 – 23-62011/010 –
 – VORIS 28200 –
+Bezug:
 
-Bezug: RdErl. v. 06.03.2018 (Nds. MBl. S. 170), geändert durch
+RdErl. v. 06.03.2018 (Nds. MBl. S. 170), geändert durch
 RdErl. v. 20.12.2023 (Nds. MBl. S. 1126)
 – VORIS 28200 –
 
 1. Regelungsinhalt
 Dieser RdErl. dient der landesweiten Einhaltung der Anforderungen, die sich aus den Zielen hinsichtlich
-des mengenmäßigen Zustande s des Grundwassers gemäß Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
+des mengenmäßigen Zustandes des Grundwassers gemäß Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
 Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S.1), zuletzt geändert durch Richtlinie
 2014/101/EU der Kommission vom 30.10.2014 (ABl. L 311 vom 31.10.2014, S. 32) – im Folgenden: WRRL –
 und den entsprechenden nationalen Regelungen ergeben. Die Einhaltung von Bewirtschaftungszielen bezieht
 sich auf die Ebene von Grundwasserkörpern. Dieser RdErl. enthält Regelungen, die im wasserrechtlichen
 Zulassungsverfahren für Grundwasserentnahmen i. S. eines einheitlichen Vollzugs von Bedeutung sind.
 Bei Entnahmen aus dem Grundwasser sind die in den Nummern 2 bis 7 enthaltenen Vorgaben zu beachten.
-2. Bekanntgabe des landesweiten Bewirtschaftungsrahmen s für das Grundwasser
+2. Bekanntgabe des landesweiten Bewirtschaftungsrahmens für das Grundwasser
 Das Grundwasser ist so zu bewirtschaften, dass die in § 6 WHG genannten Grundsätze und die in § 47
 Abs. 1 WHG genannten Bewirtschaftungsziele eingehalten werden. Als eines der Bewirtschaftungsziele gilt
 es, den guten mengenmäßigen Zustand des Grundwassers zu erhalten. In § 4 der GrwV werden die Kriterien
-zur Einstufung des mengenmäßigen Zustande s genannt. Bewirtschaftungseinheiten sind die Grundwasserkörper (GWK).
+zur Einstufung des mengenmäßigen Zustandes genannt. Bewirtschaftungseinheiten sind die Grundwasserkörper (GWK).
 Ein Grundwasserkörper ist gemäß § 3 Nr. 6 WHG ein abgegrenztes Grundwasservolumen innerhalb eines
 Grundwasserleiters oder mehrerer Grundwasserleiter. Die oberirdischen Grenzen der Grundwasserkörper
-sind der Anlage 1 sowie dem MU-Umweltkartenserver (
-https://www.umwelt.niedersachsen.de/startseite/service/umweltkarten/interaktive- umweltkarten- der-umweltverwaltung- 8669.html) z
-gen Wasserbehörden bewirtschaften die Grundwasserkörper gemeinsam.
-Entsprechend dem Ziel eines guten mengenmäßigen Zustande s – bezogen auf die Bewirtschaftungseinheit der Grundwasserkörper – wurde die nutzbare Grundwasserda rgebotsreserve unter Berücksichtigung der
+sind der Anlage 1 sowie dem MU-Umweltkartenserver (https://www.umwelt.niedersachsen.de/startseite/service/umweltkarten/interaktive-umweltkarten-der-umweltverwaltung-8669.html) zu entnehmen. Die zuständigen Wasserbehörden bewirtschaften die Grundwasserkörper gemeinsam.
+Entsprechend dem Ziel eines guten mengenmäßigen Zustandes – bezogen auf die Bewirtschaftungseinheit der Grundwasserkörper – wurde die nutzbare Grundwasserdargebotsreserve unter Berücksichtigung der
+Herausgeber: Niedersächsische Staatskanzlei
 
-Kriterien gemäß § 4 GrwV landesweit mit einem Abschätzverfahren ermittelt; sie ist in der Anlage 2 als „maßgebliche nutzbare Grundwasserdargebot sreserve“ der Grundwasserkörper aufgeführt.
-Die nutzbare Grundwasserdargebotsreserve wird für mittlere Verhältnisse (Spalte H) für den Projektionszeitraum 2031– 2060 angegeben. Damit finden Klimawandelszenarien für die nahe Zukunft Berücksichtigung.
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 2
+
+Kriterien gemäß § 4 GrwV landesweit mit einem Abschätzverfahren ermittelt; sie ist in der Anlage 2 als „maßgebliche nutzbare Grundwasserdargebotsreserve“ der Grundwasserkörper aufgeführt.
+Die nutzbare Grundwasserdargebotsreserve wird für mittlere Verhältnisse (Spalte H) für den Projektionszeitraum 2031–2060 angegeben. Damit finden Klimawandelszenarien für die nahe Zukunft Berücksichtigung.
 Die entscheidende Bewirtschaftungsgröße ist die maßgebliche nutzbare Grundwasserdargebotsreserve
 (Spalte K). Sie ergibt sich bei einem Teil der Grundwasserkörper dadurch, dass die nutzbare Grundwasserdargebotsreserve für mittlere Verhältnisse im Rahmen von Trendbetrachtungen modifiziert wurde.
 Um wegen erwartbarer Trockenperioden eine zusätzliche Orientierung zu schaffen, wurde auch eine nutzbare Grundwasserdargebotsreserve für trockene Verhältnisse abgeschätzt. Auf Grundlage der Abschätzung
 der nutzbaren Grundwasserdargebotsreserven findet eine Klassifizierung in drei Stufen statt; diese veranschaulicht, inwieweit in den Grundwasserkörpern jeweils überwiegend eine nutzbare Dargebotsreserve für
 mittlere Verhältnisse vorhanden ist (Spalte J). Ergänzend ist diese Klassifizierung in der Anlage 3 (Klassifizierung der Grundwasserkörper) dargestellt. Sie wird unter Nummer 3.2 näher erläutert.
 Die Beschreibung der „Verfahrensweise zur Abschätzung der nutzbaren Dargebotsreserve“ sowie alle Anlagen zu diesem RdErl. stehen auf der Internetseite des MU unter www.umwelt.niedersachsen.de und dort
-über den Pfad „Wasser > Grundwasser > Grundwasser-Menge/ -Stand > Erlass Mengenbewirtschaftung“ zur
+über den Pfad „Wasser > Grundwasser > Grundwasser-Menge/-Stand > Erlass Mengenbewirtschaftung“ zur
 Verfügung.
 Die Ergebnisse gemäß Anlage 2 und Anlage 3 beschreiben den Bewirtschaftungsrahmen auf Ebene der
 Grundwasserkörper. Ausgehend von der rasterbasierten Verfahrensweise werden als zusätzliche Information
 auf Ebene der Amtsbezirke der unteren Wasserbehörden (Grundwasserteilkörper) Angaben zur maßgeblichen
-nutzbaren Grundwasserdargebotsreserve bekannt gemacht (siehe Anlage 4). Die Grundwassert eilkörper sind
+nutzbaren Grundwasserdargebotsreserve bekannt gemacht (siehe Anlage 4). Die Grundwasserteilkörper sind
 in Anlage 5 dargestellt.
-In den Anlagen 3 und 5 sind die Grundwasserkörper - und Teilkörpergrenzen mit ihrer Umsetzung auf das
+In den Anlagen 3 und 5 sind die Grundwasserkörper- und Teilkörpergrenzen mit ihrer Umsetzung auf das
 Raster (500 m x 500 m) dargestellt.
 Der beschriebene Bewirtschaftungsrahmen soll dazu beitragen, dass nicht durch einzelne Nutzungen oder
 die Summe von Nutzungen der gute mengenmäßige Zustand gefährdet wird. Das Erfordernis einer wasserrechtlichen Erlaubnis oder Bewilligung (§ 8 WHG) für eine Grundwasserbenutzung im Einzelfall bleibt davon
@@ -63,8 +69,7 @@ unter anderem zu prüfen, ob die Ziele hinsichtlich der mengenmäßigen Bewirtsc
 WHG i. V. m. § 4 Abs. 2 GrwV eingehalten oder künftig erreicht werden können.
 Um die Berücksichtigung der vorgenannten Anforderungen in den Zulassungsverfahren zu erleichtern, ist
 landesweit für die zu bewirtschaftenden Grundwasserkörper die nutzbare Grundwasserdargebotsreserve mit
-einem vom
-Gewässerkundlichen Landesdienst (GLD) dokumentierten Abschätzverfahren ermittelt worden
+einem vom Gewässerkundlichen Landesdienst (GLD) dokumentierten Abschätzverfahren ermittelt worden
 und in den Anlagen 2 und 3 dargestellt. Ergänzend wurden auf Basis der rasterbasierten Methode zur Abschätzung der nutzbaren Grundwasserdargebotsreserve Daten auch auf Ebene der Teilkörper ermittelt und
 Angaben zur maßgeblichen nutzbaren Grundwasserdargebotsreserve auf Ebene der Grundwasserteilkörper
 der unteren Wasserbehörden in Anlage 4 dargestellt.
@@ -72,9 +77,13 @@ Die Ziele hinsichtlich der mengenmäßigen Bewirtschaftung eines Grundwasserkör
 WHG sollen grundsätzlich dadurch erreicht werden, dass die Summe aller Benutzungen, die künftig zusätzlich
 zu den bereits zugelassenen (Anlage 2, Spalte G) erlaubt bzw. bewilligt werden und die sich auf die Grundwassermenge auswirken, die in Anlage 2, Spalte K dargestellte maßgebliche nutzbare Grundwasserdargebotsreserve im jeweiligen Grundwasserkörper nicht überschreitet. Die genannte Zielsetzung ist bei der mengenmäßigen Bewirtschaftung des Grundwassers durch die unteren Wasserbehörden zu beachten. Zusätzlich
 
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 3
+
 sind im Einzelfall die örtlichen Auswirkungen einer Grundwassernutzung nach den unter Nummer 5 dargestellten Kriterien zu prüfen.
 Die Angaben zur maßgeblichen nutzbaren Grundwasserdargebotsreserve auf der Ebene von Teilkörpern,
-die in Anlage 4 enthalten sind, sollen ( wie in der Vergangenheit) die unteren Wasserbehörden bei der Umsetzung der vorstehenden, auf Grundwasserkörper bezogenen Vorgabe unterstützen. Eine Überschreitung der
+die in Anlage 4 enthalten sind, sollen (wie in der Vergangenheit) die unteren Wasserbehörden bei der Umsetzung der vorstehenden, auf Grundwasserkörper bezogenen Vorgabe unterstützen. Eine Überschreitung der
 maßgeblichen nutzbaren Grundwasserdargebotsreserve, die die Anlage 4 für das Gebiet einer unteren Wasserbehörde ausweist, kommt demnach in Betracht, wenn dabei die Zielvorgabe auf der Grundwasserkörperebene gewahrt bleibt. Dies setzt zum einen eine Vereinbarung unter den unteren Wasserbehörden, die an
 dem Grundwasserkörper beteiligt sind, über eine veränderte Aufteilung voraus. Da die Teilkörpermengen auf
 der Basis eines rasterbasierten Ansatzes ermittelt wurden, wird zum anderen dezidiert empfohlen, im Fall
@@ -84,70 +93,91 @@ Aufgrund des Bearbeitungsmaßstabes (Grundwasserkörper oder Teilkörper) wurden
 Abs. 2 Nr. 2 GrwV bei der Abschätzung der nutzbaren Grundwasserdargebotsreserve nur allgemein berücksichtigt. Eine Ableitung für konkrete einzelne Zulassungsverfahren zu diesen Zielaspekten ist auf dieser
 Grundlage daher nicht möglich.
 Bei der Prüfung eines Wasserrechtsantrags sind daher in einem gesonderten Fachbeitrag die konkreten
-örtlichen Auswirkungen ergänzend daraufhin zu bewerten, ob eine Verschlechterung des Zustande s des jeweiligen Grundwasserkörpers oder nach den Kriterien des § 4 Abs. 2 Nr. 2 GrwV ein sonstiger Konflikt mit den
+örtlichen Auswirkungen ergänzend daraufhin zu bewerten, ob eine Verschlechterung des Zustandes des jeweiligen Grundwasserkörpers oder nach den Kriterien des § 4 Abs. 2 Nr. 2 GrwV ein sonstiger Konflikt mit den
 Bewirtschaftungszielen in Betracht kommt („Fachbeitrag WRRL“). Der Inhalt einer solchen Einzelfallprüfung
-ist – über die allgemeinen Aussagen unter Nummer 5 hinaus – nicht Gegenstand dieses Rd Erl. Auf entsprechende Veröffentlichungen wird in diesem Kontext verwiesen (u. a. „Arbeitshilfe zur Berücksichtigung der Bewirtschaftungsziele für Oberflächengewässer im Rahmen von Zulassungsverfahren für Grundwasserentnahmen“, Oberirdische Gewässer Band 43, NLWKN [
-https://www.nlwkn.niedersachsen.de/fliessgewaesser/veroeffentlichungen- zum-thema-fliegewaesser-zum-downloaden- 150818.html] und „ Niedersächsischer Beitrag zu
-den Maßnahmen programmen 2021 bis 2027 der Flussgebiete Elbe, Weser, Ems und Rhein“ , S. 37
-[https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
-128758.html]).
+ist – über die allgemeinen Aussagen unter Nummer 5 hinaus – nicht Gegenstand dieses RdErl. Auf entsprechende Veröffentlichungen wird in diesem Kontext verwiesen (u. a. „Arbeitshilfe zur Berücksichtigung der Bewirtschaftungsziele für Oberflächengewässer im Rahmen von Zulassungsverfahren für Grundwasserentnahmen“, Oberirdische Gewässer Band 43, NLWKN [https://www.nlwkn.niedersachsen.de/fliessgewaesser/veroeffentlichungen-zum-thema-fliegewaesser-zum-downloaden-150818.html] und „Niedersächsischer Beitrag zu
+den Maßnahmenprogrammen 2021 bis 2027 der Flussgebiete Elbe, Weser, Ems und Rhein“, S. 37
+[https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane-und-massnahmenprogramme-fur-den-zeitraum-2021-bis-2027128758.html]).
 Bei allen Wasserrechtsanträgen für Entnahmen aus dem Grundwasser muss das Einzugsgebiet sicher
-bestimmt werden, um eine klare Zuordnung der Entnahmemengen zu den Grundwasserkörpern sicherzustel- len. Wenn bei größeren Entnahmemengen wesentliche Auswirkungen auf den Wasserhaushalt zu erwarten
+bestimmt werden, um eine klare Zuordnung der Entnahmemengen zu den Grundwasserkörpern sicherzustellen. Wenn bei größeren Entnahmemengen wesentliche Auswirkungen auf den Wasserhaushalt zu erwarten
 sind oder bei komplexen hydrogeologischen Verhältnissen ist für die Bestimmung des Einzugsgebietes und
-für die Bewertung der Auswirkungen einer Entnahme von Grundwasser auf den Grundwasserhaushalt in der Regel ein Grundwassermodell zu fordern. Sofern die Datenlage (z. B. Messnetz) und daraus abgeleitete Erkenntnisse hinreichend belastbare Aussagen über die Auswirkungen einer zukünftigen Entnahme von Grund- wasser zulassen, kann auf ein Grundwassermodell verzichtet werden.
-Die grundsätzlichen hydrogeologischen und bodenkundlichen Anforderungen an Anträge zur Grundwasserentnahme sind den GeoBerichten 15 des LBEG (
-https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geoberichte/geoberichte- 857.html) z
-diese Anforderungen in den Geofakten 3 ( https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geofakten/geofakten- 872.html) u den GeoBerichten 15 des LBEG spezifiziert.
+für die Bewertung der Auswirkungen einer Entnahme von Grundwasser auf den Grundwasserhaushalt in der
+Regel ein Grundwassermodell zu fordern. Sofern die Datenlage (z. B. Messnetz) und daraus abgeleitete Erkenntnisse hinreichend belastbare Aussagen über die Auswirkungen einer zukünftigen Entnahme von Grundwasser zulassen, kann auf ein Grundwassermodell verzichtet werden.
+Die grundsätzlichen hydrogeologischen und bodenkundlichen Anforderungen an Anträge zur Grundwasserentnahme sind den GeoBerichten 15 des LBEG (https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geoberichte/geoberichte-857.html) zu entnehmen. Für die Feldberegnung werden
+diese Anforderungen in den Geofakten 3 (https://www.lbeg.niedersachsen.de/karten_daten_publikationen/publikationen/geofakten/geofakten-872.html) und in den GeoBerichten 15 des LBEG spezifiziert.
 3.2 Berücksichtigung der Klassifizierung der nutzbaren Grundwasserdargebotsreserve für zusätzliche
 Grundwasserentnahmen
 3.2.1 Klassifizierung
 Die Prüfung zusätzlicher Entnahmen bezüglich des Bewirtschaftungsrahmens erfolgt anhand der „maßgeblichen nutzbaren Grundwasserdargebotsreserve“, der grundsätzlich mittlere Verhältnisse zugrunde liegen.
 Im Zusammenhang mit dem Klimawandel wird eine Zunahme von Trockenperioden erwartet, das heißt,
-eine Zunahme von aufeinanderfolgenden Jahren mit unterdurchschnittlicher Grundwasserneubildung. Solche Trockenperioden wirken sich unterschiedlich stark auf die Grundwasserkörper aus. Um zu veranschaulichen,
+eine Zunahme von aufeinanderfolgenden Jahren mit unterdurchschnittlicher Grundwasserneubildung. Solche
+Trockenperioden wirken sich unterschiedlich stark auf die Grundwasserkörper aus. Um zu veranschaulichen,
 
-wie sensibel d ie einzelnen Grundwasserkörper diesbezüglich e ingeschätzt w erden, w urde eine Klassifizierung
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 4
+
+wie sensibel die einzelnen Grundwasserkörper diesbezüglich eingeschätzt werden, wurde eine Klassifizierung
 vorgenommen.
-Die Abschätzung der nutzbaren Grundwasserdargebotsreserve zum Zweck der Klassifizierung für den Projektionszeitraum 2031– 2060 erfolgt auf Basis von Rasterzellen (500 m × 500 m). In jeder Rasterzelle ist eine
+Die Abschätzung der nutzbaren Grundwasserdargebotsreserve zum Zweck der Klassifizierung für den Projektionszeitraum 2031–2060 erfolgt auf Basis von Rasterzellen (500 m × 500 m). In jeder Rasterzelle ist eine
 nutzbare Dargebotsreserve für trockene und mittlere Verhältnisse berechnet worden. Die trockenen Verhältnisse ergeben sich aus dem 15er-Perzentil des entsprechenden vieljährigen Zeitabschnitts. Der jeweilige Anteil an Reserven in den Rasterzellen, die zu einem Grundwasserkörper gehören, spiegelt sich aggregiert in
 der Klassifizierung der Grundwasserkörper (siehe Tabelle) wider. Das Vorgehen ist in der „Verfahrensweise
 zur Abschätzung der nutzbaren Dargebotsreserve“ beschrieben. Die Klassifizierung der nutzbaren Grundwasserdargebotsreserve auf Ebene der Grundwasserkörper ist der Anlage 3 sowie den Spalten I und J in der
-Anlage 2*
-)
-zu entnehmen.
-Klassifizierung d er nutzbaren G rundwasserdargebotsreserve a uf Ebene d er Grundwass erkörper
-Klassifizierung Hinweise für Wasserrechtsverfahren mit zusätzlichen Entnahmen; Prüfbedarf
+Anlage 2*) zu entnehmen.
+Klassifizierung der nutzbaren Grundwasserdargebotsreserve auf Ebene der Grundwasserkörper
+Klassifizierung
+
+Hinweise für Wasserrechtsverfahren mit zusätzlichen Entnahmen; Prüfbedarf
+
+1 – überwiegend nutzbare GWDargebotsreserve für mittlere Verhältnisse vorhanden
+
+Keine besonderen Anforderungen
+
+2 – überwiegend keine nutzbare GW-Dargebotsreserve
+für mittlere Verhältnisse
+vorhanden
+
+Regionale Betrachtungen erforderlich
+
+Geobericht 15
+
+Geobericht 15
+Trockenperioden sind zu berücksichtigen
+
+3 – nutzbare GW-Dargebotsreserve für mittlere Verhältnisse fast vollständig erschöpft
+
 Bedeutung für zusätzliche
 Grundwasserentnahmen; potentieller Regelungsbedarf
-1 – überwiegend nutzbare GWDargebotsreserve für mittlere Verhältnisse vorhanden
-Keine besonderen Anforderungen
-Geobericht 15
-2 – überwiegend keine nutzbare GW-Dargebotsreserve
-für mittlere Verhältnisse vorhanden
-Regionale Betrachtungen erforderlich
-Geobericht 15
-Trockenperioden sind zu berücksichtigen
-Bei einer Einordnung i n die Klasse
-2 sind R egelungen im Zulassungsbescheid möglich und ggf. erforderlich, die Schutzmaßnahmen in
-Troc
-kenperioden vorsehen.
-3 – nutzbare GW-Dargebotsreserve für mittlere Verhältnisse fast vollständig erschöpft
+
 Überschreitungen nur im Einzelfall möglich, z. B. nicht berücksichtigte unterirdische Zuflüsse
+
+Bei einer Einordnung in die Klasse
+2 sind Regelungen im Zulassungsbescheid möglich und ggf. erforderlich, die Schutzmaßnahmen in
+Trockenperioden vorsehen.
+
+Regelungen über Schutzmaßnahmen in Trockenperioden erforderlich.
+
 Geobericht 15
 Trockenperioden sind zu berücksichtigen
-Regelungen über Schutzmaßnahmen in Trockenperioden erforder- lich.
+
 3.2.2 Relevanz im Wasserrechtsverfahren
 Für künftige zusätzliche Entnahmen, über die zugelassenen hinaus (siehe Anlage 2 Spalte G), ergeben
 sich anhand der Klassifizierung zusätzlich Hinweise, die bei den Wasserrechtsverfahren zu beachten sind.
 Bei der Klassifizierung 2 sind nach der mittleren Spalte der vorstehenden Tabelle im Wasserrechtsverfahren Trockenperioden besonders zu berücksichtigen. In diesem Zusammenhang wird auf die ökologischen
+
 *)
-Bis zu einem Mittelwert < 1,5 nach Aggregation der Rasterzellen (siehe Spalte I der Anlage 2) ist eine nutzbare Dargebotsres
-erve
+
+Bis zu einem Mittelwert < 1,5 nach Aggregation der Rasterzellen (siehe Spalte I der Anlage 2) ist eine nutzbare Dargebotsreserve
 bei trockenen Verhältnissen überwiegend vorhanden.
+
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 5
 
 Auswirkungen der Nutzung abgestellt. Das heißt, dass bezüglich ökologischer Auswirkungen (insbesondere
 auf Biotope oder Oberflächengewässer) ein Prüfbedarf besonders nahe liegt.
-Bei einer Einordnung in die Klasse 2 sind Regelungen im Zulassungsbescheid für zusätzliche Entnahmen ,
-über die zugelassenen hinaus (siehe Anlage 2 Spalte G ), möglich und ggf. erforderlich, die Schutzmaßnahmen
+Bei einer Einordnung in die Klasse 2 sind Regelungen im Zulassungsbescheid für zusätzliche Entnahmen,
+über die zugelassenen hinaus (siehe Anlage 2 Spalte G), möglich und ggf. erforderlich, die Schutzmaßnahmen
 in Trockenperioden vorsehen. Im Rahmen des Monitorings wird die Festlegung von Wasserständen an Beobachtungsbrunnen empfohlen, die im Fall einer Trockenperiode die Nutzung begrenzen.
 Bei mit Klasse 3 bewerteten Grundwasserkörpern ist das nutzbare Grundwasserdargebot für mittlere Verhältnisse fast vollständig erschöpft. Nach Bewertung gemäß der WRRL für den Bewirtschaftungsplan 2021
 bis 2027 befinden sich alle Grundwasserkörper in Niedersachsen in einem mengenmäßig guten Zustand.
@@ -169,13 +199,17 @@ der Klassen 2 und 3 die Spielräume zur Gewässerbewirtschaftung vergrößern. G
 4. Prüfung einer Überschreitung der nach dem Abschätzverfahren ermittelten maßgeblichen
 nutzbaren Grundwasserdargebotsreserve
 4.1 Allgemeines
-Wenn aufgrund vorliegender Ant räge eine Überschreitung der nach dem Abschätzverfahren ermittelten
+Wenn aufgrund vorliegender Anträge eine Überschreitung der nach dem Abschätzverfahren ermittelten
 maßgeblichen nutzbaren Grundwasserdargebotsreserve eines Grundwasserkörpers (Anlage 2) erwartet wird,
 ist für den gesamten Grundwasserkörper zu prüfen, ob die Ziele hinsichtlich der mengenmäßigen Bewirtschaftung gemäß § 47 Abs. 1 WHG auch noch bei höheren Entnahmen von Grundwasser eingehalten oder künftig
 erreicht werden können.
 Diesbezügliche Untersuchungen können in geeigneten Konstellationen auch für abgegrenzte Gebiete unterhalb der Grundwasserkörper-Ebene angewendet werden (z. B. für einen oder mehrere Teilkörper). Zu der
 Frage, ob eine Konstellation geeignet ist, ist der GLD zu beteiligen.
 Eine Verpflichtung zur Durchführung von Untersuchungen i. S. der Nummern 4.2 und 4.4 besteht nicht.
+
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 6
 
 4.2 Anfrage beim GLD
 Sofern in einem Teilkörper ein konkreter Bedarf zur Wasserentnahme über die mit dem Abschätzverfahren
@@ -190,7 +224,7 @@ z. B. mittels Modellberechnungen, müssen die Auswirkungen der beantragten Entna
 auf den gesamten Untersuchungsraum (z. B. ein oder mehrere Teilkörper, Grundwasserkörper) beurteilen
 lassen. Bei Verfahren gemäß Nummer 2.1.1.3 des Bezugserlasses ist der GLD zu beteiligen. Das MU ist vom
 GLD über die Absicht und das Ergebnis der Überprüfung zu unterrichten.
-4.4 Mengenbewirtschaftungsmodell de r Wasserbehörde
+4.4 Mengenbewirtschaftungsmodell der Wasserbehörde
 Erstellt eine zuständige Wasserbehörde ein eigenes Mengenbewirtschaftungsmodell oder Grundwasserströmungsmodell zur Ermittlung einer abweichenden nutzbaren Grundwasserdargebotsreserve, können
 die Ergebnisse zur Fortschreibung des Bewirtschaftungsrahmens nach den Anlagen 2 und 4 genutzt werden.
 Aufgrund regionaler genauerer Erkenntnisse (z. B. zu grundwasserabhängigen Landökosystemen oder zu der
@@ -206,20 +240,43 @@ Entnahmen von Grundwasser dürfen nicht dazu führen, dass die in § 6 WHG genan
 insbesondere die Anforderungen gemäß § 4 Abs. 2 GrwV verfehlt werden.
 Der GLD ist unter Bezug auf § 4 Abs. 2 Nr. 2 GrwV zu beteiligen, wenn die Möglichkeit besteht, dass durch
 die beantragte Grundwasserentnahme
-a) die Bewirtschaftungsziele nach den §§ 27 und 44 WHG für die Oberflächengewässer, die mit dem
+a)
+
+die Bewirtschaftungsziele nach den §§ 27 und 44 WHG für die Oberflächengewässer, die mit dem
 Grundwasserkörper in hydraulischer Verbindung stehen, verfehlt werden,
-b) sich der Zustand dieser Oberflächengewässer i. S. von § 3 Nr. 8 WHG signifikant verschlechtert,
-c) Landökosysteme, die direkt vom Grundwasserkörper abhängig sind, signifikant geschädigt werden oder
-d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolge räumlich und zeitlich begrenzter Änderungen der Grundwasserfließrichtung nachteilig verändert wird (z. B. Verlagerung
+
+b)
+
+sich der Zustand dieser Oberflächengewässer i. S. von § 3 Nr. 8 WHG signifikant verschlechtert,
+
+c)
+
+Landökosysteme, die direkt vom Grundwasserkörper abhängig sind, signifikant geschädigt werden oder
+
+d)
+
+das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolge räumlich und zeitlich begrenzter Änderungen der Grundwasserfließrichtung nachteilig verändert wird (z. B. Verlagerung
 der Süß-Salzwassergrenze).
+
 Die gemäß Buchstabe c i. S. der WRRL bedeutenden grundwasserabhängigen Landökosysteme wurden
 gemäß Artikel 5 i. V. m. Anhang II Nrn. 2.1 und 2.2 der WRRL der EU mitgeteilt. Nur diese sind für die Anforderungen gemäß § 4 Abs. 2 Nr. 2 Buchst. c GrwV relevant. Die gemäß der WRRL im Zusammenhang mit der
-Zustandsbewertung bedeutsamen grundwasserabhängigen Landökosysteme können den Anhängen B -2 und
+Zustandsbewertung bedeutsamen grundwasserabhängigen Landökosysteme können den Anhängen B-2 und
 B-3 des Niedersächsischen Beitrags zu den Bewirtschaftungsplänen 2021 bis 2027 der Flussgebiete Elbe,
-Weser, Ems und Rhein, MU Dezember 2021 entnommen werden
+Weser,
+Ems
+und
+Rhein,
+MU
+Dezember
+2021
+entnommen
+werden
 
-(https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane- und-massnahmenprogramme- fur-den-zeitraum-2021- bis-2027-
-128758.html).
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 7
+
+(https://www.nlwkn.niedersachsen.de/Bewirtschaftungsplan_Massnahmenprogramm2021_2027/aktualisierte-wrrl-bewirtschaftungsplane-und-massnahmenprogramme-fur-den-zeitraum-2021-bis-2027128758.html).
 Hervorgerufen durch den Klimawandel ist zu erwarten, dass zukünftig besonders niedrige Grundwasserstände häufiger auftreten können. Soweit es angesichts des Umfangs oder der möglichen Auswirkungen der
 Grundwasserentnahme angemessen ist, sollen in der Zulassung daher Maßnahmen in Anlehnung an das
 DVGW Arbeitsblatt W 150 geregelt werden – einschließlich Messstellen –, mit denen der Antragsteller die
@@ -252,15 +309,28 @@ Wasserbedarf durch einen Sicherheitszuschlag und einen Trockenwetterzuschlag erh
 Der Sicherheitszuschlag soll 7,5 % und der Trockenwetterzuschlag 5 % des ermittelten Wasserbedarfs –
 ohne den Wasserwerkseigenverbrauch und die Rohrnetzverluste – betragen.
 
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 8
+
 6.1.2 Zusätzliches Versorgungsgebiet
 Beabsichtigt ein Wasserversorger, sich eine Erweiterungsmenge für die geplante Versorgung eines noch
 nicht zu seinem Versorgungsgebiet gehörenden zusätzlichen benannten Gebietes zu sichern, so kann die
 dafür erforderliche Erweiterungsmenge beim Bedarfsnachweis für die gesamte beantragte Entnahme von
 Grundwasser berücksichtigt werden, wenn
-– die geplante Versorgung mit § 50 Abs. 2 WHG und § 88 NWG im Einklang steht,
-– eine Nutzung von Gewinnungsmöglichkeiten in dem Erweiterungsgebiet nicht möglich oder nach den
+–
+
+die geplante Versorgung mit § 50 Abs. 2 WHG und § 88 NWG im Einklang steht,
+
+–
+
+eine Nutzung von Gewinnungsmöglichkeiten in dem Erweiterungsgebiet nicht möglich oder nach den
 vorgenannten Regelungen nicht geboten ist und
-– die Erweiterung mit hinreichender Wahrscheinlichkeit zu erwarten ist.
+
+–
+
+die Erweiterung mit hinreichender Wahrscheinlichkeit zu erwarten ist.
+
 In die wasserrechtliche Erlaubnis oder Bewilligung ist die auflösende Bedingung aufzunehmen, dass der
 Wasserversorger die Versorgung des zusätzlichen Gebietes innerhalb einer gesetzten Frist begonnen hat.
 Diese soll zehn Jahre nicht überschreiten.
@@ -273,9 +343,18 @@ Verbundsystem sowie deren mögliche Entwicklungen darzustellen.
 Angesichts der zunehmend angespannten Situation bei der Bewirtschaftung der Grundwasserressourcen
 soll vor der Erteilung einer Erlaubnis oder Bewilligung geprüft werden, wie das Unternehmen der öffentlichen
 Wasserversorgung seine Pflicht nach § 50 Abs. 3 WHG erfüllt. Hierfür kommen z. B. in Betracht
-– Maßnahmen der Öffentlichkeitsarbeit, insbesondere im Sommer,
-– Maßnahmen zur Beratung und ggf. Unterstützung von Kunden, etwa im gewerblichen Bereich,
-– Vermeidung von Entgeltsystemen, durch die größere Verbrauchsmengen relativ günstiger sind.
+–
+
+Maßnahmen der Öffentlichkeitsarbeit, insbesondere im Sommer,
+
+–
+
+Maßnahmen zur Beratung und ggf. Unterstützung von Kunden, etwa im gewerblichen Bereich,
+
+–
+
+Vermeidung von Entgeltsystemen, durch die größere Verbrauchsmengen relativ günstiger sind.
+
 6.2 Landwirtschaft und Eigenwasserversorgung der Industrie
 Im Antrag für eine Grundwasserentnahme ist zu begründen, aus welchem Grundwasserstockwerk das
 Wasser entnommen werden soll. Hinweise zu den Kriterien, die insbesondere zum Schutz der Grundwasserressource bei der Prüfung der Entnahmetiefe zu würdigen sind, enthält Anlage 6 (Kriterien für die Entnahmetiefe von Grundwasser mittels Förderung in Brunnen). Zunächst ist eine Entnahme aus dem oberflächennahen
@@ -287,16 +366,20 @@ Zum Schutz des Grundwassers ist der Fassungsbereich der Gewinnungsanlage vor Ver
 schützen. Die zuständige Wasserbehörde hat den Schutz durch entsprechende Auflagen in der Erlaubnis oder
 Bewilligung sicherzustellen. Als Beispiel kommen Maßnahmen in Anlehnung an die betrieblichen Schutzmaßnahmen für die Schutzzone I gemäß Arbeitsblatt W 101 des DVGW sowie bauliche Maßnahmen beim Brunnenbau in Betracht.
 6.2.1 Landwirtschaftliche Feldberegnung; Bedarfsnachweis, wasserrechtliche Erlaubnis
-Der Wasserbedarf der Landwirtschaft für die Feldberegnung ist im Einzelfall (für Einzelbetriebe oder Beregnungsverbände) nachzuweisen. Dabei sind Möglichkeiten einer effizienten Wasserverwendung zu berücksichtigen. Das schließt auch den Einsatz sparsamer Beregnungs technik, die den a. a. R. d. T. entspricht, ein
+Der Wasserbedarf der Landwirtschaft für die Feldberegnung ist im Einzelfall (für Einzelbetriebe oder Beregnungsverbände) nachzuweisen. Dabei sind Möglichkeiten einer effizienten Wasserverwendung zu berücksichtigen. Das schließt auch den Einsatz sparsamer Beregnungstechnik, die den a. a. R. d. T. entspricht, ein
 (z. B. Tröpfchenbewässerung, Düsenwagen). Die Ermittlung des Zusatzwasserbedarfs soll sich am „Merkblatt
 
-DWA- M 590, Grundsätze und Richtwerte zur Beurteilung von Anträgen zur Entnahme von Wasser für die
+Nds. MBl. 2024 Nr. 223 vom 14. Mai 2024
+
+Seite 9
+
+DWA-M 590, Grundsätze und Richtwerte zur Beurteilung von Anträgen zur Entnahme von Wasser für die
 Bewässerung“ orientieren.
-Der Bedarf sollte auf dieser Grundlage demnach für das „Mittlere Trockenjahr“ bezogen auf das Merkblatt ,
+Der Bedarf sollte auf dieser Grundlage demnach für das „Mittlere Trockenjahr“ bezogen auf das Merkblatt,
 d. h. unter Berücksichtigung der Anbauplanung, ermittelt werden. Hierdurch soll sichergestellt werden, dass
 auch mehrere aufeinander folgende Trockenjahre abgedeckt sind. Falls für einen solchen Bedarf keine ausreichenden Ressourcen verfügbar sind, ist die erlaubte Jahresentnahmemenge entsprechend zu reduzieren.
-In der Erlaubnis soll geregelt werden, dass die fest gelegte Jahresentnahmemenge um bis zu 25 % überschritten werden darf, wenn dadurch das Mittel der Entnahmen in fünf Jahren (unter Berücksichtigung der
-zurückliegenden vier Jahre) nicht größer wird als die festgelegte Jahr esentnahmemenge.
+In der Erlaubnis soll geregelt werden, dass die festgelegte Jahresentnahmemenge um bis zu 25 % überschritten werden darf, wenn dadurch das Mittel der Entnahmen in fünf Jahren (unter Berücksichtigung der
+zurückliegenden vier Jahre) nicht größer wird als die festgelegte Jahresentnahmemenge.
 Für einzelne Brunnen können zeitlich differenzierte Höchstwerte festgeschrieben werden. Für die Überwachung dieser Brunnen sind geeignete Messgeräte zu fordern, die jährlichen Entnahmemengen sind brunnenbezogen zu erfassen und zu dokumentieren.
 Sofern eine wasserrechtliche Erlaubnis erstmals oder eine auslaufende Erlaubnis neu erteilt wird, soll sie
 mit einer Befristung erteilt werden, die – um das Interesse der Antragsteller an Planungssicherheit zu berücksichtigen – eine Geltungsdauer von bis zu 20 Jahren vorsieht. Dies gilt insbesondere für komplexe Wasserrechtsverfahren. Hierbei sind prognostische klimatische Entwicklungen angemessen in die Planungen einzubeziehen.
@@ -305,14 +388,16 @@ die „Hinweise zum Einsatz der Feldberegnung“ des Fachverbandes Feldberegnung
 Die Winddrift von Beregnungswasser auf nicht für die Beregnung vorgesehene Flächen ist zu vermeiden.
 Wird eine Erlaubnis für einen Beregnungsverband erteilt, der eine Nutzung durch Mitglieder vorgesehen
 hat, ist in der Erlaubnis festzulegen, dass die Pflichten des Erlaubnisinhabers durch interne Regelungen sinngemäß auf die tatsächlichen Nutzer weiterübertragen werden müssen (z. B. bezüglich der Mengenmessung
-und der Einhaltung von Mengenbeschränkungen) .
+und der Einhaltung von Mengenbeschränkungen).
 6.2.2 Bedarfsnachweis der Industrie
 Industriebetriebe mit eigener Wasserversorgung müssen für ihren Antrag ebenfalls den konkreten Bedarf,
 unter Beachtung des tatsächlichen Verbrauchs oder unter Darlegung der konkret geplanten Maßnahme, nachweisen. Möglichkeiten der rationellen Wasserverwendung wie z. B. Kreislaufführung sind dabei zu berücksichtigen.
 7. Übergangsregelungen
-7.1 Liegt der zuständigen unteren Wasserbehörde zum Ink rafttreten dieses Rd Erl. ein vollständiger Wasserrechtsantrag vor, kann über diesen noch auf Basis der Regelungen des bis zum 31.12.2022 geltenden
+7.1
+Liegt der zuständigen unteren Wasserbehörde zum Inkrafttreten dieses RdErl. ein vollständiger Wasserrechtsantrag vor, kann über diesen noch auf Basis der Regelungen des bis zum 31.12.2022 geltenden
 RdErl. d. MU v. 29.05.2015 (Nds. MBl. S. 790) entschieden werden.
-7.2 Hat ein Nutzer bei m Ink rafttreten dieses RdErl. schon ein großräumiges Modell für einen Wasserrechtsantrag vollständig erstellt und mit dem GLD abgestimmt, welches für eine Überprüfung gemäß Nummer
+7.2
+Hat ein Nutzer beim Inkrafttreten dieses RdErl. schon ein großräumiges Modell für einen Wasserrechtsantrag vollständig erstellt und mit dem GLD abgestimmt, welches für eine Überprüfung gemäß Nummer
 4.3 geeignet ist, und wird ein vollständiger Antrag bis zum 31.12.2025 vorgelegt, kann über diesen noch auf
 Basis der Regelungen des bis zum 31.12.2022 geltenden RdErl. d. MU v. 29.05.2015 (Nds. MBl. S. 790)
 entschieden werden.
@@ -325,1130 +410,5781 @@ den Niedersächsischen Landesbetrieb für Wasserwirtschaft, Küsten und Natursch
 das Landesamt für Bergbau, Energie und Geologie
 
 Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-[Mio. m3/a]
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-(modifizierte Zehrung) [Mio.
-m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-2 DEGB_DENI_4_2302 Oberweser-Hameln 348,50 53,53 53,53 15,27 1,86 1,74 1 0,9
-Reduzierung wg.
-Trendauswertung
-3 DEGB_DENW_928_07_1 Niederung der Vechte 34,75 4,06 4,06 0,13 0,28 1,55 1 0,3
-4 DEGB_DENW_4_2310 Suedlippische Trias-Gebiete 96,25 18,08 18,08 1,99 0,66 1,18 1 0,7
-5 DEGB_DENW_4_2308 Hoexteraner Trias 5,50 1,16 1,16 0,13 0,04 1,09 1 <0,1
-7 DEGB_DENW_928_06 Niederung der Dinkel 109,25 20,17 20,17 0,54 1,46 1,17 1 1,5
-8 DEGB_DENI_38_01 Leda-Jümme Lockergestein links 920,25 190,33 190,63 39,31 11,35 1,50 1 11,3
-9 DEGB_DENI_38_02 Leda-Jümme Lockergestein rechts 1251,25 216,97 217,44 32,70 13,86 1,45 1 13,9
-10 DEGB_DENI_39_01 Borkum 31,00 10,82 10,82 1,20 0,72 1,22 1
+
+Spalte L
+
+2
+
+DEGB_DENI_4_2302
+
+Oberweser-Hameln
+
+348,50
+
+53,53
+
+53,53
+
+15,27
+
+1,86
+
+1,74
+
+1
+
+0,9
+
+3
+
+DEGB_DENW_928_07_1
+
+Niederung der Vechte
+
+34,75
+
+4,06
+
+4,06
+
+0,13
+
+0,28
+
+1,55
+
+1
+
+0,3
+
+4
+
+DEGB_DENW_4_2310
+
+Suedlippische Trias-Gebiete
+
+96,25
+
+18,08
+
+18,08
+
+1,99
+
+0,66
+
+1,18
+
+1
+
+0,7
+
+5
+
+DEGB_DENW_4_2308
+
+Hoexteraner Trias
+
+5,50
+
+1,16
+
+1,16
+
+0,13
+
+0,04
+
+1,09
+
+1
+
+<0,1
+
+7
+
+DEGB_DENW_928_06
+
+Niederung der Dinkel
+
+109,25
+
+20,17
+
+20,17
+
+0,54
+
+1,46
+
+1,17
+
+1
+
+1,5
+
+8
+
+DEGB_DENI_38_01
+
+Leda-Jümme Lockergestein links
+
+920,25
+
+190,33
+
+190,63
+
+39,31
+
+11,35
+
+1,50
+
+1
+
+11,3
+
+9
+
+DEGB_DENI_38_02
+
+Leda-Jümme Lockergestein rechts
+
+1251,25
+
+216,97
+
+217,44
+
+32,70
+
+13,86
+
+1,45
+
+1
+
+13,9
+
+10
+
+DEGB_DENI_39_01
+
+Borkum
+
+31,00
+
+10,82
+
+10,82
+
+1,20
+
+0,72
+
+1,22
+
+1
+
 gesondert zu
 ermitteln
+
 Insel
-11 DEGB_DENI_39_02 Juist 12,00 4,31 4,31 0,37 0,30 1,15 1
-gesondert zu
-ermitteln
-Insel
-12 DEGB_DENI_39_04 Baltrum 6,00 2,16 2,16 0,04 0,16 1,00 1
-gesondert zu
-ermitteln
-Insel
-13 DEGB_DENI_39_03 Norderney 25,00 7,98 7,98 1,22 0,51 1,31 1
-gesondert zu
-ermitteln
-Insel
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-[Mio. m3/a]
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-(modifizierte Zehrung) [Mio.
-m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-14 DEGB_DENW_4_2312 Nordlippische Trias-Gebiete 206,75 30,68 30,68 10,63 1,05 1,79 1 0,5
-Reduzierung wg.
-Trendauswertung
-15 DEGB_DENI_4_2009 Rhume mesozoisches Festgestein rechts 357,50 63,70 63,70 8,48 2,38 1,29 1 2,4
-16 DEGB_DENI_4_2010 Rhume mesozoisches Festgestein links 347,25 34,46 34,46 4,60 2,01 1,37 1 2,0
-17 DEGB_DENI_4_2014 Leine mesozoisches Festgestein links 1 839,00 144,64 144,64 13,89 5,33 1,51 1 5,3
-18 DEGB_DENI_4_2015 Leine mesozoisches Festgestein links 2 946,50 114,51 114,51 14,69 4,98 2,20 1 2,5
-Reduzierung wg.
-Trendauswertung
-19 DEGB_DENI_4_2016 Leine Lockergestein links 606,00 35,89 35,89 24,00 0,86 2,77 2 0,4
-Reduzierung wg.
-Trendauswertung
-20 DEGB_DENI_4_2101 Örtze Lockergestein rechts 791,75 148,93 148,93 11,98 10,27 1,56 1 10,3
-21 DEGB_DENI_4_2103 Ise Lockergestein rechts 214,00 22,16 22,16 7,21 1,03 2,51 2 1,0
-22 DEGB_DENI_4_2013 Leine mesozoisches Festgestein rechts 1 318,00 39,66 39,66 8,00 1,65 2,19 1 1,7
-23 DEGB_DENI_4_2104 Ise Lockergestein links 527,50 47,98 47,99 26,13 1,64 2,64 2 1,6
-24 DEGB_DENI_39_05 Langeoog 20,00 5,99 5,99 0,49 0,41 1,13 1
+11
+
+DEGB_DENI_39_02
+
+Juist
+
+12,00
+
+4,31
+
+4,31
+
+0,37
+
+0,30
+
+1,15
+
+1
+
 gesondert zu
 ermitteln
+
 Insel
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-[Mio. m3/a]
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-(modifizierte Zehrung) [Mio.
-m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-25 DEGB_DENI_39_06 Spiekeroog 16,75 5,81 5,81 0,20 0,42 1,03 1
+12
+
+DEGB_DENI_39_04
+
+Baltrum
+
+6,00
+
+2,16
+
+2,16
+
+0,04
+
+0,16
+
+1,00
+
+1
+
 gesondert zu
 ermitteln
+
 Insel
-26 DEGB_DENI_39_07 Wangerooge 8,50 2,64 2,64 0,10 0,19 1,06 1
+
+13
+
+DEGB_DENI_39_03
+
+Norderney
+
+25,00
+
+7,98
+
+7,98
+
+1,22
+
+0,51
+
+1,31
+
+1
+
 gesondert zu
 ermitteln
+
 Insel
-27 DEGB_DENI_39_08 Norderland/Harlinger Land 780,25 64,67 86,16 18,96 5,04 2,32 1 5,0
-28 DEGB_DEST_SAL-GW-038 Zechsteinrand der Thüringer Senke 23,75 4,95 4,95 0,02 0,18 1,99 1 0,2
-29 DEGB_DEST_MBA-4 Elbe-Urstromtal (Aland) 3,50 -0,20 0,00 0,00 0,00 3,00 3
-gesondert zu
-ermitteln
-30 DEGB_DENW_3_15 Teutoburger Wald (Nordwest) 45,50 10,36 10,36 1,52 0,31 1,26 1 0,3
-31 DEGB_DEST_SAL-GW-039 Südharzer Paläozoikum 98,25 17,20 17,20 1,58 0,65 1,35 1 0,6
-32 DEGB_DENI_4_2507 Jade Lockergestein links 1048,75 96,38 117,78 34,85 5,47 2,51 2 5,5
-33 DEGB_DEST_OT-1 Ohre-Urstromtal (Obere Ohre) 142,75 10,51 10,51 6,44 0,31 2,75 2 0,3
-34 DEGB_DENI_4_2508 Wümme Lockergestein rechts 1114,00 169,55 169,78 11,15 11,89 1,24 1 11,9
-35 DEGB_DENI_4_2502 Hunte Lockergestein rechts 1276,50 132,28 138,51 27,30 8,30 1,81 1 8,3
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
-mittleres
-Grundwasserdargebot,
-abgeschätzt nach mGrowa22
-[Mio. m3/a]
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-36 DEGB_DENI_4_2503 Hunte Festgestein rechts 28,75 3,76 3,76 0,59 0,18 1,26 1 0,2
-37 DEGB_DENI_4_2504 Hunte Festgestein links 86,75 12,01 12,01 1,23 0,57 1,18 1 0,6
-38 DEGB_DETH_4_2012 Eichsfelder Buntsandsteinscholle-Leine 2,25 0,20 0,20 0,00 0,01 1,11 1 <0,1
-39 DEGB_DENI_4_2414 Mittlere Weser Lockergestein links 3 489,00 61,74 61,74 6,88 4,11 1,57 1 4,1
-40 DEGB_DETH_SAL-GW-037 Nordthueringer Buntsandsteinausstrich-Helme 4,25 0,77 0,77 0,00 0,03 1,94 1 <0,1
-41 DEGB_DENI_4_2505 Hunte Lockergestein links 1241,50 174,27 177,59 36,88 10,55 1,72 1 10,6
-42 DEGB_DENI_4_2102 Örtze Lockergestein links 1329,25 217,31 217,31 34,39 13,72 1,92 1 13,7
-43 DEGB_DENI_4_2106 Obere Aller mesozoisches Festgestein links 257,75 10,65 10,65 3,11 0,55 2,32 1 0,5
-44 DEGB_DEST_SAL-GW-066 Triaslandschaft Börde 240,25 7,60 7,60 7,60 0,00 3,00 3
-gesondert zu
-ermitteln
-45 DEGB_DENI_4_2107 Oker mesozoisches Festgestein rechts 929,75 50,80 50,80 39,55 0,78 2,74 2 0,8
-46 DEGB_DENI_4_2412 Große Aue Lockergestein rechts 399,25 31,82 31,82 6,30 1,91 2,12 1 1,0
-Reduzierung wg.
-Trendauswertung
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+Spalte L
+
+14
+
+DEGB_DENW_4_2312
+
+Nordlippische Trias-Gebiete
+
+206,75
+
+30,68
+
+30,68
+
+10,63
+
+1,05
+
+1,79
+
+1
+
+0,5
+
+15
+
+DEGB_DENI_4_2009
+
+Rhume mesozoisches Festgestein rechts
+
+357,50
+
+63,70
+
+63,70
+
+8,48
+
+2,38
+
+1,29
+
+1
+
+2,4
+
+16
+
+DEGB_DENI_4_2010
+
+Rhume mesozoisches Festgestein links
+
+347,25
+
+34,46
+
+34,46
+
+4,60
+
+2,01
+
+1,37
+
+1
+
+2,0
+
+17
+
+DEGB_DENI_4_2014
+
+Leine mesozoisches Festgestein links 1
+
+839,00
+
+144,64
+
+144,64
+
+13,89
+
+5,33
+
+1,51
+
+1
+
+5,3
+
+18
+
+DEGB_DENI_4_2015
+
+Leine mesozoisches Festgestein links 2
+
+946,50
+
+114,51
+
+114,51
+
+14,69
+
+4,98
+
+2,20
+
+1
+
+2,5
+
+Reduzierung wg.
+Trendauswertung
+
+19
+
+DEGB_DENI_4_2016
+
+Leine Lockergestein links
+
+606,00
+
+35,89
+
+35,89
+
+24,00
+
+0,86
+
+2,77
+
+2
+
+0,4
+
+Reduzierung wg.
+Trendauswertung
+
+20
+
+DEGB_DENI_4_2101
+
+Örtze Lockergestein rechts
+
+791,75
+
+148,93
+
+148,93
+
+11,98
+
+10,27
+
+1,56
+
+1
+
+10,3
+
+21
+
+DEGB_DENI_4_2103
+
+Ise Lockergestein rechts
+
+214,00
+
+22,16
+
+22,16
+
+7,21
+
+1,03
+
+2,51
+
+2
+
+1,0
+
+22
+
+DEGB_DENI_4_2013
+
+Leine mesozoisches Festgestein rechts 1
+
+318,00
+
+39,66
+
+39,66
+
+8,00
+
+1,65
+
+2,19
+
+1
+
+1,7
+
+23
+
+DEGB_DENI_4_2104
+
+Ise Lockergestein links
+
+527,50
+
+47,98
+
+47,99
+
+26,13
+
+1,64
+
+2,64
+
+2
+
+1,6
+
+24
+
+DEGB_DENI_39_05
+
+Langeoog
+
+20,00
+
+5,99
+
+5,99
+
+0,49
+
+0,41
+
+1,13
+
+1
+
+gesondert zu
+ermitteln
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-47 DEGB_DEHE_4_1043 4290_5201 98,75 17,79 17,79 1,28 0,69 1,13 1 0,7
-48 DEGB_DENI_4_2413 Große Aue Lockergestein links 612,75 66,60 66,60 18,80 3,59 1,82 1 3,6
-49 DEGB_DENI_36_05 Hase Lockergestein rechts 1420,25 229,35 229,35 32,42 14,77 1,49 1 14,8
-50 DEGB_DENI_37_01 Mittlere Ems Lockergestein links 660,00 118,29 118,29 9,68 8,15 1,31 1 8,1
-51 DEGB_DENI_37_02 Mittlere Ems Lockergestein rechts 1 125,25 21,32 21,32 14,74 0,49 2,62 2 0,5
-52 DEGB_DENI_37_03 Mittlere Ems Lockergestein rechts 2 771,00 147,33 148,01 11,32 10,25 1,21 1 10,3
-53 DEGB_DENW_4_2320 Noerdliche Herforder Mulde 14,75 1,91 1,91 0,04 0,10 1,19 1 0,1
-54 DEGB_DEST_SAL-GW-064 Harzer Paläozoikum 50,00 10,35 10,35 0,83 0,35 2,03 1 0,3
-55 DEGB_DENW_3_02 Plantluenner Sandebene (Mitte) 101,50 13,15 13,15 0,70 0,93 1,52 1 0,9
-56 DEGB_DENW_3_05 Niederung der Oberen Ems (Greven/Ladbergen) 37,00 5,69 5,69 0,79 0,37 1,33 1 0,4
-57 DEGB_DENI_4_2002 Leine mesozoisches Festgestein rechts 4 95,50 6,25 6,25 0,83 0,37 2,17 1 0,4
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Insel
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+Spalte K
+
+Spalte L
+
+DEGB_DENI_39_06
+
+Spiekeroog
+
+16,75
+
+5,81
+
+5,81
+
+0,20
+
+0,42
+
+1,03
+
+1
+
+gesondert zu
+ermitteln
+
+Insel
+
+26
+
+DEGB_DENI_39_07
+
+Wangerooge
+
+8,50
+
+2,64
+
+2,64
+
+0,10
+
+0,19
+
+1,06
+
+1
+
+gesondert zu
+ermitteln
+
+Insel
+
+27
+
+DEGB_DENI_39_08
+
+Norderland/Harlinger Land
+
+780,25
+
+64,67
+
+86,16
+
+18,96
+
+5,04
+
+2,32
+
+1
+
+5,0
+
+28
+
+DEGB_DEST_SAL-GW-038
+
+Zechsteinrand der Thüringer Senke
+
+23,75
+
+4,95
+
+4,95
+
+0,02
+
+0,18
+
+1,99
+
+1
+
+0,2
+
+29
+
+DEGB_DEST_MBA-4
+
+Elbe-Urstromtal (Aland)
+
+3,50
+
+-0,20
+
+0,00
+
+0,00
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+30
+
+DEGB_DENW_3_15
+
+Teutoburger Wald (Nordwest)
+
+45,50
+
+10,36
+
+10,36
+
+1,52
+
+0,31
+
+1,26
+
+1
+
+0,3
+
+31
+
+DEGB_DEST_SAL-GW-039
+
+Südharzer Paläozoikum
+
+98,25
+
+17,20
+
+17,20
+
+1,58
+
+0,65
+
+1,35
+
+1
+
+0,6
+
+32
+
+DEGB_DENI_4_2507
+
+Jade Lockergestein links
+
+1048,75
+
+96,38
+
+117,78
+
+34,85
+
+5,47
+
+2,51
+
+2
+
+5,5
+
+33
+
+DEGB_DEST_OT-1
+
+Ohre-Urstromtal (Obere Ohre)
+
+142,75
+
+10,51
+
+10,51
+
+6,44
+
+0,31
+
+2,75
+
+2
+
+0,3
+
+34
+
+DEGB_DENI_4_2508
+
+Wümme Lockergestein rechts
+
+1114,00
+
+169,55
+
+169,78
+
+11,15
+
+11,89
+
+1,24
+
+1
+
+11,9
+
+35
+
+DEGB_DENI_4_2502
+
+Hunte Lockergestein rechts
+
+1276,50
+
+132,28
+
+138,51
+
+27,30
+
+8,30
+
+1,81
+
+1
+
+8,3
+
+Bemerkung
+
+25
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-58 DEGB_DENI_39_10 Untere Ems Lockergestein links 263,25 10,68 13,15 3,00 0,76 2,44 1 0,8
-59 DEGB_DENI_39_09 Untere Ems rechts 1114,00 89,16 108,74 20,31 6,63 2,25 1 6,6
-60 DEGB_DENI_4_2001 Leine Lockergestein rechts 418,75 33,76 33,76 15,03 1,40 2,42 1 0,7
-Reduzierung wg.
-Trendauswertung
-61 DEGB_DENI_4_2004 Innerste Harzpaläozoikum 193,50 43,76 43,76 0,68 1,38 2,01 1 1,4
-62 DEGB_DENI_4_2003 Innerste mesozoisches Festgestein rechts 433,25 37,97 37,97 2,67 2,18 2,08 1 2,2
-63 DEGB_DENI_4_2005 Innerste mesozoisches Festgestein links 633,00 83,45 83,45 6,66 4,00 2,06 1 4,0
-64 DEGB_DENI_4_2006 Leine mesozoisches Festgestein rechts 3 214,75 30,83 30,83 4,99 1,27 2,12 1 1,3
-65 DEGB_DENI_4_2008 Rhume Harzpaläozoikum 330,00 77,00 77,00 2,79 2,36 1,09 1 2,4
-66 DEGB_DENI_4_2007 Leine mesozoisches Festgestein rechts 2 310,25 46,36 46,36 2,57 2,14 1,13 1 2,1
-67 DEGB_DEHE_4_2304 4300.1_5201 2,00 0,30 0,30 0,00 0,02 1,00 1 <0,1
-68 DEGB_DENW_4_2314 Östlicher Teutoburger Wald 3,00 0,49 0,49 0,00 0,02 1,00 1 <0,1
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+36
+
+DEGB_DENI_4_2503
+
+Hunte Festgestein rechts
+
+28,75
+
+3,76
+
+3,76
+
+0,59
+
+0,18
+
+1,26
+
+1
+
+0,2
+
+37
+
+DEGB_DENI_4_2504
+
+Hunte Festgestein links
+
+86,75
+
+12,01
+
+12,01
+
+1,23
+
+0,57
+
+1,18
+
+1
+
+0,6
+
+38
+
+DEGB_DETH_4_2012
+
+Eichsfelder Buntsandsteinscholle-Leine
+
+2,25
+
+0,20
+
+0,20
+
+0,00
+
+0,01
+
+1,11
+
+1
+
+<0,1
+
+39
+
+DEGB_DENI_4_2414
+
+Mittlere Weser Lockergestein links 3
+
+489,00
+
+61,74
+
+61,74
+
+6,88
+
+4,11
+
+1,57
+
+1
+
+4,1
+
+40
+
+DEGB_DETH_SAL-GW-037
+
+Nordthueringer Buntsandsteinausstrich-Helme
+
+4,25
+
+0,77
+
+0,77
+
+0,00
+
+0,03
+
+1,94
+
+1
+
+<0,1
+
+41
+
+DEGB_DENI_4_2505
+
+Hunte Lockergestein links
+
+1241,50
+
+174,27
+
+177,59
+
+36,88
+
+10,55
+
+1,72
+
+1
+
+10,6
+
+42
+
+DEGB_DENI_4_2102
+
+Örtze Lockergestein links
+
+1329,25
+
+217,31
+
+217,31
+
+34,39
+
+13,72
+
+1,92
+
+1
+
+13,7
+
+43
+
+DEGB_DENI_4_2106
+
+Obere Aller mesozoisches Festgestein links
+
+257,75
+
+10,65
+
+10,65
+
+3,11
+
+0,55
+
+2,32
+
+1
+
+0,5
+
+44
+
+DEGB_DEST_SAL-GW-066
+
+Triaslandschaft Börde
+
+240,25
+
+7,60
+
+7,60
+
+7,60
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+45
+
+DEGB_DENI_4_2107
+
+Oker mesozoisches Festgestein rechts
+
+929,75
+
+50,80
+
+50,80
+
+39,55
+
+0,78
+
+2,74
+
+2
+
+0,8
+
+46
+
+DEGB_DENI_4_2412
+
+Große Aue Lockergestein rechts
+
+399,25
+
+31,82
+
+31,82
+
+6,30
+
+1,91
+
+2,12
+
+1
+
+1,0
+
+Spalte L
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-69 DEGB_DENI_4_2108 Oker Harzpaläozoikum 189,00 41,94 41,94 6,08 1,18 2,13 1 1,2
-70 DEGB_DENI_4_2110 Obere Aller Lockergestein links 262,25 7,27 7,27 8,44 0,00 3,00 3
-gesondert zu
-ermitteln
-71 DEGB_DENI_4_2111 Oker Lockergestein links 66,00 1,07 1,07 2,68 0,00 3,00 3
-gesondert zu
-ermitteln
-72 DEGB_DENI_4_2114 Fuhse mesozoisches Festgestein rechts 194,25 11,36 11,36 4,61 0,48 2,46 1 0,5
-73 DEGB_DENI_4_2115 Fuhse Lockergestein rechts 461,00 33,60 33,60 17,68 0,35 2,88 3
-gesondert zu
-ermitteln
-74 DEGB_DENI_4_2116 Wietze/Fuhse Lockergestein 979,75 67,41 67,41 78,67 0,00 3,00 3
-gesondert zu
-ermitteln
-75 DEGB_DENI_4_2201 Böhme Lockergestein rechts 700,50 121,29 121,29 33,42 6,59 1,57 1 6,6
-76 DEGB_DENI_4_2203 Untere Aller Lockergestein links 466,25 42,68 42,68 6,39 2,72 2,10 1 1,4
-Reduzierung wg.
-Trendauswertung
-77 DEGB_DENI_4_2202 Böhme Lockergestein links 324,50 70,85 70,85 10,29 4,54 1,52 1 4,5
-78 DEGB_DENI_4_2109 Oker mesozoisches Festgestein links 275,50 22,78 22,78 5,55 0,90 2,46 1 0,5
-Reduzierung wg.
-Trendauswertung
-79 DEGB_DENI_4_2112 Oker Lockergestein rechts 111,25 7,49 7,49 8,29 0,00 3,00 3
-gesondert zu
-ermitteln
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Spalte L
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-80 DEGB_DENI_4_2113 Wietze/Fuhse Festgestein 419,75 25,01 25,01 3,32 1,55 2,22 1 1,5
-81 DEGB_DENI_4_2509 Wümme Lockergestein links 1026,00 157,41 157,41 25,81 9,86 1,48 1 9,9
-82 DEGB_DENI_928_23 Niederung der Vechte rechts 456,75 64,74 64,74 12,85 3,87 1,89 1 3,9
-83 DEGB_DENI_4_2510 Ochtum Lockergestein 881,75 114,75 115,59 36,57 5,93 2,02 1 5,9
-84 DEGB_DENI_928_24 Niederung der Vechte links 73,00 10,50 10,50 0,61 0,73 1,29 1 0,7
-85 DEGB_DENI_928_25 Bentheimer Berg 40,00 3,81 3,81 0,71 0,20 1,31 1 0,2
-86 DEGB_DENI_928_26 Untere Vechte links 154,75 29,31 29,31 1,57 2,08 1,38 1 2,1
-87 DEGB_DENI_NI11_8 Land Hadeln Lockergestein 624,50 75,18 87,63 10,74 5,77 1,97 1 5,8
-88 DEGB_DENI_4_2403 Mittlere Weser Lockergestein rechts 494,25 61,99 61,99 17,93 3,30 2,02 1 1,7
-Reduzierung wg.
-Trendauswertung
-89 DEGB_DENI_4_2411 Mittlere Weser Lockergestein links 2 103,75 11,77 11,77 1,72 0,75 1,44 1 0,4
-Reduzierung wg.
-Trendauswertung
-90 DEGB_DENI_4_2404 Mittlere Weser Festgestein rechts 282,75 22,64 22,64 2,03 1,03 2,31 1 0,5
-Reduzierung wg.
-Trendauswertung
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Bemerkung
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+47
+
+DEGB_DEHE_4_1043
+
+4290_5201
+
+98,75
+
+17,79
+
+17,79
+
+1,28
+
+0,69
+
+1,13
+
+1
+
+0,7
+
+48
+
+DEGB_DENI_4_2413
+
+Große Aue Lockergestein links
+
+612,75
+
+66,60
+
+66,60
+
+18,80
+
+3,59
+
+1,82
+
+1
+
+3,6
+
+49
+
+DEGB_DENI_36_05
+
+Hase Lockergestein rechts
+
+1420,25
+
+229,35
+
+229,35
+
+32,42
+
+14,77
+
+1,49
+
+1
+
+14,8
+
+50
+
+DEGB_DENI_37_01
+
+Mittlere Ems Lockergestein links
+
+660,00
+
+118,29
+
+118,29
+
+9,68
+
+8,15
+
+1,31
+
+1
+
+8,1
+
+51
+
+DEGB_DENI_37_02
+
+Mittlere Ems Lockergestein rechts 1
+
+125,25
+
+21,32
+
+21,32
+
+14,74
+
+0,49
+
+2,62
+
+2
+
+0,5
+
+52
+
+DEGB_DENI_37_03
+
+Mittlere Ems Lockergestein rechts 2
+
+771,00
+
+147,33
+
+148,01
+
+11,32
+
+10,25
+
+1,21
+
+1
+
+10,3
+
+53
+
+DEGB_DENW_4_2320
+
+Noerdliche Herforder Mulde
+
+14,75
+
+1,91
+
+1,91
+
+0,04
+
+0,10
+
+1,19
+
+1
+
+0,1
+
+54
+
+DEGB_DEST_SAL-GW-064
+
+Harzer Paläozoikum
+
+50,00
+
+10,35
+
+10,35
+
+0,83
+
+0,35
+
+2,03
+
+1
+
+0,3
+
+55
+
+DEGB_DENW_3_02
+
+Plantluenner Sandebene (Mitte)
+
+101,50
+
+13,15
+
+13,15
+
+0,70
+
+0,93
+
+1,52
+
+1
+
+0,9
+
+56
+
+DEGB_DENW_3_05
+
+Niederung der Oberen Ems (Greven/Ladbergen)
+
+37,00
+
+5,69
+
+5,69
+
+0,79
+
+0,37
+
+1,33
+
+1
+
+0,4
+
+57
+
+DEGB_DENI_4_2002
+
+Leine mesozoisches Festgestein rechts 4
+
+95,50
+
+6,25
+
+6,25
+
+0,83
+
+0,37
+
+2,17
+
+1
+
+0,4
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+58
+
+DEGB_DENI_39_10
+
+Untere Ems Lockergestein links
+
+263,25
+
+10,68
+
+13,15
+
+3,00
+
+0,76
+
+2,44
+
+1
+
+0,8
+
+59
+
+DEGB_DENI_39_09
+
+Untere Ems rechts
+
+1114,00
+
+89,16
+
+108,74
+
+20,31
+
+6,63
+
+2,25
+
+1
+
+6,6
+
+60
+
+DEGB_DENI_4_2001
+
+Leine Lockergestein rechts
+
+418,75
+
+33,76
+
+33,76
+
+15,03
+
+1,40
+
+2,42
+
+1
+
+0,7
+
+61
+
+DEGB_DENI_4_2004
+
+Innerste Harzpaläozoikum
+
+193,50
+
+43,76
+
+43,76
+
+0,68
+
+1,38
+
+2,01
+
+1
+
+1,4
+
+62
+
+DEGB_DENI_4_2003
+
+Innerste mesozoisches Festgestein rechts
+
+433,25
+
+37,97
+
+37,97
+
+2,67
+
+2,18
+
+2,08
+
+1
+
+2,2
+
+63
+
+DEGB_DENI_4_2005
+
+Innerste mesozoisches Festgestein links
+
+633,00
+
+83,45
+
+83,45
+
+6,66
+
+4,00
+
+2,06
+
+1
+
+4,0
+
+64
+
+DEGB_DENI_4_2006
+
+Leine mesozoisches Festgestein rechts 3
+
+214,75
+
+30,83
+
+30,83
+
+4,99
+
+1,27
+
+2,12
+
+1
+
+1,3
+
+65
+
+DEGB_DENI_4_2008
+
+Rhume Harzpaläozoikum
+
+330,00
+
+77,00
+
+77,00
+
+2,79
+
+2,36
+
+1,09
+
+1
+
+2,4
+
+66
+
+DEGB_DENI_4_2007
+
+Leine mesozoisches Festgestein rechts 2
+
+310,25
+
+46,36
+
+46,36
+
+2,57
+
+2,14
+
+1,13
+
+1
+
+2,1
+
+67
+
+DEGB_DEHE_4_2304
+
+4300.1_5201
+
+2,00
+
+0,30
+
+0,30
+
+0,00
+
+0,02
+
+1,00
+
+1
+
+<0,1
+
+68
+
+DEGB_DENW_4_2314
+
+Östlicher Teutoburger Wald
+
+3,00
+
+0,49
+
+0,49
+
+0,00
+
+0,02
+
+1,00
+
+1
+
+<0,1
+
+Spalte L
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-91 DEGB_DENI_928_27 Itter 75,75 22,34 22,34 7,03 1,15 1,80 1 1,1
-92 DEGB_DENI_928_28 Grenzaa 103,50 17,93 17,93 2,90 1,13 1,74 1 1,1
-93 DEGB_DENI_NI10_1 Jeetzel Lockergestein rechts 451,75 -10,10 6,67 8,08 0,00 3,00 3
-gesondert zu
-ermitteln
-94 DEGB_DENI_NI10_5 Jeetzel Lockergestein links 605,25 79,62 81,20 18,33 4,70 2,03 1 4,7
-95 DEGB_DENW_4_2317 Suedliche Herforder Mulde 91,50 11,50 11,50 0,14 0,64 1,07 1 0,6
-96 DEGB_DENI_4_2309 Ottensteiner Hochfläche 153,00 27,62 27,62 1,65 1,06 1,08 1 0,5
-Reduzierung wg.
-Trendauswertung
-97 DEGB_DENI_NI11_2 Ilmenau Lockergestein links 1517,75 297,46 298,72 51,14 18,56 1,47 1 18,6
-98 DEGB_DENI_NI11_1 Ilmenau Lockergestein rechts 1431,75 182,52 189,40 49,81 10,47 1,85 1 10,5
-99 DEGB_DENI_NI11_3 Este-Seeve Lockergestein 962,75 206,54 210,24 52,80 11,81 1,68 1 11,8
-100 DEGB_DENI_NI11_4 Lühe-Schwinge Lockergestein 511,75 67,91 74,65 15,60 4,43 1,84 1 4,4
-101 DEGB_DENI_NI11_5 Land Kehdingen Lockergestein 197,00 -1,69 4,32 0,51 0,29 2,73 2 0,3
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+69
+
+DEGB_DENI_4_2108
+
+Oker Harzpaläozoikum
+
+189,00
+
+41,94
+
+41,94
+
+6,08
+
+1,18
+
+2,13
+
+1
+
+1,2
+
+70
+
+DEGB_DENI_4_2110
+
+Obere Aller Lockergestein links
+
+262,25
+
+7,27
+
+7,27
+
+8,44
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+71
+
+DEGB_DENI_4_2111
+
+Oker Lockergestein links
+
+66,00
+
+1,07
+
+1,07
+
+2,68
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+72
+
+DEGB_DENI_4_2114
+
+Fuhse mesozoisches Festgestein rechts
+
+194,25
+
+11,36
+
+11,36
+
+4,61
+
+0,48
+
+2,46
+
+1
+
+0,5
+
+73
+
+DEGB_DENI_4_2115
+
+Fuhse Lockergestein rechts
+
+461,00
+
+33,60
+
+33,60
+
+17,68
+
+0,35
+
+2,88
+
+3
+
+gesondert zu
+ermitteln
+
+74
+
+DEGB_DENI_4_2116
+
+Wietze/Fuhse Lockergestein
+
+979,75
+
+67,41
+
+67,41
+
+78,67
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+75
+
+DEGB_DENI_4_2201
+
+Böhme Lockergestein rechts
+
+700,50
+
+121,29
+
+121,29
+
+33,42
+
+6,59
+
+1,57
+
+1
+
+6,6
+
+76
+
+DEGB_DENI_4_2203
+
+Untere Aller Lockergestein links
+
+466,25
+
+42,68
+
+42,68
+
+6,39
+
+2,72
+
+2,10
+
+1
+
+1,4
+
+77
+
+DEGB_DENI_4_2202
+
+Böhme Lockergestein links
+
+324,50
+
+70,85
+
+70,85
+
+10,29
+
+4,54
+
+1,52
+
+1
+
+4,5
+
+78
+
+DEGB_DENI_4_2109
+
+Oker mesozoisches Festgestein links
+
+275,50
+
+22,78
+
+22,78
+
+5,55
+
+0,90
+
+2,46
+
+1
+
+0,5
+
+79
+
+DEGB_DENI_4_2112
+
+Oker Lockergestein rechts
+
+111,25
+
+7,49
+
+7,49
+
+8,29
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+Spalte L
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
-[Mio. m³/a]
-nutzbare GWDargebotsreserve (mittlere
-Verhältnisse)
-[Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
-maßgebliche nutzbare GWDargebotsreserve
-[Mio. m³/a]
-Bemerkung
-102 DEGB_DENI_NI11_6 Oste Lockergestein rechts 920,00 117,77 125,47 14,14 8,35 1,64 1 8,4
-103 DEGB_DENI_NI11_7 Oste Lockergestein links 821,50 138,68 144,43 11,26 9,99 1,45 1 10,0
-104 DEGB_DENI_4_2303 Vogler-Solling-Bramwald 937,50 176,22 176,22 16,24 6,30 1,21 1 6,3
-105 DEGB_DENI_4_2318 Werre mesozoisches Festgestein 83,50 10,57 10,57 2,32 0,47 1,47 1 0,2
-Reduzierung wg.
-Trendauswertung
-106 DEGB_DENI_36_01 Hase links Lockergestein 1010,75 175,48 175,48 19,93 11,32 1,46 1 11,3
-107 DEGB_DENI_36_03 Hase links Festgestein 247,00 40,03 40,03 10,75 1,40 1,53 1 1,4
-108 DEGB_DENW_3_06 Niederung der Oberen Ems (Sassenberg/Versmold) 119,50 23,12 23,12 5,59 1,29 1,53 1 1,3
-109 DEGB_DENI_3_01 Obere Ems links (Plantlünner Sandebene West) 77,00 10,03 10,03 0,43 0,72 1,39 1 0,7
-110 DEGB_DENI_3_03 Große Aa 433,00 78,49 78,49 8,98 5,18 1,44 1 5,2
-111 DEGB_DENW_4_2407 Niederung der Weser 1,25 0,07 0,07 0,00 0,00 1,60 1 <0,1
-112 DEGB_DEST_NI10_2 Zehrengraben 136,75 -6,38 2,01 0,79 0,00 3,00 3
-gesondert zu
-ermitteln
 
-Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F Spalte G Spalte H Spalte I Spalte J Spalte K Spalte L
-Bezeichnung der GWK für
-Überblickskarte (ID)
-(GWK mit Fläche < 1 km²
-werden nicht aufgeführt)
-Bezeichnung der
-GWK/EU_CD_GB
-Name des GWK
-Fläche des GWK in NDS [km²]
-(Rasterzellen)
+Spalte F
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 [Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+Spalte L
+
+80
+
+DEGB_DENI_4_2113
+
+Wietze/Fuhse Festgestein
+
+419,75
+
+25,01
+
+25,01
+
+3,32
+
+1,55
+
+2,22
+
+1
+
+1,5
+
+81
+
+DEGB_DENI_4_2509
+
+Wümme Lockergestein links
+
+1026,00
+
+157,41
+
+157,41
+
+25,81
+
+9,86
+
+1,48
+
+1
+
+9,9
+
+82
+
+DEGB_DENI_928_23
+
+Niederung der Vechte rechts
+
+456,75
+
+64,74
+
+64,74
+
+12,85
+
+3,87
+
+1,89
+
+1
+
+3,9
+
+83
+
+DEGB_DENI_4_2510
+
+Ochtum Lockergestein
+
+881,75
+
+114,75
+
+115,59
+
+36,57
+
+5,93
+
+2,02
+
+1
+
+5,9
+
+84
+
+DEGB_DENI_928_24
+
+Niederung der Vechte links
+
+73,00
+
+10,50
+
+10,50
+
+0,61
+
+0,73
+
+1,29
+
+1
+
+0,7
+
+85
+
+DEGB_DENI_928_25
+
+Bentheimer Berg
+
+40,00
+
+3,81
+
+3,81
+
+0,71
+
+0,20
+
+1,31
+
+1
+
+0,2
+
+86
+
+DEGB_DENI_928_26
+
+Untere Vechte links
+
+154,75
+
+29,31
+
+29,31
+
+1,57
+
+2,08
+
+1,38
+
+1
+
+2,1
+
+87
+
+DEGB_DENI_NI11_8
+
+Land Hadeln Lockergestein
+
+624,50
+
+75,18
+
+87,63
+
+10,74
+
+5,77
+
+1,97
+
+1
+
+5,8
+
+88
+
+DEGB_DENI_4_2403
+
+Mittlere Weser Lockergestein rechts
+
+494,25
+
+61,99
+
+61,99
+
+17,93
+
+3,30
+
+2,02
+
+1
+
+1,7
+
+Reduzierung wg.
+Trendauswertung
+
+89
+
+DEGB_DENI_4_2411
+
+Mittlere Weser Lockergestein links 2
+
+103,75
+
+11,77
+
+11,77
+
+1,72
+
+0,75
+
+1,44
+
+1
+
+0,4
+
+Reduzierung wg.
+Trendauswertung
+
+90
+
+DEGB_DENI_4_2404
+
+Mittlere Weser Festgestein rechts
+
+282,75
+
+22,64
+
+22,64
+
+2,03
+
+1,03
+
+2,31
+
+1
+
+0,5
+
+Reduzierung wg.
+Trendauswertung
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
 mittleres
 Grundwasserdargebot,
 abgeschätzt nach mGrowa22
 (modifizierte Zehrung) [Mio.
 m3/a]
-zugelassene
-Entnahmemengen
+
+Spalte F
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+[Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+91
+
+DEGB_DENI_928_27
+
+Itter
+
+75,75
+
+22,34
+
+22,34
+
+7,03
+
+1,15
+
+1,80
+
+1
+
+1,1
+
+92
+
+DEGB_DENI_928_28
+
+Grenzaa
+
+103,50
+
+17,93
+
+17,93
+
+2,90
+
+1,13
+
+1,74
+
+1
+
+1,1
+
+93
+
+DEGB_DENI_NI10_1
+
+Jeetzel Lockergestein rechts
+
+451,75
+
+-10,10
+
+6,67
+
+8,08
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+94
+
+DEGB_DENI_NI10_5
+
+Jeetzel Lockergestein links
+
+605,25
+
+79,62
+
+81,20
+
+18,33
+
+4,70
+
+2,03
+
+1
+
+4,7
+
+95
+
+DEGB_DENW_4_2317
+
+Suedliche Herforder Mulde
+
+91,50
+
+11,50
+
+11,50
+
+0,14
+
+0,64
+
+1,07
+
+1
+
+0,6
+
+96
+
+DEGB_DENI_4_2309
+
+Ottensteiner Hochfläche
+
+153,00
+
+27,62
+
+27,62
+
+1,65
+
+1,06
+
+1,08
+
+1
+
+0,5
+
+97
+
+DEGB_DENI_NI11_2
+
+Ilmenau Lockergestein links
+
+1517,75
+
+297,46
+
+298,72
+
+51,14
+
+18,56
+
+1,47
+
+1
+
+18,6
+
+98
+
+DEGB_DENI_NI11_1
+
+Ilmenau Lockergestein rechts
+
+1431,75
+
+182,52
+
+189,40
+
+49,81
+
+10,47
+
+1,85
+
+1
+
+10,5
+
+99
+
+DEGB_DENI_NI11_3
+
+Este-Seeve Lockergestein
+
+962,75
+
+206,54
+
+210,24
+
+52,80
+
+11,81
+
+1,68
+
+1
+
+11,8
+
+100
+
+DEGB_DENI_NI11_4
+
+Lühe-Schwinge Lockergestein
+
+511,75
+
+67,91
+
+74,65
+
+15,60
+
+4,43
+
+1,84
+
+1
+
+4,4
+
+101
+
+DEGB_DENI_NI11_5
+
+Land Kehdingen Lockergestein
+
+197,00
+
+-1,69
+
+4,32
+
+0,51
+
+0,29
+
+2,73
+
+2
+
+0,3
+
+Spalte L
+
+Bemerkung
+
+maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
 nutzbare GWDargebotsreserve (mittlere
 Verhältnisse)
 [Mio. m³/a]
-Mittelwert nach Aggregation
-der Rasterzellen
-GWK Klassifizierung
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+(modifizierte Zehrung) [Mio.
+m3/a]
+
+Spalte F
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+[Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+102
+
+DEGB_DENI_NI11_6
+
+Oste Lockergestein rechts
+
+920,00
+
+117,77
+
+125,47
+
+14,14
+
+8,35
+
+1,64
+
+1
+
+8,4
+
+103
+
+DEGB_DENI_NI11_7
+
+Oste Lockergestein links
+
+821,50
+
+138,68
+
+144,43
+
+11,26
+
+9,99
+
+1,45
+
+1
+
+10,0
+
+104
+
+DEGB_DENI_4_2303
+
+Vogler-Solling-Bramwald
+
+937,50
+
+176,22
+
+176,22
+
+16,24
+
+6,30
+
+1,21
+
+1
+
+6,3
+
+105
+
+DEGB_DENI_4_2318
+
+Werre mesozoisches Festgestein
+
+83,50
+
+10,57
+
+10,57
+
+2,32
+
+0,47
+
+1,47
+
+1
+
+0,2
+
+106
+
+DEGB_DENI_36_01
+
+Hase links Lockergestein
+
+1010,75
+
+175,48
+
+175,48
+
+19,93
+
+11,32
+
+1,46
+
+1
+
+11,3
+
+107
+
+DEGB_DENI_36_03
+
+Hase links Festgestein
+
+247,00
+
+40,03
+
+40,03
+
+10,75
+
+1,40
+
+1,53
+
+1
+
+1,4
+
+108
+
+DEGB_DENW_3_06
+
+Niederung der Oberen Ems (Sassenberg/Versmold)
+
+119,50
+
+23,12
+
+23,12
+
+5,59
+
+1,29
+
+1,53
+
+1
+
+1,3
+
+109
+
+DEGB_DENI_3_01
+
+Obere Ems links (Plantlünner Sandebene West)
+
+77,00
+
+10,03
+
+10,03
+
+0,43
+
+0,72
+
+1,39
+
+1
+
+0,7
+
+110
+
+DEGB_DENI_3_03
+
+Große Aa
+
+433,00
+
+78,49
+
+78,49
+
+8,98
+
+5,18
+
+1,44
+
+1
+
+5,2
+
+111
+
+DEGB_DENW_4_2407
+
+Niederung der Weser
+
+1,25
+
+0,07
+
+0,07
+
+0,00
+
+0,00
+
+1,60
+
+1
+
+<0,1
+
+112
+
+DEGB_DEST_NI10_2
+
+Zehrengraben
+
+136,75
+
+-6,38
+
+2,01
+
+0,79
+
+0,00
+
+3,00
+
+3
+
+gesondert zu
+ermitteln
+
+Spalte L
+
+Bemerkung
+
 maßgebliche nutzbare GWDargebotsreserve
 [Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+(modifizierte Zehrung) [Mio.
+m3/a]
+
+Spalte F
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+[Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
+Reduzierung wg.
+Trendauswertung
+
+Spalte L
+
+maßgebliche nutzbare GWDargebotsreserve
+[Mio. m³/a]
+
+Spalte K
+
+GWK Klassifizierung
+
+Spalte J
+
+Mittelwert nach Aggregation
+der Rasterzellen
+
+Spalte I
+
+nutzbare GWDargebotsreserve (mittlere
+Verhältnisse)
+[Mio. m³/a]
+
+Spalte H
+
+zugelassene
+Entnahmemengen
+[Mio. m³/a]
+
+Spalte G
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+(modifizierte Zehrung) [Mio.
+m3/a]
+
+Spalte F
+
+mittleres
+Grundwasserdargebot,
+abgeschätzt nach mGrowa22
+[Mio. m3/a]
+
+Spalte E
+
+Fläche des GWK in NDS [km²]
+(Rasterzellen)
+
+Spalte D
+
+Name des GWK
+
+Spalte C
+
+Bezeichnung der
+GWK/EU_CD_GB
+
+Spalte B
+
+Bezeichnung der GWK für
+Überblickskarte (ID)
+(GWK mit Fläche < 1 km²
+werden nicht aufgeführt)
+
+Spalte A
+
 Bemerkung
-114 DEGB_DEMV_MEL_SU_4_16 Rögnitz/Amt Neuhaus 239,25 -2,08 5,44 0,71 0,35 2,65 2 0,4
-116 DEGB_DEMV_MEL_SU_3_16 Sude 15,25 -0,37 0,04 0,00 0,00 2,90 3
+
+Anlage 2: Maßgebliche nutzbare Grundwasserdargebotsreserve der Grundwasserkörper
+
+114
+
+DEGB_DEMV_MEL_SU_4_16
+
+Rögnitz/Amt Neuhaus
+
+239,25
+
+-2,08
+
+5,44
+
+0,71
+
+0,35
+
+2,65
+
+2
+
+0,4
+
+116
+
+DEGB_DEMV_MEL_SU_3_16
+
+Sude
+
+15,25
+
+-0,37
+
+0,04
+
+0,00
+
+0,00
+
+2,90
+
+3
+
 gesondert zu
 ermitteln
-117 DEGB_DENI_4_2506 Untere Weser Lockergestein links 568,75 -28,47 0,68 10,61 0,00 3,00 3
+
+117
+
+DEGB_DENI_4_2506
+
+Untere Weser Lockergestein links
+
+568,75
+
+-28,47
+
+0,68
+
+10,61
+
+0,00
+
+3,00
+
+3
+
 gesondert zu
 ermitteln
-118 DEGB_DENI_4_2501 Untere Weser Lockergestein rechts 1282,50 186,51 197,91 31,70 12,47 1,78 1 12,5
-119 DEGB_DENI_36_02 Hase rechts Festgestein 284,25 44,58 44,58 11,03 1,62 1,53 1 1,6
-120 DEGB_DEHE_4_0024 4190_5201 46,50 7,91 7,91 1,30 0,29 1,39 1 0,3
-121 DEGB_DEHE_4_0023 4190_5117 13,00 2,58 2,58 0,07 0,10 1,04 1 0,1
-122 DEGB_DENW_4_2301 Talaue der Weser suedl. Wiehengebirge 35,00 4,12 4,12 3,48 0,04 2,76 2 <0,1
-123 DEGB_DENW_928_10 Ochtruper Sattel 3,75 0,40 0,40 0,00 0,02 1,60 1 <0,1
-124 DEGB_DENI_36_04 Teutoburger Wald - Hase 30,50 6,69 6,69 1,63 0,20 1,39 1 0,2
-125 DEGB_DENW_4_2410
+
+118
+
+DEGB_DENI_4_2501
+
+Untere Weser Lockergestein rechts
+
+1282,50
+
+186,51
+
+197,91
+
+31,70
+
+12,47
+
+1,78
+
+1
+
+12,5
+
+119
+
+DEGB_DENI_36_02
+
+Hase rechts Festgestein
+
+284,25
+
+44,58
+
+44,58
+
+11,03
+
+1,62
+
+1,53
+
+1
+
+1,6
+
+120
+
+DEGB_DEHE_4_0024
+
+4190_5201
+
+46,50
+
+7,91
+
+7,91
+
+1,30
+
+0,29
+
+1,39
+
+1
+
+0,3
+
+121
+
+DEGB_DEHE_4_0023
+
+4190_5117
+
+13,00
+
+2,58
+
+2,58
+
+0,07
+
+0,10
+
+1,04
+
+1
+
+0,1
+
+122
+
+DEGB_DENW_4_2301
+
+Talaue der Weser suedl. Wiehengebirge
+
+35,00
+
+4,12
+
+4,12
+
+3,48
+
+0,04
+
+2,76
+
+2
+
+<0,1
+
+123
+
+DEGB_DENW_928_10
+
+Ochtruper Sattel
+
+3,75
+
+0,40
+
+0,40
+
+0,00
+
+0,02
+
+1,60
+
+1
+
+<0,1
+
+124
+
+DEGB_DENI_36_04
+
+Teutoburger Wald - Hase
+
+30,50
+
+6,69
+
+6,69
+
+1,63
+
+0,20
+
+1,39
+
+1
+
+0,2
+
+125
+
+DEGB_DENW_4_2410
+
 Kreide-Schichten zwischen Stemwede und
 Petershagen
-17,75 0,64 0,64 0,11 0,04 2,30 1 <0,1
+
+17,75
+
+0,64
+
+0,64
+
+0,11
+
+0,04
+
+2,30
+
+1
+
+<0,1
 
 Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F
-TK-ID
+
+Ammerland, Landkreis
+Ammerland, Landkreis
+Ammerland, Landkreis
+Ammerland, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Aurich, Landkreis
+Braunschweig, Stadt
+Braunschweig, Stadt
+
+9
+41
+117
+32
+9
+11
+13
+12
+27
+59
+32
+43
+45
+
+Leda-Jümme Lockergestein rechts
+Hunte Lockergestein links
+Untere Weser Lockergestein links
+Jade Lockergestein links
+Leda-Jümme Lockergestein rechts
+Juist
+Norderney
+Baltrum
+Norderland/Harlinger Land
+Untere Ems rechts
+Jade Lockergestein links
+Obere Aller mesozoisches Festgestein links
+Oker mesozoisches Festgestein rechts
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+Braunschweig, Stadt
+Braunschweig, Stadt
+Braunschweig, Stadt
+Braunschweig, Stadt
+Braunschweig, Stadt
+Celle, Landkreis
+Celle, Landkreis
+Celle, Landkreis
+Celle, Landkreis
+Celle, Landkreis
+Celle, Landkreis
+Celle, Stadt
+Celle, Stadt
+Celle, Stadt
+Cloppenburg, Landkreis
+Cloppenburg, Landkreis
+Cloppenburg, Landkreis
+Cloppenburg, Landkreis
+Cloppenburg, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Landkreis
+Cuxhaven, Stadt
+Cuxhaven, Stadt
+Delmenhorst, Stadt (kreisfrei)
+Delmenhorst, Stadt (kreisfrei)
+
+78
+
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+
+Diepholz, Landkreis
+Diepholz, Landkreis
+Diepholz, Landkreis
+Diepholz, Landkreis
+Diepholz, Landkreis
+Diepholz, Landkreis
+Emden, Stadt (kreisfrei)
+Emden, Stadt (kreisfrei)
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Emsland, Landkreis
+Friesland, Landkreis
+Friesland, Landkreis
+Friesland, Landkreis
+Friesland, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+
+Spalte F
+
+Bemerkung
+
 UWB
-GWK-ID
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Spalte E
+maßgebliche nutzbare
+GW-Dargebotsreserve
+[Mio. m³/a]
+
+Spalte D
 Name des
 Grundwasserkörpers
 /
 Klassifizierung
 (Farbe)
+
+Spalte C
+
+GWK-ID
+
+Spalte B
+
+TK-ID
+
+Spalte A
+
+5,0
+0,9
+gesondert zu ermitteln
+0,9
+0,5
+gesondert zu ermitteln
+gesondert zu ermitteln
+gesondert zu ermitteln
+2,3
+5,2
+0,9
+<0,1
+0,2
+
+Insel
+Insel
+Insel
+
+Oker mesozoisches Festgestein links
+
+<0,1
+
+Reduzierung wg.
+Trendauswertung
+
+71
+79
+72
+73
+20
+42
+73
+74
+77
+97
+42
+73
+74
+106
+49
+8
+9
+41
+118
+117
+34
+102
+103
+87
+118
+87
+35
+83
+
+Oker Lockergestein links
+Oker Lockergestein rechts
+Fuhse mesozoisches Festgestein rechts
+Fuhse Lockergestein rechts
+Örtze Lockergestein rechts
+Örtze Lockergestein links
+Fuhse Lockergestein rechts
+Wietze/Fuhse Lockergestein
+Böhme Lockergestein links
+Ilmenau Lockergestein links
+Örtze Lockergestein links
+Fuhse Lockergestein rechts
+Wietze/Fuhse Lockergestein
+Hase links Lockergestein
+Hase Lockergestein rechts
+Leda-Jümme Lockergestein links
+Leda-Jümme Lockergestein rechts
+Hunte Lockergestein links
+Untere Weser Lockergestein rechts
+Untere Weser Lockergestein links
+Wümme Lockergestein rechts
+Oste Lockergestein rechts
+Oste Lockergestein links
+Land Hadeln Lockergestein
+Untere Weser Lockergestein rechts
+Land Hadeln Lockergestein
+Hunte Lockergestein rechts
+Ochtum Lockergestein
+
+gesondert zu ermitteln
+gesondert zu ermitteln
+<0,1
+gesondert zu ermitteln
+5,0
+6,3
+gesondert zu ermitteln
+gesondert zu ermitteln
+0,2
+<0,1
+0,1
+gesondert zu ermitteln
+gesondert zu ermitteln
+0,5
+5,5
+5,3
+5,5
+0,7
+9,5
+gesondert zu ermitteln
+<0,1
+<0,1
+3,7
+5,4
+0,5
+0,4
+<0,1
+<0,1
+
+46
+
+Große Aue Lockergestein rechts
+
+48
+39
+35
+41
+83
+59
+58
+109
+110
+106
+49
+50
+51
+52
+8
+82
+92
+55
+9
+26
+27
+32
+42
+21
+23
+43
+45
+70
+71
+79
+73
+98
+
+Große Aue Lockergestein links
+Mittlere Weser Lockergestein links 3
+Hunte Lockergestein rechts
+Hunte Lockergestein links
+Ochtum Lockergestein
+Untere Ems rechts
+Untere Ems Lockergestein links
+Obere Ems links (Plantlünner Sandebene West)
+Große Aa
+Hase links Lockergestein
+Hase Lockergestein rechts
+Mittlere Ems Lockergestein links
+Mittlere Ems Lockergestein rechts 1
+Mittlere Ems Lockergestein rechts 2
+Leda-Jümme Lockergestein links
+Niederung der Vechte rechts
+Grenzaa
+Plantluenner Sandebene (Mitte)
+Leda-Jümme Lockergestein rechts
+Wangerooge
+Norderland/Harlinger Land
+Jade Lockergestein links
+Örtze Lockergestein links
+Ise Lockergestein rechts
+Ise Lockergestein links
+Obere Aller mesozoisches Festgestein links
+Oker mesozoisches Festgestein rechts
+Obere Aller Lockergestein links
+Oker Lockergestein links
+Oker Lockergestein rechts
+Fuhse Lockergestein rechts
+Ilmenau Lockergestein rechts
+
+0,3
+3,2
+1,3
+3,3
+0,8
+3,5
+<0,1
+<0,1
+0,7
+1,5
+3,1
+3,4
+7,8
+<0,1
+9,4
+4,2
+0,5
+0,6
+0,9
+0,2
+gesondert zu ermitteln
+<0,1
+2,0
+3,3
+1,0
+1,6
+<0,1
+<0,1
+gesondert zu ermitteln
+gesondert zu ermitteln
+gesondert zu ermitteln
+gesondert zu ermitteln
+0,4
+
+Reduzierung wg.
+Trendauswertung
+
+Insel
+
+Spalte E
+
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+
+Gifhorn, Landkreis
+Gifhorn, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+
+97
+33
+62
+61
+63
+66
+65
+15
+45
+69
+
+Ilmenau Lockergestein links
+Ohre-Urstromtal (Obere Ohre)
+Innerste mesozoisches Festgestein rechts
+Innerste Harzpaläozoikum
+Innerste mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 2
+Rhume Harzpaläozoikum
+Rhume mesozoisches Festgestein rechts
+Oker mesozoisches Festgestein rechts
+Oker Harzpaläozoikum
+
+0,2
+0,3
+0,2
+1,3
+1,3
+<0,1
+0,6
+<0,1
+<0,1
+1,0
+
+86
+87
+88
+89
+90
+91
+92
+
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Landkreis
+Goslar, Stadt
+Goslar, Stadt
+Goslar, Stadt
+Goslar, Stadt
+
+78
+
+Oker mesozoisches Festgestein links
+
+0,1
+
+31
+54
+62
+61
+45
+69
+
+Südharzer Paläozoikum
+Harzer Paläozoikum
+Innerste mesozoisches Festgestein rechts
+Innerste Harzpaläozoikum
+Oker mesozoisches Festgestein rechts
+Oker Harzpaläozoikum
+
+<0,1
+0,3
+0,2
+0,1
+<0,1
+0,2
+
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+
+Goslar, Stadt
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Landkreis
+Göttingen, Stadt
+Göttingen, Stadt
+Göttingen, Stadt
+Göttingen, Stadt
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+Grafschaft Bentheim, Landkreis
+
+78
+
+Oker mesozoisches Festgestein links
+
+0,2
+
+121
+120
+47
+67
+61
+66
+65
+15
+16
+22
+17
+104
+28
+31
+38
+40
+16
+22
+17
+104
+109
+50
+82
+84
+85
+86
+91
+92
+7
+3
+123
+
+4190_5117
+4190_5201
+4290_5201
+4300.1_5201
+Innerste Harzpaläozoikum
+Leine mesozoisches Festgestein rechts 2
+Rhume Harzpaläozoikum
+Rhume mesozoisches Festgestein rechts
+Rhume mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 1
+Leine mesozoisches Festgestein links 1
+Vogler-Solling-Bramwald
+Zechsteinrand der Thüringer Senke
+Südharzer Paläozoikum
+Eichsfelder Buntsandsteinscholle-Leine
+Nordthueringer Buntsandsteinausstrich-Helme
+Rhume mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 1
+Leine mesozoisches Festgestein links 1
+Vogler-Solling-Bramwald
+Obere Ems links (Plantlünner Sandebene West)
+Mittlere Ems Lockergestein links
+Niederung der Vechte rechts
+Niederung der Vechte links
+Bentheimer Berg
+Untere Vechte links
+Itter
+Grenzaa
+Niederung der Dinkel
+Niederung der Vechte
+Ochtruper Sattel
+
+<0,1
+0,3
+0,7
+<0,1
+<0,1
+<0,1
+1,8
+1,9
+1,7
+1,1
+1,0
+1,3
+0,2
+0,6
+<0,1
+<0,1
+<0,1
+0,2
+0,1
+<0,1
+<0,1
+0,2
+3,4
+0,7
+0,2
+2,1
+1,1
+0,6
+1,5
+0,3
+<0,1
+
+125
+126
+
+Hameln, Stadt
+Hameln, Stadt
+
+2
+
+Oberweser-Hameln
+
+0,1
+
+104
+
+Vogler-Solling-Bramwald
+
+<0,1
+
+127
+
+Hameln, Stadt
+
+14
+
+Nordlippische Trias-Gebiete
+
+<0,1
+
+128
+
+Hameln-Pyrmont, Landkreis
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+0,5
+
+129
+130
+
+Hameln-Pyrmont, Landkreis
+Hameln-Pyrmont, Landkreis
+
+2
+
+Oberweser-Hameln
+
+0,7
+
+104
+
+Vogler-Solling-Bramwald
+
+0,3
+
+131
+
+Hameln-Pyrmont, Landkreis
+
+96
+
+Ottensteiner Hochfläche
+
+0,1
+
+132
+133
+
+Hameln-Pyrmont, Landkreis
+Hameln-Pyrmont, Landkreis
+
+90
+
+Mittlere Weser Festgestein rechts
+
+<0,1
+
+4
+
+Suedlippische Trias-Gebiete
+
+0,6
+
+134
+135
+136
+137
+138
+139
+140
+141
+
+Hameln-Pyrmont, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+Harburg, Landkreis
+
+14
+
+Nordlippische Trias-Gebiete
+
+0,4
+
+34
+81
+98
+97
+99
+102
+103
+
+Wümme Lockergestein rechts
+Wümme Lockergestein links
+Ilmenau Lockergestein rechts
+Ilmenau Lockergestein links
+Este-Seeve Lockergestein
+Oste Lockergestein rechts
+Oste Lockergestein links
+
+0,4
+<0,1
+<0,1
+2,3
+10,0
+0,7
+<0,1
+
+142
+
+Heidekreis, Landkreis
+
+60
+
+Leine Lockergestein rechts
+
+<0,1
+
+143
+144
+
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+
+19
+
+Leine Lockergestein links
+
+<0,1
+
+20
+
+Örtze Lockergestein rechts
+
+5,2
+
+Spalte F
+
+Bemerkung
+
+UWB
+
+Spalte D
+
 maßgebliche nutzbare
 GW-Dargebotsreserve
 [Mio. m³/a]
-Bemerkung
-1 Ammerland, Landkreis 9 Leda-Jümme Lockergestein rechts 5,0
-2 Ammerland, Landkreis 41 Hunte Lockergestein links 0,9
-3 Ammerland, Landkreis 117 Untere Weser Lockergestein links gesondert zu ermitteln
-4 Ammerland, Landkreis 32 Jade Lockergestein links 0,9
-5 Aurich, Landkreis 9 Leda-Jümme Lockergestein rechts 0,5
-6 Aurich, Landkreis 11 Juist gesondert zu ermitteln Insel
-7 Aurich, Landkreis 13 Norderney gesondert zu ermitteln Insel
-8 Aurich, Landkreis 12 Baltrum gesondert zu ermitteln Insel
-9 Aurich, Landkreis 27 Norderland/Harlinger Land 2,3
-10 Aurich, Landkreis 59 Untere Ems rechts 5,2
-11 Aurich, Landkreis 32 Jade Lockergestein links 0,9
-12 Braunschweig, Stadt 43 Obere Aller mesozoisches Festgestein links <0,1
-13 Braunschweig, Stadt 45 Oker mesozoisches Festgestein rechts 0,2
-14 Braunschweig, Stadt
-78 Oker mesozoisches Festgestein links <0,1
-Reduzierung wg.
-Trendauswertung
-15 Braunschweig, Stadt 71 Oker Lockergestein links gesondert zu ermitteln
-16 Braunschweig, Stadt 79 Oker Lockergestein rechts gesondert zu ermitteln
-17 Braunschweig, Stadt 72 Fuhse mesozoisches Festgestein rechts <0,1
-18 Braunschweig, Stadt 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-19 Celle, Landkreis 20 Örtze Lockergestein rechts 5,0
-20 Celle, Landkreis 42 Örtze Lockergestein links 6,3
-21 Celle, Landkreis 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-22 Celle, Landkreis 74 Wietze/Fuhse Lockergestein gesondert zu ermitteln
-23 Celle, Landkreis 77 Böhme Lockergestein links 0,2
-24 Celle, Landkreis 97 Ilmenau Lockergestein links <0,1
-25 Celle, Stadt 42 Örtze Lockergestein links 0,1
-26 Celle, Stadt 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-27 Celle, Stadt 74 Wietze/Fuhse Lockergestein gesondert zu ermitteln
-28 Cloppenburg, Landkreis 106 Hase links Lockergestein 0,5
-29 Cloppenburg, Landkreis 49 Hase Lockergestein rechts 5,5
-30 Cloppenburg, Landkreis 8 Leda-Jümme Lockergestein links 5,3
-31 Cloppenburg, Landkreis 9 Leda-Jümme Lockergestein rechts 5,5
-32 Cloppenburg, Landkreis 41 Hunte Lockergestein links 0,7
-33 Cuxhaven, Landkreis 118 Untere Weser Lockergestein rechts 9,5
-34 Cuxhaven, Landkreis 117 Untere Weser Lockergestein links gesondert zu ermitteln
-35 Cuxhaven, Landkreis 34 Wümme Lockergestein rechts <0,1
-36 Cuxhaven, Landkreis 102 Oste Lockergestein rechts <0,1
-37 Cuxhaven, Landkreis 103 Oste Lockergestein links 3,7
-38 Cuxhaven, Landkreis 87 Land Hadeln Lockergestein 5,4
-39 Cuxhaven, Stadt 118 Untere Weser Lockergestein rechts 0,5
-40 Cuxhaven, Stadt 87 Land Hadeln Lockergestein 0,4
-41 Delmenhorst, Stadt (kreisfrei) 35 Hunte Lockergestein rechts <0,1
-42 Delmenhorst, Stadt (kreisfrei) 83 Ochtum Lockergestein <0,1
-43 Diepholz, Landkreis
-46 Große Aue Lockergestein rechts 0,3
-Reduzierung wg.
-Trendauswertung
-44 Diepholz, Landkreis 48 Große Aue Lockergestein links 3,2
-45 Diepholz, Landkreis 39 Mittlere Weser Lockergestein links 3 1,3
-46 Diepholz, Landkreis 35 Hunte Lockergestein rechts 3,3
-47 Diepholz, Landkreis 41 Hunte Lockergestein links 0,8
-48 Diepholz, Landkreis 83 Ochtum Lockergestein 3,5
-49 Emden, Stadt (kreisfrei) 59 Untere Ems rechts <0,1
-50 Emden, Stadt (kreisfrei) 58 Untere Ems Lockergestein links <0,1
-51 Emsland, Landkreis 109 Obere Ems links (Plantlünner Sandebene West) 0,7
-52 Emsland, Landkreis 110 Große Aa 1,5
-53 Emsland, Landkreis 106 Hase links Lockergestein 3,1
-54 Emsland, Landkreis 49 Hase Lockergestein rechts 3,4
-55 Emsland, Landkreis 50 Mittlere Ems Lockergestein links 7,8
-56 Emsland, Landkreis 51 Mittlere Ems Lockergestein rechts 1 <0,1
-57 Emsland, Landkreis 52 Mittlere Ems Lockergestein rechts 2 9,4
-58 Emsland, Landkreis 8 Leda-Jümme Lockergestein links 4,2
-59 Emsland, Landkreis 82 Niederung der Vechte rechts 0,5
-60 Emsland, Landkreis 92 Grenzaa 0,6
-61 Emsland, Landkreis 55 Plantluenner Sandebene (Mitte) 0,9
-62 Friesland, Landkreis 9 Leda-Jümme Lockergestein rechts 0,2
-63 Friesland, Landkreis 26 Wangerooge gesondert zu ermitteln Insel
-64 Friesland, Landkreis 27 Norderland/Harlinger Land <0,1
-65 Friesland, Landkreis 32 Jade Lockergestein links 2,0
-66 Gifhorn, Landkreis 42 Örtze Lockergestein links 3,3
-67 Gifhorn, Landkreis 21 Ise Lockergestein rechts 1,0
-68 Gifhorn, Landkreis 23 Ise Lockergestein links 1,6
-69 Gifhorn, Landkreis 43 Obere Aller mesozoisches Festgestein links <0,1
-70 Gifhorn, Landkreis 45 Oker mesozoisches Festgestein rechts <0,1
-71 Gifhorn, Landkreis 70 Obere Aller Lockergestein links gesondert zu ermitteln
-72 Gifhorn, Landkreis 71 Oker Lockergestein links gesondert zu ermitteln
-73 Gifhorn, Landkreis 79 Oker Lockergestein rechts gesondert zu ermitteln
-74 Gifhorn, Landkreis 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-75 Gifhorn, Landkreis 98 Ilmenau Lockergestein rechts 0,4
 
-Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F
-TK-ID
-UWB
+Spalte C
+
 GWK-ID
+
+Spalte B
+
+TK-ID
+
+Spalte A
+
 Name des
 Grundwasserkörpers
 /
 Klassifizierung
 (Farbe)
+
+Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
+
+UWB
+
+145
+146
+147
+148
+
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+
+42
+74
+75
+77
+
+Örtze Lockergestein links
+Wietze/Fuhse Lockergestein
+Böhme Lockergestein rechts
+Böhme Lockergestein links
+
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Heidekreis, Landkreis
+Helmstedt, Landkreis
+Helmstedt, Landkreis
+Helmstedt, Landkreis
+Helmstedt, Landkreis
+Helmstedt, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+
+76
+
+Untere Aller Lockergestein links
+
+34
+81
+97
+99
+23
+43
+45
+70
+44
+57
+62
+63
+64
+66
+17
+
+Wümme Lockergestein rechts
+Wümme Lockergestein links
+Ilmenau Lockergestein links
+Este-Seeve Lockergestein
+Ise Lockergestein links
+Obere Aller mesozoisches Festgestein links
+Oker mesozoisches Festgestein rechts
+Obere Aller Lockergestein links
+Triaslandschaft Börde
+Leine mesozoisches Festgestein rechts 4
+Innerste mesozoisches Festgestein rechts
+Innerste mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 3
+Leine mesozoisches Festgestein rechts 2
+Leine mesozoisches Festgestein links 1
+
+165
+
+Hildesheim, Landkreis
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+0,6
+
+166
+167
+168
+169
+170
+171
+172
+
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Landkreis
+Hildesheim, Stadt
+Hildesheim, Stadt
+Hildesheim, Stadt
+Holzminden, Landkreis
+
+19
+
+Leine Lockergestein links
+
+<0,1
+
+80
+72
+62
+63
+64
+17
+
+Wietze/Fuhse Festgestein
+Fuhse mesozoisches Festgestein rechts
+Innerste mesozoisches Festgestein rechts
+Innerste mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 3
+Leine mesozoisches Festgestein links 1
+
+0,3
+<0,1
+0,3
+0,2
+<0,1
+0,3
+
+173
+174
+
+Holzminden, Landkreis
+Holzminden, Landkreis
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+0,2
+
+104
+
+Vogler-Solling-Bramwald
+
+2,9
+
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+
+Holzminden, Landkreis
+Holzminden, Landkreis
+Holzminden, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Leer, Landkreis
+Lingen (Ems), Stadt
+Lingen (Ems), Stadt
+Lingen (Ems), Stadt
+Lingen (Ems), Stadt
+Lingen (Ems), Stadt
+Lingen (Ems), Stadt
+Lüchow-Dannenberg, Landkreis
+Lüchow-Dannenberg, Landkreis
+Lüchow-Dannenberg, Landkreis
+Lüchow-Dannenberg, Landkreis
+Lüchow-Dannenberg, Landkreis
+Lüneburg, Hansestadt
+Lüneburg, Hansestadt
+Lüneburg, Landkreis
+Lüneburg, Landkreis
+Lüneburg, Landkreis
+Lüneburg, Landkreis
+Lüneburg, Landkreis
+Lüneburg, Landkreis
+
+96
+
+Ottensteiner Hochfläche
+
+5
+4
+50
+52
+8
+9
+10
+59
+58
+110
+106
+50
+51
+82
+55
+93
+112
+94
+98
+29
+98
+97
+116
+114
+42
+94
+98
+97
+
+Hoexteraner Trias
+Suedlippische Trias-Gebiete
+Mittlere Ems Lockergestein links
+Mittlere Ems Lockergestein rechts 2
+Leda-Jümme Lockergestein links
+Leda-Jümme Lockergestein rechts
+Borkum
+Untere Ems rechts
+Untere Ems Lockergestein links
+Große Aa
+Hase links Lockergestein
+Mittlere Ems Lockergestein links
+Mittlere Ems Lockergestein rechts 1
+Niederung der Vechte rechts
+Plantluenner Sandebene (Mitte)
+Jeetzel Lockergestein rechts
+Zehrengraben
+Jeetzel Lockergestein links
+Ilmenau Lockergestein rechts
+Elbe-Urstromtal (Aland)
+Ilmenau Lockergestein rechts
+Ilmenau Lockergestein links
+Sude
+Rögnitz/Amt Neuhaus
+Örtze Lockergestein links
+Jeetzel Lockergestein links
+Ilmenau Lockergestein rechts
+Ilmenau Lockergestein links
+
+204
+
+Nienburg (Weser), Landkreis
+
+19
+
+Leine Lockergestein links
+
+<0,1
+
+205
+
+Nienburg (Weser), Landkreis
+
+76
+
+Untere Aller Lockergestein links
+
+0,7
+
+206
+
+Nienburg (Weser), Landkreis
+
+88
+
+Mittlere Weser Lockergestein rechts
+
+1,2
+
+207
+
+Nienburg (Weser), Landkreis
+
+90
+
+Mittlere Weser Festgestein rechts
+
+0,1
+
+208
+
+Nienburg (Weser), Landkreis
+
+89
+
+Mittlere Weser Lockergestein links 2
+
+0,4
+
+209
+210
+211
+212
+213
+
+Nienburg (Weser), Landkreis
+Nienburg (Weser), Landkreis
+Nienburg (Weser), Landkreis
+Nienburg (Weser), Landkreis
+Northeim, Landkreis
+
+46
+
+Große Aue Lockergestein rechts
+
+0,7
+
+48
+39
+125
+63
+
+Große Aue Lockergestein links
+Mittlere Weser Lockergestein links 3
+Kreide-Schichten zwischen Stemwede und Petershagen
+Innerste mesozoisches Festgestein links
+
+0,4
+2,2
+<0,1
+<0,1
+
+Spalte F
+
+Bemerkung
+
+Spalte E
 maßgebliche nutzbare
 GW-Dargebotsreserve
 [Mio. m³/a]
-Bemerkung
-76 Gifhorn, Landkreis 97 Ilmenau Lockergestein links 0,2
-77 Gifhorn, Landkreis 33 Ohre-Urstromtal (Obere Ohre) 0,3
-78 Goslar, Landkreis 62 Innerste mesozoisches Festgestein rechts 0,2
-79 Goslar, Landkreis 61 Innerste Harzpaläozoikum 1,3
-80 Goslar, Landkreis 63 Innerste mesozoisches Festgestein links 1,3
-81 Goslar, Landkreis 66 Leine mesozoisches Festgestein rechts 2 <0,1
-82 Goslar, Landkreis 65 Rhume Harzpaläozoikum 0,6
-83 Goslar, Landkreis 15 Rhume mesozoisches Festgestein rechts <0,1
-84 Goslar, Landkreis 45 Oker mesozoisches Festgestein rechts <0,1
-85 Goslar, Landkreis 69 Oker Harzpaläozoikum 1,0
-86 Goslar, Landkreis
-78 Oker mesozoisches Festgestein links 0,1
-Reduzierung wg.
-Trendauswertung
-87 Goslar, Landkreis 31 Südharzer Paläozoikum <0,1
-88 Goslar, Landkreis 54 Harzer Paläozoikum 0,3
-89 Goslar, Stadt 62 Innerste mesozoisches Festgestein rechts 0,2
-90 Goslar, Stadt 61 Innerste Harzpaläozoikum 0,1
-91 Goslar, Stadt 45 Oker mesozoisches Festgestein rechts <0,1
-92 Goslar, Stadt 69 Oker Harzpaläozoikum 0,2
-93 Goslar, Stadt
-78 Oker mesozoisches Festgestein links 0,2
-Reduzierung wg.
-Trendauswertung
-94 Göttingen, Landkreis 121 4190_5117 <0,1
-95 Göttingen, Landkreis 120 4190_5201 0,3
-96 Göttingen, Landkreis 47 4290_5201 0,7
-97 Göttingen, Landkreis 67 4300.1_5201 <0,1
-98 Göttingen, Landkreis 61 Innerste Harzpaläozoikum <0,1
-99 Göttingen, Landkreis 66 Leine mesozoisches Festgestein rechts 2 <0,1
-100 Göttingen, Landkreis 65 Rhume Harzpaläozoikum 1,8
-101 Göttingen, Landkreis 15 Rhume mesozoisches Festgestein rechts 1,9
-102 Göttingen, Landkreis 16 Rhume mesozoisches Festgestein links 1,7
-103 Göttingen, Landkreis 22 Leine mesozoisches Festgestein rechts 1 1,1
-104 Göttingen, Landkreis 17 Leine mesozoisches Festgestein links 1 1,0
-105 Göttingen, Landkreis 104 Vogler-Solling-Bramwald 1,3
-106 Göttingen, Landkreis 28 Zechsteinrand der Thüringer Senke 0,2
-107 Göttingen, Landkreis 31 Südharzer Paläozoikum 0,6
-108 Göttingen, Landkreis 38 Eichsfelder Buntsandsteinscholle-Leine <0,1
-109 Göttingen, Landkreis 40 Nordthueringer Buntsandsteinausstrich-Helme <0,1
-110 Göttingen, Stadt 16 Rhume mesozoisches Festgestein links <0,1
-111 Göttingen, Stadt 22 Leine mesozoisches Festgestein rechts 1 0,2
-112 Göttingen, Stadt 17 Leine mesozoisches Festgestein links 1 0,1
-113 Göttingen, Stadt 104 Vogler-Solling-Bramwald <0,1
-114 Grafschaft Bentheim, Landkreis 109 Obere Ems links (Plantlünner Sandebene West) <0,1
-115 Grafschaft Bentheim, Landkreis 50 Mittlere Ems Lockergestein links 0,2
-116 Grafschaft Bentheim, Landkreis 82 Niederung der Vechte rechts 3,4
-117 Grafschaft Bentheim, Landkreis 84 Niederung der Vechte links 0,7
-118 Grafschaft Bentheim, Landkreis 85 Bentheimer Berg 0,2
-119 Grafschaft Bentheim, Landkreis 86 Untere Vechte links 2,1
-120 Grafschaft Bentheim, Landkreis 91 Itter 1,1
-121 Grafschaft Bentheim, Landkreis 92 Grenzaa 0,6
-122 Grafschaft Bentheim, Landkreis 7 Niederung der Dinkel 1,5
-123 Grafschaft Bentheim, Landkreis 3 Niederung der Vechte 0,3
-124 Grafschaft Bentheim, Landkreis 123 Ochtruper Sattel <0,1
-125 Hameln, Stadt
-2 Oberweser-Hameln 0,1
-Reduzierung wg.
-Trendauswertung
-126 Hameln, Stadt 104 Vogler-Solling-Bramwald <0,1
-127 Hameln, Stadt
-14 Nordlippische Trias-Gebiete <0,1
-Reduzierung wg.
-Trendauswertung
-128 Hameln-Pyrmont, Landkreis
-18 Leine mesozoisches Festgestein links 2 0,5
-Reduzierung wg.
-Trendauswertung
-129 Hameln-Pyrmont, Landkreis
-2 Oberweser-Hameln 0,7
-Reduzierung wg.
-Trendauswertung
-130 Hameln-Pyrmont, Landkreis 104 Vogler-Solling-Bramwald 0,3
-131 Hameln-Pyrmont, Landkreis
-96 Ottensteiner Hochfläche 0,1
-Reduzierung wg.
-Trendauswertung
-132 Hameln-Pyrmont, Landkreis
-90 Mittlere Weser Festgestein rechts <0,1
-Reduzierung wg.
-Trendauswertung
-133 Hameln-Pyrmont, Landkreis 4 Suedlippische Trias-Gebiete 0,6
-134 Hameln-Pyrmont, Landkreis
-14 Nordlippische Trias-Gebiete 0,4
-Reduzierung wg.
-Trendauswertung
-135 Harburg, Landkreis 34 Wümme Lockergestein rechts 0,4
-136 Harburg, Landkreis 81 Wümme Lockergestein links <0,1
-137 Harburg, Landkreis 98 Ilmenau Lockergestein rechts <0,1
-138 Harburg, Landkreis 97 Ilmenau Lockergestein links 2,3
-139 Harburg, Landkreis 99 Este-Seeve Lockergestein 10,0
-140 Harburg, Landkreis 102 Oste Lockergestein rechts 0,7
-141 Harburg, Landkreis 103 Oste Lockergestein links <0,1
-142 Heidekreis, Landkreis
-60 Leine Lockergestein rechts <0,1
-Reduzierung wg.
-Trendauswertung
-143 Heidekreis, Landkreis
-19 Leine Lockergestein links <0,1
-Reduzierung wg.
-Trendauswertung
-144 Heidekreis, Landkreis 20 Örtze Lockergestein rechts 5,2
 
-Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F
-TK-ID
-UWB
-GWK-ID
+Spalte D
 Name des
 Grundwasserkörpers
 /
 Klassifizierung
 (Farbe)
+
+Spalte C
+
+GWK-ID
+
+Spalte B
+
+TK-ID
+
+Spalte A
+
+2,0
+gesondert zu ermitteln
+4,7
+4,4
+0,3
+
+Reduzierung wg.
+Trendauswertung
+
+0,4
+3,1
+2,4
+1,1
+<0,1
+0,2
+0,3
+gesondert zu ermitteln
+gesondert zu ermitteln
+<0,1
+1,0
+2,2
+1,2
+0,3
+<0,1
+
+0,4
+<0,1
+<0,1
+<0,1
+0,9
+1,9
+2,4
+gesondert zu ermitteln
+1,3
+0,8
+0,3
+0,3
+0,1
+0,4
+<0,1
+<0,1
+gesondert zu ermitteln
+gesondert zu ermitteln
+4,2
+0,9
+gesondert zu ermitteln
+0,1
+0,2
+gesondert zu ermitteln
+0,4
+0,4
+0,4
+3,0
+4,6
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+Insel
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+214
+215
+216
+217
+218
+
+Northeim, Landkreis
+Northeim, Landkreis
+Northeim, Landkreis
+Northeim, Landkreis
+Northeim, Landkreis
+
+66
+15
+16
+22
+17
+
+Leine mesozoisches Festgestein rechts 2
+Rhume mesozoisches Festgestein rechts
+Rhume mesozoisches Festgestein links
+Leine mesozoisches Festgestein rechts 1
+Leine mesozoisches Festgestein links 1
+
+1,8
+0,5
+0,3
+0,3
+3,8
+
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+
+Northeim, Landkreis
+Northeim, Landkreis
+Oldenburg (Oldb), Stadt (kreisfrei)
+Oldenburg (Oldb), Stadt (kreisfrei)
+Oldenburg, Landkreis
+Oldenburg, Landkreis
+Oldenburg, Landkreis
+Oldenburg, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+<0,1
+
+104
+35
+41
+9
+35
+41
+83
+110
+106
+119
+107
+124
+49
+
+Vogler-Solling-Bramwald
+Hunte Lockergestein rechts
+Hunte Lockergestein links
+Leda-Jümme Lockergestein rechts
+Hunte Lockergestein rechts
+Hunte Lockergestein links
+Ochtum Lockergestein
+Große Aa
+Hase links Lockergestein
+Hase rechts Festgestein
+Hase links Festgestein
+Teutoburger Wald - Hase
+Hase Lockergestein rechts
+
+1,8
+0,3
+0,5
+<0,1
+4,2
+3,2
+1,9
+3,3
+7,5
+1,5
+1,1
+0,2
+1,1
+
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Landkreis
+Osnabrück, Stadt (kreisfrei)
+Osnabrück, Stadt (kreisfrei)
+Osterholz, Landkreis
+Osterholz, Landkreis
+Peine, Landkreis
+
+105
+
+Werre mesozoisches Festgestein
+
+0,2
+
+35
+36
+37
+41
+56
+108
+30
+68
+95
+53
+6
+119
+107
+118
+34
+62
+
+Hunte Lockergestein rechts
+Hunte Festgestein rechts
+Hunte Festgestein links
+Hunte Lockergestein links
+Niederung der Oberen Ems (Greven/Ladbergen)
+Niederung der Oberen Ems (Sassenberg/Versmold)
+Teutoburger Wald (Nordwest)
+Östlicher Teutoburger Wald
+Suedliche Herforder Mulde
+Noerdliche Herforder Mulde
+Grosse Aue Lockergestein im Sueden
+Hase rechts Festgestein
+Hase links Festgestein
+Untere Weser Lockergestein rechts
+Wümme Lockergestein rechts
+Innerste mesozoisches Festgestein rechts
+
+0,3
+0,2
+0,6
+0,7
+0,4
+1,3
+0,3
+<0,1
+0,6
+<0,1
+<0,1
+<0,1
+0,3
+1,6
+4,2
+0,1
+
+250
+251
+252
+253
+254
+255
+256
+
+Peine, Landkreis
+Peine, Landkreis
+Peine, Landkreis
+Peine, Landkreis
+Peine, Landkreis
+Peine, Landkreis
+Peine, Landkreis
+
+78
+
+Oker mesozoisches Festgestein links
+
+<0,1
+
+71
+79
+80
+72
+73
+74
+
+Oker Lockergestein links
+Oker Lockergestein rechts
+Wietze/Fuhse Festgestein
+Fuhse mesozoisches Festgestein rechts
+Fuhse Lockergestein rechts
+Wietze/Fuhse Lockergestein
+
+gesondert zu ermitteln
+gesondert zu ermitteln
+0,3
+0,3
+gesondert zu ermitteln
+gesondert zu ermitteln
+
+257
+258
+259
+260
+
+Region Hannover
+Region Hannover
+Region Hannover
+Region Hannover
+
+60
+
+Leine Lockergestein rechts
+
+0,7
+
+57
+62
+64
+
+Leine mesozoisches Festgestein rechts 4
+Innerste mesozoisches Festgestein rechts
+Leine mesozoisches Festgestein rechts 3
+
+0,3
+<0,1
+<0,1
+
+261
+
+Region Hannover
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+0,7
+
+262
+263
+264
+265
+
+Region Hannover
+Region Hannover
+Region Hannover
+Region Hannover
+
+19
+
+Leine Lockergestein links
+
+0,4
+
+80
+73
+74
+
+Wietze/Fuhse Festgestein
+Fuhse Lockergestein rechts
+Wietze/Fuhse Lockergestein
+
+266
+
+Region Hannover
+
+76
+
+Untere Aller Lockergestein links
+
+0,2
+
+267
+
+Region Hannover
+
+2
+
+Oberweser-Hameln
+
+0,1
+
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+
+Region Hannover
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Rotenburg (Wümme), Landkreis
+Salzgitter, Stadt (kreisfrei)
+Salzgitter, Stadt (kreisfrei)
+
+88
+
+Mittlere Weser Lockergestein rechts
+
+0,4
+
+75
+118
+34
+81
+100
+102
+103
+62
+63
+
+Böhme Lockergestein rechts
+Untere Weser Lockergestein rechts
+Wümme Lockergestein rechts
+Wümme Lockergestein links
+Lühe-Schwinge Lockergestein
+Oste Lockergestein rechts
+Oste Lockergestein links
+Innerste mesozoisches Festgestein rechts
+Innerste mesozoisches Festgestein links
+
+0,7
+0,8
+6,2
+4,7
+<0,1
+5,0
+6,1
+0,1
+<0,1
+
+278
+279
+280
+281
+
+Salzgitter, Stadt (kreisfrei)
+Salzgitter, Stadt (kreisfrei)
+Salzgitter, Stadt (kreisfrei)
+Salzgitter, Stadt (kreisfrei)
+
+78
+
+Oker mesozoisches Festgestein links
+
+0,1
+
+80
+72
+73
+
+Wietze/Fuhse Festgestein
+Fuhse mesozoisches Festgestein rechts
+Fuhse Lockergestein rechts
+
+0,4
+<0,1
+gesondert zu ermitteln
+
+282
+
+Schaumburg, Landkreis
+
+18
+
+Leine mesozoisches Festgestein links 2
+
+0,5
+
+Spalte F
+
+Bemerkung
+
+Spalte E
+
+UWB
+
+Spalte D
+
 maßgebliche nutzbare
 GW-Dargebotsreserve
 [Mio. m³/a]
-Bemerkung
-145 Heidekreis, Landkreis 42 Örtze Lockergestein links 2,0
-146 Heidekreis, Landkreis 74 Wietze/Fuhse Lockergestein gesondert zu ermitteln
-147 Heidekreis, Landkreis 75 Böhme Lockergestein rechts 4,7
-148 Heidekreis, Landkreis 77 Böhme Lockergestein links 4,4
-149 Heidekreis, Landkreis
-76 Untere Aller Lockergestein links 0,3
-Reduzierung wg.
-Trendauswertung
-150 Heidekreis, Landkreis 34 Wümme Lockergestein rechts 0,4
-151 Heidekreis, Landkreis 81 Wümme Lockergestein links 3,1
-152 Heidekreis, Landkreis 97 Ilmenau Lockergestein links 2,4
-153 Heidekreis, Landkreis 99 Este-Seeve Lockergestein 1,1
-154 Helmstedt, Landkreis 23 Ise Lockergestein links <0,1
-155 Helmstedt, Landkreis 43 Obere Aller mesozoisches Festgestein links 0,2
-156 Helmstedt, Landkreis 45 Oker mesozoisches Festgestein rechts 0,3
-157 Helmstedt, Landkreis 70 Obere Aller Lockergestein links gesondert zu ermitteln
-158 Helmstedt, Landkreis 44 Triaslandschaft Börde gesondert zu ermitteln
-159 Hildesheim, Landkreis 57 Leine mesozoisches Festgestein rechts 4 <0,1
-160 Hildesheim, Landkreis 62 Innerste mesozoisches Festgestein rechts 1,0
-161 Hildesheim, Landkreis 63 Innerste mesozoisches Festgestein links 2,2
-162 Hildesheim, Landkreis 64 Leine mesozoisches Festgestein rechts 3 1,2
-163 Hildesheim, Landkreis 66 Leine mesozoisches Festgestein rechts 2 0,3
-164 Hildesheim, Landkreis 17 Leine mesozoisches Festgestein links 1 <0,1
-165 Hildesheim, Landkreis
-18 Leine mesozoisches Festgestein links 2 0,6
-Reduzierung wg.
-Trendauswertung
-166 Hildesheim, Landkreis
-19 Leine Lockergestein links <0,1
-Reduzierung wg.
-Trendauswertung
-167 Hildesheim, Landkreis 80 Wietze/Fuhse Festgestein 0,3
-168 Hildesheim, Landkreis 72 Fuhse mesozoisches Festgestein rechts <0,1
-169 Hildesheim, Stadt 62 Innerste mesozoisches Festgestein rechts 0,3
-170 Hildesheim, Stadt 63 Innerste mesozoisches Festgestein links 0,2
-171 Hildesheim, Stadt 64 Leine mesozoisches Festgestein rechts 3 <0,1
-172 Holzminden, Landkreis 17 Leine mesozoisches Festgestein links 1 0,3
-173 Holzminden, Landkreis
-18 Leine mesozoisches Festgestein links 2 0,2
-Reduzierung wg.
-Trendauswertung
-174 Holzminden, Landkreis 104 Vogler-Solling-Bramwald 2,9
-175 Holzminden, Landkreis
-96 Ottensteiner Hochfläche 0,4
-Reduzierung wg.
-Trendauswertung
-176 Holzminden, Landkreis 5 Hoexteraner Trias <0,1
-177 Holzminden, Landkreis 4 Suedlippische Trias-Gebiete <0,1
-178 Leer, Landkreis 50 Mittlere Ems Lockergestein links <0,1
-179 Leer, Landkreis 52 Mittlere Ems Lockergestein rechts 2 0,9
-180 Leer, Landkreis 8 Leda-Jümme Lockergestein links 1,9
-181 Leer, Landkreis 9 Leda-Jümme Lockergestein rechts 2,4
-182 Leer, Landkreis 10 Borkum gesondert zu ermitteln Insel
-183 Leer, Landkreis 59 Untere Ems rechts 1,3
-184 Leer, Landkreis 58 Untere Ems Lockergestein links 0,8
-185 Lingen (Ems), Stadt 110 Große Aa 0,3
-186 Lingen (Ems), Stadt 106 Hase links Lockergestein 0,3
-187 Lingen (Ems), Stadt 50 Mittlere Ems Lockergestein links 0,1
-188 Lingen (Ems), Stadt 51 Mittlere Ems Lockergestein rechts 1 0,4
-189 Lingen (Ems), Stadt 82 Niederung der Vechte rechts <0,1
-190 Lingen (Ems), Stadt 55 Plantluenner Sandebene (Mitte) <0,1
-191 Lüchow-Dannenberg, Landkreis 93 Jeetzel Lockergestein rechts gesondert zu ermitteln
-192 Lüchow-Dannenberg, Landkreis 112 Zehrengraben gesondert zu ermitteln
-193 Lüchow-Dannenberg, Landkreis 94 Jeetzel Lockergestein links 4,2
-194 Lüchow-Dannenberg, Landkreis 98 Ilmenau Lockergestein rechts 0,9
-195 Lüchow-Dannenberg, Landkreis 29 Elbe-Urstromtal (Aland) gesondert zu ermitteln
-196 Lüneburg, Hansestadt 98 Ilmenau Lockergestein rechts 0,1
-197 Lüneburg, Hansestadt 97 Ilmenau Lockergestein links 0,2
-198 Lüneburg, Landkreis 116 Sude gesondert zu ermitteln
-199 Lüneburg, Landkreis 114 Rögnitz/Amt Neuhaus 0,4
-200 Lüneburg, Landkreis 42 Örtze Lockergestein links 0,4
-201 Lüneburg, Landkreis 94 Jeetzel Lockergestein links 0,4
-202 Lüneburg, Landkreis 98 Ilmenau Lockergestein rechts 3,0
-203 Lüneburg, Landkreis 97 Ilmenau Lockergestein links 4,6
-204 Nienburg (Weser), Landkreis
-19 Leine Lockergestein links <0,1
-Reduzierung wg.
-Trendauswertung
-205 Nienburg (Weser), Landkreis
-76 Untere Aller Lockergestein links 0,7
-Reduzierung wg.
-Trendauswertung
-206 Nienburg (Weser), Landkreis
-88 Mittlere Weser Lockergestein rechts 1,2
-Reduzierung wg.
-Trendauswertung
-207 Nienburg (Weser), Landkreis
-90 Mittlere Weser Festgestein rechts 0,1
-Reduzierung wg.
-Trendauswertung
-208 Nienburg (Weser), Landkreis
-89 Mittlere Weser Lockergestein links 2 0,4
-Reduzierung wg.
-Trendauswertung
-209 Nienburg (Weser), Landkreis
-46 Große Aue Lockergestein rechts 0,7
-Reduzierung wg.
-Trendauswertung
-210 Nienburg (Weser), Landkreis 48 Große Aue Lockergestein links 0,4
-211 Nienburg (Weser), Landkreis 39 Mittlere Weser Lockergestein links 3 2,2
-212 Nienburg (Weser), Landkreis 125 Kreide-Schichten zwischen Stemwede und Petershagen <0,1
-213 Northeim, Landkreis 63 Innerste mesozoisches Festgestein links <0,1
 
-Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F
-TK-ID
-UWB
+Spalte C
+
 GWK-ID
+
+Spalte B
+
+TK-ID
+
+Spalte A
+
 Name des
 Grundwasserkörpers
 /
 Klassifizierung
 (Farbe)
-maßgebliche nutzbare
-GW-Dargebotsreserve
-[Mio. m³/a]
-Bemerkung
-214 Northeim, Landkreis 66 Leine mesozoisches Festgestein rechts 2 1,8
-215 Northeim, Landkreis 15 Rhume mesozoisches Festgestein rechts 0,5
-216 Northeim, Landkreis 16 Rhume mesozoisches Festgestein links 0,3
-217 Northeim, Landkreis 22 Leine mesozoisches Festgestein rechts 1 0,3
-218 Northeim, Landkreis 17 Leine mesozoisches Festgestein links 1 3,8
-219 Northeim, Landkreis
-18 Leine mesozoisches Festgestein links 2 <0,1
-Reduzierung wg.
-Trendauswertung
-220 Northeim, Landkreis 104 Vogler-Solling-Bramwald 1,8
-221 Oldenburg (Oldb), Stadt (kreisfrei)35 Hunte Lockergestein rechts 0,3
-222 Oldenburg (Oldb), Stadt (kreisfrei)41 Hunte Lockergestein links 0,5
-223 Oldenburg, Landkreis 9 Leda-Jümme Lockergestein rechts <0,1
-224 Oldenburg, Landkreis 35 Hunte Lockergestein rechts 4,2
-225 Oldenburg, Landkreis 41 Hunte Lockergestein links 3,2
-226 Oldenburg, Landkreis 83 Ochtum Lockergestein 1,9
-227 Osnabrück, Landkreis 110 Große Aa 3,3
-228 Osnabrück, Landkreis 106 Hase links Lockergestein 7,5
-229 Osnabrück, Landkreis 119 Hase rechts Festgestein 1,5
-230 Osnabrück, Landkreis 107 Hase links Festgestein 1,1
-231 Osnabrück, Landkreis 124 Teutoburger Wald - Hase 0,2
-232 Osnabrück, Landkreis 49 Hase Lockergestein rechts 1,1
-233 Osnabrück, Landkreis
-105 Werre mesozoisches Festgestein 0,2
-Reduzierung wg.
-Trendauswertung
-234 Osnabrück, Landkreis 35 Hunte Lockergestein rechts 0,3
-235 Osnabrück, Landkreis 36 Hunte Festgestein rechts 0,2
-236 Osnabrück, Landkreis 37 Hunte Festgestein links 0,6
-237 Osnabrück, Landkreis 41 Hunte Lockergestein links 0,7
-238 Osnabrück, Landkreis 56 Niederung der Oberen Ems (Greven/Ladbergen) 0,4
-239 Osnabrück, Landkreis 108 Niederung der Oberen Ems (Sassenberg/Versmold) 1,3
-240 Osnabrück, Landkreis 30 Teutoburger Wald (Nordwest) 0,3
-241 Osnabrück, Landkreis 68 Östlicher Teutoburger Wald <0,1
-242 Osnabrück, Landkreis 95 Suedliche Herforder Mulde 0,6
-243 Osnabrück, Landkreis 53 Noerdliche Herforder Mulde <0,1
-244 Osnabrück, Landkreis 6 Grosse Aue Lockergestein im Sueden <0,1
-245 Osnabrück, Stadt (kreisfrei) 119 Hase rechts Festgestein <0,1
-246 Osnabrück, Stadt (kreisfrei) 107 Hase links Festgestein 0,3
-247 Osterholz, Landkreis 118 Untere Weser Lockergestein rechts 1,6
-248 Osterholz, Landkreis 34 Wümme Lockergestein rechts 4,2
-249 Peine, Landkreis 62 Innerste mesozoisches Festgestein rechts 0,1
-250 Peine, Landkreis
-78 Oker mesozoisches Festgestein links <0,1
-Reduzierung wg.
-Trendauswertung
-251 Peine, Landkreis 71 Oker Lockergestein links gesondert zu ermitteln
-252 Peine, Landkreis 79 Oker Lockergestein rechts gesondert zu ermitteln
-253 Peine, Landkreis 80 Wietze/Fuhse Festgestein 0,3
-254 Peine, Landkreis 72 Fuhse mesozoisches Festgestein rechts 0,3
-255 Peine, Landkreis 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-256 Peine, Landkreis 74 Wietze/Fuhse Lockergestein gesondert zu ermitteln
-257 Region Hannover
-60 Leine Lockergestein rechts 0,7
-Reduzierung wg.
-Trendauswertung
-258 Region Hannover 57 Leine mesozoisches Festgestein rechts 4 0,3
-259 Region Hannover 62 Innerste mesozoisches Festgestein rechts <0,1
-260 Region Hannover 64 Leine mesozoisches Festgestein rechts 3 <0,1
-261 Region Hannover
-18 Leine mesozoisches Festgestein links 2 0,7
-Reduzierung wg.
-Trendauswertung
-262 Region Hannover
-19 Leine Lockergestein links 0,4
-Reduzierung wg.
-Trendauswertung
-263 Region Hannover 80 Wietze/Fuhse Festgestein 0,4
-264 Region Hannover 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-265 Region Hannover 74 Wietze/Fuhse Lockergestein gesondert zu ermitteln
-266 Region Hannover
-76 Untere Aller Lockergestein links 0,2
-Reduzierung wg.
-Trendauswertung
-267 Region Hannover
-2 Oberweser-Hameln 0,1
-Reduzierung wg.
-Trendauswertung
-268 Region Hannover
-88 Mittlere Weser Lockergestein rechts 0,4
-Reduzierung wg.
-Trendauswertung
-269 Rotenburg (Wümme), Landkreis 75 Böhme Lockergestein rechts 0,7
-270 Rotenburg (Wümme), Landkreis 118 Untere Weser Lockergestein rechts 0,8
-271 Rotenburg (Wümme), Landkreis 34 Wümme Lockergestein rechts 6,2
-272 Rotenburg (Wümme), Landkreis 81 Wümme Lockergestein links 4,7
-273 Rotenburg (Wümme), Landkreis 100 Lühe-Schwinge Lockergestein <0,1
-274 Rotenburg (Wümme), Landkreis 102 Oste Lockergestein rechts 5,0
-275 Rotenburg (Wümme), Landkreis 103 Oste Lockergestein links 6,1
-276 Salzgitter, Stadt (kreisfrei) 62 Innerste mesozoisches Festgestein rechts 0,1
-277 Salzgitter, Stadt (kreisfrei) 63 Innerste mesozoisches Festgestein links <0,1
-278 Salzgitter, Stadt (kreisfrei)
-78 Oker mesozoisches Festgestein links 0,1
-Reduzierung wg.
-Trendauswertung
-279 Salzgitter, Stadt (kreisfrei) 80 Wietze/Fuhse Festgestein 0,4
-280 Salzgitter, Stadt (kreisfrei) 72 Fuhse mesozoisches Festgestein rechts <0,1
-281 Salzgitter, Stadt (kreisfrei) 73 Fuhse Lockergestein rechts gesondert zu ermitteln
-282 Schaumburg, Landkreis
-18 Leine mesozoisches Festgestein links 2 0,5
+
+Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
+
 Reduzierung wg.
 Trendauswertung
 
-Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
-Spalte A Spalte B Spalte C Spalte D Spalte E Spalte F
-TK-ID
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+0,4
+gesondert zu ermitteln
+gesondert zu ermitteln
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Reduzierung wg.
+Trendauswertung
+
+Spalte E
+
+283
+
+Schaumburg, Landkreis
+
+19
+
+Leine Lockergestein links
+
+<0,1
+
+284
+
+Schaumburg, Landkreis
+
+2
+
+Oberweser-Hameln
+
+<0,1
+
+285
+
+Schaumburg, Landkreis
+
+88
+
+Mittlere Weser Lockergestein rechts
+
+<0,1
+
+286
+287
+
+Schaumburg, Landkreis
+Schaumburg, Landkreis
+
+90
+
+Mittlere Weser Festgestein rechts
+
+0,4
+
+122
+
+Talaue der Weser suedl. Wiehengebirge
+
+<0,1
+
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+
+Schaumburg, Landkreis
+Schaumburg, Landkreis
+Stade, Landkreis
+Stade, Landkreis
+Stade, Landkreis
+Stade, Landkreis
+Stade, Landkreis
+Uelzen, Landkreis
+Uelzen, Landkreis
+Uelzen, Landkreis
+Uelzen, Landkreis
+Uelzen, Landkreis
+Vechta, Landkreis
+Vechta, Landkreis
+Verden, Landkreis
+
+14
+
+Nordlippische Trias-Gebiete
+
+0,1
+
+111
+99
+100
+101
+102
+103
+42
+21
+94
+98
+97
+49
+41
+75
+
+Niederung der Weser
+Este-Seeve Lockergestein
+Lühe-Schwinge Lockergestein
+Land Kehdingen Lockergestein
+Oste Lockergestein rechts
+Oste Lockergestein links
+Örtze Lockergestein links
+Ise Lockergestein rechts
+Jeetzel Lockergestein links
+Ilmenau Lockergestein rechts
+Ilmenau Lockergestein links
+Hase Lockergestein rechts
+Hunte Lockergestein links
+Böhme Lockergestein rechts
+
+<0,1
+0,8
+4,4
+0,3
+2,7
+<0,1
+1,7
+<0,1
+<0,1
+6,1
+8,7
+4,7
+3,5
+1,1
+
+303
+
+Verden, Landkreis
+
+76
+
+Untere Aller Lockergestein links
+
+0,2
+
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+
+Verden, Landkreis
+Verden, Landkreis
+Verden, Landkreis
+Verden, Landkreis
+Verden, Landkreis
+Wesermarsch, Landkreis
+Wesermarsch, Landkreis
+Wesermarsch, Landkreis
+Wesermarsch, Landkreis
+Wesermarsch, Landkreis
+Wesermarsch, Landkreis
+Wilhelmshaven, Stadt (kreisfrei)
+Wittmund, Landkreis
+Wittmund, Landkreis
+Wittmund, Landkreis
+Wittmund, Landkreis
+Wittmund, Landkreis
+Wittmund, Landkreis
+Wolfenbüttel, Landkreis
+Wolfenbüttel, Landkreis
+Wolfenbüttel, Landkreis
+
+88
+
+Mittlere Weser Lockergestein rechts
+
+0,1
+
+39
+34
+81
+83
+118
+35
+41
+117
+32
+83
+32
+9
+24
+25
+27
+59
+32
+62
+63
+45
+
+Mittlere Weser Lockergestein links 3
+Wümme Lockergestein rechts
+Wümme Lockergestein links
+Ochtum Lockergestein
+Untere Weser Lockergestein rechts
+Hunte Lockergestein rechts
+Hunte Lockergestein links
+Untere Weser Lockergestein links
+Jade Lockergestein links
+Ochtum Lockergestein
+Jade Lockergestein links
+Leda-Jümme Lockergestein rechts
+Langeoog
+Spiekeroog
+Norderland/Harlinger Land
+Untere Ems rechts
+Jade Lockergestein links
+Innerste mesozoisches Festgestein rechts
+Innerste mesozoisches Festgestein links
+Oker mesozoisches Festgestein rechts
+
+325
+326
+327
+328
+329
+330
+331
+332
+
+Wolfenbüttel, Landkreis
+Wolfenbüttel, Landkreis
+Wolfenbüttel, Landkreis
+Wolfenbüttel, Landkreis
+Wolfsburg, Stadt (kreisfrei)
+Wolfsburg, Stadt (kreisfrei)
+Wolfsburg, Stadt (kreisfrei)
+Wolfsburg, Stadt (kreisfrei)
+
+78
+
+Oker mesozoisches Festgestein links
+
+80
+72
+44
+23
+43
+45
+70
+
+Wietze/Fuhse Festgestein
+Fuhse mesozoisches Festgestein rechts
+Triaslandschaft Börde
+Ise Lockergestein links
+Obere Aller mesozoisches Festgestein links
+Oker mesozoisches Festgestein rechts
+Obere Aller Lockergestein links
+
+0,7
+0,7
+2,0
+0,5
+<0,1
+0,2
+0,3
+gesondert zu ermitteln
+<0,1
+<0,1
+0,5
+0,2
+gesondert zu ermitteln
+gesondert zu ermitteln
+2,8
+<0,1
+1,2
+0,3
+0,3
+0,2
+0,1
+0,2
+<0,1
+gesondert zu ermitteln
+<0,1
+0,3
+0,1
+gesondert zu ermitteln
+
+Spalte F
+
+Bemerkung
+
 UWB
+
+Spalte D
+
+maßgebliche nutzbare
+GW-Dargebotsreserve
+[Mio. m³/a]
+
+Spalte C
+
 GWK-ID
+
+Spalte B
+
+TK-ID
+
+Spalte A
+
 Name des
 Grundwasserkörpers
 /
 Klassifizierung
 (Farbe)
-maßgebliche nutzbare
-GW-Dargebotsreserve
-[Mio. m³/a]
-Bemerkung
-283 Schaumburg, Landkreis
-19 Leine Lockergestein links <0,1
+
+Anlage 4: Maßgebliche nutzbare Grundwasserdargebotsreserve für Teilkörper
+
 Reduzierung wg.
 Trendauswertung
-284 Schaumburg, Landkreis
-2 Oberweser-Hameln <0,1
 Reduzierung wg.
 Trendauswertung
-285 Schaumburg, Landkreis
-88 Mittlere Weser Lockergestein rechts <0,1
 Reduzierung wg.
 Trendauswertung
-286 Schaumburg, Landkreis
-90 Mittlere Weser Festgestein rechts 0,4
 Reduzierung wg.
 Trendauswertung
-287 Schaumburg, Landkreis 122 Talaue der Weser suedl. Wiehengebirge <0,1
-288 Schaumburg, Landkreis
-14 Nordlippische Trias-Gebiete 0,1
 Reduzierung wg.
 Trendauswertung
-289 Schaumburg, Landkreis 111 Niederung der Weser <0,1
-290 Stade, Landkreis 99 Este-Seeve Lockergestein 0,8
-291 Stade, Landkreis 100 Lühe-Schwinge Lockergestein 4,4
-292 Stade, Landkreis 101 Land Kehdingen Lockergestein 0,3
-293 Stade, Landkreis 102 Oste Lockergestein rechts 2,7
-294 Stade, Landkreis 103 Oste Lockergestein links <0,1
-295 Uelzen, Landkreis 42 Örtze Lockergestein links 1,7
-296 Uelzen, Landkreis 21 Ise Lockergestein rechts <0,1
-297 Uelzen, Landkreis 94 Jeetzel Lockergestein links <0,1
-298 Uelzen, Landkreis 98 Ilmenau Lockergestein rechts 6,1
-299 Uelzen, Landkreis 97 Ilmenau Lockergestein links 8,7
-300 Vechta, Landkreis 49 Hase Lockergestein rechts 4,7
-301 Vechta, Landkreis 41 Hunte Lockergestein links 3,5
-302 Verden, Landkreis 75 Böhme Lockergestein rechts 1,1
-303 Verden, Landkreis
-76 Untere Aller Lockergestein links 0,2
+
 Reduzierung wg.
 Trendauswertung
-304 Verden, Landkreis
-88 Mittlere Weser Lockergestein rechts 0,1
 Reduzierung wg.
 Trendauswertung
-305 Verden, Landkreis 39 Mittlere Weser Lockergestein links 3 0,7
-306 Verden, Landkreis 34 Wümme Lockergestein rechts 0,7
-307 Verden, Landkreis 81 Wümme Lockergestein links 2,0
-308 Verden, Landkreis 83 Ochtum Lockergestein 0,5
-309 Wesermarsch, Landkreis 118 Untere Weser Lockergestein rechts <0,1
-310 Wesermarsch, Landkreis 35 Hunte Lockergestein rechts 0,2
-311 Wesermarsch, Landkreis 41 Hunte Lockergestein links 0,3
-312 Wesermarsch, Landkreis 117 Untere Weser Lockergestein links gesondert zu ermitteln
-313 Wesermarsch, Landkreis 32 Jade Lockergestein links <0,1
-314 Wesermarsch, Landkreis 83 Ochtum Lockergestein <0,1
-315 Wilhelmshaven, Stadt (kreisfrei) 32 Jade Lockergestein links 0,5
-316 Wittmund, Landkreis 9 Leda-Jümme Lockergestein rechts 0,2
-317 Wittmund, Landkreis 24 Langeoog gesondert zu ermitteln Insel
-318 Wittmund, Landkreis 25 Spiekeroog gesondert zu ermitteln Insel
-319 Wittmund, Landkreis 27 Norderland/Harlinger Land 2,8
-320 Wittmund, Landkreis 59 Untere Ems rechts <0,1
-321 Wittmund, Landkreis 32 Jade Lockergestein links 1,2
-322 Wolfenbüttel, Landkreis 62 Innerste mesozoisches Festgestein rechts 0,3
-323 Wolfenbüttel, Landkreis 63 Innerste mesozoisches Festgestein links 0,3
-324 Wolfenbüttel, Landkreis 45 Oker mesozoisches Festgestein rechts 0,2
-325 Wolfenbüttel, Landkreis
-78 Oker mesozoisches Festgestein links 0,1
+
+Insel
+Insel
+
 Reduzierung wg.
 Trendauswertung
-326 Wolfenbüttel, Landkreis 80 Wietze/Fuhse Festgestein 0,2
-327 Wolfenbüttel, Landkreis 72 Fuhse mesozoisches Festgestein rechts <0,1
-328 Wolfenbüttel, Landkreis 44 Triaslandschaft Börde gesondert zu ermitteln
-329 Wolfsburg, Stadt (kreisfrei) 23 Ise Lockergestein links <0,1
-330 Wolfsburg, Stadt (kreisfrei) 43 Obere Aller mesozoisches Festgestein links 0,3
-331 Wolfsburg, Stadt (kreisfrei) 45 Oker mesozoisches Festgestein rechts 0,1
-332 Wolfsburg, Stadt (kreisfrei) 70 Obere Aller Lockergestein links gesondert zu ermitteln
 
 Anlage 6
 Kriterien für die Entnahmetiefe von Grundwasser mittels Brunnen
-Die Prüfung eines Antrags zur Entnahme von Grundwasser setzt eine Beschreibung der jeweiligen hydrogeologischen Situation in einem entsprechenden Gutachten voraus (siehe für die Feldberegnung Geof akten 3 „Hydrogeologische und bodenkundliche Anforderungen an Anträge zur Grundwasserentnahme für die
-Feldberegnung“ ). Die Belastung der Grundwasser-Ressourcen sollte stets so gering wie möglich gehalten
+Die Prüfung eines Antrags zur Entnahme von Grundwasser setzt eine Beschreibung der jeweiligen hydrogeologischen Situation in einem entsprechenden Gutachten voraus (siehe für die Feldberegnung Geofakten 3 „Hydrogeologische und bodenkundliche Anforderungen an Anträge zur Grundwasserentnahme für die
+Feldberegnung“). Die Belastung der Grundwasser-Ressourcen sollte stets so gering wie möglich gehalten
 werden. Um dies sicherzustellen sind geringere Entnahmetiefen grundsätzlich zu bevorzugen. Um zu beurteilen, ob die Verlagerung der Entnahme in tiefere Abschnitte des Grundwasserleiters sinnvoll oder erforderlich ist, können, basierend auf dem hydrogeologischen Gutachten, diverse Kriterien zur Einzelfallprüfung
 herangezogen werden. Hierzu gehören insbesondere die im Folgenden genannten Kriterien:
-Kriterium Bewertungshinweise
-Flurabstand Bei geringen Flurabständen sind die Auswirkungen der entnahmebedingten
-Grundwasserabsenkung besonders zu prü fen, ob empfindliche Schutzgüter,
+
+Kriterium
+
+Bewertungshinweise
+
+Flurabstand
+
+Bei geringen Flurabständen sind die Auswirkungen der entnahmebedingten
+Grundwasserabsenkung besonders zu prüfen, ob empfindliche Schutzgüter,
 wie z. B. grundwasserabhängige Landökosysteme (LÖS) oder forstwirtschaftliche Nutzung beeinträchtigt werden können.
-Oberflächengewässer Im Einzugsbereich großer Vorfluter können durch eine hydraulische Anbindung die Auswirkungen der Entnahme ggf. gedämpft werden. In diesen Fällen ist eine möglichst oberflächennahe Entnahme sinnvoll. Hier sind eventuelle Auswirkungen der Grundwasserentnahme auf das Oberflächengewässer
+
+Oberflächengewässer
+
+Im Einzugsbereich großer Vorfluter können durch eine hydraulische Anbindung die Auswirkungen der Entnahme ggf. gedämpft werden. In diesen Fällen ist eine möglichst oberflächennahe Entnahme sinnvoll. Hier sind eventuelle Auswirkungen der Grundwasserentnahme auf das Oberflächengewässer
 (z. B. Abflussminderung) zu bewerten. Bei empfindlichen Oberflächengewässern, die hydraulisch an das Grundwasser angeschlossen sind, kann
 eine größere Entnahmetiefe dem Schutz des Gewässers dienen.
-Stockwerkstrennung Gut geschütztes Grundwasser tieferer Stockwerke ist besonders empfindlich
-gegenüber Eingrif fen. Es sollte grundsätzlich der Trinkwassergewinnung
+
+Stockwerkstrennung
+
+Gut geschütztes Grundwasser tieferer Stockwerke ist besonders empfindlich
+gegenüber Eingriffen. Es sollte grundsätzlich der Trinkwassergewinnung
 vorbehalten bleiben. Einen Hinweis auf einen Eintrag oberflächennaher Verunreinigungen bietet der Nachweis ubiquitär vorhandener anthropogener
 Stoffe wie zum Beispiel Röntgenkontrastmittel, PSM o. Ä. Können solche
 Stoffe nicht nachgewiesen werden, ist in den entsprechenden Tiefen ein
 Zustrom von anthropogen überprägtem Wasser zumindest noch nicht messbar. In einem solchen Fall ist von einer besonderen Schutzwürdigkeit der
 entsprechenden Grundwasser-Vorkommen auszugehen.
-Chemie Bei einer Entnahme aus tieferen Stockwerken besteht die Gefahr, dass
+
+Chemie
+
+Bei einer Entnahme aus tieferen Stockwerken besteht die Gefahr, dass
 Schadstoffe aus höher gelegenen Stockwerken eingetragen werden. In Küstennähe oder in der Umgebung von Salzstöcken kann eine Entnahme aus
-größerer Tiefe die Mobil isierung von Versalzungen in höher gelegene
+größerer Tiefe die Mobilisierung von Versalzungen in höher gelegene
 Stockwerke zur Folge haben.
-Schutz- und Vorranggebiete, Trinkwassergewin- nungen
-Trinkwasserschutz- und Vorranggebiete, Heilquellenschutzgebiete, Einzugsgebiete von Trinkwassergewinnungsanlagen und Anlagen zur Her stellung
-von Lebensmitteln sind grundsätzlich von Entnahmen zu anderen Zwecken aus tieferen Stockwerken freizuhalten.
+
+Schutz- und Vorranggebiete, Trinkwassergewinnungen
+
+Trinkwasserschutz- und Vorranggebiete, Heilquellenschutzgebiete, Einzugsgebiete von Trinkwassergewinnungsanlagen und Anlagen zur Herstellung
+von Lebensmitteln sind grundsätzlich von Entnahmen zu anderen Zwecken
+aus tieferen Stockwerken freizuhalten.
 Befinden sich Entnahmen von Trinkwassergewinnungsanlagen in tieferen
-Stockwerken, so sollten hier die Entnahmen zur Feldberegnung aus ober flächennahen Stockwerken erfolgen.
+Stockwerken, so sollten hier die Entnahmen zur Feldberegnung aus oberflächennahen Stockwerken erfolgen.
+
 Mächtigkeit Grundwasserleiter
+
 Die Mächtigkeit der Grundwasserleiter ist ein entscheidendes Kriterium für
 die Beurteilung ihrer Leistungsfähigkeit.
 
-Kriterium Bewertungshinweise
-Andere Entnahmen Wie bei anderen Wasserrechten auch, sind die Konkurrenzsituation und die
+Kriterium
+Andere Entnahmen
+
+Bewertungshinweise
+Wie bei anderen Wasserrechten auch, sind die Konkurrenzsituation und die
 maßgebliche nutzbare Grundwasserdargebotsreserve des Grundwasserkörpers zu prüfen.

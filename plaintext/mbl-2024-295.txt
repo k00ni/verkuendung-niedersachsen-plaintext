@@ -1,16 +1,17 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 3. Juli 2024 Nummer 295
+74. (79.) Jahrgang
+
+Hannover, den 3. Juli 2024
+
+Nummer 295
 
 Niedersächsische Landesmedienanstalt
-
 Ausschreibung der Niedersächsischen Landesmedienanstalt
 Zuweisung einer terrestrischen Frequenz für Bürgerrundfunk im Hörfunk im Verbreitungsgebiet
 Hannover
 Bek. d. NLM v. 03.07.2024
-
 Zur Veranstaltung von Bürgerrundfunk als Hörfunk im Verbreitungsgebiet Hannover schreibt die NLM die
 Frequenz 106,5 MHz für einen maximalen Zuweisungszeitraum von zehn Jahren ab dem 01.01.2025 aus.
 Es handelt sich dabei um eine UKW-Übertragungskapazität, die für eine möglichst flächendeckende Versorgung des Gebiets, das durch das folgende Polygon im Koordinatensystem WGS 84 beschrieben wird,
@@ -24,7 +25,7 @@ Gegenüber der NLM besteht kein Anspruch auf Bereitstellung einer Frequenz, die 
 lückenlos und technisch einwandfrei versorgt. Die NLM behält sich vor, aus Gründen der Frequenzökonomie
 einen Frequenzwechsel während einer laufenden Zulassung anzuordnen.
 Auf die Regelungen für den Bürgerrundfunk im Vierten Abschnitt des NMedienG wird hingewiesen.
-Die Zuweisung der UKW- Übertragungskapazität zur Verbreitung des Hörfunkprogramms setzt eine Zulassung des Antragstellers als Hörfunkveranstalter für Bürgerrundfunk für das oben definierte Versorgungsgebiet
+Die Zuweisung der UKW-Übertragungskapazität zur Verbreitung des Hörfunkprogramms setzt eine Zulassung des Antragstellers als Hörfunkveranstalter für Bürgerrundfunk für das oben definierte Versorgungsgebiet
 voraus (§ 8 Abs. 4 Satz 1 i. V. m. § 25 NMedienG). Der Zulassungsantrag ist mit dem Antrag auf Zuweisung
 der Übertragungskapazität zu verbinden.
 Die Zuweisung kann gemäß § 8 Abs. 5 Satz 1 NMedienG und die Zulassung gemäß § 25 Abs. 4 Satz 2
@@ -37,6 +38,12 @@ Bei mehreren Antragstellern richtet sich das Verfahren nach den Grundsätzen des
 Auf Anfrage versendet die NLM Informationsmaterial zu den Antragsformalitäten. Die Richtlinie der NLM
 über die Gewährung von Zuwendungen zur Förderung von Bürgerrundfunk (FöRi-Bürgerrundfunk) kann ebenfalls von der NLM angefordert werden.
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 295 vom 3. Juli 2024
+
+Seite 2
+
 Interessenten werden hiermit aufgefordert, schriftlich einen Zuweisungs- und Zulassungsantrag in sechsfacher Ausfertigung bei der
 Niedersächsischen Landesmedienanstalt,
 Seelhorststraße 18,
@@ -48,5 +55,4 @@ bestimmt.
 Anträge, die nach diesem Zeitpunkt eingehen, können nicht berücksichtigt werden und nehmen nicht am
 Verfahren teil.
 Auskünfte, insbesondere zum Umfang der Antragsunterlagen und zum Ablauf des Zuweisungsverfahrens,
-erteilt Herr Dr. Buchholz, Bereichsleiter Bürgerrundfunk und Medienkompetenz der NLM (Tel.: 0511 28477-
-51). Die Texte des NMedienG und weiterer Rechtsgrundlagen können unter www.nlm.de eingesehen werden.
+erteilt Herr Dr. Buchholz, Bereichsleiter Bürgerrundfunk und Medienkompetenz der NLM (Tel.: 0511 2847751). Die Texte des NMedienG und weiterer Rechtsgrundlagen können unter www.nlm.de eingesehen werden.

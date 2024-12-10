@@ -1,15 +1,16 @@
-Herausgeber: Niedersächsische Staatskanzlei
-
 Niedersächsisches
+
 Ministerialblatt
-74. (79.) Jahrgang Hannover, den 7. Februar 2024 Nummer 71
+74. (79.) Jahrgang
+
+Hannover, den 7. Februar 2024
+
+Nummer 71
 
 Niedersächsischer Landesbetrieb für Wasserwirtschaft, Küsten- und Naturschutz
-
 Vorläufige Sicherung des Überschwemmungsgebietes des Brevörder Baches
 im Landkreis Holzminden
 Bek. d. NLWKN v. 07.02.2024 – 62023/02/65 –
-
 Der NLWKN hat den Bereich des Landkreises Holzminden, der von einem hundertjährlichen Hochwasser
 des Gewässers Brevörder Bach überschwemmt wird, ermittelt und in Arbeitskarten dargestellt.
 Die Arbeitskarten werden hiermit öffentlich bekannt gemacht. Das Überschwemmungsgebiet ist ab dem
@@ -27,6 +28,11 @@ aufbewahrt und können ab dem Tag nach dieser Bek. während der Dienststunden do
 werden. In den Arbeitskarten ist die Grenze des gemäß § 115 Abs. 4 NWG vorläufig gesicherten Überschwemmungsgebietes mit einer roten Linie gekennzeichnet; das vom NLWKN ermittelte Überschwemmungsgebiet
 selbst ist blau dargestellt.
 
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 71 vom 7. Februar 2024
+
+Seite 2
 
 Rechtsbehelfsbelehrung:
 Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der
@@ -47,36 +53,59 @@ Am Sportplatz 23,
 26506 Norden
 einzulegen.
 Hinweis:
-Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten- niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
+Die aktuellen Karten werden nach der Bearbeitung online eingestellt unter: https://www.umweltkarten-niedersachsen.de/Umweltkarten/?lang=de&topic=Hochwasserschutz&bgLayer=TopographieGrau&catalogNodes=&layers=vorlaeufig_gesicherte_Ueberschwemmungsgebiete_Niedersachsen_HWS.
 
-Blatt 2
-Blatt 1
-0 0,5 1 1,5 20,25 Kilometer
-Hildesheim, 20.10.2023
-Bek. d. NLWKN v. 07.02.2024
-AZ: 62023/2/65
+Niedersächsischer Landesbetrieb
+für Wasserwirtschaft, Küstenund Naturschutz
+
 Vorläufige Sicherung
 des
 Überschwemmungsgebietes
 des Brevörder Baches
 im Landkreis Holzminden
-Niedersächsischer Landesbetrieb
-für Wasserwirtschaft, Küsten-
-und Naturschutz
-±
-1:25.000
+
+Blatt 1
+
 Übersichtskarte
+
+Blatt 2
+
+Bek. d. NLWKN v. 07.02.2024
+AZ: 62023/2/65
+
 Legende
 Blattschnitte der vorläufigen Sicherung (M 1:5.000)
 Vorläufig gesichertes Überschwemmungsgebiet
 (soweit nicht bereits festgesetzt)
+
 Nachrichtlich
+
 bereits vorläufig gesicherte Überschwemmungsgebiete
 bereits festgesetzte Überschwemmungsgebiete
 Verwaltungsgrenzen
-Gemeindegrenze
 Landkreisgrenze
 Samtgemeindegrenze
-„Quelle: Auszug aus den Geodaten des Landesamtes für "
+Gemeindegrenze
+
+±
+
+1:25.000
+
+0
+
+0,25
+
+0,5
+
+1
+
+1,5
+
+„Quelle: Auszug aus den Geodaten des Landesamtes für
 Geoinformation und Landesvermessung Niedersachsen,
 © 2023
+
+Hildesheim, 20.10.2023
+
+2 Kilometer
+"
