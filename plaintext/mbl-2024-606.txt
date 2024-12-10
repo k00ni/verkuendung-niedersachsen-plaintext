@@ -1,0 +1,2156 @@
+Niedersächsisches
+
+Ministerialblatt
+74. (79.) Jahrgang
+
+Hannover, den 5. Dezember 2024
+
+Nummer 606
+
+Justizministerium
+Niedersächsisches Konzept für die Vorbereitung und Durchführung
+der elektronischen Aufenthaltsüberwachung im Rahmen der Führungsaufsicht (EAÜ-Konzept)
+Gem. RdErl. d. MJ, d. MI u. d. MS v. 02.12.2024 – 4263-403. 217 –
+– VORIS 33350 –
+1.
+Das als Anlage beigefügte Konzept für die Vorbereitung und Durchführung der elektronischen Aufenthaltsüberwachung im Rahmen der Führungsaufsicht (EAÜ-Konzept) wird für verbindlich erklärt.
+2.
+
+Dieser Gem. RdErl. tritt am 01.01.2025 in Kraft und mit Ablauf des 31.12.2030 außer Kraft.
+
+An
+die Polizeibehörden und -dienststellen
+die Oberlandesgerichte und Landgerichte
+die Führungsaufsichtsstellen bei den Landgerichten
+die Generalstaatsanwaltschaften und Staatsanwaltschaften
+den Ambulanten Justizsozialdienst Niedersachsen
+die Niedersächsischen Justizvollzugsanstalten
+die Jugendanstalt Hameln
+das Bildungsinstitut des Niedersächsischen Justizvollzuges
+den zentralen juristischen Dienst für den Niedersächsischen Justizvollzug bei der Justizvollzugsanstalt Hannover
+die Niedersächsischen Maßregelvollzugseinrichtungen
+
+Anlage
+Niedersächsisches Konzept für die Vorbereitung und Durchführung
+der elektronischen Aufenthaltsüberwachung im Rahmen der Führungsaufsicht
+(EAÜ-Konzept)
+I. Ziel
+Die elektronische Aufenthaltsüberwachung (EAÜ) nach § 68 b Abs. 1 Satz 1 Nr. 12 StGB dient der Überwachung rückfallgefährdeter Straftäterinnen und Straftäter im Rahmen der Führungsaufsicht. Die EAÜ soll vor
+allem spezialpräventiv wirken, insbesondere indem sie eine bessere Überwachung der Einhaltung von aufenthaltsbezogenen Weisungen nach § 68 b Abs. 1 Satz 1 Nrn. 1 und 2 StGB ermöglicht und damit auch im Bewusstsein eines erhöhten Entdeckungsrisikos zur Stärkung der Eigenkontrolle der oder des Betroffenen beiträgt. Zudem soll es den Behörden erleichtert werden, im Fall einer gegenwärtigen erheblichen Gefahr für Leib
+oder Leben einzuschreiten.
+Das System der EAÜ ist keine Straftaten ausschließende Fesselung und ermöglicht nach der gesetzlichen
+Regelung auch keine anlassunabhängige permanente Echtzeitbeobachtung. Daher ist sie kein Ersatz für eine
+geschlossene Unterbringung.
+Herausgeber: Niedersächsische Staatskanzlei
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 2
+
+Vor diesem Hintergrund soll der Einsatz der EAÜ auf einen bestimmten Kreis von unter Führungsaufsicht
+stehenden Personen beschränkt und durch die Auswahl gezielter gerichtlicher Weisungen sinnvoll ausgestaltet werden.
+Ziel dieses Konzeptes ist es, die Zusammenarbeit der beteiligten Behörden bei der Vorbereitung und
+Durchführung der EAÜ zu strukturieren und möglichst effizient zu gestalten, ohne dabei die Erfordernisse der
+Resozialisierung zu vernachlässigen. Dabei richtet sich die Vorbereitung der Anordnung (Abschnitte IV und V)
+auf die gemeinsame Erarbeitung einer Empfehlung für einen an die Strafvollstreckungskammer zu richtenden
+Antrag der jeweiligen Vollstreckungsbehörde. Ob diese dem Vorschlag der Fallkonferenz folgt, obliegt allein
+der Vollstreckungsbehörde. Die richterliche Unabhängigkeit der Strafvollstreckungskammer bleibt unberührt.
+Die niedersächsische Konzeption zum Umgang mit rückfallgefährdeten Sexualstraftäterinnen und Sexualstraftätern in Niedersachsen (KURS Niedersachsen) vom 29.12.2021 (Nds. MBl. 2022 S. 2) bleibt neben diesem Konzept anwendbar.
+II. Anwendungsbereich
+1. Anordnungsvoraussetzungen (§ 68 b Abs. 1 Sätze 3 bis 5 StGB)
+Die EAÜ kann angeordnet werden, wenn
+a)
+
+die Führungsaufsicht aufgrund der vollständigen Vollstreckung einer Freiheitsstrafe, Gesamtfreiheitsstrafe oder Jugendstrafe von mindestens drei Jahren oder aufgrund einer erledigten Maßregel eingetreten ist oder die Führungsaufsicht aufgrund der vollständigen Vollstreckung einer Freiheitsstrafe, Gesamtfreiheitsstrafe oder Jugendstrafe von mindestens zwei Jahren, wenn diese wegen einer oder mehrerer Straftaten nach dem Ersten oder Siebenten Abschnitt des Besonderen Teils des StGB (insbesondere §§ 89 a, 89 c, 129 a StGB) verhängt wurde, eingetreten ist,
+
+b)
+
+die Freiheitsstrafe oder Gesamtfreiheitsstrafe oder die Unterbringung wegen einer oder mehrerer Straftaten der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten
+Art verhängt oder angeordnet wurde,
+
+c)
+
+die Gefahr besteht, dass die verurteilte Person weitere Straftaten der in § 66 Abs. 3 Satz 1 oder § 129 a
+Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten Art begehen wird, und
+
+d)
+
+die Weisung erforderlich erscheint, um die verurteilte Person durch die Möglichkeit der Datenverwendung nach § 463 a Abs. 4 Satz 2 StPO, insbesondere durch die Überwachung der Erfüllung einer nach
+§ 68 b Abs. 1 Satz 1 Nr. 1 oder Nr. 2 StGB auferlegten Weisung, von der Begehung weiterer Straftaten
+der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten Art
+abzuhalten.
+
+Die Voraussetzungen für die Anordnung der EAÜ liegen auch vor, wenn nur einer vorangegangenen und
+gemäß § 68 e Abs. 1 StGB beendeten Führungsaufsicht Delikte der in Buchstabe b genannten Art zugrunde
+lagen.
+2. Anordnungszwecke (§ 463 a Abs. 4 StPO)
+Die Anordnung der EAÜ kann mit vier Zielrichtungen erfolgen, die auch nebeneinander verfolgt werden
+können:
+a)
+
+Anordnung der EAÜ aus spezialpräventiven Gründen ohne aufenthaltsbeschränkende Weisungen,
+
+b)
+
+Anordnung der EAÜ mit aufenthaltsbeschränkenden Weisungen, den Wohn- oder Aufenthaltsort oder
+einen bestimmten Bereich nicht ohne Erlaubnis der Aufsichtsstelle zu verlassen (Gebotszone),
+
+c)
+
+Anordnung der EAÜ mit aufenthaltsbeschränkenden Weisungen, sich nicht an bestimmten Orten, die
+Gelegenheit oder Anreiz zu weiteren Straftaten bieten, aufzuhalten (ortsbezogene Verbotszone),
+
+d)
+
+Anordnung der EAÜ mit aufenthaltsbeschränkenden Weisungen, sich von bestimmten potenziellen Opfern fernzuhalten (Kontaktverbotszone).
+
+III. Beteiligte
+Die Anordnung der EAÜ erfolgt durch die zuständige Strafvollstreckungskammer als Weisung gemäß
+§ 68 b Abs. 1 Satz 1 Nr. 12 StGB. In Jugendsachen ist die Vollstreckungsleiterin oder der Vollstreckungsleiter
+zuständig. Zur Vorbereitung der Anordnung der EAÜ arbeiten
+–
+
+die Führungsaufsichtsstelle,
+
+–
+
+die Vollstreckungsbehörde,
+
+–
+
+der Justizvollzug,
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+–
+
+der Maßregelvollzug,
+
+–
+
+die Polizei und
+
+–
+
+der Ambulante Justizsozialdienst Niedersachsen (AJSD)
+
+Seite 3
+
+vertrauensvoll zusammen.
+IV. Verfahren
+1. Prüfung der formalen Voraussetzungen und Überprüfung
+Die zuständige Vollstreckungsbehörde (§ 451 Abs. 1 StPO, § 82 Abs. 1 JGG) prüft spätestens neun Monate
+vor der voraussichtlich vollständigen Verbüßung einer Freiheits-, Gesamtfreiheits- oder Jugendstrafe von mindestens drei Jahren, in den Fällen von § 68 b Abs. 1 Satz 5 StGB von mindestens zwei Jahren, ob die formalen
+Voraussetzungen nach § 68 b Abs. 1 Satz 3 Nrn. 1 und 2 StGB vorliegen. Ist dies der Fall, so fordert sie
+unverzüglich eine Stellungnahme der Justizvollzugsanstalt, der Jugendanstalt oder der Maßregelvollzugseinrichtung zu den Voraussetzungen nach § 68 b Abs. 1 Satz 3 Nrn. 3 und 4 und Satz 5 Halbsatz 2 StGB an. Bei
+der Abfassung sämtlicher Stellungnahmen sind Aspekte des Opferschutzes zu beachten. So sind insbesondere Angaben zum Wohnort nach Möglichkeit zu vermeiden. Überdies besteht für die Justizvollzugsanstalten,
+die Jugendanstalt oder die Maßregelvollzugseinrichtungen die Möglichkeit, eigeninitiativ die Anordnung einer
+Weisung gemäß § 68 b Abs. 1 Satz 1 Nr. 12 StGB anzuregen.
+Sofern es sich bei der Anlasstat um eine dem Bereich der Politisch motivierten Kriminalität zuzuordnende
+Straftat (Definitionssystem Politisch motivierte Kriminalität, Bundeskriminalamt vom 29.11.2017) handelt, fordert die zuständige Vollstreckungsbehörde zugleich einen Bericht des LKA zu den dort vorhandenen, für eine
+Beurteilung des Vorliegens der Voraussetzungen des § 68 b Abs. 1 Satz 3 Nr. 3 und Satz 5 Halbsatz 2 StGB
+relevanten Erkenntnisse an.
+Tritt Führungsaufsicht nach der Erledigung einer freiheitsentziehenden Maßregel der Besserung und Sicherung ein oder ist dies zu erwarten, so verfährt die Vollstreckungsbehörde entsprechend. Die Führungsaufsichtsstellen sind ebenfalls berechtigt, ein Verfahren auf Anordnung der EAÜ anzuregen. Die Führungsaufsichtsstellen arbeiten hierbei eng mit dem AJSD zusammen.
+Gemäß § 68 d Abs. 2 StGB ist durch das Gericht spätestens vor Ablauf von zwei Jahren zu prüfen, ob die
+Weisung aufzuheben ist.
+2. Stellungnahme der Justizvollzugsanstalt, der Jugendanstalt oder der Maßregelvollzugseinrichtung
+2.1
+Die Justizvollzugsanstalt, die Jugendanstalt oder die Maßregelvollzugseinrichtung übersendet der
+Vollstreckungsbehörde möglichst zeitnah ihre Stellungnahme dazu,
+a)
+
+ob die Gefahr besteht, dass die Person weitere Straftaten der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5
+Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten Art begehen wird (Einschätzung des Rückfallrisikos),
+
+b)
+
+ob die Anordnung einer EAÜ geeignet und erforderlich ist, um die Person durch die Möglichkeit der
+Verwendung ihres Bewegungsprofils von der Begehung weiterer derartiger Straftaten abzuhalten.
+
+Die Justizvollzugsanstalt, die Jugendanstalt oder die Maßregelvollzugseinrichtung soll in ihrer Stellungnahme zugleich Anregungen für die Erteilung konkreter Weisungen zur effektiven Minderung des Rückfallrisikos geben.
+2.2
+Die Übersendung der Stellungnahme erfolgt spätestens sechs Monate vor der voraussichtlich vollständigen Verbüßung der Freiheits-, Gesamtfreiheits- oder Jugendstrafe. Tritt Führungsaufsicht nach der Erledigung einer freiheitsentziehenden Maßregel der Besserung und Sicherung ein oder ist dies zu erwarten, so
+erfolgt die Übersendung möglichst zeitnah.
+2.3
+Zur Einschätzung des Rückfallrisikos (nach Nummer 2.1 Buchst. a) dienen die in A n h a n g 1 genannten Aspekte als Orientierungshilfe. Die Berücksichtigung weiterer Aspekte ist nicht ausgeschlossen. Die Einholung eines externen Gutachtens ist regelmäßig nicht erforderlich.
+2.4
+Die Stellungnahme zur Erforderlichkeit der EAÜ erfolgt unter Berücksichtigung der in A n h a n g 2
+genannten Aspekte.
+2.5
+Hält die Justizvollzugsanstalt, die Jugendanstalt oder die Maßregelvollzugseinrichtung die Voraussetzungen der EAÜ für gegeben, so benennt sie eine Ansprechpartnerin oder einen Ansprechpartner nebst Erreichbarkeit per Telefon, Telefax und E-Mail.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 4
+
+3. Vorprüfung der Vollstreckungsbehörde
+3.1
+Die Vollstreckungsbehörde prüft die Stellungnahme der Justizvollzugsanstalt, der Jugendanstalt oder
+der Maßregelvollzugseinrichtung sowie im Fall einer Straftat, die der Politisch motivierten Kriminalität zuzuordnenden ist, die nach Nummer 1 übermittelten Erkenntnisse des LKA. Ferner prüft sie, welche Weisungen
+im Rahmen der Führungsaufsicht in Betracht kommen. Sofern die elektronische Überwachung von Ge- und
+Verbotszonen vorgeschlagen oder in Erwägung gezogen wird, prüft die Vollstreckungsbehörde auch, ob entsprechende Weisungen mit Blick auf die technischen und örtlichen Gegebenheiten hinreichend konkretisiert
+und für die Person verhältnismäßig ausgestaltet werden können. Hierbei sind die zwingenden technischen
+Anforderungen an eine spätere Überwachung, insbesondere zur Gestaltung der Ge- und Verbotszonen, die
+sich aus Nummer 3 des A n h a n g s 3 („Erfassungsbogen Erstanlegung EAÜ“) ergeben, mit in den Blick zu
+nehmen. Hierzu bedient sich die Vollstreckungsbehörde ggf. der Unterstützung der Zentralstelle KURS/EAÜ
+im LKA.
+3.2
+Sieht die Vollstreckungsbehörde trotz des Vorliegens der formalen Voraussetzungen (§ 68 b Abs. 1
+Satz 3 Nrn. 1 und 2 sowie Satz 5 Halbsatz 1 StGB) die Voraussetzungen für die Anordnung der EAÜ als
+offensichtlich nicht gegeben an, so ist dies in den Akten zu vermerken. Eine Beteiligung der Zentralen Fallkonferenz findet in diesem Fall nicht statt.
+3.3
+Anderenfalls übersendet die Vollstreckungsbehörde spätestens vier Monate vor der voraussichtlich
+vollständigen Verbüßung der Freiheits-, Gesamtfreiheits- oder Jugendstrafe gemäß § 474 Abs. 1 StPO Ablichtungen aus dem Vollstreckungsheft, insbesondere vom Urteil der Anlasstat, eventuell vorhandene Gutachten zur Frage der Schuldfähigkeit (sofern nicht bereits im Vollstreckungsheft enthalten), im Vollstreckungsverfahren eingeholte Prognosegutachten, etwaige KURS-Meldebögen, die Stellungnahme der Justiz- oder Maßregelvollzugseinrichtung sowie ein Datenblatt nach dem Muster des A n h a n g s 4 an die Koordinierungsstelle
+der Zentralen Fallkonferenz bei der Staatsanwaltschaft in Hannover (KFK). Im Fall einer Anlasstat, die der
+Politisch motivierten Kriminalität zuzuordnen ist, übersendet sie überdies den Bericht des LKA. Die KFK bringt
+den Fall spätestens drei Monate vor dem Entlassungstermin in die Zentrale Fallkonferenz ein.
+4. Nachträgliche Prüfung
+In Fällen, in denen in der zeitlichen Abfolge nicht wie in Nummer 3 verfahren werden kann, ist eine nachträgliche Prüfung der formalen Voraussetzungen vorzunehmen, um eine ordnungsgemäße Durchführung des
+Verfahrens in Vorbereitung einer Entscheidung sicherzustellen. Hinsichtlich des Beschlusses der Strafvollstreckungskammer zum Eintritt und zur Ausgestaltung der Führungsaufsicht sollte in diesen Fällen durch die Vollstreckungsbehörde angeregt werden, einen Hinweis über den Vorbehalt einer entsprechenden Entscheidung
+aufzunehmen. Die Empfehlung der Zentralen Fallkonferenz (siehe Abschnitt V) soll auch in diesen Fällen eingeholt werden.
+V. Zentrale Fallkonferenz
+1. Aufgabe der Zentralen Fallkonferenz
+Die Zentrale Fallkonferenz erarbeitet eine Empfehlung für die Vollstreckungsbehörde, ob die Beantragung
+der Anordnung der EAÜ angezeigt ist. Hierdurch soll der Vollstreckungsbehörde eine Entscheidungsgrundlage
+an die Hand gegeben werden, die u. a. die Einholung eines Sachverständigengutachtens entbehrlich machen
+kann. Gegebenenfalls erarbeitet sie ein taktisches Konzept zur Überwachung der verurteilten Person. Sie soll
+in geeigneten Fällen insbesondere die fallspezifischen rechtlichen, tatsächlichen und technisch möglichen
+Grundlagen einer elektronischen Überwachung von Ge- und Verbotszonen oder Kontaktverboten erarbeiten.
+2. Koordinierung der Zentralen Fallkonferenz
+Für die Zentrale Fallkonferenz wird die KFK bei der Staatsanwaltschaft in Hannover eingerichtet:
+Koordinierungsstelle der Zentralen Fallkonferenz (KFK) bei der
+Staatsanwaltschaft in Hannover
+Volgersweg 67,
+30165 Hannover,
+Telefon:
+0511 347-5022 oder 0511 347-5048 (Serviceeinheit)
+Telefax/Digitalfax:
+0511 347-5318
+E-Mail:
+STH-Poststelle@justiz.niedersachsen.de.
+Diese besteht aus mindestens einer Staatsanwältin oder einem Staatsanwalt und einer Geschäftsstellenmitarbeiterin oder einem Geschäftsstellenmitarbeiter. Die Staatsanwältin oder der Staatsanwalt vertritt die
+Staatsanwaltschaften in der Zentralen Fallkonferenz und übernimmt die Berichterstattung.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 5
+
+3. Beteiligte der Zentralen Fallkonferenz
+3.1
+
+Teilnehmerinnen und Teilnehmer der Zentralen Fallkonferenz sind Fachkräfte
+
+–
+
+der Führungsaufsichtsstellen,
+
+–
+
+der Staatsanwaltschaften,
+
+–
+
+des Prognosezentrums des Niedersächsischen Justizvollzuges für den Justizvollzug,
+
+–
+
+(sofern betroffen) des Maßregelvollzuges,
+
+–
+
+der Polizei (die verantwortliche Stelle im LKA) und
+
+–
+
+des AJSD.
+
+Soweit erforderlich können weitere Fachkräfte und Fachkräfte anderer Stellen teilnehmen. Dies gilt insbesondere für die Jugendgerichtshilfe in Fällen Jugendlicher und Heranwachsender.
+3.2
+Die Zentrale Fallkonferenz besteht aus jeweils einem ständigen Mitglied aus den unter Nummer 3.1
+benannten Geschäftsbereichen. Diese benennen der KFK das ständige Mitglied sowie eine Vertreterin oder
+einen Vertreter.
+3.3
+Zu den Fallkonferenzen können bei Bedarf Vertreterinnen oder Vertreter der für den jeweiligen Einzelfall zuständigen Behörde oder Dienststelle hinzugezogen werden. Ist die Anlasstat der Politisch motivierten
+Kriminalität zuzuordnen, so ist zudem verbindlich eine Vertreterin oder ein Vertreter des LKA, Abteilung 4
+(Polizeilicher Staatsschutz), und ggf. der sachbearbeitenden örtlichen Staatsschutzdienststelle hinzuzuziehen.
+4. Verfahren der Zentralen Fallkonferenz
+4.1
+Die KFK legt die Tagesordnung fest und versendet diese zusammen mit der Einladung zur Fallkonferenz in der Regel mindestens einen Monat vor dem Termin. Zusätzlich zur Tagesordnung übersendet die KFK
+zu jedem Einzelfall das von der Vollstreckungsbehörde übersandte Datenblatt, das Urteil der Anlasstat, die
+Stellungnahme der Vollzugseinrichtung und ggf. Gutachten und ältere Beschlüsse sowie im Fall einer der
+Politisch motivierten Kriminalität zuzuordnenden Anlasstat die Erkenntnisse des LKA, um eine Vorbereitung
+der Mitglieder der Zentralen Fallkonferenz zu ermöglichen.
+4.2
+Die Zentrale Fallkonferenz stimmt sich grundsätzlich in Form einer persönlichen – ggf. auch online
+durchgeführten – Erörterung ab. In offensichtlich untauglichen Fällen kann nach der Zustimmung aller Mitglieder ein schriftliches Umlaufverfahren vorgenommen werden.
+4.3
+Die KFK stimmt die Termine für die Sitzungen der Zentralen Fallkonferenz nach Möglichkeit langfristig
+mit den Mitgliedern ab.
+4.4
+Die Mitglieder der Zentralen Fallkonferenz holen bei Bedarf zur Vorbereitung Stellungnahmen aus
+ihrem Geschäftsbereich ein.
+4.5
+Im Termin wird der Einzelfall zunächst zusammenfassend von der KFK vorgetragen. Sodann erfolgen
+nötigenfalls ergänzende Informationen der übrigen Beteiligten. Daran schließt sich die Diskussion über die
+konkreten Handlungsmöglichkeiten an. Hinsichtlich der Vorschläge für Weisungen orientiert sich die Zentrale
+Fallkonferenz an dem Muster des A n h a n g s 5. Bei dem Vorschlag von Homezone, Ge- und Verbotszonen
+beachtet sie die sich aus A n h a n g 3 ergebenden technischen Anforderungen und Beschränkungen, namentlich die Bestimmung von Koordinaten und die Beachtung der technisch überwachbaren polygonalen (dann
+unter Benennung der Eckkoordinaten) oder kreisförmigen Form der Zonen. Die Zentrale Fallkonferenz legt
+schließlich fest, welche Empfehlung sie der Vollstreckungsbehörde unterbreitet. Außerdem füllt die Zentrale
+Fallkonferenz das „Formular Ereignismeldungen GÜL“ (A n h a n g 6) und – soweit zu diesem Zeitpunkt möglich – den „Erfassungsbogen Erstanlegung EAÜ“ (A n h a n g 3), insbesondere die Nummern 2 und 3, aus. Für
+die Ereignismeldung orientiert sie sich an dem Muster des A n h a n g s 7, von dem bei Bedarf abgewichen
+werden kann.
+4.6
+Die Zentrale Fallkonferenz erstellt eine Dokumentation nach dem Muster des A n h a n g s 8, welche
+mit einem Empfehlungsergebnis schließt. Das Abstimmungsverhalten einzelner Mitglieder findet dabei keine
+Erwähnung. Eine Offenlegung des Abstimmungsverhaltens einzelner Mitglieder der Konferenz soll, soweit
+rechtlich möglich, auch in der Folgezeit vermieden werden. Die KFK übersendet das Protokoll sowie Kopien
+aus dem Vollstreckungsheft und ggf. weitere von der Zentralen Fallkonferenz übersandte Unterlagen spätestens zwei Wochen nach der Konferenz an die Vollstreckungsbehörde, es sei denn die Dringlichkeit des Falles
+erfordert eine frühere Übersendung. Bei der KFK verbleiben lediglich das Datenblatt sowie eine Abschrift des
+Protokolls.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 6
+
+4.7
+Die KFK übersendet die Dokumentation an die Mitglieder der Zentralen Fallkonferenz. Sofern die Fallkonferenz die Empfehlung einer Weisung gemäß § 68 b Abs. 1 Nr. 12 StGB beschlossen hat, berichtet die
+KFK dem Justizministerium, Referat 403, unverzüglich.
+4.8
+Die Vollstreckungsbehörde informiert die KFK und die Zentralstelle KURS/EAÜ im LKA, wenn sie dem
+Votum der Fallkonferenz nicht zu folgen beabsichtigt.
+4.9.
+Die Vollstreckungsbehörde übersendet der KFK und der Zentralstelle KURS/EAÜ im LKA den Beschluss der Strafvollstreckungskammer und etwaige Folgebeschlüsse, welche die EAÜ betreffen. Sofern ein
+Beschluss mit einer Weisung gemäß § 68 b Abs. 1 Nr. 12 StGB oder deren Aufhebung vorliegt, berichtet die
+Vollstreckungsbehörde überdies dem Justizministerium, Referat 403, und fügt dem Bericht den Beschluss der
+Strafvollstreckungskammer bei.
+4.10
+Die Vollstreckungsbehörde übersendet unverzüglich nach Vorliegen eines Beschlusses mit einer Weisung nach § 68 b Abs. 1 Nr. 12 StGB die von der Zentralen Fallkonferenz ausgefüllten Formulare „Formular
+Ereignismeldungen GÜL“ (A n h a n g 6) und „Erfassungsbogen Erstanlegung EAÜ“ (A n h a n g 3).
+VI. Durchführung der EAÜ; Zuständigkeiten
+1.
+Zuständig für die Durchführung der EAÜ ist die im Einzelfall zuständige Führungsaufsichtsstelle. Diese
+stellt die Erreichbarkeit durch Angabe der telefonischen Erreichbarkeit der Führungsaufsichtsstelle innerhalb
+der Geschäftszeiten und durch die Einrichtung einer personenunabhängigen E-Mail-Adresse sicher.
+2.
+Auf der Grundlage des Staatsvertrages über die Einrichtung einer Gemeinsamen elektronischen Überwachungsstelle der Länder bedient sich die Führungsaufsichtsstelle zur durchgehenden Gewährleistung der
+Überwachung der Gemeinsamen elektronischen Überwachungsstelle der Länder (GÜL). Diese ist Teil der ITStelle der hessischen Justiz mit Sitz in Weiterstadt und rund um die Uhr an jedem Tag des Jahres besetzt. Sie
+ist wie folgt erreichbar:
+IT-Stelle der hessischen Justiz,
+Gemeinsame elektronische Überwachungsstelle der Länder (GÜL),
+Vor den Löserbecken 4,
+64331 Weiterstadt,
+Telefon:
+06101 8009-1007,
+Telefax/Digitalfax: 06101 8009-3007.
+3.
+
+Die Durchführung der Überwachung wird in technischer Hinsicht durch die
+
+Hessische Zentrale für Datenverarbeitung (HZD),
+Außenstelle Hünfeld, Technisches Monitoring Center (TMC),
+Mackenzeller Straße 3,
+36088 Hünfeld,
+gewährleistet. Die elektronische Datenverarbeitung bei der HZD erfolgt pseudonymisiert.
+VII. Verfahren bei Einrichtung der EAÜ
+1. Erteilung und Zuordnung der Identifikationsnummer (OID)
+Ist eine EAÜ gerichtlich angeordnet, erfragt die Führungsaufsichtsstelle zunächst bei der HZD eine OID.
+Die Beantragung erfolgt per E-Mail mit dem Betreff „Anforderung einer neuen OID“ an aufenthaltsueberwachung@hzd.hessen.de und darf abgesehen von der Adresse der Führungsaufsichtsstelle und der Bitte um
+Erteilung einer OID für eine EAÜ keine personenbezogenen Daten der verurteilten Person beinhalten.
+Die Führungsaufsichtsstelle ordnet die OID der zu überwachenden Person zu. Die OID ändert sich im
+Verlauf der Überwachung nicht, auch nicht bei der Änderung der Zuständigkeit der Führungsaufsichtsstelle.
+Mit der OID ist von allen Beteiligten i. S. der geltenden Datenschutzbestimmungen besonders sorgfältig umzugehen.
+2. Beauftragung der HZD
+Nach Erhalt der OID übersendet die Führungsaufsichtsstelle das ausgefüllte und mit der OID versehene
+Formular „Erfassungsbogen Erstanlegung EAÜ“ (A n h a n g 3) der HZD. Dabei sind zugleich das Datum und
+der Ort der Entlassung der oder des Verurteilten anzugeben, damit die HZD die Erstanlegung des Endgerätes
+am Entlassungstag noch im Vollzug veranlassen kann. Die Übersendung des Formulars erfolgt ohne Nennung
+der Personenidentität der oder des Verurteilten per E-Mail mit der OID im Betreff an aufenthaltsueberwachung@hzd.hessen.de. Die Übersendung soll mindestens eine Woche vor der geplanten Anlegung des Überwachungsgerätes erfolgen.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 7
+
+Ist die verurteilte Person, für die die EAÜ angeordnet wurde, vorläufig untergebracht, erfolgt die Beauftragung der HZD vorsorglich mit dem gesonderten Hinweis auf die vorläufige Unterbringung und darauf, dass
+der Entlassungstag nicht absehbar ist.
+Bei der Anlegung nach der Entlassung verfährt die Führungsaufsichtsstelle entsprechend.
+3. Beauftragung der GÜL
+3.1
+Nach Erhalt der OID beauftragt die Führungsaufsichtsstelle die GÜL mit der Überwachung der verurteilten Person. Der Auftrag soll mindestens eine Woche vor der geplanten Anlegung des Überwachungsgerätes erteilt werden. Ist die Person, für die die EAÜ angeordnet wurde, vorläufig untergebracht, erfolgt die Beauftragung der GÜL vorsorglich mit dem gesonderten Hinweis auf die vorläufige Unterbringung und darauf,
+dass der Entlassungstag nicht absehbar ist.
+3.2
+Die Beauftragung erfolgt postalisch oder per Telefax. Eine Beauftragung per Telefon oder E-Mail ist
+nicht zulässig.
+3.3
+Der Auftrag enthält ein Anschreiben nebst dem gerichtlichen Beschluss über die Anordnung der EAÜ
+sowie die ausgefüllten Vordrucke „Datenblatt Probandin/Proband“ (A n h a n g 9) und „Formular Ereignismeldungen GÜL“ (A n h a n g 6). Kann der gerichtliche Beschluss noch nicht übersandt werden, so wird eine beglaubigte Abschrift des Tenors des Beschlusses beigefügt. Die Führungsaufsichtsstelle stellt durch die Angabe
+sämtlicher telefonischer und elektronischer Erreichbarkeiten der beteiligten Stellen einschließlich der Serviceeinheiten oder Geschäftszimmer und der Vertreterinnen und Vertreter auf dem „Datenblatt Probandin/Proband“ (A n h a n g 9) die Informationsweitergabe sicher.
+3.4
+Die Führungsaufsichtsstelle informiert die Zentralstelle Gewalt im LKA unverzüglich über die Beauftragung der GÜL und übermittelt dieser die an die GÜL übersandten ausgefüllten Vordrucke „Datenblatt Probandin/Proband“ (A n h a n g 9) und „Formular Ereignismeldungen GÜL“ (A n h a n g 6) in geeigneter Form.
+4. Anlegen des Überwachungsgerätes
+4.1
+Das Anlegen des Überwachungsgerätes erfolgt durch die HZD. Sie darf sich dabei eines externen
+Dienstleisters als Vor-Ort-Service bedienen. Dieser erhält die erforderlichen Daten (Name und genaue Anschrift, unter der die oder der Verurteilte anzutreffen ist) von der GÜL.
+4.2
+Das Anlegen des Überwachungsgerätes soll am Entlassungstag noch im Justiz- oder Maßregelvollzug
+erfolgen. Ist dies nicht möglich, erfolgt das Anlegen möglichst zeitnah nach der Entlassung in geeigneten
+Räumen der Amts- oder Landgerichte. Beim Anlegen des Überwachungsgerätes im Justiz- oder Maßregelvollzug ist eine Vollzugsbedienstete oder ein Vollzugsbediensteter anwesend. Beim Anlegen in geeigneten
+Räumen der Amts- oder Landgerichte sind eine Wachtmeisterin oder ein Wachtmeister sowie die Justizsozialarbeiterin oder der Justizsozialarbeiter anwesend. Fallbezogen sind nach Ermessen ggf. weitere Sicherungsmaßnahmen, etwa die Hinzuziehung von der Polizei, zu prüfen.
+4.3
+Die verurteilte Person wird in die technische Funktionsweise des Überwachungsgerätes sowie eines
+etwa mitübergebenen Telekommunikationsgerätes eingewiesen. Vor der Entlassung aus dem Vollzug erfolgt
+diese Einweisung durch eine Mitarbeiterin oder einen Mitarbeiter des Justiz- oder Maßregelvollzuges. Konnte
+eine Einweisung vor der Entlassung nicht mehr erfolgen, so wird diese von der zuständigen Justizsozialarbeiterin oder dem zuständigen Justizsozialarbeiter möglichst zeitnah nach der Entlassung durchgeführt. Die Mitarbeiterin oder der Mitarbeiter des Justiz- oder Maßregelvollzuges oder die Justizsozialarbeiterin oder der
+Justizsozialarbeiter wird bei der Einweisung von der Person, die das Überwachungsgerät angelegt hat, unterstützt. Die Durchführung der Einweisung wird in jedem Fall in geeigneter Weise dokumentiert. Die Vorschriften
+der § 268 a Abs. 3, § 454 Abs. 4 und § 463 Abs. 3 StPO bleiben unberührt.
+4.4
+Die Führungsaufsichtsstelle stellt sicher, dass die Zentralstelle Gewalt im LKA unverzüglich über die
+Entlassung der verurteilten Person aus dem Justiz- oder Maßregelvollzug und das Anlegen des Überwachungsgerätes bei der verurteilten Person informiert wird.
+5. Überwachung durch die GÜL
+5.1
+Nach der Mitteilung der Erstanlegung des Überwachungsgerätes durch die HZD übernimmt die GÜL
+die Überwachung der oder des Verurteilten. Sie ist auch erforderlichenfalls für die Beauftragung des Vor-OrtServices zuständig.
+5.2
+Systemmeldungen werden von der GÜL entsprechend den Festlegungen im „Formular Ereignismeldungen GÜL“ (A n h a n g 6) bearbeitet und, soweit sie auf Weisungsverstöße hindeuten, unverzüglich der
+Justizsozialarbeiterin oder dem Justizsozialarbeiter und der Führungsaufsichtsstelle gemeldet, die jeweils über
+das weitere Vorgehen entscheiden. AJSD und Führungsaufsichtsstelle unterrichten sich gegenseitig. Im Fall
+einer Befestigungsmanipulation nimmt die GÜL Kontakt zur verurteilten Person auf. Wenn diese nicht
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 8
+
+erreichbar ist oder weiterhin Anhaltspunkte für eine Manipulation gegeben sind, nimmt die GÜL Kontakt zur
+Polizei sowie zum Vor-Ort-Service auf. Nach der Feststellung des Aufenthaltsortes der verurteilten Person
+stimmt sich die GÜL mit dem Vor-Ort-Service über die Wiederanlegung des Überwachungsgerätes ab. Der
+Einsatz des Vor-Ort-Services erfolgt in der Regel binnen weniger Stunden nach dem Eingang der Ereignismeldung.
+5.3
+Bei Verstößen gegen Weisungen, die im Zusammenhang mit der EAÜ stehen, soll die Führungsaufsichtsstelle einen Strafantrag nach § 145 a Satz 2 StGB stellen. Die GÜL hat keine Befugnis zum Stellen von
+Strafanträgen.
+5.4
+Bei erheblicher gegenwärtiger Gefahr für das Leben, die körperliche Unversehrtheit, die persönliche
+Freiheit oder die sexuelle Selbstbestimmung Dritter verständigt die Führungsaufsichtsstelle oder die Justizsozialarbeiterin oder der Justizsozialarbeiter unmittelbar die der GÜL für den Alarmfall benannte Polizeidienststelle, sofern dies nicht bereits durch die GÜL geschehen ist.
+6. Verfahren bei Änderung der EAÜ
+6.1
+Werden durch gerichtliche Beschlüsse technische Änderungen erforderlich (z. B. Zonen- oder Zeitplanänderungen), so informiert die Führungsaufsichtsstelle die HZD unter Nutzung des Vordrucks „Änderungsantrag elektronische Aufenthaltsüberwachung“ (A n h a n g 10). Die Übersendung des Formulars erfolgt
+ohne Nennung der Personenidentität der oder des Verurteilten, nur unter Nennung der OID per
+E-Mail an aufenthaltsueberwachung@hzd.hessen.de.
+6.2
+Änderungen personenbezogener Daten der verurteilten Person sowie Änderungen des Führungsaufsichtsbeschlusses meldet die Führungsaufsichtsstelle unverzüglich an die GÜL. Die Mitteilung erfolgt postalisch oder per Telefax. Eine Mitteilung per Telefon oder E-Mail ist nicht zulässig.
+6.3
+Im Fall eines Wohnsitzwechsels gelten die Nummern 6.1 und 6.2 entsprechend. Die GÜL benachrichtigt den Vor-Ort-Service. Eine Auswechselung des Überwachungsgerätes findet auch bei einem Wohnsitzwechsel in ein anderes Bundesland nicht statt. Die Führungsaufsichtsstelle und die Justizsozialarbeiterin oder
+der Justizsozialarbeiter übermitteln alle notwendigen Daten an die jeweils künftig zuständigen Stellen.
+6.4
+Die Führungsaufsichtsstelle informiert die im Einzelfall zuständige Justizsozialarbeiterin oder den zuständigen Justizsozialarbeiter und die Zentralstelle Gewalt im LKA unverzüglich über die unter den Nummern 6.1 bis 6.3 beschriebenen Änderungen. Die Justizsozialarbeiterin oder der Justizsozialarbeiter informiert
+die Leitende Abteilung des AJSD.
+7. Übernahme aus einem anderen Bundesland
+7.1
+Wird eine Führungsaufsicht bei angeordneter EAÜ aus einem anderen Bundesland übernommen, teilt
+die Führungsaufsichtsstelle ihre Erreichbarkeit nebst Geschäftszeichen der GÜL mit, sofern diese noch nicht
+ersichtlich Kenntnis hat. Die Mitteilung erfolgt postalisch oder per Telefax. Eine Mitteilung per Telefon oder
+E-Mail ist nicht zulässig.
+7.2
+Die Führungsaufsichtsstelle prüft zugleich, ob aufgrund des Zuständigkeitswechsels Änderungen von
+Weisungen und Auflagen oder des taktischen Konzepts der EAÜ, insbesondere der Ge- und Verbotszonen,
+erforderlich sind. Sie übermittelt den Fall an die Zentrale Fallkonferenz. In diesem Fall gilt Abschnitt V entsprechend mit der Maßgabe, dass die Zentrale Fallkonferenz ihre Vorschläge der Führungsaufsichtsstelle mitteilt.
+Diese übermittelt die Vorschläge der zuständigen Vollstreckungsbehörde. Im Fall von Änderungen ist nach
+Nummer 6 zu verfahren.
+7.3
+Die Zentrale Fallkonferenz ist zuständig in allen Fällen, in denen niedersächsische Staatsanwaltschaften die zuständigen Vollstreckungsbehörden sind. Die Zentrale Fallkonferenz kann im Einzelfall ferner in Fällen tätig werden, in denen Staatsanwaltschaften aus anderen Bundesländern um Stellungnahmen der Zentralen Fallkonferenz nachsuchen. Die Zentrale Fallkonferenz ist in den Fällen der Sätze 1 und 2 berechtigt, die
+Abgabe von Stellungnahmen abzulehnen, wenn die Durchführung der zu prüfenden EAÜ absehbar keinen
+hinreichenden Bezug auf das Gebiet des Landes Niedersachsen haben wird.
+7.4
+
+Nummer 6.4 gilt entsprechend.
+
+VIII. Beendigung der EAÜ
+1.
+Wird die EAÜ beendet, so teilt die Vollstreckungsbehörde dies unverzüglich der Führungsaufsichtsstelle, der Zentralstelle KURS/EAÜ im LKA und dem AJSD mit.
+2.
+Die Führungsaufsichtsstelle unterrichtet unverzüglich die HZD unter Nutzung des Vordrucks „Antrag
+zur Beendigung der elektronischen Aufenthaltsüberwachung“ (A n h a n g 11). Die Übersendung des Formulars erfolgt ohne Nennung der Personenidentität der verurteilten Person, nur unter Nennung der OID per
+E-Mail an aufenthaltsueberwachung@hzd.hessen.de.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 9
+
+3.
+Die Führungsaufsichtsstelle unterrichtet ferner unverzüglich die GÜL unter Nennung des Wohn- oder
+Aufenthaltsortes der verurteilten Person. Die Mitteilung erfolgt postalisch oder per Telefax. Eine Mitteilung per
+Telefon oder E-Mail ist nicht zulässig. Die GÜL beauftragt den Vor-Ort-Service, das Überwachungsgerät bei
+der verurteilten Person zum genannten Zeitpunkt abzunehmen.
+4.
+
+Abschnitt VII Nr. 6.4 gilt entsprechend.
+
+5.
+Ist die Anlasstat der Politisch motivierten Kriminalität zuzuordnen, unterrichtet die Zentralstelle Gewalt
+im LKA unverzüglich das LKA, Abteilung 4 (Polizeilicher Staatsschutz), und ggf. die sachbearbeitende Staatsschutzdienststelle.
+IX. Ausschreibung zur polizeilichen Beobachtung
+Die Führungsaufsichtsstellen veranlassen unverzüglich nach der Entlassung die Ausschreibung zur polizeilichen Beobachtung (§ 463 a Abs. 2, § 163 e StPO) für die Dauer der Führungsaufsicht.
+X. Auskunftsersuchen
+Nach Artikel 2 Abs. 1 Nr. 6 des Staatsvertrages über die Einrichtung einer Gemeinsamen elektronischen
+Überwachungsstelle der Länder ist die GÜL auch zuständig für die Weitergabe von Daten über den Aufenthaltsort der verurteilten Person an Strafverfolgungsbehörden zur Verfolgung einer Straftat der in § 66 Abs. 3
+Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten Art (§ 463 a Abs. 4 Satz 2
+Nr. 5 StPO). Die aufenthaltsbezogenen Daten werden im System gemäß § 463 a Abs. 4 Satz 5 StPO nach
+zwei Monaten automatisiert gelöscht, es sei denn, sie werden für die in § 463 a Abs. 4 Satz 2 StPO genannten
+Zwecke benötigt. Zum Abruf der Daten empfiehlt sich die Verwendung des Musters in A n h a n g 12.
+Sind die Daten aufgrund der automatisierten Löschung nicht mehr verfügbar, teilt die GÜL dies der anfragenden Strafverfolgungsbehörde mit und unterrichtet hierüber unter Beifügung des Ersuchens die zuständige
+Führungsaufsichtsstelle.
+Sind die Daten grundsätzlich verfügbar, ist zu unterscheiden, ob die zuständige Führungsaufsichtsstelle
+bereits involviert war oder nicht. Hat die zuständige Führungsaufsichtsstelle die Anfrage selbst gestellt oder
+das Ersuchen einer Strafverfolgungsbehörde mit der Bitte um weitere Veranlassung an die GÜL weitergeleitet,
+fordert die GÜL bei der HZD die entsprechenden Daten an und übersendet diese der Führungsaufsichtsstelle
+und/oder der ersuchenden Strafverfolgungsbehörde.
+Wird ein Ersuchen einer Strafverfolgungsbehörde direkt der GÜL übermittelt, ohne dass zuvor die zuständige Führungsaufsichtsstelle involviert war, hält die GÜL mit dieser unter Übersendung des Ersuchens unverzüglich Rücksprache. Stimmt die Führungsaufsichtsstelle der Datenübermittlung schriftlich zu, fordert die GÜL
+bei der HZD die entsprechenden Daten an und übersendet diese der Führungsaufsichtsstelle und der ersuchenden Strafverfolgungsbehörde. Anderenfalls teilt die GÜL der anfragenden Stelle die Ablehnung mit.
+Unabhängig von der Frage, ob eine Datenübermittlung stattfindet oder nicht, weist die GÜL die anfragende
+Stelle darauf hin, dass die Anfrage keine Auswirkungen auf die automatisierte Löschung der Daten nach zwei
+Monaten hat.
+Soll die automatisierte Löschung der Daten nach zwei Monaten ausgesetzt werden, ist dies der GÜL durch
+die Führungsaufsichtsstelle schriftlich mitzuteilen. Die GÜL veranlasst sodann unverzüglich bei der HZD eine
+Herausnahme der Daten aus der Löschroutine. Nach Bestätigung durch die HZD teilt die GÜL dies der Führungsaufsichtsstelle mit.
+XI. Datenfreigabe ohne Zustimmung der Führungsaufsichtsstelle
+Unter den Voraussetzungen des § 463 a Abs. 4 Satz 2 Nrn. 4 und 5 StPO können die Daten der GÜL auch
+ohne vorherige Zustimmung der Führungsaufsichtsstelle freigegeben werden.
+Sofern die GÜL das Vorliegen einer in § 463 a Abs. 4 Satz 2 Nr. 4 StPO genannten Gefahr erkennt oder
+die Daten zur Verfolgung einer Straftat der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m.
+§ 129 b Abs. 1 StGB genannten Art erforderlich sind, teilt sie der Polizei die erforderlichen Erstinformationen
+mit, insbesondere den Namen der verurteilten Person, den konkreten Verstoß sowie den Inhalt einer etwaigen
+Kontaktaufnahme mit der verurteilten Person.
+Mit der Übernahme durch die Polizei wird die GÜL keinen eigenständigen Kontakt mit der verurteilten Person aufnehmen; bei der Kontaktaufnahme durch die verurteilte Person selbst unterrichtet sie die Polizei hierüber und stimmt sich mit dieser ab.
+Die Polizei teilt der GÜL die Beendigung des Einsatzes mit. Dies kann auch telefonisch geschehen. Mit der
+Beendigung des Einsatzes erlischt die Zugriffsberechtigung für die Polizei.
+
+Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
+
+Seite 10
+
+Die zuständige Führungsaufsichtsstelle wird unverzüglich durch die GÜL über die Datenfreigabe, ihren
+Anlass und ihre Beendigung sowie den Inhalt der freigegebenen Daten informiert.
+XII. Datenschutz
+Die gesetzlichen Datenschutzbestimmungen bleiben unberührt. Die Zulässigkeit der Übermittlung personenbezogener Daten ist in jedem Einzelfall von den Beteiligten nach den jeweils geltenden bereichsspezifischen Datenschutzbestimmungen zu prüfen.
+
+Anhang 1
+Kriterienkatalog zur Beurteilung des Rückfallrisikos
+im Zusammenhang mit Führungsaufsichtsweisungen
+nach § 68 b Abs. 1 Satz 1 Nr. 12 StGB
+
+Die anliegende Kriterienliste soll als nicht abschließende Aufzählung eine Orientierungshilfe für die Frage,
+auf welche Umstände bei der Beurteilung des Rückfallrisikos besonders zu achten ist, bieten.
+
+Entscheidend bei der Beurteilung des Rückfallrisikos sind die jeweilige Täterpersönlichkeit, das Verhalten
+im Straf- oder Maßregelvollzug und die jeweilige Anlasstat.
+1. Analyse der Anlasstat
+
+–
+
+besonderer „Modus Operandi“,
+
+–
+
+Anzeichen für spezielle Opferauswahl,
+
+–
+
+erhöhtes Ausmaß an Gewalt bei Tatbegehung (bei Gewaltdelikten),
+
+–
+
+multiple sexuelle Handlungen (bei Sexualdelikten),
+
+–
+
+Deliktsserie,
+
+–
+
+extremistisches Tatmotiv;
+
+2. Analyse der Täterpersönlichkeit
+
+–
+
+sexuelle Präferenzstörung und/oder Gewaltproblematik,
+
+–
+
+dissoziale Persönlichkeitsstörung,
+
+–
+
+einschlägige Vorstrafen,
+
+–
+
+Substanzmissbrauch,
+
+–
+
+extremistische Glaubensausrichtung,
+
+–
+
+ausgeprägte Radikalisierung;
+
+3. Analyse der Entlassungssituation
+
+–
+
+fehlende/instabile/kriminelle soziale Netzwerke,
+
+–
+
+fehlende Bereitschaft oder Fähigkeit zum Aufbau und Anbindung an soziale Netzwerke,
+
+1
+
+–
+
+bestehende Kontakte in extremistischen Szenen/Bindung an islamistische Brennpunkte,
+
+–
+
+fortbestehende/anhaltende Ausreiseabsichten in Kriegs- oder Krisengebiete;
+
+4. Analyse von Therapiemotivation und Therapiebereitschaft
+
+–
+
+fehlende Therapiemöglichkeiten/-fähigkeiten,
+
+–
+
+geringe oder fehlende Therapiebereitschaft,
+
+–
+
+Abbruch der Therapie,
+
+–
+
+fehlende ambulante Nachsorge;
+
+5. Analyse des Verhaltens in der Haft oder in der Maßregel
+
+–
+
+keine Auseinandersetzung mit der Tat in der Haft oder in der Maßregel,
+
+–
+
+Angebote in der Justizvollzugsanstalt oder in der Maßregeleinrichtung nicht angenommen,
+
+–
+
+sich in der Haft oder in der Maßregel nicht um Arbeit bemüht,
+
+–
+
+keine Bereitschaft an der Entwicklung und Umsetzung eines Rückfallvermeidungsplans (individuelles
+Konzept zum Erkennen und Vermeiden rückfallgefährdender Situationen und Umstände),
+
+–
+
+Straftat (insbesondere Gewalttat) und häufige Disziplinarmaßnahmen in der Haft oder in der Maßregel,
+
+–
+
+Einwirken auf das persönliche Umfeld (u. a. Mithäftlinge)/Missionierung zu radikaler Glaubensausrichtung,
+
+–
+
+Straftaten/Konflikte in der Haft/Maßregel in Zusammenhang mit Glaubensfragen.
+
+Ein hohes Rückfallrisiko kann insbesondere bei folgenden Fallgruppen angenommen werden:
+
+–
+
+Tötungsdelikte mit sexueller Komponente,
+
+–
+
+delikttypische Serientäter ohne Vorbeziehung zu dem Opfer,
+
+–
+
+Anlasstaten, bei denen mehrere extreme Tat- und/oder Täterkomponenten zusammentreffen und die
+in ihrer Gesamtheit die besondere Gefährlichkeit widerspiegeln,
+
+–
+
+Täter, von denen eine konkrete Gefahr einer Straftat gegen ein bestimmtes Tatopfer ausgeht,
+
+–
+
+Straftaten, die der Politisch motivierten Kriminalität zuzuordnen sind, wobei die Täterin oder der Täter
+auch während der Vollstreckung der Freiheitsstrafe/des Vollzuges der Maßregel keine erkennbare
+Abkehr von extremistischem Gedankengut zeigt.
+
+2
+
+Anhang 2
+Matrix zur Auswahl geeigneter Fälle
+
+1. Prüfkomponente: Rechtliche Grundvoraussetzungen
+
+
+Vollverbüßung von mindestens 3 Jahren oder Erledigung Maßregel
+
+
+
+Anlasstat gemäß § 66 Abs. 3 Satz 1 oder § 129 Abs. 5 Satz 2, auch i. V. m. §
+129 b Abs. 1 StGB unter Berücksichtigung des zu schützenden Rechtsguts
+(Leben, körperliche Unversehrtheit, Freiheit, sexuelle Selbstbestimmung)
+JA
+
+NEIN
+= keine weitere Prüfung
+der EAÜ-Maßnahme
+
+2. Prüfkomponente: Rückfallrisiko
+
+
+hohes Rückfallrisiko (vgl. Anlage 1)
+NEIN
+= keine weitere Prüfung
+
+JA
+
+der EAÜ-Maßnahme
+
+3. Prüfkomponente: Erforderlichkeit der Maßnahme
+
+
+Grundsätzliche Erforderlichkeit gemäß § 68 b Abs. 1 Sätze 3 und 5 StGB
+NEIN
+= keine weitere Prüfung
+
+JA
+
+der EAÜ-Maßnahme
+
+
+
+Zielrichtung der Maßnahme gemäß § 463 a Abs. 4 StPO
+
+
+
+nicht elektronisch
+überwachte Weisungen
+
+
+
+Spezialprävention
+
+
+
+Ermöglichung einer
+Strafverfolgung nach
+neuer Straftat
+
+Jedenfalls vorläufig:
+Obligatorische
+Fallkonferenz
+
+!
+
+
+
+elektronische
+Überwachung von Ge/Verbotszonen
+Gefahrenabwehr durch
+spezifische räumliche
+Beschränkungen
+
+
+
+auch in Kombination mit
+Kontaktverboten
+
+Obligatorische
+Fallkonferenz
+
+Anhang 3
+
+Erfassungsbogen Erstanlegung EAÜ
+
+1. Probandendetails:
+Identifikationsnummer Proband (OID):
+2. Taktung (Richtwerte in Klammern):
+
+a) Ortung, Abfrageintervall Normalbetrieb (60):
+
+Sekunden
+
+b) Ortung im Alarmfall (30):
+
+Sekunden
+
+c) Übertragungsintervall an HZD-Server Normalbetrieb (15):
+
+Minuten
+
+d) Zusätzliche Tel. Nr. für Probanden-Handy (die Rufnummer der GÜL wird generell eingespeichert, maximal
+vier weitere Rufnummern können insgesamt eingespeichert werden):
+1.
+2.
+3.
+4.
+
+3. Zonen:
+3.1 Homezone
+1) Adresse oder Koordinaten:
+2) Art der Zone
+3) Maße oder Radius:
+
+Kreisförmig
+
+Polygonal
+
+Meter
+
+3.2 Einschluss- / Gebotszone
+1)
+
+Name der Zone:
+
+2)
+
+Adresse oder Koordinaten:
+
+3)
+
+Art der Zone
+
+4)
+
+Maße oder Radius:
+
+5)
+
+Toleranzzeit (max. 60 min):
+
+6)
+
+Zeitplan der Einschlusszone (falls erwünscht):
+
+Kreisförmig
+
+Polygonal
+
+Meter
+Minuten
+
+1
+
+3.3 Ausschluss- / Verbotszone
+1) Name der Zone:
+2) Adresse oder Koordinaten:
+3) Art der Zone:
+4) Maße oder Radius:
+
+Kreisförmig
+
+Polygonal
+
+Meter
+
+5) Radius für die Pufferzone bei
+kreisförmiger Zone (mind. 10m):
+6) Toleranzzeit:
+
+Meter
+Minuten
+
+7) Zeitplan der Ausschlusszone (falls erwünscht):
+
+4. Sonstige Bemerkungen:
+
+5. Anlagen:
+
+Ort, Datum
+
+Unterschrift
+
+2
+
+Anhang 4
+DATENBLATT FALLKONFERENZ — Koordinierungsstelle Fallkonferenz —
+
+1. Persönliche Daten
+Name: ________________________
+
+Vorname: ________________________________
+
+geb. am: ______________________
+
+in: ________________________________
+
+Staatsangehörigkeit: ____________________
+
+voraussichtliche Adresse (soweit bekannt):
+_________________________________________________________________________
+
+Familienstand: ____________________
+
+grundsätzlich kooperationsbereit:
+
+ ja
+
+andere Sprachen: ____________________
+
+ nein
+
+2. Tätergruppe
+ Freiheitsstrafe
+
+ Maßregel
+
+Vollzug vom ________ bis ___________
+
+Anlassverurteilung:
+wegen __________________________________________________________________
+im Jahr_____
+
+Relevante frühere Verurteilungen:
+— wegen ______________________________________________________ im Jahr _____
+— wegen ______________________________________________________ im Jahr _____
+
+3. Bemerkungen
+ Suchtmittelmissbrauch:
+__________________________________________________________________________
+
+ psychische Erkrankung/Störung:
+__________________________________________________________________________
+
+ sonstige Umstände, die für die Gefährlichkeit relevant sind:
+__________________________________________________________________________
+
+Anhang 5
+Gerichtliche Weisungen im Rahmen der Führungsaufsicht beim Einsatz der elektronischen
+Aufenthaltsüberwachung (EAÜ)
+Handreichung
+1. Vorbemerkungen
+Die Führungsaufsicht dient der Unterstützung entlassener Straftäter mit einer ungünstigen Sozialprognose bei der Wiedereingliederung in die Gesellschaft und gleichzeitig ihrer Überwachung zur Verhinderung
+von neuen Straftaten. Die in § 68 b Abs. 1 Satz 1 Nr. 12 StGB neu geschaffene Möglichkeit, eine EAÜ bei
+unter Führungsaufsicht stehenden verurteilten Personen anzuordnen, ist ein Instrument, mit dem der Schutz
+der Bevölkerung vor rückfallgefährdeten Straftätern (in Ergänzung zu anderen Maßnahmen) verbessert werden soll. Zugleich kann sie der Resozialisierung von Straffälligen dienen.
+Das System der EAÜ ist keine Straftaten ausschließende Fesselung und ermöglicht nach der gesetzlichen Regelung auch keine anlassunabhängige permanente Echtzeitbeobachtung. Daher ist sie kein Ersatz
+für eine geschlossene Unterbringung.
+Vor diesem Hintergrund soll der Einsatz einer EAÜ auf einen bestimmten (Führungsaufsichtsprobanden-) Kreis beschränkt und durch die Wahl gezielter gerichtlicher Weisungen eingesetzt werden.
+2. Rechtliche Voraussetzungen
+Die Weisung nach § 68 b Abs. 1 Satz 1 Nr. 12 StGB ist gemäß § 68 b Abs. 1 Sätze 3 und 5 StGB zulässig, wenn
+a)
+
+die Führungsaufsicht aufgrund der vollständigen Vollstreckung einer Freiheitsstrafe, Gesamtfreiheitsstrafe oder Jugendstrafe von mindestens drei Jahren oder aufgrund einer erledigten Maßregel eingetreten ist oder die Führungsaufsicht aufgrund der vollständigen Vollstreckung einer Freiheitsstrafe,
+Gesamtfreiheitsstrafe oder Jugendstrafe von mindestens zwei Jahren, wenn diese wegen einer oder
+mehrerer Straftaten nach dem ersten oder siebenten Abschnitt des Besonderen Teils des StGB (insbesondere die §§ 89 a, 89 c, 129 a StGB) verhängt wurde, eingetreten ist,
+
+b)
+
+die Freiheitsstrafe oder Gesamtfreiheitsstrafe oder die Unterbringung wegen einer oder mehrerer
+Straftaten der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB genannten Art verhängt oder angeordnet wurde,
+
+c)
+
+die Gefahr besteht, dass die verurteilte Person weitere Straftaten der in § 66 Abs. 3 Satz 1 oder
+§ 129 a Abs. 5 Satz 2, auch i. V. m. 129 b Abs. 1 StGB genannten Art begehen wird,
+Erläuterung:
+Für die Gefährlichkeitsprognose kommt es auf das Ergebnis einer Gesamtwürdigung der verurteilten
+Person und ihrer Taten unter Berücksichtigung der Erkenntnisse im Vollzug an. Eine bloß abstrakte,
+auf die statistische Rückfallwahrscheinlichkeit gestützte Gefahrenprognose reicht nicht aus. Andererseits ist auch keine nahe liegende, konkrete Gefahr erforderlich.
+Wie bei der Anordnung der unbefristeten Führungsaufsicht gemäß § 68 c Abs. 2 und 3 StGB muss eine Gefahr bestehen, die in Anlehnung an die Maßregel des § 64 StGB als begründete Wahrscheinlichkeit näher definiert werden kann (BGH NStZ 1994, 30). Die Wiederholungsgefahr muss sich also
+nicht nur auf irgendeine Straftat beziehen, sondern auf eine der im Katalog des § 66 Abs. 3
+Satz 1 StGB genannten schweren Straftat.
+Eine gesetzliche Pflicht für das zuständige Gericht, die Frage einer fortbestehenden Gefährlichkeit der
+verurteilten Person durch eine Sachverständige oder einen Sachverständigen begutachten zu lassen,
+besteht nicht. Es gelten die allgemeinen, durch die Grundsätze der Amtsermittlung und des Freibeweises bestimmten Regelungen (vgl. Bundestags-Drucksache 17/3403 S. 60; KK/Fischer § 244 Anmerkung 16). Demnach kann das Gericht ein Sachverständigengutachten zur Gefährlichkeit erholen
+und es kann im Einzelfall wegen der Amtsaufklärungspflicht dazu auch verpflichtet sein. Es kann aber
+
+1
+
+auf die Erholung eines Gutachtens verzichten, falls sich z. B. aus fachärztlichen Stellungnahmen bereits eine hinreichende Beweisgrundlage für eine solche Gefährlichkeitsprognose ergibt,
+d)
+
+die Weisung erforderlich erscheint, um die verurteilte Person durch die Möglichkeit der Datenverwendung nach § 463 a Abs. 4 Satz 2 StPO, insbesondere durch die Überwachung der Erfüllung einer
+nach Satz 1 Nr. 1 oder Nr. 2 auferlegten Weisung, von der Begehung weiterer Straftaten der in § 66
+Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m. 129 b Abs. 1 StGB genannten Art abzuhalten.
+Erläuterung:
+Mit dieser Formulierung wird auf die spezialpräventive Wirkung der Weisung abgestellt. Das erhöhte
+Entdeckungsrisiko kann unmittelbar abschreckend wirken (vgl. Bundestags-Drucksache 17/3403
+S. 61). Eine EAÜ kann die Eigenkontrolle der verurteilten Person stärken.
+Die Führungsaufsicht kann ggf. frühzeitig mit modifizierten Betreuungsmaßnahmen reagieren. Sofern
+Gebotszonen sowie Verbotszonen konkret bezeichnet werden können, sollte eine Weisung nach
+§ 68 b Abs. 1 Satz 1 Nr. 12 StGB mit aufenthaltsbezogenen Weisungen nach § 68 b Abs. 1 Satz 1
+Nrn. 1 und 2 StGB kombiniert werden,
+
+e)
+
+zudem ist gemäß § 68 b Abs. 3 StGB zu beachten, dass bei den Weisungen an die Lebensführung
+der verurteilten Person keine unzumutbaren Anforderungen gestellt werden.
+Erläuterung:
+Das zuständige Gericht muss im Rahmen seiner Ermessensausübung entscheiden, ob eine EAÜ verhältnismäßig und damit für die verurteilte Person zumutbar ist. Im Rahmen dieser Prüfung wird das
+Gericht sich auch mit anderen und ggf. milderen Mitteln zur Eindämmung einer Rückfallgefahr auseinanderzusetzen haben.
+Eine Abwägung der Sicherheitsinteressen der Allgemeinheit mit den persönlichen Interessen der verurteilten Person wird in der Regel zu dem Ergebnis kommen, dass die mit der EAÜ verbundenen Beeinträchtigungen hinzunehmen sind, zumal die Überwachungsgeräte im normalen sozialen Umgang
+nicht ohne weiteres zu erkennen sind.
+
+3. Einsatzmöglichkeiten der EAÜ
+Der Einsatz einer EAÜ nach § 68 b Abs. 1 Satz 1 Nr. 12 StGB kommt in vier Fallgruppen vor:
+a)
+
+spezialpräventiv wirkende EAÜ ohne begleitende aufenthaltsbeschränkende Weisungen,
+
+b)
+
+EAÜ mit konkreten aufenthaltsbeschränkenden Weisungen, den Wohn- oder Aufenthaltsort oder einen bestimmten Bereich nicht ohne Erlaubnis der Aufsichtsstelle zu verlassen (sog. „Gebotszone“),
+
+c)
+
+EAÜ mit aufenthaltsbeschränkenden Weisungen, sich nicht an bestimmten Orten, die Gelegenheit
+oder Anreiz zu weiteren Straftaten bieten, aufzuhalten (sog. „ortsbezogene Verbotszone“),
+
+d)
+
+EAÜ mit aufenthaltsbeschränkenden Weisungen, mit dem Ziel die Probandin oder den Probanden von
+bestimmten potenziellen Opfern fernzuhalten (sog. „Kontaktverbotszone“).
+
+4. Erhebung und Speicherung von Aufenthaltsdaten nach § 463 a Abs. 4 StPO
+§ 463 a Abs. 4 StPO enthält die notwendigen Bestimmungen für die Erhebung und Verwendung der bei
+einer EAÜ nach § 68 b Abs. 1 Satz 1 Nr. 12 anfallenden Daten. Die Daten dürfen ohne Einwilligung der betroffenen Person nur verwendet werden, soweit dies erforderlich ist für die folgenden Zwecke:
+4.1
+
+zur Feststellung des Verstoßes gegen eine Weisung nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder
+Nr. 12 StGB,
+
+4.2
+
+zur Ergreifung von Maßnahmen der Führungsaufsicht, die sich an einen Verstoß gegen eine Weisung
+nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder Nr. 12 StGB anschließen können,
+
+4.3
+
+zur Ahndung eines Verstoßes gegen eine Weisung nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder Nr. 12
+StGB,
+
+2
+
+4.4
+
+zur Abwehr einer erheblichen gegenwärtigen Gefahr für das Leben, die körperliche Unversehrtheit, die
+persönliche Freiheit oder die sexuelle Selbstbestimmung Dritter oder
+
+4.5
+
+zur Verfolgung einer Straftat der in § 66 Abs. 3 Satz 1 oder § 129 a Abs. 5 Satz 2, auch i. V. m.
+§ 129 b Abs. 1 StGB genannten Art.
+
+Die in § 463 a Abs. 4 Satz 1 StPO genannten Daten sind spätestens zwei Monate nach ihrer Erhebung
+zu löschen, soweit sie nicht für die nach Absatz 1 Nrn. 4.1 bis 4.5 bezeichneten Zwecke verwendet werden.
+5. Formulierung einer Weisung nach § 68 Abs. 1 Satz 1 Nr. 12 StGB
+Die Weisung nach § 68 b Abs. 1 Satz 1 Nr. 12 StGB könnte wie folgt formuliert werden:
+„Die verurteilte Person wird angewiesen, sich die für eine elektronische Überwachung ihres Aufenthaltsortes
+erforderlichen technischen Mittel anlegen zu lassen, diese ständig im betriebsbereiten Zustand bei sich zu
+führen und deren Funktionsfähigkeit nicht zu beeinträchtigen. Sie wird darüber hinaus angewiesen, ein ihr
+zur Verfügung gestelltes Mobiltelefon (Handy) ständig in betriebsbereitem Zustand bei sich zu führen, dessen Funktionsfähigkeit nicht zu beeinträchtigen und so die persönliche Erreichbarkeit sicherzustellen.“
+Erläuterung:
+Die Regelung zielt nicht auf eine bestimmte Art der EAÜ und ist damit offen für neue technische Entwicklungen. Das konkrete technische System muss nicht im Beschluss bezeichnet werden.
+Die Vorgabe, die Geräte ständig im betriebsbereiten Zustand mit sich zu führen und deren Funktionsfähigkeit nicht zu beeinträchtigen, umfasst Handlungs-, Duldungs- und Unterlassungspflichten.
+Die Duldungspflicht beinhaltet die Pflicht, sich das oder die Geräte anlegen zu lassen. Darüber hinaus
+ist diese in einem hinreichend geladenen Zustand zu halten oder sonst deren Energieversorgung sicherzustellen. Einzelne Anforderungen hat das Gericht nach § 68 b Abs. 1 Satz 2 StGB hinreichend
+konkret zu bestimmen. Es empfiehlt sich insbesondere, gerichtlich anzuordnen, dass bei noch im Vollzug befindlichen Probanden die Geräte zur Aufenthaltsüberwachung in der Haftanstalt oder Maßregeleinrichtung angelegt werden und die Belehrung auf diese Einrichtung übertragen wird (§ 463 Abs. 3
+Satz 1 und § 454 Abs. 4 Satz 2 StPO). Bei den in Freiheit befindlichen Probandinnen und Probanden
+sollte dies im Rahmen der Eröffnung des gerichtlichen Beschlusses, der eine Weisung nach § 68 b
+Abs. 1 Satz 1 Nr. 12 StGB enthält, erfolgen.
+Die Duldungspflicht beinhaltet auch die Pflicht, eventuell notwendige Wartungsarbeiten zu dulden.
+Die Unterlassungspflicht beinhaltet vor allem das Verbot diesbezüglicher Manipulationen oder Beschädigungen. Sie bezieht sich aber nur auf die Funktionsfähigkeit der Geräte selbst. Die verurteilte Person
+ist also nicht verpflichtet, sich nur an Orten aufzuhalten, bei denen eine EAÜ möglich ist. Sie ist also
+z. B. nicht gehindert, U-Bahn zu fahren, obwohl dort eine Ortung ausgeschlossen sein kann (Bundestags-Drucksache 17/3403 S. 36).
+Ein unmittelbarer Zwang zur Durchsetzung der gerichtlichen Weisung ist nicht möglich. Verstöße gegen
+die Weisung nach § 68 b Abs. 1 Nr. 12 StGB können aber Sanktionen nach § 145 a StGB und unter
+den Voraussetzungen nach § 66 Abs. 1 Nr. 1 c StGB primäre Sicherungsverwahrung zur Folge haben.
+Die Weisung hinsichtlich des Mitführens eines zur Verfügung gestellten Mobiltelefons ist sinnvoll, um
+die Möglichkeit einer Sprachverbindung zwischen der Probandin oder dem Probanden und den Mitarbeiterinnen und Mitarbeitern der GÜL zu ermöglichen. Die Probandin oder der Proband kann damit
+durch die GÜL kontaktiert werden und eventuelle Problemlagen können niedrigschwellig gelöst werden.
+6. Weisung nach § 68 b Abs. 1 Nr. 1 StGB (Aufenthaltsgebote)
+Die EAÜ könnte durch eine Weisung nach § 68 b Abs. 1 Nr. 1 StGB ergänzt werden:
+„Die verurteilte Person wird angewiesen, den Wohn- oder Aufenthaltsort in < genaue Bezeichnung des Bereichs > nicht (auch nicht kurzfristig oder nicht für mehr als XXX Tage) ohne Erlaubnis der Aufsichtsstelle zu
+verlassen.“
+
+3
+
+Erläuterung:
+Die Weisung nach § 68 b Abs. 1 Nr. 1 StGB ist in örtlicher und zeitlicher Hinsicht präzise zu formulieren,
+um eine EAÜ zu gewährleisten. Beim Täterkreis, bei dem eine EAÜ in Betracht zu ziehen ist, ist es verhältnismäßig, jegliches Verlassen der Gebotszone zu sanktionieren.
+Der Probandin oder dem Probanden ist bei der rechtlichen Belehrung zu verdeutlichen, dass
+–
+
+jedes (auch nur kurzfristiges) Verlassen des Wohn- und Aufenthaltsortes einen Weisungsverstoß
+darstellt und einen Alarm auslöst und
+
+–
+
+ein beabsichtigtes Verlassen der Gebotszone rechtzeitig (mindestens eine Woche vorher) der
+zuständigen Führungsaufsichtsstelle anzuzeigen und um Erlaubnis zum Verlassen der Gebotszone zu ersuchen ist sowie eine Erlaubnis nur unter Angabe von plausiblen Gründen ausnahmsweise erteilt wird.
+
+7. Weisung nach § 68 b Abs. 1 Nr. 2 StGB (Aufenthaltsverbote)
+Die EAÜ könnte durch Weisungen nach § 68 b Abs. 1 Nr. 2 StGB ergänzt werden:
+a)
+
+„Die verurteilte Person wird angewiesen, < genaue Bezeichnung der Verbotszone > nicht zu betreten
+und sich nicht im Umkreis von < genaue Bezeichnung der Entfernung > dort aufzuhalten.“
+
+b)
+
+„Die verurteilte Person wird angewiesen, sich nicht im Umkreis von < genaue Bezeichnung der Entfernung > zur Wohnung und/oder Arbeitsstelle des oder der < genaue Bezeichnung der Person > aufzuhalten.“
+Erläuterung zu Absatz 1 Buchst. a:
+Eine derartige umfassende Verbotszone ist für bestimmte Tätertypen (z. B. pädophile Täterinnen und
+Täter) sinnvoll, aber technisch nicht zu überwachen und sollte nicht mit einer Weisung nach § 68 b
+Abs. 1 Nr. 12 StGB kombiniert werden. Eine aufenthaltsbeschränkende Weisung nach § 68 b Abs. 1
+Nr. 2 StGB ist nur überprüfbar, wenn die Verbotszone räumlich eindeutig definierbar ist.
+In den (eher seltenen) Fällen, in denen Täterinnen und Täter für ihre Taten gezielt konkrete Objekte (einen bestimmten Spielplatz/eine bestimmte Schule) aufgesucht haben, empfiehlt sich, um diese konkreten Objekte eine EAÜ-überwachte Verbotszone zu legen.
+Erläuterung zu Absatz 1 Buchst. b:
+Eine derartige aufenthaltsbezogene Weisung mit dem Ziel, die verurteilte Person von bestimmten Personen fernzuhalten, ist sinnvoll, wenn die zu schützende Person namentlich bezeichnet, die Verbotszone klar definiert und der verurteilten Person der Aufenthaltsort der zu schützenden Person bekannt ist
+oder jedenfalls der Inhalt der Verbotszone der verurteilten Person mitgeteilt werden kann. Ist dies aus
+Opferschutzgründen nicht möglich, so empfiehlt sich (nur) eine Weisung nach § 68 b Abs. 1 Nr. 3 StGB.
+
+8. Weisung nach § 68 b Abs. 1 Nr. 3 StGB
+Die EAÜ könnte durch eine Weisung nach § 68 b Abs. 1 Nr. 3 StGB ergänzt werden:
+„Die verurteilte Person wird angewiesen, jegliche Kontaktaufnahme zu < genaue Bezeichnung der Person,
+allerdings — aus Zeugenschutzgründen — ohne Angabe des Wohnortes > zu unterlassen, auch unter Verwendung technischer Hilfsmittel oder über Dritte.“
+Erläuterung:
+Eine derartige aufenthaltsbezogene Weisung mit dem Ziel, die verurteilte Person von bestimmten Personen fernzuhalten, ist sinnvoll, wenn die zu schützende Person namentlich bezeichnet werden kann.
+Die Weisung kann dann (durch EAÜ) auch überwacht werden, sofern die Verbotszone klar definiert
+werden kann.
+Bei der Formulierung der Weisung sind Opferschutzinteressen gebührend zu berücksichtigen. Andererseits muss die Weisung auch so konkret formuliert werden, dass der verurteilten Person das verbotene
+Verhalten unmissverständlich verdeutlicht wird.
+
+4
+
+9. Weisung nach § 68 b Abs. 1 Nr. 3 StGB
+Die EAÜ könnte durch eine Weisung nach § 68 b Abs. 1 Nr. 3 StGB ergänzt werden:
+„Die verurteilte Person wird angewiesen, keinen (unbeaufsichtigten) Kontakt zu Minderjährigen aufzunehmen, mit ihnen keinen Umgang zu haben, sie nicht zu beschäftigen, auszubilden oder zu beherbergen.“
+Erläuterung:
+Eine derartige umfassende Weisung ist für bestimmte Tätertypen (z.B. pädophile Täterinnen und Täter)
+sinnvoll, aber technisch nicht überwachbar.
+10. Weisungen nach § 68 b Abs. 1 Nrn. 4 bis 11 StGB
+Die EAÜ könnte auch durch Weisungen nach § 68 b Abs. 1 Nrn. 4 bis 11 StGB ergänzt werden. Sinnvoll erscheint insbesondere folgende Vorstellungsweisung bei der zuständigen Bewährungshelferin oder
+dem zuständigen Bewährungshelfer:
+„Die verurteilte Person wird angewiesen, sich monatlich mindestens einmal bei der für ihren Wohnort zuständigen Bewährungshilfe (nach näherer Bestimmung durch die zuständige Bewährungshelferin oder den
+zuständigen Bewährungshelfer in deren oder dessen Sprechstunde < ggf. nähere Bezeichnung >) persönlich
+zu melden.“
+Erläuterung:
+Die in § 68 b Abs. 1 Nrn. 4 bis 11 StGB genannten (strafbewehrten) Weisungen sind technisch nicht
+überwachbar. Die mindestens einmal monatliche Meldepflicht bei der Bewährungshilfe entspricht der
+bisherigen bewährten Handhabung bei Risikoprobandinnen und Risikoprobanden.
+11. Weisung nach § 68b Abs. 1 Nr. 7 StGB (Vorstellung zum Anlegen des Endgerätes prüfen)
+Neben einer allgemeinen Vorstellungsweisung bei der zuständigen Bewährungshilfe könnte — gerade
+im Fall einer nachträglichen Entscheidung — folgende besondere Vorstellungsweisung zur Anlegung des
+Endgerätes bei einer oder einem in Freiheit befindlichen Probandin oder Probanden ausgesprochen werden:
+„Die verurteilte Person wird angewiesen, sich binnen < konkreten Zeitraum benennen > nach näherer Weisung der Führungsaufsichtsstelle persönlich in einem durch die Führungsaufsichtsstelle benannten Amtsoder Landgericht zum Anlegen der Überwachungsgeräte der EAÜ vorzustellen (Weisung nach § 68 b Abs. 1
+Nr. 7 StGB).“
+Erläuterung:
+Das Anlegen der Überwachungsgeräte ist im Anhörungstermin bei der zuständigen Strafvollstreckungskammer aus praktischen und zeitlichen Gründen nicht möglich. Dies sollte einem eigenen durch die
+Führungsaufsichtsstelle bestimmten Termin vorbehalten sein, wozu sich eine Vorstellungsweisung nach
+§ 68 b Abs. 1 Nr. 7 StGB anbietet.
+Die rechtliche Belehrung durch die Strafvollstreckungskammer sollte unmittelbar im Anhörungstermin
+gemäß § 463 Abs. 3 Satz 1 und § 454 Abs. 4 Satz 2 StPO erfolgen. Sollte die Probandin oder der Proband nicht zum Anhörungstermin erscheinen, wird die Belehrung in schriftlicher Form erteilt (vgl. Schmitt in Meyer-Goßner/Schmitt Strafprozessordnung, 59. Auflage, § 453 a Anmerkung 2 m. w. N.).
+12. Weisungen nach § 68 b Abs. 2 StGB
+Die EAÜ könnte auch durch Weisungen nach § 68 b Abs. 2 StGB noch weiter ausgestaltet werden wie
+folgt:
+„Die verurteilte Person wird angewiesen, die Home-Unit in ihrer Wohnung aufstellen zu lassen und an der
+Beseitigung von Störungen durch den Vor-Ort-Service mitzuwirken.“
+Erläuterung:
+Die Home-Unit ist ein Zusatzgerät, das in der Wohnung der Probandin oder des Probanden aufgestellt
+wird, um den datenschutzrechtlichen Anforderungen an die Aussparung der Wohnung von der Ortung
+gerecht zu werden sowie um Akkuleistung zu sparen. Es handelt sich daher um kein technisch erforder-
+
+5
+
+liches Mittel i. S. von § 68 b Abs. 1 Satz 1 Nr. 12 StGB, da das System der EAÜ auch ohne die
+Home-Unit funktioniert, sodass eine entsprechende Weisung nicht als strafbewehrte Weisung nach
+§ 68 b Abs. 1 Satz 1 Nr. 12 StGB ausgestaltet werden kann.
+Durch diese Weisung soll sichergestellt werden, dass die verurteilte Person an der Aufstellung der Home-Unit sowie der Beseitigung eventuell auftretender Störungen (Funktionsstörungen und alle sonstigen technisch möglichen Störungen einschließlich Austauscharbeiten), die von dem Vor-Ort-Service
+behoben werden können, grundsätzlich uneingeschränkt mitzuwirken hat. Beispielsweise hat sie sich
+an Terminvereinbarungen zu halten, den Vor-Ort-Service in die Wohnung zu lassen und diese bis zum
+Eintreffen dessen nicht zu verlassen oder die Störung außerhalb ihrer Wohnung an einem von dem VorOrt-Service zu bestimmenden Ort beseitigen zu lassen.
+Diese Weisung kann nicht mit Zwangsmitteln durchgesetzt werden.
+Ergänzend wird darauf hingewiesen, dass bei Nicht-Aufstellung einer Home-Unit pro Probandin oder
+Proband zusätzliche Ortungsgebühren in Höhe von 200 bis 500 EUR im Monat oder bis zu 4 000 EUR
+im Jahr anfallen.
+13. Gerichtliche Weisungen mit unbekannter Entlassungsanschrift
+Die EAÜ könnte bei entsprechender Gefährlichkeit des Probanden durch Weisungen nach § 68 b
+Abs. 1 und 2 StGB wie folgt ausgestaltet werden:
+„Die verurteilte Person wird angewiesen, sich am Tag der Haftentlassung bei
+–
+
+der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer
+< ggf. nähere Bezeichnung > persönlich zu melden oder
+
+–
+
+der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer und der
+örtlich zuständigen Polizeidienststelle nach dem Länderkonzept zur Überwachung rückfallgefährdeter
+Straftäter < z. B. KURS-, ZÜRS-, HEADS-Ansprechpartner. ggf. nähere Bezeichnung > persönlich zu
+melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
+
+–
+
+„Die verurteilte Person wird angewiesen, sich täglich bei der örtlichen Polizeiinspektion < ggf. nähere
+Bezeichnung > persönlich zu melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
+Erläuterung:
+Der oder dem Verurteilten kann mittels strafbewehrter Weisungen kein bestimmter Aufenthaltsort zugewiesen werden. Daher empfehlen sich die in Absatz 1 bezeichneten Weisungen, um eine wirksame
+Kontrolle über die Probandin oder den Probanden gewährleisten zu können.
+Die örtliche Zuständigkeit der Bewährungshilfe und der Polizeidienststelle bemisst sich jeweils nach
+dem Sitz der Justizvollzugsanstalt.
+Die Weisung nach § 68 b Abs. 1 Nr. 1 StGB kann mit einer EAÜ hinterlegt werden. Sobald die oder der
+Verurteilte einen konkreten Aufenthaltsort benennt, können die gerichtlichen Weisungen dieser neuen
+Sachlage (insbesondere die tägliche Meldepflicht) angepasst werden.
+
+14. Schlussbemerkungen
+Den verurteilten Personen sollte im Rahmen der rechtlichen Belehrung verdeutlicht werden, dass Verstöße gegen Weisungen nach § 68 b Abs. 1 StGB Sanktionen nach § 145 a StGB und unter den Voraussetzungen nach § 66 Abs. 1 Nr. 1 c StGB primäre Sicherungsverwahrung zur Folge haben kann.
+
+6
+
+Anhang 6
+Formular Ereignismeldungen GÜL — 1 —
+
+Name der Probandin/des Probanden: _________________________
+
+HZD-Kürzel (OID) ______________
+
+A. Zonenverletzungen
+Ereignismeldung
+
+Unmittelbare Kontaktaufnahme der GÜL zu
+Probandin/Proband
+Ansprechpartnerin/
+Ansprechpartner
+
+1. Verletzung Einschlusszone (Gebotszone)
+
+ ja
+
+Dieser Meldung liegt eine Gebotszone zugrunde,
+innerhalb derer sich die Probandin oder der
+Proband aufhalten muss.
+
+ A. AJSD
+
+ sofort
+
+ B. FA-Stelle
+
+ ___________
+
+ C. Polizei
+
+ nein
+
+ D. ____________
+
+Bericht an
+Reihenfolge
+
+ Probandin/ Proband
+zuerst
+
+ FA-Stelle
+ AJSD
+ ______
+
+ _____________
+
+ am nächsten Werktag
+
+
+2. Ausschlusszonenverletzung (Verbotszone)
+
+Die Probandin oder der Proband hat eine Zone
+betreten, die ihr oder ihm verboten ist
+
+ ja
+
+ A. AJSD
+
+ sofort
+
+ B. FA-Stelle
+
+ ___________
+
+ C. Polizei
+
+ nein
+
+ D. ____________
+
+B. Batteriemeldungen
+
+Unmittelbare Kontaktaufnahme der GÜL zu
+
+Ereignismeldung
+
+Probandin/Proband
+
+Ansprechpartnerin/
+
+ Probandin/Proband
+zuerst
+
+ ja
+
+ A. AJSD
+
+4. Batterie wird geladen
+
+ sofort
+
+ B. FA-Stelle
+
+5. Tracker Stromverbindung/Trackerstrom
+unterbrochen
+
+ ___________
+
+ C. Polizei
+ D. Vor-Ort-Service
+
+ AJSD
+ ______
+
+ _____________
+
+ am nächsten Werktag
+Bericht bei  Ausfall
+ immer
+
+Reihenfolge
+an:
+
+Ansprechpartner
+3. Trackerbatterie schwach
+
+ FA-Stelle
+
+ Probandin/Proband
+zuerst
+
+ FA-Stelle
+ AJSD
+ ______
+
+ _____________
+
+1
+
+ nein
+
+ E. _____________
+
+ am nächsten Werktag
+
+
+Diese Meldungen betreffen die Energieversorgung
+für die GPS-Ortung. Der Akku muss für zwei
+Stunden pro Tag aufgeladen werden. Die Meldung
+Nummer 4 erfolgt ca. 60 min. vor Ende der
+Leistungszeit. Die Probandin oder der Proband wird
+an das Aufladen erinnert.
+C. Sonstige Meldungen
+
+Unmittelbare Kontaktaufnahme der GÜL zu
+
+Ereignismeldung
+
+Probandin/Proband
+
+Ansprechpartnerin/
+Ansprechpartner
+
+Reihenfolge
+
+6. Tracker TX-Befestigungsbandmanipulation
+
+ ja
+
+ A. AJSD
+
+ Probandin/Proband
+zuerst
+
+ sofort
+
+ B. FA-Stelle
+
+ ___________
+
+ C. Polizei
+
+Diese Meldung erfolgt, wenn am Band der
+Fußfessel eine Störung vorliegt. Da dieses Band
+äußerst widerstandsfähig ist und von einer
+Probandin oder einem Probanden nur mit
+Hilfsmitteln und Kraftaufwand entfernt werden kann,
+ist davon auszugehen, dass die Probandin oder der
+Proband sich der Fußfessel entledigt hat.
+
+ nein
+
+7. Trackergehäuse geöffnet
+
+ ja
+
+Das Trackergehäuse kann nur mit hohem Aufwand
+und Hilfsmitteln geöffnet werden. Deshalb ist bei
+dieser Meldung davon auszugehen, dass sich die
+Probandin oder der Proband der Überwachung
+entzieht.
+
+ D. Vor-Ort-Service,
+wenn Position der
+Probandin/des
+Probanden gesichert ist
+
+Bericht an:
+
+ FA-Stelle
+ AJSD
+ ______
+
+ _____________
+ am nächsten Werktag
+
+
+ E. _____________
+ A. AJSD
+
+ sofort
+
+ B. FA-Stelle
+
+ ___________
+
+ C. Polizei
+
+ nein
+
+ D. Vor-Ort-Service,
+wenn Position der
+Probandin/des
+Probanden gesichert ist.
+
+ Probandin/Proband
+zuerst
+
+ FA-Stelle
+ AJSD
+ ______
+
+ _____________
+ am nächsten Werktag
+
+
+ E. _____________
+
+2
+
+Weitere Anweisungen nach Beurteilung der Fallkonferenz im Einzelfall:
+
+________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
+
+Erläuterungen zur Handhabung des Formulars:
+–
+
+Das Feld „unmittelbare Kontaktaufnahme der GÜL“ bezieht sich auf die Frage, mit wem sofort in welcher Reihenfolge Kontakt aufzunehmen ist.
+
+–
+
+Das Feld „Bericht an“ beantwortet die Frage, ob die Führungsaufsichtsstelle und/oder Bewährungshilfe über das Ereignis zum nächsten Werktag im Wege
+eines Berichts zu informieren ist. Eine sofortige Berichterstattung an die Führungsaufsichtsstelle/die Bewährungshilfe ist angesichts fehlender
+Bereitschaftsdienste außerhalb der Geschäftszeiten nicht zweckmäßig.
+
+–
+
+Die Fallkonferenz sollte die Reihenfolge der Ereignismeldungen nach diesem Formblatt aus Gründen der Einheitlichkeit nicht verändern.
+
+3
+
+Anhang 7
+
+Empfehlungen an die Zentrale Fallkonferenz zum Ausfüllen des Formulars „Ereignismeldungen
+GÜL“
+
+Das Formular „Ereignismeldungen GÜL“ wird von der zentralen Fallkonferenz für jeden Einzelfall
+ausgefüllt. Damit wird sichergestellt, dass der GÜL im Fall der Anordnung einer EAÜ handhabbare Vorgaben
+für die Reaktion auf Ereignismeldungen gemacht werden. Die Zentrale Fallkonferenz orientiert sich beim
+Ausfüllen des Formulars an den Gegebenheiten am Einzelfall. In den Buchstaben A bis C werden Hinweise
+gegeben, welche Reaktionen auf Ereignismeldungen in der Regel sinnvoll sein dürften. Abweichungen von
+diesen Empfehlungen nach Bedarf im Einzelfall sind möglich. Dabei ist zu beachten, dass sich häufig aus
+dem Vorliegen einer einzelnen der in den Buchstaben A bis C aufgeführten Ereignismeldung noch keine
+erheblich gegenwärtige Gefahr für das Leben, die körperliche Unversehrtheit, die persönliche Freiheit oder
+die sexuelle Selbstbestimmung gemäß § 463 a Abs. 4 Nr. 4 StPO ableiten lässt, die die Voraussetzung für
+eine Weitergabe der Daten aus der EAÜ an die Polizei ist. Daher bedarf es einer sorgfältigen Analyse des
+Einzelfalles, wobei allerdings insbesondere das kumulative Zusammentreffen mehrerer Ereignismeldungen
+eine entsprechende Gefahr begründen kann.
+
+A. Zonenverstöße:
+Die Reaktion auf die Ereignismeldungen Nummern 1 und 2 ist individuell nach dem Bedarf im jeweiligen
+Einzelfall festzulegen.
+
+B. Batteriemeldungen:
+Ereignismeldung Nummer 3:
+
+Die GÜL sollte zunächst Kontakt zur Probandin oder zum Probanden aufnehmen, außerdem die
+Führungsaufsichtsstelle und den AJSD informieren.
+
+Ereignismeldung Nummer 4:
+
+Reaktion durch die GÜL nicht erforderlich
+
+Ereignismeldung Nummer 5:
+
+Abklärung, ob technische Ursache oder Manipulationsversuch. Je nachdem Führungsaufsichtsstelle, AJSD
+und Polizei informieren.
+
+C. Sonstige Meldungen die Endgeräte betreffend:
+Ereignismeldungen Nummern 6 und 7:
+
+Die GÜL nimmt Kontakt zur Probandin oder zum Probanden auf. Wenn diese oder dieser nicht erreichbar ist
+oder weiterhin Anhaltspunkte für eine Manipulation gegeben sind, nimmt die GÜL Kontakt zur Polizei sowie
+zum Vor-Ort-Service auf.
+
+Anhang 8
+
+Einsatz der elektronischen Aufenthaltsüberwachung in der Führungsaufsicht
+
+Formular zur Dokumentation der Fallkonferenz
+
+Fallkonferenz bzgl. der Führungsaufsichtsprobandin/des Führungsaufsichtsprobanden
+
+ Name
+
+ Vorname
+
+ Geburtsdatum
+
+ Aktenzeichen der Staatsanwaltschaft
+
+I. Allgemeine Feststellungen
+
+1. Ort:
+
+2. Datum:
+
+3. Teilnehmerkreis:
+
+ Staatsanwaltschaft
+
+Name/Amts-/Dienstbezeichnung:
+
+ Justizvollzugsanstalt
+
+Name/Amts-/Dienstbezeichnung:
+
+ Maßregeleinrichtung
+
+Name/Amts-/Dienstbezeichnung:
+
+ Führungsaufsichtsstelle
+
+Name/Amts-/Dienstbezeichnung:
+
+ Bewährungshilfe
+
+Name/Amts-/Dienstbezeichnung:
+
+ zuständige Polizeidienststellen
+
+Name/Amts-/Dienstbezeichnung:
+
+ sonstige Personen
+
+Name/Amts-/Dienstbezeichnung:
+
+1
+
+4. Protokollführerin/Protokollführer
+
+ Name/Amts-/Dienstbezeichnung
+
+II. Formelle Voraussetzungen einer elektronischen Aufenthaltsüberwachung
+nach § 68 b Abs. 1 Satz 3 StGB
+
+1. § 68 b Abs. 1 Satz 3 Nr. 1 StGB
+
+ Vollverbüßung von mindestens drei Jahren
+
+ erledigte Maßregel der Besserung und Sicherung
+
+ Vollverbüßung von mindestens zwei Jahren wegen einer nach dem Ersten oder Siebenten Abschnitt
+des Besonderen Teils des StGB verhängten Strafe
+
+2. § 68 b Abs. 1 Satz 3 Nr. 2 StGB
+
+ Sexualstraftat gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Gewaltstraftat gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Staatsschutzdelikt gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Straftat gegen die öffentliche Ordnung gemäß § 66 Abs. 3 Satz 1 StGB
+
+ gemeingefährliche Straftat gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Straftat nach dem VStGB gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Straftat nach dem BtMG gemäß § 66 Abs. 3 Satz 1 StGB
+
+ Straftat gemäß § 129 a Abs. 5 Satz 2, auch i. V. m. § 129 b Abs. 1 StGB
+
+3. Rückfallrisiko
+
+ hohes Rückfallrisiko
+
+2
+
+Begründung:
+
+ geringes Rückfallrisiko
+
+Begründung:
+
+4. Erforderlichkeit der EAÜ-Maßnahme
+
+ erforderlich aus spezialpräventiven Gründen
+
+ erforderlich zur elektronischen Überwachung von Gebotszonen und/oder Verbotszonen
+
+ nicht erforderlich
+
+III. Empfehlungen für Weisungen nach § 68 b Abs. 1 und 2 StGB
+
+1.
+
+Weisungen, die mit einer EAÜ hinterlegt werden können (vgl. Handreichung zu den gerichtlichen Weisungen im Rahmen der Führungsaufsicht)
+
+ Weisung nach § 68 b Abs. 1 Nr. 12 StGB
+
+„Die verurteilte Person wird angewiesen, sich die für eine elektronische Überwachung ihres Aufenthaltsortes erforderlichen technischen Mittel anlegen zu lassen, diese ständig im betriebsbereiten Zustand bei sich zu führen und deren Funktionsfähigkeit nicht zu beeinträchtigen. Sie wird darüber hinaus angewiesen, sofern ihr für diesen Zweck ein Telekommunikationsmittel wie etwa ein Mobiltelefon zur Verfügung gestellt wurde, dieses ständig in betriebsbereitem Zustand mit sich zu führen und
+so die persönliche Erreichbarkeit sicherzustellen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 1 StGB
+
+„Die verurteilte Person wird angewiesen, den Wohn- oder Aufenthaltsort in < genaue Bezeichnung
+des Bereichs > nicht (auch nicht kurzfristig oder nicht für mehr als XXX Tage) ohne Erlaubnis der
+Aufsichtsstelle zu verlassen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 2 StGB
+
+3
+
+„Die verurteilte Person wird angewiesen, < genaue Bezeichnung der Verbotszone > nicht zu betreten und sich nicht im Umkreis von < genaue Bezeichnung der Entfernung > dort aufzuhalten.“
+ Weisung nach § 68 b Abs. 1 Nr. 3 StGB
+
+„Die verurteilte Person wird angewiesen, jegliche Kontaktaufnahme zu < genaue Bezeichnung der
+Person, allerdings — aus Zeugenschutzgründen — ohne Angabe des Wohnortes > zu unterlassen,
+auch unter Verwendung technischer Hilfsmittel oder über Dritte“.
+
+2.
+
+Weisungen, die in der Regel nicht mit einer EAÜ überwacht werden können (vgl. Handreichung zu den gerichtlichen Weisungen im Rahmen der Führungsaufsicht)
+
+ Weisung nach § 68 b Abs. 1 Nr. 2 StGB
+
+„Die verurteilte Person wird angewiesen, sich nicht in/auf Kinderspielplätzen, Kindergärten, Schulen,
+Schwimmbädern oder im Umkreis von 100 m zu derartigen Einrichtungen aufzuhalten“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 3 StGB
+
+„Die verurteilte Person wird angewiesen, keinen (unbeaufsichtigten) Kontakt zu Minderjährigen aufzunehmen, mit ihnen keinen Umgang zu haben, sie nicht zu beschäftigen, auszubilden oder zu beherbergen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 4 StGB
+
+„Die verurteilte Person wird angewiesen, folgende Tätigkeit < genaue Bezeichnung der Tätigkeit >
+nicht auszuüben“.
+
+
+
+Weisung nach § 68 b Abs. 1 Nr. 5 StGB
+
+„Die verurteilte Person wird angewiesen, folgende Gegenstände < genaue Bezeichnung der Gegenstände > nicht zu besitzen, bei sich zu führen oder verwahren zu lassen“.
+ Weisung nach § 68 b Abs. 1 Nr. 6 StGB
+
+„Die verurteilte Person wird angewiesen, Kraftfahrzeuge oder bestimmte Arten von Kraftfahrzeugen
+oder von anderen Fahrzeugen < genaue Bezeichnung > nicht zu halten oder zu führen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 7 StGB
+
+„Die verurteilte Person wird angewiesen, sich monatlich mindestens einmal bei der für ihren Wohnort
+zuständigen Bewährungshilfe (nach näherer Bestimmung durch die zuständige Bewährungshelferin
+
+4
+
+oder den zuständigen Bewährungshelfer in deren oder dessen Sprechstunde < ggf. nähere Bezeichnung >) persönlich zu melden“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 7 StGB bei unbekannter Entlassungsanschrift
+
+„Die verurteilte Person wird angewiesen, sich am Tag der Haftentlassung bei
+
+ der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer <
+ggf. nähere Bezeichnung > persönlich zu melden
+
+oder
+
+ der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer und
+der örtlich zuständigen Polizeidienststelle nach dem Länderkonzept zur Überwachung rückfallgefährdeter Straftäter <z. B. KURS-, ZÜRS-, HEADS-Ansprechpartner. ggf. nähere Bezeichnung
+> persönlich zu melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
+
+ „Die verurteilte Person wird angewiesen, sich täglich bei der örtlichen Polizeiinspektion < ggf.
+nähere Bezeichnung > persönlich zu melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
+ Weisung nach § 68 b Abs. 1 Nr. 8 StGB
+
+„Die verurteilte Person wird angewiesen, jeden Wechsel der Wohnung oder des Arbeitsplatzes binnen einer Woche der Aufsichtsstelle mitzuteilen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 9 StGB
+
+„Die verurteilte Person wird angewiesen, sich bei Erwerbslosigkeit bei der zuständigen Agentur für
+Arbeit oder einer anderen zur Arbeitsvermittlung zugelassenen Stelle zu melden und dies der Bewährungshelferin oder dem Bewährungshelfer nachzuweisen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 10 StGB
+
+„Die verurteilte Person wird angewiesen, keine alkoholischen Getränke oder andere berauschende
+Mittel zu sich zu nehmen und sich Alkohol- und Suchtmittelkontrollen < näher angeben: durch wen,
+wie oft, ggf. welche Stoffe, welche Art (hier nur Atemalkohol- oder Urinkontrollen, Haarproben) > zu
+unterziehen“.
+
+ Weisung nach § 68 b Abs. 1 Nr. 11 StGB
+
+„Die verurteilte Person wird angewiesen, sich zu bestimmten Zeiten oder in bestimmten Abständen <
+genaue Bestimmung der Zeiten oder der Abstände > bei einer Ärztin oder einem Arzt, einer Psycho-
+
+5
+
+therapeutin oder einem Psychotherapeuten oder einer forensischen Ambulanz < genaue Bezeichnung der Person oder der Einrichtung > vorzustellen“.
+ Weisung nach § 68 b Abs. 2 StGB
+
+„Die verurteilte Person wird angewiesen, die Home-Unit in ihrer Wohnung aufstellen zu lassen und
+an der Beseitigung von Störungen durch den Vor-Ort-Service < genaue Bezeichnung der eingesetzten Firma > mitzuwirken“.
+
+ Weisung nach § 68 b Abs. 2 StGB
+
+„Die verurteilte Person wird angewiesen, sich
+
+O
+
+durch eine forensische Ambulanz (§ 68 b Abs. 2 Satz 3 StGB),
+
+O
+
+in/bei/ < Mindesthäufigkeit >,
+
+O
+
+psychiatrisch O psychotherapeutisch O sozialtherapeutisch
+
+betreuen und behandeln zu lassen (§ 68 b Abs. 2 Satz 2 StGB),
+
+O
+
+und die Teilnahme an der Behandlung < Zeitabstände angeben > nachzuweisen.
+
+ Weisung nach § 68 b Abs. 2 Satz 4 StGB
+
+„Die verurteilte Person wird angewiesen, sich Alkohol- oder Suchtmittelkontrollen < näher angeben:
+durch wen, wie oft, ggf. welche Stoffe > zu unterziehen, die mit körperlichen Eingriffen verbunden
+sind (insbesondere Blutkontrollen)“.
+ Sonstige Weisungen nach § 68 b Abs. 1 und/oder Abs. 2 StGB
+
+Protokollführerin/Protokollführer:
+
+-------------------------------Unterschrift
+
+6
+
+Anhang 9
+
+DATENBLATT PROBANDIN/ PROBAND
+Erfassungsbogen EAÜ
+
+(OID:
+
+)
+
+1. Persönliche Daten
+Name: ________________________
+
+Vorname: _________________________________________
+
+Adresse: ___________________________________________________________________________
+Telefon/ Handy: _____________________________________________________________________
+geb. am: ____________________ in: __________________________________________________
+Staatsangehörigkeit: ____________________
+der deutschen Sprache mächtig:
+
+ ja
+
+ nein
+
+Familienstand: ____________________
+grundsätzlich kooperationsbereit:
+
+ ja
+
+ mit Einschränkungen
+andere Sprachen: ________________
+
+ nein
+
+2. Tätergruppe
+ Vollverbüßer/ in
+
+ aus Maßregelvollzug entlassen
+
+Aufenthalt vom________bis _____________
+
+Anlassverurteilung:
+wegen _____________________________________________________________ im Jahr _________
+Beschreibung von Tat und Täterpersönlichkeit (z. B. besondere Tatumstände, Täterverhalten während der
+Tat, jetzige Persönlichkeit)
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________________________
+______________________________________________________________________
+
+Relevante frühere Verurteilungen:
+— wegen __________________________________________________________ im Jahr _________
+— wegen __________________________________________________________ im Jahr _________
+— wegen __________________________________________________________ im Jahr _________
+
+3. Führungsaufsichtsweisungen (soweit elektronisch überwacht):
+ Darf folgendes Gebiet nicht — auch nicht kurzfristig — ohne Erlaubnis verlassen:
+_______________________________________________________________________________
+ Aufenthaltsverbot —  zum Schutz des Tatopfers__________________________________ —
+für_____________________________________________________________________________
+ Kontaktverbot zu __________________________________, wohnhaft in ____________________
+Die übrigen Weisungen ergeben sich aus dem anliegenden Führungsaufsichtsbeschluss.
+
+1
+
+4. Ansprechpartnerin/Ansprechpartner (Kontaktdaten)
+Führungsaufsichtsstelle: ______________________________________________________________
+Bewährungshilfe: ____________________________________________________________________
+Polizeibehörde(n): ___________________________________________________________________
+
+5. Bemerkungen
+ Suchtmittelmissbrauch: ____________________________________________________________
+ psychische Erkrankung/ Störung: _____________________________________________________
+ sonstige Umstände, die für die Gefährlichkeit relevant sind: _______________________________
+
+2
+
+Anhang 10
+
+Änderungsantrag
+Elektronische Aufenthaltsüberwachung
+1. Probandendetails
+Identifikationsnummer Proband (OID):
+2. Taktung (Richtwerte in Klammern):
+
+Alte Parameter
+
+Neue Parameter
+
+a) Ortung, Abfrageintervall Normalbetrieb (60):
+
+Sekunden
+
+Sekunden
+
+c) Übertragungsintervall an HZD-Server Normalbetrieb (15)
+
+Minuten
+
+Minuten
+
+d) Zusätzliche Tel. Nr. für Probanden-Handy (die Rufnummer der GÜL wird generell eingespeichert, maximal
+vier weitere Rufnummern können insgesamt eingespeichert werden):
+1.
+2.
+3.
+4.
+
+3. Zonen
+3.1 Homezone
+Bestehende Zone:
+
+ändern
+
+löschen
+
+Bitte nachfolgend die neuen Werte der Homezone im Falle eines Änderungswunsches eintragen:
+
+1) Adresse oder Koordinaten:
+2) Art der Zone
+
+Kreisförmig
+
+3) Maße oder Radius:
+
+Polygonal
+
+Meter
+
+3.2 Einschluss- / Gebotszone
+1)
+
+Neue Zone anlegen:
+
+2)
+
+Bestehende Zone:
+
+3)
+
+Bezeichnung der bestehenden
+Einschluss-/ Gebotszone:
+
+ändern
+
+Elektronische Aufenthaltsüberwachung
+
+löschen
+
+Seite 1
+
+Bitte nachfolgend die neuen Werte der Einschluss-/Gebotszone im Falle eines Änderungswunsches
+oder Neuanlegung einer zusätzlichen Zone eintragen:
+
+4)
+
+Name der Zone:
+
+5)
+
+Adresse oder Koordinaten:
+
+6)
+
+Art der Zone
+
+7)
+
+Maße oder Radius:
+
+Meter
+
+8)
+
+Toleranzzeit:
+
+Minuten
+
+9)
+
+Zeitplan der Einschlusszone (falls erwünscht):
+
+Kreisförmig
+
+Polygonal
+
+3.3 Ausschluss- / Verbotszone
+1)
+
+Neue Zone anlegen:
+
+2)
+
+Bestehende Zone:
+
+3)
+
+Bezeichnung der bestehenden
+Ausschluss-/ Verbotszone:
+
+ändern
+
+löschen
+
+Bitte nachfolgend die neuen Werte der Ausschluss-/Verbotszone im Falle eines Änderungswunsches
+oder Neuanlegung einer zusätzlichen Zone eintragen:
+
+4)
+
+Name der Zone:
+
+5)
+
+Adresse oder Koordinaten:
+
+6)
+
+Art der Zone
+
+7)
+
+Maße oder Radius:
+
+8)
+
+Radius für die Pufferzone bei
+
+9)
+
+Kreisförmig
+
+Polygonal
+
+Meter
+
+kreisförmiger Zone (mind. 10m):
+
+Meter
+
+Toleranzzeit:
+
+Minuten
+
+10) Zeitplan der Ausschlusszone (falls erwünscht):
+
+4. Sonstige Bemerkungen:
+
+5. Anlagen:
+
+Ort, Datum
+
+Elektronische Aufenthaltsüberwachung
+
+Unterschrift
+
+Seite 2
+
+Anhang 11
+
+Antrag zur Beendigung der
+elektronischen Aufenthaltsüberwachung
+
+1. Probandendetails:
+Identifikationsnummer Proband (OID):
+
+2. Zeitpunkt
+Beendigung der EAÜ (TT/MM/JJJJ):
+
+Zeitpunkt:
+
+3. Vor Ort Service
+Einbeziehung des externen Dienstleisters zur Abnahme der Überwachungsgeräte:
+
+Wenn „Ja“: Ort der Abnahme:
+
+Datum:
+
+Zeit:
+
+4. Sonstige Bemerkungen:
+
+5. Anlagen:
+
+Ort, Datum
+
+Unterschrift
+
+Ja
+
+Nein
+
+Anhang 12
+
+Datum:
+
+An die
+Gemeinsame Überwachungsstelle der Länder (GÜL)
+Vor den Löserbecken 4
+64331 Weiterstadt
+
+OID:
+
+Übermittlung von Geodaten
+Aussetzung der Löschroutine
+
+Es wird um die Freigabe der Geodaten für die Probandin/den Probanden
+
+gebeten.
+
+Zugrundeliegender Sachverhalt:
+
+Die Daten sind erforderlich für folgenden Zweck:
+
+zur Feststellung des Verstoßes gegen eine Weisung nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder Nr.
+12 StGB,
+
+zur Ergreifung von Maßnahmen der Führungsaufsicht, die sich an einen Verstoß gegen eine
+Weisung nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder Nr. 12 StGB anschließen können,
+
+1
+
+zur Ahndung eines Verstoßes gegen eine Weisung nach § 68 b Abs. 1 Satz 1 Nr. 1, Nr. 2 oder Nr.
+12 StGB,
+
+zur Abwehr einer erheblichen gegenwärtigen Gefahr für das Leben, die Körperliche Unversehrtheit,
+die persönliche Freiheit oder die sexuelle Selbstbestimmung Dritter oder
+
+zur Verfolgung einer Straftat der in § 66 Abs. 3 Satz 1 StGB genannten Art. Bitte die
+Katalogstraftat i. S. des § 66 Abs. 3 Satz 1 StGB angeben: §
+
+Es wird daher um Auskunft gebeten,
+
+ob sich die Probandin/der Proband am
+
+von
+
+Uhr bis
+
+Uhr in
+
+aufgehalten hat
+
+Ja/ Nein-Antwort reicht aus.
+
+Bei Anwesenheit der Probandin/des Probanden bitte ich um Übermittlung eines
+Bewegungsbildes für den genannten Zeitraum.
+
+an welchem Ort sich die Probandin/der Proband am
+aufgehalten hat.
+
+von
+
+zu welchen Zeiten sich die Probandin/der Proband im Zeitraum vom
+aufgehalten hat.
+
+Uhr bis
+
+bis
+
+Uhr
+
+in
+
+an welchem Ort sich die Probandin/ der Proband aktuell aufhält.
+
+Gefahr im Verzug liegt vor, weil die Zustimmung der Führungsaufsichtsstelle nicht rechtzeitig
+eingeholt werden kann, ohne den Zweck der mit der Datenabfrage beabsichtigten Maßnahme zu
+gefährden.
+
+……………………………
+
+…………………………….............
+
+Ort, Datum
+
+Unterschrift und Amtsbezeichnung
+
+2

@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace VerkuendungNiedersachsenPlaintext;
 
-use Smalot\PdfParser\Parser;
+use Spatie\PdfToText\Pdf;
 
 class VerkuendungNiedersachsenPlaintext
 {
@@ -24,7 +24,8 @@ class VerkuendungNiedersachsenPlaintext
             throw new \Error('We expect an array here, probably the content retrieval failed.');
         }
 
-        $pdfParser = new Parser();
+        $pdfParser = new Pdf();
+
         $pdfCacheFolderpath = __DIR__.'/../pdf_cache/';
         $plaintextFolderpath = __DIR__.'/../plaintext/';
 
@@ -50,10 +51,10 @@ class VerkuendungNiedersachsenPlaintext
                 }
             }
 
-            $document = $pdfParser->parseFile($localPdfFilepath);
+            $text = $pdfParser->setPdf($localPdfFilepath)->text();
 
             // (re)generate plaintext file
-            $plaintext = $this->enrichPlaintext($document->getText());
+            $plaintext = $this->enrichPlaintext($text);
             file_put_contents($localTxtFilepath, $plaintext);
 
             // used in CSV file generation
@@ -84,6 +85,13 @@ class VerkuendungNiedersachsenPlaintext
 
     public function enrichPlaintext(string $plaintext): string
     {
+        // remove all non-UTF8 characters
+        $plaintext = iconv('UTF-8', 'UTF-8//IGNORE', $plaintext);
+
+        // remove form feed, tells the printer to start a new page
+        // (e.g. https://www.w3schools.com/jsref/jsref_regexp_formfeed.asp)
+        $plaintext = preg_replace('/(\f+)/', '', $plaintext);
+
         // remove all tabs
         $plaintext = preg_replace('/\t/', ' ', $plaintext);
 
@@ -135,28 +143,7 @@ class VerkuendungNiedersachsenPlaintext
          */
         $plaintext = preg_replace('/„\s*(.*?)\s*“/m', '„${1}“', $plaintext);
 
-        $str = '';
-        foreach (explode(PHP_EOL, $plaintext) as $line) {
-            /*
-             * Remove lines typically from the footer which usually contain no relevant information.
-             *
-             * Example:
-             *
-             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 1
-             *
-             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 2
-             *
-             *       Nds. MBl. 2024 Nr. 108 vom 28. Februar 2024 Seite 3
-             */
-            if (1 === preg_match("/^Nds.*?Seite\s+[0-9]+\s*$/m", $line)) {
-                continue;
-            }
-
-            // Remove trailing whitespaces each line
-            $str .= trim($line) . PHP_EOL;
-        }
-
-        return $str;
+        return $plaintext;
     }
 
     public function generateCSVFileWithMetadata(array $verkuendungenArr): void
