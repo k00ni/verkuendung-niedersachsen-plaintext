@@ -132,72 +132,44 @@ für die Gewährung der EU-Direktzahlungen zuständig ist.
 5.3 Antragsunterlagen/Vordrucke
 Für die Antragstellung ist das auf der Internetseite der LWK zum Download bereitgestellte Formular zu
 verwenden. Das landeseinheitliche Formular beinhaltet mindestens die folgenden Angaben:
-–
+- Name und Anschrift der antragstellenden Person,
 
-Name und Anschrift der antragstellenden Person,
+- Betriebsnummer aus dem Direktzahlungsverfahren,
 
-–
-
-Betriebsnummer aus dem Direktzahlungsverfahren,
-
-–
-
-Bezeichnung der betreffenden Fläche mit Gemarkung, Flurstücksnummer und Flächenidentifikator
+- Bezeichnung der betreffenden Fläche mit Gemarkung, Flurstücksnummer und Flächenidentifikator
 (FLIK),
 
-–
+- Lage und Größe der Fläche, ggf. Übersichtskarte, Meliorationskarte (sofern vorhanden),
 
-Lage und Größe der Fläche, ggf. Übersichtskarte, Meliorationskarte (sofern vorhanden),
-
-–
-
-Aussagen zur bisherigen Nutzung der Fläche, zum Grund der geplanten erstmaligen oder vertiefenden
+- Aussagen zur bisherigen Nutzung der Fläche, zum Grund der geplanten erstmaligen oder vertiefenden
 Entwässerung,
 
-–
+- eine Beschreibung der geplanten Maßnahme (Dränverfahren, Dränplan, Wasserrückhalt, Wasserzufuhr, Art der Bereitstellung von Zusatzwasser im Sommerhalbjahr, Steuerungsmöglichkeiten für Wasserstände, angestrebte Wasserstände im Jahresmittel und saisonal), des mit ihrer Umsetzung zu erreichenden Ziels und der im Anschluss geplanten Nutzung,
 
-eine Beschreibung der geplanten Maßnahme (Dränverfahren, Dränplan, Wasserrückhalt, Wasserzufuhr, Art der Bereitstellung von Zusatzwasser im Sommerhalbjahr, Steuerungsmöglichkeiten für Wasserstände, angestrebte Wasserstände im Jahresmittel und saisonal), des mit ihrer Umsetzung zu erreichenden Ziels und der im Anschluss geplanten Nutzung,
+- geplanter Zeitpunkt der Durchführung der Maßnahmen,
 
-–
-
-geplanter Zeitpunkt der Durchführung der Maßnahmen,
-
-–
-
-Name und Anschrift der Eigentümerin oder des Eigentümers und ihre oder seine Einwilligung, sofern
+- Name und Anschrift der Eigentümerin oder des Eigentümers und ihre oder seine Einwilligung, sofern
 sie oder er nicht die Antragstellerin oder der Antragsteller ist, und
 
-–
-
-Erklärung, dass die Antragstellerin oder der Antragsteller keiner Verpflichtung gegenüber einer öffentlichen Stelle unterliegt, die einer Neuanlage und/oder Vertiefung entgegensteht.
+- Erklärung, dass die Antragstellerin oder der Antragsteller keiner Verpflichtung gegenüber einer öffentlichen Stelle unterliegt, die einer Neuanlage und/oder Vertiefung entgegensteht.
 
 Nds. MBl. 2024 Nr. 408 vom 19. September 2024
 
 Seite 4
 
 Dem Formular sind folgende Anlagen beizufügen:
-–
+- bodenkundliches Gutachten gemäß den Vorgaben der Anlage dieses Gem. RdErl.,
 
-bodenkundliches Gutachten gemäß den Vorgaben der Anlage dieses Gem. RdErl.,
+- ggf. wasserbehördliche Erlaubnis für Wasserrückhalt und/oder Wasserentnahmen und
 
-–
-
-ggf. wasserbehördliche Erlaubnis für Wasserrückhalt und/oder Wasserentnahmen und
-
-–
-
-Darstellung der Berücksichtigung klimarelevanter Belange.
+- Darstellung der Berücksichtigung klimarelevanter Belange.
 
 Ergänzend muss ein Antrag für die Maßnahmenvariante nach Nummer 2.1 als Anlage einen Wasser- und
 Flächenmanagementplan mit folgenden Inhalten enthalten:
-–
-
-welche Wasserstände in welchem Zeitraum an den wasserstandssteuernden Einrichtungen (regelbare
+- welche Wasserstände in welchem Zeitraum an den wasserstandssteuernden Einrichtungen (regelbare
 Stauwehre, Schächte) eingestellt werden sollen,
 
-–
-
-welche Mengen an Zusatzwasser im Sommerhalbjahr durchschnittlich und/oder im Extremfall der Jahre
+- welche Mengen an Zusatzwasser im Sommerhalbjahr durchschnittlich und/oder im Extremfall der Jahre
 benötigt werden. Vereinfachend werden dazu Daten der nächstgelegenen Klimastation des Deutschen
 Wetterdienstes herangezogen. Es wird die kumulierte klimatische Wasserbilanz (Differenz aus Niederschlag und potenzieller Verdunstung über Gras nach Haude) im Sommerhalbjahr (Monate Mai bis Oktober) jährlich über den Zeitraum 1990–2020 ermittelt. Aus den mehrjährigen Daten wird der Median
 sowie das 10-Perzentil berechnet.
@@ -243,17 +215,11 @@ Entgegenstehende Regelungen aus dem Naturschutzrecht können sich insbesondere e
 6.3.1 Vorschriften zum allgemeinen Schutz von Natur und Landschaft gemäß §§ 13 ff. BNatSchG i. V. m.
 §§ 5 ff. NNatSchG,
 6.3.2 Gesetzen, Verordnungen oder Satzungen zum Schutz bestimmter Teile von Natur und Landschaft einschließlich
-–
+- Schutzgebietsverordnungen,
 
-Schutzgebietsverordnungen,
+- des gesetzlichen Schutzes von Biotopen gemäß § 30 BNatSchG und § 24 Abs. 2 NNatSchG,
 
-–
-
-des gesetzlichen Schutzes von Biotopen gemäß § 30 BNatSchG und § 24 Abs. 2 NNatSchG,
-
-–
-
-des Verschlechterungs- und Störungsverbots in Flora-Fauna-Habitat- (FFH-) und Vogelschutzgebieten,
+- des Verschlechterungs- und Störungsverbots in Flora-Fauna-Habitat- (FFH-) und Vogelschutzgebieten,
 
 6.3.3 dem Schutz wildlebender Tiere und Pflanzen gemäß § 44 i. V. m. § 5 Abs. 2 BNatSchG.
 6.4 Rechtsvorschriften des Wasserrechts
@@ -270,34 +236,20 @@ erteilen. Andernfalls ist das Einvernehmen zu versagen. Die Versagung ist gegen�
 7. Antragsbearbeitungsverfahren durch die Genehmigungsbehörde
 7.1 Verfahrensablauf
 Anträge auf Genehmigung der Zulässigkeit sind den nachfolgenden Arbeitsschritten zu unterziehen:
-–
+- Eingangsregistrierung,
 
-Eingangsregistrierung,
+- Überprüfung der Vollständigkeit und Zulässigkeit,
 
-–
-
-Überprüfung der Vollständigkeit und Zulässigkeit,
-
-–
-
-Prüfung der Eingriffsregelung gemäß § 17 Abs. 1 BNatSchG und Treffen der zur Durchführung des
+- Prüfung der Eingriffsregelung gemäß § 17 Abs. 1 BNatSchG und Treffen der zur Durchführung des
 § 15 BNatSchG erforderlichen Entscheidungen und Maßnahmen,
 
-–
+- Prüfung und fachliche Bewertung der Beachtung klimarelevanter Belange und des zwingenden Erfordernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit (siehe Nummer 7.2),
 
-Prüfung und fachliche Bewertung der Beachtung klimarelevanter Belange und des zwingenden Erfordernisses für die Fortsetzung der landwirtschaftlichen Tätigkeit (siehe Nummer 7.2),
+- Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde (siehe Nummer 6),
 
-–
+- Entscheidung (siehe Nummer 7.3),
 
-Herstellung des Einvernehmens mit der zuständigen Naturschutzbehörde und der zuständigen Wasserbehörde (siehe Nummer 6),
-
-–
-
-Entscheidung (siehe Nummer 7.3),
-
-–
-
-Erstellung eines Verwaltungsaktes.
+- Erstellung eines Verwaltungsaktes.
 
 Nds. MBl. 2024 Nr. 408 vom 19. September 2024
 
@@ -309,13 +261,9 @@ Sofern sich ein Antrag auf eine landwirtschaftliche Fläche in der Gebietskuliss
 Hierbei ist insbesondere die Vermeidung von Kohlendioxidemissionen zu überprüfen, d. h. ob durch die
 geplante Maßnahme eine Verminderung der durchschnittlichen jährlichen Treibhausgasemissionen auf
 dem betroffenen Schlag zu erwarten ist. Die Voraussetzungen dafür sind,
-–
+- dass der Standort für die Maßnahme geeignet ist; dies ist anhand eines entsprechenden bodenkundlichen Gutachtens gemäß der Anlage nachzuvollziehen;
 
-dass der Standort für die Maßnahme geeignet ist; dies ist anhand eines entsprechenden bodenkundlichen Gutachtens gemäß der Anlage nachzuvollziehen;
-
-–
-
-dass ein Wassermanagement erfolgt, durch das bei klimaoptimierter Steuerung im Mittel des
+- dass ein Wassermanagement erfolgt, durch das bei klimaoptimierter Steuerung im Mittel des
 Jahres ein höherer Wasserstand erreicht werden kann als ohne Drainage oder Graben, sodass
 im Jahresmittel Moorwasserstände zwischen 2 und 4 dm unter Flur eingestellt werden können,
 und eine landwirtschaftliche Nutzung weiterhin möglich ist.
@@ -412,41 +360,27 @@ zur Umsetzung der Regelungen nach § 13 GAPKondV
 Das bodenkundliche Gutachten hat zum Ziel, die Standorteigenschaften im Hinblick auf den Dränbedarf
 und die Dränfähigkeit des Standortes bzw. seiner Eignung für die geplante Maßnahme zu beschreiben. Es
 muss mindestens folgende Anforderungen erfüllen:
-–
-
-Standortansprache durch öffentlich bestellte und vereidigte bodenkundliche Sachverständige nach der
+- Standortansprache durch öffentlich bestellte und vereidigte bodenkundliche Sachverständige nach der
 Erfassungsanweisung zur Moorkartierung (s. u.) unter Verwendung des Aufnahmeformblatts (siehe Abbildung 1), Erfassung des Mindestdatensatzes (siehe weiße Felder im Formular),
 
-–
-
-Art und Umfang der Standortansprache: Eine repräsentative Handbohrung mit einem Gutsbohrer oder
+- Art und Umfang der Standortansprache: Eine repräsentative Handbohrung mit einem Gutsbohrer oder
 vergleichbar, je Schlag bis 1 ha Schlaggröße, bei größeren Schlägen eine repräsentative Handbohrung
 je angefangenen Hektar, Bohrung bis in den mineralischen Untergrund (vor allem bei flachen Mooren
 Ansprache von Stauschichten), jedoch maximal 2 m tief.
 
-–
+- Zeitpunkt der Standortansprache: März oder September.
 
-Zeitpunkt der Standortansprache: März oder September.
-
-–
-
-Bereitstellung der Daten in standardisierter und digitaler Form an das LBEG, gemäß GeoIDG.
+- Bereitstellung der Daten in standardisierter und digitaler Form an das LBEG, gemäß GeoIDG.
 
 Darüber hinaus:
-–
-
-Beschreibung der aktuellen Dränsituation: Dränplan, Dränabstand und Dräntiefe, Art der vorhandenen
+- Beschreibung der aktuellen Dränsituation: Dränplan, Dränabstand und Dräntiefe, Art der vorhandenen
 Dränung, Dränrichtung, Vorfluter, Alter und Zustand der Dränung.
 
-–
-
-Begründung des Dränbedarfs: Welche Art von schädlicher Bodennässe liegt vor? Aus welchen Gründen
+- Begründung des Dränbedarfs: Welche Art von schädlicher Bodennässe liegt vor? Aus welchen Gründen
 ist eine Neuanlage oder eine Vertiefung von Dränen erforderlich? Wieso reicht ggf. eine Bedarfsdränung
 nicht aus?
 
-–
-
-Begründung der Dränfähigkeit: Ist die Maßnahme am Standort geeignet, die gewünschte Aufhebung
+- Begründung der Dränfähigkeit: Ist die Maßnahme am Standort geeignet, die gewünschte Aufhebung
 der schädlichen Bodennässe zu erreichen? Ist die Maßnahme geeignet, die gewünschten Wasserstände zu erreichen?
 
 Die Kartierung von Moorböden im Rahmen des Verfahrens zur Prüfung der Genehmigung von Entwässerungsanlagen zur Umsetzung der Regelungen nach § 13 GAPKondV soll im Grundsatz nach der Bodenkundlichen Kartieranleitung 5. Auflage (KA5) erfolgen (AG BODEN 2005). Abweichend von dieser Norm werden
@@ -455,51 +389,29 @@ die Erhebungsdaten nach der im LBEG geltenden und vom Referat L2.1 (Bodenschutz,
 Die Moorkartierung soll mittels abgeteufter Hand-Bohrungen bis in den mineralischen Untergrund, jedoch
 maximal bis in 2 m Tiefe, erfolgen. Für den Geländeeinsatz sind folgende Arbeitsgeräte mitzuführen (vgl. KA5,
 S. 30 ff.):
-–
+- Gutsbohrer (Holländischer Moorbohrer) als Standardbohrer, verlängerbar auf 2 m,
 
-Gutsbohrer (Holländischer Moorbohrer) als Standardbohrer, verlängerbar auf 2 m,
+- Pürckhauer/Linnemann-Bohrer, ggf. für mineralische Deckschichten und den Mineralkörper im Liegenden,
 
-–
+- Kunststoffhammer zum Eintreiben des Bohrers,
 
-Pürckhauer/Linnemann-Bohrer, ggf. für mineralische Deckschichten und den Mineralkörper im Liegenden,
+- Ziehvorrichtung zum Bergen des Bohrers,
 
-–
+- Messer oder Spachtel zum Anschneiden der Bohrprobe in der Bohrnut,
 
-Kunststoffhammer zum Eintreiben des Bohrers,
+- Aufnahmeformblätter des LBEG zur Moorkartierung einschließlich Schreibmaterial,
 
-–
+- Spaten zur Ansprache des Oberbodens am Bodenmonolith,
 
-Ziehvorrichtung zum Bergen des Bohrers,
-
-–
-
-Messer oder Spachtel zum Anschneiden der Bohrprobe in der Bohrnut,
-
-–
-
-Aufnahmeformblätter des LBEG zur Moorkartierung einschließlich Schreibmaterial,
-
-–
-
-Spaten zur Ansprache des Oberbodens am Bodenmonolith,
-
-–
-
-Gliedermaßstab, Maßband,
+- Gliedermaßstab, Maßband,
 
 Nds. MBl. 2024 Nr. 408 vom 19. September 2024
 
-–
+- Digitalkamera zur Dokumentation,
 
-Digitalkamera zur Dokumentation,
+- GPS-Gerät zur Positionsbestimmung der Bohrpunkte (in ETRS89/UTM-Zone N32),
 
-–
-
-GPS-Gerät zur Positionsbestimmung der Bohrpunkte (in ETRS89/UTM-Zone N32),
-
-–
-
-ggf. Salzsäure (10%ig) zur Carbonatgehaltsprüfung.
+- ggf. Salzsäure (10%ig) zur Carbonatgehaltsprüfung.
 
 Seite 9
 
@@ -509,23 +421,15 @@ Auf dem Aufnahmeformblatt sind die Pflichtfelder in Weiß kenntlich gemacht. Hie
 der folgenden Anweisung vorzunehmen. Wenn bei einem Erhebungsparameter keine Merkmale zu erkennen
 sind, dürfen die Felder auch ohne Eintrag bleiben oder es ist ein Null-Wert einzutragen. Die Aufnahme im
 Gelände und die Eintragungen im folgenden Formblatt sind in vier Blöcke gegliedert:
-–
+- Titeldaten zur formellen Einordnung der Aufnahme (siehe Felder 3, 5, 6 und 8),
 
-Titeldaten zur formellen Einordnung der Aufnahme (siehe Felder 3, 5, 6 und 8),
-
-–
-
-Aufnahmesituation zur Beschreibung des näheren Umfelds des Aufnahmepunktes (siehe Felder 17
+- Aufnahmesituation zur Beschreibung des näheren Umfelds des Aufnahmepunktes (siehe Felder 17
 und 20),
 
-–
-
-Horizont- und Schichtbeschreibung zur Beschreibung des vertikalen Bodenaufbaus (siehe Felder
+- Horizont- und Schichtbeschreibung zur Beschreibung des vertikalen Bodenaufbaus (siehe Felder
 24, 25, 26, 30 und 34),
 
-–
-
-Profilkennzeichnung (siehe Felder 44, 45, 46 und 48).
+- Profilkennzeichnung (siehe Felder 44, 45, 46 und 48).
 
 Nds. MBl. 2024 Nr. 408 vom 19. September 2024
 

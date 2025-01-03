@@ -16,24 +16,16 @@ RdErl. d. MI v. 15.01.2024 – 22.22-05314 –
 Im Strafverfahren (einschließlich des Verfahrens nach dem JGG) und im Bußgeldverfahren können die
 Kosten (Gebühren und Auslagen) des Verfahrens der oder dem Kostenpflichtigen auferlegt werden. Zu den
 Kosten des Verfahrens gehören auch die Auslagen, die der Polizei entstehen, wenn
-–
-
-sie aus eigenem Entschluss Straftaten erforscht (§ 163 StPO i. d. F. vom 07.04.1987, BGBl. I S. 1074,
+- sie aus eigenem Entschluss Straftaten erforscht (§ 163 StPO i. d. F. vom 07.04.1987, BGBl. I S. 1074,
 zuletzt geändert durch Artikel 2 des Gesetzes vom 26.07.2023, BGBl. 2023 I Nr. 203),
 
-–
+- sie im Strafverfahren Ersuchen des Gerichts oder der Staatsanwaltschaft ausführt (§ 161 StPO),
 
-sie im Strafverfahren Ersuchen des Gerichts oder der Staatsanwaltschaft ausführt (§ 161 StPO),
-
-–
-
-ihre Beamtinnen oder Beamten als Ermittlungspersonen der Staatsanwaltschaft tätig werden (§ 152
+- ihre Beamtinnen oder Beamten als Ermittlungspersonen der Staatsanwaltschaft tätig werden (§ 152
 GVG i. d. F. vom 09.05.1975, BGBl. I S. 1077, zuletzt geändert durch Artikel 3 des Gesetzes vom
 08.10.2023, BGBl. 2023 I Nr. 272),
 
-–
-
-sie als Ordnungswidrigkeit bedrohte Handlungen verfolgt oder erforscht oder auf Ersuchen der Verwaltungsbehörde tätig wird (§ 105 Abs. 1 OWiG i. d. F. vom 19.02.1987, BGBl. I S. 602, zuletzt geändert
+- sie als Ordnungswidrigkeit bedrohte Handlungen verfolgt oder erforscht oder auf Ersuchen der Verwaltungsbehörde tätig wird (§ 105 Abs. 1 OWiG i. d. F. vom 19.02.1987, BGBl. I S. 602, zuletzt geändert
 durch Artikel 5 des Gesetzes vom 14.03.2023, BGBl. 2023 I Nr. 73).
 
 Diese Beträge werden zwar von der Polizeibehörde gezahlt, die die den Auslagen zugrunde liegende Tätigkeit vorgenommen oder mit dieser Dritte beauftragt hat, dürfen jedoch gegenüber der oder dem Kostenpflichtigen im Strafverfahren nur von den zuständigen Justizbehörden (§ 1, § 19 Abs. 2 GKG i. d. F. vom
@@ -56,13 +48,9 @@ Seite 2
 Die Polizeidienststellen merken die ihnen entstandenen Auslagen i. S. der Nummer 2 in den Akten des
 Straf- bzw. Bußgeldverfahrens vor. Soweit Auslagen nach Abgabe der Akten anfallen, werden diese nachträglich mitgeteilt. In beiden Fällen ist der Vordruck PolN 287 zu verwenden.
 Die Auslagen sind auch vorzumerken oder mitzuteilen, wenn
-–
+- die Ermittlungen auf Ersuchen von Gerichten, Staatsanwaltschaften, Polizei- oder Verwaltungsbehörden anderer Bundesländer durchgeführt werden,
 
-die Ermittlungen auf Ersuchen von Gerichten, Staatsanwaltschaften, Polizei- oder Verwaltungsbehörden anderer Bundesländer durchgeführt werden,
-
-–
-
-Ermittlungen gegen Angehörige der NATO-Streitkräfte geführt werden, auch wenn die Gerichtsbarkeit
+- Ermittlungen gegen Angehörige der NATO-Streitkräfte geführt werden, auch wenn die Gerichtsbarkeit
 nicht von deutschen Gerichten ausgeübt wird.
 
 Auslagen, die durch den Einsatz Verdeckter Ermittler oder verdeckter Mittel entstehen, sind nicht in Ansatz

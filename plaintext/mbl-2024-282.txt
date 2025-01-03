@@ -297,37 +297,27 @@ durch eine Bestätigung der für die Beurteilung von Rohstoffvorkommen zuständi
 liegt insoweit kein Zielverstoß vor und ein Zielabweichungsverfahren ist nicht erforderlich.
 Beispielsweise in den nachfolgenden Fällen steht eine Vorrangnutzung oder -funktion dem Vorhaben
 aufgrund dessen konkreter Ausgestaltung nicht entgegen:
-–
-
-Bei einem Windpark in einem Vorranggebiet Freiraumfunktionen, das ausschließlich die Funktionen des Raums als Frischluftschneise oder Kaltluftentstehungsgebiet schützen soll, wäre
+- Bei einem Windpark in einem Vorranggebiet Freiraumfunktionen, das ausschließlich die Funktionen des Raums als Frischluftschneise oder Kaltluftentstehungsgebiet schützen soll, wäre
 die klimatische Ausgleichsfunktion in der Regel nicht erheblich beeinträchtigt und eine Windenergienutzung stünde nicht im Konflikt mit dem Vorrangzweck.
 
-–
-
-Sofern ein flächiges Vorranggebiet Biotopverbund allein auf die Entwicklung von Magerrasen
+- Sofern ein flächiges Vorranggebiet Biotopverbund allein auf die Entwicklung von Magerrasen
 als Teil vernetzter Lebensräume für Schmetterlinge abzielt, wäre damit eine Windenergienutzung vereinbar, soweit durch Maststandorte und Zuwegungen kein erheblicher Eingriff in bestehende Magerrasenstandorte verbunden ist. Dies kann auch bei einem Vorranggebiet Natur
 und Landschaft mit einem vergleichbaren Schutzzweck möglich sein, solange dies nicht zugleich ausdrücklich auch auf den Schutz des Landschaftsbildes abzielt.
 
-–
-
-Ein raumbedeutsames Vorhaben verstößt nicht gegen ein Vorranggebiet Torferhaltung, wenn
+- Ein raumbedeutsames Vorhaben verstößt nicht gegen ein Vorranggebiet Torferhaltung, wenn
 das betroffene Torfvolumen so gering ist, dass die Torfzehrung innerhalb des Gebietes nicht
 wesentlich beschleunigt und der Zweck der Vorranggebietsfestlegung somit nicht erheblich
 beeinträchtigt wird.
 
 In solchen Fällen wäre das Vorhaben mit dem gesicherten Vorrang vereinbar und ein Zielabweichungsverfahren gar nicht erforderlich.
 Weitere Konstellationen, in denen kein Zielabweichungsverfahren erforderlich ist, können ferner insbesondere bei Vorranggebieten Rohstoffgewinnung eintreten:
-–
-
-Ist in einem Vorranggebiet Rohstoffgewinnung der Rohstoff bereits vollständig ausgebeutet
+- Ist in einem Vorranggebiet Rohstoffgewinnung der Rohstoff bereits vollständig ausgebeutet
 und die raumordnerisch gesicherte Nutzung abgeschlossen, können dort Planungen für andere Folgenutzungen möglich sein, ohne dass noch ein Konflikt mit der Vorrangfestlegung
 besteht, weil die konkurrierende Nutzung mit der gesicherten Nutzung inhaltlich nicht (mehr)
 unvereinbar sein kann. Der Nachweis, dass kein Konflikt (mehr) mit der Vorrangfestlegung
 besteht, ist vom Vorhabenträger zu erbringen.
 
-–
-
-Durch das Torfabbauverbot nach § 8 Abs. 2 NNatSchG sind in vielen Fällen Vorranggebiete
+- Durch das Torfabbauverbot nach § 8 Abs. 2 NNatSchG sind in vielen Fällen Vorranggebiete
 
 Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024
 
@@ -398,22 +388,14 @@ Eine Zielabweichung setzt voraus, dass alle Tatbestandsmerkmale kumulativ erfül
 und dass die zuständige Behörde bei ihrer Entscheidung über die Zielabweichung ihre Entscheidungsbefugnisse fehlerfrei ausgeübt hat (Rechtsfolgenseite).
 Es ist zu prüfen, ob der vorliegende Sachverhalt die einzelnen Tatbestandsmerkmale des § 6 Abs. 2 ROG
 und des § 8 NROG erfüllt, also dass
-–
+- die Abweichung unter raumordnerischen Gesichtspunkten vertretbar ist (siehe Nummer 2.1),
 
-die Abweichung unter raumordnerischen Gesichtspunkten vertretbar ist (siehe Nummer 2.1),
+- die Grundzüge der Planung nicht berührt werden (siehe Nummer 2.2),
 
-–
-
-die Grundzüge der Planung nicht berührt werden (siehe Nummer 2.2),
-
-–
-
-das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
+- das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
 und
 
-–
-
-das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4).
+- das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4).
 
 Die Atypik des Einzelfalles ist kein eigenständiges gesetzliches Tatbestandsmerkmal, aber nach ständiger
 Rechtsprechung bei der Prüfung zur raumordnerischen Vertretbarkeit und zum Nichtberührtsein der Grundzüge
@@ -430,24 +412,18 @@ und dargelegt werden.
 Raumordnerische Vertretbarkeit einer Abweichung vom Ziel der Raumordnung
 Eine Zielabweichung ist raumordnerisch vertretbar, wenn
 
-–
-
-sie der Schließung von unbeabsichtigten Planungslücken des bestehenden Raumordnungsplans dient
+- sie der Schließung von unbeabsichtigten Planungslücken des bestehenden Raumordnungsplans dient
 
 Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024
 
 Seite 7
 
 (dazu Nummer 2.1.1),
-–
-
-eine entsprechende Planung zulässig wäre und anzunehmen ist, dass das Vorhaben – bei rechtzeitigem
+- eine entsprechende Planung zulässig wäre und anzunehmen ist, dass das Vorhaben – bei rechtzeitigem
 Erkennen der Planungslücke – durch eine Regelung im Raumordnungsplan ermöglicht worden wäre
 (Planbarkeit, dazu Nummer 2.1.2) und
 
-–
-
-das Vorhaben raumverträglich ist (dazu Nummer 2.1.3).
+- das Vorhaben raumverträglich ist (dazu Nummer 2.1.3).
 
 Eine Zielabweichung, die in Bezug auf einen bestehenden Raumordnungsplan beantragt wird, zu dessen
 Änderung aber bereits ein Planentwurf vorliegt, ist nur dann raumordnerisch vertretbar, wenn die mit der Zielabweichung verfolgte Planung oder Maßnahme mit dem in Aufstellung befindlichen Ziel in Einklang steht und
@@ -504,20 +480,14 @@ Ist mit der Planänderung nicht nur die Aufhebung eines Zieles, sondern zugleich
 Verfahrensstand für die Änderung oder Neuaufstellung des Raumordnungsprogramms und des betreffenden in Aufstellung befindlichen Zieles voraus. Der maßgebliche Verfahrensstand ist durch die
 Einführung der Legaldefinition eines „in Aufstellung befindlichen Zieles“ in § 3 Abs. 1 Nr. 4 a ROG
 vorgegeben:
-–
+- Das Beteiligungsverfahren nach § 9 Abs. 2 ROG zu einem ersten Planentwurf muss abgeschlossen sein.
 
-Das Beteiligungsverfahren nach § 9 Abs. 2 ROG zu einem ersten Planentwurf muss abgeschlossen sein.
-
-–
-
-Die in diesem Beteiligungsverfahren eingegangenen Stellungnahmen müssen ausgewertet
+- Die in diesem Beteiligungsverfahren eingegangenen Stellungnahmen müssen ausgewertet
 sein und es muss unter Würdigung der Ergebnisse eine planerische Abwägung erfolgt sein,
 ob das vorgesehene Ziel unverändert oder in modifizierter Form Eingang in den endgültigen
 Raumordnungsplan finden soll.
 
-–
-
-Den nach § 9 Abs. 2 ROG am Verfahren beteiligten öffentlichen Stellen und der Öffentlichkeit
+- Den nach § 9 Abs. 2 ROG am Verfahren beteiligten öffentlichen Stellen und der Öffentlichkeit
 wurde die vorgesehene Fassung der Zielfestlegung, die Eingang in den endgültigen Raumordnungsplan finden soll, zur Kenntnis gegeben. Es genügt nicht, nur isoliert die Zielfestlegung
 zur Kenntnis zu geben, sondern der Zusammenhang des Zieles mit den übrigen Planinhalten
 muss erkennbar sein. Für die konkrete Art des Kenntnisgebens bestehen keine Vorgaben, es
@@ -623,15 +593,11 @@ Satz 3 ROG ausgeschlossen wurde. Anwendungsfälle sind beispielsweise Konzepte z
 Steuerung des Rohstoffabbaus sowie übergangsweise auch noch Konzepte zur Steuerung
 der Windenergienutzung. Zu den Grundzügen solcher gesamträumlichen Konzepte gehört,
 dass
-–
-
-die Bewertung der Flächen unter Abwägung unterschiedlichster Belange (auch) auf
+- die Bewertung der Flächen unter Abwägung unterschiedlichster Belange (auch) auf
 der Einhaltung generalisierter Kriterien beruhen, die einheitlich für den gesamten
 Planungsraum gelten, und
 
-–
-
-das Verhältnis der positiven Vorrangfestlegungen und der negativen ausschließenden Festlegungen gewährleisten muss, dass der betroffenen Nutzung substanziell
+- das Verhältnis der positiven Vorrangfestlegungen und der negativen ausschließenden Festlegungen gewährleisten muss, dass der betroffenen Nutzung substanziell
 Raum geschaffen wird.
 
 Wird von den generalisierenden Kriterien wesentlich abgewichen oder werden auf den Positivflächen andere Nutzungen in einem so hohen Maß zugelassen, dass der gesicherten
@@ -906,55 +872,35 @@ reinen Ausschluss von Windenergieanlagen bewirken. Festlegungen zu einer reinen 
 Positivfestlegung (sog. Negativziele) sind z. B. eine planerische Ausschlusswirkung für die Windenergienutzung, Vorgaben zu Abständen zwischen Windparks, Vorgaben zu Abständen von Wohngebäuden zu Windenergieanlagen oder Vorgaben zum Ausschluss der Windenergienutzung beispielsweise auf sämtlichen Waldflächen. Solange solche Festlegungen – unabhängig von ihrer rechtlichen Zulässigkeit – in einem Raumordnungsplan bestehen, sind sie grundsätzlich anzuwenden und nur durch Zielabweichung überwindbar.
 Die Anforderungen des § 6 Abs. 2 ROG, dass die Zielabweichung raumordnerisch vertretbar sein muss und
 die Grundzüge der Planung nicht berührt werden, gelten für Zielabweichungen zur Überwindung einer Ausschlusswirkung nicht. Stattdessen setzt eine Zielabweichung i. S. des § 245 e Abs. 5 BauGB nur voraus, dass
-–
-
-die Gemeinde ein Gebiet zugunsten der Windenergienutzung plant, dass die Anforderungen des § 2
+- die Gemeinde ein Gebiet zugunsten der Windenergienutzung plant, dass die Anforderungen des § 2
 
 Nds. MBl. 2024 Nr. 282 vom 25. Juni 2024
 
 Seite 17
 
 Nr. 1 WindBG erfüllt und
-–
-
-ein Raumordnungsplan an der von der Gemeinde für Windenergienutzung geplanten Stelle kein Gebiet
+- ein Raumordnungsplan an der von der Gemeinde für Windenergienutzung geplanten Stelle kein Gebiet
 für eine mit der Windenergienutzung unvereinbare Nutzung oder Funktion festlegt.
 
 Gebiete, für die ein Raumordnungsplan eine mit der Windenergienutzung unvereinbare Nutzung oder Funktion festlegt, sind Gebiete, die in einem Raumordnungsplan räumlich bestimmt oder bestimmbar abgegrenzt
 sind und auf denen eine „Positivfestlegung“ zugunsten einer konkreten Funktion oder Nutzung erfolgt ist, die
 gesichert oder entwickelt werden soll. Solche Gebiete sind insbesondere:
-–
+- Vorranggebiete,
 
-Vorranggebiete,
+- Zentrale Siedlungsgebiete i. S. von Kapitel 2.2 Ziffer 04 LROP,
 
-–
+- Gebietsfestlegungen von städtebaulich integrierten Lagen (Versorgungskerne),
 
-Zentrale Siedlungsgebiete i. S. von Kapitel 2.2 Ziffer 04 LROP,
+- Standorte mit herausgehobener Bedeutung für die Nahversorgung i. S. von Kapitel 2.3 Ziffer 10 LROP,
 
-–
+- Standorte für die Sicherung und Entwicklung von Wohnstätten,
 
-Gebietsfestlegungen von städtebaulich integrierten Lagen (Versorgungskerne),
+- Standorte für die Sicherung und Entwicklung von Arbeitsstätten,
 
-–
-
-Standorte mit herausgehobener Bedeutung für die Nahversorgung i. S. von Kapitel 2.3 Ziffer 10 LROP,
-
-–
-
-Standorte für die Sicherung und Entwicklung von Wohnstätten,
-
-–
-
-Standorte für die Sicherung und Entwicklung von Arbeitsstätten,
-
-–
-
-Standorte mit der besonderen Entwicklungsaufgabe Erholung, wenn deren räumlicher Geltungsbereich
+- Standorte mit der besonderen Entwicklungsaufgabe Erholung, wenn deren räumlicher Geltungsbereich
 und ihre Grenze hinreichend konkretisierbar ist,
 
-–
-
-Standorte mit der besonderen Entwicklungsaufgabe Tourismus, wenn deren räumlicher Geltungsbereich und ihre Grenze hinreichend konkretisierbar ist.
+- Standorte mit der besonderen Entwicklungsaufgabe Tourismus, wenn deren räumlicher Geltungsbereich und ihre Grenze hinreichend konkretisierbar ist.
 
 Keine „Gebiete“ sind Standorte, für die nur reine Punktsymbole festgelegt sind, sofern deren räumlicher
 Geltungsbereich und ihre Grenze nicht hinreichend konkretisierbar ist.
@@ -964,14 +910,10 @@ Ob die Gebietsfestlegung tatsächlich mit der geplanten Windenergiegebietsplanun
 mit der Windenergienutzung unvereinbar ist, ist anhand des jeweils konkreten Falls zu prüfen (vgl. Nummer
 1.2.4).
 Die ergänzenden landesrechtlichen Tatbestandsmerkmale des § 8 NROG, dass
-–
-
-das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
+- das Einvernehmen mit den in ihren Belangen berührten öffentlichen Stellen vorliegt (siehe Nummer 2.3)
 und
 
-–
-
-das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4)
+- das Benehmen mit den betroffenen Gemeinden hergestellt ist (siehe Nummer 2.4)
 
 bleiben unberührt (§ 27 Abs. 3 ROG).
 Die sachliche und räumliche Betroffenheit kann sich dabei zum einen aus den Auswirkungen ergeben, die

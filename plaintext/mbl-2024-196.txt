@@ -57,29 +57,17 @@ Gefördert werden nur standortbezogene Beratungen, die von einem akkreditierten 
 
 Insbesondere zu folgenden Themen kann eine Beratung empfohlen werden:
 
-–
+- Ausrichtung der Unternehmensstrategie,
 
-Ausrichtung der Unternehmensstrategie,
+- Entwicklung neuer Geschäftsmodelle und Produkte/Angebote,
 
-–
+- Weiterentwicklung (Digitalisierung) der Geschäftsprozesse im Bereich Produktion, Produkte, Dienstleistungen,
 
-Entwicklung neuer Geschäftsmodelle und Produkte/Angebote,
+- Krisenmanagement und Resilienzberatung,
 
-–
+- Weiterentwicklung einer Unternehmens-/Lernkultur,
 
-Weiterentwicklung (Digitalisierung) der Geschäftsprozesse im Bereich Produktion, Produkte, Dienstleistungen,
-
-–
-
-Krisenmanagement und Resilienzberatung,
-
-–
-
-Weiterentwicklung einer Unternehmens-/Lernkultur,
-
-–
-
-Entwicklung einer Strategie zur Qualifizierung und/oder Weiterbildung des Personals.
+- Entwicklung einer Strategie zur Qualifizierung und/oder Weiterbildung des Personals.
 
 Weitere Beratungsfelder, die die Zukunftsfähigkeit der Unternehmen unterstützen, können zusätzlich aufgegriffen werden.
 3. Zuwendungsempfänger
@@ -184,21 +172,13 @@ Die Übermittlung elektronischer Dokumente sowie das Ersetzen der Schriftform du
 
 Folgende Nachweise und Unterlagen sind bei der Antragstellung einzureichen:
 
-–
+- vollständig ausgefülltes Antragsformular,
 
-vollständig ausgefülltes Antragsformular,
+- De-minimis-Erklärung,
 
-–
+- Beratungsempfehlung der Transformationsagentur,
 
-De-minimis-Erklärung,
-
-–
-
-Beratungsempfehlung der Transformationsagentur,
-
-–
-
-Entwurf der Beratungsverträge. Soweit die Beratungsverträge nicht nach einem Mustervertrag der
+- Entwurf der Beratungsverträge. Soweit die Beratungsverträge nicht nach einem Mustervertrag der
 Transformationsagentur geschlossen werden sollen, müssen Inhalt und Umfang der Beratungsleistung
 darin beschrieben sein.
 
@@ -211,31 +191,19 @@ Nds. MBl. 2024 Nr. 196 vom 25. April 2024
 
 Seite 5
 
-–
+- Originalrechnung des Beratungsunternehmens,
 
-Originalrechnung des Beratungsunternehmens,
+- schriftliche Handlungsempfehlung nach Nummer 6.6,
 
-–
-
-schriftliche Handlungsempfehlung nach Nummer 6.6,
-
-–
-
-Erklärung des Zuwendungsempfängers, dass die Beratungsleistung vertragsgemäß erbracht wurde.
+- Erklärung des Zuwendungsempfängers, dass die Beratungsleistung vertragsgemäß erbracht wurde.
 
 7.8
 Die Akkreditierung der Beratungsunternehmen i. S. von Nummer 4.2 wird durch die Transformationsagentur vorgenommen. Für eine Akkreditierung haben die Beratungsunternehmen der Transformationsagentur gegenüber nachzuweisen, dass sie
-–
+- fachliche Expertise im Bereich der Transformation der Automobilzulieferindustrie haben,
 
-fachliche Expertise im Bereich der Transformation der Automobilzulieferindustrie haben,
+- die Beratungen zu marktgerechter Vergütung erbringen und
 
-–
-
-die Beratungen zu marktgerechter Vergütung erbringen und
-
-–
-
-über eine ausreichende Leistungsfähigkeit verfügen.
+- über eine ausreichende Leistungsfähigkeit verfügen.
 
 Die Transformationsagentur veröffentlicht die akkreditierten Beratungsunternehmen auf ihrer Internetseite
 (https://www.transformationsagentur-nds.de/beratungsunternehmen/).

@@ -43,9 +43,7 @@ I. Tenor
 Der Firma Friedrich Rohstoffe GmbH, Seesener Straße 137, 38239 Salzgitter, wird aufgrund ihres Antrages vom 09.01.2024, zuletzt ergänzt am 28.05.2024, die Genehmigung zur wesentlichen Änderung der Anlage zur Aufbereitung von Hüttenreststoffen und Sekundärrohstoffen (nicht gefährlicher Abfall) erteilt.
 Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die folgenden wesentlichen Maßnahmen:
-–
-
-Errichtung und Betrieb einer Anlage zum Brikettieren von Hüttenreststoffen (nicht gefährlicher Abfall).
+- Errichtung und Betrieb einer Anlage zum Brikettieren von Hüttenreststoffen (nicht gefährlicher Abfall).
 Standort der Anlage ist:
 
 Ort:
@@ -70,14 +68,10 @@ Flurstücke:
 
 Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde (Anlage 1).
 Konkret ergibt sich folgender genehmigter Umfang:
-–
-
-Erweiterung des Anlagenparks um den Bau einer Anlage zum Brikettieren von Hüttenreststoffen (nicht
+- Erweiterung des Anlagenparks um den Bau einer Anlage zum Brikettieren von Hüttenreststoffen (nicht
 gefährlicher Abfall) mit einer Durchsatzkapazität von 400 t/d (BE 0020 nach Nr. 8.11.2.3 EG des Anhangs 1 der 4. BImSchV),
 
-–
-
-Folgende Abfälle sind als Input für die Brikettieranlage BE 0020 zugelassen:
+- Folgende Abfälle sind als Input für die Brikettieranlage BE 0020 zugelassen:
 Abfallschlüssel
 nach AVV 4
 
@@ -106,9 +100,7 @@ derzeit geltenden Fassung.
 
 Nds. MBl. 2024 Nr. 336 vom 24. Juli 2024
 
-–
-
-Seite 3
+- Seite 3
 
 Erhöhung der Gesamt-Durchsatzkapazität von 3.600 t/d auf insgesamt 4.000 t/d (Nr. 8.11.2.3 EG des
 Anhangs 1 der 4. BImSchV).
@@ -125,9 +117,7 @@ Die Lagerung der Abfälle ist von den Einschränkungen ausgenommen.
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
 Die nach § 59 Abs. 1 NBauO 5 i. V. m. § 63 bzw. § 64 NBauO erforderliche Baugenehmigung.
 
-–
-
-Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
+- Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Aufschiebende Bedingung
 Mit der Durchführung des Bauvorhabens darf erst begonnen werden, wenn dem Bauherrn die von der

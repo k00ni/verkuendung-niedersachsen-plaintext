@@ -22,15 +22,11 @@ Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekanntgemacht.
 Auf Auflagen wird hingewiesen.
 Je eine Ausfertigung des gesamten Bescheides liegt in der Zeit vom 18.07. bis einschließlich 31.07.2024
 während der Dienststunden bei den folgenden Stellen zur Einsichtnahme aus:
-–
-
-Niedersächsisches Ministerium für Umwelt, Energie und Klimaschutz, Archivstraße 2, 30169 Hannover,
+- Niedersächsisches Ministerium für Umwelt, Energie und Klimaschutz, Archivstraße 2, 30169 Hannover,
 Pförtnerloge, Tel. 0511 120-3599,
 montags bis freitags in der Zeit von
 
-–
-
-7.00 bis 16.00 Uhr;
+- 7.00 bis 16.00 Uhr;
 
 Gemeinde Emmerthal, Berliner Straße 15, 31860 Emmerthal, Tel. 05155 69149,
 montags in der Zeit von
@@ -48,18 +44,12 @@ donnerstags in der Zeit von
 
 Entsprechend § 17 Abs. 2 Satz 5 und § 6 Abs. 5 AtVfV erfolgt die Auslegung auch durch Veröffentlichung
 im Internet. Der Genehmigungsbescheid ist im Internet auf folgenden Internetseiten vom 18.07.2024 bis einschließlich 31.07.2024 einsehbar:
-–
-
-www.umwelt.niederachsen.de und dort über den Pfad „Themen > Atomaufsicht & Strahlenschutz >
+- www.umwelt.niederachsen.de und dort über den Pfad „Themen > Atomaufsicht & Strahlenschutz >
 Kerntechnische Anlagen > Kernkraftwerk Grohnde,
 
-–
+- https://uvp.niedersachsen.de/portal/,
 
-https://uvp.niedersachsen.de/portal/,
-
-–
-
-www.emmerthal.de und dort unter TOP-MELDUNGEN.
+- www.emmerthal.de und dort unter TOP-MELDUNGEN.
 
 Herausgeber: Niedersächsische Staatskanzlei
 
@@ -99,36 +89,24 @@ I.1.2
 Der Restbetrieb
 
 Es wird festgestellt,
-–
-
-dass die PEL berechtigt ist, die Anlage KWG so, wie sie zum Beginn der Inanspruchnahme
+- dass die PEL berechtigt ist, die Anlage KWG so, wie sie zum Beginn der Inanspruchnahme
 dieser Genehmigung bestandskräftig genehmigt, dokumentiert ist und betrieben wird, zwecks
 Stilllegung und Abbau innezuhaben und zu betreiben (Restbetrieb) und
 
-–
-
-dass die bestehenden Regelungen für den Betrieb der Anlage KWG im Restbetrieb, der den
+- dass die bestehenden Regelungen für den Betrieb der Anlage KWG im Restbetrieb, der den
 Weiterbetrieb von Systemen und Komponenten, die zur Gewährleistung des Strahlenschutzes und der Aktivitätsrückhaltung während der Stilllegung und des Abbaus von Anlagenteilen
 erforderlich sind, den Betrieb von Ersatzsystemen sowie den Betrieb von Systemen und Komponenten, die für den Abbau benötigt werden, umfasst, vorbehaltlich der Regelungen dieses
 Bescheids unberührt und wirksam bleiben. Das gilt auch für die Regelungen zur Anlagensicherung.
 Gestattet werden für den Restbetrieb
 
-–
-
-Anpassungen des Betriebes und der Nutzung von Systemen, Komponenten, Räumen und
+- Anpassungen des Betriebes und der Nutzung von Systemen, Komponenten, Räumen und
 Gebäuden sowie Gebäudeteilen an den Stand des Abbaus;
 
-–
+- Einbringen und Errichtung von Systemen und Komponenten, die für den Abbau benötigt werden, sowie deren Nutzung und Betrieb;
 
-Einbringen und Errichtung von Systemen und Komponenten, die für den Abbau benötigt werden, sowie deren Nutzung und Betrieb;
+- Durchführung der für den Restbetrieb und den Abbau von Anlagenteilen erforderlichen Arbeiten einschließlich des in diesem Zusammenhang stehenden Umgangs mit radioaktiven Stoffen gemäß StrlSchG einschließlich des Umgangs mit radioaktiven Stoffen aus der Rückführung aus externen Lager- und Behandlungsstätten, einschließlich des Umgangs mit Betriebsabfällen aus der geplanten TBH-KWG und
 
-–
-
-Durchführung der für den Restbetrieb und den Abbau von Anlagenteilen erforderlichen Arbeiten einschließlich des in diesem Zusammenhang stehenden Umgangs mit radioaktiven Stoffen gemäß StrlSchG einschließlich des Umgangs mit radioaktiven Stoffen aus der Rückführung aus externen Lager- und Behandlungsstätten, einschließlich des Umgangs mit Betriebsabfällen aus der geplanten TBH-KWG und
-
-–
-
-Ausbau und Einrichtung von Transportwegen für den Transport von Material und zur Vereinfachung der Begehungsmöglichkeiten und die damit zusammenhängenden Änderungen der
+- Ausbau und Einrichtung von Transportwegen für den Transport von Material und zur Vereinfachung der Begehungsmöglichkeiten und die damit zusammenhängenden Änderungen der
 Anlage.
 
 I.1.3

@@ -318,18 +318,12 @@ Beabsichtigt ein Wasserversorger, sich eine Erweiterungsmenge für die geplante 
 nicht zu seinem Versorgungsgebiet gehörenden zusätzlichen benannten Gebietes zu sichern, so kann die
 dafür erforderliche Erweiterungsmenge beim Bedarfsnachweis für die gesamte beantragte Entnahme von
 Grundwasser berücksichtigt werden, wenn
-–
+- die geplante Versorgung mit § 50 Abs. 2 WHG und § 88 NWG im Einklang steht,
 
-die geplante Versorgung mit § 50 Abs. 2 WHG und § 88 NWG im Einklang steht,
-
-–
-
-eine Nutzung von Gewinnungsmöglichkeiten in dem Erweiterungsgebiet nicht möglich oder nach den
+- eine Nutzung von Gewinnungsmöglichkeiten in dem Erweiterungsgebiet nicht möglich oder nach den
 vorgenannten Regelungen nicht geboten ist und
 
-–
-
-die Erweiterung mit hinreichender Wahrscheinlichkeit zu erwarten ist.
+- die Erweiterung mit hinreichender Wahrscheinlichkeit zu erwarten ist.
 
 In die wasserrechtliche Erlaubnis oder Bewilligung ist die auflösende Bedingung aufzunehmen, dass der
 Wasserversorger die Versorgung des zusätzlichen Gebietes innerhalb einer gesetzten Frist begonnen hat.
@@ -343,17 +337,11 @@ Verbundsystem sowie deren mögliche Entwicklungen darzustellen.
 Angesichts der zunehmend angespannten Situation bei der Bewirtschaftung der Grundwasserressourcen
 soll vor der Erteilung einer Erlaubnis oder Bewilligung geprüft werden, wie das Unternehmen der öffentlichen
 Wasserversorgung seine Pflicht nach § 50 Abs. 3 WHG erfüllt. Hierfür kommen z. B. in Betracht
-–
+- Maßnahmen der Öffentlichkeitsarbeit, insbesondere im Sommer,
 
-Maßnahmen der Öffentlichkeitsarbeit, insbesondere im Sommer,
+- Maßnahmen zur Beratung und ggf. Unterstützung von Kunden, etwa im gewerblichen Bereich,
 
-–
-
-Maßnahmen zur Beratung und ggf. Unterstützung von Kunden, etwa im gewerblichen Bereich,
-
-–
-
-Vermeidung von Entgeltsystemen, durch die größere Verbrauchsmengen relativ günstiger sind.
+- Vermeidung von Entgeltsystemen, durch die größere Verbrauchsmengen relativ günstiger sind.
 
 6.2 Landwirtschaft und Eigenwasserversorgung der Industrie
 Im Antrag für eine Grundwasserentnahme ist zu begründen, aus welchem Grundwasserstockwerk das

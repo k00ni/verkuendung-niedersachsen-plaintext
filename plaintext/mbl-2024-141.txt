@@ -15,29 +15,18 @@ Gem. RdErl. d. MU, d. ML, d. MS und d. MW v. 15.03.2024 – 40502/420-0003 –
 Freizeitanlagen sind Einrichtungen i. S. des § 3 Abs. 5 Nr. 1 oder 3 BImSchG. Grundstücke gehören zu
 den Freizeitanlagen, wenn sie nicht nur gelegentlich zur Freizeitgestaltung bereitgestellt werden. Dies können
 auch Grundstücke sein, die sonst z. B. der Sportausübung oder dem Straßenverkehr dienen. Zu den Freizeitanlagen gehören insbesondere:
-–
-Grundstücke, Plätze oder Flächen, auf denen im Freien oder in Zelten Diskothekenveranstaltungen,
+- Grundstücke, Plätze oder Flächen, auf denen im Freien oder in Zelten Diskothekenveranstaltungen,
 Feuerwerke, Livemusik-Darbietungen, Platzkonzerte, Rockkonzerte, Jahrmärkte, Schützenfeste, Stadtteilfeste, Volksfeste usw. stattfinden,
-–
-Freiluftgaststätten und -schankflächen,
-–
-Spielplätze, die nicht unter die Privilegierung des § 22 Abs.1a BImSchG fallen,
-–
-Badeplätze, Erlebnisbäder,
-–
-Wasserflächen für Schiffsmodelle,
-–
-Hundedressurplätze,
-–
-Freizeit- und Vergnügungsparks,
-–
-Autokinos, Freilichtbühnen,
-–
-Anlagen für Modellfahrzeuge,
-–
-Sommerrodelbahnen und
-–
-Zirkusse.
+- Freiluftgaststätten und -schankflächen,
+- Spielplätze, die nicht unter die Privilegierung des § 22 Abs.1a BImSchG fallen,
+- Badeplätze, Erlebnisbäder,
+- Wasserflächen für Schiffsmodelle,
+- Hundedressurplätze,
+- Freizeit- und Vergnügungsparks,
+- Autokinos, Freilichtbühnen,
+- Anlagen für Modellfahrzeuge,
+- Sommerrodelbahnen und
+- Zirkusse.
 Zu den Freizeitanlagen gehören nicht Sportanlagen i. S. der Sportanlagenlärmschutzverordnung
 (18. BImSchV).
 2. Immissionsschutzrechtliche Bewertung

@@ -36,21 +36,13 @@ Zweck der Förderung ist der Schutz von Trinkwassergewinnungsgebieten, die Wiede
 die Erhaltung von natürlichen Gewässern, des Grundwassers und ihrer ökologischen Qualitätskomponenten
 und von oberflächenwassergespeisten Trinkwassergewinnungsanlagen.
 Die Gewässerschutzberatung zielt dabei auf
-–
+- die Aufklärung und Sensibilisierung für eine gewässerschonende Bewirtschaftung,
 
-die Aufklärung und Sensibilisierung für eine gewässerschonende Bewirtschaftung,
+- die Vermeidung und Reduzierung von Belastungen durch anthropogene Stoffeinträge aus der Landund Forstwirtschaft sowie dem Produktionsgartenbau,
 
-–
+- die Steigerung von Wissen über die Quellen der Umweltbelastungen und
 
-die Vermeidung und Reduzierung von Belastungen durch anthropogene Stoffeinträge aus der Landund Forstwirtschaft sowie dem Produktionsgartenbau,
-
-–
-
-die Steigerung von Wissen über die Quellen der Umweltbelastungen und
-
-–
-
-die Verbreitung gewässerschonender Bewirtschaftungsmethoden.
+- die Verbreitung gewässerschonender Bewirtschaftungsmethoden.
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 413 vom 24. September 2024
@@ -80,17 +72,11 @@ sowie zum Erreichen und Erhalt des guten Zustands oder Potenzials von Grundwasse
 (ABl. L 327 vom 22.12.2000, S.1), zuletzt geändert durch Richtlinie 2014/101/EU der Kommission vom
 30. Oktober 2014 (ABl. L 311 vom 31.10.2014, S. 32), in der jeweils geltenden Fassung – EG-Wasserrahmenrichtlinie – im Folgenden: EG-WRRL –.
 Zu den förderfähigen Leistungen gehören
-–
+- die Beratung der Land- und Forstwirtschaft sowie des Produktionsgartenbaus,
 
-die Beratung der Land- und Forstwirtschaft sowie des Produktionsgartenbaus,
+- die Erstellung erforderlicher Beratungsgrundlagen, z. B. Planungen und Konzepte,
 
-–
-
-die Erstellung erforderlicher Beratungsgrundlagen, z. B. Planungen und Konzepte,
-
-–
-
-die Untersuchungen von Böden, Pflanzen und Gewässern, soweit dies als Voraussetzung und Begleitung von Beratung erforderlich ist.
+- die Untersuchungen von Böden, Pflanzen und Gewässern, soweit dies als Voraussetzung und Begleitung von Beratung erforderlich ist.
 
 2.2
 Daneben werden Modell- und Pilotprojekte zur Entwicklung, Demonstration und Erfolgsbewertung gewässerschonender Landbewirtschaftungssysteme oder -maßnahmen gefördert.
@@ -98,29 +84,17 @@ Daneben werden Modell- und Pilotprojekte zur Entwicklung, Demonstration und Erfo
 
 Von der Förderung ausgeschlossen sind
 
-–
+- administrative Arbeiten zu freiwilligen Vereinbarungen, z. B. Postversand, Abrechnung und Kontrollaufgaben,
 
-administrative Arbeiten zu freiwilligen Vereinbarungen, z. B. Postversand, Abrechnung und Kontrollaufgaben,
+- administrative Arbeiten zu Anträgen auf Ausgleichszahlungen gemäß § 93 Abs. 1 NWG für das Anwendungsverbot von Glyphosat, z. B. Postversand, Abrechnung, Kontrollaufgaben und Auszahlungstätigkeiten sowie sämtliche Leistungen zur Erstellung und Bearbeitung von Einzelfallanträgen,
 
-–
+- Leistungen zur Erstellung von Schutzkonzepten,
 
-administrative Arbeiten zu Anträgen auf Ausgleichszahlungen gemäß § 93 Abs. 1 NWG für das Anwendungsverbot von Glyphosat, z. B. Postversand, Abrechnung, Kontrollaufgaben und Auszahlungstätigkeiten sowie sämtliche Leistungen zur Erstellung und Bearbeitung von Einzelfallanträgen,
+- Teilnahme der mit der Beratungsleistung betrauten Mitarbeiterinnen und Mitarbeiter an Fortbildungsveranstaltungen,
 
-–
+- Eigenleistungen und
 
-Leistungen zur Erstellung von Schutzkonzepten,
-
-–
-
-Teilnahme der mit der Beratungsleistung betrauten Mitarbeiterinnen und Mitarbeiter an Fortbildungsveranstaltungen,
-
-–
-
-Eigenleistungen und
-
-–
-
-Umsatzsteuer für Vorhaben in Trinkwassergewinnungsgebieten.
+- Umsatzsteuer für Vorhaben in Trinkwassergewinnungsgebieten.
 
 3. Zuwendungsempfänger
 Zuwendungsempfänger – im Bereich des Unionsrechts auch Begünstigte genannt – sind Unternehmen der
@@ -150,17 +124,11 @@ geschützte Trinkwasser die Trinkwassergewinnung in Niedersachsen, in Gebieten d
 4.2
 Die Förderung von Modell- und Pilotprojekten gemäß Nummer 2.2 erfolgt unter folgenden Voraussetzungen:
 Die Modell- und Pilotprojekte müssen
-–
+- zur Einführung und Verbreitung innovativer Ansätze zur Reduzierung diffuser Einträge aus der Landund Forstwirtschaft sowie des Produktionsgartenbaus oder
 
-zur Einführung und Verbreitung innovativer Ansätze zur Reduzierung diffuser Einträge aus der Landund Forstwirtschaft sowie des Produktionsgartenbaus oder
+- zur Entwicklung neuer Ansätze einer Erfolgsbewertung oder Verbesserung von Maßnahmen zum Gewässerschutz beitragen und
 
-–
-
-zur Entwicklung neuer Ansätze einer Erfolgsbewertung oder Verbesserung von Maßnahmen zum Gewässerschutz beitragen und
-
-–
-
-geeignet sein, die Effektivität und/oder Effizienz der Gewässerschutzberatung landesweit zu verbessern.
+- geeignet sein, die Effektivität und/oder Effizienz der Gewässerschutzberatung landesweit zu verbessern.
 
 Voraussetzung ist außerdem, dass noch keine vergleichbaren, themenbezogenen Untersuchungsergebnisse vorliegen und keine vergleichbaren Vorhaben mit öffentlichen Mitteln gefördert werden. Dies ist in einem
 vorzulegenden fachlichen Arbeitskonzept darzustellen.
@@ -220,33 +188,21 @@ Hierzu gehören insbesondere eine Beschreibung des geplanten Vorhabens, ein Fina
 Zeitplan.
 7.3.3 Das in Nummer 4.1.2 Satz 2 vorgeschriebene Schutzkonzept ist mit dem Förderantrag einzureichen
 und muss zumindest Folgendes enthalten:
-–
+- Kurzbeschreibung der Ausgangssituation,
 
-Kurzbeschreibung der Ausgangssituation,
+- Nennung der Belastungsschwerpunkte,
 
-–
-
-Nennung der Belastungsschwerpunkte,
-
-–
-
-Herleitung des Maßnahmenbedarfs unter Nennung der bisher durchgeführten Maßnahmen und der
+- Herleitung des Maßnahmenbedarfs unter Nennung der bisher durchgeführten Maßnahmen und der
 zukünftig geplanten Maßnahmen,
 
-–
-
-Beschreibung der im Projektzeitraum zu erreichenden Ziele und der Kriterien, anhand derer das
+- Beschreibung der im Projektzeitraum zu erreichenden Ziele und der Kriterien, anhand derer das
 Erreichen der Ziele festgestellt werden soll (Erfolgsparameter),
 
-–
-
-Kostenplan für den Beratungszeitraum,
+- Kostenplan für den Beratungszeitraum,
 
 Nds. MBl. 2024 Nr. 413 vom 24. September 2024
 
-–
-
-Seite 5
+- Seite 5
 
 Organisationskonzept.
 
@@ -255,27 +211,17 @@ Bremen und Hamburg ermittelt und auf der Internetseite des NLWKN veröffentlicht
 angefordert werden. In dieser Gebietskulisse besteht ein Bedarf für Maßnahmen zur Verbesserung des Zustands der Grund- und/oder Oberflächenwasserkörper.
 7.3.5 Das Arbeitskonzept, das für Modell- und Pilotprojekte mit dem Förderantrag einzureichen ist, muss
 zumindest Folgendes enthalten:
-–
+- Kurzbeschreibung der Ausgangssituation,
 
-Kurzbeschreibung der Ausgangssituation,
-
-–
-
-Herleitung des Projektbedarfs mit fachlicher Erläuterung der überregionalen Bedeutung des
+- Herleitung des Projektbedarfs mit fachlicher Erläuterung der überregionalen Bedeutung des
 Projektgegenstands oder -themas,
 
-–
-
-Darstellung der durch das Modell- und Pilotvorhaben zu erwartenden Ergebnisse und deren praktischer
+- Darstellung der durch das Modell- und Pilotvorhaben zu erwartenden Ergebnisse und deren praktischer
 Bedeutung für den Gewässerschutz,
 
-–
+- Darstellung von Teilergebnissen mit Zeitplan und von Indikatoren, die die Ergebniserreichung anzeigen,
 
-Darstellung von Teilergebnissen mit Zeitplan und von Indikatoren, die die Ergebniserreichung anzeigen,
-
-–
-
-Kostenplan für den Projektzeitraum.
+- Kostenplan für den Projektzeitraum.
 
 Bei der Erstellung des Arbeitskonzepts ist auf die zur Zielerreichung genannten Punkte in Nummer 4.2
 Abs. 1 einzugehen.

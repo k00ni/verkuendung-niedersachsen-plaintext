@@ -308,14 +308,10 @@ beim Dienstvorgesetzten einzuholen und kann mit Nebenbestimmungen, insbesondere 
 5. Rechtsfolgen
 5.1 Strafrecht
 Beamtinnen und Beamte können strafrechtlich verurteilt werden
-–
-
-wegen Vorteilsnahme zu einer Freiheitsstrafe oder zu einer Geldstrafe, wenn sie für die Dienstausübung
+- wegen Vorteilsnahme zu einer Freiheitsstrafe oder zu einer Geldstrafe, wenn sie für die Dienstausübung
 einen Vorteil für sich oder einen Dritten fordern, sich versprechen lassen oder annehmen (§ 331 StGB),
 
-–
-
-wegen Bestechlichkeit zu einer Freiheitsstrafe oder zu einer Geldstrafe, wenn sie einen Vorteil für sich
+- wegen Bestechlichkeit zu einer Freiheitsstrafe oder zu einer Geldstrafe, wenn sie einen Vorteil für sich
 oder einen Dritten als Gegenleistung dafür fordern, sich versprechen lassen oder annehmen, dass sie
 eine Diensthandlung vorgenommen haben oder künftig vornähmen und dadurch ihre Dienstpflicht verletzt haben oder verletzen würden (§ 332 StGB).
 

@@ -26,21 +26,13 @@ sowohl für interne und externe Mitarbeitende und sind auch für die Einbindung 
 sofern diese zeitkritische Dienste oder Leistungen für eine Stelle der unmittelbaren Landesverwaltung erbringen oder in zeitkritische Geschäftsprozesse eingebunden sind und dies vertraglich vereinbart ist.
 2. Ziele
 Mit dem BCM soll die Resilienz der Landesverwaltung erhöht und insbesondere folgende Ziele für Notfallsituationen verfolgt werden:
-–
+- Sicherstellung, dass relevante gesetzliche und verwaltungsinterne Vorgaben eingehalten werden,
 
-Sicherstellung, dass relevante gesetzliche und verwaltungsinterne Vorgaben eingehalten werden,
+- Sicherstellung der Aufgabenerfüllung der Verwaltung innerhalb des Staatswesens,
 
-–
+- Schutz der Beschäftigten der Verwaltung,
 
-Sicherstellung der Aufgabenerfüllung der Verwaltung innerhalb des Staatswesens,
-
-–
-
-Schutz der Beschäftigten der Verwaltung,
-
-–
-
-Schutz der Reputation der Verwaltung in der Öffentlichkeit, insbesondere bei einer Unterbrechung des
+- Schutz der Reputation der Verwaltung in der Öffentlichkeit, insbesondere bei einer Unterbrechung des
 Geschäftsbetriebs.
 
 Herausgeber: Niedersächsische Staatskanzlei
@@ -56,21 +48,13 @@ Zur Erreichung dieser Ziele etablieren die Ressorts ein Business Continuity Mana
 
 Zusätzlich wird ein ressortübergreifendes BCMS eingerichtet, das folgende Ziele verfolgt:
 
-–
+- Förderung der ressortübergreifenden Zusammenarbeit in Bezug auf das BCM,
 
-Förderung der ressortübergreifenden Zusammenarbeit in Bezug auf das BCM,
+- Unterstützung der Behörden der unmittelbaren Landesverwaltung bei der Einführung eines BCMS,
 
-–
+- Harmonisierung der BCMS in den Behörden,
 
-Unterstützung der Behörden der unmittelbaren Landesverwaltung bei der Einführung eines BCMS,
-
-–
-
-Harmonisierung der BCMS in den Behörden,
-
-–
-
-Wirksamkeits- und Reifegradprüfung der BCMS der Behörden nach zuvor einheitlich durch das BCMBoard festgelegten Vorgaben.
+- Wirksamkeits- und Reifegradprüfung der BCMS der Behörden nach zuvor einheitlich durch das BCMBoard festgelegten Vorgaben.
 
 3. Definitionen
 I. S. dieser Leitlinie gelten folgende Definitionen:
@@ -138,21 +122,13 @@ Rahmen des BCM behandelt werden. Bei der Einrichtung eines BCMS empfiehlt es sic
 kann einen größeren Zeitraum als 30 Tage festlegen.
 4.4
 Die folgenden Ausfallszenarien stellen zusätzliche Mindestanforderungen dar, die von den Behörden zu berücksichtigt sind:
-–
+- Gebäudeausfall: Arbeitsplätze im Gebäude,
 
-Gebäudeausfall: Arbeitsplätze im Gebäude,
+- Personalausfall: Mitarbeitende, Fähigkeiten oder Erfahrung der Mitarbeitenden,
 
-–
+- Dienstleisterausfall: Externe Dienstleistungen (nicht-IT, IT),
 
-Personalausfall: Mitarbeitende, Fähigkeiten oder Erfahrung der Mitarbeitenden,
-
-–
-
-Dienstleisterausfall: Externe Dienstleistungen (nicht-IT, IT),
-
-–
-
-Ausfall von IT-Diensten, IT-Systemen oder IT-Infrastrukturen.
+- Ausfall von IT-Diensten, IT-Systemen oder IT-Infrastrukturen.
 
 Zu berücksichtigen ist jeweils ein Ausfall in einem solchen Umfang, dass eine Durchführung der zeitkritischen Geschäftsprozesse verhindert wird.
 Für die Ausfallszenarien sind ressortübergreifende Lösungen zu bevorzugen, wenn diese angemessen und
@@ -186,38 +162,24 @@ auf das BCM allein von der Behördenleitung festgelegt. Die zuständige oberste 
 
 Die Behördenleitung hat insbesondere die folgenden Aufgaben:
 
-–
+- sie verpflichtet sich, ausreichend Ressourcen für die Umsetzung, Aufrechterhaltung und Weiterentwicklung des BCMS zur Verfügung zu stellen,
 
-sie verpflichtet sich, ausreichend Ressourcen für die Umsetzung, Aufrechterhaltung und Weiterentwicklung des BCMS zur Verfügung zu stellen,
+- sie fordert regelmäßige Berichte zum Status des BCMS ihrer Behörde ein,
 
-–
-
-sie fordert regelmäßige Berichte zum Status des BCMS ihrer Behörde ein,
-
-–
-
-sie entscheidet über die Umsetzung angemessener Maßnahmen und über die Akzeptanz der nach der
+- sie entscheidet über die Umsetzung angemessener Maßnahmen und über die Akzeptanz der nach der
 Maßnahmenumsetzung verbleibenden Risiken,
 
-–
-
-sie verpflichtet sich, prüfende Personen bei der Erhebung von Kennzahlen und bei der Wirksamkeitsprüfung (vor allem bei der Datenerhebung) zu unterstützen.
+- sie verpflichtet sich, prüfende Personen bei der Erhebung von Kennzahlen und bei der Wirksamkeitsprüfung (vor allem bei der Datenerhebung) zu unterstützen.
 
 5.2.3
 Hat eine Behörde für eine BC-Domäne die Gesamtverantwortung, so hat deren Behördenleitung insbesondere die folgenden Aufgaben:
-–
-
-sie erlässt eine BCM-Leitlinie, die im Einklang mit der BCM-Leitlinie des Landes steht, oder sie übernimmt
+- sie erlässt eine BCM-Leitlinie, die im Einklang mit der BCM-Leitlinie des Landes steht, oder sie übernimmt
 die BCM-Leitlinie der übergeordneten Domäne,
 
-–
-
-sie benennt eine BCM-beauftragte Person (BCB), welche die zentrale Ansprechperson für das BCMS der
+- sie benennt eine BCM-beauftragte Person (BCB), welche die zentrale Ansprechperson für das BCMS der
 Domäne ist,
 
-–
-
-es können weitere BC-koordinierende Personen (BCK) in den Behörden einer BC-Domäne durch die
+- es können weitere BC-koordinierende Personen (BCK) in den Behörden einer BC-Domäne durch die
 jeweilige Behördenleitung benannt werden.
 
 5.2.4
@@ -237,9 +199,7 @@ BCB unterstützt das ZMB bei der Erhebung von Kennzahlen und bei der Durchführu
 Die BCB übernimmt die fachliche Steuerung der BCM-koordinierenden Person (BCK) in ihrer BCDomäne. Sie fordert regelmäßig Berichte von den BCK über den Stand der operativen Umsetzung des BCMS
 ein.
 5.3.2
-–
-
-Die BCB hat insbesondere die folgenden Aufgaben:
+- Die BCB hat insbesondere die folgenden Aufgaben:
 
 Dokumentensteuerung für alle BCM-Dokumente in ihrer BC-Domäne,
 
@@ -247,56 +207,32 @@ Nds. MBl. 2024 Nr. 300 vom 4. Juli 2024
 
 Seite 5
 
-–
+- regelmäßige Prüfung auf Einhaltung rechtlicher und sonstiger Vorgaben,
 
-regelmäßige Prüfung auf Einhaltung rechtlicher und sonstiger Vorgaben,
+- Steuerung der BCM-Aufbauorganisation in ihrer BC-Domäne,
 
-–
-
-Steuerung der BCM-Aufbauorganisation in ihrer BC-Domäne,
-
-–
-
-Vorbereitung der Business Impact Analyse (BIA) und Risikoanalyse sowie Festlegung der verwendeten
+- Vorbereitung der Business Impact Analyse (BIA) und Risikoanalyse sowie Festlegung der verwendeten
 Methode,
 
-–
+- Qualitätssicherung der BIA sowie Zusammenführung von Einzelergebnissen aus der BC-Domäne,
 
-Qualitätssicherung der BIA sowie Zusammenführung von Einzelergebnissen aus der BC-Domäne,
+- Auswertung der Risikoanalyse, Erarbeiten von risikominimierenden Maßnahmen und Erstellen eines Abschlussberichtes,
 
-–
+- Erarbeiten von BC-Strategien und -Lösungen unter Berücksichtigung einer Kosten-Nutzen-Analyse,
 
-Auswertung der Risikoanalyse, Erarbeiten von risikominimierenden Maßnahmen und Erstellen eines Abschlussberichtes,
+- Koordination und Begleitung der Umsetzung von BC-Strategien und -Lösungen,
 
-–
-
-Erarbeiten von BC-Strategien und -Lösungen unter Berücksichtigung einer Kosten-Nutzen-Analyse,
-
-–
-
-Koordination und Begleitung der Umsetzung von BC-Strategien und -Lösungen,
-
-–
-
-Erstellen einer Strategie für Tests und Übungen sowie Test- und Übungsplanung in Kooperation mit dem
+- Erstellen einer Strategie für Tests und Übungen sowie Test- und Übungsplanung in Kooperation mit dem
 BCM-Board,
 
-–
+- Begleiten und Dokumentieren von Tests und Übungen,
 
-Begleiten und Dokumentieren von Tests und Übungen,
-
-–
-
-gegebenenfalls Erweiterung und Anpassung des zentralen Sensibilisierungs- und Schulungsprogrammes
+- gegebenenfalls Erweiterung und Anpassung des zentralen Sensibilisierungs- und Schulungsprogrammes
 für BCM-Themen,
 
-–
+- Bewerten der Wirksamkeit des BCMS auf operativer Ebene,
 
-Bewerten der Wirksamkeit des BCMS auf operativer Ebene,
-
-–
-
-regelmäßige Berichterstattung an die Behördenleitung über den Zustand des BCMS.
+- regelmäßige Berichterstattung an die Behördenleitung über den Zustand des BCMS.
 
 5.3.3
 In den BCM-Leitlinien der BC-Domänen kann eine von Nummer 5.3.2 abweichende Aufgabenzuweisung erfolgen. Es muss jedoch sichergestellt sein, dass die in Nummer 5.3.2 beschriebenen Aufgaben von
@@ -310,30 +246,18 @@ der BCB ihrer Domäne zusammen und unterstützt diese.
 
 Die BCK hat insbesondere die Aufgabe, bei den folgenden Tätigkeiten zu unterstützen:
 
-–
+- bei der Planung und Durchführung der BIA in ihrem Aufgabenbereich,
 
-bei der Planung und Durchführung der BIA in ihrem Aufgabenbereich,
+- bei der Durchführung von Risikoanalysen,
 
-–
-
-bei der Durchführung von Risikoanalysen,
-
-–
-
-Erstellung und Pflege von BC-Lösungskonzepten (Notfall- und Wiederanlaufplänen) für die ermittelten
+- Erstellung und Pflege von BC-Lösungskonzepten (Notfall- und Wiederanlaufplänen) für die ermittelten
 zeitkritischen Geschäftsprozesse,
 
-–
+- Umsetzen von BC-Maßnahmen (z. B. zur Risikominimierung),
 
-Umsetzen von BC-Maßnahmen (z. B. zur Risikominimierung),
+- Beteiligung an der Planung von und Teilnahme an Tests und Übungen für BCM-Maßnahmen,
 
-–
-
-Beteiligung an der Planung von und Teilnahme an Tests und Übungen für BCM-Maßnahmen,
-
-–
-
-regelmäßige Berichterstattung an die BCB der Domäne über Zustand und Wirksamkeit des BCMS innerhalb ihres Aufgabenbereiches.
+- regelmäßige Berichterstattung an die BCB der Domäne über Zustand und Wirksamkeit des BCMS innerhalb ihres Aufgabenbereiches.
 
 5.4.2
 In den BCM-Leitlinien der BC-Domänen kann eine von Nummer 5.4.1 abweichende Aufgabenzuweisung erfolgen. Es muss jedoch sichergestellt sein, dass die in Nummer 5.4.1 beschriebenen Aufgaben von
@@ -410,17 +334,11 @@ Ressorts sind.
 
 Teil der ressortübergreifenden Dokumente sind insbesondere:
 
-–
+- Dokumentenvorlagen für die Anwendung in den Behörden,
 
-Dokumentenvorlagen für die Anwendung in den Behörden,
+- Konzepte und Pläne, Prozessbeschreibungen und ggf. Anweisungen, die ressortübergreifende Tätigkeiten betreffen (z. B. die Wirksamkeitsprüfung),
 
-–
-
-Konzepte und Pläne, Prozessbeschreibungen und ggf. Anweisungen, die ressortübergreifende Tätigkeiten betreffen (z. B. die Wirksamkeitsprüfung),
-
-–
-
-alle gemäß der im BSI-Standard 200-4 notwendigen Dokumente der Notfallvorsorge und Notfallbewältigung für Tätigkeiten, die an das ZMB übergeben wurden.
+- alle gemäß der im BSI-Standard 200-4 notwendigen Dokumente der Notfallvorsorge und Notfallbewältigung für Tätigkeiten, die an das ZMB übergeben wurden.
 
 6.2.3
 
@@ -429,29 +347,17 @@ Das ZMB ist für die Dokumentenlenkung der ressortübergreifenden Dokumente vera
 6.3
 Alle Dokumente, die für das BCM in der unmittelbaren Landesverwaltung erforderlich sind, enthalten
 mindestens die folgenden Eigenschaften:
-–
+- eindeutiger Titel oder Dokumentennummer,
 
-eindeutiger Titel oder Dokumentennummer,
+- eindeutige Versionsnummer,
 
-–
+- Autor, Autorin,
 
-eindeutige Versionsnummer,
+- Freigabedatum,
 
-–
+- Änderungshistorie,
 
-Autor, Autorin,
-
-–
-
-Freigabedatum,
-
-–
-
-Änderungshistorie,
-
-–
-
-Überarbeitungszyklus.
+- Überarbeitungszyklus.
 
 6.4
 Jede BC-Domäne erstellt ein Notfallkonzept. Das Notfallkonzept besteht aus allen Dokumenten des
@@ -462,25 +368,17 @@ Landesverwaltung müssen eingehalten werden.
 7.1
 Vorgaben dieses Dokuments, der Anwendung findenden Landesleitlinie sowie nachrangiger Dokumente der BC-Domänen werden von der BCB regelmäßig sowie anlassbezogen auf Einhaltung überprüft,
 insbesondere auf
-–
+- die Erfüllung der Ziele und Anforderungen des BCMS und
 
-die Erfüllung der Ziele und Anforderungen des BCMS und
-
-–
-
-die Angemessenheit, Effektivität und Effizienz des Prozesses.
+- die Angemessenheit, Effektivität und Effizienz des Prozesses.
 
 7.2
 
 Das ZMB hat die in Nummer 7.1 beschriebenen Verpflichtungen im Fall, dass
 
-–
+- es sich um Dokumente des ressortübergreifenden BCMS handelt oder
 
-es sich um Dokumente des ressortübergreifenden BCMS handelt oder
-
-–
-
-das ZMB die Aufgabe zur Notfallvorsorge oder Notfallbewältigung übernommen hat (siehe Nummer
+- das ZMB die Aufgabe zur Notfallvorsorge oder Notfallbewältigung übernommen hat (siehe Nummer
 5.5.2).
 
 7.3

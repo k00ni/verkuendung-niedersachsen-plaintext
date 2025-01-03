@@ -50,49 +50,27 @@ Seite 2
 2.1
 Berücksichtigungsfähig sind Maßnahmen zur Unterstützung bei hochwasserbedingten Schäden in den
 niedersächsischen Teilen der Einzugsgebiete der Gewässer
-–
+- Weser (Aller/Leine/Fuhse/Oker) jeweils bis zur Landesgrenze Bremen,
 
-Weser (Aller/Leine/Fuhse/Oker) jeweils bis zur Landesgrenze Bremen,
+- Wümme (bis zum Lesumsperrwerk),
 
-–
+- Hunte (bis zum Huntesperrwerk),
 
-Wümme (bis zum Lesumsperrwerk),
+- Soeste,
 
-–
+- Ems bis zur Seeschleuse Papenburg,
 
-Hunte (bis zum Huntesperrwerk),
+- Vechte,
 
-–
+- Sude mit Krainke und Rögnitz,
 
-Soeste,
+- Seege,
 
-–
+- Ilmenau,
 
-Ems bis zur Seeschleuse Papenburg,
+- Jeetzel,
 
-–
-
-Vechte,
-
-–
-
-Sude mit Krainke und Rögnitz,
-
-–
-
-Seege,
-
-–
-
-Ilmenau,
-
-–
-
-Jeetzel,
-
-–
-
-Elbe bis Einmündung der Oste.
+- Elbe bis Einmündung der Oste.
 
 2.2
 Es muss ein direkter Zusammenhang zwischen der Naturkatastrophe und den Schäden, die dem
@@ -110,39 +88,25 @@ Durch vorübergehende Unterbrechungen des Produktionsprozesses entstandene Verlu
 entgangene Gewinne, Verluste von Aufträgen, Kunden oder Märkten sowie sonstige mittelbare Schäden
 werden nicht ersetzt.
 Nicht berücksichtigungsfähig ist der Ersatz von Schäden an Gebäuden, die
-–
-
-zum Zeitpunkt der Naturkatastrophe nicht nutzbar waren (ausgenommen Gebäude, die sich bei
+- zum Zeitpunkt der Naturkatastrophe nicht nutzbar waren (ausgenommen Gebäude, die sich bei
 Schadenseintritt noch im Rohbaustadium oder in der Rekonstruktion befanden) oder
 
-–
-
-bei Eintritt des Hochwassers zum Rückbau vorgesehen waren.
+- bei Eintritt des Hochwassers zum Rückbau vorgesehen waren.
 
 3. Empfänger der Billigkeitsleistung
 Empfänger der Billigkeitsleistung sind Unternehmen und Angehörige freier Berufe mit einer Betriebsstätte
 in den in Nummer 2.1 genannten Gebieten Niedersachsens. Nicht antragsberechtigt sind Unternehmen,
-–
+- die sich in öffentlich-rechtlicher Trägerschaft befinden,
 
-die sich in öffentlich-rechtlicher Trägerschaft befinden,
+- die nicht bei einem deutschen Finanzamt geführt werden,
 
-–
-
-die nicht bei einem deutschen Finanzamt geführt werden,
-
-–
-
-gegen die die EU-Sanktionen verhängt hat, also Unternehmen, die in den Rechtsakten, mit denen diese
+- gegen die die EU-Sanktionen verhängt hat, also Unternehmen, die in den Rechtsakten, mit denen diese
 Sanktionen verhängt werden, ausdrücklich genannt sind,
 
-–
-
-die im Eigentum oder unter Kontrolle von Personen, Organisationen oder Einrichtungen stehen, gegen
+- die im Eigentum oder unter Kontrolle von Personen, Organisationen oder Einrichtungen stehen, gegen
 die die EU-Sanktionen verhängt hat oder
 
-–
-
-die in Wirtschaftszweigen tätig sind, gegen die die EU-Sanktionen verhängt hat, soweit Beihilfen die
+- die in Wirtschaftszweigen tätig sind, gegen die die EU-Sanktionen verhängt hat, soweit Beihilfen die
 Ziele der betreffenden Sanktionen untergraben würden.
 
 4. Voraussetzungen
@@ -186,27 +150,19 @@ Hilfe beträgt bis zu 50 % der berücksichtigungsfähigen Ausgaben. Der Schaden 
 5.2
 Im Rahmen der Schadensermittlung ist als Vorteilsausgleich im Rahmen des Abzuges „neu für alt“ bis
 zu 30 % der nach Nummer 4.4 nachgewiesenen Anschaffungs- und Herstellungskosten abzuziehen. Der Abzug richtet sich nach dem Alter des Wirtschaftsgutes und ist wie folgt gestaffelt:
-–
-
-bis zu 6 Monate
+- bis zu 6 Monate
 
 0 % Abzug,
 
-–
-
-zwischen 6 und 12 Monate
+- zwischen 6 und 12 Monate
 
 10 % Abzug,
 
-–
-
-zwischen 12 und 24 Monate
+- zwischen 12 und 24 Monate
 
 20 % Abzug,
 
-–
-
-mehr als 24 Monate
+- mehr als 24 Monate
 
 30 % Abzug.
 

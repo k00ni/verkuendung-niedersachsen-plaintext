@@ -36,9 +36,7 @@ Lehre wahrnehmen. Ebenfalls findet dieser Erl. keine Anwendung auf Mitarbeiterin
 2. Eingruppierung
 2.1
 In den Studiengebieten 1 bis 4 können Dozentinnen und Dozenten in einem Arbeitsverhältnis beschäftigt werden. Es sind einzugruppieren
-–
-
-in EntgeltGr. 11 TV-L:
+- in EntgeltGr. 11 TV-L:
 Dozentinnen und Dozenten mit einem Bachelorabschluss und einer nach dem Abschluss liegenden,
 der Vorbildung fachlich und qualitativ entsprechenden fünfjährigen beruflichen Tätigkeit;
 
@@ -46,9 +44,7 @@ Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 545 vom 12. November 2024
 
-–
-
-Seite 2
+- Seite 2
 
 in EntgeltGr. 13 TV-L:
 Dozentinnen und Dozenten mit einer abgeschlossenen wissenschaftlichen Hochschulbildung (hierzu
@@ -61,57 +57,33 @@ Der Bachelor-Abschluss oder die abgeschlossene wissenschaftliche Hochschulbildun
 Studiengang absolviert worden sein, welcher fachlich einem oder mehreren Unterrichtsfächern der PA NI überwiegend zuzuordnen ist.
 Bei der fünfjährigen beruflichen Tätigkeit sollen mindestens drei Jahre außerhalb des Aus- und des Weiterbildungsbereichs erworben worden sein und ebenfalls in einem fachlichen Zusammenhang zu der angestrebten Lehrtätigkeit stehen.
 Als Unterrichtsfächer an der PA NI i. S. dieses Erl. gelten:
-–
+- –
 
-–
-
-–
-
-–
+- –
 
 Studiengebiet 1:
-–
+- Kriminalistik,
 
-Kriminalistik,
-
-–
-
-Kriminologie;
+- Kriminologie;
 
 Studiengebiet 2:
-–
+- Verkehrsrecht und Verkehrslehre,
 
-Verkehrsrecht und Verkehrslehre,
+- Einsatzlehre,
 
-–
-
-Einsatzlehre,
-
-–
-
-Organisationswissenschaften;
+- Organisationswissenschaften;
 
 Studiengebiet 3:
-–
+- Materielles Strafrecht,
 
-Materielles Strafrecht,
+- Eingriffsrecht (Strafprozessrecht und Gefahrenabwehrrecht),
 
-–
-
-Eingriffsrecht (Strafprozessrecht und Gefahrenabwehrrecht),
-
-–
-
-Öffentliches Recht (Grundrechte und Beamtenrecht);
+- Öffentliches Recht (Grundrechte und Beamtenrecht);
 
 Studiengebiet 4:
-–
+- Sozialwissenschaften,
 
-Sozialwissenschaften,
-
-–
-
-Psychologie.
+- Psychologie.
 
 2.3
 Vor der ersten Besetzung des jeweiligen Arbeitsplatzes ist eine Arbeitsplatzbeschreibung und Bewertung mit einem entsprechenden Bericht dem MI zur Zustimmung vorzulegen. Die Eingruppierung ist entsprechend zu begründen.

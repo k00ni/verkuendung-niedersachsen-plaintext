@@ -182,23 +182,15 @@ Der Vorrang für den Einsatz erneuerbarer Energien ist gemäß § 7 Abs. 2 Satz 
 dann gegeben, wenn der Eingriff in das äußere Erscheinungsbild reversibel ist und in die denkmalwerte Substanz nur geringfügig eingegriffen wird.
 Mehr als nur geringfügig eingegriffen in die denkmalwerte Substanz wird im Falle von Photovoltaikanlagen
 auf Dächern beispielsweise, wenn
-–
+- das Material der Dachhaut (z. B. Reet-/Strohdach, bestimmte Metalldächer) keine Aufbringung der Anlage zulässt,
 
-das Material der Dachhaut (z. B. Reet-/Strohdach, bestimmte Metalldächer) keine Aufbringung der Anlage zulässt,
-
-–
-
-statische Probleme auftreten könnten (z. B. durch Verwirbelungen), die Auswirkungen auf das gesamte
+- statische Probleme auftreten könnten (z. B. durch Verwirbelungen), die Auswirkungen auf das gesamte
 Denkmal haben können,
 
-–
-
-der Dachstuhl so verstärkt werden muss, dass sich eine andere Dachgestalt ergibt oder die historische
+- der Dachstuhl so verstärkt werden muss, dass sich eine andere Dachgestalt ergibt oder die historische
 Konstruktion verändert wird oder
 
-–
-
-Dacheindeckungen mit künstlerischem Wert überdeckt werden und in diese Substanz unmittelbar eingegriffen wird.
+- Dacheindeckungen mit künstlerischem Wert überdeckt werden und in diese Substanz unmittelbar eingegriffen wird.
 
 Auch wenn die tatbestandlichen Voraussetzungen des § 7 Abs. 2 Satz 2 NDSchG gegeben sind, kommt
 die Regelvermutung nicht zum Tragen, soweit ein atypischer Fall vorliegt. Das kann zum Beispiel der Fall sein,
@@ -211,17 +203,11 @@ herausragend bedeutende Baudenkmale wie z. B. UNESCO-Welterbestätten in Betrach
 völkerrechtlich zum Erhalt des Welterbes und damit zu der Einhaltung der dazu erforderlichen denkmalfachlichen Standards verpflichtet hat, ist das öffentliche Interesse an der Errichtung von Anlagen zur Nutzung von
 erneuerbaren Energien an und in der Umgebung von Welterbestätten nicht von vornherein dem Denkmalschutz überlegen. Bei diesen Objekten ist über die beschriebenen Prüfungsschritte hinaus die Welterbeverträglichkeit besonders zu prüfen. Das Ergebnis ist mit der Denkmalfachbehörde abzustimmen.
 Darüber hinaus kann z. B. ein atypischer Fall bei baulichen Anlagen vorliegen, wenn diese einen herausragenden Geschichts- oder Kunstwert haben,
-–
+- weil sie eine außergewöhnliche architektonische Qualität aufweisen,
 
-weil sie eine außergewöhnliche architektonische Qualität aufweisen,
+- weil sie für die Architekturgeschichte epochenbestimmend oder
 
-–
-
-weil sie für die Architekturgeschichte epochenbestimmend oder
-
-–
-
-weil sie im Rahmen ihrer nationalen Bedeutung identitätsstiftend sind.
+- weil sie im Rahmen ihrer nationalen Bedeutung identitätsstiftend sind.
 
 Nds. MBl. 2024 Nr. 359 vom 15. August 2024
 
@@ -260,30 +246,18 @@ Verbesserung der Gestaltwerte der Module (Bemusterung, Modellversuch):
 
 d)
 
-–
+- Abschlüsse und Rahmen farblich zurückhaltend,
 
-Abschlüsse und Rahmen farblich zurückhaltend,
+- bei Photovoltaikanlagen: monokristalline Systeme,
 
-–
-
-bei Photovoltaikanlagen: monokristalline Systeme,
-
-–
-
-Vermeidung von Spiegelungen;
+- Vermeidung von Spiegelungen;
 
 Anspruch an architektonischen Entwurf im Wirkungsraum des Denkmals oder in der Gruppe baulicher Anlagen:
-–
+- rechteckige oder an Dachrand angepasste Formen, keine L- oder U-förmigen Felder,
 
-rechteckige oder an Dachrand angepasste Formen, keine L- oder U-förmigen Felder,
+- vollflächige Anlagen statt belegten Teilflächen, Zusammenfassen von Modulfeldern,
 
-–
-
-vollflächige Anlagen statt belegten Teilflächen, Zusammenfassen von Modulfeldern,
-
-–
-
-Module parallel zur Dachfläche, falls nicht möglich: genügend Abstand zwischen nicht parallelen Linien oder maßgeschneiderte Modulflächen oder Blindmodule.
+- Module parallel zur Dachfläche, falls nicht möglich: genügend Abstand zwischen nicht parallelen Linien oder maßgeschneiderte Modulflächen oder Blindmodule.
 
 Wichtig: Die vorstehenden Erwägungen dürfen die grundlegende Entscheidung des Gesetzgebers zugunsten der Anlagen zur Nutzung von erneuerbaren Energien nicht konterkarieren. Die Auferlegung
 von geforderten Maßnahmen hinsichtlich des „Wie" der Genehmigung gemäß § 10 Abs. 1 i. V. m. § 7

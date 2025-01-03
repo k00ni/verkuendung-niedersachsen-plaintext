@@ -17,17 +17,11 @@ vom 30.10.23 die Erteilung einer Genehmigung zur wesentlichen Änderung einer Bi
 Kapazität von 193 t/d auf dem Grundstück in 49456 Bakum, Gemarkung Bakum, Flur 3, Flurstücke 63/12,
 63/13 und 63/17, beantragt.
 Das beantragte Vorhaben umfasst folgende Maßnahmen:
-–
+- Substratmanagement: Neuausrichtung der Art und Menge der Inputmaterialien,
 
-Substratmanagement: Neuausrichtung der Art und Menge der Inputmaterialien,
+- Behälterzubau: Errichtung von zwei Behältern mit Tragluftdachabdeckung (Gärrestspeicher),
 
-–
-
-Behälterzubau: Errichtung von zwei Behältern mit Tragluftdachabdeckung (Gärrestspeicher),
-
-–
-
-Gasreinigung und -verdichtung: Errichtung von zwei zusätzlichen Stationen.
+- Gasreinigung und -verdichtung: Errichtung von zwei zusätzlichen Stationen.
 Mit der Realisierung des Vorhabens soll voraussichtlich in 2024 begonnen werden.
 
 Es bedarf der immissionsschutzrechtlichen Genehmigung gemäß der §§ 16 und 10 BImSchG i. V. m. § 1
@@ -41,22 +35,14 @@ Genehmigungsbehörde.
 Das geplante Vorhaben wird hiermit gemäß § 10 Abs. 3 BImSchG öffentlich bekannt gemacht.
 Der Behörde liegen als Bestandteil der Antragsunterlagen derzeit folgende entscheidungsrelevante
 Berichte und Empfehlungen vor:
-–
+- Geruchsimmissionsprognose, Nr. I13019723, Normec uppenkamp GmbH,
 
-Geruchsimmissionsprognose, Nr. I13019723, Normec uppenkamp GmbH,
+- Geräuschimmissionsprognose Nr. I12018623, Normec uppenkamp GmbH,
 
-–
-
-Geräuschimmissionsprognose Nr. I12018623, Normec uppenkamp GmbH,
-
-–
-
-Auswirkungsanalyse- Ermittlung von angemessenen Abständen, 8120975420-100, TÜV NORD
+- Auswirkungsanalyse- Ermittlung von angemessenen Abständen, 8120975420-100, TÜV NORD
 Systems GmbH & Co. KG,
 
-–
-
-Sicherheitsbericht, TÜV NORD Systems GmbH & Co. KG.
+- Sicherheitsbericht, TÜV NORD Systems GmbH & Co. KG.
 
 Für das Vorhaben ist gemäß den §§ 5 und 7 i. V. m. den Nummern 8.4.2.1 A der Anlage 1 UVPG in der
 derzeit geltenden Fassung durch eine allgemeine Vorprüfung des Einzelfalles zu ermitteln, ob für das
@@ -70,9 +56,7 @@ Seite 2
 Der Antrag auf Erteilung der Genehmigung und die Antragsunterlagen nach § 4 der 9. BImSchV, liegen
 vom 31.01. bis 29.02.2024 bei den folgenden Stellen zu den angegebenen Zeiten zur Einsichtnahme
 öffentlich aus:
-–
-
-–
+- –
 
 Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
 während der Dienststunden,

@@ -27,28 +27,20 @@ werden. Damit wird die notwendige Transformation der Unternehmen zu nachhaltigen
 Geschäftsmodellen beschleunigt.
 1.2
 Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
-–
+- des Koordinierungsrahmens der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ (BAnz AT 16.01.2023 B1) – im Folgenden: GRW-Koordinierungsrahmen –, soweit diese Richtlinie keine abweichenden Festlegungen enthält,
 
-des Koordinierungsrahmens der Gemeinschaftsaufgabe „Verbesserung der regionalen Wirtschaftsstruktur“ (BAnz AT 16.01.2023 B1) – im Folgenden: GRW-Koordinierungsrahmen –, soweit diese Richtlinie keine abweichenden Festlegungen enthält,
-
-–
-
-der Verordnung (EU) Nr. 651/2014 der Kommission vom 17.06.2014 zur Feststellung der Vereinbarkeit
+- der Verordnung (EU) Nr. 651/2014 der Kommission vom 17.06.2014 zur Feststellung der Vereinbarkeit
 bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des
 Vertrags über die Arbeitsweise der Europäischen Union (ABl. EU Nr. L 187 S. 1, Nr. L 283 S. 65), zuletzt
 geändert durch Verordnung (EU) 2023/1315 der Kommission vom 23.06.2023 (ABl. EU Nr. L 167 S. 1)
 – Allgemeine Gruppenfreistellungsverordnung – im Folgenden: AGVO –,
 
-–
-
-der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18.12.2013 über die Anwendung der Artikel
+- der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18.12.2013 über die Anwendung der Artikel
 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl.
 L 352 vom 24.12.2013, S. 1), geändert durch Verordnung (EU) 2023/2391 der Kommission vom
 04.10.2023 (ABl. L,2023/2391, vom 05.10.2023), – im Folgenden: De-minimis-Verordnung –,
 
-–
-
-der Regelung zur vorübergehenden Gewährung von Beihilfen im Geltungsbereich der Bundesrepublik
+- der Regelung zur vorübergehenden Gewährung von Beihilfen im Geltungsbereich der Bundesrepublik
 Deutschland auf der Grundlage des Befristeten Rahmens für staatliche Beihilfen zur Stützung der Wirtschaft infolge des Angriffs Russlands auf die Ukraine – Krisenbewältigung und Gestaltung des Wandels
 
 Herausgeber: Niedersächsische Staatskanzlei
@@ -59,9 +51,7 @@ Seite 2
 
 des Bundesministeriums für Wirtschaft und Klimaschutz vom 20.07.2023 (BAnz AT 04.08.2023 B1)
 – im Folgenden: BKR-Bundesregelung Transformationstechnologien – und
-–
-
-der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P)
+- der Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (ANBest-P)
 
 in den jeweils geltenden Fassungen.
 1.3
@@ -87,13 +77,9 @@ zum besonderen Umweltschutz, einschließlich der Dekarbonisierung gemäß Artike
 
 Von der Zuwendung ausgeschlossen sind
 
-–
+- Vorhaben, die eine landesinterne Betriebsverlagerung ohne Erweiterungscharakter beinhalten und
 
-Vorhaben, die eine landesinterne Betriebsverlagerung ohne Erweiterungscharakter beinhalten und
-
-–
-
-Vorhaben mit einer Vorförderung derselben Betriebsstätte, solange die Verwendungsnachweisprüfung
+- Vorhaben mit einer Vorförderung derselben Betriebsstätte, solange die Verwendungsnachweisprüfung
 noch nicht abgeschlossen ist.
 
 3. Zuwendungsempfänger
@@ -154,39 +140,23 @@ Wenn Unternehmen als Nachweis der regionalwirtschaftlichen Effekte das Arbeitspl
 mit Arbeitnehmerinnen oder Arbeitnehmern besetzen, mit denen sie ein sozialversicherungspflichtiges Beschäftigungsverhältnis eingehen.
 4.5
 Bei der Antragstellung sind zur Beurteilung der Förderwürdigkeit Ausführungen zu folgenden Qualitätskriterien erforderlich:
-–
+- Unternehmensgröße,
 
-Unternehmensgröße,
+- geschaffene neue sozialversicherungspflichtige Dauerarbeitsplätze,
 
-–
-
-geschaffene neue sozialversicherungspflichtige Dauerarbeitsplätze,
-
-–
-
-Aufbau weitergehender Digitalisierungsprozesse i. S. des Querschnittsziels „digitale Wirtschaft“ der regionalen Innovationsstrategie RIS3 (Mindestens zwei Maßnahmen) (z. B. Nutzung Internet der Dinge,
+- Aufbau weitergehender Digitalisierungsprozesse i. S. des Querschnittsziels „digitale Wirtschaft“ der regionalen Innovationsstrategie RIS3 (Mindestens zwei Maßnahmen) (z. B. Nutzung Internet der Dinge,
 Nutzung künstlicher Intelligenz, Aufbau Online-Vertriebskanäle, Nutzung Digitaler Zwillinge, digitale Anwendungen zur Verbesserung bestehender Prozesse und Angebote),
 
-–
+- Qualitätsverbessernde Investitionen in der Beherbergung gemäß Anlage 1 Nr. 4,
 
-Qualitätsverbessernde Investitionen in der Beherbergung gemäß Anlage 1 Nr. 4,
+- Einstellung von Forschungs- und Entwicklungspersonal (gilt nicht für Beherbergung),
 
-–
-
-Einstellung von Forschungs- und Entwicklungspersonal (gilt nicht für Beherbergung),
-
-–
-
-thematische Spezialisierung nach der regionalen Innovationsstrategie RIS3. Es sollen bestehende Stärken der Region genutzt und damit regionale Alleinstellungsmerkmale und Wettbewerbsvorteile herausgearbeitet werden, z. B. in den Bereichen Mobilität, Lebenswissenschaften, Energietechnologien und
+- thematische Spezialisierung nach der regionalen Innovationsstrategie RIS3. Es sollen bestehende Stärken der Region genutzt und damit regionale Alleinstellungsmerkmale und Wettbewerbsvorteile herausgearbeitet werden, z. B. in den Bereichen Mobilität, Lebenswissenschaften, Energietechnologien und
 -systeme, Ernährungswirtschaft, Neue Materialien, Produktionstechnik (gilt nicht für Beherbergung),
 
-–
+- Vorförderung der Betriebsstätte in den letzten zehn Jahren,
 
-Vorförderung der Betriebsstätte in den letzten zehn Jahren,
-
-–
-
-Nachhaltige Entwicklung
+- Nachhaltige Entwicklung
 a)
 
 Umweltschutz und Energieeffizienz (Für über die Unionsnormen hinausgehende Maßnahmen zur
@@ -203,31 +173,19 @@ Seite 4
 
 Zustands von Gewässern, Verbesserung der Wassereffizienz, Reduzierung des Einsatzes von
 Primärrohstoffen, Schutz vor Umweltverschmutzung, Grünbedachung, Grünfassaden),
-–
+- Gleichstellung von Männern und Frauen (z. B. Teilzeitmodelle, Zertifikat Vereinbarkeit Familie und Beruf, mobiles Arbeiten, Betriebskindergarten, Frauen in Führungspositionen),
 
-Gleichstellung von Männern und Frauen (z. B. Teilzeitmodelle, Zertifikat Vereinbarkeit Familie und Beruf, mobiles Arbeiten, Betriebskindergarten, Frauen in Führungspositionen),
-
-–
-
-Nichtdiskriminierung und Chancengleichheit (barrierefreie Zugänge, Implementierung von DiversityKonzepten im Leitbild, sprachliche Barrierefreiheit, Inklusion von gehandicapten Menschen, Integration
+- Nichtdiskriminierung und Chancengleichheit (barrierefreie Zugänge, Implementierung von DiversityKonzepten im Leitbild, sprachliche Barrierefreiheit, Inklusion von gehandicapten Menschen, Integration
 von Menschen mit Zuwanderungsgeschichte),
 
-–
+- Gute Arbeit (Tarifbindung, Mitbestimmungsmöglichkeiten über Betriebsräte, Personalentwicklungsmaßnahmen, Gesundheitsfürsorge),
 
-Gute Arbeit (Tarifbindung, Mitbestimmungsmöglichkeiten über Betriebsräte, Personalentwicklungsmaßnahmen, Gesundheitsfürsorge),
-
-–
-
-Wirkung des Vorhabens auf Wertschöpfungsketten in der Region (z. B. über regionale Zuliefer- und
+- Wirkung des Vorhabens auf Wertschöpfungsketten in der Region (z. B. über regionale Zuliefer- und
 Absatzverflechtungen),
 
-–
+- Steigerung der Standortattraktivität und
 
-Steigerung der Standortattraktivität und
-
-–
-
-Gewinnung und Bindung hochqualifizierter Arbeitskräfte (nicht bei Beherbergung).
+- Gewinnung und Bindung hochqualifizierter Arbeitskräfte (nicht bei Beherbergung).
 Die Gewichtung der Qualitätskriterien (Scoring-Modell) ist aus der Anlage 2 ersichtlich.
 
 5. Art und Umfang, Höhe der Zuwendung
@@ -357,33 +315,19 @@ Beihilfebetrag nicht überschritten wird.
 
 Nicht zuwendungsfähig sind:
 
-–
+- Ausgaben für Finanzierungen,
 
-Ausgaben für Finanzierungen,
+- Personalausgaben,
 
-–
+- Ausgaben für Grunderwerb,
 
-Personalausgaben,
+- Umsatzsteuer, die nach dem UStG abziehbar ist,
 
-–
+- Eigenleistungen,
 
-Ausgaben für Grunderwerb,
+- in einem Sammelposten zusammengefasste geringwertige Wirtschaftsgüter und
 
-–
-
-Umsatzsteuer, die nach dem UStG abziehbar ist,
-
-–
-
-Eigenleistungen,
-
-–
-
-in einem Sammelposten zusammengefasste geringwertige Wirtschaftsgüter und
-
-–
-
-Aufträge, deren Beträge unterhalb von 1 000 EUR liegen.
+- Aufträge, deren Beträge unterhalb von 1 000 EUR liegen.
 
 5.6
 Der Bewilligungszeitraum beträgt grundsätzlich 36 Monate. Die Bewilligungsbehörde kann im Einvernehmen mit dem programmverantwortlichen Ressort im Einzelfall Ausnahmen zulassen.

@@ -257,64 +257,42 @@ Wahlalter für das aktive Wahlrecht auf 16 Jahre herabgesetzt.
 Die wahlrechtlichen Vorschriften sind seit der letzten Europawahl darüber hinaus in mehreren Punkten
 geändert worden. Das Bundesministerium des Innern und für Heimat (BMI) hat mit Verordnung vom
 02.05.2023 (BGBl. 2023 I Nr. 119) folgende wesentlichen Änderungen an der Europawahlordnung vorgenommen:
-–
+- Wahlberechtigte, die am Wahltag das 67. Lebensjahr (bisher das 65. Lebensjahr) vollendet haben, können die Übernahme eines Wahlehrenamtes gemäß § 9 Nr. 3 EuWO ablehnen.
 
-Wahlberechtigte, die am Wahltag das 67. Lebensjahr (bisher das 65. Lebensjahr) vollendet haben, können die Übernahme eines Wahlehrenamtes gemäß § 9 Nr. 3 EuWO ablehnen.
-
-–
-
-Das Verfahren für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis auf Antrag
+- Das Verfahren für die Eintragung von wahlberechtigten Deutschen in das Wählerverzeichnis auf Antrag
 hat sich geändert. Die Übermittlung der Daten erfolgt künftig in Form einer elektronischen Datei, die von
 der Bundeswahlleiterin zur Verfügung gestellt wird (§ 17 Abs. 5 Satz 4 EuWO).
 
-–
-
-In § 21 Abs. 2 und 5 EuWO ist neu vorgesehen, dass sich eine Einspruchsführerin oder ein Einspruchsführer mit Behinderung beim Einspruch gegen das Wählerverzeichnis oder bei einer Beschwerde gegen
+- In § 21 Abs. 2 und 5 EuWO ist neu vorgesehen, dass sich eine Einspruchsführerin oder ein Einspruchsführer mit Behinderung beim Einspruch gegen das Wählerverzeichnis oder bei einer Beschwerde gegen
 die Entscheidung der Gemeindebehörde der Hilfe einer anderen Person bedienen kann.
 
-–
-
-Von der Vertrauensperson und der stellvertretenden Vertrauensperson sind künftig Name, Anschrift,
+- Von der Vertrauensperson und der stellvertretenden Vertrauensperson sind künftig Name, Anschrift,
 Telefonnummer (neu) und E-Mail-Adresse (neu) gemäß § 32 Abs. 1 Satz 3 EuWO anzugeben.
 
-–
-
-Bei den Wahlvorschlägen werden künftig gemäß § 37 Abs. 1 Sätze 2 und 3 EuWO nur noch der Wohnort
+- Bei den Wahlvorschlägen werden künftig gemäß § 37 Abs. 1 Sätze 2 und 3 EuWO nur noch der Wohnort
 (Ort der Hauptwohnung) anstatt bisher die Anschrift bekannt gegeben.
 
-–
-
-§ 38 Abs. 1 Satz 4 EuWO sieht nunmehr vor, dass ein eingetragener Doktorgrad auf dem Stimmzettel
+- § 38 Abs. 1 Satz 4 EuWO sieht nunmehr vor, dass ein eingetragener Doktorgrad auf dem Stimmzettel
 angegeben werden kann.
 
 Nds. MBl. 2024 Nr. 76 vom 14. Februar 2024
 
 Seite 4
 
-–
-
-Größenvorgaben für Stimm- und Wahlbriefumschläge existieren nicht mehr. Die Stimmzettelumschläge
+- Größenvorgaben für Stimm- und Wahlbriefumschläge existieren nicht mehr. Die Stimmzettelumschläge
 für die Briefwahl sollen gemäß § 38 Abs. 3 EuWO weiß und blickdicht und nach dem Muster der Anlage
 9 beschriftet sein. Bei zeitgleicher Durchführung von Wahlen oder Abstimmungen dürfen die Stimmzettelumschläge der Europawahl nicht für die anderen Wahlen oder Abstimmungen mitbenutzt werden. Die
 Stimmzettelumschläge zeitgleicher Wahlen oder Abstimmungen sollen sich vom Stimmzettelumschlag
 der Europawahl farblich unterscheiden.
 
-–
+- Bei zeitgleicher Durchführung von Wahlen und Abstimmungen dürfen die Wahlbriefumschläge der Europawahl gemäß § 38 Abs. 4 Satz 2 (neu) EuWO mitbenutzt werden.
 
-Bei zeitgleicher Durchführung von Wahlen und Abstimmungen dürfen die Wahlbriefumschläge der Europawahl gemäß § 38 Abs. 4 Satz 2 (neu) EuWO mitbenutzt werden.
+- § 53 EuWO wurde neu gefasst. Der Schluss der Wahlhandlung wurde entsprechend § 60 BWO geregelt.
 
-–
-
-§ 53 EuWO wurde neu gefasst. Der Schluss der Wahlhandlung wurde entsprechend § 60 BWO geregelt.
-
-–
-
-§ 61 EuWO wurde neu gefasst und die Zählung der Wählerinnen und Wähler entsprechend § 68 BWO
+- § 61 EuWO wurde neu gefasst und die Zählung der Wählerinnen und Wähler entsprechend § 68 BWO
 geregelt.
 
-–
-
-Die Regelungen zu den öffentlichen Bekanntmachungen wurden dahingehend geändert, dass Bekanntmachungen in der Art und Weise, die allgemein für Bekanntmachungen der Kreise und kreisfreien
+- Die Regelungen zu den öffentlichen Bekanntmachungen wurden dahingehend geändert, dass Bekanntmachungen in der Art und Weise, die allgemein für Bekanntmachungen der Kreise und kreisfreien
 Städte bestimmt sind, erfolgen (§ 79 Abs. 1 EuWO).
 
 Darüber hinaus wurden folgende Anlagen zur EuWO überarbeitet: Anlagen 1 (zu § 17 Abs. 6), 2 (zu § 17
@@ -357,16 +335,12 @@ Bildung und Tätigkeit der Wahlvorstände
 (§ 5 Abs. 5, § 6 Abs. 1 und 2 EuWO)
 
 2.3.1 Nach § 5 Abs. 3 Satz 1 EuWG i. V. m. dem Beschl. der LReg vom 27.01.2004, geändert durch Beschluss vom 20.06.02023, werden ernannt bzw. berufen:
-–
-
-die Wahlvorsteherinnen und Wahlvorsteher, ihre Stellvertreterinnen und Stellvertreter und die weiteren
+- die Wahlvorsteherinnen und Wahlvorsteher, ihre Stellvertreterinnen und Stellvertreter und die weiteren
 drei bis sieben Mitglieder der Wahlvorstände für jeden Wahlbezirk (Urnenwahl) von der Gemeinde,
 
 Nds. MBl. 2024 Nr. 76 vom 14. Februar 2024
 
-–
-
-Seite 5
+- Seite 5
 
 die Wahlvorsteherinnen und Wahlvorsteher, ihre Stellvertreterinnen und Stellvertreter und die weiteren
 drei bis sieben Mitglieder der Wahlvorstände für jeden Briefwahlbezirk von der Kreiswahlleiterin, dem
@@ -418,18 +392,12 @@ erfolgen. Die von den Gemeinden bisher schon aufgrund der Ermächtigungen in § 
 2.3.5 Die Mitglieder der Wahlvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme dieses Ehrenamtes ist jede und jeder Wahlberechtigte verpflichtet (§ 4 EuWG i. V. m. § 11 Satz 2 BWG). Das Ehrenamt
 darf nur unter den in § 9 EuWO genannten Voraussetzungen abgelehnt werden. Wahlberechtigte können
 demnach die Übernahme eines Wahlehrenamtes u. a. ablehnen, wenn sie
-–
+- am Wahltag das 67. Lebensjahr vollendet haben,
 
-am Wahltag das 67. Lebensjahr vollendet haben,
-
-–
-
-glaubhaft machen, dass ihnen die Fürsorge für ihre Familie die Ausübung des Amtes in besonderer
+- glaubhaft machen, dass ihnen die Fürsorge für ihre Familie die Ausübung des Amtes in besonderer
 Weise erschwert,
 
-–
-
-glaubhaft machen, dass sie aus dringenden beruflichen Gründen, durch Krankheit, Behinderung oder
+- glaubhaft machen, dass sie aus dringenden beruflichen Gründen, durch Krankheit, Behinderung oder
 aus einem sonstigen wichtigen Grund gehindert sind, das Amt ordnungsgemäß auszuüben.
 
 Wer ohne wichtigen Grund ein Wahlehrenamt ablehnt oder sich ohne genügende Entschuldigung den
@@ -586,15 +554,11 @@ seit mindestens drei Monaten (09.03.2024) in einem der übrigen Mitgliedstaaten 
 b)
 
 in einem anderen Staat außerhalb der Bundesrepublik Deutschland leben, sofern sie
-–
-
-nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland gewohnt haben oder sich sonst gewöhnlich aufgehalten haben und dieser
+- nach Vollendung ihres 14. Lebensjahres mindestens drei Monate ununterbrochen in der Bundesrepublik Deutschland gewohnt haben oder sich sonst gewöhnlich aufgehalten haben und dieser
 Aufenthalt nicht länger als 25 Jahre zurückliegt (§ 6 Abs. 2 EuWG i. V. m. § 12 Abs. 2 Nr. 1 BWG)
 oder
 
-–
-
-aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen
+- aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den politischen Verhältnissen
 in der Bundesrepublik Deutschland erworben haben und von ihnen betroffen sind
 (§ 6 Abs. 2 EuWG i. V. m. § 12 Abs. 2 Nr. 2 BWG).
 
@@ -663,18 +627,12 @@ Seite 10
 Eintragung von in Deutschland lebenden Deutschen auf Antrag
 
 In das Wählerverzeichnis sind auf Antrag einzutragen Wahlberechtigte, die
-–
-
-ohne eine Wohnung innezuhaben sich in der Bundesrepublik Deutschland (Wahlgebiet) aufhalten (das
+- ohne eine Wohnung innezuhaben sich in der Bundesrepublik Deutschland (Wahlgebiet) aufhalten (das
 gilt auch, wenn sie zwar eine Wohnung innehaben, ohne für diese gemeldet zu sein),
 
-–
+- in einem der übrigen Mitgliedstaaten der EU eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten oder
 
-in einem der übrigen Mitgliedstaaten der EU eine Wohnung innehaben oder sich sonst gewöhnlich aufhalten oder
-
-–
-
-sich in einer Justizvollzugsanstalt oder entsprechenden Einrichtung befinden und nicht nach § 15 Abs.
+- sich in einer Justizvollzugsanstalt oder entsprechenden Einrichtung befinden und nicht nach § 15 Abs.
 1 Nr. 4 EuWO von Amts wegen in das Wählerverzeichnis eingetragen sind (§ 27 Abs. 4 BMG).
 
 Für die Eintragung von Wahlberechtigten auf Antrag, die sich ohne eine Wohnung innezuhaben im Wahlgebiet sonst gewöhnlich aufhalten (§ 15 Abs. 2 Nr. 1 Buchst. b EuWO), ist die Gemeinde zuständig, bei der
@@ -1225,14 +1183,10 @@ Seite 20
 
 Wahlbriefe mit den ausgefüllten Briefwahlunterlagen (im hellroten Wahlbriefumschlag) darf der Wahlvorstand nicht entgegennehmen. Wahlberechtigte, die ihren Wahlbrief beim Wahlvorstand abgeben
 wollen, sind darauf hinzuweisen, dass sie
-–
-
-entweder den Wahlbrief bei der auf dem Umschlag genannten Anschrift bis 18.00 Uhr abgeben
+- entweder den Wahlbrief bei der auf dem Umschlag genannten Anschrift bis 18.00 Uhr abgeben
 können
 
-–
-
-oder, wenn der Wahlschein für denselben Landkreis, dieselbe kreisfreie Stadt oder die Region
+- oder, wenn der Wahlschein für denselben Landkreis, dieselbe kreisfreie Stadt oder die Region
 Hannover gültig ist, gegen Abgabe des Wahlscheins und nach Aushändigung eines neuen
 Stimmzettels im Wahlraum persönlich wählen können. Den bereits mit den Briefwahlunterlagen
 erhaltenen und ggf. bereits ausgefüllten Stimmzettel muss die Wählerin oder der Wähler im Beisein des Wahlvorstandes unter Wahrung des Wahlgeheimnisses unbrauchbar machen.
@@ -1270,43 +1224,29 @@ Die gesamte Ermittlung und Feststellung des Wahlergebnisses sind wie die Wahlhan
 des Wahlvorstandes zu verfolgen, sofern sie die Ermittlung und Feststellung des Wahlergebnisses nicht behindern oder stören. Dabei können auch Strichlisten oder Notizen über mögliche Unregelmäßigkeiten geführt
 werden.
 Vom Grundsatz der Öffentlichkeit der Wahl ist aber insbesondere Folgendes nicht gedeckt:
-–
-
-Störung und Beeinflussung der Auszählung. Die Mitglieder des Wahlvorstandes müssen sich frei um
+- Störung und Beeinflussung der Auszählung. Die Mitglieder des Wahlvorstandes müssen sich frei um
 den Auszählungstisch bewegen können. Darüber hinaus muss zu jeder Zeit sichergestellt sein, dass
 keine Wahlunterlagen vom Tisch entfernt oder hinzugefügt werden können. Fühlen sich die Mitglieder
 des Wahlvorstandes durch Wahlbeobachterinnen oder Wahlbeobachter behindert oder gestört, dürfen
 diese, je nach Gegebenheit und soweit keine besonderen Umstände vorliegen, einen Sicherheitsabstand zu den Mitgliedern des Wahlvorstandes während ihrer Tätigkeit an den Auszählungstischen von
 in der Regel ein bis zwei Metern anordnen. Bei dieser Anordnung ist sicherzustellen, dass die Beobachtung des Auszählungsvorgangs grundsätzlich möglich bleibt.
 
-–
-
-Störung der Mitglieder des Wahlvorstandes durch übermäßige Kommentierungen, Fragen etc. durch
+- Störung der Mitglieder des Wahlvorstandes durch übermäßige Kommentierungen, Fragen etc. durch
 Wahlbeobachterinnen oder Wahlbeobachter. Insbesondere ist die Einmischung in die Tätigkeit und Entscheidungen des Wahlvorstandes unzulässig und ggf. durch die Wahlvorsteherin oder den Wahlvorsteher zu unterbinden.
 
-–
-
-Einsicht in das Wählerverzeichnis und in die sonstigen Wahlunterlagen,
+- Einsicht in das Wählerverzeichnis und in die sonstigen Wahlunterlagen,
 
 Nds. MBl. 2024 Nr. 76 vom 14. Februar 2024
 
 Seite 21
 
-–
+- Abfrage von personenbezogenen Daten oder Auskünfte, wer gewählt oder nicht gewählt hat,
 
-Abfrage von personenbezogenen Daten oder Auskünfte, wer gewählt oder nicht gewählt hat,
+- Gefährdung des Wahlgeheimnisses (z. B. durch Anfassen von Wahlunterlagen oder Stimmzetteln),
 
-–
+- Forderung einer Nachzählung,
 
-Gefährdung des Wahlgeheimnisses (z. B. durch Anfassen von Wahlunterlagen oder Stimmzetteln),
-
-–
-
-Forderung einer Nachzählung,
-
-–
-
-private Film- und Fotoaufnahmen: diese sollten vom Wahlvorstand grundsätzlich unterbunden werden.
+- private Film- und Fotoaufnahmen: diese sollten vom Wahlvorstand grundsätzlich unterbunden werden.
 Jedenfalls aber sind gezielte Aufnahmen von Wählerinnen und Wählern oder Mitgliedern von Wahlvorständen, Stimmzetteln, Wahlunterlagen (Niederschrift, Schnellmeldung, Wählerverzeichnis etc.) im
 Hinblick auf die Persönlichkeitsrechte der betroffenen Personen, das Wahlgeheimnis und den Datenschutz (personenbezogene Daten) unzulässig.
 
@@ -1496,13 +1436,9 @@ Fristen und Termine
 
 Um die Beachtung der durch das EuWG, das BWG und die EuWO bestimmten Fristen und Termine zu
 erleichtern, sind als Anlagen beigefügt:
-–
+- Zeitliche Übersicht über den Ablauf der Europawahl (Anlage 2) und
 
-Zeitliche Übersicht über den Ablauf der Europawahl (Anlage 2) und
-
-–
-
-„Wahlkalender“ für den Zeitraum ab dem 83. Tag vor der Wahl (Anlage 3).
+- „Wahlkalender“ für den Zeitraum ab dem 83. Tag vor der Wahl (Anlage 3).
 
 20.
 
@@ -1573,18 +1509,12 @@ Willen der wählenden Person besteht.
 1.5
 
 Ungültig ist die Stimmabgabe in der Regel in folgenden Fällen:
-–
+- Der auf dem Stimmzettel vorgesehene Kreis hinter einem Wahlvorschlag ist zwar gekennzeichnet, der Name einzelner oder mehrerer Bewerberinnen oder Bewerber oder die Parteibezeichnung ist jedoch durchgestrichen.
 
-Der auf dem Stimmzettel vorgesehene Kreis hinter einem Wahlvorschlag ist zwar gekennzeichnet, der Name einzelner oder mehrerer Bewerberinnen oder Bewerber oder die Parteibezeichnung ist jedoch durchgestrichen.
-
-–
-
-Der Name einzelner oder mehrerer Bewerberinnen oder Bewerber ist durchgestrichen und die
+- Der Name einzelner oder mehrerer Bewerberinnen oder Bewerber ist durchgestrichen und die
 Parteibezeichnung unterstrichen oder umgekehrt.
 
-–
-
-Auf den Stimmzettel wurden Meinungskundgebungen geschrieben (z. B. „Guter Mann!“, „unter
+- Auf den Stimmzettel wurden Meinungskundgebungen geschrieben (z. B. „Guter Mann!“, „unter
 Protest!“).
 
 2.

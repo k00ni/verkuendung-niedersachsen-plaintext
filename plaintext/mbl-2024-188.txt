@@ -17,9 +17,7 @@ Das GAA Lüneburg hat der Firma Burfeindt-Tomforde Energieerzeugungs-GmbH & Co. 
 Biogasanlage am Anlagenstandort in 27446 Anderlingen, Krähenholzer Straße, Gemarkung Ohrel, Flur 2,
 Flurstücke 93/16 und 93/18, erteilt.
 Die Genehmigung erstreckt sich auf die folgenden Änderungen:
-–
-
-die Änderung der eingesetzten Inputstoffe:
+- die Änderung der eingesetzten Inputstoffe:
 Substrate
 
 Gesamtmenge in t/a
@@ -56,37 +54,21 @@ Input Gesamt:
 
 61 563
 
-–
+- die Erhöhung der jährlichen Biogasproduktion auf 12 Mio. Nm3,
 
-die Erhöhung der jährlichen Biogasproduktion auf 12 Mio. Nm3,
+- den Austausch des Feststoffeintrages 1 an Fermenter 2,
 
-–
+- die Umnutzung von Gärproduktlager 1 zum Nachgärer 2,
 
-den Austausch des Feststoffeintrages 1 an Fermenter 2,
+- die Errichtung von 3 weiteren Gärproduktlägern,
 
-–
+- die Errichtung eines offenen Schmutzwasserbehälters,
 
-die Umnutzung von Gärproduktlager 1 zum Nachgärer 2,
+- die Umnutzung von zwei Kammern der Silagelagerfläche zur Lagerfläche für Mist und separiertes Material,
 
-–
+- die teilweise Überdachung der Lagerfläche für Inputstoffe, wie Mist und separierte Güllefeststoffe,
 
-die Errichtung von 3 weiteren Gärproduktlägern,
-
-–
-
-die Errichtung eines offenen Schmutzwasserbehälters,
-
-–
-
-die Umnutzung von zwei Kammern der Silagelagerfläche zur Lagerfläche für Mist und separiertes Material,
-
-–
-
-die teilweise Überdachung der Lagerfläche für Inputstoffe, wie Mist und separierte Güllefeststoffe,
-
-–
-
-die Errichtung einer Maschinenhalle,
+- die Errichtung einer Maschinenhalle,
 
 Herausgeber: Niedersächsische Staatskanzlei
 
@@ -94,25 +76,15 @@ Nds. MBl. 2024 Nr. 188 vom 24. April 2024
 
 Seite 2
 
-–
+- die Installation einer Photovoltaikanlage zur Eigenstromversorgung auf beiden Hallendächern,
 
-die Installation einer Photovoltaikanlage zur Eigenstromversorgung auf beiden Hallendächern,
+- die Errichtung eines zweiten Separators,
 
-–
+- den Austausch der vorhandenen Notgasfackel,
 
-die Errichtung eines zweiten Separators,
+- die Erweiterung der Verkehrsflächen,
 
-–
-
-den Austausch der vorhandenen Notgasfackel,
-
-–
-
-die Erweiterung der Verkehrsflächen,
-
-–
-
-die Errichtung eines Löschwasserbehälters.
+- die Errichtung eines Löschwasserbehälters.
 
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
@@ -122,13 +94,9 @@ verfügbaren Techniken (BVT) gemäß der Richtlinie 2010/75/EU des Europäischen
 für die Abfallbehandlung (ABl. L 208/38 vom 17.8.2018, S. 1). Die aktuellen BVT-Merkblätter können im Internet beim Umweltbundesamt heruntergeladen werden.
 Der vollständige Bescheid und die genehmigten Antragsunterlagen können in der Zeit vom 25.04. bis
 einschließlich 10.05.2024 bei folgenden Stellen eingesehen werden:
-–
+- –
 
-–
-
-–
-
-Staatliches Gewerbeaufsichtsamt Lüneburg, Auf der Hude 2, 21339 Lüneburg, Zimmer 0.132, während
+- Staatliches Gewerbeaufsichtsamt Lüneburg, Auf der Hude 2, 21339 Lüneburg, Zimmer 0.132, während
 der Dienststunden,
 montags bis donnerstags in der Zeit von
 
@@ -173,9 +141,7 @@ aufgrund ihres Antrages vom 14.05.2022, zuletzt ergänzt am 13.03.2024, die Gene
 Änderung einer Biogasanlage erteilt.
 1. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die folgenden wesentlichen Maßnahmen:
-–
-
-die Änderung der eingesetzten Inputstoffe:
+- die Änderung der eingesetzten Inputstoffe:
 Substrate
 
 Gesamtmenge in t/a
@@ -212,57 +178,31 @@ Input Gesamt:
 
 61 563
 
-–
+- die Erhöhung der jährlichen Biogasproduktion auf 12 Mio. Nm3,
 
-die Erhöhung der jährlichen Biogasproduktion auf 12 Mio. Nm3,
+- den Austausch des Feststoffeintrages 1 an Fermenter 2,
 
-–
+- die Umnutzung von Gärproduktlager 1 zum Nachgärer 2,
 
-den Austausch des Feststoffeintrages 1 an Fermenter 2,
+- die Errichtung von 3 weiteren Gärproduktlägern,
 
-–
+- die Errichtung eines offenen Schmutzwasserbehälters,
 
-die Umnutzung von Gärproduktlager 1 zum Nachgärer 2,
+- die Umnutzung von zwei Kammern der Silagelagerfläche zur Lagerfläche für Mist und separiertes Material,
 
-–
+- die teilweise Überdachung der Lagerfläche für Inputstoffe, wie Mist und separierte Güllefeststoffe,
 
-die Errichtung von 3 weiteren Gärproduktlägern,
+- die Errichtung einer Maschinenhalle,
 
-–
+- die Installation einer Photovoltaikanlage zur Eigenstromversorgung auf beiden Hallendächern,
 
-die Errichtung eines offenen Schmutzwasserbehälters,
+- die Errichtung eines zweiten Separators,
 
-–
+- den Austausch der vorhandenen Notgasfackel,
 
-die Umnutzung von zwei Kammern der Silagelagerfläche zur Lagerfläche für Mist und separiertes Material,
+- die Erweiterung der Verkehrsflächen
 
-–
-
-die teilweise Überdachung der Lagerfläche für Inputstoffe, wie Mist und separierte Güllefeststoffe,
-
-–
-
-die Errichtung einer Maschinenhalle,
-
-–
-
-die Installation einer Photovoltaikanlage zur Eigenstromversorgung auf beiden Hallendächern,
-
-–
-
-die Errichtung eines zweiten Separators,
-
-–
-
-den Austausch der vorhandenen Notgasfackel,
-
-–
-
-die Erweiterung der Verkehrsflächen
-
-–
-
-die Errichtung eines Löschwasserbehälters.
+- die Errichtung eines Löschwasserbehälters.
 
 2. Standort der Anlage ist:
 Ort:
@@ -293,9 +233,7 @@ Seite 4
 
 3. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
-
-Baugenehmigung für die Errichtung aller baulichen Anlagen.
+- Baugenehmigung für die Errichtung aller baulichen Anlagen.
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Kostenentscheidung

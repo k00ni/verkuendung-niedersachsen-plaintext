@@ -252,14 +252,10 @@ einzureichen. In dem in Satz 1 genannten Zeitraum müssen die Maßnahmen von den
 7.4
 Verwendungsnachweise sind mit dem Auszahlungsantrag einzureichen. Die Verwendungsnachweise
 müssen bis zum jeweils festgesetzten Termin
-–
-
-für kofinanzierte EU-Maßnahmen nach Nummer 2.1 zeitnah nach Abschluss des Projektes, spätestens
+- für kofinanzierte EU-Maßnahmen nach Nummer 2.1 zeitnah nach Abschluss des Projektes, spätestens
 jedoch bis zum 30. Juni des betreffenden Jahres, und
 
-–
-
-für reine Landesmaßnahmen nach Nummer 2.2 bis zum 15. November des betreffenden Jahres
+- für reine Landesmaßnahmen nach Nummer 2.2 bis zum 15. November des betreffenden Jahres
 
 bei der LWK vorgelegt werden.
 
@@ -275,26 +271,18 @@ durch den Erstempfänger das Vorliegen der Bewilligungsvoraussetzungen bestätig
 
 Zuständig für die Auszahlung und Verbuchung der Zuwendung ist
 
-–
-
-für Maßnahmen nach Nummer 2.1 die EU-Zahlstelle Niedersachsen/Bremen/Hamburg (im Folgenden
+- für Maßnahmen nach Nummer 2.1 die EU-Zahlstelle Niedersachsen/Bremen/Hamburg (im Folgenden
 EU-Zahlstelle) und
 
-–
-
-für Maßnahmen nach Nummer 2.2 die LWK.
+- für Maßnahmen nach Nummer 2.2 die LWK.
 
 7.7
 
 Die Auszahlung der Zuwendung erfolgt
 
-–
+- bei Maßnahmen nach Nummer 2.1 durch die EU-Zahlstelle bis zum Ende des jeweiligen EU-Haushaltsjahres (15.10.) auf der Grundlage der in der Zeit vom 1. Juli des Vorjahres bis zum 30. Juni des laufenden Jahres nachgewiesenen Ausgaben und
 
-bei Maßnahmen nach Nummer 2.1 durch die EU-Zahlstelle bis zum Ende des jeweiligen EU-Haushaltsjahres (15.10.) auf der Grundlage der in der Zeit vom 1. Juli des Vorjahres bis zum 30. Juni des laufenden Jahres nachgewiesenen Ausgaben und
-
-–
-
-bei Maßnahmen nach Nummer 2.2 durch die LWK bis zum Ende des Kalenderjahres.
+- bei Maßnahmen nach Nummer 2.2 durch die LWK bis zum Ende des Kalenderjahres.
 
 7.8
 Die Erstempfänger nach Nummer 2.2 werden bei einer Weiterleitung der Zuwendung ermächtigt, die

@@ -16,9 +16,7 @@ Das GAA Braunschweig hat der Firma Kraftwerk Mehrum GmbH, Triftstraße 25, 31249
 Datum vom 29.05.2024 den Vorbescheid gemäß § 9 i. V. m. § 10 BImSchG für ein neues Gaskraftwerk am
 Standort Triftstraße 25, 31249 Hohenhameln erteilt.
 Der vollständige Bescheid und seine Begründung können in der Zeit vom 13.06. bis zum 27.06.2024 (einschließlich) bei den folgenden Stellen zu den angegebenen Zeiten nach vorheriger telefonischer Terminvereinbarung eingesehen werden:
-–
-
-Staatliches Gewerbeaufsichtsamt Braunschweig, Ludwig-Winter-Straße 2, 38120 Braunschweig,
+- Staatliches Gewerbeaufsichtsamt Braunschweig, Ludwig-Winter-Straße 2, 38120 Braunschweig,
 montags bis donnerstags in der Zeit von
 
 8.00 bis 15.30 Uhr,
@@ -28,9 +26,7 @@ freitags und an Tagen vor Feiertagen in der Zeit von
 8.00 bis 14.30 Uhr,
 
 Telefonnummer zur Terminvereinbarung: 0531 35476-0;
-–
-
-Gemeinde Hohenhameln, Marktstraße 13, 31249 Hohenhameln,
+- Gemeinde Hohenhameln, Marktstraße 13, 31249 Hohenhameln,
 montags, dienstags und mittwochs in der Zeit von
 
 7.30 bis 15.30 Uhr,
@@ -69,9 +65,7 @@ Der Firma Kraftwerk Mehrum GmbH, Triftstraße 25, 31249 Hohenhameln, wird aufgru
 vom 21.06.2023, zuletzt ergänzt am 11.01.2024, gemäß § 9 Abs. 1 BImSchG und § 1 der 4. BImSchV i. V. m.
 Nr. 1.1 EG des Anhangs 1 der 4. BImSchV der Vorbescheid für die Errichtung und den Betrieb eines Gaskraftwerks erteilt.
 Gegenstand des Vorbescheids:
-–
-
-Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas durch
+- Anlage zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas durch
 den Einsatz von Brennstoffen in einer Verbrennungsanlage (hier Gas- und Dampfturbinenkraftwerk
 [Var. 1] bzw. Gasturbinenkraftwerk [Var. 2]) einschließlich zugehöriger Dampfkessel, mit einer Feuerungswärmeleistung von bis zu 2 000 Megawatt (Var. 1) bzw. 2 640 Megawatt (Var. 2).
 Standort der Anlage wird sein:
@@ -99,58 +93,36 @@ im Einzelnen aufgeführten Antragsunterlagen zugrunde.
 3.
 Der Vorbescheid umfasst die vorläufige positive Gesamtbeurteilung für die Errichtung und Betrieb eines
 Gaskraftwerkes in den folgenden zwei Anlagenkonfigurationen:
-–
-
-Ein Gas- und Dampfturbinen-Kraftwerk (GuD-KW) mit einer Leistung von max. 1 200 MWel bzw. einer
+- Ein Gas- und Dampfturbinen-Kraftwerk (GuD-KW) mit einer Leistung von max. 1 200 MWel bzw. einer
 maximalen Feuerungswärmeleistung von 2 000 MW, bestehend aus einer Gasturbine, einem Abhitzedampferzeuger und einer Dampfturbine (Variante 1).
 
-–
-
-Ein Gasturbinenkraftwerk (GT-KW) bestehend aus zwei Gasturbinen mit einer Leistung von jeweils
+- Ein Gasturbinenkraftwerk (GT-KW) bestehend aus zwei Gasturbinen mit einer Leistung von jeweils
 max. 550 MWel bzw. einer maximalen Feuerungswärmeleistung von 2 640 MW (Variante 2).
 Umfang der beantragten, zu prüfenden Anlagenteile:
 
-–
+- Errichtung und Betrieb von Gasversorgungsanlagen (Betriebseinheit BE 1),
 
-Errichtung und Betrieb von Gasversorgungsanlagen (Betriebseinheit BE 1),
-
-–
-
-Errichtung und Betrieb einer erdgas- und/oder wasserstoffgefeuerten Gas- und Dampfturbinen-Anlage
+- Errichtung und Betrieb einer erdgas- und/oder wasserstoffgefeuerten Gas- und Dampfturbinen-Anlage
 (BE 2.1 im Fall von Variante 1),
 
-–
-
-Errichtung und Betrieb von zwei erdgas- und/oder wasserstoffgefeuerten Gasturbinenanlagen (BE 2.2
+- Errichtung und Betrieb von zwei erdgas- und/oder wasserstoffgefeuerten Gasturbinenanlagen (BE 2.2
 im Fall von Variante 2),
 
-–
+- Errichtung und Betrieb von Anlagen zur Wasserver- und entsorgung (BE 3),
 
-Errichtung und Betrieb von Anlagen zur Wasserver- und entsorgung (BE 3),
-
-–
-
-Errichtung und Betrieb einer Rückkühlanlage (BE 4), beinhaltend Sanierung und Betrieb des bis-her für
+- Errichtung und Betrieb einer Rückkühlanlage (BE 4), beinhaltend Sanierung und Betrieb des bis-her für
 den Kohleblock 3 genutzten Naturzugkühlturms und/oder Errichtung und Betrieb neuer Ventilator-Zellenkühltürme,
 
-–
+- Errichtung und Betrieb eines Hilfsdampfkessels (BE 5.1),
 
-Errichtung und Betrieb eines Hilfsdampfkessels (BE 5.1),
-
-–
-
-Errichtung und Betrieb einer Schwarzstartanlage bestehend aus Verbrennungsmotoren für Heizöl oder
+- Errichtung und Betrieb einer Schwarzstartanlage bestehend aus Verbrennungsmotoren für Heizöl oder
 Erdgas (BE 6),
 
-–
-
-Errichtung und Betrieb einer Heizölversorgung (BE 7) sowie
+- Errichtung und Betrieb einer Heizölversorgung (BE 7) sowie
 
 Nds. MBl. 2024 Nr. 266 vom 12. Juni 2024
 
-–
-
-Seite 3
+- Seite 3
 
 Anbindung dieser Neuanlagen an die vorhandenen Systeme der Elektroenergieversorgung und an
 sonstige bestehende Hilfs- und Nebeneinrichtungen des Kraftwerkstandortes Mehrum, wie z. B. das
@@ -158,28 +130,18 @@ Abwassernetz, das Regenwassernetz und die Feuerlöschsysteme.
 
 4.
 Der Vorbescheid erstreckt sich auf die vorläufige Feststellung des Vorliegens folgender Genehmigungsvoraussetzungen:
-–
+- Der Standort ist geeignet.
 
-Der Standort ist geeignet.
-
-–
-
-Schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen für die Allgemeinheit und die Nachbarschaft können nicht hervorgerufen werden (§ 5 Abs. 1
+- Schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen für die Allgemeinheit und die Nachbarschaft können nicht hervorgerufen werden (§ 5 Abs. 1
 Nr. 1 BImSchG).
 
-–
-
-Vorsorge gegen schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen wird getroffen, insbesondere durch die dem Stand der Technik entsprechenden
+- Vorsorge gegen schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen wird getroffen, insbesondere durch die dem Stand der Technik entsprechenden
 Maßnahmen (§ 5 Abs. 1 Nr. 2 BImSchG).
 
-–
-
-Abfälle werden vermieden, nicht zu vermeidende Abfälle werden verwertet und nicht zu verwertende
+- Abfälle werden vermieden, nicht zu vermeidende Abfälle werden verwertet und nicht zu verwertende
 Abfälle ohne Beeinträchtigung des Wohls der Allgemeinheit beseitigt (§ 5 Abs. 1 Nr. 3 BImSchG).
 
-–
-
-Andere öffentlich-rechtliche Vorschriften – mit Ausnahme der nicht beantragten Prüfung der wasserrechtlichen Vorschriften – und Belange des Arbeitsschutzes stehen der Errichtung und dem Betrieb der
+- Andere öffentlich-rechtliche Vorschriften – mit Ausnahme der nicht beantragten Prüfung der wasserrechtlichen Vorschriften – und Belange des Arbeitsschutzes stehen der Errichtung und dem Betrieb der
 Anlage nicht grundsätzlich entgegen (§ 6 Abs. 1 Nr. 2 BImSchG).
 
 5.

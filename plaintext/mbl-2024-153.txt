@@ -31,36 +31,24 @@ Patientinnen und Patienten und Gefährdung des Rettungsdienstpersonals durch gee
 und Form so erstellt werden, dass eine schnelle, sichere und der Situation angemessene Information für die
 Mitarbeiterinnen und Mitarbeiter gewährleistet ist. Dazu sind auch in vorzugebenden Intervallen entsprechende Schulungen der Anwender notwendig. Im Vergleich zu anderen Einrichtungen des Gesundheitswesens (Krankenhäuser, Arzt- und sonstige Praxen humanmedizinischer Heilberufe) bestehen für den Rettungsdienst, der auch als Bindeglied zwischen medizinischen Versorgern tätig wird, spezifische Anforderungen und
 Schwerpunkte:
-–
-
-zeitliche Dringlichkeit und hohe Priorität notfallmedizinischer Maßnahmen mit oft unbekanntem Keimbesiedlungs-, Infektions- und Immunstatus der zu versorgenden Patientinnen und Patienten (insbesondere
+- zeitliche Dringlichkeit und hohe Priorität notfallmedizinischer Maßnahmen mit oft unbekanntem Keimbesiedlungs-, Infektions- und Immunstatus der zu versorgenden Patientinnen und Patienten (insbesondere
 in der Notfallrettung),
 
-–
-
-Sicherstellungsauftrag mit Notwendigkeit, nach einem Patiententransport zügig durch die Leitstelle planbare Einsatzbereitschaft wiederherzustellen,
+- Sicherstellungsauftrag mit Notwendigkeit, nach einem Patiententransport zügig durch die Leitstelle planbare Einsatzbereitschaft wiederherzustellen,
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 153 vom 28. März 2024
 
 Seite 2
 
-–
-
-für die Mitarbeiterinnen und Mitarbeiter meist kurzfristige, oft wechselnde Patientenkontakte mit einer
+- für die Mitarbeiterinnen und Mitarbeiter meist kurzfristige, oft wechselnde Patientenkontakte mit einer
 Vielzahl von Einsatzsituationen und Erkrankungen/Verletzungen,
 
-–
+- oft unvorhergesehener Kontakt mit Blut und Körpersekreten von Patientinnen und Patienten,
 
-oft unvorhergesehener Kontakt mit Blut und Körpersekreten von Patientinnen und Patienten,
+- hohe Personalvariabilität mit sehr unterschiedlichen Kenntnissen und Erfahrungen in infektiologisch relevanten Einsatzsituationen,
 
-–
-
-hohe Personalvariabilität mit sehr unterschiedlichen Kenntnissen und Erfahrungen in infektiologisch relevanten Einsatzsituationen,
-
-–
-
-häufiges Handeln im öffentlichen Raum mit hoher Außenwirkung.
+- häufiges Handeln im öffentlichen Raum mit hoher Außenwirkung.
 
 Hygienepläne und Verfahren, die ihren originären Schwerpunkt in der klinischen Anwendung sehen, berücksichtigen diese Umstände nur mit geringerer Priorität.
 Unter ausdrücklichem Hinweis auf die grundsätzlichen Ausführungen in vielen verfügbaren Hygieneplänen
@@ -76,42 +64,24 @@ Die unter Nummer 2 folgenden Ausführungen richten sich vorrangig an die für di
 des Hygieneplans verantwortlichen Personen im Rettungsdienst. Sie bieten Hintergrundinformationen und erklären die Prinzipien, Merkmale und Systematik, die dieser rettungsdienstspezifischen Empfehlung zugrunde liegen. Es wird den Verantwortlichen damit eine Anleitung zu den notwendigen Entscheidungen und
 Vorbereitungen bei der Umsetzung der Empfehlung gegeben.
 Folgende Ziele sollen realisiert werden:
-–
+- eindeutige und gute Verständlichkeit zur schnellen Orientierung,
 
-eindeutige und gute Verständlichkeit zur schnellen Orientierung,
+- Sicherheit in der Anwendung,
 
-–
+- schnelles Wiederherstellen der Einsatzbereitschaft,
 
-Sicherheit in der Anwendung,
+- Standardisierung im Rettungsdienstbereich,
 
-–
-
-schnelles Wiederherstellen der Einsatzbereitschaft,
-
-–
-
-Standardisierung im Rettungsdienstbereich,
-
-–
-
-Anwendung von Schutz- und Hygienemaßnahmen nach aktuellem Stand der Wissenschaft.
+- Anwendung von Schutz- und Hygienemaßnahmen nach aktuellem Stand der Wissenschaft.
 Daher kommen in der Umsetzung folgende Prinzipien zur Anwendung:
 
-–
+- Reduzierung der Auswahlmöglichkeiten bei den Hygiene- und Schutzmaßnahmen (Ausrüstungen, Vorgehensweisen, Desinfektionsmittel) auf das Notwendige und Praktikable,
 
-Reduzierung der Auswahlmöglichkeiten bei den Hygiene- und Schutzmaßnahmen (Ausrüstungen, Vorgehensweisen, Desinfektionsmittel) auf das Notwendige und Praktikable,
+- Zusammenfassung von Maßnahmen,
 
-–
+- Verzicht auf allein historisch begründete, wissenschaftlich nicht belegte Vorgehensweisen,
 
-Zusammenfassung von Maßnahmen,
-
-–
-
-Verzicht auf allein historisch begründete, wissenschaftlich nicht belegte Vorgehensweisen,
-
-–
-
-Auswahl von Desinfektionsmitteln und -verfahren, die eine schnelle Wiedereinsatzbereitschaft der Rettungsmittel ermöglichen.
+- Auswahl von Desinfektionsmitteln und -verfahren, die eine schnelle Wiedereinsatzbereitschaft der Rettungsmittel ermöglichen.
 
 Tabelle 3 dieser Empfehlung bildet die „Farbcodierte Maßnahmentabelle für ausgewählte Infektionskrankheiten und -erreger“. Sie ordnet die in Kapitel 2 erläuterten Prinzipien den einzelnen Infektionskrankheiten und -erregern zu und soll für das Einsatzpersonal im Rettungsdienst die konkrete Vorgabe (Handlungsanweisung der Verantwortlichen) in der Einsatzsituation darstellen. Für die Rettungsleitstelle kann die Tabelle
 
@@ -127,17 +97,11 @@ den Desinfektionsmittelherstellern herausgegebenen Produktinformationen, Sicherh
 (GefStoffV) festzulegen und einzuhalten. Es sollen i. S. einer rationellen und sicheren Vorgehensweise möglichst wenige verschiedene Mittel, Konzentrationen und Einwirkzeiten zum Einsatz kommen. Dieses wird durch
 eine Zusammenfassung von Ansprüchen an die Wirkung des Desinfektionsmittels zu maximal drei Verfahrensvarianten erreicht.
 Als „Verfahren“ wird dabei die Kombination von Mittel, Konzentration, Einwirkzeit und Methode (Wischdesinfektion) bezeichnet. In dieser Empfehlung werden folgende drei Verfahren der Flächendesinfektion unterschieden:
-–
+- A = normaler Wirkungsanspruch 1) (bakterizid, levurozid, begrenzt viruzid),
 
-A = normaler Wirkungsanspruch 1) (bakterizid, levurozid, begrenzt viruzid),
+- B = hoher Wirkungsanspruch (zusätzlich: fungizid, mykobakterizid, viruzid),
 
-–
-
-B = hoher Wirkungsanspruch (zusätzlich: fungizid, mykobakterizid, viruzid),
-
-–
-
-C = höchster Wirkungsanspruch (zusätzlich: sporizid).
+- C = höchster Wirkungsanspruch (zusätzlich: sporizid).
 
 In Tabelle 1 sind die Wirkungsansprüche an Flächendesinfektionsmittel aufgeführt, die entsprechenden
 Prüfnormen benannt und den möglichen Verfahren A, B, C zugeordnet. Die Desinfektionsmittel mit der entsprechenden Konzentration und Einwirkzeit für die einzelnen Verfahren sind so zu wählen, dass die Desinfektion schnell, sicher, praktikabel und material-schonend erfolgt. Ferner ist zu gewährleisten, dass die Verfahren
@@ -290,28 +254,18 @@ Wirkungsanspruch
 C/höchster
 Wirkungsanspruch
 
-–
+- Verwendung aldehydfreier Desinfektionsmittel.
 
-Verwendung aldehydfreier Desinfektionsmittel.
+- Beachtung europäischer Normen.
 
-–
-
-Beachtung europäischer Normen.
-
-–
-
-Sicherung einer umfassenden Materialverträglichkeit, bescheinigt
+- Sicherung einer umfassenden Materialverträglichkeit, bescheinigt
 durch entsprechende Desinfektionsmittelfreigaben der Hersteller der
 zu desinfizierenden Gegenstände und Flächen oder der Desinfektionsmittelhersteller.
 
-–
-
-Die Mittel sollen möglichst keine Rückstände bilden (sog. „Aufziehverhalten“), die
+- Die Mittel sollen möglichst keine Rückstände bilden (sog. „Aufziehverhalten“), die
 ein intervallmäßiges Entfernen nötig machen.
 
-–
-
-Bei allen Flächendesinfektionsmaßnahmen sind anhand der herstellerseitigen
+- Bei allen Flächendesinfektionsmaßnahmen sind anhand der herstellerseitigen
 Sicherheitsdatenblätter und Betriebsanweisungen die umzusetzenden Maßnahmen des Arbeitsschutzes bzw. der GefStoffV festzulegen und einzuhalten.
 
 Erforderliches
@@ -403,9 +357,7 @@ Flächendesinfektion. Wiederverwendbare Wipe-Behältnisse sind gemäß den Herst
 Die Flächendesinfektion im Rettungsmittel wird ausschließlich in den Ausführungen „Kontaktflächendesinfektion“ und „Volldesinfektion“ umgesetzt. Indikationen für die jeweilige Ausführung und die bei der Ausführung
 zu beachtenden Hinweise sind unter den Nummern 2.3.1 und 2.3.2 aufgeführt.
 2.3.1 Kontaktflächendesinfektion
-–
-
-3)
+- 3)
 
 4)
 
@@ -428,77 +380,47 @@ Nds. MBl. 2024 Nr. 153 vom 28. März 2024
 
 Seite 6
 
-–
-
-bei Infektionstransporten (auch bei MRSA-, 3MRGN-, VRE-Besiedlung), bei denen eine umfangreiche
+- bei Infektionstransporten (auch bei MRSA-, 3MRGN-, VRE-Besiedlung), bei denen eine umfangreiche
 Flächenkontamination nicht gegeben oder anzunehmen ist.
 
-–
+- Je nach Erreger können Desinfektionsmittel und Konzentrationen der Verfahren A, B oder C zur Anwendung kommen, bei den weitaus meisten Indikationen das Verfahren A.
 
-Je nach Erreger können Desinfektionsmittel und Konzentrationen der Verfahren A, B oder C zur Anwendung kommen, bei den weitaus meisten Indikationen das Verfahren A.
-
-–
-
-Desinfiziert werden nur die Flächen bzw. Geräte, die durch Patientenkontakt oder Freisetzung von
+- Desinfiziert werden nur die Flächen bzw. Geräte, die durch Patientenkontakt oder Freisetzung von
 Biostoffen kontaminiert wurden oder kontaminiert sein könnten.
 
-–
+- Offensichtliche Kontaminationen (z. B. Sputumanhaftung nach Husten) werden sofort desinfizierend beseitigt, die routinemäßig erfolgende Schnelldesinfektion von Kontaktflächen erfolgt nach der Patientenübergabe direkt vor Ort.
 
-Offensichtliche Kontaminationen (z. B. Sputumanhaftung nach Husten) werden sofort desinfizierend beseitigt, die routinemäßig erfolgende Schnelldesinfektion von Kontaktflächen erfolgt nach der Patientenübergabe direkt vor Ort.
+- Die Kontaktflächendesinfektion erfolgt als Wischdesinfektion.
 
-–
-
-Die Kontaktflächendesinfektion erfolgt als Wischdesinfektion.
-
-–
-
-Die routinemäßig nach jeder Fahrt bzw. nach jedem Gebrauch zu desinfizierenden Flächen, Gegenstände und Geräte sind im Hygieneplan bzw. in einem Reinigungs- und Desinfektionsplan zu listen. Je
+- Die routinemäßig nach jeder Fahrt bzw. nach jedem Gebrauch zu desinfizierenden Flächen, Gegenstände und Geräte sind im Hygieneplan bzw. in einem Reinigungs- und Desinfektionsplan zu listen. Je
 nach Sachverhalt und Situation ist vor Ort zu entscheiden, ob darüber hinaus weitere Flächen zu desinfizieren sind.
 
-–
-
-Gemäß den Empfehlungen der KRINKO 7)und der VAH 8) können bei dieser Ausführung die desinfizierten
+- Gemäß den Empfehlungen der KRINKO 7)und der VAH 8) können bei dieser Ausführung die desinfizierten
 Flächen benutzt werden, sobald sie trocken sind. Ein Abwarten der Einwirkzeit ist im Rahmen der
 Kontaktflächendesinfektion nicht notwendig und soll daher unterbleiben!
 
 2.3.2 Volldesinfektion (Aufbereitung des gesamten Patientenraumes)
-–
-
-Die Durchführung erfolgt als Routinemaßnahme in festen Intervallen. Dabei ist ein vierwöchiges Intervall
+- Die Durchführung erfolgt als Routinemaßnahme in festen Intervallen. Dabei ist ein vierwöchiges Intervall
 unter der Voraussetzung als sachgerecht anzusehen, dass
-–
+- der Patientenraum regelmäßig gereinigt und
 
-der Patientenraum regelmäßig gereinigt und
+- die routinemäßige Kontaktflächendesinfektion nach jedem Einsatz gemäß Nummer 2.3.1 konsequent umgesetzt wird.
 
-–
+- Als Indikationsmaßnahme wird die Volldesinfektion bei Infektionstransporten mit besonderer Gefährdungslage und bei belegbarer Indikation durchgeführt.
 
-die routinemäßige Kontaktflächendesinfektion nach jedem Einsatz gemäß Nummer 2.3.1 konsequent umgesetzt wird.
-
-–
-
-Als Indikationsmaßnahme wird die Volldesinfektion bei Infektionstransporten mit besonderer Gefährdungslage und bei belegbarer Indikation durchgeführt.
-
-–
-
-Für jede dieser Indikationen sind entsprechende Festlegungen im Hygieneplan erforderlich (siehe auch
+- Für jede dieser Indikationen sind entsprechende Festlegungen im Hygieneplan erforderlich (siehe auch
 Tabelle 3).
 
-–
-
-Je nach Erreger können Desinfektionsmittel, Konzentrationen und Einwirkzeiten der Verfahren A, B oder
+- Je nach Erreger können Desinfektionsmittel, Konzentrationen und Einwirkzeiten der Verfahren A, B oder
 C zur Anwendung kommen. Je nach verwendetem Desinfektionsmittel ist es aber möglich, dass bei der
 Volldesinfektion nur zwei oder ein Verfahren angewandt werden.
 
-–
-
-Die Volldesinfektion wird im Gegensatz zur Kontaktflächendesinfektion an der Rettungswache durchgeführt, wobei das Fahrzeug erst nach Abwarten der Einwirkzeit (maximal 60 min, s. o.) wieder einsatzbereit
+- Die Volldesinfektion wird im Gegensatz zur Kontaktflächendesinfektion an der Rettungswache durchgeführt, wobei das Fahrzeug erst nach Abwarten der Einwirkzeit (maximal 60 min, s. o.) wieder einsatzbereit
 ist. Hierbei ist zu berücksichtigen, dass die Einwirkzeit und Konzentration sich nur dann an der RKI-Liste
 orientieren sollen, wenn die entsprechende Desinfektionsmaßnahme behördlich angeordnet wurde. Im
 Regelfall gelten stattdessen die jeweiligen Herstellervorgaben.
 
-–
-
-Die Volldesinfektion erfolgt als Wischdesinfektion. Die mechanische Reinigung ist hierbei wichtig! Eine
+- Die Volldesinfektion erfolgt als Wischdesinfektion. Die mechanische Reinigung ist hierbei wichtig! Eine
 Desinfektion durch Verneblung wird als Ersatz der Wischdesinfektion nicht akzeptiert 9). Von verschiedenen Methoden zur Volldesinfektion ist abzuraten.
 
 7)
@@ -516,51 +438,33 @@ Siehe VAH-Veröffentlichung (2017) „Fragen und Antworten zu Maßnahmen der Ant
 
 Nds. MBl. 2024 Nr. 153 vom 28. März 2024
 
-–
-
-Seite 7
+- Seite 7
 
 Es werden alle Flächen innerhalb des Patientenraumes einschließlich der eingebauten Schränke desinfiziert. Die zu desinfizierenden Flächen und Gegenstände sind im Hygieneplan bzw. im Reinigungs- und
 Desinfektionsplan zu listen.
 
 2.4 Schutzmaßnahmen
 Für den Einsatz von Schutzmaßnahmen gelten folgende Regeln und Prinzipien, die in der Tabelle 3 umgesetzt sind:
-–
-
-Vorgaben des Arbeitsschutzes zur persönlichen Schutzausrüstung (PSA) bei jedem Einsatz (z. B. Tragen
+- Vorgaben des Arbeitsschutzes zur persönlichen Schutzausrüstung (PSA) bei jedem Einsatz (z. B. Tragen
 von Handschuhen 10) bei jedem Patientenkontakt) und bei besonderem Risiko durch möglichen Kontakt
 mit Blut, Ausscheidungen, Sekreten, Aerosolen, insbesondere bei Verspritzen von Körperflüssigkeiten,
 sind grundsätzlich zu beachten. Hierzu gehören z. B. das Tragen einer Schutzbrille durch die Mitarbeiterinnen und Mitarbeiter, patientenseitig der Mund-Nasen-Schutz (MNS) – soweit toleriert – und ggf. „Heat
 and Moisture Exchanger” (sog. HME-Filter) bei Patientinnen und Patienten mit Tracheostoma. In Tabelle 3 werden diese Schutzmaßnahmen nur bei gegebener Indikation aufgrund der Infektionskrankheit
 bzw. der Erregereigenschaften aufgeführt.
 
-–
+- Es soll kein obligatorischer Gebrauch von Schutzkitteln bei jeder Fahrt erfolgen.
 
-Es soll kein obligatorischer Gebrauch von Schutzkitteln bei jeder Fahrt erfolgen.
+- Vorrangig sollen Kittel genutzt werden, wenn Schutzkleidung erforderlich ist.
 
-–
+- Tragen von Overalls ist nur „besonderen Einsatzfällen“ vorbehalten, dazu sollen Sets mit Overalls, FFP2Masken und Schutzbrillen bereitgehalten und verwendet werden.
 
-Vorrangig sollen Kittel genutzt werden, wenn Schutzkleidung erforderlich ist.
+- Infektiologische Indikationen für Schutzbrillen und FFP3-Masken sind selten gegeben (z. B. offene Tuberkulose).
 
-–
+- Nach den Erfahrungen in der COVID-19-Pandemie können FFP2-Masken gut bei Patientinnen und Patienten eingesetzt werden, ggf. MNS, wenn die FFP2-Maske nicht toleriert wird.
 
-Tragen von Overalls ist nur „besonderen Einsatzfällen“ vorbehalten, dazu sollen Sets mit Overalls, FFP2Masken und Schutzbrillen bereitgehalten und verwendet werden.
+- Zur Vereinfachung des Vorgehens wird kein Unterschied zwischen Tröpfchen- und aerogener Übertragung gemacht, und es werden die verschiedenen MRE (MRSA, MRGN, VRE) gemeinsam aufgeführt.
 
-–
-
-Infektiologische Indikationen für Schutzbrillen und FFP3-Masken sind selten gegeben (z. B. offene Tuberkulose).
-
-–
-
-Nach den Erfahrungen in der COVID-19-Pandemie können FFP2-Masken gut bei Patientinnen und Patienten eingesetzt werden, ggf. MNS, wenn die FFP2-Maske nicht toleriert wird.
-
-–
-
-Zur Vereinfachung des Vorgehens wird kein Unterschied zwischen Tröpfchen- und aerogener Übertragung gemacht, und es werden die verschiedenen MRE (MRSA, MRGN, VRE) gemeinsam aufgeführt.
-
-–
-
-Es besteht kein Bedarf für besondere Schutzmaßnahmen bei Patientinnen und Patienten mit Besiedlung
+- Es besteht kein Bedarf für besondere Schutzmaßnahmen bei Patientinnen und Patienten mit Besiedlung
 durch 2MRGN-Bakterien bzw. Bakterien, die ESBL produzieren.
 
 2.5 Besondere Hinweise zu Infektionsschutzmaßnahmen bei COVID-19 bzw. SARS-CoV-2 11)

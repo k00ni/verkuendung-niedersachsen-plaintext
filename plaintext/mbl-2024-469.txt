@@ -34,18 +34,14 @@ Gefördert werden können die zuwendungsfähigen Ausgaben, die der Umsetzung des
 genannten Zieles dienen, für Projekte zu Wissensaustausch und Informationsmaßnahmen sowie Forschungsund Entwicklungsprojekte im Agrar- und Forstsektor.
 3. Zuwendungsempfänger
 3.1
-–
-
-Zuwendungsempfänger können Institutionen und Organisationen sein,
+- Zuwendungsempfänger können Institutionen und Organisationen sein,
 die im Wissensaustausch tätig sind und Informationsmaßnahmen durchführen oder
 
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 469 vom 22. Oktober 2024
 
-–
-
-Seite 2
+- Seite 2
 
 die im Bereich Forschung und Entwicklung tätig sind und Forschungs- und Entwicklungsprojekte im
 Agrar- und Forstsektor durchführen.
@@ -58,32 +54,22 @@ die die Kriterien der Definition der Kleinstunternehmen sowie kleinen und mittle
 
 Von der Förderung ausgeschlossen sind:
 
-–
+- direkte Geldleistungen an in der landwirtschaftlichen Primärproduktion tätige Unternehmen;
 
-direkte Geldleistungen an in der landwirtschaftlichen Primärproduktion tätige Unternehmen;
-
-–
-
-Unternehmen in Schwierigkeiten gemäß Artikel 2 Nr. 59 AgrarGVO; dies gilt abweichend von Artikel 1
+- Unternehmen in Schwierigkeiten gemäß Artikel 2 Nr. 59 AgrarGVO; dies gilt abweichend von Artikel 1
 Abs. 5 Buchst. a AgrarGVO auch für Informationsmaßnahmen;
 
-–
-
-Unternehmen, über deren Vermögen ein Insolvenz-, Vergleichs-, Konkurs-, Sequestrations- oder ein
+- Unternehmen, über deren Vermögen ein Insolvenz-, Vergleichs-, Konkurs-, Sequestrations- oder ein
 Gesamtvollstreckungsverfahren beantragt oder eröffnet worden ist. Dasselbe gilt für Antragsteller, die
 zur Abgabe der Vermögensauskunft nach § 802 c ZPO oder § 284 AO verpflichtet sind oder bei denen
 diese abgenommen wurde. Handelt es sich bei dem Antragsteller um eine durch einen gesetzlichen
 Vertreter vertretene juristische Person, gilt dies, sofern den gesetzlichen Vertreter aufgrund seiner Verpflichtung als gesetzlicher Vertreter der juristischen Person die entsprechenden Verpflichtungen aus
 § 802 c ZPO oder § 284 AO treffen;
 
-–
-
-Unternehmen, die einer Rückforderungsanordnung auf Grund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer von demselben Mitgliedstaat gewährten Beihilfe und ihrer
+- Unternehmen, die einer Rückforderungsanordnung auf Grund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer von demselben Mitgliedstaat gewährten Beihilfe und ihrer
 Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind, und
 
-–
-
-Einrichtungen und Personenvereinigungen ohne eigene Rechtspersönlichkeit.
+- Einrichtungen und Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
 4. Art und Umfang, Höhe der Zuwendung
 4.1
@@ -100,25 +86,17 @@ für die Organisation und Durchführung von Veranstaltungen von Maßnahmen der B
 
 Zuwendungsfähig bei Forschungs- und Entwicklungsprojekten im Agrar- und Forstsektor sind:
 
-–
-
-Personalausgaben für Forscherinnen und Forscher, Technikerinnen und Techniker sowie sonstiges
+- Personalausgaben für Forscherinnen und Forscher, Technikerinnen und Techniker sowie sonstiges
 Personal, soweit diese für das Projekt eingesetzt werden;
 
-–
-
-Ausgaben für Instrumente und Ausrüstung, soweit und solange sie für das Projekt genutzt werden.
+- Ausgaben für Instrumente und Ausrüstung, soweit und solange sie für das Projekt genutzt werden.
 Wenn diese Instrumente und Ausrüstungen nicht während ihrer gesamten Nutzungsdauer für das Projekt verwendet werden, gilt nur die nach den Grundsätzen ordnungsgemäßer Buchführung ermittelte
 Wertminderung während der Dauer des Projektes als zuwendungsfähig;
 
-–
-
-Ausgaben für Auftragsforschung und für unter Einhaltung des Fremdvergleichsgrundsatzes von Dritten
+- Ausgaben für Auftragsforschung und für unter Einhaltung des Fremdvergleichsgrundsatzes von Dritten
 direkt oder in Lizenz erworbene Patente sowie Ausgaben für Beratung und gleichwertige Dienstleistungen, die ausschließlich für das Projekt genutzt werden, und
 
-–
-
-Ausgaben für Tests und Untersuchungen, für Material, Bedarfsmittel und dergleichen, die unmittelbar
+- Ausgaben für Tests und Untersuchungen, für Material, Bedarfsmittel und dergleichen, die unmittelbar
 durch das Projekt entstehen.
 
 Nds. MBl. 2024 Nr. 469 vom 22. Oktober 2024

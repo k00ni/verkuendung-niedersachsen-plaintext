@@ -21,44 +21,26 @@ Grundstücken in 26382 Wilhelmshaven, Gemarkung Rüstringen, Flur 35, Flurstück
 Sengwarden, Flur 19, Flurstücke 1/19, 1/17, 1/15, 1/11 (beides landseitig), und Gemarkung Nordsee, Jade,
 Flur 1, Flurstück 1 (seeseitig), erteilt.
 Gegenstand des Verfahrens waren im Wesentlichen die folgenden Maßnahmen:
-–
-
-der Betrieb einer Anlage zur Lagerung von tiefkaltem, verflüssigten Erdgas (Liquefied Natural Gas
+- der Betrieb einer Anlage zur Lagerung von tiefkaltem, verflüssigten Erdgas (Liquefied Natural Gas
 – LNG –) mit einem Füllvolumen von maximal 138 000 m³, entsprechend rd. 58 675 t, und
 
-–
-
-der Betrieb einer Dampfkesselanlage mit einer Feuerungswärmeleistung von maximal 102 MW auf einer
+- der Betrieb einer Dampfkesselanlage mit einer Feuerungswärmeleistung von maximal 102 MW auf einer
 FSRU sowie
 
-–
-
-Anlagenteile see- und landseitig
-–
-
-–
+- Anlagenteile see- und landseitig
+- –
 
 Gas-Transfersystem im Wesentlichen bestehend aus:
-–
+- Gasbalkon einschließlich Ausrüstung und Armaturen,
 
-Gasbalkon einschließlich Ausrüstung und Armaturen,
-
-–
-
-zwei flexiblen Steigleitungen zwischen Gasbalkon und den Pipeline End Manifolds
+- zwei flexiblen Steigleitungen zwischen Gasbalkon und den Pipeline End Manifolds
 („PLEMs“) am Meeresboden,
 
-–
+- zwei PLEMs auf dem Meeresboden,
 
-zwei PLEMs auf dem Meeresboden,
+- sechs Hochdruckleitungen aus thermoplastischen Verbundstoffen (TCPs),
 
-–
-
-sechs Hochdruckleitungen aus thermoplastischen Verbundstoffen (TCPs),
-
-–
-
-landseitige Rohrleitung (einschließlich Deichquerung) vom TCP-Anschlusspunkt bis zur
+- landseitige Rohrleitung (einschließlich Deichquerung) vom TCP-Anschlusspunkt bis zur
 Übergabestation ins Ferngasnetz der OGE;
 
 Mittelspannungsgebäude mit zwei EMSR-Containern (elektrische Mess-, Steuer- und Regeltechnik);
@@ -69,14 +51,10 @@ Nds. MBl. 2024 Nr. 419 vom 26. September 2024
 
 Seite 2
 
-–
-
-Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrichtungen wie HIPPS (High Integrity Pressure Protection System) und eine ESD-Armatur
+- Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrichtungen wie HIPPS (High Integrity Pressure Protection System) und eine ESD-Armatur
 „Emergency Shut Down (Notabschaltung)“;
 
-–
-
-weitere betriebsbezogene Nebenanlagen.
+- weitere betriebsbezogene Nebenanlagen.
 
 Der Betrieb der Anlage wird befristet erteilt.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
@@ -107,57 +85,35 @@ genehmigungsbedürftigen Anlagen zuzuordnen sind, insbesondere das Gastransfersy
 Dieser Bescheid erstreckt sich auf die Genehmigung insbesondere folgender wesentlicher Anlagenteile
 und Nebeneinrichtungen:
 Anlagenteile auf der FSRU
-–
+- LNG-Lager der FSRU mit einem Fassungsvermögen von max. 58 675 t
 
-LNG-Lager der FSRU mit einem Fassungsvermögen von max. 58 675 t
-
-–
-
-Dampfkesselanlage mit einer Feuerungswärmeleistung von 102 MW
+- Dampfkesselanlage mit einer Feuerungswärmeleistung von 102 MW
 
 Anlagenteile see- und landseitig
-–
-
-Gas-Transfersystem im Wesentlichen bestehend aus:
-–
-
-Gasbalkon inkl. Ausrüstung und Armaturen
+- Gas-Transfersystem im Wesentlichen bestehend aus:
+- Gasbalkon inkl. Ausrüstung und Armaturen
 
 Nds. MBl. 2024 Nr. 419 vom 26. September 2024
 
 Seite 3
 
-–
-
-zwei flexiblen Steigleitungen zwischen Gasbalkon und den Pipeline End Manifolds („PLEMs“) am
+- zwei flexiblen Steigleitungen zwischen Gasbalkon und den Pipeline End Manifolds („PLEMs“) am
 Meeresboden
 
-–
+- zwei PLEMs auf dem Meeresboden
 
-zwei PLEMs auf dem Meeresboden
+- sechs Hochdruckleitungen aus thermoplastischen Verbundstoffen (TCPs)
 
-–
-
-sechs Hochdruckleitungen aus thermoplastischen Verbundstoffen (TCPs)
-
-–
-
-landseitige Rohrleitung (inkl. Deichquerung) vom TCP-Anschlusspunkt bis zur Übergabestation
+- landseitige Rohrleitung (inkl. Deichquerung) vom TCP-Anschlusspunkt bis zur Übergabestation
 ins Ferngasnetz der OGE
 
-–
+- Mittelspannungsgebäude mit zwei EMSR-Containern (elektrische Mess-, Steuer- und Regeltechnik)
 
-Mittelspannungsgebäude mit zwei EMSR-Containern (elektrische Mess-, Steuer- und Regeltechnik)
-
-–
-
-Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrichtungen
+- Brandschutz- und sicherheitstechnische Einrichtungen sowie die prozessleittechnischen Einrichtungen
 wie HIPPS (High Integrity Pressure Protection System) und eine ESD-Armatur „Emergency Shut Down
 (Notabschaltung)“
 
-–
-
-weitere betriebsbezogene Nebenanlagen.
+- weitere betriebsbezogene Nebenanlagen.
 
 3. Befristung des Betriebs
 Der Betrieb der Anlage mit verflüssigtem Erdgas wird befristet bis zum Ende des sechsten Monats nach
@@ -192,71 +148,45 @@ Rüstringen
 Die im Formular „Inhaltsverzeichnis, Stand 06.09.2024, zum Antrag im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 5. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
+- Baugenehmigung nach § 70 Abs. 1 NBauO für die Errichtung und den Betrieb der landseitigen Fundamente und Gebäude
 
-Baugenehmigung nach § 70 Abs. 1 NBauO für die Errichtung und den Betrieb der landseitigen Fundamente und Gebäude
+- Wasserrechtliche Genehmigung gem. § 36 WHG i. V. m. § 57 Abs. 4 NWG zur Kreuzung des Gewässers III. Ordnung (Rhynschloot an der Straße „Am Tiefen Fahrwasser“) auf Höhe der bereits vorhandenen Trasse in Voslapper Groden Nord
 
-–
+- Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die FSRU als Anlage im Küstenmeer
 
-Wasserrechtliche Genehmigung gem. § 36 WHG i. V. m. § 57 Abs. 4 NWG zur Kreuzung des Gewässers III. Ordnung (Rhynschloot an der Straße „Am Tiefen Fahrwasser“) auf Höhe der bereits vorhandenen Trasse in Voslapper Groden Nord
-
-–
-
-Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die FSRU als Anlage im Küstenmeer
-
-–
-
-Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die seeseitigen Anlagenteile,
+- Wasserrechtliche Erlaubnis nach § 36 WHG, § 83 i. V. m. § 57 NWG für die seeseitigen Anlagenteile,
 insbesondere die TCPs und PLEMs als Anlage im Küstenmeer
 
-–
-
-Deichrechtliche Ausnahmegenehmigung für die Kreuzung des Hauptdeiches durch sechs temporäre
+- Deichrechtliche Ausnahmegenehmigung für die Kreuzung des Hauptdeiches durch sechs temporäre
 TCPs nach § 14 ff. NDG
 
 Nds. MBl. 2024 Nr. 419 vom 26. September 2024
 
 Seite 4
 
-–
+- Strom- und schifffahrtspolizeiliche Genehmigung nach § 31 Abs. 1 WaStrG für die Verlegung und Nutzung der seeseitigen Infrastruktur (TCPs, PLEMs, Riser) in der Jade
 
-Strom- und schifffahrtspolizeiliche Genehmigung nach § 31 Abs. 1 WaStrG für die Verlegung und Nutzung der seeseitigen Infrastruktur (TCPs, PLEMs, Riser) in der Jade
-
-–
-
-Naturschutzrechtliche Genehmigung eines Eingriffes nach § 17 Abs. 3 BNatSchG für die Beseitigung
+- Naturschutzrechtliche Genehmigung eines Eingriffes nach § 17 Abs. 3 BNatSchG für die Beseitigung
 von insgesamt 164 m² Ufersaumgehölzen
 
-–
-
-Naturschutzrechtliche Ausnahmegenehmigung nach § 30 Abs. 3 BNatSchG von den Verboten des § 30
+- Naturschutzrechtliche Ausnahmegenehmigung nach § 30 Abs. 3 BNatSchG von den Verboten des § 30
 Abs. 2 BNatSchG für die erhebliche Beeinträchtigung der nach § 30 BNatSchG geschützten Biotoptypen
 auf einer Fläche von 7 985 m² (mesophiles Grünland und sonstiger Sandtrockenrasen)
 
-–
-
-Artenschutzrechtliche Ausnahme von den Verboten des § 39 Abs. 5 BNatSchG für den regelmäßigen
+- Artenschutzrechtliche Ausnahme von den Verboten des § 39 Abs. 5 BNatSchG für den regelmäßigen
 Rückschnitt von Röhricht im Wirkbereich der Baumaßnahmen sowie eine Ausnahme im Sinne des § 45
 Abs. 7 BNatSchG für zeitlich begrenzte Störungen durch saisonale Vergrämungsmaßnahmen im Bereich der Baueinrichtungsflächen, des Baufeldes und der Zuwegungen (Störung potentieller Brutvögel
 Feldlerche, Wiesenpieper, Blässhuhn)
 
-–
-
-Vorsorgliche Artenschutzrechtliche Ausnahme nach § 45 Abs. 7 BNatSchG für eine mögliche Störung
+- Vorsorgliche Artenschutzrechtliche Ausnahme nach § 45 Abs. 7 BNatSchG für eine mögliche Störung
 des Schweinswals durch den hörbaren Betriebsschall und den Ultraschall des Antifouling-Systems.
 
-–
-
-Naturschutzrechtliche Befreiung nach § 67 Abs. 1 und 3 BNatSchG von den Bestimmungen des § 30
+- Naturschutzrechtliche Befreiung nach § 67 Abs. 1 und 3 BNatSchG von den Bestimmungen des § 30
 Abs. 2 Nr. 6 BNatSchG für die erhebliche Beeinträchtigung des gesetzlich geschützten Biotopes „Küstenwatt ohne Vegetation höherer Pflanzen“ (KWK)
 
-–
+- Naturschutzrechtliche Befreiung von den Verboten der Schutzgebietsverordnung des Naturschutzgebiets (NSG) Voslapper Groden-Nord für die Umsetzung der Maßnahmen Kabelzug (zeitweises Aufstellen einer Winde innerhalb des NSG) und Fackeleinsatz (Hineinwirken in das NSG)
 
-Naturschutzrechtliche Befreiung von den Verboten der Schutzgebietsverordnung des Naturschutzgebiets (NSG) Voslapper Groden-Nord für die Umsetzung der Maßnahmen Kabelzug (zeitweises Aufstellen einer Winde innerhalb des NSG) und Fackeleinsatz (Hineinwirken in das NSG)
-
-–
-
-Genehmigung nach § 4 Abs. 1 TEHG zur Freisetzung von Treibhausgasen durch eine Tätigkeit nach
+- Genehmigung nach § 4 Abs. 1 TEHG zur Freisetzung von Treibhausgasen durch eine Tätigkeit nach
 Anhang 1 Teil 2 Nummer 2 TEHG. Die Anlage wird unter dem Az. 14310-2033 bei der Deutschen Emissionshandelsstelle (DEHSt) geführt
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13

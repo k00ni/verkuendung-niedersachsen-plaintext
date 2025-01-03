@@ -262,21 +262,15 @@ die Ermittlung dieses geldwerten Vorteils gelten die steuerrechtlichen Vorschrif
 15.2
 Soll der geldwerte Vorteil anhand eines Fahrtenbuches ermittelt werden, muss es sich um ein „ordnungsgemäßes“ Fahrtenbuch i. S. der steuerlichen Regelungen handeln. Ein solches liegt vor, wenn die
 dienstlich und privat zurückgelegten Fahrtstrecken gesondert und laufend eingetragen werden und das Fahrtenbuch zeitnah und in geschlossener Form geführt wird. Für dienstliche Fahrten sind mindestens die folgenden Angaben erforderlich:
-–
-
-Datum und Kilometerstand zu Beginn und am Ende jeder einzelnen Auswärtstätigkeit (Auswärtstätigkeit
+- Datum und Kilometerstand zu Beginn und am Ende jeder einzelnen Auswärtstätigkeit (Auswärtstätigkeit
 ist jede berufliche Tätigkeit außerhalb der regelmäßigen erster Tätigkeitsstätte, also auch Tätigkeiten
 innerhalb einer Gemeinde),
 
 Nds. MBl. 2024 Nr. 629 vom 17. Dezember 2024
 
-–
+- Reiseziel (genaue Adresse) und bei Umwegen auch die Reiseroute,
 
-Reiseziel (genaue Adresse) und bei Umwegen auch die Reiseroute,
-
-–
-
-Reisezweck und aufgesuchte Gesprächspartnerinnen und/oder Gesprächspartner.
+- Reisezweck und aufgesuchte Gesprächspartnerinnen und/oder Gesprächspartner.
 
 Seite 6
 
@@ -436,21 +430,15 @@ Entschädigung bei Benutzung durch nicht zur Landesverwaltung gehörende Diensts
 und bei Privatfahrten einschließlich Fahrten zwischen Wohnung und Dienststätte
 Soweit nichts Abweichendes vereinbart wird, sind durch die Dienststelle, bei der das Dienstkraftfahrzeug
 gehalten wird, je gefahrenen Kilometer zu erheben:
-–
-
-für Pkw bis 75 kW Motorleistung und Transporter
+- für Pkw bis 75 kW Motorleistung und Transporter
 
 0,30 EUR,
 
-–
-
-für Pkw über 75 kW bis 110 kW Motorleistung
+- für Pkw über 75 kW bis 110 kW Motorleistung
 
 0,35 EUR,
 
-–
-
-für Pkw über 110 kW Motorleistung
+- für Pkw über 110 kW Motorleistung
 
 0,46 EUR.
 

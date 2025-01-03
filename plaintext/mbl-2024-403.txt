@@ -47,13 +47,9 @@ Seite 2
 
 Je eine Ausfertigung des Planfeststellungsbeschlusses liegt zusammen mit einer Ausfertigung der festgestellten Planunterlagen als zusätzliches Informationsangebot gemäß § 3 Abs. 2 PlanSiG in der Zeit vom 25.09.
 bis 09.10.2024 (jeweils einschließlich) wie folgt aus:
-–
+- –
 
-–
-
-–
-
-Stadt Borkum, Rathaus (Ordnungsabteilung, Zimmer 6), Neue Straße 1, 26757 Borkum, während der
+- Stadt Borkum, Rathaus (Ordnungsabteilung, Zimmer 6), Neue Straße 1, 26757 Borkum, während der
 Öffnungszeiten,
 montags bis freitags in der Zeit von
 
@@ -80,9 +76,7 @@ montags bis donnerstags in der Zeit von
 15.00 bis 16.00 Uhr,
 
 freitags in der Zeit von
-–
-
-9.00 bis 12.00 Uhr;
+- 9.00 bis 12.00 Uhr;
 
 Gemeinde Krummhörn, Rathaus, Zimmer Nr. 3.09, Rathausstraße 2, 26736 Krummhörn, während der
 Öffnungszeiten,
@@ -116,33 +110,21 @@ Anlage
 Teil A: Verfügender Teil
 1. Tenor
 Der von der Firma ONE-Dyas B.V., Parnassusweg 815,1082 LZ Amsterdam eingereichte Rahmenbetriebsplan für das Vorhaben „Richtbohrungen von der Plattform N05-A in den deutschen Sektor der Nordsee einschließlich der Erdgasförderung im deutschen Hoheitsgebiet“ für dessen Zulassung ein Planfeststellungsverfahren gem. § 57 a Bundesberggesetz (BBergG) durchzuführen war, wird
-–
+- unter Berücksichtigung der bergrechtlichen Voraussetzungen für die Zulassung eines Rahmenbetriebsplanes aufgrund der §§ 48 Abs. 2 und 55 BBergG,
 
-unter Berücksichtigung der bergrechtlichen Voraussetzungen für die Zulassung eines Rahmenbetriebsplanes aufgrund der §§ 48 Abs. 2 und 55 BBergG,
+- nach Maßgabe der für die nach § 57 a Abs. 4 Satz 1 BBergG eingeschlossenen Entscheidungen geltenden Vorschriften,
 
-–
-
-nach Maßgabe der für die nach § 57 a Abs. 4 Satz 1 BBergG eingeschlossenen Entscheidungen geltenden Vorschriften,
-
-–
-
-nach Prüfung aller Einwendungsgründe und der von den Fachbehörden, Trägern öffentlicher Belange
+- nach Prüfung aller Einwendungsgründe und der von den Fachbehörden, Trägern öffentlicher Belange
 sowie den anerkannten Naturschutzvereinigungen abgegebenen Stellungnahmen und
 
-–
-
-unter Berücksichtigung des Ergebnisses der durchgeführten Umweltverträglichkeitsprüfung
+- unter Berücksichtigung des Ergebnisses der durchgeführten Umweltverträglichkeitsprüfung
 gem. § 52 Abs. 2 b BBergG unter Aufnahme von Nebenbestimmungen und Vorbehalten zugelassen.
 Die in diesem Planfeststellungsbeschluss zugelassen Vorhaben umfassen:
 
-–
-
-Projektbestandteil Bohrungen:
+- Projektbestandteil Bohrungen:
 Explorationsbohrungen und Produktionsbohrungen sowie zusätzliche Ablenkungen aus diesen Bohrungen von der Plattform N05-A in den sich auf deutschem Hoheitsgebiet befindlichen Teil des Erdgasfeldes N05-A, sowie in die sich auf deutschem Hoheitsgebiet befindlichen Teile der potenziellen Erdgasvorkommen N05-A Noord, N05-A Südost und Diamant.
 
-–
-
-Projektbestandteil Erdgasförderung:
+- Projektbestandteil Erdgasförderung:
 Förderung von Erdgas aus den sich auf deutschem Hoheitsgebiet befindlichen Teil des Erdgasfeldes
 N05-A, sowie Förderung von Erdgas aus den sich auf deutschem Hoheitsgebiet befindlichen Teilen der
 möglichen Erdgasfelder N05-A Noord, N05-A Südost und Diamant.

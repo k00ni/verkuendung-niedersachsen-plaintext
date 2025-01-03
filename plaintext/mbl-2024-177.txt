@@ -19,9 +19,7 @@ Gegenstand der Änderung war die Errichtung und der Betrieb einer H2GT-Anlage (B
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 24.04. bis einschließlich 07.05.2024 bei den folgenden Stellen eingesehen werden:
-–
-
-–
+- –
 
 Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 433,
 während der Dienststunden,
@@ -81,26 +79,16 @@ durch die Errichtung und den Betrieb einer industriellen Wasserstoff-Gasturbinen
 Gegenstand der Genehmigung
 Die neue H2GT-Anlage (Block E) als neue Teilanlage am Standort Gaskraftwerk Emsland gliedert sich in
 die drei neuen Betriebseinheiten:
-–
+- H2-Gasturbine und Generator (BE061),
 
-H2-Gasturbine und Generator (BE061),
+- Nebenanlagen (BE062) und
 
-–
-
-Nebenanlagen (BE062) und
-
-–
-
-Abgaskamin (BE063)
+- Abgaskamin (BE063)
 sowie in die zwei übergeordneten Betriebseinheiten
 
-–
+- Brennstoffversorgung (BE001/ 050) und
 
-Brennstoffversorgung (BE001/ 050) und
-
-–
-
-Wasserver- und Abwasserentsorgung (BE002).
+- Wasserver- und Abwasserentsorgung (BE002).
 
 Die genehmigte Feuerungswärmeleistung des Gaskraftwerkes Emsland von 4 026,9 MWth erhöht sich um
 circa 87 MWth. Es wird eine jährliche Betriebsdauer von maximal 1 500 Stunden genehmigt. Der Betrieb soll
@@ -129,18 +117,12 @@ Flurstücke:
 Die im Formular „Inhaltsverzeichnis“ des Antrags im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
+- die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
 
-die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
-
-–
-
-die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.1 Unterschreitung der Abstände der Gebäude untereinander auf demselben Grundstück)
+- die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.1 Unterschreitung der Abstände der Gebäude untereinander auf demselben Grundstück)
 wird gemäß § 66 NBauO zugelassen.
 
-–
-
-die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.2 Alarmierungseinrichtung, die sowohl beim Ereignis „Brand“, als auch beim Ereignis „Gaswarnung“ alarmiert) wird gemäß § 66 NBauO zugelassen.
+- die im Kapitel 12.6.4 (Brandschutzkonzept vom 23.05.2023) für das Bauvorhaben beantragte Abweichung (6.2 Alarmierungseinrichtung, die sowohl beim Ereignis „Brand“, als auch beim Ereignis „Gaswarnung“ alarmiert) wird gemäß § 66 NBauO zugelassen.
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
 BImSchG nicht von der Genehmigung eingeschlossen werden.

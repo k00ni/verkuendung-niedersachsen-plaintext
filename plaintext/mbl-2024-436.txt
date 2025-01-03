@@ -20,9 +20,7 @@ von zwei zusätzlichen Stationen.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 10.10. bis einschließlich 23.10.2024 bei folgenden Stellen eingesehen werden:
-–
-
-Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
+- Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
 während der Dienststunden,
 montags bis donnerstags in der Zeit von
 
@@ -33,9 +31,7 @@ freitags in der Zeit von
 7.30 bis 12.00 Uhr
 
 sowie zusätzlich nach vorheriger telefonischer Anmeldung;
-–
-
-Gemeinde Bakum (Zimmer 16), Kirchstraße 3, 49456 Bakum, während der Dienststunden,
+- Gemeinde Bakum (Zimmer 16), Kirchstraße 3, 49456 Bakum, während der Dienststunden,
 montags bis mittwochs in der Zeit von
 
 8.00 bis 12.00 Uhr und
@@ -69,17 +65,11 @@ Tenor
 Der Firma Biogas Mühlendamm I GmbH & Co. KG, Mühlendamm 2, 49456 Bakum, wird aufgrund ihres
 Antrages vom 30.10.2023, letztmalig ergänzt mit Schreiben vom 11.01.2024, die Genehmigung zur wesentlichen Änderung einer Biogasanlage erteilt.
 Die Genehmigung umfasst folgende Maßnahmen:
-–
+- Substratmanagement: Neuausrichtung der Art und Menge der Inputmaterialien,
 
-Substratmanagement: Neuausrichtung der Art und Menge der Inputmaterialien,
+- Behälterzubau: Errichtung von zwei Behältern mit Tragluftdachabdeckung (Gärrestspeicher),
 
-–
-
-Behälterzubau: Errichtung von zwei Behältern mit Tragluftdachabdeckung (Gärrestspeicher),
-
-–
-
-Gasreinigung und -verdichtung: Errichtung von zwei zusätzlichen Stationen.
+- Gasreinigung und -verdichtung: Errichtung von zwei zusätzlichen Stationen.
 
 2. Standort der Anlage ist:
 Ort:
@@ -106,9 +96,7 @@ Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunter
 Genehmigungsbescheides und liegen diesem zugrunde.
 4. Konzentrationswirkung
 Diese Genehmigung schließt die
-–
-
-Baugenehmigung nach § 70 der Niedersächsischer Bauordnung (NBauO),
+- Baugenehmigung nach § 70 der Niedersächsischer Bauordnung (NBauO),
 
 mit ein. Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13
 BImSchG nicht von der Genehmigung eingeschlossen werden.

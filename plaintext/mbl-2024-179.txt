@@ -89,23 +89,17 @@ Verordnung (EU) 2021/2115 und deren nationale Umsetzung im Rahmen des GAPKondG.
 2.4
 Von der Förderung im Rahmen dieser Richtlinie ausgeschlossen sind zur Vermeidung von Doppelfinanzierung:
 2.4.1 Maßnahmen zum Gelege- und Kükenschutz,
-–
-
-die in Gebieten während des Zeitraumes der über die ELER-Fördermaßnahme Spezieller Artenund Biotopschutz (SAB) geförderten Gebietsbetreuung des Wiesenvogelschutzes durchgeführt
+- die in Gebieten während des Zeitraumes der über die ELER-Fördermaßnahme Spezieller Artenund Biotopschutz (SAB) geförderten Gebietsbetreuung des Wiesenvogelschutzes durchgeführt
 werden,
 
 Nds. MBl. 2024 Nr. 179 vom 18. April 2024
 
 Seite 3
 
-–
-
-die bereits über andere Fördermaßnahmen, insbesondere Erschwernisausgleich Dauergrünland
+- die bereits über andere Fördermaßnahmen, insbesondere Erschwernisausgleich Dauergrünland
 sowie Agrarumwelt- und Klimamaßnahmen (AUKM), ausgeglichen werden,
 
-–
-
-auf öffentlichen Flächen, sofern in den Pachtverträgen wiesenvogelgerechte Auflagen bereits
+- auf öffentlichen Flächen, sofern in den Pachtverträgen wiesenvogelgerechte Auflagen bereits
 enthalten sind;
 
 2.4.2 administrative Ausgaben einer Kooperative einschließlich der Ausgaben für die Gebietsbetreuung im
@@ -124,25 +118,17 @@ landwirtschaftlichen Betriebe im Rahmen des Modellprojekts.
 
 Nicht gefördert werden Unternehmen,
 
-–
-
-die nicht die Voraussetzungen als Kleinstunternehmen sowie kleine und mittlere Unternehmen (KMU)
+- die nicht die Voraussetzungen als Kleinstunternehmen sowie kleine und mittlere Unternehmen (KMU)
 gemäß Anhang I der Verordnung (EU) 2022/2472 der Kommission vom 14. Dezember 2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen
 Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 327 vom 21.12.2022, S. 1), geändert durch Verordnung (EU)
 2023/2607 der Kommission vom 22. November 2023 (ABl. L, 2023/2607, 23.11.2023), erfüllen,
 
-–
+- die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind,
 
-die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind,
-
-–
-
-bei denen es sich um Unternehmen in Schwierigkeiten gemäß der Definition in Randnummer 33 Nr. 63
+- bei denen es sich um Unternehmen in Schwierigkeiten gemäß der Definition in Randnummer 33 Nr. 63
 der Rahmenregelung handelt,
 
-–
-
-die für betreffende Maßnahmen bereits von Dritten Zahlungen erhalten.
+- die für betreffende Maßnahmen bereits von Dritten Zahlungen erhalten.
 
 4. Zuwendungsvoraussetzungen
 4.1
@@ -176,17 +162,11 @@ von 50 % der nach Nummer 1 der Anlage errechneten Beträge auszugleichen.
 liegt, in dem der Bodenrichtwert für Grünland mindestens 30 % über dem aktuellen Medianwert der Bodenrichtwerte für Grünland der niedersächsischen Landkreise liegt. Gibt es für den Landkreis keinen Bodenrichtwert für Grünland, so ist auf den Bodenrichtwert für Acker und den Medianwert der Bodenrichtwerte für Acker
 abzustellen.
 5.3.2 Die Ermittlung, ob betrieblich bedingte überdurchschnittliche Nachteile vorliegen, erfolgt gemäß Nummer 2 der Anlage unter Berücksichtigung:
-–
+- der Besatzstärke mit raufutterfressendem Großvieh,
 
-der Besatzstärke mit raufutterfressendem Großvieh,
+- des Anteils von Dauergrünland an der landwirtschaftlich genutzten Fläche und
 
-–
-
-des Anteils von Dauergrünland an der landwirtschaftlich genutzten Fläche und
-
-–
-
-des Anteils der von Bewirtschaftungsbeschränkungen betroffenen Dauergrünlandflächen an der landwirtschaftlich genutzten Fläche.
+- des Anteils der von Bewirtschaftungsbeschränkungen betroffenen Dauergrünlandflächen an der landwirtschaftlich genutzten Fläche.
 
 5.4
 

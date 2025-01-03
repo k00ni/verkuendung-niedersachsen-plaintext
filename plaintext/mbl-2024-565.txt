@@ -58,18 +58,12 @@ Der Schwellenwert ist erreicht bei
 
 2.
 
-–
+- Händlern von Edelmetallen bei Bartransaktionen ab 2 000 EUR;
 
-Händlern von Edelmetallen bei Bartransaktionen ab 2 000 EUR;
-
-–
-
-Güterhändlern, die Kunstgegenstände veräußern, bei Transaktionen (bar sowie unbar)
+- Güterhändlern, die Kunstgegenstände veräußern, bei Transaktionen (bar sowie unbar)
 ab 10 000 EUR und
 
-–
-
-allen anderen unter Buchstabe a genannten Güterhändlern bei Bartransaktionen ab
+- allen anderen unter Buchstabe a genannten Güterhändlern bei Bartransaktionen ab
 10 000 EUR.
 
 Kunstvermittler und Kunstlagerhalter, soweit die Lagerhaltung in Zollfreigebieten erfolgt, nach den §§ 2
@@ -185,23 +179,15 @@ Geschäftsführung) vor. In kleineren Einheiten kann die Gefahr eines Informatio
 verursachen würde. Eine Stichtagsregelung zur Ermittlung der Mitarbeiterzahl wurde aus Gründen der Praktikabilität und Rechtssicherheit für die Unternehmen gewählt.
 Des Weiteren ist unter Risikogesichtspunkten die Bestellung eines Geldwäschebeauftragten nicht erforderlich, wenn Unternehmen nach § 4 Abs. 5 GwG nicht über ein förmliches Risikomanagement verfügen müssen
 (vgl. Nummer 1/2 d). Dies sind:
-–
+- Unternehmen, die mit Kunstgegenständen handeln, jedoch keine Transaktionen im Wert von mindestens 10 000 EUR oder mehr (bar oder unbar) durchführen,
 
-Unternehmen, die mit Kunstgegenständen handeln, jedoch keine Transaktionen im Wert von mindestens 10 000 EUR oder mehr (bar oder unbar) durchführen,
-
-–
-
-Unternehmen, die mit Edelmetallen wie Gold, Silber oder Platin handeln, jedoch keine Barzahlungen
+- Unternehmen, die mit Edelmetallen wie Gold, Silber oder Platin handeln, jedoch keine Barzahlungen
 über mindestens 2 000 EUR oder mehr entgegennehmen oder tätigen,
 
-–
-
-Unternehmen, die mit sonstigen hochwertigen Gütern (Kupfer, seltenen Erden, Edelsteinen, Schmuck
+- Unternehmen, die mit sonstigen hochwertigen Gütern (Kupfer, seltenen Erden, Edelsteinen, Schmuck
 und Uhren, Antiquitäten, Kraftfahrzeugen, Schiffen und Motorbooten oder Luftfahrzeugen) handeln, jedoch keine Barzahlungen über mindestens 10 000 EUR entgegennehmen oder tätigen und
 
-–
-
-Kunstvermittler und Kunstlagerhalter, soweit die Lagerhaltung in Zollfreigebieten erfolgt, jedoch keine
+- Kunstvermittler und Kunstlagerhalter, soweit die Lagerhaltung in Zollfreigebieten erfolgt, jedoch keine
 Transaktionen im Wert von mindestens 10 000 EUR oder mehr (bar oder unbar) durchführen.
 Der Schwellenwert richtet sich damit nach der Art des Gutes, mit dem gehandelt wird.
 

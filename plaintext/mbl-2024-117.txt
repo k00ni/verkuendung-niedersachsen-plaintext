@@ -29,9 +29,7 @@ Vorhabens nach § 11 Abs. 5 NROG zu berücksichtigen. Die Pflicht, Ziele der Rau
 des § 4 ROG zu beachten, bleibt unberührt.
 Die Landesplanerische Feststellung besteht aus einem Textteil sowie als Anlagen einer Karte des landesplanerisch festgestellten Standorts und der Ergebnisniederschrift des Erörterungstermins. Sie liegt in der Zeit
 vom 06.03. bis zum 17.04.2024 bei den folgenden Stellen aus:
-–
-
-1)
+- 1)
 
 Regionalverband Großraum Braunschweig, Frankfurter Straße 2, 38122 Braunschweig, Flur der Abteilung Regionalentwicklung (1. Obergeschoss), während der Dienststunden,
 montags bis donnerstags in der Zeit von
@@ -49,9 +47,7 @@ Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 117 vom 28. Februar 2024
 
-–
-
-Seite 2
+- Seite 2
 
 Stadt Goslar, im Flur des Fachbereiches 3, Fachdienst Stadtplanung, Charley-Jacob-Straße 3 (DG),
 während der Dienststunden,
@@ -65,9 +61,7 @@ donnerstags in der Zeit von
 
 Außerhalb der Dienststunden können dort die Unterlagen, nach vorheriger Terminvereinbarung mit
 Herrn Michel (05321 704-527, lars.michel@goslar.de), eingesehen werden.
-–
-
-Verwaltungsgebäude Goslarer Straße 9, 38690 Goslar (Vienenburg), während der Dienststunden,
+- Verwaltungsgebäude Goslarer Straße 9, 38690 Goslar (Vienenburg), während der Dienststunden,
 dienstags in der Zeit von
 
 8.00 bis 13.00 Uhr und

@@ -32,33 +32,19 @@ die Bewilligungsbehörde aufgrund ihres pflichtgemäßen Ermessens im Rahmen der
 
 Gefördert werden
 
-–
+- bauliche Maßnahmen einschließlich Erhaltungsmaßnahmen,
 
-bauliche Maßnahmen einschließlich Erhaltungsmaßnahmen,
+- energetische Maßnahmen zur nachhaltigen Verbesserung der Energiebilanz,
 
-–
+- digitale Infrastruktur,
 
-energetische Maßnahmen zur nachhaltigen Verbesserung der Energiebilanz,
+- Veranstaltungstechnik,
 
-–
+- Anschaffungen zur Gewährleistung des Kulturbetriebs,
 
-digitale Infrastruktur,
+- Maßnahmen zur Verbesserung der inhaltlichen Qualität und
 
-–
-
-Veranstaltungstechnik,
-
-–
-
-Anschaffungen zur Gewährleistung des Kulturbetriebs,
-
-–
-
-Maßnahmen zur Verbesserung der inhaltlichen Qualität und
-
-–
-
-Maßnahmen zur Verbesserung der Aufenthaltsqualität.
+- Maßnahmen zur Verbesserung der Aufenthaltsqualität.
 
 Herausgeber: Niedersächsische Staatskanzlei
 
@@ -70,17 +56,11 @@ Seite 2
 
 Nicht gefördert werden
 
-–
+- der Erwerb von Immobilien und Grundstücken sowie von Objekten (z. B. Kunst- oder andere Sammlungsobjekte),
 
-der Erwerb von Immobilien und Grundstücken sowie von Objekten (z. B. Kunst- oder andere Sammlungsobjekte),
+- bauliche Maßnahmen an/in Gebäuden im Eigentum des Landes oder des Bundes und
 
-–
-
-bauliche Maßnahmen an/in Gebäuden im Eigentum des Landes oder des Bundes und
-
-–
-
-bauliche Maßnahmen an/in Gebäuden im Eigentum einer Kommune, sofern diese durch den Miet- oder
+- bauliche Maßnahmen an/in Gebäuden im Eigentum einer Kommune, sofern diese durch den Miet- oder
 Überlassungsvertrag abgedeckt sind. Für kleine bauliche Maßnahmen, die im Zusammenhang mit dem
 Einbau einer neuen Veranstaltungstechnik, dem Aufbau einer digitalen Infrastruktur oder anderen
 grundsätzlich förderfähigen Maßnahmen stehen, kann eine Förderfähigkeit im Einzelfall ausgesprochen
@@ -188,25 +168,15 @@ Seite 4
 7.6
 Bei investiven Beschaffungsmaßnahmen sind dem Antrag des Letztempfängers folgende Unterlagen
 beizufügen:
-–
+- Projektbeschreibung (sofern nicht aussagekräftig im Antrag enthalten),
 
-Projektbeschreibung (sofern nicht aussagekräftig im Antrag enthalten),
+- Ausgaben- und Finanzierungsplan (sofern nicht aussagekräftig im Antrag enthalten),
 
-–
+- Satzung, Gesellschaftsvertrag oder Ähnliches,
 
-Ausgaben- und Finanzierungsplan (sofern nicht aussagekräftig im Antrag enthalten),
+- Angaben über Drittmittel,
 
-–
-
-Satzung, Gesellschaftsvertrag oder Ähnliches,
-
-–
-
-Angaben über Drittmittel,
-
-–
-
-Kopie des Angebots oder der Angebote, welches oder welche im Ausgabenplan zugrunde gelegt wurde
+- Kopie des Angebots oder der Angebote, welches oder welche im Ausgabenplan zugrunde gelegt wurde
 oder wurden.
 
 7.7
@@ -214,34 +184,20 @@ gen:
 
 Bei investiven Baumaßnahmen sind dem Antrag des Letztempfängers folgende Unterlagen beizufü-
 
-–
+- Projektbeschreibung (sofern nicht aussagekräftig im Antrag enthalten),
 
-Projektbeschreibung (sofern nicht aussagekräftig im Antrag enthalten),
+- Ausgaben- und Finanzierungsplan (sofern nicht aussagekräftig im Antrag enthalten),
 
-–
+- Satzung, Gesellschaftsvertrag oder Ähnliches,
 
-Ausgaben- und Finanzierungsplan (sofern nicht aussagekräftig im Antrag enthalten),
+- Angaben über Drittmittel,
 
-–
-
-Satzung, Gesellschaftsvertrag oder Ähnliches,
-
-–
-
-Angaben über Drittmittel,
-
-–
-
-Kopie des Angebots oder der Angebote, welches oder welche im Ausgabenplan zugrunde gelegt wurde
+- Kopie des Angebots oder der Angebote, welches oder welche im Ausgabenplan zugrunde gelegt wurde
 oder wurden oder alternativ eine Kostenschätzung nach DIN 276,
 
-–
+- sofern nicht die antragstellende Einrichtung Eigentümer ist, die Einverständniserklärung der Eigentümerin oder des Eigentümers des Gebäudes zu den beabsichtigten Baumaßnahmen und der unterschriebene Miet-/Pachtvertrag oder Ähnliches, aus dem erkennbar ist, dass die unter Nummer 6.2 genannte Zweckbindungsfrist eingehalten werden kann,
 
-sofern nicht die antragstellende Einrichtung Eigentümer ist, die Einverständniserklärung der Eigentümerin oder des Eigentümers des Gebäudes zu den beabsichtigten Baumaßnahmen und der unterschriebene Miet-/Pachtvertrag oder Ähnliches, aus dem erkennbar ist, dass die unter Nummer 6.2 genannte Zweckbindungsfrist eingehalten werden kann,
-
-–
-
-im Fall von genehmigungspflichtigen Baumaßnahmen ein positiver Bauvorbescheid.
+- im Fall von genehmigungspflichtigen Baumaßnahmen ein positiver Bauvorbescheid.
 
 7.8
 Der vorzeitige Vorhabenbeginn gilt bereits mit Eingang des Antrags als gewährt. Dies begründet keinen Rechtsanspruch auf eine Zuwendung. Eine Förderentscheidung über den Antrag wird damit nicht vorweggenommen. Das finanzielle Risiko einer Nichtbewilligung trägt der Antragsteller bis zur Förderentscheidung
@@ -251,45 +207,27 @@ Die Regelung von Absatz 1 gilt auch im Verhältnis zu dem Letztempfänger (Förd
 Die Vergabe der Mittel an die Letztempfänger erfolgt auf der Grundlage der Empfehlung der zuständigen Gremien des Erstempfängers.
 Die zuständigen Gremien beziehen insbesondere die folgenden Kriterien bei der Entscheidung über ihre
 Empfehlungen ein:
-–
+- Notwendigkeit der Maßnahme,
 
-Notwendigkeit der Maßnahme,
+- nachhaltiger Nutzen für die antragstellende Einrichtung,
 
-–
+- Beitrag zur Weiterentwicklung der antragstellenden Einrichtung,
 
-nachhaltiger Nutzen für die antragstellende Einrichtung,
+- Verbesserung des regionalen, kulturellen Angebotes,
 
-–
+- Nachvollziehbarkeit der Projektbeschreibung,
 
-Beitrag zur Weiterentwicklung der antragstellenden Einrichtung,
+- Angemessenheit und Plausibilität des Ausgaben- und Finanzierungsplans sowie
 
-–
-
-Verbesserung des regionalen, kulturellen Angebotes,
-
-–
-
-Nachvollziehbarkeit der Projektbeschreibung,
-
-–
-
-Angemessenheit und Plausibilität des Ausgaben- und Finanzierungsplans sowie
-
-–
-
-Vollständigkeit der Antragsunterlagen.
+- Vollständigkeit der Antragsunterlagen.
 
 7.10
-–
-
-Für Auszahlungen gelten folgende zusätzliche Regelungen:
+- Für Auszahlungen gelten folgende zusätzliche Regelungen:
 Bis zu einer Zuwendungshöhe von 10 000 EUR erfolgt die Auszahlung der bewilligten Mittel grundsätzlich unmittelbar nach Bestandskraft des Bewilligungsbescheides.
 
 Nds. MBl. 2024 Nr. 430 vom 8. Oktober 2024
 
-–
-
-Seite 5
+- Seite 5
 
 Bis zu einer Zuwendungshöhe von 25 000 EUR erfolgt die Auszahlung der bewilligten Mittel grundsätzlich in zwei gleichen Raten unmittelbar nach Bestandskraft des Bewilligungsbescheides und zur Hälfte
 des Bewilligungszeitraumes.

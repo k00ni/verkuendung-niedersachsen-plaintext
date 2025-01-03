@@ -959,9 +959,7 @@ Sirenensteuerung, Warnung der Bevölkerung
 
 SIR
 
-–
-
-Havariekommando
+- Havariekommando
 
 HAV
 

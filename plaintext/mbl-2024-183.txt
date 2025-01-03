@@ -90,17 +90,11 @@ Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31), Anha
 Beihilfe für Tierverluste
 
 Voraussetzungen:
-–
+- Einhaltung der Anforderungen der A n l a g e 1
 
-Einhaltung der Anforderungen der A n l a g e 1
+- Verenden oder Tötung des Tieres wegen Listeriose
 
-–
-
-Verenden oder Tötung des Tieres wegen Listeriose
-
-–
-
-Nachweis des Erregers Listeria monocytogenes beim Tier durch eine amtliche Institutsuntersuchung
+- Nachweis des Erregers Listeria monocytogenes beim Tier durch eine amtliche Institutsuntersuchung
 
 1.2
 
@@ -120,55 +114,35 @@ Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 09.03.20
 Beihilfen für Tierverluste für Rinder ab einem Alter von 12 Monaten, die
 aufgrund eines MAP-positiven Untersuchungsergebnisses geschlachtet worden sind:
 Voraussetzungen:
-–
+- amtliche Bestätigung der Einhaltung der rechtlich vorgegebenen Bekämpfungsmaßnahmen und
 
-amtliche Bestätigung der Einhaltung der rechtlich vorgegebenen Bekämpfungsmaßnahmen und
-
-–
-
-Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb einer
+- Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb einer
 seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) bei der zuständigen kommunalen Veterinärbehörde und
 
-–
+- Einhaltung der darin eingegangenen Verpflichtungen und
 
-Einhaltung der darin eingegangenen Verpflichtungen und
+- amtliche Bestätigung der Durchführung des Niedersächsischen MAP-Verminderungsprogramms und
 
-–
-
-amtliche Bestätigung der Durchführung des Niedersächsischen MAP-Verminderungsprogramms und
-
-–
-
-Nachweis von Antikörpern gegen MAP oder von MAP in der Milch, im Blut
+- Nachweis von Antikörpern gegen MAP oder von MAP in der Milch, im Blut
 oder im Kot und
 
-–
-
-Nachweis des Tierverlustes durch Schlachtabrechnung.
+- Nachweis des Tierverlustes durch Schlachtabrechnung.
 
 100 Prozent des gemeinen Wertes unter Anrechnung der Verwertungserlöse
 
 Die Beihilfe wird nicht gewährt für
-–
-
-Tiere mit Symptomen der klinischen Paratuberkulose, notgeschlachtete
+- Tiere mit Symptomen der klinischen Paratuberkulose, notgeschlachtete
 Tiere, sowie Tiere die aufgrund anderer Erkrankungen vorzeitig aus der
 Herde entfernt wurden
 
-–
-
-Tiere mit einem sehr niedrigen Schlachtgewicht (< 150 kg) bzw. Tiere, die
+- Tiere mit einem sehr niedrigen Schlachtgewicht (< 150 kg) bzw. Tiere, die
 keinen marktgerechten Schlachterlös (< 100 EUR) erzielen. Für kleiwüchsige Rinderrassen gelten in Absprache mit der Tierseuchenkasse abweichend auch andere Schlachtgewichte und Erlöse.
 
 2.2
 Beihilfen für Untersuchungen und Beratungen können gewährt werden für:
-–
+- serologische Untersuchungen mittels ELISA
 
-serologische Untersuchungen mittels ELISA
-
-–
-
-Erregernachweis in der PCR
+- Erregernachweis in der PCR
 
 Übernahme von Kosten
 laut besonderer Entscheidung des Vorstandes
@@ -176,95 +150,57 @@ nach § 5 Abs. 1, 2 oder 3
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 
-–
+- kulturelle Untersuchung von Kotproben
 
-kulturelle Untersuchung von Kotproben
-
-–
-
-klinische Untersuchungen, Probenahme und Beratung
+- klinische Untersuchungen, Probenahme und Beratung
 
 a) Voraussetzungen für Milch liefernde Rinderhaltungen:
-–
-
-Erst- und Folgeuntersuchungen:
+- Erst- und Folgeuntersuchungen:
 Durchführung der Untersuchungen gemäß rechtlichen Vorgaben
 
-–
-
-Erstberatung:
+- Erstberatung:
 Beratung nach Vorliegen eines MAP-positiven Einzeltierbefundes im Bestand im Sinne der Beitragssatzung
 
-–
-
-Folgeberatung:
-–
-
-Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
+- Folgeberatung:
+- Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
 einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 
-–
+- Einhaltung der darin eingegangenen Verpflichtungen sowie
 
-Einhaltung der darin eingegangenen Verpflichtungen sowie
-
-–
-
-Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
+- Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
 A n l a g e 2 und
 
-–
-
-amtliche Bestätigung der Durchführung des Niedersächsischen
+- amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
 
 b) Voraussetzungen für nicht Milch liefernde Rinderhaltungen:
-–
-
-Erstuntersuchung:
+- Erstuntersuchung:
 Durchführung der Untersuchung gemäß rechtlicher Vorgaben
 
-–
-
-–
+- –
 
 Folgeuntersuchungen:
-–
-
-Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
+- Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
 einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 
-–
+- Einhaltung der darin eingegangenen Verpflichtungen sowie
 
-Einhaltung der darin eingegangenen Verpflichtungen sowie
-
-–
-
-amtliche Bestätigung der Durchführung des Niedersächsischen
+- amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
 
 Erstberatung:
 Beratung nach Vorliegen eines MAP-positiven Einzeltierbefundes im Bestand im Sinne der Beitragssatzung
 
-–
-
-Folgeberatungen:
-–
-
-Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
+- Folgeberatungen:
+- Abgabe der Verpflichtungserklärung gemäß A n l a g e 2 (innerhalb
 einer seuchenhygienischen Einheit müssen alle Betriebe eine Verpflichtungserklärung unterzeichnen) und
 
-–
+- Einhaltung der darin eingegangenen Verpflichtungen und
 
-Einhaltung der darin eingegangenen Verpflichtungen und
-
-–
-
-Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
+- Durchführung der Beratungen und Erstellung des MAP-Verminderungsplans gemäß rechtlichen Vorgaben und Anforderungen der
 A n l a g e 2 sowie
 
-–
-
-amtliche Bestätigung der Durchführung des Niedersächsischen
+- amtliche Bestätigung der Durchführung des Niedersächsischen
 MAP-Verminderungsprogramms.
 
 Seite 4
@@ -278,24 +214,16 @@ Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 09.03.20
 31.03.2016, S. 1), Anhang II)
 3.1 Beihilfe zu Impfkosten für Immunisierungen in infizierten Betrieben
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
-–
+- Einhaltung der Anforderungen nach A n l a g e 3
 
-Einhaltung der Anforderungen nach A n l a g e 3
+- Erregernachweis mittels PCR oder anderen molekularbiologischen Verfahren
 
-–
-
-Erregernachweis mittels PCR oder anderen molekularbiologischen Verfahren
-
-–
-
-Nachweis der fachgerechten Immunisierung aller impffähigen Tiere des
+- Nachweis der fachgerechten Immunisierung aller impffähigen Tiere des
 Bestandes durch Vorlage der Rechnung der Tierärztin oder des Tierarztes über Durchführung der Impfung
 
 3.2 Beihilfen Untersuchungen
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
-–
-
-Einhaltung der Anforderungen nach A n l a g e 3
+- Einhaltung der Anforderungen nach A n l a g e 3
 
 Übernahme von Kosten
 laut besonderer Entscheidung des Vorstandes nach
@@ -310,14 +238,10 @@ Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28.04.20
 03.05.2021, S. 1) Artikel 3 Abs. 2 Buchstabe e in Verbindung mit Richtlinie 2003/99/EG des Europäischen
 Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31) Anhang I Buchstabe A)
 4.1 Grundsätzliche Voraussetzung zur Gewährung der Beihilfe:
-–
-
-Gültigkeit der Verordnung zum Schutz gegen die Salmonellose der Rinder i. d. F. der Bekanntmachung vom 14.11.1991 (BGBl. I S. 2118) zuletzt
+- Gültigkeit der Verordnung zum Schutz gegen die Salmonellose der Rinder i. d. F. der Bekanntmachung vom 14.11.1991 (BGBl. I S. 2118) zuletzt
 geändert durch Art. 2 der Verordnung vom 17. April 2014 (BGBl. I S. 388).
 
-–
-
-Die von der zuständigen Behörde für notwendig erachteten Maßnahmen
+- Die von der zuständigen Behörde für notwendig erachteten Maßnahmen
 zur Bekämpfung der Tierseuche wurden durchgeführt.
 
 4.2 Beihilfen für Tierverluste
@@ -347,30 +271,20 @@ laut besonderer Entscheidung des Vorstandes
 nach § 5 Abs. 1, 2 oder 3
 
 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
-–
-
-Beratung durch den Rindergesundheitsdienst oder die kommunale Veterinärbehörde,
+- Beratung durch den Rindergesundheitsdienst oder die kommunale Veterinärbehörde,
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 
-–
-
-Vorlage eines Bekämpfungskonzeptes, welches mit der zuständigen
+- Vorlage eines Bekämpfungskonzeptes, welches mit der zuständigen
 kommunalen Veterinärbehörde und der Tierseuchenkasse abgestimmt
 wurde,
 
-–
-
-Bestätigung der korrekten Durchführung des Bekämpfungskonzeptes
+- Bestätigung der korrekten Durchführung des Bekämpfungskonzeptes
 durch die zuständige kommunale Veterinärbehörde,
 
-–
+- Nachweis der fachgerechten Immunisierung gemäß vorliegendem Bekämpfungskonzept und
 
-Nachweis der fachgerechten Immunisierung gemäß vorliegendem Bekämpfungskonzept und
-
-–
-
-Vorlage der Rechnung der Tierärztin oder des Tierarztes über die Durchführung der Impfung.
+- Vorlage der Rechnung der Tierärztin oder des Tierarztes über die Durchführung der Impfung.
 
 Seite 6
 
@@ -380,22 +294,14 @@ Verordnung (EU) 2021/690 des Europäischen Parlaments und des Rates vom 28.04.20
 Parlaments und des Rates vom 17.11.2003 (ABl. L 325 vom 12.12.2003, S. 31) Anhang I Buchstabe A
 5.1 Grundsätzliche Voraussetzungen zur Gewährung der Beihilfe:
 Bestandsgröße:
-–
+- Hühner- und Putenzuchtbetriebe: mind. 250 Tiere
 
-Hühner- und Putenzuchtbetriebe: mind. 250 Tiere
+- Legehennen- und Hühneraufzuchtbetriebe: mind. 350 Tiere
 
-–
-
-Legehennen- und Hühneraufzuchtbetriebe: mind. 350 Tiere
-
-–
-
-Beitritt zum Verfahren zur Bekämpfung der SE und ST Infektion durch Abgabe der schriftlichen Verpflichtungserklärung für Legehennenbestände
+- Beitritt zum Verfahren zur Bekämpfung der SE und ST Infektion durch Abgabe der schriftlichen Verpflichtungserklärung für Legehennenbestände
 gemäß A n l a g e 4 a und für Putenbestände gemäß A n l a g e 4 b mindestens zwei Jahre vor Feststellung der SE- oder ST-Infektion bei der zuständigen kommunalen Veterinärbehörde und Einhaltung der eingegangenen Verpflichtungen
 
-–
-
-amtliche Bestätigung der Teilnahme und Einhaltung der vorgegebenen Bekämpfungsmaßnahmen
+- amtliche Bestätigung der Teilnahme und Einhaltung der vorgegebenen Bekämpfungsmaßnahmen
 
 5.2 Beihilfen zur Bekämpfung von SE- und ST-Infektionen:
 a) Kosten zur Durchführung amtlicher Untersuchungen
@@ -812,13 +718,9 @@ Anlage 1
 (zu § 2 Nr. 1.1)
 Listeriose der Rinder, Schafe und Ziegen – Beihilfe für Tierverluste
 Zur Bekämpfung der Listeriose sind folgende Maßnahmen zu ergreifen:
-–
+- Weisen klinische Symptome auf das Vorliegen einer Listeriose hin und ist eine entsprechende Behandlung nicht erfolgreich, ist eine postmortale Diagnostik auf Listeriose durchzuführen.
 
-Weisen klinische Symptome auf das Vorliegen einer Listeriose hin und ist eine entsprechende Behandlung nicht erfolgreich, ist eine postmortale Diagnostik auf Listeriose durchzuführen.
-
-–
-
-Bei vermehrtem Auftreten von Listeriose im Bestand ist eine epidemiologische Abklärung der Infektionsquelle durchzuführen.
+- Bei vermehrtem Auftreten von Listeriose im Bestand ist eine epidemiologische Abklärung der Infektionsquelle durchzuführen.
 Anlage 2
 (zu § 2 Nr. 2)
 Niedersächsisches Programm zur Reduktion der
@@ -859,79 +761,50 @@ Der MAP-Verminderungsplan ist für die gesamte Dauer der Teilnahme am Niedersäc
 zur Verminderung der Paratuberkulose Prävalenz fortzuschreiben, unabhängig von der vorliegenden
 MAP-Prävalenz. Im infizierten Betrieb ist von der Tierhalterin oder vom Tierhalter gemeinsam mit der
 Hoftierärztin oder dem Hoftierarzt ein betriebsspezifischer MAP-Verminderungsplan schriftlich zu erstellen, der folgende Punkte umfassen muss:
-–
-
-Registriernummer nach VVVO, im Falle einer seuchenhygienischen Einheit mit anderen Betrieben,
+- Registriernummer nach VVVO, im Falle einer seuchenhygienischen Einheit mit anderen Betrieben,
 auch die Registriernummern dieser Betriebe
 
-–
+- Ist-Beschreibung
 
-Ist-Beschreibung
-
-–
-
-–
+- –
 
 Prävalenzerfassung für alle untersuchungsfähigen Tiere anhand der individuellen Untersuchungsergebnisse
 
-–
+- Beurteilung der Situation der Biosicherheit anhand des Leitfadens Biosicherheit in Rinderhaltungen
 
-Beurteilung der Situation der Biosicherheit anhand des Leitfadens Biosicherheit in Rinderhaltungen
-
-–
-
-Zielfestlegung für die Verminderung
+- Zielfestlegung für die Verminderung
 
 Festlegung der weiteren Maßnahmen wie z.B.
-–
+- weitere Untersuchungen
+- –
 
-weitere Untersuchungen
-–
+- –
 
-–
-
-–
-–
-
-–
-
-–
+- –
 
 Klärung, welche hygienischen Maßnahmen kurzfristig zu verbessern sind
 
-–
-
-Klärung, welche hygienischen Maßnahmen langfristig zu verbessern sind
+- Klärung, welche hygienischen Maßnahmen langfristig zu verbessern sind
 
 Entfernung positiver Tiere
 Serologische Untersuchung mit negativem Befund von Zuchttieren, die älter als 24 Monate sind,
 auf MAP vor der Einstallung
 
 Umsetzung der Maßnahmen
-–
-
-Klärung, was mit den positiven Tieren geschieht und ob besondere hygienische Maßnahmen
+- Klärung, was mit den positiven Tieren geschieht und ob besondere hygienische Maßnahmen
 erforderlich sind
 
-–
+- Merzungsplan erstellen
 
-Merzungsplan erstellen
-
-–
-
-Festlegung von Maßnahmen zur Nachbesserung bei Mängeln in der Biosicherheit in angemessenem zeitlichen Rahmen
+- Festlegung von Maßnahmen zur Nachbesserung bei Mängeln in der Biosicherheit in angemessenem zeitlichen Rahmen
 
 Evaluation und ggf. Korrektur mit den Messgrößen
-–
-
-–
+- –
 
 Biosicherheit-Anlage MAP des Leitfadens Biosicherheit in Rinderhaltungen
 
 Maßnahmen, um die Gefahr einer Einschleppung zu verringern
-–
-
-–
+- –
 
 Umgebungsproben (Sockentupfer-Proben) um den Durchseuchungsgrad festzustellen
 
@@ -1060,26 +933,16 @@ Zur Weiterentwicklung des Programms und zur Gewinnung neuer Erkenntnisse über d
 die Erhebung von Daten aus den betroffenen Betrieben erforderlich. Daher ist von den Tierhalterinnen
 und Tierhaltern in Zusammenarbeit mit den Hoftierärztinnen und Hoftierärzten ein von der Tierseuchenkasse vorgegebener Fragebogen auszufüllen und der Tierseuchenkasse zur Verfügung zu stellen.
 Dieser Fragebogen enthält Angaben zu folgenden Punkten:
-–
+- Allgemeine Angaben zur Betriebsstruktur
 
-Allgemeine Angaben zur Betriebsstruktur
+- Leistungsdaten des Betriebes bezogen auf die letzten 12 Monate
 
-–
+- Klinische Symptomatik der Tiere in Bezug auf Q-Fieber vor der Impfung
 
-Leistungsdaten des Betriebes bezogen auf die letzten 12 Monate
-
-–
-
-Klinische Symptomatik der Tiere in Bezug auf Q-Fieber vor der Impfung
-
-–
-
-Freiwillige Angaben zur klinischen Symptomatik der Tierhalterin oder des Tierhalters in Bezug auf
+- Freiwillige Angaben zur klinischen Symptomatik der Tierhalterin oder des Tierhalters in Bezug auf
 Q-Fieber
 
-–
-
-Angaben zur Veränderung der klinischen Symptomatik der Tiere, insbesondere auch nach der Impfung.
+- Angaben zur Veränderung der klinischen Symptomatik der Tiere, insbesondere auch nach der Impfung.
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 
@@ -1106,29 +969,19 @@ Leistungen im Falle der Nichteinhaltung der in A n l a g e 4 a genannten Auflage
 Ziff. I Impfprogramm für Junghennen- und Legehennen haltende Betriebe
 Das Impfprogramm der Junghennen ist nach Rücksprache mit der betreuenden Tierärztin/dem betreuenden Tierarzt durchzuführen. Der aufnehmende Betrieb hat sich die Impfungen der Junghennen vom Aufzuchtbetrieb bescheinigen zu lassen.
 1. Elterntieraufzucht Legehennenbereich
-–
+- Je nach Angaben des Herstellers 2 – 3 x SE als Lebendimpfstoff über das Trinkwasser.
 
-Je nach Angaben des Herstellers 2 – 3 x SE als Lebendimpfstoff über das Trinkwasser.
-
-–
-
-2 x SE als Totimpfstoff per Injektion im Abstand von 4 - 6 Wochen
+- 2 x SE als Totimpfstoff per Injektion im Abstand von 4 - 6 Wochen
 
 2. Routine-Prophylaxe für Legehennen
-–
-
-Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
+- Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
 Diese Voraussetzung gilt für alle Haltungsformen. Es ist zu prüfen, ob das Erfordernis einer zusätzlichen
 Impfung mit SE-Totimpfstoff per Injektion besteht.
 
 3. Legehennen bei positivem SE-Befund im vorherigen Durchgang
-–
+- Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
 
-Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
-
-–
-
-Zusätzlich: 1 x SE als Totvakzine per Injektion 4 Wochen vor der Umstallung in den Legebetrieb
+- Zusätzlich: 1 x SE als Totvakzine per Injektion 4 Wochen vor der Umstallung in den Legebetrieb
 
 Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eierbänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
 
@@ -1137,30 +990,20 @@ Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 Seite 17
 
 4. Legehennen bei positivem ST-Befund im vorherigen Durchgang
-–
+- Je nach Angaben des Herstellers 2 – 3 x SE und 3 x ST als Lebendvakzine gleichzeitig über das Trinkwasser.
 
-Je nach Angaben des Herstellers 2 – 3 x SE und 3 x ST als Lebendvakzine gleichzeitig über das Trinkwasser.
-
-–
-
-Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST Kombi Totvakzine per Injektion 4 Wochen vor der
+- Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST Kombi Totvakzine per Injektion 4 Wochen vor der
 Umstallung in den Legebetrieb
 
 Entsprechende Impfkonzeptanwendungen bei Legehennen in Stallungen, die über Kot-, Futter- oder Eierbänder mit den zuvor von positiven Befunden betroffenen Stallungen verbunden sind.
 5. Legehennen bei „multiple-age-Haltung" in einem Stall
-–
+- Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
 
-Je nach Angaben des Herstellers 2 – 3 x SE als Lebendvakzine über das Trinkwasser.
-
-–
-
-Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST als Kombi-Totvakzine per Injektion 4 Wochen vor der
+- Zusätzlich: 1 x SE und ST Totimpfstoff bzw. SE/ST als Kombi-Totvakzine per Injektion 4 Wochen vor der
 Umstallung in den Legebetrieb
 
 6. Legehennen in der Legepause
-–
-
-Zusätzlich: 1 x SE-Lebendvakzine über das Trinkwasser im Legebetrieb
+- Zusätzlich: 1 x SE-Lebendvakzine über das Trinkwasser im Legebetrieb
 
 Die Auflagen für die Inaktivat-Impfung unter Nr. 3 bis 5 sind nur solange anzuwenden, bis der Betrieb auf
 das Rein-Raus-Verfahren (all in-all-out) bzw. auf eine räumlich und lüftungstechnisch getrennte Haltung von
@@ -1168,53 +1011,35 @@ Legehennen umgestellt hat.
 Ziff. II Hygienemaßnahmen
 Es sind die allgemein erforderlichen Hygienemaßnahmen durchzuführen.
 Daneben gilt insbesondere:
-–
+- Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
 
-Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
-
-–
-
-Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
+- Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
 Untersuchung im Rahmen des betriebseigenen HACCP-Konzeptes nach Futtermittelhygieneverordnung
 angefordert werden.
 
-–
+- Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
 
-Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
-
-–
-
-Erforderlich ist die feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem
+- Erforderlich ist die feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem
 Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnahmen mittels Abklatsch- und Tupferproben auf Salmonellen, die Dokumentation der Reinigung und Desinfektion mittels Stallkarte, die Dokumentation des Untersuchungsergebnisses und des Reinigungs- und
 Desinfektionsplans.
 
-–
+- Die Reinigung und Desinfektion von Transportfahrzeugen ist vor Benutzung zu überprüfen und zu dokumentieren.
 
-Die Reinigung und Desinfektion von Transportfahrzeugen ist vor Benutzung zu überprüfen und zu dokumentieren.
-
-–
-
-Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und nur dann Zugang zu den
+- Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und nur dann Zugang zu den
 Ställen und Haltungseinrichtungen erhalten, wenn dies unbedingt erforderlich ist. Über das Betreten durch
 betriebsfremde Personen ist Buch zu führen (Besucherbuch).
 
-–
-
-Jeder Betrieb und jede Betriebsabteilung muss eine Hygieneschleuse ausweisen, an
+- Jeder Betrieb und jede Betriebsabteilung muss eine Hygieneschleuse ausweisen, an
 Stalleingängen/Stallausgängen müssen funktionstüchtige Einrichtungen zur Schuhdesinfektion
 vorhanden sein und genutzt werden.
 
-–
-
-Die Ställe dürfen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden.
+- Die Ställe dürfen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden.
 Die Schutz- oder Einwegschutzkleidung ist nach Verlassen des Stalles oder sonstigen Standorts des
 Geflügels unverzüglich abzulegen.
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 
-–
-
-Seite 18
+- Seite 18
 
 Es sind regelmäßige Schädlings- und Ektoparasiten-Bekämpfungsmaßnahmen durchzuführen. Die Wirksamkeit der Maßnahmen ist zu überprüfen. Die Durchführung wie auch die Überprüfung sind zu dokumentieren.
 
@@ -1247,101 +1072,63 @@ Leistungen im Falle der Nichteinhaltung der in A n l a g e 4 b genannten Auflage
 Hygienemaßnahmen
 Es sind die allgemein erforderlichen Hygienemaßnahmen durchzuführen.
 Daneben gilt insbesondere:
-–
-
-Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
+- Untersuchungen auf SE und ST sind regelmäßig und entsprechend den rechtlichen Vorgaben durchzuführen.
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 
-–
-
-Seite 19
+- Seite 19
 
 Betriebsfremden Personen mit möglichem direkten Kontakt zu externen Keimreservoiren (Besuch einer
 externen Tierhaltung) wie z. B. Besucher, Dienstleister, Laborpersonal etc. wird eine Wartezeit von 72
 Stunden auferlegt. Das Duschen und der Kleidungswechsel beim Betreten des Produktionsbereiches ist
 Pflicht. Im Einzelnen bedeutet das:
-–
+- Ablegen der Ober- und Unterbekleidung und der Schuhe,
 
-Ablegen der Ober- und Unterbekleidung und der Schuhe,
+- Duschen einschl. der Haare,
 
-–
+- bereichseigene Unter-, Oberbekleidung und Stiefel,
 
-Duschen einschl. der Haare,
+- Kopfbedeckung,
 
-–
+- Händedesinfektion.
 
-bereichseigene Unter-, Oberbekleidung und Stiefel,
-
-–
-
-Kopfbedeckung,
-
-–
-
-Händedesinfektion.
-
-–
-
-Jeder Betrieb und jede Betriebsabteilung muss eine Hygieneschleuse aufweisen. An Stalleingängen und
+- Jeder Betrieb und jede Betriebsabteilung muss eine Hygieneschleuse aufweisen. An Stalleingängen und
 Stallausgängen müssen funktionstüchtige Einrichtungen zur Schuhdesinfektion vorhanden sein und genutzt werden. Bei Betreten des Stallinneren werden ein Schuhwechsel und eine Handdesinfektion durchgeführt.
 
-–
-
-Die Ställe dürfen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden.
+- Die Ställe dürfen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden.
 Die Schutz- oder Einwegschutzkleidung ist nach Verlassen des Stalles oder sonstigen Standorts des
 Geflügels unverzüglich abzulegen.
 
-–
-
-Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und nur dann Zugang zu den
+- Betriebsfremde Personen dürfen nur in entsprechender Schutzkleidung und nur dann Zugang zu den
 Ställen und Haltungseinrichtungen erhalten, wenn dies unbedingt erforderlich ist. Über das Betreten durch
 betriebsfremde Personen ist Buch zu führen (Besucherbuch).
 
-–
-
-Alle Anlieferungen mit Fahrzeugen (z. B. Flüssiggasfahrzeuge, Futterfahrzeuge etc.) erhalten bei Befahren des Betriebsgeländes eine Reifendesinfektion. Die Fahrzeuge haben mindestens 48 Stunden vorher
+- Alle Anlieferungen mit Fahrzeugen (z. B. Flüssiggasfahrzeuge, Futterfahrzeuge etc.) erhalten bei Befahren des Betriebsgeländes eine Reifendesinfektion. Die Fahrzeuge haben mindestens 48 Stunden vorher
 keine anderen Tierhaltungsanlagen, außer Puten-Elterntierfarmen, angefahren. Es ist darauf zu achten,
 dass die Bereiche vor den Stalltüren und -toren befestigt sind und gereinigt werden können.
 
-–
-
-Der betriebsübergreifende Einsatz von Einstreumaschinen ohne vorherige Reinigung und Desinfektion
+- Der betriebsübergreifende Einsatz von Einstreumaschinen ohne vorherige Reinigung und Desinfektion
 ist untersagt.
 
-–
-
-Das Einstreumaterial wird in Gebäuden gelagert, die geschützt sind vor Nässe und Wildvögeln und so,
+- Das Einstreumaterial wird in Gebäuden gelagert, die geschützt sind vor Nässe und Wildvögeln und so,
 dass eine Kontamination mit Salmonellen nach Stand der Technik vermieden wird. Die Lagerung erfolgt
 auf befestigtem Untergrund (z. B. Pflasterung, Beton, etc.).
 
-–
-
-Alle Bewegungen von Technik, Fahrzeugen und Personen (außer das Stammpersonal des betroffenen
+- Alle Bewegungen von Technik, Fahrzeugen und Personen (außer das Stammpersonal des betroffenen
 Produktionsbereiches) müssen in Besucher- und Fahrzeugbüchern dokumentiert werden.
 
-–
-
-Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
+- Zu jeder Charge angelieferten Futtermittels müssen Untersuchungsergebnisse auf Salmonellen vorliegen. Zu diesem Zweck können Untersuchungsergebnisse der im Futtermittelbetrieb vorgeschriebenen
 Untersuchung im Rahmen des betriebseigenen HACCP-Konzeptes nach Futtermittelhygieneverordnung
 angefordert werden.
 
-–
+- Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
 
-Ställe/Haltungseinrichtungen und die dazugehörigen Nebengebäude müssen sich in einem guten baulichen Zustand befinden, so dass eine wirksame Reinigung und Desinfektion möglich ist.
+- Nach jedem Durchgang wird der Geflügelmist und ggf. restliches Einstreumaterial aus den Ställen vollständig entfernt und auf direktem Weg aus dem Betrieb abgefahren.
 
-–
-
-Nach jedem Durchgang wird der Geflügelmist und ggf. restliches Einstreumaterial aus den Ställen vollständig entfernt und auf direktem Weg aus dem Betrieb abgefahren.
-
-–
-
-Erforderlich ist eine feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnahmen mittels Abklatsch- und Tupferproben auf Salmonellen sowie die Dokumentation der Reinigung
+- Erforderlich ist eine feuchte Reinigung und Desinfektion der Ställe bzw. Haltungseinrichtungen nach jedem Durchgang bzw. vor jeder Neueinstallung, die Überprüfung der Wirksamkeit der Desinfektionsmaßnahmen mittels Abklatsch- und Tupferproben auf Salmonellen sowie die Dokumentation der Reinigung
 und Desinfektion mittels Stallkarte, des Untersuchungsergebnisses und des Reinigungs- und Desinfektionsplans.
 
-–
-
-Es sind regelmäßige Schädlings- und Ektoparasitenbekämpfungsmaßnahmen durchzuführen. Die Wirksamkeit der Maßnahmen ist zu überprüfen. Die Durchführung als auch die Überprüfung sind zu dokumentieren.
+- Es sind regelmäßige Schädlings- und Ektoparasitenbekämpfungsmaßnahmen durchzuführen. Die Wirksamkeit der Maßnahmen ist zu überprüfen. Die Durchführung als auch die Überprüfung sind zu dokumentieren.
 
 Nds. MBl. 2024 Nr. 183 vom 23. April 2024
 

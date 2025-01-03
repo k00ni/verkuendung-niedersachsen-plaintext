@@ -54,32 +54,20 @@ ergibt sich für das Naturschutzrecht aus § 3 Abs. 2 BNatSchG und für das Wass
 2 WHG.
 4. Antragstellung
 Ein Antrag nach Nummer 3 dieses Gem. RdErl. muss folgende Angaben enthalten:
-–
+- Name und Anschrift der der Antragstellerin/des Antragstellers,
 
-Name und Anschrift der der Antragstellerin/des Antragstellers,
+- Betriebsnummer aus dem Direktzahlungen-Verfahren,
 
-–
-
-Betriebsnummer aus dem Direktzahlungen-Verfahren,
-
-–
-
-Bezeichnung der betreffenden Fläche mit Gemarkung, Flur, Flurstücksnummer, Flächenidentifikator
+- Bezeichnung der betreffenden Fläche mit Gemarkung, Flur, Flurstücksnummer, Flächenidentifikator
 (FLIK) sowie eine Kartendarstellung in Form einer Übersichtskarte mit Maßstab ca. 1 : 25 000, in der
 die betreffende Fläche kenntlich gemacht worden ist, sowie eine Karte mit der betreffenden Fläche mit
 größerem Maßstab (z. B. 1 : 1 000),
 
-–
+- durchgeführte freiwillige Vereinbarungen oder Teilnahme an öffentlichen Programmen zur Bewirtschaftungsbeschränkung i. S. des § 14 Abs. 3 oder des § 30 Abs. 5 BNatSchG,
 
-durchgeführte freiwillige Vereinbarungen oder Teilnahme an öffentlichen Programmen zur Bewirtschaftungsbeschränkung i. S. des § 14 Abs. 3 oder des § 30 Abs. 5 BNatSchG,
+- gemäß § 5 Abs. 1 Nr. 3 GAPKondG neu anzulegende Ersatzfläche mit Gemarkung, Flur, Flurstücksnummer, FLIK und
 
-–
-
-gemäß § 5 Abs. 1 Nr. 3 GAPKondG neu anzulegende Ersatzfläche mit Gemarkung, Flur, Flurstücksnummer, FLIK und
-
-–
-
-soweit im Einzelfall erforderlich, Aussagen zu Maßnahmen der Antragstellerin/des Antragstellers, die
+- soweit im Einzelfall erforderlich, Aussagen zu Maßnahmen der Antragstellerin/des Antragstellers, die
 zur Beachtung relevanter Rechtsvorschriften bei der Umwandlung ergriffen werden (z. B. Aussparung
 von Gewässerrandstreifen).
 Die UNB oder die UWB kann weitere Angaben verlangen, sofern dies für die Prüfung erforderlich ist.
@@ -89,43 +77,27 @@ Die UNB oder die UWB kann weitere Angaben verlangen, sofern dies für die Prüfu
 
 Entgegenstehende Vorschriften des Naturschutzrechts können sich insbesondere aus
 
-–
-
-den Grundsätzen der guten fachlichen Praxis zur landwirtschaftlichen Nutzung gemäß § 5 Abs. 2
+- den Grundsätzen der guten fachlichen Praxis zur landwirtschaftlichen Nutzung gemäß § 5 Abs. 2
 BNatSchG,
 
-–
+- den Vorschriften des § 2a NNatSchG,
 
-den Vorschriften des § 2a NNatSchG,
+- Vorschriften zum allgemeinen Schutz von Natur und Landschaft gemäß den §§ 13 ff. BNatSchG,
 
-–
-
-Vorschriften zum allgemeinen Schutz von Natur und Landschaft gemäß den §§ 13 ff. BNatSchG,
-
-–
-
-Gesetzen, Verordnungen oder Satzungen zum Schutz bestimmter Teile von Natur und Landschaft, einschließlich
-–
-
-des gesetzlichen Schutzes von Biotopen gemäß § 30 BNatSchG i. V. m. § 24 Abs. 2 NNatSchG
+- Gesetzen, Verordnungen oder Satzungen zum Schutz bestimmter Teile von Natur und Landschaft, einschließlich
+- des gesetzlichen Schutzes von Biotopen gemäß § 30 BNatSchG i. V. m. § 24 Abs. 2 NNatSchG
 
 Nds. MBl. 2024 Nr. 222 vom 14. Mai 2024
 
 Seite 3
 
 und von Wallhecken gemäß § 29 BNatSchG i. V. m. § 22 Abs. 3 NNatSchG sowie
-–
+- des Schutzes des Netzes „Natura 2000“ gemäß den §§ 33 ff. BNatSchG,
 
-des Schutzes des Netzes „Natura 2000“ gemäß den §§ 33 ff. BNatSchG,
-
-–
-
-den Vorschriften zum Schutz wildlebender Tiere und Pflanzen und ihrer Lebensstätten und Biotope,
+- den Vorschriften zum Schutz wildlebender Tiere und Pflanzen und ihrer Lebensstätten und Biotope,
 insbesondere gemäß § 44 BNatSchG,
 
-–
-
-Regelungen in fachplanerischen Entscheidungen, anderen Zulassungen oder Bebauungsplänen, die
+- Regelungen in fachplanerischen Entscheidungen, anderen Zulassungen oder Bebauungsplänen, die
 die Grünlandfläche zur Ausgleichs- oder Ersatzfläche oder als Fläche für Kohärenzsicherungsmaßnahmen bestimmen,
 
 ergeben.
@@ -135,23 +107,15 @@ Tiefe kann prämienrechtlich als genehmigungspflichtiger und/oder verbotener Dau
 dem die Grasnarbe zerstört wird (vgl. VG Lüneburg, Urt. v. 12.01.2022 – 1 A 154/19).
 6. Relevante Vorschriften des Wasserrechts
 Entgegenstehende Vorschriften des Wasserrechts können sich insbesondere aus
-–
+- Verordnungen über Wasserschutzgebiete oder Heilquellenschutzgebiete,
 
-Verordnungen über Wasserschutzgebiete oder Heilquellenschutzgebiete,
+- der Verordnung über Schutzbestimmungen in Wasserschutzgebieten (SchuVO),
 
-–
-
-der Verordnung über Schutzbestimmungen in Wasserschutzgebieten (SchuVO),
-
-–
-
-Bestimmungen zum Schutz von Überschwemmungsgebieten, die gemäß § 76 Abs. 2 WHG i. V. m.
+- Bestimmungen zum Schutz von Überschwemmungsgebieten, die gemäß § 76 Abs. 2 WHG i. V. m.
 § 115 Abs. 2 NWG festgesetzt oder gemäß § 76 Abs. 3 WHG i. V. m. § 115 Abs. 4 NWG in Kartenform
 dargestellt und vorläufig gesichert wurden,
 
-–
-
-dem Schutz von Gewässerrandstreifen gemäß § 38 Abs. 4 Satz 2 Nr. 1 WHG
+- dem Schutz von Gewässerrandstreifen gemäß § 38 Abs. 4 Satz 2 Nr. 1 WHG
 
 ergeben.
 7. Entscheidung
@@ -159,13 +123,9 @@ Eine ablehnende Entscheidung ist gegenüber der Antragstellerin/dem Antragstelle
 Soweit eine Behörde gleichzeitig UNB und UWB ist, sollen die beiden Prüfergebnisse zusammen gegenüber der Antragstellerin/dem Antragsteller bekannt gegeben werden.
 8. Mitteilung an die LWK
 Nach Abschluss der Prüfung ist die LWK zu informieren, sofern
-–
+- die Fläche, auf die sich der Antrag bezieht, in einem Fauna-Flora-Habitat- (FFH-) oder Vogelschutzgebiet gelegen ist (vgl. § 12 GAPKondG) und/oder
 
-die Fläche, auf die sich der Antrag bezieht, in einem Fauna-Flora-Habitat- (FFH-) oder Vogelschutzgebiet gelegen ist (vgl. § 12 GAPKondG) und/oder
-
-–
-
-gegen die angegebene Ersatzfläche i. S. des § 5 Abs. 1 Nr. 3 GAPKondG fachliche Bedenken bestehen.
+- gegen die angegebene Ersatzfläche i. S. des § 5 Abs. 1 Nr. 3 GAPKondG fachliche Bedenken bestehen.
 
 9. Verhältnis zu anderen Verfahren
 Soweit im Zusammenhang mit der geplanten Umwandlung von Dauergrünland Ausnahme- oder Befreiungsanträge nach dem Fachrecht gestellt werden, ist hierzu eine separate Entscheidung durch die jeweils

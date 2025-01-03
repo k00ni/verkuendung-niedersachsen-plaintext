@@ -37,9 +37,7 @@ Literalität zu senken und insbesondere deren soziale, kulturelle, politische, d
 verbessern. Dabei sollen deren vielfältigen Lebenssituationen sowie deren Lehr- und Lernumgebungen berücksichtigt werden. Darüber hinaus sollen in diesem Kontext bestehende Konzepte überarbeitet oder neu
 entwickelt werden.
 1.2
-–
-
-Die Gewährung der Zuwendung erfolgt gemäß den Regelungen der
+- Die Gewährung der Zuwendung erfolgt gemäß den Regelungen der
 Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24.6.2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen
 Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den
 Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für
@@ -54,15 +52,11 @@ finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. L 231 vom 30
 vom 16.12.2021, S. 158; L 241 vom 19.9.2022, S. 16; L 65 vom 2.3.2023, S. 59), zuletzt geändert durch
 Verordnung (EU) 2024/795 des Europäischen Parlaments und des Rates vom 29.2.2024 (ABl. L,
 2024/795, 29.2.2024),
-–
-
-Verordnung (EU) 2021/1057 des Europäischen Parlaments und des Rates vom 24.6.2021 zur Einrichtung des Europäischen Sozialfonds Plus (ESF+) und zur Aufhebung der Verordnung (EU)
+- Verordnung (EU) 2021/1057 des Europäischen Parlaments und des Rates vom 24.6.2021 zur Einrichtung des Europäischen Sozialfonds Plus (ESF+) und zur Aufhebung der Verordnung (EU)
 Nr. 1296/2013 (ABl. L 231 vom 30.6.2021, S. 21; L 421 vom 26.11.2021, S. 75), geändert durch Verordnung (EU) 2024/795 des Europäischen Parlaments und des Rates vom 29.2.2024 (ABl. L, 2024/795,
 29.2.2024),
 
-–
-
-EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen für
+- EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen für
 Zuwendungen zur Projektförderung (ANBest-EFRE/ESF+) – Bezugserlass zu a –,
 
 in der jeweils geltenden Fassung.
@@ -123,18 +117,12 @@ Verordnung (EU) 2021/1060 genehmigen.
 
 Allgemeine Bewilligungsvoraussetzungen sind:
 
-–
+- Der Antrag ist bei der Bewilligungsbehörde frist- und formgerecht einzureichen.
 
-Der Antrag ist bei der Bewilligungsbehörde frist- und formgerecht einzureichen.
-
-–
-
-Eine Zuwendung darf nur gewährt werden, wenn eine gesicherte Gesamtfinanzierung des jeweiligen
+- Eine Zuwendung darf nur gewährt werden, wenn eine gesicherte Gesamtfinanzierung des jeweiligen
 Projekts vorgewiesen wird.
 
-–
-
-Der Zuwendungsempfänger führt die Projekte eigenverantwortlich, ggf. mit Kooperationspartnern,
+- Der Zuwendungsempfänger führt die Projekte eigenverantwortlich, ggf. mit Kooperationspartnern,
 durch.
 
 4.3
@@ -161,22 +149,14 @@ im Einvernehmen mit dem MWK im Einzelfall Ausnahmen zulassen.
 
 Folgende Ausgaben sind zuwendungsfähig:
 
-–
-
-direkte Personalausgaben, soweit sie unmittelbar dem Zuwendungszweck dienen, dem betreffenden
+- direkte Personalausgaben, soweit sie unmittelbar dem Zuwendungszweck dienen, dem betreffenden
 Projekt direkt zugeordnet werden können und soweit sie notwendig und angemessen sind,
 
-–
+- Ausgaben für Honorar- und/oder Lehrbeauftragte,
 
-Ausgaben für Honorar- und/oder Lehrbeauftragte,
+- Standardeinheitskosten für ehrenamtlich Tätige,
 
-–
-
-Standardeinheitskosten für ehrenamtlich Tätige,
-
-–
-
-alle sonstigen zuwendungsfähigen Ausgaben, die durch eine Restkostenpauschale auf die Personalausgaben gemäß Artikel 56 Abs. 1 der Verordnung (EU) 2021/1060 in Höhe von 40 % abgegolten werden.
+- alle sonstigen zuwendungsfähigen Ausgaben, die durch eine Restkostenpauschale auf die Personalausgaben gemäß Artikel 56 Abs. 1 der Verordnung (EU) 2021/1060 in Höhe von 40 % abgegolten werden.
 
 Die Abrechnung der Personalausgaben als vereinfachte Kostenoption i. S. des Artikels 53 der Verordnung (EU) 2021/1060 wird in einem RdErl. der EFRE/ESF+-Verwaltungsbehörde – Bezugserlass zu b –, in
 der jeweils geltenden Fassung, geregelt.
@@ -282,30 +262,22 @@ Ausgangslage und Ziele unter Einbeziehung der Querschnittsziele
 
 15
 
-–
-
-Eine nachvollziehbare Darstellung des
+- Eine nachvollziehbare Darstellung des
 Handlungsfeldes im Projektgebiet
 
 0 Punkte, wenn keine Berücksichtigung erfolgt ist.
 
-–
-
-Eine nachvollziehbare Beschreibung
+- Eine nachvollziehbare Beschreibung
 des Bedarfs der Zielgruppe und eine Erläuterung, wie auf diese Bedarfe eingegangen werden soll
 
 5 Punkte, wenn die Beschreibung der
 Ausgangslage und Ziele teilweise
 schlüssig und nachvollziehbar ist.
 
-–
-
-Darstellung der bestehenden Netzwerke
+- Darstellung der bestehenden Netzwerke
 und ggf. Kooperationen
 
-–
-
-Darstellung der strategischen und operativen Projektziele
+- Darstellung der strategischen und operativen Projektziele
 
 10 Punkte, wenn die Beschreibung
 der Ausgangslage und Ziele im überwiegenden Teil schlüssig und nachvollziehbar ist.
@@ -331,21 +303,13 @@ gewählten Methoden der Maßnahme
 30
 
 Das Konzept enthält Aussagen
-–
+- zur Dauer und zum Umfang (Unterrichtsstunden [à 45 Min.] oder Äquivalente in Teilnahmetagen)
 
-zur Dauer und zum Umfang (Unterrichtsstunden [à 45 Min.] oder Äquivalente in Teilnahmetagen)
+- zum zeitlichen und inhaltlichen Ablauf
 
-–
+- zum Kursformat
 
-zum zeitlichen und inhaltlichen Ablauf
-
-–
-
-zum Kursformat
-
-–
-
-zur Diagnostik zu Beginn des Kurses
+- zur Diagnostik zu Beginn des Kurses
 
 10 Punkte, wenn Gliederung und innere Logik teilweise erkennbar sind
 oder nur Aussagen zur Umsetzung
@@ -362,24 +326,16 @@ B.2
 
 C)
 
-–
+- Wie soll durch die Maßnahme der Abbau von geringer Literalität erfolgen?
 
-Wie soll durch die Maßnahme der Abbau von geringer Literalität erfolgen?
-
-–
-
-Welche Voraussetzungen werden geschaffen, um Personen ohne ersten
+- Welche Voraussetzungen werden geschaffen, um Personen ohne ersten
 Schulabschluss zu befähigen, sich für
 die Prüfung zum Erwerb des Hauptoder Realschulabschlusses anzumelden?
 
-–
-
-Wie erfolgt eine geeignete Ansprache
+- Wie erfolgt eine geeignete Ansprache
 der Zielgruppe?
 
-–
-
-Wie kann durch die Maßnahme die soziale oder berufliche Teilhabe der Zielgruppe verbessert werden?
+- Wie kann durch die Maßnahme die soziale oder berufliche Teilhabe der Zielgruppe verbessert werden?
 
 30 Punkte, wenn Gliederung und innere Logik gut erkennbar sind und
 Aussagen zur Umsetzung der inhaltlichen Ziele der Richtlinie gemacht
@@ -396,17 +352,11 @@ der Querschnittsziele
 
 15
 
-–
+- Erfahrung des Antragstellers in der Umsetzung und Durchführung von Maßnahmen für Erwachsene oder im Bereich der Grundbildung.
 
-Erfahrung des Antragstellers in der Umsetzung und Durchführung von Maßnahmen für Erwachsene oder im Bereich der Grundbildung.
+- Die Qualifikation des eingesetzten Personals wird nachvollziehbar dargestellt.
 
-–
-
-Die Qualifikation des eingesetzten Personals wird nachvollziehbar dargestellt.
-
-–
-
-Der Antragsteller stellt nachvollziehbar
+- Der Antragsteller stellt nachvollziehbar
 dar, dass für die Maßnahme eine geeignete Strategie zur Teilnehmendenakquise und ggf. Einbindung von Kooperationspartnern besteht.
 
 0 Punkte, wenn keine klare Gliederung und innere Logik erkennbar ist
@@ -425,19 +375,13 @@ Nds. MBl. 2024 Nr. 174 vom 16. April 2024
 
 2.
 
-–
-
-Darstellung des Personalschlüssels für
+- Darstellung des Personalschlüssels für
 das Projekt.
 
-–
-
-Schlüssigkeit des Finanzierungsplans
+- Schlüssigkeit des Finanzierungsplans
 und dessen Erläuterungen.
 
-–
-
-Kongruenz und Qualität aller Unterlagen.
+- Kongruenz und Qualität aller Unterlagen.
 
 Querschnittsziele
 
@@ -458,46 +402,30 @@ Es werden Aussagen zu nachfolgenden Bereichen getroffen, die sowohl den Antragst
 
 B
 
-–
+- Förderung der Vereinbarkeit von Familie und Beruf (z. B. Kinderbetreuung) im Rahmen des Vorhabens.
 
-Förderung der Vereinbarkeit von Familie und Beruf (z. B. Kinderbetreuung) im Rahmen des Vorhabens.
-
-–
-
-Kompetenzen des Bildungspersonals
+- Kompetenzen des Bildungspersonals
 im Hinblick auf die Gleichstellung der
 Geschlechter (entspricht der Qualifikation des Personals im Hinblick auf die
 Gleichstellungssystematik).
 
-–
-
-Gleiche Vergütungsstrukturen für
+- Gleiche Vergütungsstrukturen für
 Frauen und Männer beim Antragsteller.
 
-–
+- Berücksichtigung geschlechtsspezifischer Bedürfnisse bei der Durchführung der Maßnahmen.
 
-Berücksichtigung geschlechtsspezifischer Bedürfnisse bei der Durchführung der Maßnahmen.
+- Maßnahmen stehen Frauen und Männern gleichermaßen offen.
 
-–
-
-Maßnahmen stehen Frauen und Männern gleichermaßen offen.
-
-–
-
-Berücksichtigung der Besonderheiten
+- Berücksichtigung der Besonderheiten
 und Bedarfe zwischen den Geschlechtern in der Planung der Bildungskonzeption und Sicherstellung, dass alle
 Geschlechter gleichermaßen berücksichtigt werden.
 
-–
-
-Maßnahmen zum Abbau geschlechtsspezifischer Benachteiligungen im
+- Maßnahmen zum Abbau geschlechtsspezifischer Benachteiligungen im
 Rahmen des Vorhabens oder auf der
 Ebene des Antragstellers.
 
 Chancengleichheit und Nichtdiskriminierung
-–
-
-Das Projekt trifft Aussagen darüber, wie
+- Das Projekt trifft Aussagen darüber, wie
 das Querschnittsziel beim Antragsteller
 und im Projekt selbst, in Bezug auf das
 
@@ -526,37 +454,25 @@ eingesetzte Personal sowie das Vorhaben umgesetzt wird.
 5 Punkte, wenn das Querschnittsziel
 nur teilweise berücksichtigt wurde.
 
-–
+- Dabei sollen die nachfolgenden Bereiche berücksichtigt werden:
 
-Dabei sollen die nachfolgenden Bereiche berücksichtigt werden:
-
-–
-
-Berücksichtigung von Chancengleichheit und Nichtdiskriminierung bei der
+- Berücksichtigung von Chancengleichheit und Nichtdiskriminierung bei der
 Konzeption der Bildungsmaßnahme.
 
 10 Punkte, wenn das Querschnittsziel im überwiegenden Teil berücksichtigt wurde.
 
-–
-
-Berücksichtigung benachteiligter Zielgruppen unter Berücksichtigung ihrer
+- Berücksichtigung benachteiligter Zielgruppen unter Berücksichtigung ihrer
 Belange und Lebenslagen im Rahmen
 des Vorhabens.
 
-–
-
-Teilhabe, barrierefreier Zugang, Auffindbarkeit und Nutzbarkeit für Menschen mit Behinderungen im Rahmen
+- Teilhabe, barrierefreier Zugang, Auffindbarkeit und Nutzbarkeit für Menschen mit Behinderungen im Rahmen
 des Vorhabens oder auf der Ebene des
 Antragstellers.
 
-–
-
-Weitere Maßnahmen sowie Kompetenzen des Bildungspersonals im Rahmen
+- Weitere Maßnahmen sowie Kompetenzen des Bildungspersonals im Rahmen
 des Vorhabens in Bezug auf Chancengleichheit, Nichtdiskriminierung und Inklusion.
 
-–
-
-Es wird eine sozialpädagogische Begleitung im Projekt zur Verfügung gestellt/vorgesehen.
+- Es wird eine sozialpädagogische Begleitung im Projekt zur Verfügung gestellt/vorgesehen.
 
 Nachhaltige Entwicklung
 

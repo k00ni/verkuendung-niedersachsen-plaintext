@@ -28,15 +28,11 @@ Der Erschwernisausgleich Pflanzenschutz soll somit zu positiven Umweltauswirkung
 durch den Verzicht auf die Anwendung bestimmter Pflanzenschutzmittel hervorgerufen werden.
 1.2
 Die Gewährung des Erschwernisausgleichs erfolgt auf der Grundlage der nachfolgenden Rechtsgrundlagen in der jeweils geltenden Fassung:
-–
-
-Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“
+- Gesetz über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“
 (GAK-Gesetz – GAKG) vom 21.07.1988 (BGBl. I. S. 1055), zuletzt geändert durch das Gesetz vom
 11.10.2016 (BGBl. I S. 2231),
 
-–
-
-Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“
+- Rahmenplan der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“
 Förderbereich 4 Buchst. K „Förderung besonders nachhaltiger Verfahren im Zusammenhang mit der
 Umsetzung der FFH- und der Vogelschutzrichtlinie“,
 
@@ -46,59 +42,41 @@ Nds. MBl. 2024 Nr. 52 vom 30. Januar 2024
 
 Seite 2
 
-–
+- allgemeine beihilferechtliche Bestimmungen des Rahmenplans der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“,
 
-allgemeine beihilferechtliche Bestimmungen des Rahmenplans der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“,
-
-–
-
-Richtlinie 92/43/EWG des Rates vom 21.05.1992 zur Erhaltung der natürlichen Lebensräume sowie der
+- Richtlinie 92/43/EWG des Rates vom 21.05.1992 zur Erhaltung der natürlichen Lebensräume sowie der
 wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.07.1992, S. 7; L 95 vom 29.03.2014, S. 70), zuletzt
 geändert durch Richtlinie 2013/17/EU des Rates vom 13.05.2013 (ABl. L 158 vom 10.06.2013, S. 193)
 – sog. FFH-Richtlinie –,
 
-–
-
-Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30.11.2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.01.2010, S. 7), zuletzt geändert durch Verordnung
+- Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30.11.2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.01.2010, S. 7), zuletzt geändert durch Verordnung
 (EU) 2019/1010 des Europäischen Parlaments und des Rates vom 05.06.2019 (ABl. L 170 vom
 25.06.2019, S. 115) – sog. Vogelschutzrichtlinie –,
 
-–
-
-§ 14 Abs. 6 PflSchG vom 06.02.2012 (BGBl. I S. 148, 1281), zuletzt geändert durch Artikel 2 Abs. 15
+- § 14 Abs. 6 PflSchG vom 06.02.2012 (BGBl. I S. 148, 1281), zuletzt geändert durch Artikel 2 Abs. 15
 des Gesetzes vom 20.12.2022 (BGBl. I S. 2752),
 
-–
-
-§ 4 Pflanzenschutz-Anwendungsverordnung vom 10.11.1992 (BGBl. I S. 1887), zuletzt geändert durch
+- § 4 Pflanzenschutz-Anwendungsverordnung vom 10.11.1992 (BGBl. I S. 1887), zuletzt geändert durch
 Artikel 1 der Verordnung vom 01.06.2022 (BGBl. I S. 867) – im Folgenden: PflSchAnwV–,
 
-–
-
-Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 02.12.2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik
+- Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 02.12.2021 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen Agrarpolitik
 zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL) und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden
 Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU) Nr. 1305/2013 sowie der
 Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 06.12.2021, S. 1; L 181 vom 07.07.2022, S. 35, L 227
 vom 01.09.2022, S. 137), zuletzt geändert durch Delegierte Verordnung (EU) 2023/813 der Kommission
 vom 08.02.2023 (ABl. L 102 vom 17.04.2023, S. 1),
 
-–
-
-Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 02.12.2021 über die
+- Verordnung (EU) 2021/2116 des Europäischen Parlaments und des Rates vom 02.12.2021 über die
 Finanzierung, Verwaltung und Überwachung der Gemeinsamen Agrarpolitik und zur Aufhebung der
 Verordnung (EU) Nr. 1306/2013 (ABl. L 435 vom 06.12.2021, S. 187; L 29 vom 10.02.2022, S. 45),
 geändert durch Delegierte Verordnung (EU) 2022/1408 der Kommission vom 16.06.2022 (ABl. L 216
 vom 19.08.2022, S. 1),
 
-–
-
-Verordnung zur Durchführung der GAP-Direktzahlungen (GAP-Direktzahlungen-Verordnung –
+- Verordnung zur Durchführung der GAP-Direktzahlungen (GAP-Direktzahlungen-Verordnung –
 GAPDZV) vom 24.01.2022 (BGBl. I S. 139), zuletzt geändert durch Verordnung vom 04.12.2023 (BGBl.
 2023 I Nr. 343),
 
-–
-
-Verordnung (EU) 2022/2472 der Kommission vom 14.12.2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen
+- Verordnung (EU) 2022/2472 der Kommission vom 14.12.2022 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen
 Union (ABl. L 327 vom 21.12.2022, S. 1), geändert durch Verordnung (EU) 2023/2607 der Kommission
 vom 22.11.2023 (ABl. L vom 23.11.2023, S. 1).
 
@@ -124,21 +102,15 @@ die beantragte Fläche landwirtschaftlich zu nutzen.
 
 Von der Förderung ausgeschlossen sind:
 
-–
-
-Unternehmen, bei denen es sich um ein Unternehmen in Schwierigkeiten gemäß Randnummer 33
+- Unternehmen, bei denen es sich um ein Unternehmen in Schwierigkeiten gemäß Randnummer 33
 Nr. 63 Mitteilung der Kommission zur Rahmenregelung für staatliche Beihilfen im Agrar- und Forstsektor
 und in ländlichen Gebieten vom 21.12.2022 (2022/C 485/01) (ABl. C 485 vom 21.12.2022, S. 1) handelt,
 oder
 
-–
-
-Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht
+- Unternehmen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Kommission zur Feststellung der Rechtswidrigkeit und Unvereinbarkeit einer Beihilfe mit dem Binnenmarkt nicht
 Folge geleistet haben oder
 
-–
-
-Unternehmen, über deren Vermögen ein Insolvenz-, Vergleichs-, Konkurs-, Sequestrations- oder ein
+- Unternehmen, über deren Vermögen ein Insolvenz-, Vergleichs-, Konkurs-, Sequestrations- oder ein
 Gesamtvollstreckungsverfahren beantragt oder eröffnet worden ist. Dasselbe gilt für Antragstellerinnen
 und Antragsteller die zur Abgabe der Vermögensauskunft nach § 802 c ZPO oder § 284 AO verpflichtet
 sind oder bei denen diese abgenommen wurde. Handelt es sich bei dem Antragsteller oder der Antragstellerin um eine durch einen gesetzlichen Vertreter vertretene juristische Person, gilt dies, sofern den
@@ -153,25 +125,15 @@ Der Erschwernisausgleich nach dieser Richtlinie kann nur gewährt werden, wenn:
 4.1.1 die beantragten Flächen vom Antragstellenden oder vom antragstellenden Unternehmen im Kalenderjahr produktiv genutzt werden; sie gelten als produktiv genutzt, wenn sie bis zur Ernte nach ortsüblichen
 Maßstäben gepflegt und anschließend einer Ernte und Verwertung zugeführt werden. Für Landschaftselemente, stillgelegte oder aus der Erzeugung genommene Flächen wird kein Erschwernisausgleich gewährt;
 4.1.2 sich die Flächen, auf denen keine Pflanzenschutzmittel nach § 4 Abs. 1 PflSchAnwV ausgebracht werden, in Niedersachsen befinden und sowohl in einem Natura 2000-Gebiet als auch in einem
-–
+- Naturschutzgebiet,
 
-Naturschutzgebiet,
+- Nationalpark,
 
-–
+- Naturdenkmal oder
 
-Nationalpark,
+- gesetzlich geschützten Biotop i. S. von § 30 BNatSchG liegen,
 
-–
-
-Naturdenkmal oder
-
-–
-
-gesetzlich geschützten Biotop i. S. von § 30 BNatSchG liegen,
-
-–
-
-die Flächen werden berücksichtigt, wenn bis zum 1. Dezember des dem Antrag vorhergehenden
+- die Flächen werden berücksichtigt, wenn bis zum 1. Dezember des dem Antrag vorhergehenden
 Jahres eine rechtskräftige Festlegung des Naturschutzgebietes oder eines gesetzlich geschützten Biotops erfolgt ist;
 
 4.1.3 für die beantragten Flächen keine Ausnahme von den Verboten nach § 4 Abs. 2 der PflSchAnwV im
@@ -183,26 +145,18 @@ nach dieser Richtlinie gestellt werden kann, beträgt 0,1 Hektar.
 
 Begünstigte sind verpflichtet, während des Verpflichtungszeitraumes auf den beantragten Flächen:
 
-–
-
-die einschlägigen obligatorischen Grundanforderungen gemäß Kapitel I Abschnitt 2 der Verordnung
+- die einschlägigen obligatorischen Grundanforderungen gemäß Kapitel I Abschnitt 2 der Verordnung
 (EU) 2021/2115, deren nationale Umsetzung gemäß GAPKondG und GAPKondV sowie
 
-–
-
-die aus den einschlägigen Rechtsvorschriften bestehenden Vorgaben und Bedingungen einzuhalten.
+- die aus den einschlägigen Rechtsvorschriften bestehenden Vorgaben und Bedingungen einzuhalten.
 
 4.4
-–
-
-Begünstigte sind verpflichtet zuzustimmen:
+- Begünstigte sind verpflichtet zuzustimmen:
 zur Überprüfung der beantragten Fördermaßnahmen einer Nutzung der InVeKoS-Daten zu den Direktzahlungen und den Agrarumwelt- und Klimamaßnahmen sowie der HIT-Daten durch die Bewilligungsbehörde sowie
 
 Nds. MBl. 2024 Nr. 52 vom 30. Januar 2024
 
-–
-
-Seite 4
+- Seite 4
 
 der Datenweitergabe und Datenverarbeitung zum Zwecke der verwaltungsmäßigen Umsetzung, der
 Kontrolle, der Evaluierung oder der Berichterstattung der Maßnahme an die entsprechenden Dienststellen des Landes, des Bundes oder der EU.
@@ -235,23 +189,15 @@ dieser Richtlinie gewährt.
 
 Begünstigte sind verpflichtet,
 
-–
+- im betreffenden Kalenderjahr einen Sammelantrag Agrarförderung und Agrarumwelt- und Klimamaßnahmen zu stellen,
 
-im betreffenden Kalenderjahr einen Sammelantrag Agrarförderung und Agrarumwelt- und Klimamaßnahmen zu stellen,
-
-–
-
-der Bewilligungsbehörde unverzüglich die Tatsachen mitzuteilen, die der Bewilligung, Weitergewährung, Inanspruchnahme oder dem Belassen der Zahlung entgegenstehen oder für eine Rückforderung
+- der Bewilligungsbehörde unverzüglich die Tatsachen mitzuteilen, die der Bewilligung, Weitergewährung, Inanspruchnahme oder dem Belassen der Zahlung entgegenstehen oder für eine Rückforderung
 der Zahlung erheblich sind,
 
-–
-
-sämtliche Belege mindestens bis zum sechsten Jahr nach Ablauf des Verpflichtungszeitraumes auf dem
+- sämtliche Belege mindestens bis zum sechsten Jahr nach Ablauf des Verpflichtungszeitraumes auf dem
 Betrieb aufzubewahren,
 
-–
-
-eine Überprüfung der beantragten Fördermaßnahmen durch die Bewilligungs- und Aufsichtsbehörde
+- eine Überprüfung der beantragten Fördermaßnahmen durch die Bewilligungs- und Aufsichtsbehörde
 und den LRH sowie durch deren Beauftragte zuzulassen, auf Verlangen Einblick in die entsprechenden
 Unterlagen zu gewähren, zum Zwecke der Evaluierung der jeweiligen Fördermaßnahme die erforderlichen Auskünfte zu erteilen sowie ein Betretungsrecht für alle Betriebsflächen und Betriebsräume einzuräumen.
 

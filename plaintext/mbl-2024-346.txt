@@ -20,9 +20,7 @@ Das beantragte Vorhaben umfasst folgende Maßnahmen: Die Änderung der Linie 3.
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.
 Der vollständige Bescheid einschließlich seiner Begründung und die genehmigten Antragsunterlagen können in der Zeit vom 31.07. bis einschließlich 13.08.2024 bei folgenden Stellen eingesehen werden:
-–
-
-Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
+- Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer 417,
 während der Dienststunden,
 montags bis donnerstags in der Zeit von
 
@@ -33,9 +31,7 @@ freitags in der Zeit von
 7.30 bis 12.00 Uhr
 
 sowie zusätzlich nach vorheriger telefonischer Anmeldung;
-–
-
-Stadt Lingen, Neue Straße 5, 49808 Lingen, während der Öffnungszeiten,
+- Stadt Lingen, Neue Straße 5, 49808 Lingen, während der Öffnungszeiten,
 montags bis mittwochs
 
 9.00 bis 16.00 Uhr,
@@ -80,17 +76,11 @@ Das GAA Oldenburg hat der RWE Nukleus Green H2 GmbH, Schüttorfer Strasse 100, 4
 16 und 10 des Bundes-Immissionsschutzgesetzes (BImSchG) erteilt.
 2. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die Errichtung folgender wesentlicher Anlagenteile und Nebeneinrichtungen einschließlich ihres Betriebes:
-–
+- Elektrolyseur Linie 3 (PEM-Wasserelektrolyse),
 
-Elektrolyseur Linie 3 (PEM-Wasserelektrolyse),
+- Nebenanlagen (Schaltanlagen, Kühlsysteme, Elektroanschluss etc.) und
 
-–
-
-Nebenanlagen (Schaltanlagen, Kühlsysteme, Elektroanschluss etc.) und
-
-–
-
-Betriebsgebäude.
+- Betriebsgebäude.
 
 Standort der Anlage ist:
 Ort:
@@ -116,23 +106,15 @@ Flurstücke:
 Die im Formular „Inhaltsverzeichnis“ des Antrags vom 08.12.2023 im Einzelnen aufgeführten Antragsunterlagen sind Bestandteil dieses Genehmigungsbescheides und liegen diesem zugrunde.
 3. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
+- die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
 
-die Baugenehmigung nach § 70 Niedersächsische Bauordnung (NBauO),
-
-–
-
-die im Kapitel 12.9 für das Bauvorhaben beantragten Abweichungen werden gem. § 51 NBauO als
+- die im Kapitel 12.9 für das Bauvorhaben beantragten Abweichungen werden gem. § 51 NBauO als
 Erleichterungen gestattet. Die im Kapitel 12.9 für Alarmierungseinrichtungen und Brandmeldeanlagen
 beantragte Abweichungen werden gemäß § 66 NBauO zugelassen; zudem wird die beantragte Unterschreitung der Abstände auf demselben Grundstück gem. § 51 NBauO gestattet,
 
-–
+- die Genehmigung zur Umwandlung von Wald gemäß § 8 Abs. 1 NWaldLG und der dazugehörigen waldrechtlichen Kompensation nach § 8 Abs. 4 NWaldLG (Kompensationsmaßnahme K 4) und
 
-die Genehmigung zur Umwandlung von Wald gemäß § 8 Abs. 1 NWaldLG und der dazugehörigen waldrechtlichen Kompensation nach § 8 Abs. 4 NWaldLG (Kompensationsmaßnahme K 4) und
-
-–
-
-die Ausnahme nach § 30 Abs. 3 BNatSchG für die Inanspruchnahme von ca. 10.650 m² des gesetzlich
+- die Ausnahme nach § 30 Abs. 3 BNatSchG für die Inanspruchnahme von ca. 10.650 m² des gesetzlich
 geschützten Biotopes Trockene Sandheide (HCT/RSZ und HCT/RAG) mit Hilfe der Ausgleichsmaßnahme mit einer Entwicklung von neuen 10 650 m² Sandtrockenrasen als Teilfläche einer ca. 1,6 ha
 städtischen Ersatzfläche „E 481“ (Kompensationsmaßnahme K2).
 

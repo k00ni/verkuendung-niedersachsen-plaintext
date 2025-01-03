@@ -19,9 +19,7 @@ Erweiterung der bisherigen Abfallkonditionierungsanlage C412 um das künftige Ge
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
 Der vollständige Bescheid kann in der Zeit vom 21.03. bis einschließlich 08.04.2024 bei folgenden Stellen eingesehen werden:
-–
-
-Staatliches Gewerbeaufsichtsamt Hannover, Raum 304, Freundallee 9 a, 30173 Hannover,
+- Staatliches Gewerbeaufsichtsamt Hannover, Raum 304, Freundallee 9 a, 30173 Hannover,
 montags bis donnerstags in der Zeit von
 
 8.00 bis 16.00 Uhr,
@@ -31,9 +29,7 @@ freitags und vor Feiertagen in der Zeit von
 8.00 bis 14.00 Uhr
 
 und nach telefonischer Vereinbarung unter Tel. 0511 9096-0;
-–
-
-Stadt Holzminden, Zimmer Nr. 008 (Bürgerbüro), Neue Straße 12, 37603 Holzminden,
+- Stadt Holzminden, Zimmer Nr. 008 (Bürgerbüro), Neue Straße 12, 37603 Holzminden,
 montags, dienstags und donnerstags
 in der Zeit von
 
@@ -79,39 +75,23 @@ erteilt.
 Gegenstand der Genehmigung
 Die Genehmigung umfasst im Wesentlichen folgende Maßnahmen:
 
-–
-
-Erhöhung der Durchsatzkapazität an Einsatzstoffen der Abfallkonditionierungsanlage von 6 000 t/a auf
+- Erhöhung der Durchsatzkapazität an Einsatzstoffen der Abfallkonditionierungsanlage von 6 000 t/a auf
 300 t/d; wobei die Durchsatzkapazität der bereits bestehenden Abfallkonditionierung in Gebäude C412
 maximal 72 t/d beträgt; sodass bis zur Inbetriebnahme der neuen Abfallkonditionierungsanlage eine
 maximale Durchsatzkapazität von 72 t/d genehmigt ist;
 
-–
+- Erhöhung der Gesamtlagerkapazität der Lagerung von gefährlichen Abfällen von 303 t auf 543 t;
 
-Erhöhung der Gesamtlagerkapazität der Lagerung von gefährlichen Abfällen von 303 t auf 543 t;
+- Errichtung des Geb. E612 zur Erweiterung der Abfallkonditionierungsanlage mit
+- 4 Lagertanks je 60 m3 (RA01 bis RA04),
 
-–
+- 8 Quarantänetanks je 35 m3 (RA05 bis RA12),
 
-Errichtung des Geb. E612 zur Erweiterung der Abfallkonditionierungsanlage mit
-–
+- Aktivlagerfläche zur Befüllung/Entleerung von 2 Tankcontainern (je 30 m3) sowie ein Tankkraftwagen mit bis zu 30 m3,
 
-4 Lagertanks je 60 m3 (RA01 bis RA04),
+- Gebäude u. a. mit Pumpenraum, Messwarte, Labor und Sozialräumen,
 
-–
-
-8 Quarantänetanks je 35 m3 (RA05 bis RA12),
-
-–
-
-Aktivlagerfläche zur Befüllung/Entleerung von 2 Tankcontainern (je 30 m3) sowie ein Tankkraftwagen mit bis zu 30 m3,
-
-–
-
-Gebäude u. a. mit Pumpenraum, Messwarte, Labor und Sozialräumen,
-
-–
-
-Rohrbrücke zwischen Gebäude E612 zum Kraftwerk Weser Geb. D642.
+- Rohrbrücke zwischen Gebäude E612 zum Kraftwerk Weser Geb. D642.
 
 Die Struktur der immissionsschutzrechtlichen Gesamtanlage mit den genehmigungsrelevanten Nebeneinrichtungen ergibt sich wie folgt:
 Anlagenbezeichnung
@@ -226,13 +206,9 @@ Genehmigungsbescheides und liegen diesem zugrunde.
 Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
 
-–
+- die Baugenehmigung nach Niedersächsischer Bauordnung (NBauO),
 
-die Baugenehmigung nach Niedersächsischer Bauordnung (NBauO),
-
-–
-
-die Erlaubnis nach § 18 Abs. 1 der Betriebssicherheitsverordnung.
+- die Erlaubnis nach § 18 Abs. 1 der Betriebssicherheitsverordnung.
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach
 § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.

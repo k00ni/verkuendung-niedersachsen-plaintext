@@ -367,35 +367,23 @@ b)
 c)
 
 in den Fällen von § 8 Absätze 1 und 2
-–
-
-Bescheinigung über die Teilnahme an vorgeschriebenen Zwischenprüfungen oder am ersten Teil
+- Bescheinigung über die Teilnahme an vorgeschriebenen Zwischenprüfungen oder am ersten Teil
 der Abschlussprüfung,
 
-–
-
-ein vorgeschriebener, von der Ausbilderin oder dem Ausbilder und der oder dem Auszubildenden
+- ein vorgeschriebener, von der Ausbilderin oder dem Ausbilder und der oder dem Auszubildenden
 unterzeichneter Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 BBiG,
 
 in den Fällen des § 9
-–
-
-Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang und in den
+- Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang und in den
 Fällen des § 9 Nummer 1 zusätzlich
 
-–
-
-Bescheinigung über die Teilnahme an der fachpraktischen Ausbildung im Rahmen des schulischen oder sonstigen Bildungsganges,
+- Bescheinigung über die Teilnahme an der fachpraktischen Ausbildung im Rahmen des schulischen oder sonstigen Bildungsganges,
 
 im Fall des § 10 Abs. 1
-–
-
-d)
+- d)
 
 in den Fällen des § 10 Absatz 2 Sätze 1 und 2
-–
-
-e)
+- e)
 
 zusätzlich zu den Unterlagen nach Buchstabe a oder Buchstabe b das letzte Zeugnis oder eine
 aktuelle Leistungsbeurteilung der zuletzt besuchten berufsbildenden Schule,
@@ -404,9 +392,7 @@ in einem anderen einschlägigen Ausbildungsberuf und gegebenenfalls glaubhafte D
 über den Erwerb der beruflichen Handlungsfähigkeit,
 
 in den Fällen des § 10 Absatz 2 Satz 3 und Absatz 3
-–
-
-glaubhafte Darlegung über den Erwerb der beruflichen Handlungsfähigkeit oder Bescheinigung
+- glaubhafte Darlegung über den Erwerb der beruflichen Handlungsfähigkeit oder Bescheinigung
 über den Erwerb der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten.
 
 (5) Für Wiederholungsprüfungen genügt die form- und fristgerechte Anmeldung zur Prüfung.
@@ -842,32 +828,20 @@ Prüfungszeugnis
 (1) Über die Prüfung erhält der Prüfling vom NLWKN ein Zeugnis (§ 37 Absatz 2 BBiG). Der vom NLWKN
 vorgeschriebene Vordruck ist zu verwenden.
 (2) Das Prüfungszeugnis enthält
-–
-
-die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 BBiG“ oder „Prüfungszeugnis nach § 62 Absatz
+- die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 BBiG“ oder „Prüfungszeugnis nach § 62 Absatz
 3 in Verbindung mit § 37 Absatz 2 BBiG“,
 
-–
+- die Personalien des Prüflings (Name, Vorname, Geburtsdatum),
 
-die Personalien des Prüflings (Name, Vorname, Geburtsdatum),
-
-–
-
-die Bezeichnung des Ausbildungsberufs mit Fachrichtung oder prüfungsrelevantem Schwerpunkt; weitere in der Ausbildungsordnung ausgewiesene prüfungsrelevante Differenzierungen können aufgeführt
+- die Bezeichnung des Ausbildungsberufs mit Fachrichtung oder prüfungsrelevantem Schwerpunkt; weitere in der Ausbildungsordnung ausgewiesene prüfungsrelevante Differenzierungen können aufgeführt
 werden,
 
-–
-
-die Ergebnisse (Punkte) der Prüfungsbereiche und das Gesamtergebnis (Note), soweit ein solches in
+- die Ergebnisse (Punkte) der Prüfungsbereiche und das Gesamtergebnis (Note), soweit ein solches in
 der Ausbildungsordnung vorgesehen ist,
 
-–
+- das Datum des Bestehens der Prüfung,
 
-das Datum des Bestehens der Prüfung,
-
-–
-
-die Namenswiedergaben (Faksimile) oder Unterschriften des Vorsitzes des Prüfungsausschusses und
+- die Namenswiedergaben (Faksimile) oder Unterschriften des Vorsitzes des Prüfungsausschusses und
 der beauftragten Person des NLWKN mit Siegel.
 Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten, insbesondere über die Einordnung des erworbenen Abschlusses in den Deutschen Qualifikationsrahmen oder auf Antrag der geprüften Person über während oder anlässlich der Ausbildung erworbene
 besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.

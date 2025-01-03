@@ -119,9 +119,7 @@ Staatsrecht
 
 24
 
-–
-
-54
+- 54
 
 1
 
@@ -147,9 +145,7 @@ Kommunalrecht
 
 20
 
-–
-
-40
+- 40
 
 1
 
@@ -161,17 +157,13 @@ Kommunalrecht
 
 Sozialrecht
 
-–
-
-–
+- –
 
 1.4 s
 
 Sozialrecht
 
-–
-
-–
+- –
 
 60
 45
@@ -227,9 +219,7 @@ Beamtenrecht
 
 Besonderes Verwaltungsrecht
 
-–
-
-–
+- –
 
 60
 
@@ -259,9 +249,7 @@ Privatrecht
 
 Arbeits- und Tarifrecht
 
-–
-
-–
+- –
 
 40
 
@@ -311,9 +299,7 @@ Volkswirtschaftslehre
 
 1
 
-–
-
-–
+- –
 
 28
 
@@ -323,9 +309,7 @@ Volkswirtschaftslehre
 
 Betriebswirtschaftslehre der öffentlichen Verwaltung
 
-–
-
-–
+- –
 
 45
 
@@ -343,9 +327,7 @@ Verwaltungsorganisationslehre
 
 1
 
-–
-
-–
+- –
 
 40
 
@@ -376,9 +358,7 @@ Buchführung der Gemeinden
 
 1
 
-–
-
-–
+- –
 
 30
 
@@ -406,9 +386,7 @@ Haushalts- und Kassenrecht
 
 Öffentliche Finanzwirtschaft II
 
-–
-
-–
+- –
 
 30
 
@@ -422,9 +400,7 @@ Haushalts- und Kassenrecht
 
 Kosten- und Leistungsrechnung
 
-–
-
-–
+- –
 
 30
 
@@ -438,9 +414,7 @@ Kosten- und Leistungsrechnung
 
 Investitionsrechnung
 
-–
-
-–
+- –
 
 25
 
@@ -452,9 +426,7 @@ Kaufmännische Buchführung
 
 1
 
-–
-
-–
+- –
 
 30
 
@@ -482,13 +454,9 @@ Lernen und Arbeiten
 
 24
 
-–
+- –
 
-–
-
-–
-
-24
+- 24
 
 0
 
@@ -496,15 +464,11 @@ Lernen und Arbeiten
 
 Bürgerorientierte Verwaltung
 
-–
-
-–
+- –
 
 24
 
-–
-
-24
+- 24
 
 0
 
@@ -512,9 +476,7 @@ Bürgerorientierte Verwaltung
 
 Zusammenarbeit in der Verwaltung
 
-–
-
-–
+- –
 
 34
 
@@ -560,27 +522,21 @@ Klausuren
 
 44
 
-–
+- 75
 
-75
-
-–
-
-119
+- 119
 
 0
 
 44
 350
 
-–
-9
+- 9
 
 60
 720
 
-–
-13
+- 13
 
 104
 1070
@@ -883,17 +839,11 @@ Mandatsträgerinnen und Mandatsträger
 5
 
 Innere Verfassung der Gemeinde, Organe
-–
+- Vertretung
 
-Vertretung
+- Hauptausschuss
 
-–
-
-Hauptausschuss
-
-–
-
-Hauptverwaltungsbeamtin, Hauptverwaltungsbeamter
+- Hauptverwaltungsbeamtin, Hauptverwaltungsbeamter
 
 Satzungen
 
@@ -1269,70 +1219,42 @@ GL
 
 4
 
-–
+- Begriff „öffentlicher Dienst“
 
-Begriff „öffentlicher Dienst“
-
-–
-
-Rechtsquellen
+- Rechtsquellen
 
 2
 
 Beamtenverhältnis
-–
+- Rechtsnatur
 
-Rechtsnatur
+- Arten
 
-–
-
-Arten
-
-–
-
-oberste Dienstbehörde, Dienstvorgesetzte, Dienstvorgesetzter, Vorgesetzte, Vorgesetzter
+- oberste Dienstbehörde, Dienstvorgesetzte, Dienstvorgesetzter, Vorgesetzte, Vorgesetzter
 
 4
 
 Ernennungsrecht
-–
+- Rechtsnatur der Ernennung
 
-Rechtsnatur der Ernennung
+- Fälle der Ernennung, laufbahnrechtliche Voraussetzungen
 
-–
+- Form der Ernennung
 
-Fälle der Ernennung, laufbahnrechtliche Voraussetzungen
+- Wirkung der Ernennung, Wirksamwerden
 
-–
+- Fehler
 
-Form der Ernennung
+- Arten
 
-–
-
-Wirkung der Ernennung, Wirksamwerden
-
-–
-
-Fehler
-
-–
-
-Arten
-
-–
-
-Folgen
+- Folgen
 
 8
 
 Laufbahnrecht
-–
+- Begriff der Laufbahn und Laufbahngestaltung am Beispiel der Laufbahnen der Fachrichtung Allgemeine Dienste
 
-Begriff der Laufbahn und Laufbahngestaltung am Beispiel der Laufbahnen der Fachrichtung Allgemeine Dienste
-
-–
-
-Abordnung, Versetzung, Umsetzung
+- Abordnung, Versetzung, Umsetzung
 
 Unterrichtsstunden
 
@@ -1363,25 +1285,15 @@ Hinweise
 8
 
 Besoldung und Bezüge
-–
+- Einführung, Rechtsquellen
 
-Einführung, Rechtsquellen
+- Anspruch auf Besoldung; Zahlung der Bezüge
 
-–
+- Grundgehalt
 
-Anspruch auf Besoldung; Zahlung der Bezüge
+- Familienzuschlag und Kindergeld
 
-–
-
-Grundgehalt
-
-–
-
-Familienzuschlag und Kindergeld
-
-–
-
-sonstige Ansprüche
+- sonstige Ansprüche
 
 9
 
@@ -1469,21 +1381,13 @@ Inhalte
 1
 
 Rechtssubjekte
-–
+- natürliche und juristische Personen
 
-natürliche und juristische Personen
+- Rechtsfähigkeit
 
-–
+- Geschäftsfähigkeit
 
-Rechtsfähigkeit
-
-–
-
-Geschäftsfähigkeit
-
-–
-
-Deliktsfähigkeit
+- Deliktsfähigkeit
 
 Lehrgang
 
@@ -1530,37 +1434,21 @@ Hinweise
 2
 
 Rechtsgeschäfte
-–
+- Willenserklärung (Arten, Form)
 
-Willenserklärung (Arten, Form)
+- einseitige und mehrseitige Rechtsgeschäfte
 
-–
+- Verpflichtungs- und Verfügungsgeschäfte
 
-einseitige und mehrseitige Rechtsgeschäfte
+- ungerechtfertigte Bereicherung (nur Leistungskondiktion)
 
-–
+- Zustandekommen von Verträgen (Antrag und Annahme)
 
-Verpflichtungs- und Verfügungsgeschäfte
+- Schuldnerpflichten
 
-–
+- Nichtigkeit, Vernichtbarkeit (insbesondere Anfechtung)
 
-ungerechtfertigte Bereicherung (nur Leistungskondiktion)
-
-–
-
-Zustandekommen von Verträgen (Antrag und Annahme)
-
-–
-
-Schuldnerpflichten
-
-–
-
-Nichtigkeit, Vernichtbarkeit (insbesondere Anfechtung)
-
-–
-
-Stellvertretung
+- Stellvertretung
 
 16
 
@@ -1607,13 +1495,9 @@ Sachenrecht
 
 8
 
-–
+- Eigentum und Besitz
 
-Eigentum und Besitz
-
-–
-
-rechtsgeschäftlicher Erwerb und Verlust des Eigentums
+- rechtsgeschäftlicher Erwerb und Verlust des Eigentums
 
 Vorwiegend am
 Beispiel des
@@ -1648,46 +1532,26 @@ AL
 
 2
 
-–
+- Kollektives Arbeitsrecht (TVG)
 
-Kollektives Arbeitsrecht (TVG)
+- Individuelles Arbeitsrecht
 
-–
-
-Individuelles Arbeitsrecht
-
-–
-
-Rechtsquellen
+- Rechtsquellen
 
 Begründung von Arbeitsverhältnissen
-–
+- Einstellungsvoraussetzungen
 
-Einstellungsvoraussetzungen
+- Zustandekommen
 
-–
+- Einstellungsverfahren
 
-Zustandekommen
+- Personalvertretungsrecht
 
-–
+- Anfechtung, Nichtigkeit
 
-Einstellungsverfahren
+- faktisches Arbeitsverhältnis
 
-–
-
-Personalvertretungsrecht
-
-–
-
-Anfechtung, Nichtigkeit
-
-–
-
-faktisches Arbeitsverhältnis
-
-–
-
-Befristung
+- Befristung
 
 Unterricht
 
@@ -1736,58 +1600,32 @@ Hinweise
 5
 
 Inhalt von Arbeitsverhältnissen
-–
+- Arbeitsvertrag
 
-Arbeitsvertrag
+- Rechte und Pflichten
 
-–
+- Arbeitszeit
 
-Rechte und Pflichten
+- Beschäftigungszeit
 
-–
+- Eingruppierung
 
-Arbeitszeit
+- Zulagen für höherwertige Tätigkeit
 
-–
+- Entgelt
 
-Beschäftigungszeit
+- Entgelt bei Krankheit
 
-–
-
-Eingruppierung
-
-–
-
-Zulagen für höherwertige Tätigkeit
-
-–
-
-Entgelt
-
-–
-
-Entgelt bei Krankheit
-
-–
-
-Ausschlussfrist
+- Ausschlussfrist
 
 Beendigung von Arbeitsverhältnissen
-–
+- Beendigungsgründe
 
-Beendigungsgründe
+- ordentliche und außerordentliche Kündigung
 
-–
+- allgemeiner und besonderer Kündigungsschutz
 
-ordentliche und außerordentliche Kündigung
-
-–
-
-allgemeiner und besonderer Kündigungsschutz
-
-–
-
-Zeugnis
+- Zeugnis
 
 Übungen zu den Nummern 2 bis 4
 
@@ -1852,21 +1690,13 @@ Einführung in die juristische Methodenlehre
 
 GL
 
-–
+- Aufbau und Zusammenhang der Rechtssätze
 
-Aufbau und Zusammenhang der Rechtssätze
+- Auslegung von Rechtssätzen
 
-–
+- Grundtechniken der Rechtsanwendung (Subsumtion, Ermessensausübung)
 
-Auslegung von Rechtssätzen
-
-–
-
-Grundtechniken der Rechtsanwendung (Subsumtion, Ermessensausübung)
-
-–
-
-Gutachtentechnik
+- Gutachtentechnik
 
 64 Std.
 Unterrichtsstunden
@@ -2781,13 +2611,9 @@ Antragsverfahren
 4.3
 
 Bewilligung nach Finanzierungsarten
-–
+- Projektförderung
 
-Projektförderung
-
-–
-
-institutionelle Förderung
+- institutionelle Förderung
 
 Unterrichtsstunden
 1
@@ -3636,13 +3462,9 @@ Es sind Leistungsnachweise in Form von mindestens 18 Klausuren zu erbringen (§ 
 beträgt im Grundlehrgang (GL) 180 Minuten (4 Unterrichtsstunden) und im Abschlusslehrgang (AL) 225 Minuten (5 Unterrichtsstunden), soweit der Lehr- oder Stoffverteilungsplan nicht etwas anderes bestimmt. Das Studieninstitut kann entscheiden, dass unter Beachtung des § 13 Abs. 1 Satz 1 APVO-AD-VerwD höchstens drei
 Klausuren durch Referate als Leistungsnachweise ersetzt werden.
 Daneben können nach Entscheidung des Studieninstituts Leistungsnachweise in Form von
-–
+- Hausarbeiten im Umfang von 8 bis 10 Seiten unter Verwendung von Literatur und Rechtsprechung und
 
-Hausarbeiten im Umfang von 8 bis 10 Seiten unter Verwendung von Literatur und Rechtsprechung und
-
-–
-
-Referaten, die vorher in Kurzfassung schriftlich auszuarbeiten sind,
+- Referaten, die vorher in Kurzfassung schriftlich auszuarbeiten sind,
 
 gefordert werden.
 Im AL sind zusätzlich zu den im Lehr- oder Stoffverteilungsplan ausgewiesenen Klausuren eine Hausarbeit und ein Referat als Leistungsnachweis zu erbringen
@@ -3694,13 +3516,9 @@ Staatsrecht
 
 30
 
-–
+- –
 
-–
-
-–
-
-30
+- 30
 
 0
 
@@ -3726,9 +3544,7 @@ Kommunalrecht
 
 20
 
-–
-
-35
+- 35
 
 1
 
@@ -3740,9 +3556,7 @@ Kommunalrecht
 
 Baurecht
 
-–
-
-–
+- –
 
 40
 
@@ -3756,9 +3570,7 @@ Baurecht
 
 Sozialrecht
 
-–
-
-–
+- –
 
 40
 
@@ -3774,9 +3586,7 @@ Personalwirtschaft
 
 30
 
-–
-
-40
+- 40
 
 1
 
@@ -3788,9 +3598,7 @@ Personalwirtschaft
 
 Besondere Gebiete des öffentlichen Rechts
 
-–
-
-–
+- –
 
 60
 
@@ -3870,9 +3678,7 @@ Verwaltungsmanagement
 
 16
 
-–
-
-38
+- 38
 
 1
 
@@ -3886,13 +3692,9 @@ Wirtschaftsmathematik
 
 20
 
-–
+- –
 
-–
-
-–
-
-20
+- 20
 
 0
 
@@ -3904,9 +3706,7 @@ Wirtschaftsmathematik
 
 1
 
-–
-
-–
+- –
 
 48
 
@@ -3921,9 +3721,7 @@ Buchführung der Gemeinden
 
 1
 
-–
-
-–
+- –
 
 38
 
@@ -3936,9 +3734,7 @@ Haushalts- und Kassenrecht
 
 26
 
-–
-
-38
+- 38
 
 1
 
@@ -3950,9 +3746,7 @@ Haushalts- und Kassenrecht
 
 Kosten- und Leistungsrechnung
 
-–
-
-–
+- –
 
 38
 
@@ -3966,9 +3760,7 @@ Kosten- und Leistungsrechnung
 
 Investition und Finanzierung
 
-–
-
-–
+- –
 
 38
 
@@ -4002,19 +3794,13 @@ Klausuren
 
 16
 
-–
+- –
 
-–
-
-–
-
-16
+- 16
 
 0
 
-–
-
-38
+- 38
 
 1
 
@@ -4052,13 +3838,9 @@ Lernen und Arbeiten
 
 12
 
-–
+- 20
 
-20
-
-–
-
-32
+- 32
 
 0
 
@@ -4068,13 +3850,9 @@ Sozialwissenschaften
 
 24
 
-–
+- 36
 
-36
-
-–
-
-60
+- 60
 
 0
 
@@ -4082,9 +3860,7 @@ Sozialwissenschaften
 
 Wahlpflichtfach
 
-–
-
-–
+- –
 
 40
 
@@ -4098,15 +3874,11 @@ Wahlpflichtfach
 
 Klausurenkurs
 
-–
-
-–
+- –
 
 30
 
-–
-
-303) 4)
+- 303) 4)
 
 0
 
@@ -4116,13 +3888,9 @@ Verfügungs- und Bedarfsstunden5)
 
 34
 
-–
+- 74
 
-74
-
-–
-
-108
+- 108
 
 0
 
@@ -4300,19 +4068,13 @@ Lehrgang
 Handlungsformen der Verwaltung I
 Überblick/Bindung der Verwaltung durch den Gesetzgeber
 Verwaltungsakt
-–
-Begriff/Inhalt/Arten/Bekanntgabe
-–
-Nebenbestimmungen
-–
-Fehlerlehre
-–
-Aufhebung von Verwaltungsakten
+- Begriff/Inhalt/Arten/Bekanntgabe
+- Nebenbestimmungen
+- Fehlerlehre
+- Aufhebung von Verwaltungsakten
 Verwaltungsverfahren
-–
-Arten von Verwaltungsverfahren
-–
-Verfahrensgrundsätze
+- Arten von Verwaltungsverfahren
+- Verfahrensgrundsätze
 
 GL
 
@@ -4348,14 +4110,10 @@ Schwerpunkt bei Erstentscheidungen
 
 Kontrolle des Verwaltungshandelns
 Widerspruchsverfahren
-–
-Funktion und Ablauf des Widerspruchsverfahrens
-–
-Zulässigkeit und Begründetheit des Widerspruchs
-–
-Widerspruchsentscheidung
-–
-Kostenentscheidung
+- Funktion und Ablauf des Widerspruchsverfahrens
+- Zulässigkeit und Begründetheit des Widerspruchs
+- Widerspruchsentscheidung
+- Kostenentscheidung
 Aufschiebende Wirkung des Widerspruchs und Grundzüge des vorläufigen Rechtsschutzes
 Übersicht über die Klagearten
 
@@ -4502,17 +4260,11 @@ Einführung
 
 AL
 
-–
+- Überblick über das Baurecht
 
-Überblick über das Baurecht
+- privates und öffentliches Baurecht
 
-–
-
-privates und öffentliches Baurecht
-
-–
-
-Instrumente der kommunalen Bauleitplanung
+- Instrumente der kommunalen Bauleitplanung
 
 Unterricht
 
@@ -4651,10 +4403,8 @@ AL
 2
 
 Sozialhilferecht
-–
-Hilfe zum Lebensunterhalt
-–
-Hilfe in besonderen Lebenslagen
+- Hilfe zum Lebensunterhalt
+- Hilfe in besonderen Lebenslagen
 
 12
 
@@ -4695,18 +4445,15 @@ Lehrgang
 1
 
 Wiederholung und Vertiefung
-–
-Begründung und Veränderung von Beamten- und Arbeitsverhältnissen
+- Begründung und Veränderung von Beamten- und Arbeitsverhältnissen
 
 GL
 
 2
 
 Personalwirtschaftliche Maßnahmen
-–
-Personalplanung
-–
-Personaleinsatz
+- Personalplanung
+- Personaleinsatz
 
 3
 
@@ -4715,10 +4462,8 @@ Beendigung von Beamten- und Arbeitsverhältnissen
 4
 
 Rechte und Pflichten
-–
-Rechte und Pflichten von Beamten und Angestellten (ohne vermögensrechtliche Ansprüche)
-–
-Folgen von Pflichtverletzungen (Überblick)
+- Rechte und Pflichten von Beamten und Angestellten (ohne vermögensrechtliche Ansprüche)
+- Folgen von Pflichtverletzungen (Überblick)
 
 30 Std.
 
@@ -4882,20 +4627,13 @@ Unterrichtsstunden
 1
 
 Vertrag (allgemein)
-–
-Rechtsgeschäfte
-–
-Zustandekommen von Verträgen
-–
-Stellvertretung
-–
-Auslegung
-–
-Nichtigkeit/Vernichtbarkeit
-–
-Beendigung
-–
-AGB (Grundzüge)
+- Rechtsgeschäfte
+- Zustandekommen von Verträgen
+- Stellvertretung
+- Auslegung
+- Nichtigkeit/Vernichtbarkeit
+- Beendigung
+- AGB (Grundzüge)
 
 GL
 
@@ -5009,16 +4747,11 @@ Lehrgang
 1
 
 Wiederholung und Vertiefung juristischer Arbeitsmethoden:
-–
-Aufbau und Zusammenhang der Rechtssätze
-–
-Auslegung von Rechtssätzen
-–
-Grundtechniken der Rechtsanwendung (Subsumtion, Ermessensausübung)
-–
-Gutachtentechnik
-–
-Bescheidtechnik
+- Aufbau und Zusammenhang der Rechtssätze
+- Auslegung von Rechtssätzen
+- Grundtechniken der Rechtsanwendung (Subsumtion, Ermessensausübung)
+- Gutachtentechnik
+- Bescheidtechnik
 
 GL
 
@@ -6164,41 +5897,28 @@ Lehrgang
 1
 
 Lernbedingungen
-–
-Konzentration und Entspannung
-–
-Lernkanäle, Lernwege, Lerntypen
-–
-Lernen und Gedächtnis
+- Konzentration und Entspannung
+- Lernkanäle, Lernwege, Lerntypen
+- Lernen und Gedächtnis
 
 GL
 
 2
 
 Informationsverarbeitung
-–
-
-Effektives Lesen
+- Effektives Lesen
 (Selektives Lesen, studierendes Lesen, Text markieren, Enkodierstrategien, Verstehensstrategien [z. B. Schema, Struktur, Gliederung, Mind Map], Memotechniken)
 
 3
 
-–
+- Wiederholungsstrategien
 
-Wiederholungsstrategien
-
-–
-
-Zuhören und Mitschreiben (z. B. Unterricht, Vortrag, Besprechung)
+- Zuhören und Mitschreiben (z. B. Unterricht, Vortrag, Besprechung)
 
 Selbstmotivation
-–
+- Motivationsstrategien
 
-Motivationsstrategien
-
-–
-
-Zielplanungsstrategien
+- Zielplanungsstrategien
 
 4
 
@@ -6207,21 +5927,13 @@ Lernen und Arbeiten in Gruppen
 5
 
 Lernmanagement
-–
+- Lernplanung (Zielplanung, Interferenzen, Lernpausen)
 
-Lernplanung (Zielplanung, Interferenzen, Lernpausen)
+- Zeitmanagement
 
-–
+- Äußere Lernhilfen (Arbeitsraum, Arbeitsplatz, eigene Bücher, Lernkartei, Informationsablagen)
 
-Zeitmanagement
-
-–
-
-Äußere Lernhilfen (Arbeitsraum, Arbeitsplatz, eigene Bücher, Lernkartei, Informationsablagen)
-
-–
-
-Prüfungsvorbereitungen, Prüfungsangst
+- Prüfungsvorbereitungen, Prüfungsangst
 
 Unterrichtsstunden
 12
@@ -6233,21 +5945,13 @@ Hinweise
 3.2
 
 Wissenschaftliches Arbeiten
-–
+- Arten juristischer, wirtschafts- und sozialwissenschaftlicher Literatur
 
-Arten juristischer, wirtschafts- und sozialwissenschaftlicher Literatur
+- Benutzung einer Bibliothek
 
-–
+- Erstellen einer wissenschaftlichen Arbeit
 
-Benutzung einer Bibliothek
-
-–
-
-Erstellen einer wissenschaftlichen Arbeit
-
-–
-
-Zitieren in Gutachten und Entscheidungen einschließlich Übung des Referats
+- Zitieren in Gutachten und Entscheidungen einschließlich Übung des Referats
 
 Sozialwissenschaften
 
@@ -6310,8 +6014,7 @@ Lehrgang
 1
 
 Kommunikation
-–
-Bedingung menschlicher Kommunikation
+- Bedingung menschlicher Kommunikation
 
 GL
 
@@ -6319,67 +6022,37 @@ GL
 
 3
 
-–
+- Wahrnehmung
 
-Wahrnehmung
+- Kontaktverhalten
+- rhetorische Darstellungsmittel
 
-–
+- Methoden zur Linderung der Redeangst
 
-Kontaktverhalten
-–
+- Sprechtechnik (Artikulation, Modulation, Verlegenheitslaute)
 
-rhetorische Darstellungsmittel
-
-–
-
-Methoden zur Linderung der Redeangst
-
-–
-
-Sprechtechnik (Artikulation, Modulation, Verlegenheitslaute)
-
-–
-
-Wirkung von Haltung, Gestik, Mimik
+- Wirkung von Haltung, Gestik, Mimik
 
 Präsentation
-–
+- Vor- und Nachbereitung einer Präsentation (inhaltlich, methodisch, organisatorisch)
 
-Vor- und Nachbereitung einer Präsentation (inhaltlich, methodisch, organisatorisch)
+- Aufbau verschiedener Präsentationsformen (z. B. informierendes und argumentierendes Referat, Statement)
 
-–
-
-Aufbau verschiedener Präsentationsformen (z. B. informierendes und argumentierendes Referat, Statement)
-
-–
-
-Visualisierungsmöglichkeiten
+- Visualisierungsmöglichkeiten
 
 Moderation
-–
+- Aufgaben einer Moderatorin/eines Moderators
 
-Aufgaben einer Moderatorin/eines Moderators
+- Vorbereitung einer Moderation (inhaltlich, methodisch, organisatorisch)
 
-–
-
-Vorbereitung einer Moderation (inhaltlich, methodisch, organisatorisch)
-
-–
-
-Ablauf einer Moderation ( Einstieg, Themensammlung, Themenauswahl, Themenbearbeitung,
+- Ablauf einer Moderation ( Einstieg, Themensammlung, Themenauswahl, Themenbearbeitung,
 Ergebnisermittlung, Konsequenzen, Abschluss)
 
-–
+- Methoden der Moderation und der Visualisierung (z. B. Fragetechnik im Gespräch, Kartenabfrage, Abfrage auf Zuruf, Ein-/Mehrpunkt-Abfrage, Problem-Analyse-Schema, Ursache-Wirkungs-Diagramm, Matrix)
 
-Methoden der Moderation und der Visualisierung (z. B. Fragetechnik im Gespräch, Kartenabfrage, Abfrage auf Zuruf, Ein-/Mehrpunkt-Abfrage, Problem-Analyse-Schema, Ursache-Wirkungs-Diagramm, Matrix)
+- Prozesssteuerung in einer Moderation (gruppendynamische Prozesse)
 
-–
-
-Prozesssteuerung in einer Moderation (gruppendynamische Prozesse)
-
-–
-
-Nachbereitung einer Moderation
+- Nachbereitung einer Moderation
 
 AL
 
@@ -6408,30 +6081,18 @@ Nummer 6 geübt
 3.3
 
 Arbeitsgruppen in der Verwaltung
-–
+- Arbeitsmotivation, Arbeitszufriedenheit und Arbeitsleistung
 
-Arbeitsmotivation, Arbeitszufriedenheit und Arbeitsleistung
-
-–
-
-belastende Arbeitsbedingungen (Stress und Stressabbau)
+- belastende Arbeitsbedingungen (Stress und Stressabbau)
 
 Bürger und Verwaltung
-–
+- Ziele und Bedingungen bürgernahen Verwaltungshandeln
 
-Ziele und Bedingungen bürgernahen Verwaltungshandeln
+- Konflikte (Ursachen und Lösungsmöglichkeiten)
 
-–
+- konfliktmildernde Verhaltens- und Gesprächstechniken (Rollenspiel)
 
-Konflikte (Ursachen und Lösungsmöglichkeiten)
-
-–
-
-konfliktmildernde Verhaltens- und Gesprächstechniken (Rollenspiel)
-
-–
-
-interkulturelle Kompetenz und Vielfaltsanliegen
+- interkulturelle Kompetenz und Vielfaltsanliegen
 
 Wahlpflichtfach
 
@@ -6496,41 +6157,29 @@ Lehrgang
 Angebot und Inhalte nach näherer Festlegung
 durch das Studieninstitut, z. B.
 AVR II
-–
-Staatshaftungsrecht
+- Staatshaftungsrecht
 AVR III
-–
-Datenschutz
+- Datenschutz
 AVR IV
-–
-öffentliches Sachenrecht
+- öffentliches Sachenrecht
 WVR
-–
-Wirtschaftsverwaltungsrecht
+- Wirtschaftsverwaltungsrecht
 OWi
-–
-Ordnungswidrigkeitenrecht
+- Ordnungswidrigkeitenrecht
 Kom II
-–
-Kommunalwirtschaft
+- Kommunalwirtschaft
 EuR
-–
-Europarecht
+- Europarecht
 BGB II
-–
-Familienrecht
+- Familienrecht
 Sta
-–
-Statistik
+- Statistik
 BöV II
-–
-Organisationsentwicklung
+- Organisationsentwicklung
 SoW II
-–
-Verwaltung und Gesellschaft
+- Verwaltung und Gesellschaft
 SoW III
-–
-Verwaltung und Politik
+- Verwaltung und Politik
 
 AL
 
@@ -6613,13 +6262,9 @@ Hinweise zur Beurteilung der Leistungen in der berufspraktischen
 Ausbildung (§ 11 Abs. 2, § 13 Abs. 2 APVO-AD-VerwD)
 1. Ziele der Beurteilung
 Die Beurteilung ist ein wichtiges pädagogisches Instrument, das den zu Beurteilenden nach jedem Ausbildungsabschnitt Rückmeldung über ihre Leistungen und ihr Verhalten gibt:
-–
+- Durch Kenntlichmachen der Stärken werden sie motiviert, in Zukunft ähnlich gute Leistungen zu erbringen.
 
-Durch Kenntlichmachen der Stärken werden sie motiviert, in Zukunft ähnlich gute Leistungen zu erbringen.
-
-–
-
-Durch Kenntlichmachen (noch) vorhandener Schwächen erhalten sie die Möglichkeit, rechtzeitig das
+- Durch Kenntlichmachen (noch) vorhandener Schwächen erhalten sie die Möglichkeit, rechtzeitig das
 Lern- und Leistungsverhalten, ggf. das Sozialverhalten zu überdenken und sich um entsprechende Korrekturen zu bemühen.
 
 Die Ausbildungsleiterin oder der Ausbildungsleiter erhält Informationen über die Entwicklung und Probleme

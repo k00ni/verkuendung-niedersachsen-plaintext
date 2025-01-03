@@ -149,42 +149,24 @@ Nr. 3.2.
 4.1.1 Jede oder jeder PVB, die oder der überwiegend Außendienst versieht, erhält ein jährliches Bekleidungsbudget in Höhe von 300 EUR.
 4.1.2 Jede oder jeder PVB, die oder der überwiegend Innendienst versieht, erhält ein jährliches Bekleidungsbudget in Höhe von 210 EUR.
 Eine überwiegend innendienstliche Funktion liegt vor bei Verwendung
-–
+- im MI;
 
-im MI;
-
-–
-
-in den Stäben der Polizeibehörden/der PA NI; dies gilt nicht für die dort unmittelbar angegliederten
+- in den Stäben der Polizeibehörden/der PA NI; dies gilt nicht für die dort unmittelbar angegliederten
 Reiter- und Diensthundführerstaffeln sowie Polizeitrainerinnen und Polizeitrainer für das Systemische
 Einsatztraining (SET);
 
-–
+- in den Stäben der Polizeiinspektionen sowie in den angegliederten Organisationsbereichen
+- Analysestelle,
 
-in den Stäben der Polizeiinspektionen sowie in den angegliederten Organisationsbereichen
-–
+- Einsatz und Verkehr,
 
-Analysestelle,
+- Allgemeine Gefahrenabwehr/Umweltschutz,
 
-–
+- Führungs- und Einsatzmittel;
 
-Einsatz und Verkehr,
+- als Leiterin oder Leiter einer Polizeidienststelle;
 
-–
-
-Allgemeine Gefahrenabwehr/Umweltschutz,
-
-–
-
-Führungs- und Einsatzmittel;
-
-–
-
-als Leiterin oder Leiter einer Polizeidienststelle;
-
-–
-
-in der PA NI.
+- in der PA NI.
 
 4.1.3 Jede oder jeder PVB, die oder der überwiegend Kriminaldienst versieht, erhält ein jährliches Bekleidungsbudget in Höhe von 60 EUR.
 4.1.4 Zu Beginn des Bachelorstudiums an der PA NI erhalten PKA eine Zahlung in Höhe von 230 EUR auf
@@ -520,17 +502,13 @@ Stückzahl/Paar
 
 Blazer/Sakko, dunkelblau
 
-–
-
-1
+- 1
 
 2
 
 Anzughose, dunkelblau
 
-–
-
-1
+- 1
 
 3
 
@@ -583,9 +561,7 @@ Stiefel, sportlich
 
 1P
 
-–
-
-9
+- 9
 
 Polo-Shirt, dunkelblau, kurzarm, „POLIZEI“;
 alternativ: Hemd/Bluse, dunkelblau, kurzarm
@@ -606,17 +582,13 @@ Hemd/Bluse, dunkelblau, langarm
 
 Hemd/Bluse, weiß, kurzarm, „POLIZEI"
 
-–
-
-2
+- 2
 
 12
 
 Hemd/Bluse, weiß, langarm, „POLIZEI"
 
-–
-
-2
+- 2
 
 13
 
@@ -681,25 +653,19 @@ Stiefel Oberharz
 
 1P
 
-–
-
-21
+- 21
 
 Warnschutzjacke Klasse 3 (mit Wetterschutz)
 
 1
 
-–
-
-22
+- 22
 
 Wetterschutzhose, blau (N)
 
 1
 
-–
-
-1.3 Master-Studierende (ohne Befähigung zum Richteramt)
+- 1.3 Master-Studierende (ohne Befähigung zum Richteramt)
 Lfd.
 Nr.
 
@@ -933,9 +899,7 @@ Einsatzstiefel
 
 1P
 
-–
-
-8
+- 8
 
 Sport-T-Shirt (N)
 
@@ -1080,9 +1044,7 @@ Für Damen: Funktions-BH für Unterziehschutzweste (N)
 
 2
 
-–
-
-Bootsbesatzung
+- Bootsbesatzung
 Lfd.
 Nr.
 

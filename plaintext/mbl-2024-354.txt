@@ -17,29 +17,17 @@ die Erteilung einer Genehmigung für die wesentliche Änderung Ihrer Anlage zum 
 von Kupfer auf dem Grundstück in 49074 Osnabrück, Klosterstraße 29, Gemarkung Osnabrück, Flur 113,
 Flurstücke 91/3, 92 und 93, beantragt.
 Gegenstand der Änderungsgenehmigung sind folgende Maßnahmen:
-–
+- die Errichtung eines Hallenanbaus mit diversen organisatorischen Anpassungen des Betriebs,
 
-die Errichtung eines Hallenanbaus mit diversen organisatorischen Anpassungen des Betriebs,
+- die Errichtung/Nutzungsänderung der bestehenden Ofenhalle,
 
-–
+- Einschränkung der Betriebszeiten der Ofenanlagen 24, 25 und 46,
 
-die Errichtung/Nutzungsänderung der bestehenden Ofenhalle,
+- Einschränkung der Emissionsgrenzwerte an den Quellen 24, 25 und 46,
 
-–
+- die Verlängerung der Kranbahn,
 
-Einschränkung der Betriebszeiten der Ofenanlagen 24, 25 und 46,
-
-–
-
-Einschränkung der Emissionsgrenzwerte an den Quellen 24, 25 und 46,
-
-–
-
-die Verlängerung der Kranbahn,
-
-–
-
-die Errichtung der Ofenanlage („Raffinationsofen II“) einschließlich Pfannengrube und Entstaubungsanlage 27.
+- die Errichtung der Ofenanlage („Raffinationsofen II“) einschließlich Pfannengrube und Entstaubungsanlage 27.
 
 Mit dem Betrieb der Anlage soll unmittelbar nach Vorlage der Genehmigung und Abschluss der Errichtungsarbeiten begonnen werden.
 Die wesentliche Änderung bedarf der Genehmigung gemäß den §§ 10 und 16 Abs. 1 BImSchG i. V. m. § 1
@@ -57,34 +45,22 @@ Nds. MBl. 2024 Nr. 354 vom 7. August 2024
 
 Seite 2
 
-–
-
-Stellungnahme zur Schalltechnischen Untersuchung zur Errichtung des Raffinationsofens II in dem geplanten Neubau (Gebäude 200) der KME Germany GmbH am Standort in 49074 Osnabrück der TÜV
+- Stellungnahme zur Schalltechnischen Untersuchung zur Errichtung des Raffinationsofens II in dem geplanten Neubau (Gebäude 200) der KME Germany GmbH am Standort in 49074 Osnabrück der TÜV
 SÜD Industrie Service GmbH vom 18.09.2023,
 
-–
-
-Immissionsschutztechnischer Bericht Nr. LS16761.2/01 Schornsteinhöhenberechnung zur Errichtung
+- Immissionsschutztechnischer Bericht Nr. LS16761.2/01 Schornsteinhöhenberechnung zur Errichtung
 des Raffinationsofens 2 der KME Germany GmbH am Standort in 49074 Osnabrück der Zech Ingenieurgesellschaft mbH Lingen vom 16.06.2023,
 
-–
-
-schalltechnischer Bericht Nr. LL16761.1/01 der Zech Ingenieurgesellschaft mbH Lingen vom
+- schalltechnischer Bericht Nr. LL16761.1/01 der Zech Ingenieurgesellschaft mbH Lingen vom
 28.03.2023,
 
-–
-
-immissionsschutztechnischer Bericht Nr. LS16761.2/03 Luftschadstofftechnische Untersuchung zur Errichtung des Raffinationsofens 2 der KME Germany GmbH am Standort in 49074 Osnabrück der TÜV
+- immissionsschutztechnischer Bericht Nr. LS16761.2/03 Luftschadstofftechnische Untersuchung zur Errichtung des Raffinationsofens 2 der KME Germany GmbH am Standort in 49074 Osnabrück der TÜV
 SÜD Industrie Service GmbH vom 14.03.2024,
 
-–
-
-Ausgangszustandsbericht AZB-Vorprüfung Kupferschmelz- und Gießanlage KME Germany GmbH,
+- Ausgangszustandsbericht AZB-Vorprüfung Kupferschmelz- und Gießanlage KME Germany GmbH,
 Werk Osnabrück der Wessling Consulting Engineering GmbH & Co. KG vom 08.05.2024,
 
-–
-
-Antragsunterlagen nach § 6 UVPG i. V. m. Art. 5 UVP-Änd-RL für die Durchführung einer UVP regionalplan & uvp planungsbüro peter stelzer GmbH vom 20.10.2023.
+- Antragsunterlagen nach § 6 UVPG i. V. m. Art. 5 UVP-Änd-RL für die Durchführung einer UVP regionalplan & uvp planungsbüro peter stelzer GmbH vom 20.10.2023.
 
 Im Rahmen dieses Genehmigungsverfahrens war gemäß den §§ 5, 7 Abs. 6 und 7, 9 Abs. 2 Nr. 1 i. V. m.
 Nr. 3.5.1 X der Anlage 1 UVPG in der derzeit geltenden Fassung zu ermitteln, ob für das beantragte Vorhaben

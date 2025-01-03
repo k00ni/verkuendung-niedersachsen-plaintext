@@ -131,13 +131,9 @@ Es wird die folgende Nummer 4.4.4.2 angefügt:
 „4.4.4.2
 Ein Förderobjekt (siehe Nummer 1.4 vierter Spiegelstrich) kann die Zuwendungsvoraussetzungen mehrerer Fördertatbestände gleichzeitig erfüllen.
 Für den Fördertatbestand nach Nummer 4.1.2.5 gilt dies nur bei einem Investitionsvolumen (Nettokosten) von
-–
+- mehr als 700 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 oder 4.1.2.8 oder
 
-mehr als 700 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 oder 4.1.2.8 oder
-
-–
-
-mehr als 900 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 und 4.1.2.8.
+- mehr als 900 000 EUR neben den Nummern 4.1.2.6, 4.1.2.7 und 4.1.2.8.
 
 Die Regelung gilt für Anträge nach dem Antragsstichtag 30.09.2023 (siehe Nummer 9.3.1).
 Eine Kumulierung der Zuwendungen auf dieselben Ausgaben ist unzulässig, da

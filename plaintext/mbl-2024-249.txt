@@ -17,21 +17,13 @@ zur Herstellung von flüssigen Metall-Aminosäureverbindungen mit einer Produkti
 am Standort in 49393 Lohne, Brägeler Forst 13, auf dem Grundstück in 49393 Lohne, Gemarkung Lohne, Flur
 16, Flurstück(e) 163/15, 163/29, 163/34, beantragt.
 Gegenstand des Antrags sind folgende Maßnahmen:
-–
+- Betrieb einer Herstellungsanlage für flüssige Metall-Aminosäureverbindungen mit einer Herstellkapazität von 1 800t/Jahr,
 
-Betrieb einer Herstellungsanlage für flüssige Metall-Aminosäureverbindungen mit einer Herstellkapazität von 1 800t/Jahr,
+- Verwendung von bestehenden Logistikeinrichtungen für die BImSchG-Anlage,
 
-–
+- Lagerung von Stoffen für die Herstellungsanlage im Hoch- bzw. Verschieberegallager und Rohwarenlager,
 
-Verwendung von bestehenden Logistikeinrichtungen für die BImSchG-Anlage,
-
-–
-
-Lagerung von Stoffen für die Herstellungsanlage im Hoch- bzw. Verschieberegallager und Rohwarenlager,
-
-–
-
-Verwendung von bestehenden Infrastruktureinrichtungen für die BImSchG-Anlage.
+- Verwendung von bestehenden Infrastruktureinrichtungen für die BImSchG-Anlage.
 
 Mit dem Betrieb der Anlage soll unmittelbar nach Vorlage der Genehmigung begonnen werden. Die Errichtung der Anlage ist schon erfolgt.
 Der Betrieb der beantragten Anlage bedarf der Genehmigung gemäß den §§ 4 und 10 BImSchG i. V. m.
@@ -40,29 +32,19 @@ Artikel 10 der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates 
 Gemäß Nummer 8.1 der Anlage ZustVO-Umwelt-Arbeitsschutz ist das GAA Oldenburg die zuständige Genehmigungsbehörde.
 Das geplante Vorhaben wird hiermit gemäß § 10 Abs. 3 BImSchG öffentlich bekannt gemacht.
 Für das Vorhaben liegen dem GAA Oldenburg als Bestandteil der Antragsunterlagen derzeit folgende entscheidungserhebliche Berichte und Empfehlungen vor:
-–
+- Bericht über Geräuschmessungen bei der Biochem Zusatzstoffe GmbH nach Errichtung des Logistikund Flüssigproduktionsbereiches vom 15.09.2023,
 
-Bericht über Geräuschmessungen bei der Biochem Zusatzstoffe GmbH nach Errichtung des Logistikund Flüssigproduktionsbereiches vom 15.09.2023,
+- Stellungnahme zum Einfluss der geplanten Flüssigkeitsproduktion auf den angemessenen Sicherheitsabstand vom 06.12.2023,
 
-–
+- Sicherheitsbericht, Stand Oktober 2022,
 
-Stellungnahme zum Einfluss der geplanten Flüssigkeitsproduktion auf den angemessenen Sicherheitsabstand vom 06.12.2023,
-
-–
-
-Sicherheitsbericht, Stand Oktober 2022,
-
-–
-
-Brandschutzkonzept der NIG vom 03.04.2019, überarbeitet am 17.07.2020,
+- Brandschutzkonzept der NIG vom 03.04.2019, überarbeitet am 17.07.2020,
 
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 249 vom 29. Mai 2024
 
-–
-
-Seite 2
+- Seite 2
 
 Immissionsprognose der TÜV Nord vom 12.04.2024.
 
@@ -72,9 +54,7 @@ das Vorhaben nicht erforderlich ist. Es wird darauf aufmerksam gemacht, dass die
 Der Antrag auf Erteilung der Genehmigung und die Antragsunterlagen nach § 4 der 9. BImSchV, liegen
 vom 06.06. bis einschließlich zum 08.07.2024 bei den folgenden Stellen zu den angegebenen Zeiten zur
 Einsichtnahme öffentlich aus:
-–
-
-–
+- –
 
 Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer
 438 a, während der Dienststunden,

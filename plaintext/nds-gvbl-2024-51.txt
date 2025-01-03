@@ -37,15 +37,11 @@ die Anpassung der Aquakulturunternehmen an den Klimawandel und die Erhöhung der
 
 Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
 
-–
-
-der Verordnung (EU) 2021/1139 des Europäischen Parlaments und des Rates vom 07.07.2021 über
+- der Verordnung (EU) 2021/1139 des Europäischen Parlaments und des Rates vom 07.07.2021 über
 den Europäischen Meeres-, Fischerei- und Aquakulturfonds und zur Änderung der Verordnung (EU)
 2017/1004 (ABl. L 247 vom 13.07.2021, S. 1) – im Folgenden: EMFAF-Verordnung –,
 
-–
-
-der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24.06.2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen
+- der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24.06.2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen
 Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen
 Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den
 Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für
@@ -59,14 +55,10 @@ Nds. MBl. 2024 Nr. 51 vom 26. Januar 2024
 
 Seite 2
 
-–
-
-der einschlägigen Delegierten Verordnungen und Durchführungsverordnungen zur Verordnung über
+- der einschlägigen Delegierten Verordnungen und Durchführungsverordnungen zur Verordnung über
 den EMFAF und zur Dachverordnung,
 
-–
-
-des deutschen Programms für den EMFAF 2021–2027 (CCI-Nr. 2021DE14MFPR001),
+- des deutschen Programms für den EMFAF 2021–2027 (CCI-Nr. 2021DE14MFPR001),
 
 in den jeweils geltenden Fassungen.
 1.4
@@ -118,28 +110,18 @@ Seite 3
 a)
 
 In Natura 2000-Gebieten oder Schutzgebieten unter anderen Rechtsakten Vorhaben
-–
-
-zur Erforschung von Bedarf und Möglichkeiten für die Anpassung der Fischerei zur Erreichung
+- zur Erforschung von Bedarf und Möglichkeiten für die Anpassung der Fischerei zur Erreichung
 der Schutzziele,
 
-–
-
-zur Gestaltung von Schutzmaßnahmen, Entwicklung und Erprobung von Managementplänen und
+- zur Gestaltung von Schutzmaßnahmen, Entwicklung und Erprobung von Managementplänen und
 -maßnahmen für Fische, Neunaugen und Krebse,
 
-–
-
-zu Untersuchungen an natürlichen Wanderrouten und Laichgebieten von geschützten Fischarten,
+- zu Untersuchungen an natürlichen Wanderrouten und Laichgebieten von geschützten Fischarten,
 Neunaugen und Krebsen,
 
-–
+- zum Monitoring von geschützten Fischarten und Beifangmonitoring sowie
 
-zum Monitoring von geschützten Fischarten und Beifangmonitoring sowie
-
-–
-
-zu Sensibilisierungskampagnen (Maßnahmenart 1.6.3, Interventionskategorie 6);
+- zu Sensibilisierungskampagnen (Maßnahmenart 1.6.3, Interventionskategorie 6);
 
 b)
 
@@ -180,21 +162,13 @@ a)
 b)
 
 Investitionen
-–
+- in den Neubau oder die Modernisierung von Produktionsanlagen,
 
-in den Neubau oder die Modernisierung von Produktionsanlagen,
+- zur Erhöhung der Produktionskapazität,
 
-–
+- in die Digitalisierung, Mechanisierung und Effizienzsteigerung,
 
-zur Erhöhung der Produktionskapazität,
-
-–
-
-in die Digitalisierung, Mechanisierung und Effizienzsteigerung,
-
-–
-
-zur Verbesserung der Produktqualität (Maßnahmenart 2.1.1, Interventionskategorie 2.1.1),
+- zur Verbesserung der Produktqualität (Maßnahmenart 2.1.1, Interventionskategorie 2.1.1),
 
 Investitionen zur Verbesserung der Arbeitsbedingungen und Sicherheit (Maßnahmenart 2.1.2, Interventionskategorie 2),
 
@@ -220,13 +194,9 @@ e)
 
 zur Förderung der ökologischen Nachhaltigkeit von Aquakulturtätigkeiten sind Investitionen förderfähig,
 die
-–
+- der Reduzierung und Vermeidung von Belastung und/oder Verschmutzung/Kontaminierung, insbesondere des Auslaufwassers, dienen und/oder
 
-der Reduzierung und Vermeidung von Belastung und/oder Verschmutzung/Kontaminierung, insbesondere des Auslaufwassers, dienen und/oder
-
-–
-
-die allgemeine Ressourcennutzung und speziell die Wassernutzung und Wasserqualität in der
+- die allgemeine Ressourcennutzung und speziell die Wassernutzung und Wasserqualität in der
 Aquakultur verbessern (Maßnahmenart 2.1.3, Interventionskategorie 1),
 
 f)
@@ -468,29 +438,19 @@ wenn das Vorhaben alle der folgenden Kriterien erfüllt:
 
 5.2.1
 
-–
+- das Vorhaben ist von kollektivem Interesse,
 
-das Vorhaben ist von kollektivem Interesse,
+- das Vorhaben hat einen kollektiven Begünstigten und
 
-–
-
-das Vorhaben hat einen kollektiven Begünstigten und
-
-–
-
-das Vorhaben weist innovative Aspekte auf oder gewährleistet den Zugang der Öffentlichkeit zu
+- das Vorhaben weist innovative Aspekte auf oder gewährleistet den Zugang der Öffentlichkeit zu
 seinen Ergebnissen.
 Abweichend davon beträgt die Höhe der Zuwendung:
 
-–
-
-bei Vorhaben nach den Nummern 2.1.2 und 2.1.3
+- bei Vorhaben nach den Nummern 2.1.2 und 2.1.3
 
 40 %,
 
-–
-
-bei Vorhaben nach Nummer 2.1.4 Buchst. c
+- bei Vorhaben nach Nummer 2.1.4 Buchst. c
 
 50 %.
 
@@ -499,17 +459,11 @@ bei Vorhaben nach Nummer 2.1.4 Buchst. c
 Bei Vorhaben nach Nummer 2.1.1 Buchst. b:
 
 Der Zuschuss für die Berufsausbildung zur Fischwirtin/zum Fischwirt wird für die Dauer eines Ausbildungsverhältnisses von drei Jahren gewährt. Er beträgt für ab dem Zeitpunkt des Inkrafttretens dieser Richtlinie begonnene Ausbildungsverhältnisse insgesamt 12 000 EUR, die nach Abschluss des
-–
+- 1. Ausbildungsjahres in Höhe von 4 000 EUR,
 
-1. Ausbildungsjahres in Höhe von 4 000 EUR,
+- 2. Ausbildungsjahres in Höhe von 4 000 EUR,
 
-–
-
-2. Ausbildungsjahres in Höhe von 4 000 EUR,
-
-–
-
-3. Ausbildungsjahres in Höhe von 4 000 EUR
+- 3. Ausbildungsjahres in Höhe von 4 000 EUR
 
 ausgezahlt werden.
 Auf den Zuschuss sind andere im Rahmen des jeweiligen Ausbildungsverhältnisses gewährte öffentliche
@@ -520,15 +474,11 @@ Betrages für bis zu höchstens zwölf Monate gewährt werden.
 
 Bei Vorhaben nach Nummer 2.2.1 Buchst. a, b, c und e bis g für:
 
-–
-
-bis zu 1 Mio. EUR Investition
+- bis zu 1 Mio. EUR Investition
 
 50 %,
 
-–
-
-über 1 Mio. bis zu 2 Mio. EUR Investition
+- über 1 Mio. bis zu 2 Mio. EUR Investition
 
 25 %,
 
@@ -536,9 +486,7 @@ Nds. MBl. 2024 Nr. 51 vom 26. Januar 2024
 
 Seite 8
 
-–
-
-10 %.
+- 10 %.
 
 über 2 Mio. bis zu 3 Mio. EUR Investition
 
@@ -564,31 +512,19 @@ Höhe der Ausgleichszahlungen wird einzelfallbezogen berechnet.
 Der Zuschuss bei Vorhaben nach Nummer 2.2.1 Buchst. j wird in Form einer Ausgleichszahlung gewährt. Die Höhe der Ausgleichszahlung wird für den Mehraufwand gegenüber Basisleistungen bei vergleichbaren Maßnahmen der Teichbewirtschaftung sowie als Ausgleich für erhöhte Verluste durch fischfressende
 Wildtiere und bei entsprechender Nachweisführung über das Teichbuch berechnet. Sie beträgt pro Jahr und
 Hektar bewirtschaftete zuwendungsfähige Karpfenteichfläche:
-–
+- Modul T1: Teichpflege und Erhalt der Kulturlandschaft bis zu 204 EUR/ha,
 
-Modul T1: Teichpflege und Erhalt der Kulturlandschaft bis zu 204 EUR/ha,
+- Modul T2: Naturschutzgerechte Teichbewirtschaftung und Teicherhaltung bis zu 321 EUR/ha,
 
-–
+- Modul T3: Erhaltung von ausgewählten Teichen ohne Fischbesatz (für einen begrenzten Teil der Teichfläche) bis zu 600 EUR/ha,
 
-Modul T2: Naturschutzgerechte Teichbewirtschaftung und Teicherhaltung bis zu 321 EUR/ha,
-
-–
-
-Modul T3: Erhaltung von ausgewählten Teichen ohne Fischbesatz (für einen begrenzten Teil der Teichfläche) bis zu 600 EUR/ha,
-
-–
-
-Modul F: Ausgleich für Schäden durch geschützte Wildtiere.
+- Modul F: Ausgleich für Schäden durch geschützte Wildtiere.
 
 Es können Schäden durch geschützte Wildtiere bis zu einem Höchstbetrag anteilig ausgeglichen werden,
 wenn die im digitalen Teichbuch nachgewiesenen Schäden einen Schwellenwert von 150 EUR/ha überschreiten. Die Ausgleichszahlungen bemessen sich an der nachgewiesenen Schadenshöhe wie folgt:
-–
+- bei 150 – 300 EUR/ha einheitlich 150 EUR/ha.
 
-bei 150 – 300 EUR/ha einheitlich 150 EUR/ha.
-
-–
-
-bei über 300 EUR und bis zu einer Höhe von 1 300 EUR jeweils die Hälfte der nachgewiesenen Fraßschäden, maximal 650 EUR/ha.
+- bei über 300 EUR und bis zu einer Höhe von 1 300 EUR jeweils die Hälfte der nachgewiesenen Fraßschäden, maximal 650 EUR/ha.
 
 Darüber hinausgehende Fraßschäden können nur im Rahmen der Mittelverfügbarkeit und maximal bis zur
 Hälfte der festgestellten Schäden anteilig ausgeglichen werden.
@@ -605,22 +541,16 @@ Nds. MBl. 2024 Nr. 51 vom 26. Januar 2024
 
 Seite 9
 
-–
-
-bei öffentlich-rechtlichen Antragstellern
+- bei öffentlich-rechtlichen Antragstellern
 
 10 000 EUR,
 
-–
-
-bei privat-rechtlichen Antragstellerinnen und Antragstellern
+- bei privat-rechtlichen Antragstellerinnen und Antragstellern
 
 5 000 EUR.
 
 Unabhängig von der Rechtsform der Antragstellerin oder des Antragstellers gelten folgende Schwellenwerte:
-–
-
-bei Vorhaben nach Nummern 2.1.2 und 2.1.3
+- bei Vorhaben nach Nummern 2.1.2 und 2.1.3
 
 6 250 EUR.
 
@@ -629,31 +559,21 @@ bei Vorhaben nach Nummern 2.1.2 und 2.1.3
 
 Die Förderung von Investitionen erfolgt unter der Auflage, dass die geförderten
 
-–
+- Bauten und baulichen Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Abschlusszahlung,
 
-Bauten und baulichen Anlagen innerhalb eines Zeitraumes von zwölf Jahren ab Abschlusszahlung,
-
-–
-
-Maschinen, Einrichtungen, Geräte und sonstige beschaffte Gegenstände innerhalb eines Zeitraumes
+- Maschinen, Einrichtungen, Geräte und sonstige beschaffte Gegenstände innerhalb eines Zeitraumes
 von fünf Jahren ab Abschlusszahlung
 
 nicht ohne Zustimmung der Bewilligungsbehörde veräußert, verpachtet oder nicht den Bewilligungsvoraussetzungen entsprechend verwendet werden.
 6.2
 Werthaltige Zweckbindung und Rückzahlungsanspruch bei Zuschüssen an private Zuwendungsempfängerinnen und Zuwendungsempfänger von mehr als 500 000 EUR sind zu sichern durch:
-–
-
-Eintragung einer brieflosen Grundschuld an rangbereiter Stelle im Grundbuch zugunsten des Landes,
+- Eintragung einer brieflosen Grundschuld an rangbereiter Stelle im Grundbuch zugunsten des Landes,
 vertreten durch das ML; sofern diese Sicherheitsleistung nicht ausreicht oder nicht zweckmäßig ist,
 durch
 
-–
+- Erbringung einer Bankbürgschaft oder
 
-Erbringung einer Bankbürgschaft oder
-
-–
-
-Hinterlegung von Wertpapieren.
+- Hinterlegung von Wertpapieren.
 
 Zuschüsse, die sich auf mehrere Bauabschnitte eines Vorhabens beziehen, sind zusammenzurechnen und
 mit ihrem Gesamtbetrag, wenn dieser über 500 000 EUR liegt, zu sichern. Zuschüsse an juristische Personen

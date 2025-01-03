@@ -27,16 +27,12 @@ nachhaltige Entwicklung, insbesondere des ländlichen Raums, unter Berücksichti
 2007/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Bewertung und das
 Management von Hochwasserrisiken (ABl. L 288 vom 6.11.2007, S. 27) – EG-HochwasserrisikomanagementRichtlinie (HWRM-RL) – zu stärken.
 1.2
-–
-
-Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
+- Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
 des GAKG i. d. F. vom 21.07.1988 (BGBl. I S. 1055), zuletzt geändert durch Gesetz vom 11.10.2016
 (BGBl. I S. 2231), nach Maßgabe der dazu jeweils geltenden Fördergrundsätze für wasserwirtschaftliche Maßnahmen,
 
 und bei finanzieller Beteiligung der EU gemäß den Regelungen
-–
-
-der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021
+- der Verordnung (EU) 2021/2115 des Europäischen Parlaments und des Rates vom 2. Dezember 2021
 mit Vorschriften für die Unterstützung der von den Mitgliedstaaten im Rahmen der Gemeinsamen
 Agrarpolitik zu erstellenden und durch den Europäischen Garantiefonds für die Landwirtschaft (EGFL)
 und den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zu finanzierenden Strategiepläne (GAP-Strategiepläne) und zur Aufhebung der Verordnung (EU)
@@ -45,9 +41,7 @@ Nr. 1305/2013 sowie der Verordnung (EU) Nr. 1307/2013 (ABl. L 435 vom 6.12.2021,
 des Europäischen Parlaments und des Rates vom 14. Mai 2024 (ABl. L, 2024/1468, 24.5.2024) sowie
 dem hierzu ergangenen Folgerecht der EU,
 
-–
-
-der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit
+- der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit
 gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den
 Herausgeber: Niedersächsische Staatskanzlei
 
@@ -87,21 +81,13 @@ Deichverteidigungswegen, Dämmen, Talsperren und Schöpfwerken,
 2.1.3 Grundinstandsetzung vorhandener Schöpfwerke,
 2.1.4 konzeptionelle Vorarbeiten und Erhebungen sowie i. S. des Zuwendungszwecks erforderliche Maßnahmen, die im sachlichen Zusammenhang mit den Vorhaben nach den Nummern 2.1.1 bis 2.1.3 stehen,
 wie z. B.
-–
+- Planungen (z. B. Machbarkeitsstudien, alternative Untersuchungen, Hochwasserschutzkonzeptionen und -pläne, Planungen gemäß Leistungsbildern der HOAI) und ggf. Projektsteuerung,
 
-Planungen (z. B. Machbarkeitsstudien, alternative Untersuchungen, Hochwasserschutzkonzeptionen und -pläne, Planungen gemäß Leistungsbildern der HOAI) und ggf. Projektsteuerung,
+- Zweckforschungen (z. B. Langzeitbeobachtungen, Funktionskontrollen),
 
-–
+- Einzelfalluntersuchungen (z. B. Datenerhebungen, Beweissicherungen),
 
-Zweckforschungen (z. B. Langzeitbeobachtungen, Funktionskontrollen),
-
-–
-
-Einzelfalluntersuchungen (z. B. Datenerhebungen, Beweissicherungen),
-
-–
-
-Beratung von örtlichen Akteuren im Hinblick auf eine flussgebietsweise Betrachtung des Hochwasserschutzes.
+- Beratung von örtlichen Akteuren im Hinblick auf eine flussgebietsweise Betrachtung des Hochwasserschutzes.
 
 2.2
 
@@ -190,19 +176,13 @@ der Freien Hansestadt Bremen gefördert werden, beträgt die Höhe der Zuwendung
 Bei Vorhaben, die im übergeordneten wasserwirtschaftlichen Interesse liegen und bei denen die Unterlieger besondere Vorteile durch das Vorhaben genießen, kann die Höhe der Zuwendung nach Verfügbarkeit der
 Haushaltsmittel ausnahmsweise bis zu 80 % der förderfähigen Ausgaben betragen.
 Im Besonderen übergeordneten wasserwirtschaftlichen Interesse sind solche Vorhaben,
-–
-
-die Synergieeffekte für die Erreichung der Ziele anderer Förderrichtlinien des Landes Niedersachsen
+- die Synergieeffekte für die Erreichung der Ziele anderer Förderrichtlinien des Landes Niedersachsen
 oder der Freien Hansestadt Bremen haben (z. B. Naturnahe Entwicklung der Oberflächengewässer,
 Landschaftswerte),
 
-–
+- bei denen sich Kommunen und/oder ein oder mehrere Wasser- und Bodenverbände zusammengeschlossen haben und
 
-bei denen sich Kommunen und/oder ein oder mehrere Wasser- und Bodenverbände zusammengeschlossen haben und
-
-–
-
-die von einem Wasser- und Bodenverband auf dem Gebiet mehrerer Kommunen umgesetzt werden.
+- die von einem Wasser- und Bodenverband auf dem Gebiet mehrerer Kommunen umgesetzt werden.
 
 5.2.2 Bei Vorhaben, die mit ELER-Mitteln gefördert werden, beträgt die Höhe der Zuwendung 80 % der
 förderfähigen Ausgaben.
@@ -284,27 +264,17 @@ und Wissenschaft (SUKW).
 7.3 Antragsverfahren
 7.3.1 Förderanträge sind unter der Verwendung des amtlichen Vordrucks an den NLWKN zu richten. Dem
 Antrag auf Zuwendung müssen folgende Unterlagen beigefügt werden:
-–
-
-ein Hochwasserschutzkonzept oder, soweit es sich um Vorhaben gemäß den Nummern 2.1.3 und 2.1.4
+- ein Hochwasserschutzkonzept oder, soweit es sich um Vorhaben gemäß den Nummern 2.1.3 und 2.1.4
 handelt, konzeptionelle Überlegungen,
 
-–
-
-ein Nachweis, dass das Vorhaben dem Schutz des landwirtschaftlichen Produktionspotenzials dient
+- ein Nachweis, dass das Vorhaben dem Schutz des landwirtschaftlichen Produktionspotenzials dient
 (nur für mit ELER-Mitteln geförderte Vorhaben),
 
-–
+- ein Nachweis hinsichtlich der Dringlichkeit des Vorhabens (Nutzen und fachliche Bedeutung),
 
-ein Nachweis hinsichtlich der Dringlichkeit des Vorhabens (Nutzen und fachliche Bedeutung),
+- ein Nachweis zum Stand des Genehmigungsverfahrens und
 
-–
-
-ein Nachweis zum Stand des Genehmigungsverfahrens und
-
-–
-
-bei Anträgen nach Nummer 5.2.1 ein Nachweis der Zusammenarbeit der Kommunen oder Verbände
+- bei Anträgen nach Nummer 5.2.1 ein Nachweis der Zusammenarbeit der Kommunen oder Verbände
 und eine Abschätzung der durch die vorgesehenen Vorhaben zu erwartenden Synergieeffekte, z. B. für
 die Fließgewässer- und Auenentwicklung sowie die Sicherung der Natura-2000 Gebiete.
 

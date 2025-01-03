@@ -42,14 +42,10 @@ Bestellung des Vorstandes sind der Anzeige beizufügen.
 2.
 Kreiswahlvorschläge sollen nach dem Muster der Anlage 13 zu § 34 Abs. 1 BWO eingereicht werden.
 Ein Kreiswahlvorschlag muss enthalten (§ 34 Abs. 1 Satz 2 BWO):
-–
-
-den Familiennamen, die Vornamen, den Beruf oder Stand, das Geburtsdatum, den Geburtsort und die
+- den Familiennamen, die Vornamen, den Beruf oder Stand, das Geburtsdatum, den Geburtsort und die
 Anschrift (Hauptwohnung) der Bewerberin oder des Bewerbers,
 
-–
-
-den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese, bei
+- den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese, bei
 anderen Kreiswahlvorschlägen (§ 20 Abs. 3 BWG) deren Kennwort.
 
 Als Bewerberin oder Bewerber kann in einem Kreiswahlvorschlag nur benannt werden, wer wählbar ist (vgl.
@@ -76,22 +72,16 @@ Trägers des Wahlvorschlags anzugeben. Bei Parteien ist dies deren Name und, sof
 die Aufstellung der Bewerberin oder des Bewerbers in einer Mitglieder- oder Vertreterversammlung nach § 21
 BWG zu bestätigen (§ 34 Abs. 4 Nr. 1 BWO).
 Gemäß § 34 Abs. 5 BWO sind dem Kreiswahlvorschlag folgende Unterlagen beizufügen:
-–
-
-die Erklärung der vorgeschlagenen Bewerberin oder des vorgeschlagenen Bewerbers, dass sie oder er
+- die Erklärung der vorgeschlagenen Bewerberin oder des vorgeschlagenen Bewerbers, dass sie oder er
 der Aufstellung zustimmt und für keinen anderen Wahlkreis eine Zustimmung zur Benennung als Bewerberin oder Bewerber gegeben hat (Anlage 15 zu § 34 Abs. 5 Nrn. 1 und 3 Buchst. b BWO),
 
 Nds. MBl. 2024 Nr. 656 vom 27. Dezember 2024
 
 Seite 3
 
-–
+- eine Bescheinigung der zuständigen Gemeinde, dass die vorgeschlagene Bewerberin oder der vorgeschlagene Bewerber wählbar ist (Anlage 16 zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2 BWO),
 
-eine Bescheinigung der zuständigen Gemeinde, dass die vorgeschlagene Bewerberin oder der vorgeschlagene Bewerber wählbar ist (Anlage 16 zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2 BWO),
-
-–
-
-bei Kreiswahlvorschlägen von Parteien eine Ausfertigung der Niederschrift über die Beschlussfassung
+- bei Kreiswahlvorschlägen von Parteien eine Ausfertigung der Niederschrift über die Beschlussfassung
 der Mitglieder- oder Vertreterversammlung, in der die Bewerberin oder der Bewerber aufgestellt worden
 ist, im Falle eines Einspruchs nach § 21 Abs. 4 BWG auch eine Ausfertigung der Niederschrift über die
 wiederholte Abstimmung, mit der nach § 21 Abs. 6 Satz 2 BWG vorgeschriebenen Versicherung an
@@ -99,9 +89,7 @@ Eides statt (Anlagen 17 und 18 zu § 34 Abs. 5 Nr. 3 Buchst. a BWO) sowie eine V
 statt der Bewerberin oder des Bewerbers, dass sie oder er nicht Mitglied einer anderen als der den
 Wahlvorschlag einreichenden Partei ist (Anlage 15 zu § 34 Abs. 5 Nrn. 1 und 3 Buchst. b BWO),
 
-–
-
-die erforderliche Zahl von Unterstützungsunterschriften nebst Bescheinigungen des Wahlrechts der Unterzeichnerinnen und Unterzeichner (Anlage 14 zu § 34 Abs. 4 BWO), sofern der Kreiswahlvorschlag
+- die erforderliche Zahl von Unterstützungsunterschriften nebst Bescheinigungen des Wahlrechts der Unterzeichnerinnen und Unterzeichner (Anlage 14 zu § 34 Abs. 4 BWO), sofern der Kreiswahlvorschlag
 von mindestens 200 Wahlberechtigten des Wahlkreises unterzeichnet sein muss.
 
 Hinsichtlich des Inhalts und der Form der Kreiswahlvorschläge weise ich im Übrigen auf die §§ 20 ff. BWG
@@ -110,13 +98,9 @@ Kreiswahlleiterinnen und Kreiswahlleitern erhältlich.
 3.
 Die Landesliste soll nach dem Muster der Anlage 20 zu § 39 Abs. 1 BWO eingereicht werden. Sie muss
 enthalten (§ 39 Abs. 1 Satz 2 BWO):
-–
+- den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese,
 
-den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese,
-
-–
-
-den Familiennamen, die Vornamen, den Beruf oder Stand, das Geburtsdatum, den Geburtsort und die
+- den Familiennamen, die Vornamen, den Beruf oder Stand, das Geburtsdatum, den Geburtsort und die
 Anschrift (Hauptwohnung) der Bewerberinnen und Bewerber.
 
 Die Landesliste soll ferner Namen und Anschriften sowie Telefonnummern und E-Mail-Adressen der Vertrauensperson und der stellvertretenden Vertrauensperson enthalten (§ 39 Abs. 1 Satz 3 BWO i. V. m. Anlage
@@ -152,28 +136,20 @@ Bei der Anforderung dieser Formblätter ist der Name der Partei, die die Landesl
 sie eine Kurzbezeichnung verwendet, auch diese anzugeben. Außerdem ist die Aufstellung der Landesliste in
 einer Mitglieder- oder Vertreterversammlung nach § 27 Abs. 5 i. V. m. § 21 BWG zu bestätigen.
 Der Landesliste sind gemäß § 39 Abs. 4 BWO folgende Unterlagen beizufügen:
-–
-
-die Erklärungen der vorgeschlagenen Bewerberinnen und Bewerber, dass sie ihrer Aufstellung zustimmen und für keine andere Landesliste ihre Zustimmung zur Benennung als Bewerberin oder Bewerber
+- die Erklärungen der vorgeschlagenen Bewerberinnen und Bewerber, dass sie ihrer Aufstellung zustimmen und für keine andere Landesliste ihre Zustimmung zur Benennung als Bewerberin oder Bewerber
 gegeben haben, sowie eine Versicherung an Eides statt, dass sie nicht Mitglied einer anderen als der
 den Wahlvorschlag einreichenden Partei sind und es sich bei ihnen nicht um eine Bewerberin oder einen
 Bewerber in einem anderen Kreiswahlvorschlag nach § 20 Abs. 3 BWG handelt (Anlage 22 zu
 § 39 Abs. 4 Nr. 1 BWO),
 
-–
+- die Bescheinigungen der zuständigen Gemeinden, dass die vorgeschlagenen Bewerberinnen und Bewerber wählbar sind (Anlage 16 zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2 BWO),
 
-die Bescheinigungen der zuständigen Gemeinden, dass die vorgeschlagenen Bewerberinnen und Bewerber wählbar sind (Anlage 16 zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2 BWO),
-
-–
-
-eine Ausfertigung der Niederschrift über die Beschlussfassung der Mitglieder- oder Vertreterversammlung, in der die Bewerberinnen und Bewerber aufgestellt worden sind und ihre Reihenfolge auf der
+- eine Ausfertigung der Niederschrift über die Beschlussfassung der Mitglieder- oder Vertreterversammlung, in der die Bewerberinnen und Bewerber aufgestellt worden sind und ihre Reihenfolge auf der
 Landesliste festgelegt worden ist, mit den nach § 21 Abs. 6 BWG vorgeschriebenen Versicherungen an
 Eides statt, wobei sich die Versicherung an Eides statt auch darauf zu erstrecken hat, dass die Festlegung der Reihenfolge der Bewerberinnen und Bewerber in der Landesliste in geheimer Abstimmung
 erfolgt ist (Anlagen 23 und 24 zu § 39 Abs. 4 Nr. 3 BWO),
 
-–
-
-die erforderliche Zahl von Unterstützungsunterschriften nebst Bescheinigungen des Wahlrechts der Unterzeichnerinnen und Unterzeichner (Anlage 21 zu § 39 Abs. 3 BWO), sofern die Landesliste von mindestens 2 000 Wahlberechtigten unterzeichnet sein muss.
+- die erforderliche Zahl von Unterstützungsunterschriften nebst Bescheinigungen des Wahlrechts der Unterzeichnerinnen und Unterzeichner (Anlage 21 zu § 39 Abs. 3 BWO), sofern die Landesliste von mindestens 2 000 Wahlberechtigten unterzeichnet sein muss.
 
 Hinsichtlich des Inhalts und der Form der Landesliste weise ich im Übrigen auf § 27 BWG und § 39 BWO
 hin.

@@ -64,34 +64,22 @@ Die im Anhang 1 „Unterlagenverzeichnis zur Änderungsgenehmigung vom 07.11.202
 
 Konkret ergibt sich folgender genehmigter Umfang:
 
-–
-
-Rückbau des vorhandenen Fahrsilos, der Güllebehälter „Annahme“ und „Ligavator“, der Fermenter 1
+- Rückbau des vorhandenen Fahrsilos, der Güllebehälter „Annahme“ und „Ligavator“, der Fermenter 1
 und 2 sowie der Garagen und Lager,
 
-–
-
-Abbau des vorhandenen Gärrestlagers und Wiederaufbau an anderer Stelle, Nutzungsänderung als
+- Abbau des vorhandenen Gärrestlagers und Wiederaufbau an anderer Stelle, Nutzungsänderung als
 Schmutzwassersammelbehälter mit Immissionsschutzdach, (di= 22,00 m, h= 6,00 m, Vbr. = 2 280 m3),
 
-–
-
-Erhöhung der Einsatzstoffmenge für die zukünftige Biogasanlage von derzeit 55 t/d auf zukünftig
+- Erhöhung der Einsatzstoffmenge für die zukünftige Biogasanlage von derzeit 55 t/d auf zukünftig
 178,4 t/d (Nr. 8.6.3.1 GE des Anhangs 1 der 4. BImSchV),
 
-–
-
-Austausch und Verschiebung des BHKW-Motors 1 im Container (Gas-Otto-Motor) mit Reduzierung der
+- Austausch und Verschiebung des BHKW-Motors 1 im Container (Gas-Otto-Motor) mit Reduzierung der
 Feuerungswärmeleistung von 1,341 MW auf 1,293 MW (Nr. 1.2.2.2 V des Anhangs 1 der 4. BImSchV),
 
-–
-
-Erhöhung der Gärrestlagerung von derzeit 2 091 m³ auf zukünftig 41 075 m³ (Nr. 9.36 V des Anhangs
+- Erhöhung der Gärrestlagerung von derzeit 2 091 m³ auf zukünftig 41 075 m³ (Nr. 9.36 V des Anhangs
 1 der 4. BImSchV),
 
-–
-
-Erstmalige Errichtung von Gasspeichern zur Lagerung von Biogas von zukünftig 7,003 Tonnen
+- Erstmalige Errichtung von Gasspeichern zur Lagerung von Biogas von zukünftig 7,003 Tonnen
 (Nr. 9.1.1.2 V des Anhangs 1 der 4. BImSchV),
 
 1) Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vor-
@@ -110,78 +98,44 @@ Nds. MBl. 2024 Nr. vom 4. Dezember 2024
 
 Seite 3
 
-–
+- Erstmalige Errichtung einer Biogasaufbereitungsanlage (BGAA) mit einer Durchsatzkapazität von zukünftig 4 Mio. Nm³/a (Nr. 1.16 V des Anhangs 1 der 4. BImSchV),
 
-Erstmalige Errichtung einer Biogasaufbereitungsanlage (BGAA) mit einer Durchsatzkapazität von zukünftig 4 Mio. Nm³/a (Nr. 1.16 V des Anhangs 1 der 4. BImSchV),
-
-–
-
-Neubau Fermenter 1 und 2 (jeweils emaillierter Stahlbehälter mit harter Bedachung di = 23,89 m,
+- Neubau Fermenter 1 und 2 (jeweils emaillierter Stahlbehälter mit harter Bedachung di = 23,89 m,
 h = 24,13 m, Vbr = 9 745 m³),
 
-–
-
-Neubau Nachgärer/Lager 1, 2, 3, 4 (jeweils emaillierter Stahlbehälter mit harter Bedachung
+- Neubau Nachgärer/Lager 1, 2, 3, 4 (jeweils emaillierter Stahlbehälter mit harter Bedachung
 di = 23,89 m, h = 24,13 m, Vbr = 9 745 m³),
 
-–
+- Neubau Gärrestlager (Stb.-Behälter mit Tragluftdachsystem di= 37,00 m, h= 12,15 m, Vbr= 13 064 m³),
 
-Neubau Gärrestlager (Stb.-Behälter mit Tragluftdachsystem di= 37,00 m, h= 12,15 m, Vbr= 13 064 m³),
-
-–
-
-Neubau Vorlagebehälter (Stb.-Behälter mit Immissionsschutzdach di= 8,00 m, h= 5,00 m,
+- Neubau Vorlagebehälter (Stb.-Behälter mit Immissionsschutzdach di= 8,00 m, h= 5,00 m,
 Vbr. = 251 m³),
 
-–
+- Neubau Fahrsiloanlage (Gesamtfläche = 5 525 m2),
 
-Neubau Fahrsiloanlage (Gesamtfläche = 5 525 m2),
+- Errichtung Befüllplatte,
 
-–
+- Errichtung Entnahmeplatte 1 und 2,
 
-Errichtung Befüllplatte,
+- Errichtung Fahrzeugwaage 2,
 
-–
+- Aufstellung Feststoffdosierer 1 und 2,
 
-Errichtung Entnahmeplatte 1 und 2,
+- Aufstellung von zwei Separatoren,
 
-–
+- Aufstellung Eisenchlorid-Tank V= 25 m³ (doppelwandiger PE-Tank),
 
-Errichtung Fahrzeugwaage 2,
+- Aufstellung Notgasfackel,
 
-–
+- Errichtung Havariebecken,
 
-Aufstellung Feststoffdosierer 1 und 2,
-
-–
-
-Aufstellung von zwei Separatoren,
-
-–
-
-Aufstellung Eisenchlorid-Tank V= 25 m³ (doppelwandiger PE-Tank),
-
-–
-
-Aufstellung Notgasfackel,
-
-–
-
-Errichtung Havariebecken,
-
-–
-
-Errichtung SW-Pumpbehälter (di= 7,0 m, h= 3,0 m, unterirdisch).
+- Errichtung SW-Pumpbehälter (di= 7,0 m, h= 3,0 m, unterirdisch).
 
 3. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
+- die Baugenehmigung nach § 59 Abs. 1 NBauO 4) i. V. m. § 63 bzw. § 64 NBauO;
 
-die Baugenehmigung nach § 59 Abs. 1 NBauO 4) i. V. m. § 63 bzw. § 64 NBauO;
-
-–
-
-die denkmalrechtliche Genehmigung nach § 13 Abs. 1 i. V. m. § 10 Abs. 1 und § 12 Abs. 1 NDSchG 5).
+- die denkmalrechtliche Genehmigung nach § 13 Abs. 1 i. V. m. § 10 Abs. 1 und § 12 Abs. 1 NDSchG 5).
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Auflagen

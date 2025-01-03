@@ -63,13 +63,9 @@ Standort in Oldenburg aufgrund ihres Antrages vom 14.11.2023, zuletzt ergänzt m
 29.02.2024, die Genehmigung zur wesentlichen Änderung einer Anlage zum Schlachten von Rindern erteilt.
 2. Gegenstand der Änderungsgenehmigung:
 Dieser Bescheid erstreckt sich auf die folgenden wesentlichen Maßnahmen:
-–
+- Kapazitätserhöhung auf 388,8 t/d (540 Tiere á 720 kg)
 
-Kapazitätserhöhung auf 388,8 t/d (540 Tiere á 720 kg)
-
-–
-
-Demontage des BHKW 01 (FWL 0,149 MW)
+- Demontage des BHKW 01 (FWL 0,149 MW)
 Standort der Anlage ist:
 
 Ort:
@@ -96,9 +92,7 @@ Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunter
 Genehmigungsbescheides und liegen diesem zugrunde.
 3. Konzentrationswirkung
 Diese Genehmigung schließt
-–
-
-die Baugenehmigung nach § 70 der Nds. Bauordnung (NBauO) mit ein.
+- die Baugenehmigung nach § 70 der Nds. Bauordnung (NBauO) mit ein.
 
 Sie ergeht unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Kostenentscheidung

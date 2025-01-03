@@ -15,35 +15,23 @@ Bek. d. GAA Oldenburg v. 02.05.2024 – OL 23-083-03 –
 Das GAA Oldenburg hat der Firma Lhyfe Niedersachsen GmbH, Stau 123, 26122 Oldenburg, mit der Entscheidung vom 04.04.2024 eine Neugenehmigung nach § 4 i. V. m. § 10 BImSchG zur Errichtung und zum
 Betrieb eines Elektrolyseurs für die Erzeugung von Wasserstoff am Standort Brake erteilt.
 Gegenstand des Verfahrens waren im Wesentlichen die folgenden Maßnahmen:
-–
-
-2 PEM-Elektrolysemodule mit je 5 MW Anschlussleistung zur Herstellung von Wasserstoff mit einer
+- 2 PEM-Elektrolysemodule mit je 5 MW Anschlussleistung zur Herstellung von Wasserstoff mit einer
 Produktionskapazität von insgesamt 4 t/d,
 
-–
+- Elektrolyseurkühlung mit 2 Kühlkreisläufen (Glykol-Wasser-Gemisch) und 2 Tischkühlern,
 
-Elektrolyseurkühlung mit 2 Kühlkreisläufen (Glykol-Wasser-Gemisch) und 2 Tischkühlern,
+- 4 Füllanlagen mit je 2 Befüllpunkten für Wasserstoff mit einer Füllkapazität je Füllanlage von 180 kg/h,
 
-–
-
-4 Füllanlagen mit je 2 Befüllpunkten für Wasserstoff mit einer Füllkapazität je Füllanlage von 180 kg/h,
-
-–
-
-Mobile Containerdruckanlagen (Füllgewicht je ca. 300 kg bis 1 000 kg bei bis zu 380 bar) zur Lagerung
+- Mobile Containerdruckanlagen (Füllgewicht je ca. 300 kg bis 1 000 kg bei bis zu 380 bar) zur Lagerung
 von maximal 9 Tonnen Wasserstoff,
 
-–
-
-Kontroll-, Aufenthalts- und Sanitärraum in Containerbauweise.
+- Kontroll-, Aufenthalts- und Sanitärraum in Containerbauweise.
 
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
 Der vollständige Bescheid und die genehmigten Antragsunterlagen können in der Zeit vom 03.05. bis
 einschließlich 16.05.2024 bei folgenden Stellen eingesehen werden:
-–
-
-–
+- –
 
 Staatliches Gewerbeaufsichtsamt Oldenburg, Theodor-Tantzen-Platz 8, 26122 Oldenburg, Zimmer
 438a, während der Dienststunden,
@@ -96,27 +84,17 @@ Betrieb eines Elektrolyseurs für die Erzeugung von Wasserstoff mit einer Produk
 einer Anlage zur Lagerung von Wasserstoff mit einer Lagerkapazität von 9 t erteilt.
 2. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die folgenden wesentlichen Anlagenteile und Nebeneinrichtungen einschließlich ihres Betriebes:
-–
-
-2 PEM-Elektrolysemodule mit je 5 MW Anschlussleistung zur Herstellung von Wasserstoff mit einer
+- 2 PEM-Elektrolysemodule mit je 5 MW Anschlussleistung zur Herstellung von Wasserstoff mit einer
 Produktionskapazität von insgesamt 4 t/d
 
-–
+- Elektrolyseurkühlung mit 2 Kühlkreisläufen (Glykol-Wasser-Gemisch) und 2 Tischkühlern
 
-Elektrolyseurkühlung mit 2 Kühlkreisläufen (Glykol-Wasser-Gemisch) und 2 Tischkühlern
+- 4 Füllanlagen mit je 2 Befüllpunkten für Wasserstoff mit einer Füllkapazität je Füllanlage von 180 kg/h
 
-–
-
-4 Füllanlagen mit je 2 Befüllpunkten für Wasserstoff mit einer Füllkapazität je Füllanlage von 180 kg/h
-
-–
-
-Mobile Containerdruckanlagen (Füllgewicht je ca. 300 kg bis 1 000 kg bei bis zu 380 bar) zur Lagerung
+- Mobile Containerdruckanlagen (Füllgewicht je ca. 300 kg bis 1 000 kg bei bis zu 380 bar) zur Lagerung
 von max. 9 Tonnen Wasserstoff
 
-–
-
-Kontroll-, Aufenthalts- und Sanitärraum in Containerbauweise
+- Kontroll-, Aufenthalts- und Sanitärraum in Containerbauweise
 
 Standort der Anlage ist:
 Ort:
@@ -143,17 +121,11 @@ Die im Formular „Inhaltsverzeichnis“ im Einzelnen aufgeführten Antragsunter
 Genehmigungsbescheides und liegen diesem zugrunde.
 3. Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
-–
+- Baugenehmigung
 
-Baugenehmigung
+- Erlaubnis einer Füllanlage für Wasserstoff nach § 18 Abs.1 Nr. 2 BetrSichV
 
-–
-
-Erlaubnis einer Füllanlage für Wasserstoff nach § 18 Abs.1 Nr. 2 BetrSichV
-
-–
-
-Zulassung einer Erleichterung gem. § 51 NBauO von den Vorgaben des § 31 NBauO und § 10 DVONBauO bezüglich der Ausführung der Decken nicht in feuerbeständiger Form.
+- Zulassung einer Erleichterung gem. § 51 NBauO von den Vorgaben des § 31 NBauO und § 10 DVONBauO bezüglich der Ausführung der Decken nicht in feuerbeständiger Form.
 
 Im Übrigen ergeht diese Genehmigung unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 4. Kostenentscheidung

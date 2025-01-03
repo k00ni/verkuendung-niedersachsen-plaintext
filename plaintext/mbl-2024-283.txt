@@ -180,41 +180,27 @@ zum NWindG nicht erreicht wird, sind Untersagungen von Planungen für Windenergi
 3. Voraussetzungen für die Untersagung
 Eine Untersagung setzt voraus, dass alle Tatbestandsmerkmale des § 12 ROG kumulativ erfüllt sind.
 Eine unbefristete Untersagung ist nur möglich, wenn
-–
+- die beabsichtigte Planung oder Maßnahme einen sachlich und räumlich hinreichenden Konkretisierungsgrad erreicht hat (siehe Nummer 3.1),
 
-die beabsichtigte Planung oder Maßnahme einen sachlich und räumlich hinreichenden Konkretisierungsgrad erreicht hat (siehe Nummer 3.1),
-
-–
-
-die Planung, Maßnahme oder das sie betreffende Zulassungsverfahren noch nicht abgeschlossen ist
+- die Planung, Maßnahme oder das sie betreffende Zulassungsverfahren noch nicht abgeschlossen ist
 (siehe Nummer 3.2) und
 
-–
-
-die Planung oder Maßnahme mit einem bestehenden Ziel der Raumordnung unvereinbar ist (siehe
+- die Planung oder Maßnahme mit einem bestehenden Ziel der Raumordnung unvereinbar ist (siehe
 Nummer 3.3).
 Eine befristete Untersagung ist nur möglich, wenn
 
-–
+- die beabsichtigte Planung oder Maßnahme einen sachlich und räumlich hinreichenden Konkretisierungsgrad erreicht hat (siehe Nummer 3.1),
 
-die beabsichtigte Planung oder Maßnahme einen sachlich und räumlich hinreichenden Konkretisierungsgrad erreicht hat (siehe Nummer 3.1),
-
-–
-
-die Planung, Maßnahme oder das sie betreffende Zulassungsverfahren noch nicht abgeschlossen ist
+- die Planung, Maßnahme oder das sie betreffende Zulassungsverfahren noch nicht abgeschlossen ist
 (siehe Nummer 3.2),
 
 Nds. MBl. 2024 Nr. 283 vom 25. Juni 2024
 
 Seite 4
 
-–
+- ein in Aufstellung befindliches Ziel der Raumordnung betroffen ist (siehe Nummer 3.4.1) und
 
-ein in Aufstellung befindliches Ziel der Raumordnung betroffen ist (siehe Nummer 3.4.1) und
-
-–
-
-die Verwirklichung des vorgesehenen Zieles unmöglich gemacht oder wesentlich erschwert würde
+- die Verwirklichung des vorgesehenen Zieles unmöglich gemacht oder wesentlich erschwert würde
 (siehe Nummer 3.4.2), also das in Aufstellung befindliche Ziel einen sachlich und räumlich hinreichenden Konkretisierungsgrad erreicht hat und eine unmögliche oder wesentlich erschwerte Zielverwirklichung prognostizierbar ist.
 
 Sowohl die unbefristete als auch die befristete Untersagung setzen ferner voraus, dass die zuständige

@@ -22,22 +22,16 @@ Zuwendungen für den Neu- und Ausbau von Omnibusbetriebshofinfrastruktur in Nied
 
 Die Gewährung erfolgt entsprechend den Regelungen der
 
-–
-
-Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007
+- Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007
 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1), geändert
 durch Verordnung (EU) 2016/2338 des Europäischen Parlaments und des Rates vom 14. Dezember
 2016 (ABl. L 354 vom 23.12.2016, S. 22),
 
-–
-
-Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel
+- Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der Artikel
 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl.
 L, 2023/2831, 15.12.2023) – im Folgenden: De-minimis-Verordnung –,
 
-–
-
-Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit
+- Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit
 bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des
 Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; L 283 vom
 27.9.2014, S. 65), zuletzt geändert durch Verordnung (EU) 2023/1315 der Kommission vom 23. Juni
@@ -71,24 +65,16 @@ Wasserstoffinfrastruktur).
 2.2
 Gefördert werden auch Investitionsvorhaben für Lade- oder Tankinfrastruktur für mit Strom und Wasserstoff betriebene Omnibusse. Dazu können innerhalb der Funktionsbereiche nach Nummer 2.1 in Bereichen
 nach
-–
+- Nummer 2.1.1 Investitionen in technische Ausrüstung zur Instandhaltung von Lade- und Betankungssystemen von Omnibussen,
 
-Nummer 2.1.1 Investitionen in technische Ausrüstung zur Instandhaltung von Lade- und Betankungssystemen von Omnibussen,
-
-–
-
-Nummer 2.1.2 Investitionen in die Anpassung von Grundflächen und Baumaßnahmen zur Installation
+- Nummer 2.1.2 Investitionen in die Anpassung von Grundflächen und Baumaßnahmen zur Installation
 und Nutzung der Lade- und Tankinfrastruktur,
 
-–
-
-Nummer 2.1.4 Investitionen in die Lade- oder Tankinfrastruktur mit dazugehöriger technischer Ausrüstung (einschließlich Brand- und Explosionsschutzeinrichtungen sowie Stromkabel und Transformatoren,
+- Nummer 2.1.4 Investitionen in die Lade- oder Tankinfrastruktur mit dazugehöriger technischer Ausrüstung (einschließlich Brand- und Explosionsschutzeinrichtungen sowie Stromkabel und Transformatoren,
 die erforderlich sind, um Lade- und Tankinfrastruktur ans Netz oder eine lokale Anlage zur Speicherung
 von Strom oder Wasserstoff anzuschließen), und
 
-–
-
-Nummer 2.1.6 Investitionen in die Anpassung von Fahrstraßen zur Installation und Nutzung der Ladeund Tankinfrastruktur
+- Nummer 2.1.6 Investitionen in die Anpassung von Fahrstraßen zur Installation und Nutzung der Ladeund Tankinfrastruktur
 
 bezuschusst werden.
 3. Zuwendungsempfänger
@@ -116,21 +102,15 @@ Bei der Überlassung sind die Zweckbindungsbestimmungen dieser Richtlinie zu bea
 
 Für eine Beihilfe nach Nummer 2.2 auf Grundlage des Artikels 36 a AGVO gilt zudem Folgendes:
 
-–
-
-Von einer Förderung ausgeschlossen sind Unternehmen und Sektoren in den Fällen des Artikels 1
+- Von einer Förderung ausgeschlossen sind Unternehmen und Sektoren in den Fällen des Artikels 1
 Abs. 2, 3 und 5 AGVO.
 
-–
-
-Einem Unternehmen, das einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der
+- Einem Unternehmen, das einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der
 Kommission zur Feststellung der Unzulässigkeit einer von demselben Mitgliedsstaat gewährten Beihilfe
 und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen ist, darf gemäß Artikel 1 Abs. 4
 Buchst. a AGVO keine Förderung gewährt werden.
 
-–
-
-Unternehmen in Schwierigkeiten sind gemäß Artikel 1 Abs. 4 Buchst. c i. V. m. Artikel 2 Abs. 18 AGVO
+- Unternehmen in Schwierigkeiten sind gemäß Artikel 1 Abs. 4 Buchst. c i. V. m. Artikel 2 Abs. 18 AGVO
 von einer Förderung ausgeschlossen.
 
 4. Bewilligungsvoraussetzungen
@@ -143,17 +123,11 @@ Die durch das Investitionsvorhaben geschaffene Infrastruktur muss
 
 als Ersatz von Anlagen dienen, die
 
-–
+- grundsätzlich mindestens 25 Jahre eingesetzt wurden,
 
-grundsätzlich mindestens 25 Jahre eingesetzt wurden,
+- nicht mehr dem aktuellen Stand der Technik und den geltenden Rechtsvorschriften entsprechen und
 
-–
-
-nicht mehr dem aktuellen Stand der Technik und den geltenden Rechtsvorschriften entsprechen und
-
-–
-
-deren Zustand eine Gefahr für die Zuverlässigkeit des ÖPNV-Angebots darstellt
+- deren Zustand eine Gefahr für die Zuverlässigkeit des ÖPNV-Angebots darstellt
 
 oder
 4.1.2 die Voraussetzung für neue und zusätzliche Betriebsleistungen oder Fahrzeugkapazitätserweiterungen schaffen
@@ -166,34 +140,22 @@ der Umstellung auf saubere und emissionsfreie Antriebe und einer CO2-Einsparung 
 
 Jede Zuwendung setzt einen Mindestbedarf voraus:
 
-–
+- für 20 Fahrzeugeinheiten, wenn ein neuer Betriebshof eingerichtet wird,
 
-für 20 Fahrzeugeinheiten, wenn ein neuer Betriebshof eingerichtet wird,
-
-–
-
-für 10 Fahrzeugeinheiten, wenn auf einem bestehenden Betriebshof gebaut oder dieser ausgebaut wird
+- für 10 Fahrzeugeinheiten, wenn auf einem bestehenden Betriebshof gebaut oder dieser ausgebaut wird
 oder
 
-–
-
-für mindestens 5 Fahrzeugeinheiten, wenn das Vorhaben der Umstellung nach Nummer 4.1.3 auf einem
+- für mindestens 5 Fahrzeugeinheiten, wenn das Vorhaben der Umstellung nach Nummer 4.1.3 auf einem
 bestehenden Betriebshof dient.
 
 4.2.1 Die Fahrzeugeinheiten werden pro Funktionsbereich sowohl für den gegenwärtigen als auch für den
 zukünftigen Bedarf bestimmt. Sie errechnen sich anhand der Fahrzeugkapazitäten (Solobusse mit 1, Gelenkbusse mit 1,5 und Minibusse mit 0,5 Einheiten) und des Leistungsanteils im ÖPNV (100 % = Faktor 1) von
 Omnibussen,
-–
+- die mindestens zu 51 % ihrer Soll-Leistung im ÖPNV nach den §§ 42 und 44 PBefG eingesetzt werden,
 
-die mindestens zu 51 % ihrer Soll-Leistung im ÖPNV nach den §§ 42 und 44 PBefG eingesetzt werden,
+- für die ein Ersatzerrichtungs-, Neuerrichtungs- oder Umstellungsbedarf nach Nummer 4.1 besteht und
 
-–
-
-für die ein Ersatzerrichtungs-, Neuerrichtungs- oder Umstellungsbedarf nach Nummer 4.1 besteht und
-
-–
-
-die von den unter Nummer 3 genannten Kommunen und Unternehmen sowie von deren Auftragnehmern dauerhaft auf dem Betriebshof für den von dort ausgehenden Linienbetrieb stationiert sind. Für
+- die von den unter Nummer 3 genannten Kommunen und Unternehmen sowie von deren Auftragnehmern dauerhaft auf dem Betriebshof für den von dort ausgehenden Linienbetrieb stationiert sind. Für
 zentrale Werkstätten können ÖPNV-Omnibusse vollständig angerechnet werden, die ausschließlich
 dort gewartet, inspiziert und repariert werden (andernfalls Anrechnung bis maximal 25 % der Einheit).
 
@@ -208,17 +170,11 @@ dazu insbesondere Stellungnahmen der zuständigen ÖPNV-Aufgabenträger, der Auf
 
 Das Vorhaben muss ferner
 
-–
+- mit städtebaulichen Maßnahmen, die mit ihm zusammenhängen, abgestimmt worden sein,
 
-mit städtebaulichen Maßnahmen, die mit ihm zusammenhängen, abgestimmt worden sein,
+- bau- und verkehrstechnisch einwandfrei nach den anerkannten Regeln der Technik und unter Beachtung des Grundsatzes der Wirtschaftlichkeit und Sparsamkeit geplant sein (wobei sich die Bewilligungsbehörde bei der Anerkennung der Förderfähigkeit an den Schriften des Verbands Deutscher Verkehrsunternehmen e. V. [VDV] zu orientieren hat) und,
 
-–
-
-bau- und verkehrstechnisch einwandfrei nach den anerkannten Regeln der Technik und unter Beachtung des Grundsatzes der Wirtschaftlichkeit und Sparsamkeit geplant sein (wobei sich die Bewilligungsbehörde bei der Anerkennung der Förderfähigkeit an den Schriften des Verbands Deutscher Verkehrsunternehmen e. V. [VDV] zu orientieren hat) und,
-
-–
-
-soweit geförderte Anlagen öffentlich zugänglich sind, die Barrierefreiheit nach § 7 NBGG berücksichtigen oder Maßnahmen zum Abbau von Barrieren beinhalten.
+- soweit geförderte Anlagen öffentlich zugänglich sind, die Barrierefreiheit nach § 7 NBGG berücksichtigen oder Maßnahmen zum Abbau von Barrieren beinhalten.
 
 4.4
 Ein Investitionsvorhaben kann im Rahmen der Verordnung (EG) Nr. 1370/2007 und eines öffentlichen
@@ -391,17 +347,11 @@ neuen Grundstücks zuwendungsmindernd zu berücksichtigen.
 
 Nicht zuwendungsfähig sind
 
-–
+- Ausgaben, die ein anderer als der Träger des Vorhabens zu tragen verpflichtet ist,
 
-Ausgaben, die ein anderer als der Träger des Vorhabens zu tragen verpflichtet ist,
+- die Umsatzsteuer, soweit sie als Vorsteuer gemäß UStG geltend gemacht werden kann, und
 
-–
-
-die Umsatzsteuer, soweit sie als Vorsteuer gemäß UStG geltend gemacht werden kann, und
-
-–
-
-Finanzierungsausgaben.
+- Finanzierungsausgaben.
 
 6. Sonstige Zuwendungsbestimmungen
 6.1

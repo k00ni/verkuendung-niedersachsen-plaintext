@@ -152,8 +152,7 @@ je vollendete 25 Minuten
 
 Psychotherapeutische
 Kurzzeittherapie
-–
-symptomund/oder konfliktbezogene Behandlung mittels geeigneter
+- symptomund/oder konfliktbezogene Behandlung mittels geeigneter
 psychotherapeutischer Interventionen nach wissenschaftlich
 anerkannten Psychotherapieverfahren und -methoden gemäß A n h a n g
 je vollendete 25 Minuten
@@ -161,13 +160,9 @@ je vollendete 25 Minuten
 15
 
 Psychotherapeutische Sprechstunde – über die Durchführung der Psychotherapie mit dem Ziel der Abklärung des Vorliegens einer krankheitswertigen Störung, ggf. einschließlich:
-–
+- orientierende, diagnostische Abklärung der krankheitswertigen Störung
 
-orientierende, diagnostische Abklärung der krankheitswertigen Störung
-
-–
-
-differentialdiagnostische Abklärung der krankheitswertigen Störung
+- differentialdiagnostische Abklärung der krankheitswertigen Störung
 
 GOÄ-Nr. 812 analog
 Die Leistungen nach den
@@ -201,18 +196,12 @@ Leistung
 
 Abrechnungsempfehlung
 
-–
-
-Abklärung des individuellen Behandlungsbedarfes und
+- Abklärung des individuellen Behandlungsbedarfes und
 Empfehlungen über die weitere Behandlung
 
-–
+- psychotherapeutische Intervention
 
-psychotherapeutische Intervention
-
-–
-
-Hinweise zu weiteren Hilfemöglichkeiten
+- Hinweise zu weiteren Hilfemöglichkeiten
 
 Kindern und Jugendlichen
 sowie Patientinnen und
@@ -272,9 +261,7 @@ Indikationen für eine psychotherapeutische Behandlung;
 5.
 
 neuropsychologische Therapie bei Erwachsenen sowie Kindern und Jugendlichen bei den Indikationen:
-–
-
-organisches amnestisches Syndrom, nicht durch Alkohol oder andere psychotrope Substanzen bedingt (F04 nach ICD-10),
+- organisches amnestisches Syndrom, nicht durch Alkohol oder andere psychotrope Substanzen bedingt (F04 nach ICD-10),
 
 Nds. MBl. 2024 Nr. 306 vom 10. Juli 2024
 
@@ -285,17 +272,11 @@ Seite 5
 
 6.
 
-–
-
-sonstige näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder
+- sonstige näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder
 Funktionsstörung des Gehirns oder einer körperlichen Krankheit (F06.8 nach ICD-10),
 
-–
+- nicht näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit (F06.9 nach ICD-10),
 
-nicht näher bezeichnete organische psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit (F06.9 nach ICD-10),
-
-–
-
-Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des Gehirns (F07 nach ICD-10);
+- Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des Gehirns (F07 nach ICD-10);
 
 EMDR bei Erwachsenen bei der Indikation „Posttraumatische Belastungsstörung“ (F43.1 nach ICD-10).

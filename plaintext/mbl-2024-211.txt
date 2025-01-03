@@ -95,21 +95,15 @@ Die schriftlichen Prüfungsarbeiten bestehen aus einem vom Vorsitzenden aufzuste
 zehn Fragen für jedes Fachgebiet, den die Prüflinge unter Aufsicht auszufüllen haben. Jede schriftliche Arbeit
 ist von zwei Prüfern gemeinsam zu bewerten; können diese sich im Einzelfall nicht einigen, so entscheidet die
 oder der Vorsitzende. Für die Bewertung gilt folgender Schlüssel:
-–
-
-Im Wesentlichen richtige Antwort
+- Im Wesentlichen richtige Antwort
 
 zwei Punkte,
 
-–
-
-teilweise richtige Antwort
+- teilweise richtige Antwort
 
 einen Punkt,
 
-–
-
-im Wesentlichen unrichtige Antwort
+- im Wesentlichen unrichtige Antwort
 
 null Punkte.
 

@@ -16,9 +16,7 @@ Das GAA Braunschweig hat der Firma MSW-Chemie GmbH, Seesener Straße 19, 38685 L
 Datum vom 12.02.2024 die Genehmigung gemäß § 4 i. V. m. § 10 BImSchG für die Errichtung und Betrieb
 einer neuen Produktionsanlage zur Herstellung eines neuartigen Emulsionssprengstoffs am Standort Seesener Straße 19 in 38685 Langelsheim erteilt.
 Der vollständige Bescheid und seine Begründung können in der Zeit vom 14.03. bis zum 28.03.2024 (einschließlich) bei den folgenden Stellen zu den angegebenen Zeiten nach vorheriger telefonischer Terminvereinbarung eingesehen werden:
-–
-
-Staatliches Gewerbeaufsichtsamt Braunschweig, Ludwig-Winter-Straße 2, 38120 Braunschweig,
+- Staatliches Gewerbeaufsichtsamt Braunschweig, Ludwig-Winter-Straße 2, 38120 Braunschweig,
 montags bis donnerstags in der Zeit von
 
 8.00 bis 15.30 Uhr,
@@ -28,9 +26,7 @@ freitags und an Tagen vor Feiertagen in der Zeit von
 8.00 bis 14.30 Uhr,
 
 Telefonnummer zur Terminvereinbarung: 0531 35476-0;
-–
-
-Rathaus Stadt Langelsheim, Harzstraße 8, 38685 Langelsheim,
+- Rathaus Stadt Langelsheim, Harzstraße 8, 38685 Langelsheim,
 montags bis freitags in der Zeit von
 
 7.00 bis 12.30 Uhr,
@@ -90,56 +86,30 @@ Der Genehmigung liegen die im Inhaltsverzeichnis, Stand: 24.08.2023, zum Antrag 
 
 Konkret ergibt sich folgender zu genehmigender Umfang:
 
-–
+- Errichtung und Betrieb einer Anlage zur Herstellung von Emulsionssprengstoff (Ziffer 10.1 G des Anhangs 1 der 4. BImSchV) mit den Betriebseinheiten
+- BE 100: Stearinsäure-Heißlager,
 
-Errichtung und Betrieb einer Anlage zur Herstellung von Emulsionssprengstoff (Ziffer 10.1 G des Anhangs 1 der 4. BImSchV) mit den Betriebseinheiten
-–
+- BE 101: Ammoniumnitrat-Heißlager (Ammoniumnitrat flüssig),
 
-BE 100: Stearinsäure-Heißlager,
+- BE 102: Entladestation,
 
-–
+- BE 103: Natriumnitrat-Lager (Natriumnitrat),
 
-BE 101: Ammoniumnitrat-Heißlager (Ammoniumnitrat flüssig),
+- BE 104: Vorbereitung,
 
-–
+- BE 105: Emulgator-Lager,
 
-BE 102: Entladestation,
+- BE 106: Produktion,
 
-–
+- BE 107: Prozessleitwarte,
 
-BE 103: Natriumnitrat-Lager (Natriumnitrat),
+- BE 109: Puderstoff-Silo,
 
-–
+- BE 111: Betriebsmittel 1 (Heißdampferzeugung und Wasseraufbereitung),
 
-BE 104: Vorbereitung,
+- BE 112: Betriebsmittel 2 (Drucklufterzeugung, Kaltwasser, Transformator und Anlagensteuerung (MCC)),
 
-–
-
-BE 105: Emulgator-Lager,
-
-–
-
-BE 106: Produktion,
-
-–
-
-BE 107: Prozessleitwarte,
-
-–
-
-BE 109: Puderstoff-Silo,
-
-–
-
-BE 111: Betriebsmittel 1 (Heißdampferzeugung und Wasseraufbereitung),
-
-–
-
-BE 112: Betriebsmittel 2 (Drucklufterzeugung, Kaltwasser, Transformator und Anlagensteuerung (MCC)),
-
-–
-
-BE 113: VE-Wasser;
+- BE 113: VE-Wasser;
 
 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche
 Vorgänge (Bundes-Immissionsschutzgesetz - BImSchG) in der Fassung der Bekanntmachung vom 17.05.2013 (BGBl. I. S. 1274), in
@@ -155,9 +125,7 @@ Verordnung über genehmigungsbedürftige Anlagen - 4. BImSchV - in der Fassung d
 
 Nds. MBl. 2024 Nr. 129 vom 13. März 2024
 
-–
-
-Seite 3
+- Seite 3
 
 Errichtung und Betrieb des Rohstofflagers bestehend aus dem Ammoniumnitrat-Heißlager (BE101) und
 dem Natriumnitratlager (BE103) mit einer Lagerkapazität von 430 t (AN nach Nr. 9.3.1 G 4) des Anhangs
@@ -180,30 +148,20 @@ Natriumnitrat
 
 150 Tonnen
 
-–
+- Errichtung der Gebäude für die vorgenannten neuen Produktions- und Lageranlagen;
 
-Errichtung der Gebäude für die vorgenannten neuen Produktions- und Lageranlagen;
+- Die Gesamt-Produktionskapazität an Sprengstoffen am Standort beträgt maximal 25.000 t/a;
 
-–
-
-Die Gesamt-Produktionskapazität an Sprengstoffen am Standort beträgt maximal 25.000 t/a;
-
-–
-
-Der Betrieb der neuen Produktionsanlage erfolgt im Drei-Schicht-Betrieb.
+- Der Betrieb der neuen Produktionsanlage erfolgt im Drei-Schicht-Betrieb.
 
 4.
 
 Konzentrationswirkung
 Diese Genehmigung schließt folgende Entscheidungen mit ein:
 
-–
+- die nach § 59 Abs. 1 NBauO 5) i. V. m. § 63 bzw. § 64 NBauO erforderlichen Baugenehmigungen;
 
-die nach § 59 Abs. 1 NBauO 5) i. V. m. § 63 bzw. § 64 NBauO erforderlichen Baugenehmigungen;
-
-–
-
-die Erlaubnis nach § 18 Abs. 1 Nr. 1 BetrSichV 6) für die Dampfkesselanlage (BE 111);
+- die Erlaubnis nach § 18 Abs. 1 Nr. 1 BetrSichV 6) für die Dampfkesselanlage (BE 111);
 
 Im Übrigen ergeht dieser Bescheid unbeschadet der behördlichen Entscheidungen, die nach § 13 BImSchG nicht von der Genehmigung eingeschlossen werden.
 5.
@@ -211,69 +169,37 @@ Im Übrigen ergeht dieser Bescheid unbeschadet der behördlichen Entscheidungen,
 Dampfkesselanlage
 Die Dampfkesselanlage wird mit folgenden Betriebsdaten genehmigt:
 
-–
+- Aufstellungsort: MSW-CHEMIE GmbH, Seesener Straße 19, 38685 Langelsheim;
 
-Aufstellungsort: MSW-CHEMIE GmbH, Seesener Straße 19, 38685 Langelsheim;
+- Hersteller: Georg Hagelschuer GmbH & Co. KG/Viessmann Climate Solutions SE;
 
-–
+- Herstell-Norm: DIN EN 12953;
 
-Hersteller: Georg Hagelschuer GmbH & Co. KG/Viessmann Climate Solutions SE;
+- Bauart: Großwasserraumkessel mit elektrischer Beheizung;
 
-–
+- Hersteller-Typ: EDK 2500 1.0 / feststehender Dampfkessel/Großwasserraumkessel;
 
-Herstell-Norm: DIN EN 12953;
+- Interne Bezeichnung: D3110;
 
-–
+- Baujahr: voraussichtlich 2023;
 
-Bauart: Großwasserraumkessel mit elektrischer Beheizung;
+- max. zulässiger Druck (Auslegung): 10,0 bar;
 
-–
+- max. zulässiger Betriebsdruck: 6,5 bar;
 
-Hersteller-Typ: EDK 2500 1.0 / feststehender Dampfkessel/Großwasserraumkessel;
+- zulässige Dampferzeugung: 2,5 t/h;
 
-–
+- max. zulässige Heißdampftemperatur (Auslegung): 190 °C;
 
-Interne Bezeichnung: D3110;
+- max. zulässige Heißdampftemperatur im Betrieb: 159,3 °C;
 
-–
+- Beheizungsleistung: 1.683 kW;
 
-Baujahr: voraussichtlich 2023;
+- Heizflächen: entfällt, da elektrisch beheizt;
 
-–
+- Wasserinhalt: 5.030 Liter bis NW/ 5.030 Liter voll;
 
-max. zulässiger Druck (Auslegung): 10,0 bar;
-
-–
-
-max. zulässiger Betriebsdruck: 6,5 bar;
-
-–
-
-zulässige Dampferzeugung: 2,5 t/h;
-
-–
-
-max. zulässige Heißdampftemperatur (Auslegung): 190 °C;
-
-–
-
-max. zulässige Heißdampftemperatur im Betrieb: 159,3 °C;
-
-–
-
-Beheizungsleistung: 1.683 kW;
-
-–
-
-Heizflächen: entfällt, da elektrisch beheizt;
-
-–
-
-Wasserinhalt: 5.030 Liter bis NW/ 5.030 Liter voll;
-
-–
-
-Art der Beheizung/Brennstoff: Elektrische Beheizung.
+- Art der Beheizung/Brennstoff: Elektrische Beheizung.
 
 6.
 

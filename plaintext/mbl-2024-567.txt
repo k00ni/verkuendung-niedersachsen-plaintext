@@ -229,24 +229,16 @@ a)
 Zeile 2 erhält folgende Fassung:
 „Das Vorhaben liegt in einem Gebiet mit besonderer Bedeutung für den Insektenschutz (z. B.
 Natura 2000, NSG, besondere Artenvorkommen)
-–
+- Vorhabengebiet im Schutzgebiet Natura 2000: 8 Punkte
 
-Vorhabengebiet im Schutzgebiet Natura 2000: 8 Punkte
-
-–
-
-Vorhabengebiet NSG/FFH/LSG mit besonderen Artenvorkommen
+- Vorhabengebiet NSG/FFH/LSG mit besonderen Artenvorkommen
 (gemäß Schutzgebietsverordnung): 6 Punkte
 
 b)
 
-–
+- Ortslage mit besonderen Artenvorkommen: 4 Punkte
 
-Ortslage mit besonderen Artenvorkommen: 4 Punkte
-
-–
-
-Ortslage ohne besondere Artenvorkommen: 2 Punkte“.
+- Ortslage ohne besondere Artenvorkommen: 2 Punkte“.
 
 In Zeile 6 erhält der zweite Spiegelstrich folgende Fassung:
 „–

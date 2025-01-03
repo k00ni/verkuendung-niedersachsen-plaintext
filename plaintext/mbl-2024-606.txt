@@ -108,31 +108,19 @@ III. Beteiligte
 Die Anordnung der EAÜ erfolgt durch die zuständige Strafvollstreckungskammer als Weisung gemäß
 § 68 b Abs. 1 Satz 1 Nr. 12 StGB. In Jugendsachen ist die Vollstreckungsleiterin oder der Vollstreckungsleiter
 zuständig. Zur Vorbereitung der Anordnung der EAÜ arbeiten
-–
+- die Führungsaufsichtsstelle,
 
-die Führungsaufsichtsstelle,
+- die Vollstreckungsbehörde,
 
-–
-
-die Vollstreckungsbehörde,
-
-–
-
-der Justizvollzug,
+- der Justizvollzug,
 
 Nds. MBl. 2024 Nr. 606 vom 5. Dezember 2024
 
-–
+- der Maßregelvollzug,
 
-der Maßregelvollzug,
+- die Polizei und
 
-–
-
-die Polizei und
-
-–
-
-der Ambulante Justizsozialdienst Niedersachsen (AJSD)
+- der Ambulante Justizsozialdienst Niedersachsen (AJSD)
 
 Seite 3
 
@@ -240,29 +228,17 @@ Seite 5
 
 Teilnehmerinnen und Teilnehmer der Zentralen Fallkonferenz sind Fachkräfte
 
-–
+- der Führungsaufsichtsstellen,
 
-der Führungsaufsichtsstellen,
+- der Staatsanwaltschaften,
 
-–
+- des Prognosezentrums des Niedersächsischen Justizvollzuges für den Justizvollzug,
 
-der Staatsanwaltschaften,
+- (sofern betroffen) des Maßregelvollzuges,
 
-–
+- der Polizei (die verantwortliche Stelle im LKA) und
 
-des Prognosezentrums des Niedersächsischen Justizvollzuges für den Justizvollzug,
-
-–
-
-(sofern betroffen) des Maßregelvollzuges,
-
-–
-
-der Polizei (die verantwortliche Stelle im LKA) und
-
-–
-
-des AJSD.
+- des AJSD.
 
 Soweit erforderlich können weitere Fachkräfte und Fachkräfte anderer Stellen teilnehmen. Dies gilt insbesondere für die Jugendgerichtshilfe in Fällen Jugendlicher und Heranwachsender.
 3.2
@@ -544,147 +520,83 @@ Entscheidend bei der Beurteilung des Rückfallrisikos sind die jeweilige Täterp
 im Straf- oder Maßregelvollzug und die jeweilige Anlasstat.
 1. Analyse der Anlasstat
 
-–
+- besonderer „Modus Operandi“,
 
-besonderer „Modus Operandi“,
+- Anzeichen für spezielle Opferauswahl,
 
-–
+- erhöhtes Ausmaß an Gewalt bei Tatbegehung (bei Gewaltdelikten),
 
-Anzeichen für spezielle Opferauswahl,
+- multiple sexuelle Handlungen (bei Sexualdelikten),
 
-–
+- Deliktsserie,
 
-erhöhtes Ausmaß an Gewalt bei Tatbegehung (bei Gewaltdelikten),
-
-–
-
-multiple sexuelle Handlungen (bei Sexualdelikten),
-
-–
-
-Deliktsserie,
-
-–
-
-extremistisches Tatmotiv;
+- extremistisches Tatmotiv;
 
 2. Analyse der Täterpersönlichkeit
 
-–
+- sexuelle Präferenzstörung und/oder Gewaltproblematik,
 
-sexuelle Präferenzstörung und/oder Gewaltproblematik,
+- dissoziale Persönlichkeitsstörung,
 
-–
+- einschlägige Vorstrafen,
 
-dissoziale Persönlichkeitsstörung,
+- Substanzmissbrauch,
 
-–
+- extremistische Glaubensausrichtung,
 
-einschlägige Vorstrafen,
-
-–
-
-Substanzmissbrauch,
-
-–
-
-extremistische Glaubensausrichtung,
-
-–
-
-ausgeprägte Radikalisierung;
+- ausgeprägte Radikalisierung;
 
 3. Analyse der Entlassungssituation
 
-–
+- fehlende/instabile/kriminelle soziale Netzwerke,
 
-fehlende/instabile/kriminelle soziale Netzwerke,
-
-–
-
-fehlende Bereitschaft oder Fähigkeit zum Aufbau und Anbindung an soziale Netzwerke,
+- fehlende Bereitschaft oder Fähigkeit zum Aufbau und Anbindung an soziale Netzwerke,
 
 1
 
-–
+- bestehende Kontakte in extremistischen Szenen/Bindung an islamistische Brennpunkte,
 
-bestehende Kontakte in extremistischen Szenen/Bindung an islamistische Brennpunkte,
-
-–
-
-fortbestehende/anhaltende Ausreiseabsichten in Kriegs- oder Krisengebiete;
+- fortbestehende/anhaltende Ausreiseabsichten in Kriegs- oder Krisengebiete;
 
 4. Analyse von Therapiemotivation und Therapiebereitschaft
 
-–
+- fehlende Therapiemöglichkeiten/-fähigkeiten,
 
-fehlende Therapiemöglichkeiten/-fähigkeiten,
+- geringe oder fehlende Therapiebereitschaft,
 
-–
+- Abbruch der Therapie,
 
-geringe oder fehlende Therapiebereitschaft,
-
-–
-
-Abbruch der Therapie,
-
-–
-
-fehlende ambulante Nachsorge;
+- fehlende ambulante Nachsorge;
 
 5. Analyse des Verhaltens in der Haft oder in der Maßregel
 
-–
+- keine Auseinandersetzung mit der Tat in der Haft oder in der Maßregel,
 
-keine Auseinandersetzung mit der Tat in der Haft oder in der Maßregel,
+- Angebote in der Justizvollzugsanstalt oder in der Maßregeleinrichtung nicht angenommen,
 
-–
+- sich in der Haft oder in der Maßregel nicht um Arbeit bemüht,
 
-Angebote in der Justizvollzugsanstalt oder in der Maßregeleinrichtung nicht angenommen,
-
-–
-
-sich in der Haft oder in der Maßregel nicht um Arbeit bemüht,
-
-–
-
-keine Bereitschaft an der Entwicklung und Umsetzung eines Rückfallvermeidungsplans (individuelles
+- keine Bereitschaft an der Entwicklung und Umsetzung eines Rückfallvermeidungsplans (individuelles
 Konzept zum Erkennen und Vermeiden rückfallgefährdender Situationen und Umstände),
 
-–
+- Straftat (insbesondere Gewalttat) und häufige Disziplinarmaßnahmen in der Haft oder in der Maßregel,
 
-Straftat (insbesondere Gewalttat) und häufige Disziplinarmaßnahmen in der Haft oder in der Maßregel,
+- Einwirken auf das persönliche Umfeld (u. a. Mithäftlinge)/Missionierung zu radikaler Glaubensausrichtung,
 
-–
-
-Einwirken auf das persönliche Umfeld (u. a. Mithäftlinge)/Missionierung zu radikaler Glaubensausrichtung,
-
-–
-
-Straftaten/Konflikte in der Haft/Maßregel in Zusammenhang mit Glaubensfragen.
+- Straftaten/Konflikte in der Haft/Maßregel in Zusammenhang mit Glaubensfragen.
 
 Ein hohes Rückfallrisiko kann insbesondere bei folgenden Fallgruppen angenommen werden:
 
-–
+- Tötungsdelikte mit sexueller Komponente,
 
-Tötungsdelikte mit sexueller Komponente,
+- delikttypische Serientäter ohne Vorbeziehung zu dem Opfer,
 
-–
-
-delikttypische Serientäter ohne Vorbeziehung zu dem Opfer,
-
-–
-
-Anlasstaten, bei denen mehrere extreme Tat- und/oder Täterkomponenten zusammentreffen und die
+- Anlasstaten, bei denen mehrere extreme Tat- und/oder Täterkomponenten zusammentreffen und die
 in ihrer Gesamtheit die besondere Gefährlichkeit widerspiegeln,
 
-–
+- Täter, von denen eine konkrete Gefahr einer Straftat gegen ein bestimmtes Tatopfer ausgeht,
 
-Täter, von denen eine konkrete Gefahr einer Straftat gegen ein bestimmtes Tatopfer ausgeht,
-
-–
-
-Straftaten, die der Politisch motivierten Kriminalität zuzuordnen sind, wobei die Täterin oder der Täter
+- Straftaten, die der Politisch motivierten Kriminalität zuzuordnen sind, wobei die Täterin oder der Täter
 auch während der Vollstreckung der Freiheitsstrafe/des Vollzuges der Maßregel keine erkennbare
 Abkehr von extremistischem Gedankengut zeigt.
 
@@ -1084,14 +996,10 @@ Erläuterung:
 Die Weisung nach § 68 b Abs. 1 Nr. 1 StGB ist in örtlicher und zeitlicher Hinsicht präzise zu formulieren,
 um eine EAÜ zu gewährleisten. Beim Täterkreis, bei dem eine EAÜ in Betracht zu ziehen ist, ist es verhältnismäßig, jegliches Verlassen der Gebotszone zu sanktionieren.
 Der Probandin oder dem Probanden ist bei der rechtlichen Belehrung zu verdeutlichen, dass
-–
-
-jedes (auch nur kurzfristiges) Verlassen des Wohn- und Aufenthaltsortes einen Weisungsverstoß
+- jedes (auch nur kurzfristiges) Verlassen des Wohn- und Aufenthaltsortes einen Weisungsverstoß
 darstellt und einen Alarm auslöst und
 
-–
-
-ein beabsichtigtes Verlassen der Gebotszone rechtzeitig (mindestens eine Woche vorher) der
+- ein beabsichtigtes Verlassen der Gebotszone rechtzeitig (mindestens eine Woche vorher) der
 zuständigen Führungsaufsichtsstelle anzuzeigen und um Erlaubnis zum Verlassen der Gebotszone zu ersuchen ist sowie eine Erlaubnis nur unter Angabe von plausiblen Gründen ausnahmsweise erteilt wird.
 
 7. Weisung nach § 68 b Abs. 1 Nr. 2 StGB (Aufenthaltsverbote)
@@ -1183,21 +1091,15 @@ im Jahr anfallen.
 Die EAÜ könnte bei entsprechender Gefährlichkeit des Probanden durch Weisungen nach § 68 b
 Abs. 1 und 2 StGB wie folgt ausgestaltet werden:
 „Die verurteilte Person wird angewiesen, sich am Tag der Haftentlassung bei
-–
-
-der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer
+- der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer
 < ggf. nähere Bezeichnung > persönlich zu melden oder
 
-–
-
-der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer und der
+- der örtlich zuständigen Bewährungshelferin oder dem örtlich zuständigen Bewährungshelfer und der
 örtlich zuständigen Polizeidienststelle nach dem Länderkonzept zur Überwachung rückfallgefährdeter
 Straftäter < z. B. KURS-, ZÜRS-, HEADS-Ansprechpartner. ggf. nähere Bezeichnung > persönlich zu
 melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
 
-–
-
-„Die verurteilte Person wird angewiesen, sich täglich bei der örtlichen Polizeiinspektion < ggf. nähere
+- „Die verurteilte Person wird angewiesen, sich täglich bei der örtlichen Polizeiinspektion < ggf. nähere
 Bezeichnung > persönlich zu melden“ (Weisung nach § 68 b Abs. 1 Nr. 7 StGB).
 Erläuterung:
 Der oder dem Verurteilten kann mittels strafbewehrter Weisungen kein bestimmter Aufenthaltsort zugewiesen werden. Daher empfehlen sich die in Absatz 1 bezeichneten Weisungen, um eine wirksame
@@ -1464,19 +1366,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________
 
 Erläuterungen zur Handhabung des Formulars:
-–
+- Das Feld „unmittelbare Kontaktaufnahme der GÜL“ bezieht sich auf die Frage, mit wem sofort in welcher Reihenfolge Kontakt aufzunehmen ist.
 
-Das Feld „unmittelbare Kontaktaufnahme der GÜL“ bezieht sich auf die Frage, mit wem sofort in welcher Reihenfolge Kontakt aufzunehmen ist.
-
-–
-
-Das Feld „Bericht an“ beantwortet die Frage, ob die Führungsaufsichtsstelle und/oder Bewährungshilfe über das Ereignis zum nächsten Werktag im Wege
+- Das Feld „Bericht an“ beantwortet die Frage, ob die Führungsaufsichtsstelle und/oder Bewährungshilfe über das Ereignis zum nächsten Werktag im Wege
 eines Berichts zu informieren ist. Eine sofortige Berichterstattung an die Führungsaufsichtsstelle/die Bewährungshilfe ist angesichts fehlender
 Bereitschaftsdienste außerhalb der Geschäftszeiten nicht zweckmäßig.
 
-–
-
-Die Fallkonferenz sollte die Reihenfolge der Ereignismeldungen nach diesem Formblatt aus Gründen der Einheitlichkeit nicht verändern.
+- Die Fallkonferenz sollte die Reihenfolge der Ereignismeldungen nach diesem Formblatt aus Gründen der Einheitlichkeit nicht verändern.
 
 3
 

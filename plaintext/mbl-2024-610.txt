@@ -75,34 +75,22 @@ die beantragende Behörde im Antrag zusichert, dass
 
 2.6
 
-–
-
-von ihr die im Rahmen der Kontrollen erhobenen Daten zeitnah und vollumfänglich in die den
+- von ihr die im Rahmen der Kontrollen erhobenen Daten zeitnah und vollumfänglich in die den
 kommunalen Veterinärbehörden mit Erlass vom 08.07.2021, Az.: 202-44039/1-234, zur Verfügung gestellte Datenbank eingepflegt werden,
 
-–
-
-durch sie alternativ zur Nutzung der vorgenannten Datenbank die Dateneingabe in BALVI iP 2
+- durch sie alternativ zur Nutzung der vorgenannten Datenbank die Dateneingabe in BALVI iP 2
 zeitnah und vollumfänglich erfolgt, sobald das BALVI iP 2-System so programmiert ist, dass alle
 erforderlichen Daten nach § 4 der Antibiotika-Arzneimittel-Verwendungsverordnung vom
 02.01.2023 (BGBl. 2023 I Nr. 3) in der Anwendung eingegeben werden können,
 
-–
-
-sie eine risikobasierte Kontrollplanung in eigener Verantwortung durchführt, in die neben den Daten im Rahmen der Antibiotikaminimierung (siehe Spiegelstriche 1 und 2) die kommunalen Daten
+- sie eine risikobasierte Kontrollplanung in eigener Verantwortung durchführt, in die neben den Daten im Rahmen der Antibiotikaminimierung (siehe Spiegelstriche 1 und 2) die kommunalen Daten
 (beispielsweise aus der Tierschutz- oder Tiergesundheitsüberwachung) einbezogen werden können,
 
-–
+- von ihr Schwerpunktsetzungen des ML bei der risikobasierten Überwachung umgesetzt werden,
 
-von ihr Schwerpunktsetzungen des ML bei der risikobasierten Überwachung umgesetzt werden,
+- sie alle der Behörde vorgelegten Maßnahmenpläne prüft und
 
-–
-
-sie alle der Behörde vorgelegten Maßnahmenpläne prüft und
-
-–
-
-sie zusätzlich dafür Sorge trägt, dass die für die Aufgabenwahrnehmung zuständigen Mitarbeiterinnen und Mitarbeiter regelmäßig über die neuesten Entwicklungen und Erkenntnisse auf dem
+- sie zusätzlich dafür Sorge trägt, dass die für die Aufgabenwahrnehmung zuständigen Mitarbeiterinnen und Mitarbeiter regelmäßig über die neuesten Entwicklungen und Erkenntnisse auf dem
 Gebiet des Antibiotikaeinsatzes und der Entstehung und Verbreitung von Resistenzen bei Tieren
 fortgebildet werden.
 

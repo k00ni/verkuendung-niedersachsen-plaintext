@@ -433,22 +433,17 @@ a)
 b)
 
 in den Fällen von § 8 Absätze 1 und 2, § 9 Absatz 3
-–
-
-Bescheinigung über die Teilnahme an vorgeschriebenen Zwischenprüfungen oder am ersten Teil
+- Bescheinigung über die Teilnahme an vorgeschriebenen Zwischenprüfungen oder am ersten Teil
 der Abschlussprüfung,
 
-–
-
-ein vorgeschriebener, von der Ausbilderin oder dem Ausbilder und der oder dem Auszubildenden
+- ein vorgeschriebener, von der Ausbilderin oder dem Ausbilder und der oder dem Auszubildenden
 unterzeichneter Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 BBiG,
 
 in den Fällen des § 9 Absatz 2
 
 Nds. MBl. 2024 Nr. 640 vom 18. Dezember 2024
 
-–
-c)
+- c)
 
 Seite 8
 
@@ -456,35 +451,26 @@ ein vorgeschriebener, von der Ausbilderin oder dem Ausbilder und der oder dem Au
 unterzeichneter Ausbildungsnachweis nach § 13 Satz 2 Nummer 7 BBiG,
 
 in den Fällen des § 10
-–
-
-Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang
+- Bescheinigung über die Teilnahme an dem schulischen oder sonstigen Bildungsgang
 
 und in den Fällen des § 10 Nummer 1 zusätzlich
-–
-d)
+- d)
 
 im Fall des § 11 Absatz 1
-–
-
-e)
+- e)
 
 Tätigkeitsnachweis und ggf. Nachweis der Dauer der Berufsausbildung in dem oder in einem
 anderen einschlägigen Ausbildungsberuf und ggf. glaubhafte Darlegung über den Erwerb der
 beruflichen Handlungsfähigkeit,
 
 in den Fällen des § 11 Absatz 2 Satz 3 und Absatz 3
-–
-
-(5)
+- (5)
 
 zusätzlich zu den Unterlagen nach Buchstabe a oder Buchstabe b das letzte Zeugnis oder eine
 aktuelle Leistungsbeurteilung der zuletzt besuchten berufsbildenden Schule,
 
 in den Fällen des § 11 Absatz 2 Sätze 1 und 2
-–
-
-f)
+- f)
 
 Bescheinigung über die Teilnahme an der fachpraktischen Ausbildung im Rahmen des schulischen
 oder sonstigen Bildungsganges,
@@ -992,32 +978,20 @@ Prüfungszeugnis
 (1) Über die Prüfung erhält der Prüfling von der zuständigen Stelle ein Zeugnis (§ 37 Absatz 2 BBiG). Der von
 der zuständigen Stelle vorgeschriebene Vordruck ist zu verwenden.
 (2) Das Prüfungszeugnis enthält
-–
-
-die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 BBiG“ oder „Prüfungszeugnis nach § 62 Absatz 3
+- die Bezeichnung „Prüfungszeugnis nach § 37 Absatz 2 BBiG“ oder „Prüfungszeugnis nach § 62 Absatz 3
 in Verbindung mit § 37 Absatz 2 BBiG“,
 
-–
+- die Personalien des Prüflings (Name, Vorname, Geburtsdatum),
 
-die Personalien des Prüflings (Name, Vorname, Geburtsdatum),
-
-–
-
-die Bezeichnung des Ausbildungsberufs mit Fachrichtung oder prüfungsrelevantem Schwerpunkt; weitere
+- die Bezeichnung des Ausbildungsberufs mit Fachrichtung oder prüfungsrelevantem Schwerpunkt; weitere
 in der Ausbildungsordnung ausgewiesene prüfungsrelevante Differenzierungen können aufgeführt werden,
 
-–
-
-die Ergebnisse (Punkte) der Prüfungsbereiche und das Gesamtergebnis (Note), soweit ein solches in der
+- die Ergebnisse (Punkte) der Prüfungsbereiche und das Gesamtergebnis (Note), soweit ein solches in der
 Ausbildungsordnung vorgesehen ist,
 
-–
+- das Datum des Bestehens der Prüfung,
 
-das Datum des Bestehens der Prüfung,
-
-–
-
-die Namenswiedergabe (Faksimile) oder Unterschriften des Vorsitzes des Prüfungsausschusses und der
+- die Namenswiedergabe (Faksimile) oder Unterschriften des Vorsitzes des Prüfungsausschusses und der
 beauftragten Person der zuständigen Stelle mit Siegel.
 
 Die Zeugnisse können zusätzliche nicht amtliche Bemerkungen zur Information (Bemerkungen) enthalten,

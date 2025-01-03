@@ -30,9 +30,7 @@ sollen zukunftsfähige Geschäftsmodelle unterstützt, sozialversicherungspflich
 
 Die Gewährung der Zuwendung erfolgt gemäß den Regelungen:
 
-–
-
-der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24.06.2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen
+- der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24.06.2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen
 Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen
 Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den
 Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für
@@ -40,15 +38,11 @@ finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik (ABl. EU Nr. L 231
 S. 158; 2022 Nr. L 241 S. 16; 2023 Nr. L 65 S. 59), zuletzt geändert durch Verordnung (EU) 2023/435
 des Europäischen Parlaments und des Rates vom 27.02.2023 (ABl. EU Nr. L 63 S. 1),
 
-–
-
-der Verordnung (EU) 2021/1058 des Europäischen Parlaments und des Rates vom 24.06.2021 über
+- der Verordnung (EU) 2021/1058 des Europäischen Parlaments und des Rates vom 24.06.2021 über
 den Europäischen Fonds für regionale Entwicklung und den Kohäsionsfonds (ABl. EU Nr. L 231 S. 60;
 2022 Nr. L 13 S. 74),
 
-–
-
-der Verordnung (EU) Nr. 651/2014 der Kommission vom 17.06.2014 zur Feststellung der Vereinbarkeit
+- der Verordnung (EU) Nr. 651/2014 der Kommission vom 17.06.2014 zur Feststellung der Vereinbarkeit
 bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des
 Vertrags über die Arbeitsweise der Europäischen Union (ABl. EU Nr. L 187 S. 1, Nr. L 283 S. 65), zuletzt
 Herausgeber: Niedersächsische Staatskanzlei
@@ -59,9 +53,7 @@ Seite 2
 
 geändert durch Verordnung (EU) 2023/1315 der Kommission vom 23.06.2023 (ABl. EU Nr. L 167 S. 1)
 – Allgemeine Gruppenfreistellungsverordnung – im Folgenden: AGVO – und
-–
-
-der EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen
+- der EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen
 für Zuwendungen zur Projektförderung (ANBest-EFRE/ESF+) – Bezugserlass zu a –
 
 in den jeweils geltenden Fassungen.
@@ -96,19 +88,13 @@ und 2.2.
 
 Von der Zuwendung ausgeschlossen sind:
 
-–
-
-Vorhaben, für die eine Förderung aus EFRE-Mitteln anderer Landesprogramme oder aus anderen Mitteln der EU, insbesondere des Europäischen Sozialfonds Plus (ESF+), des Europäischen Fonds für die
+- Vorhaben, für die eine Förderung aus EFRE-Mitteln anderer Landesprogramme oder aus anderen Mitteln der EU, insbesondere des Europäischen Sozialfonds Plus (ESF+), des Europäischen Fonds für die
 Entwicklung des ländlichen Raums (ELER) oder des Europäischen Meeres-, Fischerei- und Aquakulturfonds (EMFAF) erfolgt; dies gilt nicht, soweit die Voraussetzungen des Artikels 63 Abs. 9 der Verordnung (EU) 2021/1060 zur Unterstützung eines Vorhabens aus einem oder mehreren Europäischen
 Struktur- und Investitionsfonds (ESI-Fonds) oder aus einem oder mehreren Programmen und aus anderen Unionsinstrumenten gegeben sind,
 
-–
+- Vorhaben, die eine landesinterne Betriebsverlagerung ohne Erweiterungscharakter beinhalten und
 
-Vorhaben, die eine landesinterne Betriebsverlagerung ohne Erweiterungscharakter beinhalten und
-
-–
-
-Vorhaben mit einer Vorförderung derselben Betriebsstätte, solange die Verwendungsnachweisprüfung
+- Vorhaben mit einer Vorförderung derselben Betriebsstätte, solange die Verwendungsnachweisprüfung
 noch nicht abgeschlossen ist.
 
 3. Zuwendungsempfänger
@@ -161,78 +147,48 @@ Gefördert werden nur Unternehmen, die in der zu fördernden Betriebsstätte die
 kein Abbau bei anderen bestehenden Betriebsstätten erfolgt) und diese Arbeitsplätze ausschließlich mit Arbeitnehmerinnen oder Arbeitnehmern besetzen, mit denen sie ein sozialversicherungspflichtiges Beschäftigungsverhältnis eingehen.
 4.4
 Bei der Antragstellung sind zur Beurteilung der Förderwürdigkeit Ausführungen zu folgenden Qualitätskriterien erforderlich:
-–
+- Unternehmensgröße,
 
-Unternehmensgröße,
+- geschaffene neue sozialversicherungspflichtige Dauerarbeitsplätze,
 
-–
-
-geschaffene neue sozialversicherungspflichtige Dauerarbeitsplätze,
-
-–
-
-Aufbau weitergehender Digitalisierungsprozesse i. S. des Querschnittszieles „digitale Wirtschaft“ der
+- Aufbau weitergehender Digitalisierungsprozesse i. S. des Querschnittszieles „digitale Wirtschaft“ der
 regionalen Innovationsstrategie RIS3 (Mindestens zwei Maßnahmen) (z. B. Nutzung Internet der Dinge,
 Nutzung künstlicher Intelligenz, Aufbau Online-Vertriebskanäle, Nutzung Digitaler Zwillinge, digitale Anwendungen zur Verbesserung bestehender Prozesse und Angebote),
 
-–
+- qualitätsverbessernde Investitionen in der Beherbergung gemäß Anlage 1 Nr. 4,
 
-qualitätsverbessernde Investitionen in der Beherbergung gemäß Anlage 1 Nr. 4,
+- Einstellung von Forschungs- und Entwicklungspersonal (gilt nicht für Beherbergung),
 
-–
-
-Einstellung von Forschungs- und Entwicklungspersonal (gilt nicht für Beherbergung),
-
-–
-
-thematische Spezialisierung nach der regionalen Innovationsstrategie RIS3. Es sollen bestehende Stärken der Region genutzt und damit regionale Alleinstellungsmerkmale und Wettbewerbsvorteile herausgearbeitet werden, z. B. in den Bereichen Mobilität, Lebenswissenschaften, Energietechnologien und
+- thematische Spezialisierung nach der regionalen Innovationsstrategie RIS3. Es sollen bestehende Stärken der Region genutzt und damit regionale Alleinstellungsmerkmale und Wettbewerbsvorteile herausgearbeitet werden, z. B. in den Bereichen Mobilität, Lebenswissenschaften, Energietechnologien und
 -systeme, Ernährungswirtschaft, Neue Materialien, Produktionstechnik (gilt nicht für Beherbergung),
 
-–
-
-Umweltschutz und Energieeffizienz (Für über die Unionsnormen hinausgehende Maßnahmen zur Verbesserung des Umweltschutzes oder der Energieeffizienz werden bemessen anhand des Quotienten
+- Umweltschutz und Energieeffizienz (Für über die Unionsnormen hinausgehende Maßnahmen zur Verbesserung des Umweltschutzes oder der Energieeffizienz werden bemessen anhand des Quotienten
 aus Zusatzinvestitionsausgaben in Bezug auf die Ausgaben der Basisinvestition zusätzliche Punkte
 vergeben.),
 
-–
-
-Vorförderung der Betriebsstätte in den letzten zehn Jahren,
+- Vorförderung der Betriebsstätte in den letzten zehn Jahren,
 
 Nds. MBl. 2024 Nr. 33 vom 23. Januar 2024
 
 Seite 4
 
-–
+- Gleichstellung von Männern und Frauen (z. B. Teilzeitmodelle, Zertifikat Vereinbarkeit Familie und Beruf, mobiles Arbeiten, Betriebskindergarten, Frauen in Führungspositionen),
 
-Gleichstellung von Männern und Frauen (z. B. Teilzeitmodelle, Zertifikat Vereinbarkeit Familie und Beruf, mobiles Arbeiten, Betriebskindergarten, Frauen in Führungspositionen),
-
-–
-
-Nichtdiskriminierung und Chancengleichheit (Barrierefreie Zugänge, Implementierung von DiversityKonzepten im Leitbild, Sprachliche Barrierefreiheit, Inklusion von gehandicapten Menschen, Integration
+- Nichtdiskriminierung und Chancengleichheit (Barrierefreie Zugänge, Implementierung von DiversityKonzepten im Leitbild, Sprachliche Barrierefreiheit, Inklusion von gehandicapten Menschen, Integration
 von Menschen mit Zuwanderungsgeschichte),
 
-–
+- Gute Arbeit (Tarifbindung, Mitbestimmungsmöglichkeiten über Betriebsräte, Personalentwicklungsmaßnahmen, Gesundheitsfürsorge),
 
-Gute Arbeit (Tarifbindung, Mitbestimmungsmöglichkeiten über Betriebsräte, Personalentwicklungsmaßnahmen, Gesundheitsfürsorge),
-
-–
-
-Beiträge zur Nachhaltigen Entwicklung (z. B. Einführung von Umweltmanagementsystemen, Erlangung
+- Beiträge zur Nachhaltigen Entwicklung (z. B. Einführung von Umweltmanagementsystemen, Erlangung
 von Siegeln/Zertifikaten im Zusammenhang mit der Maßnahme, das Unternehmen hat ein individuelles
 Energiekonzept/-controlling, Reduktion des Frischwasserverbrauchs, Einrichtung von Anlagen zur Abwasseraufbereitung, Vermeidung von Abfällen, Schutz des guten Zustands von Gewässern, Verbesserung der Wassereffizienz, Reduzierung des Einsatzes von Primärrohstoffen, Schutz vor Umweltverschmutzung),
 
-–
-
-Wirkung des Vorhabens auf Wertschöpfungsketten in der Region (z. B. über regionale Zuliefer- und
+- Wirkung des Vorhabens auf Wertschöpfungsketten in der Region (z. B. über regionale Zuliefer- und
 Absatzverflechtungen),
 
-–
+- Steigerung der Standortattraktivität und
 
-Steigerung der Standortattraktivität und
-
-–
-
-Gewinnung und Bindung hochqualifizierter Arbeitskräfte (nicht bei Beherbergung).
+- Gewinnung und Bindung hochqualifizierter Arbeitskräfte (nicht bei Beherbergung).
 Die Gewichtung der Qualitätskriterien (Scoring-Modell) ist aus der Anlage 3 ersichtlich.
 
 5. Art und Umfang, Höhe der Zuwendung

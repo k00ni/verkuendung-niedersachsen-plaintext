@@ -21,18 +21,14 @@ Zuwendungen für die Beseitigung von Hochwasserschäden an öffentlichen Aufgabe
 
 Die Gewährung der Zuwendungen erfolgt gemäß den Regelungen
 
-–
-
-von Artikel 50 der Verordnung (EU) 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der
+- von Artikel 50 der Verordnung (EU) 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der
 Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107
 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1;
 L 283 vom 27.9.2014, S. 65), zuletzt geändert durch Verordnung (EU) 2023/1315 der Kommission vom
 23. Juni 2023 (ABl. L 167 vom 30.6.2023, S. 1) – Allgemeine Gruppenfreistellungsverordnung – im
 Folgenden: AGVO – und
 
-–
-
-der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der
+- der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der
 Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L, 2023/2831, 15.12.2023) – im Folgenden: De-minimis-Verordnung –.
 
 1.3
@@ -53,29 +49,21 @@ Nds. MBl. 2024 Nr. 292 vom 1. Juli 2024
 Seite 2
 
 Zu den Vermögenswerten, die der Erfüllung von öffentlichen Aufgaben der Kommunen, Real-, Wasserund Boden- sowie Zweckverbänden dienen, gehören insbesondere Einrichtungen der
-–
-
-städtebaulichen Infrastruktur,
+- städtebaulichen Infrastruktur,
 einschließlich deren historischer Innenstädte, Kultureinrichtungen, Kulturdenkmalen und das Stadtbild
 prägenden Gebäuden. Zur städtebaulichen Infrastruktur gehören auch die administrative Infrastruktur
 und innerörtliche Erschließungsanlagen wie Straßen, Wege, Plätze und Brücken sowie Parkflächen
 und Grünanlagen;
 
-–
-
-sozialen Infrastruktur,
+- sozialen Infrastruktur,
 z. B. Einrichtungen der Kinderbetreuung, Schulen, Krankenhäuser, Alten- und Pflegeheime, Einrichtungen der Behindertenhilfe, der Grundversorgung dienenden Freizeitinfrastruktur wie Sportstätten
 oder touristischer Infrastruktur und Kuranlagen;
 
-–
-
-verkehrlichen Infrastruktur,
+- verkehrlichen Infrastruktur,
 einschließlich der unbeweglichen ÖPNV-Infrastruktureinrichtungen – zur verkehrlichen Infrastruktur
 gehören auch außerörtliche überwiegend öffentliche Straßen und Wege sowie Brücken –;
 
-–
-
-wasser- und abfallwirtschaftlichen Infrastruktur sowie der Anlagen zum Umgang mit wassergefährdenden Stoffen,
+- wasser- und abfallwirtschaftlichen Infrastruktur sowie der Anlagen zum Umgang mit wassergefährdenden Stoffen,
 hierzu gehören Trinkwasserversorgungsanlagen, Abwasseranlagen (Kläranlagen, Kanalisation), Abfallentsorgungsanlagen (einschließlich Deponien), Nebenanlagen wie Anlagen zur energetischen Nutzung von Klär- und Deponiegas, abschwemmgefährdete Altlasten sowie Hochwasserschutzanlagen,
 einschließlich deren Zufahrten, und wasserbauliche Anlagen sowie die Gewässerinfrastruktur einschließlich Wasserläufe.
 
@@ -89,49 +77,27 @@ worden sind.
 
 Die Zuwendung erhalten Geschädigte an den Flusseinzugsgebieten der Gewässer:
 
-–
+- Weser (Aller/Leine/Fuhse/Oker) bis zur Landesgrenze Bremen,
 
-Weser (Aller/Leine/Fuhse/Oker) bis zur Landesgrenze Bremen,
+- Wümme (bis zum Lesumsperrwerk),
 
-–
+- Hunte (bis zum Huntesperrwerk),
 
-Wümme (bis zum Lesumsperrwerk),
+- Soeste,
 
-–
+- Ems bis zur Seeschleuse Papenburg,
 
-Hunte (bis zum Huntesperrwerk),
+- Vechte,
 
-–
+- Sude mit Krainke und Rögnitz,
 
-Soeste,
+- Seege,
 
-–
+- Ilmenau,
 
-Ems bis zur Seeschleuse Papenburg,
+- Jeetzel,
 
-–
-
-Vechte,
-
-–
-
-Sude mit Krainke und Rögnitz,
-
-–
-
-Seege,
-
-–
-
-Ilmenau,
-
-–
-
-Jeetzel,
-
-–
-
-Elbe bis Einmündung der Oste.
+- Elbe bis Einmündung der Oste.
 Das Einzugsgebiet umfasst auch die Nebenflüsse der genannten Gewässer (Gebietskulisse).
 
 Im Einzelfall können für Schäden i. S. der Nummer 2.1 Zuwendungen gewährt werden, die außerhalb dieser Gebietskulisse entstanden und auf das Weihnachtshochwasser 2023/2024 zurückzuführen sind.
@@ -197,35 +163,21 @@ Ausgaben gewährt.
 Finanzschwach sind Kommunen, die im Jahr 2024 im Bedarfszuweisungsverfahren (§ 13 NFAG) das Kriterium der besonderen Finanzschwäche erfüllen.
 5.2
 Zuwendungsfähig sind folgende Ausgaben zur Beseitigung von Schäden an oder zur Wiederherstellung der öffentlichen Infrastruktur für
-–
+- vorbereitende Arbeiten, einschließlich Gutachten,
 
-vorbereitende Arbeiten, einschließlich Gutachten,
+- Leistungen von Beauftragten für die Vorbereitung und Durchführung der Maßnahmen,
 
-–
+- den Abriss,
 
-Leistungen von Beauftragten für die Vorbereitung und Durchführung der Maßnahmen,
+- Reparaturmaßnahmen oder den Ersatzbau, auch für den Ersatzneubau an anderer Stelle; Bemessungsgrundlage der Zuwendung gemäß Nummer 5.1 ist die Höhe des tatsächlich entstandenen Schadens, einschließlich der Ausgaben für die Schadensermittlung,
 
-–
-
-den Abriss,
-
-–
-
-Reparaturmaßnahmen oder den Ersatzbau, auch für den Ersatzneubau an anderer Stelle; Bemessungsgrundlage der Zuwendung gemäß Nummer 5.1 ist die Höhe des tatsächlich entstandenen Schadens, einschließlich der Ausgaben für die Schadensermittlung,
-
-–
-
-wesentliche funktionsbezogene Einrichtungsgegenstände.
+- wesentliche funktionsbezogene Einrichtungsgegenstände.
 Darüber hinaus sind zuwendungsfähig:
 
-–
-
-Maßnahmen, die der Abwehr von Gefahren und der Begrenzung hochwasserbedingter Schäden (z. B.
+- Maßnahmen, die der Abwehr von Gefahren und der Begrenzung hochwasserbedingter Schäden (z. B.
 Deichsicherung, Geröllberäumung) an Hochwasserschutzanlagen und den Hochwasserschutz unterstützenden Anlagen während der Zeit vom 24.12.2023 bis 31.01.2024 gedient haben und
 
-–
-
-erhöhte Energiekosten für den Betrieb von Schöpfwerkspumpen und Trocknungsgeräten.
+- erhöhte Energiekosten für den Betrieb von Schöpfwerkspumpen und Trocknungsgeräten.
 
 Nicht zuwendungsfähig sind Eigenleistungen (Personal- und Sachleistungen) des Antragstellers oder des
 Letztempfängers.

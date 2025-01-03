@@ -17,18 +17,12 @@ am 17.09.2024, die Erteilung einer Genehmigung zur Errichtung und zum Betrieb ei
 Hannover, Lohweg 10, Gemarkung Anderten, Flur 9, Flurstücke 6/2, 6/3, 9/2 und 9/3 beantragt. Die Anlage
 wird auf den Flächen errichtet, die in der Vergangenheit zur Gewinnung von Kalkmergel für die Zementindustrie genutzt wurden und auf denen aktuell eine Abfallbehandlungsanlage betrieben wird.
 Gegenstand der Errichtung und des Betriebs ist die Müllverbrennungsanlage zur Verbrennung nicht gefährlicher Abfälle, die im Wesentlichen aus folgenden Maßnahmen besteht:
-–
-
-zwei Verbrennungslinien, denen jeweils eine Dampfkesselanlage und eine Rauchgasreinigungsanlage
+- zwei Verbrennungslinien, denen jeweils eine Dampfkesselanlage und eine Rauchgasreinigungsanlage
 nachgeschaltet sind,
 
-–
+- Müllbunker mit einer Lagerkapazität von 5 000 t,
 
-Müllbunker mit einer Lagerkapazität von 5 000 t,
-
-–
-
-Reservekesselanlage (für den Fall des Ausfalls einer Verbrennungslinie) mit einer Feuerungswärmeleistung von 31 MW.
+- Reservekesselanlage (für den Fall des Ausfalls einer Verbrennungslinie) mit einer Feuerungswärmeleistung von 31 MW.
 
 Mit dem Betrieb der Anlage soll unmittelbar nach Vorlage der Genehmigung und Abschluss der Errichtungsarbeiten begonnen werden.
 Die Errichtung und der Betrieb der Anlage bedarf der Genehmigung gemäß den §§ 4 und 10 BImSchG
@@ -56,29 +50,17 @@ der Gewerbeaufsicht Niedersachsen https://www.gewerbeaufsicht.niedersachsen.de/s
 Es wird darauf hingewiesen, dass zusätzlich die Möglichkeit besteht, eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt zu bekommen.
 Die veröffentlichten Unterlagen enthalten neben einer Kurzbeschreibung mit allgemein verständlicher,
 nichttechnischer Zusammenfassung zum Standort, zum Vorhaben und zu den zu erwartenden Umweltauswirkungen insbesondere auch folgende Fachgutachten und Berichte:
-–
+- Immissionsprognose zu Schall,
 
-Immissionsprognose zu Schall,
+- Immissionsprognose zu Luftschadstoffen und Geruch,
 
-–
+- Schornsteinhöhenberechnung,
 
-Immissionsprognose zu Luftschadstoffen und Geruch,
+- Gutachten zur Ermittlung angemessener Sicherheitsabstände,
 
-–
+- Verkehrsgutachten,
 
-Schornsteinhöhenberechnung,
-
-–
-
-Gutachten zur Ermittlung angemessener Sicherheitsabstände,
-
-–
-
-Verkehrsgutachten,
-
-–
-
-naturschutzrechtliche Gutachten (Eingriffsbilanzierung, Artenschutzfachbeitrag, FFH-Verträglichkeitsvoruntersuchung).
+- naturschutzrechtliche Gutachten (Eingriffsbilanzierung, Artenschutzfachbeitrag, FFH-Verträglichkeitsvoruntersuchung).
 
 Daneben sind Anlagen- und Betriebsbeschreibungen, Angaben zur Anlagensicherheit, zum Arbeitsschutz,
 zur Betriebseinstellung, zu Abfällen, zu Wasser und Abwasser, zum Umgang mit wassergefährdenden Stoffen

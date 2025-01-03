@@ -30,9 +30,7 @@ Ziel der Förderung ist die Erhöhung der Innovationskraft durch die Mitwirkung 
 Durch die Qualifizierung der Netzwerke, die Themen innerhalb der Stärke- und Spezialisierungsfelder der
 niedersächsischen „Regionalen Innovationsstrategie für intelligente Spezialisierung (RIS3)“ vorantreiben, sollen die Wissensbildung und der Wissens- und Technologietransfer gestärkt sowie die intensive Zusammenarbeit der Wirtschaft untereinander und mit der Wissenschaft ausgebaut und dadurch die Regionen auf Grundlage ihrer jeweiligen regionalen Stärken unterstützt werden. Im Rahmen der Netzwerktätigkeit soll eine Erhöhung der Anzahl der Projektpartner angestrebt werden.
 1.2
-–
-
-Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
+- Die Gewährung der Zuwendung erfolgt gemäß den Regelungen
 der Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit
 gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und
 für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument
@@ -47,33 +45,23 @@ Seite 2
 
 durch Verordnung (EU) 2024/795 des Europäischen Parlaments und des Rates vom 29. Februar 2024
 (ABl. L, 2024/795, 29.2.2024),
-–
-
-der Verordnung (EU) 2021/1058 des Europäischen Parlaments und des Rates vom 24. Juni 2021 über
+- der Verordnung (EU) 2021/1058 des Europäischen Parlaments und des Rates vom 24. Juni 2021 über
 den Europäischen Fonds für regionale Entwicklung und den Kohäsionsfonds (ABl. L 231 vom 30.6.2021,
 S. 60; L 13 vom 20.1.2022, S. 74), geändert durch Verordnung (EU) 2024/795 des Europäischen Parlaments und des Rates vom 29. Februar 2024 (ABl. L, 2024/795, 29.2.2024),
 
-–
-
-für die EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen
+- für die EU-Strukturfondsförderung 2021–2027; Rahmenregelung der Allgemeinen Nebenbestimmungen
 für Zuwendungen zur Projektförderung (ANBest-EFRE/ESF+) – Bezugserlass zu a –,
 
-–
-
-der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des
+- der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des
 Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1; L 283 vom
 27.9.2014, S. 65), zuletzt geändert durch Verordnung (EU) 2023/1315 der Kommission vom 23. Juni
 2023 (ABl. L 167 vom 30.6.2023, S. 1) – Allgemeine Gruppenfreistellungsverordnung – im Folgenden
 AGVO –,
 
-–
-
-der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der
+- der Verordnung (EU) 2023/2831 der Kommission vom 13. Dezember 2023 über die Anwendung der
 Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L, 2023/2831, 15.12.2023) – im Folgenden: De-minimis-Verordnung –,
 
-–
-
-der Bekanntmachung des Koordinierungsausschusses der Gemeinschaftsaufgabe „Verbesserung der
+- der Bekanntmachung des Koordinierungsausschusses der Gemeinschaftsaufgabe „Verbesserung der
 regionalen Wirtschaftsstruktur“ des Bundesministeriums für Wirtschaft und Klimaschutz vom 13. Dezember 2022 (BAnz AT 16.01.2023 B1) – soweit GRW-Mittel eingesetzt werden –,
 
 in der jeweils geltenden Fassung.
@@ -116,22 +104,14 @@ somit auch die Phase von Antragstellungen für Förderungen nach Nummer 2.1.1 zu
 Die Förderung erfolgt hier im Rahmen der De-minimis-Verordnung.
 Themen können sich auf die gesamte ÜR beziehen, aber auch teilregional ausgewählt werden.
 Die Aktivitäten sind insbesondere auf folgende Ziele auszurichten:
-–
+- effektivere Vernetzung und Nutzung von Synergieeffekten vorhandener Akteure,
 
-effektivere Vernetzung und Nutzung von Synergieeffekten vorhandener Akteure,
+- Entwicklung von eigenen regionalen Projekten zu Zukunfts- und Schlüsselthemen sowie deren Umsetzung,
 
-–
-
-Entwicklung von eigenen regionalen Projekten zu Zukunfts- und Schlüsselthemen sowie deren Umsetzung,
-
-–
-
-Erstellung und Weiterentwicklung von regionalen Innovationsstrategien in der ÜR durch die regionalen
+- Erstellung und Weiterentwicklung von regionalen Innovationsstrategien in der ÜR durch die regionalen
 Akteure,
 
-–
-
-Entwicklung und Anwendung innovativer Methoden und Strategien für regionales Innovationsmanagement.
+- Entwicklung und Anwendung innovativer Methoden und Strategien für regionales Innovationsmanagement.
 
 2.2
 Von der Förderung ausgeschlossen sind Vorhaben, für die eine Förderung aus EFRE-Mitteln anderer
@@ -174,42 +154,28 @@ Allgemeine Bewilligungsvoraussetzungen für die Förderung von Innovationsnetzwe
 
 gemäß Nummer 2.1.1:
 
-–
+- das Innovationsnetzwerk muss ein innovatives Thema entwickeln oder weiterentwickeln, das mindestens einem Stärke- und Spezialisierungsfeld der RIS3-Strategie zugeordnet werden kann,
 
-das Innovationsnetzwerk muss ein innovatives Thema entwickeln oder weiterentwickeln, das mindestens einem Stärke- und Spezialisierungsfeld der RIS3-Strategie zugeordnet werden kann,
-
-–
-
-die Räumlichkeiten, Anlagen und Tätigkeiten des Innovationsnetzwerks müssen gemäß Artikel 27
+- die Räumlichkeiten, Anlagen und Tätigkeiten des Innovationsnetzwerks müssen gemäß Artikel 27
 Abs. 3 AGVO grundsätzlich mehreren Nutzern offenstehen und der Zugang muss zu transparenten und
 diskriminierungsfreien Bedingungen gewährt werden,
 
-–
-
-Entgelte für die Nutzung von Anlagen und die Beteiligung an Tätigkeiten des Innovationsnetzwerks
+- Entgelte für die Nutzung von Anlagen und die Beteiligung an Tätigkeiten des Innovationsnetzwerks
 müssen gemäß Artikel 27 Abs. 4 AGVO dem Marktpreis entsprechen oder die Kosten widerspiegeln,
 
-–
-
-für eine Förderung in der SER gilt außerdem, dass das Netzwerk aus mindestens 15 Partnern, davon
+- für eine Förderung in der SER gilt außerdem, dass das Netzwerk aus mindestens 15 Partnern, davon
 mindestens zehn privaten Unternehmen, bestehen muss, die eine Betriebsstätte oder einen Sitz in Niedersachsen haben und
 
-–
-
-für eine Förderung in der ÜR gilt außerdem, dass das Netzwerk aus mindestens vier Partnern bestehen
+- für eine Förderung in der ÜR gilt außerdem, dass das Netzwerk aus mindestens vier Partnern bestehen
 muss, die eine Betriebsstätte oder einen Sitz in Niedersachsen haben;
 
 4.2.2
 
 gemäß Nummer 2.1.2:
 
-–
+- das Innovationsnetzwerk muss Themen realisieren, die Netzwerkaktivitäten in der Übergangsregion initiieren und forcieren und
 
-das Innovationsnetzwerk muss Themen realisieren, die Netzwerkaktivitäten in der Übergangsregion initiieren und forcieren und
-
-–
-
-das Netzwerk muss zum Zeitpunkt der Bewilligung aus mindestens vier Innovationsintermediären bestehen, die in der Übergangsregion ansässig sind.
+- das Netzwerk muss zum Zeitpunkt der Bewilligung aus mindestens vier Innovationsintermediären bestehen, die in der Übergangsregion ansässig sind.
 
 4.3
 Eine Zuwendung darf nur gewährt werden, wenn eine gesicherte Gesamtfinanzierung des jeweiligen
@@ -219,55 +185,33 @@ Projektes im Rahmen des Ausgabenerstattungsprinzips vorgewiesen wird.
 Bei der Antragstellung sind zur Beurteilung der Förderwürdigkeit als Qualitätskriterien nachzuweisen:
 
 4.4.1 fachliche Qualitätskriterien
-–
+- Ausgangslage und Ziele,
 
-Ausgangslage und Ziele,
+- Qualität des Umsetzungskonzepts,
 
-–
-
-Qualität des Umsetzungskonzepts,
-
-–
-
-Ziele i. S. der niedersächsischen RIS3-Strategie;
+- Ziele i. S. der niedersächsischen RIS3-Strategie;
 
 4.4.2 regionale Qualitätskriterien
-–
+- regionale Entwicklung,
 
-regionale Entwicklung,
+- Kooperation,
 
-–
+- grenzüberschreitende Zusammenarbeit,
 
-Kooperation,
-
-–
-
-grenzüberschreitende Zusammenarbeit,
-
-–
-
-Zusatzkriterium Modellhaftigkeit;
+- Zusatzkriterium Modellhaftigkeit;
 
 Nds. MBl. 2024 Nr. 341 vom 29. Juli 2024
 
 Seite 5
 
 4.4.3 Qualitätskriterien i. S. der Querschnittsziele
-–
+- Gleichstellung,
 
-Gleichstellung,
+- Chancengleichheit und Nichtdiskriminierung,
 
-–
+- nachhaltige Entwicklung,
 
-Chancengleichheit und Nichtdiskriminierung,
-
-–
-
-nachhaltige Entwicklung,
-
-–
-
-Gute Arbeit.
+- Gute Arbeit.
 Die Gewichtung der Qualitätskriterien (Scoring-Modell) ist aus der Anlage ersichtlich.
 
 5. Art und Umfang, Höhe der Zuwendung
@@ -307,37 +251,23 @@ der geforderten Differenzierung und bei der Bewertung der Förderung mitzuwirken
 Software wird internetgestützt zur Verfügung gestellt und ist zu verwenden.
 6.3
 Der Zuwendungsempfänger ist darauf hinzuweisen, bei der Förderung auf die Einhaltung der bereichsübergreifenden Grundsätze aus Artikel 9 der Verordnung (EU) 2021/1060 zu achten. Dazu zählen:
-–
+- die Charta der Grundrechte der Europäischen Union,
 
-die Charta der Grundrechte der Europäischen Union,
-
-–
-
-die Gleichstellung von Frauen und Männern,
+- die Gleichstellung von Frauen und Männern,
 
 Nds. MBl. 2024 Nr. 341 vom 29. Juli 2024
 
 Seite 6
 
-–
+- die durchgängige Berücksichtigung der Geschlechtergleichstellung und die Einbeziehung einer Geschlechterperspektive,
 
-die durchgängige Berücksichtigung der Geschlechtergleichstellung und die Einbeziehung einer Geschlechterperspektive,
+- die Nichtdiskriminierung aufgrund Geschlechts, Rasse, ethnischer Herkunft, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Orientierung,
 
-–
+- die Berücksichtigung der VN-Ziele für nachhaltige Entwicklung,
 
-die Nichtdiskriminierung aufgrund Geschlechts, Rasse, ethnischer Herkunft, Religion oder Weltanschauung, Behinderung, Alter oder sexueller Orientierung,
+- das Pariser Klimaabkommen und
 
-–
-
-die Berücksichtigung der VN-Ziele für nachhaltige Entwicklung,
-
-–
-
-das Pariser Klimaabkommen und
-
-–
-
-der Grundsatz „der Vermeidung erheblicher Beeinträchtigungen“ (Do no significant harm principle
+- der Grundsatz „der Vermeidung erheblicher Beeinträchtigungen“ (Do no significant harm principle
 [DNSH]).
 
 Darüber hinaus ist die „Gute Arbeit“ als eigenes Querschnittsziel des Landes Niedersachsen in Anlehnung
@@ -467,9 +397,7 @@ b)
 Es ist geplant, neue sozialversicherungspflichtige Arbeitsplätze
 in Niedersachsen zu schaffen (5).
 
-–
-
-Qualität des Umsetzungskonzepts
+- Qualität des Umsetzungskonzepts
 
 15
 
@@ -484,9 +412,7 @@ b)
 
 Es sind wichtige Partner aus dem Themenfeld vertreten (5).
 
-–
-
-a)
+- a)
 
 Das Netzwerk widmet sich einem Themenfeld, das eine
 sinnvolle Ergänzung zu bestehenden Landesinitiativen sowie
@@ -499,9 +425,7 @@ b)
 Das Thema des Netzwerks ist durch eine hohe Intensität von
 Forschung und Entwicklung geprägt (5).
 
-–
-
-a)
+- a)
 
 Die Netzwerkaktivität ist auf eine erfolgreiche Weiterentwicklung
 (thematisch, organisatorisch und finanziell) des Netzwerks
@@ -514,9 +438,7 @@ Es sind zielführende Maßnahmen für die öffentliche Darstellung
 des Netzwerks zur besseren Wahrnehmung auch auf
 überregionaler/internationaler Ebene vorgesehen (5).
 
-–
-
-b)
+- b)
 
 1.3
 
@@ -531,9 +453,7 @@ b)
 
 Ziele i. S. der niedersächsischen RIS3-Strategie
 
-–
-
-15
+- 15
 
 a)
 
@@ -541,43 +461,33 @@ Das Vorhaben schafft flexible Kooperationsräume durch
 Transparenz und Synergien zu bestehenden Netzwerken und
 Clusterinitiativen.
 
-–
-
-5
+- 5
 
 b)
 
 Das Vorhaben berücksichtigt insbesondere das Konzept der
 Kreislaufwirtschaft und des Klimaschutzes.
 
-–
-
-5
+- 5
 
 c)
 
 Das Vorhaben berücksichtigt ein oder mehrere
 Spezialisierungsfeld/er der RIS3-Strategie.
 
-–
-
-5
+- 5
 
 2.
 
 Regionalfachliche Bewertungskomponente
 
-–
-
-25
+- 25
 
 2.1
 
 Regionale Entwicklung
 
-–
-
-10
+- 10
 
 Welchen Beitrag leistet das Vorhaben zur regionalen Entwicklung
 gemäß der regionalen Handlungsstrategie (RHS)?
@@ -597,17 +507,11 @@ Mindestpunktzahl
 
 Maximalpunktzahl 1)
 
-–
+- 5
 
-5
+- 5
 
-–
-
-5
-
-–
-
-5
+- 5
 
 Zwischensumme aus 1 und 2
 
@@ -627,13 +531,9 @@ Querschnittsziele
 
 Gleichstellung
 
-–
+- 3
 
-3
-
-–
-
-3
+- 3
 
 2.2
 
@@ -712,13 +612,9 @@ Mindestpunktzahl
 
 Maximalpunktzahl 1)
 
-–
+- 11
 
-11
-
-–
-
-3
+- 3
 
 60
 
@@ -783,9 +679,7 @@ Förderungen nach Nummer 2.1.1 zu unterstützen (5).
 
 4.2
 
-–
-
-Qualität des Umsetzungskonzepts
+- Qualität des Umsetzungskonzepts
 
 15
 
@@ -800,9 +694,7 @@ b)
 
 Es sind wichtige Partner aus dem Themenfeld vertreten (5).
 
-–
-
-a)
+- a)
 
 Die Netzwerkarbeit zielt auf eine effektivere Vernetzung und
 Nutzung von Synergieeffekten vorhandener Akteure ab (5).
@@ -825,13 +717,9 @@ Bestandteil der Netzwerkarbeit (5).
 
 Es werden innovative Methoden und Strategien für ein regionales Innovationsmanagement entwickelt und angewendet (5).
 
-–
+- b)
 
-b)
-
-–
-
-30
+- 30
 10
 
 10
@@ -851,9 +739,7 @@ Maximalpunktzahl1)
 
 Ziele i. S. der niedersächsischen RIS3-Strategie
 
-–
-
-15
+- 15
 
 a)
 
@@ -861,55 +747,39 @@ Das Vorhaben schafft flexible Kooperationsräume durch
 Transparenz und Synergien zu bestehenden Netzwerken und
 Clusterinitiativen.
 
-–
-
-5
+- 5
 
 b)
 
 Das Vorhaben berücksichtigt insbesondere das Konzept der
 Kreislaufwirtschaft und des Klimaschutzes.
 
-–
-
-5
+- 5
 
 c)
 
 Das Vorhaben berücksichtigt ein oder mehrere
 Spezialisierungsfelder/der RIS3-Strategie.
 
-–
-
-5
+- 5
 
 5.
 
 Regionalfachliche Bewertungskomponente
 
-–
-
-25
+- 25
 
 5.1
 
 Regionale Entwicklung
 
-–
+- 10
 
-10
+- 5
 
-–
+- 5
 
-5
-
-–
-
-5
-
-–
-
-5
+- 5
 
 Zwischensumme aus 4 und 5
 
@@ -929,25 +799,17 @@ Querschnittsziele
 
 Gleichstellung
 
-–
-
-3
+- 3
 
 Welchen Beitrag leistet das Vorhaben zur regionalen Entwicklung
 gemäß der Regionalen Handlungsstrategie (RHS)?
-–
-
-Das Vorhaben leistet keinen Beitrag zur Umsetzung der RHS
+- Das Vorhaben leistet keinen Beitrag zur Umsetzung der RHS
 (0).
 
-–
-
-Das Vorhaben leistet einen relevanten Beitrag zur Umsetzung
+- Das Vorhaben leistet einen relevanten Beitrag zur Umsetzung
 eines oder mehrerer operativer Ziele der RHS (5).
 
-–
-
-Das Vorhaben leistet einen besonders hohen Beitrag zur
+- Das Vorhaben leistet einen besonders hohen Beitrag zur
 Umsetzung eines oder mehrerer operativer Ziele der RHS (10).
 
 Dies ist im Antrag entsprechend zu begründen.
@@ -958,13 +820,9 @@ Durch welchen kooperativen Ansatz zeichnet sich das Vorhaben aus?
 
 5.3
 
-–
+- Das Projekt hat keinen kooperativen Ansatz (0).
 
-Das Projekt hat keinen kooperativen Ansatz (0).
-
-–
-
-Bei dem Projekt findet eine Zusammenarbeit mehrerer
+- Bei dem Projekt findet eine Zusammenarbeit mehrerer
 relevanter Akteure in Form von aktiver Einbindung und
 Abstimmung statt (5).
 
@@ -995,17 +853,11 @@ Mindestpunktzahl
 
 Maximalpunktzahl1)
 
-–
+- 3
 
-3
+- 11
 
-–
-
-11
-
-–
-
-3
+- 3
 
 60
 

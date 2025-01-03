@@ -20,17 +20,11 @@ Anbindungsleitungen (ONAS) BalWin1 (ehemals LanWin1) und BalWin2 (ehemals LanWin
 östlich von Bösel (Landkreis Cloppenburg) bis südlich des Alfsee und von dort in zwei Richtungen zu den
 Netzverknüpfungspunkten (NVP) Wehrendorf (Gemeinde Bad Essen, Landkreis Osnabrück) und zur Landesgrenze zur Fortführung nach Westerkappeln (Nordrhein-Westfalen).
 Die geplanten ONAS bestehen aus drei Teilen:
-–
+- Gleichstrom-Erdkabel,
 
-Gleichstrom-Erdkabel,
+- Konverterstation,
 
-–
-
-Konverterstation,
-
-–
-
-380-kV-Drehstromkabel.
+- 380-kV-Drehstromkabel.
 
 Das ArL Weser-Ems hat nunmehr mit der Landesplanerischen Feststellung vom 21.02.2024,
 Az: 32341/0-1aa, das ROV abgeschlossen. Die Landesplanerische Feststellung ist unter Maßgaben ergangen, die der Sicherung der Raum- und Umweltverträglichkeit des Vorhabens dienen.

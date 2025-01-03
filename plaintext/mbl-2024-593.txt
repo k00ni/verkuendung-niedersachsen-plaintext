@@ -21,15 +21,11 @@ Bescheides und die Rechtsbehelfsbelehrung als Anlage öffentlich bekanntgemacht.
 Auf Auflagen wird hingewiesen.
 Je eine Ausfertigung des gesamten Bescheides liegt in der Zeit vom 05.12. bis einschließlich 18.12.2024
 während der Dienststunden bei den folgenden Stellen zur Einsichtnahme aus:
-–
-
-Niedersächsisches Ministerium für Umwelt, Energie und Klimaschutz, Archivstraße 2, 30169 Hannover,
+- Niedersächsisches Ministerium für Umwelt, Energie und Klimaschutz, Archivstraße 2, 30169 Hannover,
 Pförtnerloge,
 montags bis freitags in der Zeit von
 
-–
-
-7.00 bis 16.00 Uhr;
+- 7.00 bis 16.00 Uhr;
 
 Bürgerbüro der Stadt Lingen (Ems), Neue Straße 5, 49808 Lingen (Ems),
 montags bis mittwochs in der Zeit von
@@ -43,14 +39,10 @@ samstags in der Zeit von
 9.00 bis 12.00 Uhr.
 
 Der Bescheid wird im Internet auf folgenden Internetseiten vom 05.12. bis einschließlich 18.12.2024 zugänglich gemacht:
-–
-
-www.umwelt.niedersachsen.de und dort über den Pfad Themen > Atomaufsicht & Strahlenschutz >
+- www.umwelt.niedersachsen.de und dort über den Pfad Themen > Atomaufsicht & Strahlenschutz >
 Kerntechnische Anlagen > Kernkraftwerk Emsland,
 
-–
-
-https://uvp.niedersachsen.de/portal/,
+- https://uvp.niedersachsen.de/portal/,
 
 Herausgeber: Niedersächsische Staatskanzlei
 
@@ -60,9 +52,7 @@ Seite 2
 
 www.lingen.de und dort unter Politik, Rathaus & Service > Veröffentlichungen > Bekanntmachungen.
 
-–
-
-Der Bescheid und seine Begründung können nach der öffentlichen Bekanntmachung bis zum Ablauf der
+- Der Bescheid und seine Begründung können nach der öffentlichen Bekanntmachung bis zum Ablauf der
 Rechtsbehelfsfrist von den Einwenderinnen und Einwendern unter folgender E-Mail-Adresse angefordert werden: KKE-TLE@mu.niedersachsen.de.
 Mit dem Ende der Auslegungsfrist gilt der Bescheid gemäß § 17 Abs. 2 Satz 4 AtVfV auch gegenüber
 Dritten, die keine Einwendungen erhoben haben, als zugestellt.
@@ -135,35 +125,23 @@ Seite 3
 1.2 Restbetrieb
 Genehmigt werden der Restbetrieb und die fortschreitende Veränderung des Restbetriebs.
 Der Restbetrieb umfasst
-–
+- den Weiterbetrieb aller für die Stilllegung und Abbau notwendigen Versorgungs-, Sicherheits- und Hilfssysteme sowie den Betrieb der für den Abbau von Komponenten, Systemen und Gebäuden notwendigen Einrichtungen nach der Erteilung der KKE-SAG,
 
-den Weiterbetrieb aller für die Stilllegung und Abbau notwendigen Versorgungs-, Sicherheits- und Hilfssysteme sowie den Betrieb der für den Abbau von Komponenten, Systemen und Gebäuden notwendigen Einrichtungen nach der Erteilung der KKE-SAG,
-
-–
-
-den Betrieb der Anlage KKE zum Zweck der Stilllegung und des Abbaus so, wie diese bei Erteilung
+- den Betrieb der Anlage KKE zum Zweck der Stilllegung und des Abbaus so, wie diese bei Erteilung
 dieser Genehmigung bestandskräftig genehmigt und dokumentiert ist.
 Für den Restbetrieb wird weiterhin genehmigt:
 
-–
-
-Anpassungen des Betriebes und der Nutzung von Systemen, Komponenten, Räumen und Gebäuden
+- Anpassungen des Betriebes und der Nutzung von Systemen, Komponenten, Räumen und Gebäuden
 sowie Gebäudeteilen an den Stand des Abbaus,
 
-–
-
-Einbringen und Errichtung von Systemen und Komponenten, die für den Abbau benötigt werden, sowie
+- Einbringen und Errichtung von Systemen und Komponenten, die für den Abbau benötigt werden, sowie
 deren Nutzung und Betrieb,
 
-–
-
-die Durchführung der für den Restbetrieb und den Abbau von Anlagenteilen erforderlichen Arbeiten
+- die Durchführung der für den Restbetrieb und den Abbau von Anlagenteilen erforderlichen Arbeiten
 einschließlich des in diesem Zusammenhang stehenden Umgangs mit sonstigen radioaktiven Stoffen
 gemäß StrlSchG.
 
-–
-
-dass die bestehenden Regelungen für den Betrieb der Anlage KKE im Restbetrieb unberührt und wirksam bleiben und fortwährend an den Abbaufortschritt angepasst werden. Dies gilt ebenfalls für die Regelungen zur Anlagensicherung.
+- dass die bestehenden Regelungen für den Betrieb der Anlage KKE im Restbetrieb unberührt und wirksam bleiben und fortwährend an den Abbaufortschritt angepasst werden. Dies gilt ebenfalls für die Regelungen zur Anlagensicherung.
 
 1.3 Abbau
 Genehmigt wird der Abbau der zur atomrechtlich genehmigten Anlage KKE gehörenden Anlagenteile, Systeme, Systembereiche, Komponenten, Hilfseinrichtungen und Gebäude/-strukturen. Dies umfasst sämtliche

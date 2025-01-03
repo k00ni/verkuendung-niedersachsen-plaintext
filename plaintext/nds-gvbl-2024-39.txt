@@ -18,23 +18,15 @@ Regasification Unit (FSRU) sowie verbindender Rohrleitungssysteme zur Lagerung u
 verflüssigtem Erdgas (LNG) am Anlagenstandort in 21683 Stade, Johann-Rathje-Köser-Straße 8, erteilt.
 Die Genehmigung erstreckt sich auf die folgenden wesentlichen Anlagenteile und Nebeneinrichtungen
 einschließlich ihres Betriebes:
-–
+- FSRU (hier die „Transgas Force“) mit einer LNG-Lagerkapazität von 170 000 m³ bzw. 81 500 t (BE 010).
 
-FSRU (hier die „Transgas Force“) mit einer LNG-Lagerkapazität von 170 000 m³ bzw. 81 500 t (BE 010).
+- Dampfkesselanlagen auf der FSRU (zwei Dampferzeuger mit je 57,5 Megawatt Feuerungswärmeleistung; BE 110).
 
-–
-
-Dampfkesselanlagen auf der FSRU (zwei Dampferzeuger mit je 57,5 Megawatt Feuerungswärmeleistung; BE 110).
-
-–
-
-Suprastrukturanlagen auf dem Anleger für verflüssigte Gase (AVG); bestehend aus zwei
+- Suprastrukturanlagen auf dem Anleger für verflüssigte Gase (AVG); bestehend aus zwei
 Hochdruckgasverladearmen, Erdgasleitung, Schalthaus, Messwartencontainer, zwei Löschtürmen und
 einem Ausbläser (BE 020).
 
-–
-
-Das Hochdruck-Erdgassystem (HDG) mit einem Außendurchmesser von 610 mm (BE 030).
+- Das Hochdruck-Erdgassystem (HDG) mit einem Außendurchmesser von 610 mm (BE 030).
 
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des § 6
 BImSchG sicherzustellen.

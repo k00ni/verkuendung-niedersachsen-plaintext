@@ -18,41 +18,25 @@ Bek. d. ArL Weser-Ems v. 10.04.2024 – 20223-2473/2023 –
 Die Amprion Offshore GmbH plant zur Anbindung von Offshore-Windparks vier Offshore-Netzanbindungssysteme (O-NAS) mit jeweils 2 GW Übertragungsleistung in Hochspannungs-Gleichstrom-Übertragungs(HGÜ-) Technologie von den Anlandungspunkten Hilgenriedersiel und Neuharlingersiel bis zu den Netzverknüpfungspunkten Niederrhein, Kusenhorst, Rommerskirchen und Oberzier (alle in Nordrhein-Westfalen).
 Die Systeme werden am Festland als Erdkabel realisiert.
 Der Untersuchungsraum für das Vorhaben umfasst folgende Gebiete:
-–
-
-im Landkreis Wittmund: Samtgemeinde Esens, Gemeinde Friedeburg, Stadt Wittmund, Samtgemeinde
+- im Landkreis Wittmund: Samtgemeinde Esens, Gemeinde Friedeburg, Stadt Wittmund, Samtgemeinde
 Holtriem;
 
-–
-
-im Landkreis Aurich: Gemeinde Dornum, Samtgemeinde Hage, Stadt Aurich, Gemeinde Großheide, Stadt
+- im Landkreis Aurich: Gemeinde Dornum, Samtgemeinde Hage, Stadt Aurich, Gemeinde Großheide, Stadt
 Wiesmoor;
 
-–
+- im Landkreis Leer: Samtgemeinde Jümme, Gemeinde Uplengen;
 
-im Landkreis Leer: Samtgemeinde Jümme, Gemeinde Uplengen;
+- im Landkreis Friesland: Stadt Jever, Stadt Schortens, Gemeinde Zetel;
 
-–
+- im Landkreis Ammerland: Stadt Westerstede, Gemeinde Apen;
 
-im Landkreis Friesland: Stadt Jever, Stadt Schortens, Gemeinde Zetel;
+- im Landkreis Cloppenburg: Gemeinde Barßel, Stadt Friesoythe, Gemeinde Saterland;
 
-–
-
-im Landkreis Ammerland: Stadt Westerstede, Gemeinde Apen;
-
-–
-
-im Landkreis Cloppenburg: Gemeinde Barßel, Stadt Friesoythe, Gemeinde Saterland;
-
-–
-
-im Landkreis Emsland: Samtgemeinde Sögel, Stadt Haselünne, Samtgemeinde Werlte, Samtgemeinde
+- im Landkreis Emsland: Samtgemeinde Sögel, Stadt Haselünne, Samtgemeinde Werlte, Samtgemeinde
 Lengerich, Gemeinde Geeste, Stadt Lingen, Stadt Meppen, Samtgemeinde Herzlake, Samtgemeinde
 Freren, Gemeinde Emsbüren, Gemeinde Salzbergen, Samtgemeinde Spelle, Samtgemeinde Nordhümmling;
 
-–
-
-im Landkreis Grafschaft Bentheim: Samtgemeinde Schüttorf.
+- im Landkreis Grafschaft Bentheim: Samtgemeinde Schüttorf.
 
 Das ArL Weser-Ems hat am 10.04.2024 die Raumverträglichkeitsprüfung (RVP) gemäß § 15 ROG und den
 §§ 9 ff. NROG für die Planung von Landkorridoren zur Anbindung der Offshore-Netzanbindungsprojekte mit
@@ -88,13 +72,9 @@ Jedermann kann sich bis spätestens einen Monat nach Ablauf der Auslegung, das i
 21.06.2024 beim ArL Weser-Ems schriftlich, zur Niederschrift oder in elektronischer Form zu dem Vorhaben
 äußern.
 Schriftliche Stellungnahmen sind zu senden an:
-–
+- die E-Mail-Adresse: karin.flemming@arl-we.niedersachsen.de oder
 
-die E-Mail-Adresse: karin.flemming@arl-we.niedersachsen.de oder
-
-–
-
-die Postanschrift der verfahrensführenden Behörde:
+- die Postanschrift der verfahrensführenden Behörde:
 Amt für regionale Landesentwicklung Weser-Ems
 Theodor-Tantzen-Platz 8,
 26122 Oldenburg.

@@ -92,53 +92,31 @@ Zuwendungsfähig sind Ausgaben für Investitionen gemäß § 13 LHO.
 
 Nicht zuwendungsfähig sind
 
-–
+- Finanzierungskosten,
 
-Finanzierungskosten,
+- die Umsatzsteuer, die nach dem UStG als Vorsteuer abziehbar ist,
 
-–
+- Leasing oder Mieten von Hardware, Software oder Softwarelizenzen,
 
-die Umsatzsteuer, die nach dem UStG als Vorsteuer abziehbar ist,
+- Personalausgaben,
 
-–
+- Eigenleistungen des Unternehmens,
 
-Leasing oder Mieten von Hardware, Software oder Softwarelizenzen,
+- Beratungsleistungen,
 
-–
-
-Personalausgaben,
-
-–
-
-Eigenleistungen des Unternehmens,
-
-–
-
-Beratungsleistungen,
-
-–
-
-modellgleiche oder im Hinblick auf die Digitalisierung im Funktionsumfang gleiche Ersatzbeschaffungen,
+- modellgleiche oder im Hinblick auf die Digitalisierung im Funktionsumfang gleiche Ersatzbeschaffungen,
 
 Nds. MBl. 2024 Nr. 269 vom 12. Juni 2024
 
 Seite 3
 
-–
+- IKT Grundausstattung (Diensthandys, Laptops, Betriebssysteme, Bürosoftware etc.),
 
-IKT Grundausstattung (Diensthandys, Laptops, Betriebssysteme, Bürosoftware etc.),
+- Online-Marketing-Maßnahmen (z. B. Suchmaschinenoptimierung),
 
-–
+- Schulungen zu Hard- und Software,
 
-Online-Marketing-Maßnahmen (z. B. Suchmaschinenoptimierung),
-
-–
-
-Schulungen zu Hard- und Software,
-
-–
-
-Investitionen in Informations- und Kommunikationstechnologie (IKT)-Hardware, -Software oder Softwarelizenzen zur Digitalisierung von Produkten, Dienstleistungen oder Prozessen, wenn sie nicht zu
+- Investitionen in Informations- und Kommunikationstechnologie (IKT)-Hardware, -Software oder Softwarelizenzen zur Digitalisierung von Produkten, Dienstleistungen oder Prozessen, wenn sie nicht zu
 einem deutlichen Digitalisierungsfortschritt im Unternehmen führen und keinen hohen Innovationsgehalt
 aufweisen oder nicht zur Verbesserung der IT-Sicherheit führen.
 

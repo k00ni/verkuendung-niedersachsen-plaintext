@@ -143,6 +143,20 @@ class VerkuendungNiedersachsenPlaintext
          */
         $plaintext = preg_replace('/„\s*(.*?)\s*“/m', '„${1}“', $plaintext);
 
+        /*
+         * remove line breaks between dash and first letter if line starts with a dash
+         *
+         * example:
+         *
+         * -ņ                       <---,--- these
+         * \n                       <--´
+         * für die Beihilfen
+         */
+        $plaintext = preg_replace('/^–\n+\s*(.*?)$/mi', '- ${1}', $plaintext);
+
+        // the line before will produce lines with only "– –" sometimes
+        $plaintext = preg_replace('/^– –$/mi', '–', $plaintext);
+
         return $plaintext;
     }
 

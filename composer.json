@@ -1,7 +1,7 @@
 {
     "name": "k00ni/verkuendung-niedersachsen-plaintext",
     "description": "Inhalte von Verkündungsplattform (verkuendung-niedersachsen.de) bereitgestellt als Plaintext.",
-    "keywords": [],
+    "keywords": ["Verkündungen", "Niedersachsen", "Ministerialblatt"],
     "type": "project",
     "license": "CC-BY-4.0",
     "authors": [
@@ -17,12 +17,6 @@
     "autoload": {
         "psr-4": {
             "VerkuendungNiedersachsenPlaintext\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "PerformanceTests\\": "tests/Performance/",
-            "PHPUnitTests\\": "tests/PHPUnit/"
         }
     },
     "config": {

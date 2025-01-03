@@ -40,25 +40,17 @@ an landwirtschaftlichen Flächen,
 
 an sonstigen Vermögenswerten, z. B.
 
-–
+- landwirtschaftlich genutzten Gebäuden,
 
-landwirtschaftlich genutzten Gebäuden,
-
-–
-
-Einrichtungen und Anlagen landwirtschaftlicher Infrastruktur,
+- Einrichtungen und Anlagen landwirtschaftlicher Infrastruktur,
 
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 328 vom 22. Juli 2024
 
-–
+- Maschinen und Geräten,
 
-Maschinen und Geräten,
-
-–
-
-Lagerbeständen,
+- Lagerbeständen,
 
 2.2.3
 
@@ -66,87 +58,55 @@ Seite 2
 
 in Form von außergewöhnlichen Aufwendungen für z. B.
 
-–
+- die Schaffung oder Anmietung provisorischer Güllelagerstätten,
 
-die Schaffung oder Anmietung provisorischer Güllelagerstätten,
+- Evakuierung von Vieh,
 
-–
-
-Evakuierung von Vieh,
-
-–
-
-Gebühren für die Entsorgung von Abfall, der durch das Hochwasser auf landwirtschaftliche Flächen
+- Gebühren für die Entsorgung von Abfall, der durch das Hochwasser auf landwirtschaftliche Flächen
 gebracht worden ist,
 
-–
-
-Gutachten von öffentlich bestellten Sachverständigen, soweit sie in den Nummern 7.2.2 und 7.2.3 vorgeschrieben sind.
+- Gutachten von öffentlich bestellten Sachverständigen, soweit sie in den Nummern 7.2.2 und 7.2.3 vorgeschrieben sind.
 
 2.3
 
 Nicht Gegenstand der finanziellen Leistung sind
 
-–
-
-Schäden, die dadurch entstanden sind, dass Flächen aufgrund des nassen Herbstes nicht geerntet oder
+- Schäden, die dadurch entstanden sind, dass Flächen aufgrund des nassen Herbstes nicht geerntet oder
 bestellt werden konnten,
 
-–
+- Schäden an Wohngebäuden,
 
-Schäden an Wohngebäuden,
-
-–
-
-durch vorübergehende Unterbrechungen entstandene Verluste, entgangene Gewinne oder sonstige
+- durch vorübergehende Unterbrechungen entstandene Verluste, entgangene Gewinne oder sonstige
 mittelbare Schäden,
 
-–
+- Eigenleistungen der antragstellenden Unternehmen,
 
-Eigenleistungen der antragstellenden Unternehmen,
-
-–
-
-Umsatzsteuer.
+- Umsatzsteuer.
 
 2.4
 
 Die Hochwasserschäden werden bei
 
-–
-
-Winter-Ackerkulturen, in denen nach Totalausfall eine Neuansaat erforderlich wurde, einheitlich in Höhe
+- Winter-Ackerkulturen, in denen nach Totalausfall eine Neuansaat erforderlich wurde, einheitlich in Höhe
 von 466 EUR je ha,
 
-–
+- Dauergrünland und Ackergras einheitlich in Höhe von 120 EUR je ha,
 
-Dauergrünland und Ackergras einheitlich in Höhe von 120 EUR je ha,
-
-–
-
-Dauergrünland, für das ein Antrag auf Umwandlung von Dauergrünland zur Wiederherstellung der Grasnarbe aufgrund höherer Gewalt bedingt durch das Hochwasserereignis 2023/2024 genehmigt wurde,
+- Dauergrünland, für das ein Antrag auf Umwandlung von Dauergrünland zur Wiederherstellung der Grasnarbe aufgrund höherer Gewalt bedingt durch das Hochwasserereignis 2023/2024 genehmigt wurde,
 einheitlich in Höhe von 835 EUR je ha,
 
-–
+- mehrjährigen Ackerkulturen und Dauerkulturen nach Einzelnachweis,
 
-mehrjährigen Ackerkulturen und Dauerkulturen nach Einzelnachweis,
-
-–
-
-Schäden nach den Nummern 2.2.2 und 2.2.3 nach Einzelnachweis
+- Schäden nach den Nummern 2.2.2 und 2.2.3 nach Einzelnachweis
 
 anerkannt.
 Bei Schäden nach Nummer 2.2.2 kann maximal der Zeitwert als Schaden anerkannt werden.
 3. Empfänger der Billigkeitsleistung
 3.1
 Die finanzielle Leistung wird landwirtschaftlichen Unternehmen mit Betriebssitz in Niedersachsen gewährt. Landwirtschaftliche Unternehmen werden dadurch definiert, dass ihre Geschäftstätigkeit die Primärproduktion landwirtschaftlicher Erzeugnisse umfasst. Zu ihnen zählen
-–
+- natürliche und juristische Personen sowie Personengesellschaften, sofern sie Eigentümerin oder Eigentümer, Besitzerin oder Besitzer, sonstige dingliche Nutzungsberechtigte oder sonstiger dinglicher Nutzungsberechtigter oder Pächterin oder Pächter landwirtschaftlicher Flächen sind,
 
-natürliche und juristische Personen sowie Personengesellschaften, sofern sie Eigentümerin oder Eigentümer, Besitzerin oder Besitzer, sonstige dingliche Nutzungsberechtigte oder sonstiger dinglicher Nutzungsberechtigter oder Pächterin oder Pächter landwirtschaftlicher Flächen sind,
-
-–
-
-Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, sofern sie Eigentümer, Besitzer oder
+- Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, sofern sie Eigentümer, Besitzer oder
 Pächter landwirtschaftlicher Flächen sind.
 
 Landwirtschaftliche Unternehmen in diesem Sinne sind auch Unternehmen der Imkerei und Wanderschäferei.
@@ -160,13 +120,9 @@ Seite 3
 
 Keine Billigkeitsleistung erhalten Unternehmen,
 
-–
+- bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 % des Eigenkapitals des Unternehmens beträgt oder
 
-bei denen die Kapitalbeteiligung der öffentlichen Hand mehr als 25 % des Eigenkapitals des Unternehmens beträgt oder
-
-–
-
-die sich i. S. der Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller
+- die sich i. S. der Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nichtfinanzieller
 Unternehmen in Schwierigkeiten der Europäischen Kommission (ABl. C 249 vom 31.7.2014, S. 1), zuletzt geändert durch Mitteilung der Europäischen Kommission vom 29.11.2023 (ABl. C, 2023/1212,
 29.11.2023), in Schwierigkeiten befinden, es sei denn, die Schwierigkeiten sind auf das in Nummer 2.1
 benannte Schadereignis zurückzuführen.
@@ -182,17 +138,11 @@ Die Billigkeitsleistung wird als nicht rückzahlbarer Zuschuss in Form eines ant
 
 Die finanzielle Leistung beträgt
 
-–
+- in festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten bis zu 50 % des nach Nummer 2.4 anerkannten Schadens,
 
-in festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten bis zu 50 % des nach Nummer 2.4 anerkannten Schadens,
+- außerhalb von Überschwemmungsgebieten bis zu 80 % des nach Nummer 2.4 anerkannten Schadens,
 
-–
-
-außerhalb von Überschwemmungsgebieten bis zu 80 % des nach Nummer 2.4 anerkannten Schadens,
-
-–
-
-für geschädigtes Dauergrünland und Ackergras in oder außerhalb von Überschwemmungsgebieten bis
+- für geschädigtes Dauergrünland und Ackergras in oder außerhalb von Überschwemmungsgebieten bis
 zu 80 % des nach Nummer 2.4 anerkannten Schadens,
 
 wobei die tatsächliche Höhe der finanziellen Leistung in Abhängigkeit von den verfügbaren Haushaltsmitteln
@@ -204,21 +154,13 @@ Der Höchstbetrag der Billigkeitsleistung beträgt 200 000 EUR.
 5.4
 Es darf keine doppelte Kompensation erfolgen. Der Leistungsempfänger hat gegenüber der Bewilligungsbehörde alle aufgrund des Schadereignisses erhaltenen oder beantragten geldwerten Leistungen Dritter
 offenzulegen. Der Gesamtschaden verringert sich um
-–
+- Versicherungszahlungen,
 
-Versicherungszahlungen,
+- Hilfen Dritter (z. B. in Form von Spenden),
 
-–
+- sonstige geldwerte Leistungen Dritter,
 
-Hilfen Dritter (z. B. in Form von Spenden),
-
-–
-
-sonstige geldwerte Leistungen Dritter,
-
-–
-
-aufgrund des Hochwassers nicht entstandene Kosten.
+- aufgrund des Hochwassers nicht entstandene Kosten.
 
 6. Sonstige Bestimmungen
 Wurde bereits vor Antragstellung mit der Behebung von Schäden nach Nummer 2.2.2 begonnen, steht dies

@@ -272,44 +272,26 @@ A n h a n g 3 (zur Anlage 3 [GoB-HKR])
 
 1. Zuständigkeiten der anordnenden Dienststellen
 Die anordnenden Dienststellen sind für die Bewirtschaftung von Haushaltsmitteln zuständig. Die Bewirtschaftung umfasst Maßnahmen zur Mittelverteilung und Mittelverwendung sowie die dazu erforderlichen Buchungen. Die anordnenden Dienststellen sind darüber hinaus zuständig für:
-–
-
-Verwahr- und Vorschussaufklärung (Umbuchung, Weiterleitung, Rückzahlung) soweit diese auf den
+- Verwahr- und Vorschussaufklärung (Umbuchung, Weiterleitung, Rückzahlung) soweit diese auf den
 dienststellenbezogenen Girokonten eingehen und nicht automatisch den gebuchten Forderungen und
 Verbindlichkeiten zugeordnet werden können,
 
-–
+- Überprüfung/Bearbeitung der Offenen Posten,
 
-Überprüfung/Bearbeitung der Offenen Posten,
+- Überprüfung/Bearbeitung der Wiedervorlagen,
 
-–
+- Berechnung von Stundungs- und Verzugszinsen sowie von Säumniszuschlägen sofern eine automatische Berechnung nicht erfolgt,
 
-Überprüfung/Bearbeitung der Wiedervorlagen,
+- Verrechnungen im Wege der Aufrechnung,
 
-–
+- Abrechnung der Gerichtsvollzieher-Gebührenanteile,
 
-Berechnung von Stundungs- und Verzugszinsen sowie von Säumniszuschlägen sofern eine automatische Berechnung nicht erfolgt,
+- Meldung der mit zu versteuernden Nebenbezüge an die Bezüge abrechnende Dienststelle,
 
-–
-
-Verrechnungen im Wege der Aufrechnung,
-
-–
-
-Abrechnung der Gerichtsvollzieher-Gebührenanteile,
-
-–
-
-Meldung der mit zu versteuernden Nebenbezüge an die Bezüge abrechnende Dienststelle,
-
-–
-
-Verwaltung der Wertgegenstände, sofern nicht die Zuständigkeit der Gerichtszahlstelle nach den
+- Verwaltung der Wertgegenstände, sofern nicht die Zuständigkeit der Gerichtszahlstelle nach den
 Bestimmungen des NHintG und den hierzu ergangenen Ausführungsbestimmungen gegeben ist,
 
-–
-
-Ermittlung der aktuellen Anschrift von Zahlungspflichtigen
+- Ermittlung der aktuellen Anschrift von Zahlungspflichtigen
 
 soweit nicht die Zentrale Vollstreckungsstelle zuständig ist.
 Bestimmungen der Finanzverwaltung (Steuer) bleiben unberührt. Regelungen von grundsätzlicher Bedeutung hat die Aufsichtsbehörde im Einvernehmen mit dem MF zu erlassen.
@@ -340,18 +322,12 @@ bedarf der Einwilligung des MF.
 
 Allgemeine Anordnungen können zugelassen werden für:
 
-–
-
-Einzahlungen, die aufgrund amtlicher Gebührentarife und amtlicher Festsetzungen anzunehmen oder zu
+- Einzahlungen, die aufgrund amtlicher Gebührentarife und amtlicher Festsetzungen anzunehmen oder zu
 leisten sind (z. B. Kosten für den unbaren Zahlungsverkehr, Zinsen, Säumniszuschläge),
 
-–
+- Einzahlungen von gleichartigen Zahlfällen,
 
-Einzahlungen von gleichartigen Zahlfällen,
-
-–
-
-in anderen Fällen zur Erzielung von Einnahmen im Einvernehmen mit dem LRH.
+- in anderen Fällen zur Erzielung von Einnahmen im Einvernehmen mit dem LRH.
 
 2.2.3 Allgemeine Anordnungen können mit Einwilligung des MF auch durch Rechts- und Verwaltungsvorschriften erteilt werden.
 Für die Annahme von Gerichtskosten, Geldstrafen und Geldbußen bei den Gerichten und Staatsanwaltschaften gelten besondere Vorschriften.
@@ -361,21 +337,13 @@ Das MF kann im Einvernehmen mit dem LRH abweichende Regelungen treffen.
 
 Die Verantwortlichkeiten im Anordnungsverfahren werden durch
 
-–
+- die Feststellung der sachlichen Richtigkeit,
 
-die Feststellung der sachlichen Richtigkeit,
+- die Feststellung der rechnerischen Richtigkeit,
 
-–
+- die Erfassung der Anordnungsdaten in automatisierten Verfahren sowie
 
-die Feststellung der rechnerischen Richtigkeit,
-
-–
-
-die Erfassung der Anordnungsdaten in automatisierten Verfahren sowie
-
-–
-
-die Ausübung der Anordnungsbefugnis
+- die Ausübung der Anordnungsbefugnis
 
 wahrgenommen.
 2.3.2 Zur Feststellung der sachlichen und rechnerischen Richtigkeit sind alle Bediensteten befugt, die die
@@ -383,30 +351,20 @@ Sachverhalte, deren Richtigkeit sie zu bescheinigen haben, vollumfänglich beurt
 durch die Beauftrage oder den Beauftragten für den Haushalt (BfdH) im Verfahren berechtigt wurden und
 deshalb befugt sind.
 2.3.2.1 Die Bescheinigung der Feststellung der sachlichen Richtigkeit umfasst, dass
-–
-
-die in der Anordnung und in den sie begründenden Unterlagen enthaltenen, für die Zahlung und Buchung
+- die in der Anordnung und in den sie begründenden Unterlagen enthaltenen, für die Zahlung und Buchung
 maßgebenden Angaben vollständig und richtig sind,
 
-–
-
-nach den geltenden Vorschriften, insbesondere dem Grundsatz der Wirtschaftlichkeit, verfahren worden
+- nach den geltenden Vorschriften, insbesondere dem Grundsatz der Wirtschaftlichkeit, verfahren worden
 ist; hierzu gehört, dass die Lieferung oder Leistung als solche und auch die Art ihrer Ausführung geboten
 war und die Lieferung oder Leistung entsprechend der zugrunde liegenden Vereinbarung oder Bestellung
 sachgemäß und vollständig ausgeführt worden ist,
 
-–
+- Abschlagszahlungen, Vorauszahlungen, Pfändungen und Abtretungen vollständig und richtig berücksichtigt worden sind,
 
-Abschlagszahlungen, Vorauszahlungen, Pfändungen und Abtretungen vollständig und richtig berücksichtigt worden sind,
-
-–
-
-die übrigen haushaltsrechtlichen Voraussetzungen für eine Zahlung vorliegen (z. B. Mittelverfügbarkeit,
+- die übrigen haushaltsrechtlichen Voraussetzungen für eine Zahlung vorliegen (z. B. Mittelverfügbarkeit,
 insbesondere für den Fall einer deaktivierten Mittelkontrolle),
 
-–
-
-der angeforderte Betrag nach Rechtsgrund und Höhe richtig ermittelt worden ist.
+- der angeforderte Betrag nach Rechtsgrund und Höhe richtig ermittelt worden ist.
 
 2.3.2.2 Die Bescheinigung der Feststellung der rechnerischen Richtigkeit beinhaltet die Verantwortung, dass
 der anzunehmende oder auszuzahlende Betrag sowie alle auf Berechnungen beruhenden Angaben in der
@@ -1648,21 +1606,13 @@ geeigneter Weise, zum Beispiel durch Dienstanweisung, zu regeln.
 2.4.1 Gewährleistung der Richtigkeit und Vollständigkeit von digitalen Datensätzen
 Folgende Bearbeitungsschritte sind zur Gewährleistung der Richtigkeit und Vollständigkeit der Daten in
 einem HKR-Verfahren wahrzunehmen:
-–
+- Erfassung der Daten (Nummer 2.4.2),
 
-Erfassung der Daten (Nummer 2.4.2),
+- Abgleich der erfassten Daten, Freigabe (Nummer 2.4.3),
 
-–
+- Datenverarbeitung (Nummer 2.4.4),
 
-Abgleich der erfassten Daten, Freigabe (Nummer 2.4.3),
-
-–
-
-Datenverarbeitung (Nummer 2.4.4),
-
-–
-
-Datenübertragung (Nummer 2.4.5).
+- Datenübertragung (Nummer 2.4.5).
 Eine Änderung der Daten ist ausschließlich bei der Erfassung zulässig.
 
 Zusätzlich sind die Richtigkeit und Vollständigkeit der Daten durch programmtechnische Kontrollen zu gewährleisten.
@@ -1687,47 +1637,27 @@ Die Betreiberinnen bzw. die Betreiber der HKR-Verfahren sind für die fehlerfrei
 und Verarbeitung der Daten verantwortlich.
 Die Datenverarbeitung ist für die ordnungsgemäße Verarbeitung der Daten verantwortlich.
 Hierzu gehören insbesondere
-–
+- die richtige und vollständige Übernahme der Daten,
 
-die richtige und vollständige Übernahme der Daten,
+- die richtige und vollständige technische Durchführung der Verarbeitung,
 
-–
+- die Wiederholbarkeit der Verarbeitung im Fall nicht einwandfreier Arbeitsergebnisse,
 
-die richtige und vollständige technische Durchführung der Verarbeitung,
+- die vollständige Durchführung der ihr obliegenden organisatorischen und sonstigen Kontrollen,
 
-–
+- die Sicherung der Datenbestände und der Programme gegen Verlust, unzulässige Weitergabe, unbeabsichtigte und unbefugte Veränderung sowie
 
-die Wiederholbarkeit der Verarbeitung im Fall nicht einwandfreier Arbeitsergebnisse,
+- die richtige und vollständige Weiterleitung der Arbeitsergebnisse und
 
-–
-
-die vollständige Durchführung der ihr obliegenden organisatorischen und sonstigen Kontrollen,
-
-–
-
-die Sicherung der Datenbestände und der Programme gegen Verlust, unzulässige Weitergabe, unbeabsichtigte und unbefugte Veränderung sowie
-
-–
-
-die richtige und vollständige Weiterleitung der Arbeitsergebnisse und
-
-–
-
-der Transport der Zahlungsverkehrsdatei zum Bankenrechner.
+- der Transport der Zahlungsverkehrsdatei zum Bankenrechner.
 
 2.4.5 Datenübertragung
 Bei einer elektronischen Übertragung von Daten ist sicherzustellen, dass diese
-–
+- verschlüsselt, vollständig und unverändert übertragen werden,
 
-verschlüsselt, vollständig und unverändert übertragen werden,
+- wiederholt werden kann, wenn die erste Übertragung fehlerhaft oder unvollständig gewesen oder gescheitert ist,
 
-–
-
-wiederholt werden kann, wenn die erste Übertragung fehlerhaft oder unvollständig gewesen oder gescheitert ist,
-
-–
-
-protokolliert wird.
+- protokolliert wird.
 
 2.4.6 Um Mehrfachzahlungen zu vermeiden, ist sicherzustellen, dass verarbeitete Dateien, vor allem aber
 Auszahlungsanordnungen nicht ein weiteres Mal verarbeitet bzw. ausgeführt werden.
@@ -1810,17 +1740,11 @@ Dem MF und dem LRH ist Gelegenheit zu geben, am Test des Verfahrens teilzunehmen
 4.2 Antragstellung und Einwilligungsvoraussetzung
 4.2.1 Antragstellung
 Die gemäß Nummer 3.1 zuständige oberste Landesbehörde stellt einen Antrag auf Einwilligung zum Betrieb des HKR-Verfahrens und legt dem MF folgende Unterlagen vor:
-–
+- die Verfahrensdokumentation einschließlich der Risikoanalyse (siehe Nummer 2.2),
 
-die Verfahrensdokumentation einschließlich der Risikoanalyse (siehe Nummer 2.2),
+- die Stellungnahme des MI nach Nummer 4.2.2 und
 
-–
-
-die Stellungnahme des MI nach Nummer 4.2.2 und
-
-–
-
-die Bescheinigung der Mindestanforderungen nach Nummer 8.
+- die Bescheinigung der Mindestanforderungen nach Nummer 8.
 
 Im Falle einer Änderung von genehmigten HKR-Verfahren erfolgt der Nachweis durch eine Beschreibung
 der Änderung und Analyse der mit der Änderung verbundenen Risiken. Für den Nachweis ist die Bescheinigung nach Nummer 8 zu verwenden.
@@ -1875,40 +1799,24 @@ und die IST-Ein- und Auszahlungen werden aber über das führende HKR-Verfahren 
 Bei diesem Vorverfahren werden aus Anordnungsdaten, die über eine Schnittstelle in das führende HKRVerfahren transferiert wurden, Kassenanordnungen generiert und im führenden HKR-Verfahren freigegeben.
 Eine Verfahrensdokumentation gemäß A n h a n g 1 nicht erforderlich. Ergänzend zu Nummer 4.2.2 und 4.2.3
 sind folgende Bedingungen zu erfüllen:
-–
+- Es muss ein Berechtigungskonzept vorhanden sein.
 
-Es muss ein Berechtigungskonzept vorhanden sein.
+- Es ist ein definiertes Verfahren zur Vergabe von Berechtigungen erforderlich.
 
-–
+- Die vom MI veröffentlichten Passwortkonventionen des Landes sind einzuhalten.
 
-Es ist ein definiertes Verfahren zur Vergabe von Berechtigungen erforderlich.
+- Eine vollständige und korrekte Verarbeitung über mehrere Prozessschritte muss gewährleistet sein.
 
-–
-
-Die vom MI veröffentlichten Passwortkonventionen des Landes sind einzuhalten.
-
-–
-
-Eine vollständige und korrekte Verarbeitung über mehrere Prozessschritte muss gewährleistet sein.
-
-–
-
-Die Daten aus dem Vorverfahren müssen so beschaffen sein, dass sie fehlerfrei über die Schnittstelle in
+- Die Daten aus dem Vorverfahren müssen so beschaffen sein, dass sie fehlerfrei über die Schnittstelle in
 das führende HKR-System transferiert werden können.
 
-–
+- Die Unveränderbarkeit der buchungs- und zahlungsrelevanten Daten aus dem Vorverfahren muss sichergestellt sein.
 
-Die Unveränderbarkeit der buchungs- und zahlungsrelevanten Daten aus dem Vorverfahren muss sichergestellt sein.
-
-–
-
-Die Erfasserin oder der Erfasser muss die sachliche Richtigkeit der Anordnungen bestätigen.
+- Die Erfasserin oder der Erfasser muss die sachliche Richtigkeit der Anordnungen bestätigen.
 
 Nds. MBl. 2024 Nr. 143 vom 22. März 2024
 
-–
-
-Seite 29
+- Seite 29
 
 Anordnungsdaten gemäß VV Nr. 2.7 einschließlich der Kennung der Feststellerin oder des Feststellers
 aus dem führenden HKR-Verfahren sind in das führende HKR-Verfahren zu übertragen.
@@ -1916,18 +1824,12 @@ aus dem führenden HKR-Verfahren sind in das führende HKR-Verfahren zu übertra
 6. Besondere Regelungen für das führende Verfahren
 Für das führende automatisierte HKR-Verfahren ist ein Testat analog zum IDW Standard erforderlich.
 Dieses Testat muss folgende Komponenten beinhalten:
-–
+- zentrale Systemprüfungen der IT-Anwendungen einschließlich der IT-Organisation, des IT-Umfeldes sowie der IT-Infrastruktur;
 
-zentrale Systemprüfungen der IT-Anwendungen einschließlich der IT-Organisation, des IT-Umfeldes sowie der IT-Infrastruktur;
-
-–
-
-Prüfung der IT-gestützten Geschäftsprozesse und des IKS. Hierbei soll auch im angemessenen Umfang
+- Prüfung der IT-gestützten Geschäftsprozesse und des IKS. Hierbei soll auch im angemessenen Umfang
 die Wirksamkeit der Aufsichtsmaßnahmen gemäß Nummer 3.1 bewertet werden;
 
-–
-
-Prüfung der freigegebenen Vorverfahren nur in Bezug auf die Generierung automatischer Buchungen in
+- Prüfung der freigegebenen Vorverfahren nur in Bezug auf die Generierung automatischer Buchungen in
 das führende Verfahren.
 
 7. Internes Kontrollsystem (IKS)
@@ -1936,31 +1838,19 @@ Kontrollen, Plausibilitätsprüfungen, Maßnahmen und Regelungen im HKR-Verfahre
 Sicherstellung der Einhaltung der Vorschriften zur Ordnungsmäßigkeit eines HKR-Verfahren.
 7.1 Kontrollmaßnahmen
 Zur Einhaltung der Ordnungsmäßigkeitsvorschriften durch den Verfahrensbetreiber sind Kontrollen einzurichten, auszuüben und zu protokollieren. Hierzu gehören insbesondere
-–
-
-eine regelmäßige Überprüfung und Dokumentation der Zugangsberechtigungen der Personen (Nutzerinnen und Nutzer) zu einer IT-Anwendung (Benutzerkennungen) sowie der eingerichteten Zugriffsrechte
+- eine regelmäßige Überprüfung und Dokumentation der Zugangsberechtigungen der Personen (Nutzerinnen und Nutzer) zu einer IT-Anwendung (Benutzerkennungen) sowie der eingerichteten Zugriffsrechte
 entsprechend ihrer tatsächlichen Funktion (Überprüfung der Umsetzung des Rollen- und Rechtekonzepts),
 
-–
+- die Einhaltung der Funktionstrennungen,
 
-die Einhaltung der Funktionstrennungen,
+- die Erfassungs- und Abstimmungskontrollen (z. B. Fehlerhinweise, Plausibilitätsprüfungen),
 
-–
+- Verarbeitungskontrollen,
 
-die Erfassungs- und Abstimmungskontrollen (z. B. Fehlerhinweise, Plausibilitätsprüfungen),
-
-–
-
-Verarbeitungskontrollen,
-
-–
-
-die Einhaltung der Schutzmaßnahmen gegen die beabsichtigte und unbeabsichtigte Verfälschung von
+- die Einhaltung der Schutzmaßnahmen gegen die beabsichtigte und unbeabsichtigte Verfälschung von
 Programmen und elektronischen Unterlagen und
 
-–
-
-die Sicherstellung von Änderungen von automatisierten Berechnungsprozessen nur mittels autorisierter
+- die Sicherstellung von Änderungen von automatisierten Berechnungsprozessen nur mittels autorisierter
 Änderungsverfahren.
 
 7.2 Anlassbezogene Prüfungen
@@ -2069,25 +1959,15 @@ Informationssicherheit: Kontrollen stellen sicher, dass die Risiken der IT-Infra
 Bedürfnis der Behörde ausgerichtetes Sicherheitskonzept und die daraus abgeleiteten technischen und organisatorischen Kontrollen bewältigt werden.
 Ein dokumentiertes, freigegebenes und regelmäßig zu aktualisierendes Informationssicherheitskonzept
 muss vorhanden sein. Das Informationssicherheitskonzept ist in die Prozesse zu unterteilen:
-–
+- Planung und Risikobewertung,
 
-Planung und Risikobewertung,
+- Erarbeitung von Maßnahmen, um Risiken zu verhindern/minimieren,
 
-–
+- Umsetzung der Maßnahmen,
 
-Erarbeitung von Maßnahmen, um Risiken zu verhindern/minimieren,
+- regelmäßige Kontrolle der Maßnahmen,
 
-–
-
-Umsetzung der Maßnahmen,
-
-–
-
-regelmäßige Kontrolle der Maßnahmen,
-
-–
-
-Auswertung der Kontrollen und ggf. Verbesserung des Prozesses.
+- Auswertung der Kontrollen und ggf. Verbesserung des Prozesses.
 
 2. HKR-Verfahren: Zugang zu Programmen und Daten – SEPROM und Active Directory
 Kontrollziel:
@@ -2243,55 +2123,31 @@ Stellungnahme des MI zur Konformität des HKR-Verfahrens mit den Landesstandards
 Nach der Nummer 4.2.2 der Anlage 3 zu VV Nr. 7 hat das MI als die für die zentrale Steuerung der Informationstechnik zuständige Stelle zur Konformität des HKR-Verfahrens mit den Landesstandards für HKRVerfahren und dem aktuellen Stand der Technik Stellung zu nehmen.
 Name des HKR-Verfahrens:
 Die Stellungnahme zu dem oben genannten HKR-Verfahren gründet sich im Wesentlichen auf den folgenden, vorzulegenden Unterlagen:
-–
+- Antragsmail,
 
-Antragsmail,
+- Notfallplan,
 
-–
+- Sicherheitskonzept,
 
-Notfallplan,
+- Projektauftrag
 
-–
-
-Sicherheitskonzept,
-
-–
-
-Projektauftrag
-
-–
-
-A n h a n g 1 zur Anlage 3 ‚Zahlungsverkehrsrechtliche Voraussetzungen für HKR-Verfahren mit interner
+- A n h a n g 1 zur Anlage 3 ‚Zahlungsverkehrsrechtliche Voraussetzungen für HKR-Verfahren mit interner
 oder externer Zahlbarmachung‘,
 
-–
+- Betriebshandbuch,
 
-Betriebshandbuch,
+- Betriebskonzept,
 
-–
+- Diverse Leistungsscheine,
 
-Betriebskonzept,
-
-–
-
-Diverse Leistungsscheine,
-
-–
-
-Risikoanalyse.
+- Risikoanalyse.
 
 Im Zuge dieser Stellungnahme wird gewöhnlich die Konformität des Verfahrens mit den besonders relevanten Landesstandards für IT-Verfahren, wie
-–
+- Informationssicherheitsleitlinie (ISLL) und Informationssicherheitsrichtlinien (ISRL) des Landes,
 
-Informationssicherheitsleitlinie (ISLL) und Informationssicherheitsrichtlinien (ISRL) des Landes,
+- IT-Architektur-Leitfaden,
 
-–
-
-IT-Architektur-Leitfaden,
-
-–
-
-Entscheidungen des IT-Planungsrats zur Standardisierung (zurzeit nur ‚Lateinische Zeichen in
+- Entscheidungen des IT-Planungsrats zur Standardisierung (zurzeit nur ‚Lateinische Zeichen in
 UNICODE‘, Entscheidung 2014/14 des IT-PLR B/L)
 
 und dem aktuellen Stand der Technik betrachtet.

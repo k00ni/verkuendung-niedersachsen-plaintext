@@ -19,9 +19,7 @@ Gegenstand der Genehmigung ist die Demontage der vorhandenen Brenner der Hochtem
 Der Bescheid enthält Nebenbestimmungen, um die Erfüllung der Genehmigungsvoraussetzungen des
 § 6 BImSchG sicherzustellen.
 Der vollständige Bescheid und die genehmigten Antragsunterlagen können in der Zeit vom 22.05. bis einschließlich 05.06.2024 bei folgenden Stellen eingesehen werden:
-–
-
-–
+- –
 
 Staatliches Gewerbeaufsichtsamt Lüneburg, Zimmer 0.133, Auf der Hude 2, 21339 Lüneburg, während
 der Dienststunden,
@@ -62,21 +60,15 @@ Der Firma Nordzucker AG, An der Zuckerfabrik 1, 29525 Uelzen, wird aufgrund ihre
 einer Zuckerfabrik erteilt.
 1. Gegenstand der Genehmigung
 Dieser Bescheid erstreckt sich auf die folgenden wesentlichen Anlagenteile und Nebeneinrichtungen einschließlich ihres Betriebes:
-–
-
-Demontage der vorhandenen Brenner der Hochtemperaturtrockner (HTT 1+3) und deren Ersatz durch
+- Demontage der vorhandenen Brenner der Hochtemperaturtrockner (HTT 1+3) und deren Ersatz durch
 jeweils einen Zweistoffbrenner für die Medien Erdgas und Heizöl schwer mit folgenden Brennerleistungen:
 Trommel 1 mit zwei Einzelbrennern mit je 11 MW
 Trommel 3 mit zwei Einzelbrennern mit je 17 MW
 
-–
-
-Änderung der Betriebsweise der Feuerungsanlagen dahingehend, dass entweder die beiden Hochtemperaturtrockner oder das Kesselhaus (Dampfkessel 2 oder 3) mit Schweröl betrieben werden, so dass
+- Änderung der Betriebsweise der Feuerungsanlagen dahingehend, dass entweder die beiden Hochtemperaturtrockner oder das Kesselhaus (Dampfkessel 2 oder 3) mit Schweröl betrieben werden, so dass
 kein Parallelbetrieb der Hochtemperaturtrockner und des Kesselhauses mit Schweröl stattfindet.
 
-–
-
-Im Falle einer ernsten oder erheblichen Gasmangellage und solange die Voraussetzungen des
+- Im Falle einer ernsten oder erheblichen Gasmangellage und solange die Voraussetzungen des
 § 31 i BImSchG erfüllt sind, wird der Parallelbetrieb der Hochtemperaturtrockner und des Kesselhauses
 mit Schweröl zugelassen.
 

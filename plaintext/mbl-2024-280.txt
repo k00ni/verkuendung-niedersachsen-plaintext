@@ -31,21 +31,13 @@ Bei der Abwicklung des Besteuerungsverfahrens sind die nachstehenden Hinweise zu
 Der Umsatzsteuer in Höhe des Regelsteuersatzes unterliegen nach § 2 Abs. 3 Satz 2 Nr. 4 UStG in der bis
 zum 31.12.2015 geltenden Fassung und Abschnitt 2.11 Abs. 7 bis 11 des Umsatzsteuer-Anwendungserlasses
 (UStAE) grundsätzlich die Gebühren aus folgenden Amtshandlungen und Leistungen:
-–
+- Einsicht, Auskunft nach Nummer 1,
 
-Einsicht, Auskunft nach Nummer 1,
+- Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 2.4.1 und der Abruf nach Nummer 5.1.2.1,
 
-–
+- Online-Abruf von Geobasisdaten des ALKIS über Web-Applikationen soweit es sich um Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.3.1 handelt,
 
-Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 2.4.1 und der Abruf nach Nummer 5.1.2.1,
-
-–
-
-Online-Abruf von Geobasisdaten des ALKIS über Web-Applikationen soweit es sich um Standardpräsentationen des Liegenschaftskatasters nach Nummer 2.3.1 handelt,
-
-–
-
-Anfertigung einer Mehrausfertigung nach Nummer 2.4.2, sofern das ursprüngliche Produkt selbst der
+- Anfertigung einer Mehrausfertigung nach Nummer 2.4.2, sofern das ursprüngliche Produkt selbst der
 Umsatzsteuer in Höhe des Regelsteuersatzes unterliegt,
 
 Herausgeber: Niedersächsische Staatskanzlei
@@ -54,39 +46,23 @@ Nds. MBl. 2024 Nr. 280 vom 20. Juni 2024
 
 Seite 2
 
-–
+- Bereitstellung von digitalen ATKIS-Daten nach Nummer 3.3 sowie Rechte an den Daten nach den Nummern 6.2.2 und 6.3,
 
-Bereitstellung von digitalen ATKIS-Daten nach Nummer 3.3 sowie Rechte an den Daten nach den Nummern 6.2.2 und 6.3,
+- Planunterlage, Lageplan und Bescheinigung nach dem öffentlichen Baurecht nach Nummer 8,
 
-–
+- Vermessung und Auswertung von Liegenschaftsvermessungen nach Nummer 9,
 
-Planunterlage, Lageplan und Bescheinigung nach dem öffentlichen Baurecht nach Nummer 8,
-
-–
-
-Vermessung und Auswertung von Liegenschaftsvermessungen nach Nummer 9,
-
-–
-
-Liegenschaftsvermessungen und Arbeiten für Umlegungen nach dem BauGB nach den Nummern 12.1
+- Liegenschaftsvermessungen und Arbeiten für Umlegungen nach dem BauGB nach den Nummern 12.1
 und 12.2 sowie Nummer 13.1,
 
-–
+- Einholung einer Genehmigung zur Teilung eines Grundstücks nach Nummer 15,
 
-Einholung einer Genehmigung zur Teilung eines Grundstücks nach Nummer 15,
+- Fertigung einer Bescheinigung zu Rechten an Grundstücken nach Nummer 16.2,
 
-–
-
-Fertigung einer Bescheinigung zu Rechten an Grundstücken nach Nummer 16.2,
-
-–
-
-sonstige vermessungstechnische Arbeiten nach Nummer 17 soweit es sich nicht um Amtshandlungen
+- sonstige vermessungstechnische Arbeiten nach Nummer 17 soweit es sich nicht um Amtshandlungen
 handelt,
 
-–
-
-sonstige Geodaten- und Grafikserviceleistungen nach Nummer 18.
+- sonstige Geodaten- und Grafikserviceleistungen nach Nummer 18.
 
 Die Amtshandlungen und Leistungen nach den Nummern 2.2, 2.3.2, 2.5, 2.6, 3.1, 3.2, 4, 5.1.1, 5.1.2.2,
 5.2, 6.1, 6.2.1, 7, 10, 11, 12.3, 13.2, 14 und 16.1 sind nicht umsatzsteuerbar.
@@ -95,13 +71,9 @@ Die Amtshandlungen der Aufsichtsbehörde unterliegen nicht der Umsatzsteuer.
 1.1.3 Anlage 3 – Berechnung des zu erstattenden Aufwandes nach § 2 Abs. 1 KOVerm
 Der Umsatzsteuer in Höhe des Regelsteuersatzes unterliegen grundsätzlich die Gebühren aus folgenden
 Amtshandlungen und Leistungen:
-–
+- Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 1.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 1.3 und der Abruf nach Nummer 4.2.1,
 
-Abgabe von Standardpräsentationen des Liegenschaftskatasters nach Nummer 1.1 sowie diesen zuzurechnenden Ergänzungen nach Nummer 1.3 und der Abruf nach Nummer 4.2.1,
-
-–
-
-sonstige Geodaten- und Grafikserviceleistungen nach Nummer 6,
+- sonstige Geodaten- und Grafikserviceleistungen nach Nummer 6,
 
 soweit die Abgabe, der Abruf oder die Leistungen nicht an Landesbehörden, kommunale Körperschaften oder
 andere juristische Personen des öffentlichen Rechts erfolgen.
@@ -125,14 +97,10 @@ Nds. MBl. 2024 Nr. 280 vom 20. Juni 2024
 
 Seite 3
 
-–
-
-für Vermessungen und Auswertungen nach Anlage 1 Nr. 9 und im Zusammenhang damit für sonstige
+- für Vermessungen und Auswertungen nach Anlage 1 Nr. 9 und im Zusammenhang damit für sonstige
 vermessungstechnische Arbeiten nach Anlage 1 Nr. 17, sofern das Ersuchen von einer anderen behördlichen Vermessungsstelle nach § 6 Abs. 3 NVermG gestellt wird, und
 
-–
-
-für die Abgabe oder den Abruf von Standardpräsentationen des Liegenschaftskatasters nach § 2
+- für die Abgabe oder den Abruf von Standardpräsentationen des Liegenschaftskatasters nach § 2
 Abs. 1 KOVerm.
 
 2. Abrechnung von Gutachten nach dem JVEG

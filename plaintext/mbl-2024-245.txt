@@ -79,13 +79,9 @@ RZG größer als 138:
 
 1.5 Trächtigkeits-Zuschlag
 Für tragende Rinder und Kühe wird ein Trächtigkeits-Zuschlag in Höhe von
-–
+- 5 % ab dem 4. Trächtigkeitsmonat,
 
-5 % ab dem 4. Trächtigkeitsmonat,
-
-–
-
-10 % ab dem 6. Trächtigkeitsmonat
+- 10 % ab dem 6. Trächtigkeitsmonat
 
 auf den Grundbetrag nach Nummer 1.2 gewährt.
 Sofern bei einem Tier ein Trächtigkeits-Zuschlag anerkannt wird und es von einem Vererber mit über
@@ -119,13 +115,9 @@ durch Milchkontrolle nachgewiesene durchschnittliche letzte 305-Tage-Eiweißleis
 Der Zu- oder Abschlag für die abgekalbte Färse beträgt 3 EUR je ein kg Differenz zu den o. g. Durchschnittseiweißleistungen in Niedersachsen.
 1.7 Altersbedingte Wertminderung
 Vom Grundbetrag sind in Abhängigkeit von der Nutzungsdauer folgende Abschläge abzuziehen:
-–
+- ab dem 5. bis zum 7. Lebensjahr jährlich 10 % des Grundbetrages nach Nummer 1.2,
 
-ab dem 5. bis zum 7. Lebensjahr jährlich 10 % des Grundbetrages nach Nummer 1.2,
-
-–
-
-ab dem 8. Lebensjahr beträgt der Abschlag insgesamt 40 % des Grundbetrages nach Nummer 1.2.
+- ab dem 8. Lebensjahr beträgt der Abschlag insgesamt 40 % des Grundbetrages nach Nummer 1.2.
 
 Der aktuelle Schlachtwert (Handelsklasse O3 und Ausschlachtungsfaktor 0,52) bildet die untere Grenze
 für den verbleibenden Wert.
@@ -476,15 +468,11 @@ Für Gebrauchstiere mit einem Lebendgewicht von 200 bis 400 kg (Jungtiere) bilde
 Gewichtsklassen und Rassen.
 4.3 Trächtigkeits-Zuschlag
 Für tragende Rinder wird ein Trächtigkeits-Zuschlag in Höhe von
-–
-
-10 % ab dem 4. Trächtigkeitsmonat,
+- 10 % ab dem 4. Trächtigkeitsmonat,
 
 Nds. MBl. 2024 Nr. 245 vom 28. Mai 2024
 
-–
-
-Seite 11
+- Seite 11
 
 20 % ab dem 6. Trächtigkeitsmonat
 
@@ -511,13 +499,9 @@ des Grundbetrages nach Nummer 4.2.
 Für nicht eingestufte Kühe wird kein Zuchtwertzuschlag gewährt.
 4.4.2 Deckbullen
 Für gekörte Bullen richtet sich der Zuchtwertzuschlag nach
-–
+- Relativzuchtwert Fleisch (RZF) oder dem Körindex (Rassen ohne RZF) und
 
-Relativzuchtwert Fleisch (RZF) oder dem Körindex (Rassen ohne RZF) und
-
-–
-
-den Körnoten Typ (T) und Skelett (S).
+- den Körnoten Typ (T) und Skelett (S).
 
 Für die „RZF-Rassen“ Angus, Charolais, Blonde d’Aquitaine, Fleisch-Fleckvieh, Hereford, Limousin, Salers
 und Uckermärker gilt der RZF zum Zeitpunkt der Körung anstelle des Körindex als Kriterium für die Ermittlung

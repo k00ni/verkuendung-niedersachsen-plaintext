@@ -7,7 +7,7 @@ Aktuell werden die Verkündungen nur als PDF bereitgestellt.
 Das Lesen einer PDF benötigt entsprechende Werkzeuge und die extrahierten Texte sind teilweise noch unsauber (z.B. Tabs oder unerwartete Zeilenumbrüche).
 Dieses Projekt strebt an, (wenigstens teilweise) gesäuberte und auswertbare Texte aus den PDFs bereitzustellen.
 
-:exclamation: **Disclaimer**: Das ist ein privates Projekt und wird unentgeldlich für die Allgemeinheit bereitgestellt.
+:exclamation: **Disclaimer**: Das ist ein privates Projekt. Alle Daten werden ohne Gewähr bereitgestellt. Benutzung auf eigene Gefahr.
 
 ## Lizenz
 
@@ -34,7 +34,7 @@ In den Metadaten findet man diesen in der Spalte `mainDocment`.
 
 **Hier ein Beispiel:** PDF-Datei der Verkündung heißt `mbl-2024-559.pdf` und die zugehörige Plaintext-Datei heißt `mbl-2024-559.txt` und befindet sich unter [plaintext/mbl-2024-559.txt](./plaintext/mbl-2024-559.txt).
 
-#### Mögliche Textunterschiede zwischen PDF und Textdatei
+#### Textunterschiede zwischen PDF und Textdatei
 
 Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
 * Lösche alle Zeichen, die nicht in UTF-8 vorliegen
@@ -45,6 +45,7 @@ Es werden die folgenden Anpassungen an dem extrahierten Rohtexten vorgenommen:
 * Korrigiere "zerbrochene" Datumsangaben (z.B. `01. 01. 2024`)
 * Lösche Leerzeichen am Anfang und Ende von Zeichenketten zwischen Anführungstrichen (z.B. `„Wiedemann Familien Stiftung “`)
 * Lösche Form Feed Charakter, der dem Drucker mitteilt, eine neue Seite zu beginnen (Zeichen: `FF`, `\f`)
+* Beginnt eine Zeile mit einem `–` und der nachfolgende Text folgt erst auf der nächsten Zeile (oder später), so wird die "Lücke" zwischen `–` und dem Text gelöscht. Damit folgt nach dem `–` direkt der Text, wodurch die meisten "kaputten" Listeneinträge wieder korrekt erscheinen sollten.
 
 Diese Anpassungen zielen darauf ab, den nachträglichen Aufwand für die Textanalyse zu verringern.
 Zum Beispiel können unnötige Leerzeichen und Tabs einen dazu zwingen, einen Regex für die Analyse unnötig aufzublähen.

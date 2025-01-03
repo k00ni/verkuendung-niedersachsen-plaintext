@@ -219,18 +219,12 @@ auf Antrag Zuwendungen aus dem zur Finanzierung der sozialen Wohnraumförderung 
 
 Die Gewährung von Zuwendungen erfolgt entsprechend den Regelungen
 
-–
-
-des NWoFG vom 29.10.2009 (Nds. GVBl. S. 403), zuletzt geändert durch Artikel 1 des Gesetzes vom
+- des NWoFG vom 29.10.2009 (Nds. GVBl. S. 403), zuletzt geändert durch Artikel 1 des Gesetzes vom
 28.04.2021 (Nds. GVBl. S. 240),
 
-–
+- der Richtlinie über die Gewährung von Zuwendungen zur sozialen Wohnraumförderung (Wohnraumförderprogramm 2019) – Bezugserlass zu b – und
 
-der Richtlinie über die Gewährung von Zuwendungen zur sozialen Wohnraumförderung (Wohnraumförderprogramm 2019) – Bezugserlass zu b – und
-
-–
-
-des Beschlusses der Kommission vom 20.12.2011 über die Anwendung von Artikel 106 Absatz 2 des
+- des Beschlusses der Kommission vom 20.12.2011 über die Anwendung von Artikel 106 Absatz 2 des
 Vertrags über die Arbeitsweise der Europäischen Union auf staatliche Beihilfen in Form von Ausgleichsleistungen zugunsten bestimmter Unternehmen, die mit der Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse betraut sind (ABl. L 7 vom 11.1.2012, S. 3) – im Folgenden: DAWIFreistellungsbeschluss –,
 
 in der jeweils geltenden Fassung.
@@ -293,22 +287,14 @@ Dazu gehören insbesondere
 
 2.9
 
-–
-
-die nachträgliche Wärmedämmung der Gebäudewände, des Daches, der Kellerdecke oder von
+- die nachträgliche Wärmedämmung der Gebäudewände, des Daches, der Kellerdecke oder von
 erdberührten Außenflächen beheizter Räume,
 
-–
+- die Fenster- und Außentürerneuerung,
 
-die Fenster- und Außentürerneuerung,
+- die Erneuerung von Heizungstechnik und
 
-–
-
-die Erneuerung von Heizungstechnik und
-
-–
-
-Maßnahmen zur Nutzung erneuerbarer Energieträger.
+- Maßnahmen zur Nutzung erneuerbarer Energieträger.
 
 Gemeinschaftliche Wohnformen:
 Gemeinschaftliche Wohnformen i. S. dieser Richtlinie bezeichnet Wohnformen, bei denen mehrere Einzelpersonen oder Haushalte nach der baulichen Gestaltung in einer gemeinsamen Wohneinheit zusammenleben, unabhängig davon, ob es sich um Einzelzimmer oder abgeschlossene Einzelwohnungen mit
@@ -577,22 +563,14 @@ die Vermutung als widerlegt anzusehen ist. Für die Prüfung können alle sich v
 insbesondere der Anteil von Wohnungen mit Belegungs- und Mietbindungen am Gesamtwohnungsbestand, der Anteil der wohnberechtigten Haushalte sowie die Mietwohnungsquote der betreffenden
 Gemeinde in Betracht. Die Bewilligungsbehörde berücksichtigt bei der Prüfung des Bedarfs auch
 etwaige von der Wohnraumförderstelle vorgelegte Unterlagen, etwa
-–
+- ein örtliches oder regionales Wohnraumversorgungskonzept,
 
-ein örtliches oder regionales Wohnraumversorgungskonzept,
-
-–
-
-Analysen, Daten, Erfahrungswerte und fachliche Expertisen der lokalen Marktakteurinnen und
+- Analysen, Daten, Erfahrungswerte und fachliche Expertisen der lokalen Marktakteurinnen und
 -akteure, Verbände, Mietervereinigungen, Forschungseinrichtungen,
 
-–
+- Ergebnisse von Befragungen und Umfragen, Warte- und Bewerberlisten, Stadtteil- und Stadtentwicklungskonzepte,
 
-Ergebnisse von Befragungen und Umfragen, Warte- und Bewerberlisten, Stadtteil- und Stadtentwicklungskonzepte,
-
-–
-
-Daten aus etablierten Monitoring-Systemen für den lokalen Wohnungsmarkt und Ergebnisse
+- Daten aus etablierten Monitoring-Systemen für den lokalen Wohnungsmarkt und Ergebnisse
 der kommunalen Wohnungsmarktbeobachtung.
 
 13.1.2
@@ -1526,69 +1504,39 @@ Wohnungsbelegung und -überwachung
 55.1
 Die Wohnraumförderstelle hat alle öffentlich geförderten Wohnungen in ihrem Bezirk getrennt nach
 Gemeinden in elektronischen Dateien zu erfassen. Für jede Wohnung sind folgende Daten zu speichern:
-–
+- Bezeichnung der Wohnung nach Straße, Hausnummer, Stockwerk und Lage,
 
-Bezeichnung der Wohnung nach Straße, Hausnummer, Stockwerk und Lage,
+- bei mittelbarer Belegung: Art und Umfang der Einräumung von Belegungs- und Mietbindungen an Ersatzwohnungen,
 
-–
+- Zahl der Wohnräume und Wohnfläche der Wohnung,
 
-bei mittelbarer Belegung: Art und Umfang der Einräumung von Belegungs- und Mietbindungen an Ersatzwohnungen,
-
-–
-
-Zahl der Wohnräume und Wohnfläche der Wohnung,
-
-–
-
-Art und Ausstattung der Wohnung (z. B. Mietwohnung im Mehrfamilienhaus, Aufzug, Badewanne
+- Art und Ausstattung der Wohnung (z. B. Mietwohnung im Mehrfamilienhaus, Aufzug, Badewanne
 und/oder Dusche, Balkon),
 
-–
+- Datum und Aktenzeichen der Förderentscheidung (Bewilligung) sowie die Darlehensnummer der Bewilligungsbehörde,
 
-Datum und Aktenzeichen der Förderentscheidung (Bewilligung) sowie die Darlehensnummer der Bewilligungsbehörde,
+- Verfügungsberechtigte oder Verfügungsberechtigter,
 
-–
+- Art und Dauer der Bindungen sowie Ausübung von Belegungsrechten,
 
-Verfügungsberechtigte oder Verfügungsberechtigter,
+- Art und Dauer eines Vorbehalts für Angehörige eines bestimmten Personenkreises,
 
-–
-
-Art und Dauer der Bindungen sowie Ausübung von Belegungsrechten,
-
-–
-
-Art und Dauer eines Vorbehalts für Angehörige eines bestimmten Personenkreises,
-
-–
-
-jeweilige Mieterin oder jeweiliger Mieter oder Wohnungsnutzer, Datum des Einzugs sowie Datum und
+- jeweilige Mieterin oder jeweiliger Mieter oder Wohnungsnutzer, Datum des Einzugs sowie Datum und
 Aktenzeichen des Wohnberechtigungsscheins oder der Benennung,
 
-–
+- Zeitpunkt des Endes der Belegungs- und Mietbindung, soweit schon eingetreten oder bestimmbar,
 
-Zeitpunkt des Endes der Belegungs- und Mietbindung, soweit schon eingetreten oder bestimmbar,
+- Nettokaltmiete bei Bezug (Erstbezug und Wiedervermietung) und Nebenkosten warm/kalt,
 
-–
-
-Nettokaltmiete bei Bezug (Erstbezug und Wiedervermietung) und Nebenkosten warm/kalt,
-
-–
-
-Genehmigungen für die Selbstnutzung, Nichtvermietung, Zweckentfremdung und bauliche Änderung
+- Genehmigungen für die Selbstnutzung, Nichtvermietung, Zweckentfremdung und bauliche Änderung
 nach § 10 NWoFG,
 
-–
+- Freistellungen und Entlassungen aus den Bindungen nach § 11 NWoFG,
 
-Freistellungen und Entlassungen aus den Bindungen nach § 11 NWoFG,
-
-–
-
-Art des Ausgleichs und Höhe der Ausgleichszahlungen für Maßnahmen nach den §§ 10 und
+- Art des Ausgleichs und Höhe der Ausgleichszahlungen für Maßnahmen nach den §§ 10 und
 11 NWoFG,
 
-–
-
-Erhebung von Geldleistungen und Bußgeldbescheide nach § 14 NWoFG.
+- Erhebung von Geldleistungen und Bußgeldbescheide nach § 14 NWoFG.
 
 Die notwendigen Auskünfte sind erforderlichenfalls nach § 10 Abs. 5 NWoFG bei den Verfügungsberechtigten einzuholen.
 55.2
@@ -1617,13 +1565,9 @@ dass die Erteilung eines Wohnberechtigungsscheins bei den festgestellten Vermög
 angemessen mit Mietwohnraum versorgen können (§ 2 Abs. 2 NWoFG).
 56.3.1 Erhebliches Vermögen i. S. von § 8 Abs. 7 NWoFG ist in der Regel vorhanden, wenn die Summe des
 verwertbaren Vermögens der zum Haushalt rechnenden Personen folgende Beträge übersteigt:
-–
+- 60 000 EUR für die erste zum Haushalt rechnende Person und
 
-60 000 EUR für die erste zum Haushalt rechnende Person und
-
-–
-
-30 000 EUR für jede weitere zum Haushalt rechnende Person.
+- 30 000 EUR für jede weitere zum Haushalt rechnende Person.
 
 56.3.2 Vermögen i. S. des § 8 Abs. 7 NWoFG ist die Gesamtheit der in Geld messbaren Güter aller zum
 Haushalt rechnenden Personen. Einkommen und Vermögen grenzen sich grundsätzlich dadurch voneinander
@@ -1830,17 +1774,11 @@ die Bausubstanz, die Verkehrswege und die Infrastruktur enthält.
 Der örtliche Bereich, für den die Freistellung für Wohnungen in bestimmten Gebieten erfolgen soll, ist genau
 festzulegen. Unter dem Begriff des Gebietes i. S. des § 11 Abs. 1 Satz 3 NWoFG sind zusammenhängende
 Flächen oder Teilbereiche zu verstehen, die
-–
+- mehr als ein Grundstück oder ein einzelnes Gebäude umfassen,
 
-mehr als ein Grundstück oder ein einzelnes Gebäude umfassen,
+- mit auffälligen sozialen und baulichen Problemen belastet sind und
 
-–
-
-mit auffälligen sozialen und baulichen Problemen belastet sind und
-
-–
-
-sich räumlich durch Verkehrswege, Bauten oder die natürliche Umgebung abgrenzen.
+- sich räumlich durch Verkehrswege, Bauten oder die natürliche Umgebung abgrenzen.
 
 Bei der Gebietsabgrenzung sollen auch Merkmale wie Gebäude- und Siedlungsstruktur, historische Identität und Bezüge berücksichtigt werden.
 64.5

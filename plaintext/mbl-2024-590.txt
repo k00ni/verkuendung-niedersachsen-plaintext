@@ -89,17 +89,11 @@ a)
 
 Das LS übersendet
 je eine Zusammenfassung
-–
+- für die gesamte Landesverwaltung,
 
-für die gesamte Landesverwaltung,
+- der zusammengefassten Anzeigen für die Geschäftsbereiche der obersten Landesbehörden,
 
-–
-
-der zusammengefassten Anzeigen für die Geschäftsbereiche der obersten Landesbehörden,
-
-–
-
-der dazugehörenden Verzeichnisse nach § 163 Abs. 1 SGB IX der einzelnen Dienststellen elektronisch mit IW-Elan an die zuständige Agentur für Arbeit;
+- der dazugehörenden Verzeichnisse nach § 163 Abs. 1 SGB IX der einzelnen Dienststellen elektronisch mit IW-Elan an die zuständige Agentur für Arbeit;
 
 b)
 

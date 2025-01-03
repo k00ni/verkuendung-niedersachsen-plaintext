@@ -90,21 +90,13 @@ Die für den Wohnort der Bisamfängerin oder des Bisamfängers zuständige Veter
 Verlangen eine Sachkundebescheinigung über die nachgewiesene Sachkunde zum Bisamfang gemäß § 4
 Abs. 1 a Tierschutzgesetz aus. Diese ist Voraussetzung für die Ausstellung einer sog. Fängerkarte durch die
 LWK. Die Fängerkarte beinhaltet:
-–
+- den Namen und die Anschrift der Bisamfängerin oder des Bisamfängers,
 
-den Namen und die Anschrift der Bisamfängerin oder des Bisamfängers,
+- den zuständigen Unterhaltungsverband,
 
-–
+- das zugewiesene Fanggebiet,
 
-den zuständigen Unterhaltungsverband,
-
-–
-
-das zugewiesene Fanggebiet,
-
-–
-
-das Datum der Sachkundebescheinigung der zuständigen Veterinärbehörde.
+- das Datum der Sachkundebescheinigung der zuständigen Veterinärbehörde.
 
 7.
 Es dürfen ausschließlich sofort tötende Fallen verwendet werden, die die tier- und artenschutzrechtlichen Voraussetzungen sowie den neuesten Stand der Wissenschaft und Technik erfüllen. Gemäß § 4 Abs. 1
@@ -123,17 +115,11 @@ Nds. MBl. 2024 Nr. 219 vom 8. Mai 2024
 
 Seite 3
 
-–
+- zur Abwendung erheblicher land-, forst-, fischerei-, wasser- oder sonstiger gemeinwirtschaftlicher Schäden,
 
-zur Abwendung erheblicher land-, forst-, fischerei-, wasser- oder sonstiger gemeinwirtschaftlicher Schäden,
+- zum Schutz der heimischen Tier- und Pflanzenwelt oder
 
-–
-
-zum Schutz der heimischen Tier- und Pflanzenwelt oder
-
-–
-
-für Zwecke der Forschung, Lehre oder Wiederansiedlung oder zur Nachzucht für einen dieser Zwecke
+- für Zwecke der Forschung, Lehre oder Wiederansiedlung oder zur Nachzucht für einen dieser Zwecke
 
 erforderlich ist, der Bestand und die Verbreitung der betreffenden Population oder Art dadurch nicht nachteilig
 beeinflusst wird und sonstige Belange des Artenschutzes, insbesondere Artikel 9 Abs. 1 der Richtlinie

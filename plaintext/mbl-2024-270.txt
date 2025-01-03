@@ -29,25 +29,15 @@ Folgende Eingabemöglichkeiten sind abrufbar:
 2.1
 
 Strafanzeige erstatten
-–
+- Diebstahl (z. B. Fahrraddiebstahl, Diebstahl an/aus Fahrzeugen, Taschendiebstahl),
 
-Diebstahl (z. B. Fahrraddiebstahl, Diebstahl an/aus Fahrzeugen, Taschendiebstahl),
+- Betrug und/oder Straftaten im Internet,
 
-–
+- Sachbeschädigung,
 
-Betrug und/oder Straftaten im Internet,
+- Straftaten anderer Art,
 
-–
-
-Sachbeschädigung,
-
-–
-
-Straftaten anderer Art,
-
-–
-
-Hass im Netz;
+- Hass im Netz;
 Herausgeber: Niedersächsische Staatskanzlei
 
 Nds. MBl. 2024 Nr. 270 vom 13. Juni 2024
@@ -57,25 +47,15 @@ Nds. MBl. 2024 Nr. 270 vom 13. Juni 2024
 Seite 2
 
 Weitere Vorgänge
-–
+- Hinweisgabe (z. B. ungewöhnliche Beobachtungen),
 
-Hinweisgabe (z. B. ungewöhnliche Beobachtungen),
+- Hinweise zu Korruption und Wirtschaftskriminalität,
 
-–
+- Kontaktaufnahme (z. B. allgemeines Anliegen, Feedback),
 
-Hinweise zu Korruption und Wirtschaftskriminalität,
+- Informationen zu Prävention und Opferschutz,
 
-–
-
-Kontaktaufnahme (z. B. allgemeines Anliegen, Feedback),
-
-–
-
-Informationen zu Prävention und Opferschutz,
-
-–
-
-Dienststellenfinder (perspektivisch).
+- Dienststellenfinder (perspektivisch).
 
 3. Bearbeitung der Vorgänge
 Die Nutzenden der Onlinewache erhalten nach Anzeigeerstattung, Hinweisgabe oder sonstiger Kontaktaufnahme zur Polizei eine Sendebestätigung mit einer Vorgangsnummer, die im weiteren Verlauf der Bearbeitung im Vorgangsbearbeitungssystem (VBS) verwendet wird. Zusätzlich ist es möglich, Dokumente und
