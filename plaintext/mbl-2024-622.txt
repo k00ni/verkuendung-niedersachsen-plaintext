@@ -1,0 +1,106 @@
+Niedersächsisches
+
+Ministerialblatt
+74. (79.) Jahrgang
+
+Hannover, den 12. Dezember 2024
+
+Nummer 622
+
+Ministerium für Inneres und Sport
+Führung und Bereitstellung der Amtlichen Karte 1 : 5 000
+(AK5-Erlass)
+RdErl. d. MI v. 04.12.2024 – 44-23211/100 –
+– VORIS 21160 –
+Bezug:
+
+RdErl. v. 18.11.2020 (Nds. MBl. S. 1327)
+– VORIS 21160 –
+
+Der Bezugserlass wird mit Wirkung vom 01.01.2025 wie folgt geändert:
+1.
+
+Die Überschrift erhält folgende Fassung:
+„Führung und Bereitstellung der Amtlichen Karte 1 : 5 000
+sowie der Amtlichen Präsentationen 1 : 2 500 und 1 : 10 000
+(AK5-Erlass)“.
+
+2.
+
+Nummer 6 erhält folgende Fassung:
+„6. Amtliche Präsentation 1 : 10 000
+Die Amtliche Präsentation 1 : 10 000 (AP10) präsentiert die Geobasisdaten Niedersachsen im
+Maßstab 1 : 10 000. Hierfür wird die Präsentationsausgabe basemap.de P10 Raster (P10) der Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV)
+als Grundlage genutzt.
+Eine länderspezifische Aufbereitung oder eine Ergänzung des Karteninhalts durch individuelle
+Symbole und/oder Schriften erfolgt nicht. Als inhaltliche Grundlage der P10 dient vorrangig der Datenbestand des ATKIS, der mit Inhalten aus dem ALKIS und weiteren freien Datenquellen ergänzt
+wird.
+Die Daten sind maßstabsbezogen für ein druckoptimiertes Kartenbild aufbereitet und enthalten die
+für eine Kartenausgabe im Maßstab 1 : 10 000 relevanten Inhalte.
+Für die Bereitstellung der AP10 gelten die Ausführungen in Nummer 4.1.
+Die AP10 wird als Standardpräsentation über einen P10-Dienst oder über Web-Applikation bereitgestellt.
+Die Bereitstellung erfolgt in der Regel in digitaler Form sowohl farbig als auch in Graustufen (siehe
+Anlage 3).“
+
+3.
+
+Anlage 3 erhält folgende Fassung:
+
+Herausgeber: Niedersächsische Staatskanzlei
+
+Vermessungs- und Katasterverwaltung
+Niedersachsen
+
+Gemeinde:
+Gemarkung:
+
+Einbeck, Stadt
+Greene
+
+Anlage 3
+
+Amtliche Präsentation 1:10000
+Standardpräsentation
+Erstellt am 07.11.2024
+
+N = 5746772
+E = 32565626
+
+E = 32563826
+
+N = 5744552
+
+Verantwortlich für den Inhalt:
+
+Maßstab 1:10000
+
+Landesamt für Geoinformation
+und Landesvermessung Niedersachsen
+Regionaldirektion Northeim - Katasteramt Northeim -
+
+0
+
+100
+
+200
+
+300
+
+Meter
+
+© GeoBasis-DE / BKG (2024) CC BY 4.0
+
+Bereitgestellt durch:
+Landesamt für Geoinformation und Landesvermessung Niedersachsen
+- Katasteramt Northeim Bahnhofstr. 15
+37154 Northeim
+Zeichen:
+
+Bei einer Verwertung für nichteigene oder wirtschaftliche Zwecke oder einer öffentlichen Wiedergabe sind die
+Allgemeinen Geschäfts- und Nutzungsbedingungen (AGNB) zu beachten; ggf. sind erforderliche Nutzungsrechte über
+einen zusätzlich mit der für den Inhalt verantwortlichen Behörde abzuschließenden Nutzungsvertrag zu erwerben.
+
+An
+das Landesamt für Geoinformation und Landesvermessung Niedersachsen
+die Öffentlich bestellten Vermessungsingenieurinnen und Öffentlich bestellten Vermessungsingenieure
+die anderen behördlichen Vermessungsstellen

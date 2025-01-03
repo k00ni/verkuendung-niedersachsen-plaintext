@@ -1,0 +1,147 @@
+Ni e d ers ä c hsis c h es
+
+Mi nist eri al bl att
+7 4. ( 7 9 .) J a hr g a n g
+
+H a n n o v er, d e n 1 8. D e z e m b er 2 0 2 4
+
+N u m m er 6 3 6
+
+Ni e d er s ä c h si s c h e s L a n d e s a mt f ür Str a ß e n b a u u n d V er k e hr
+
+U m b e n e n n u n g ei n er T eil str e c k e d er L 4 7 2 z ur L a n d e str a ß e L 6 7 0 u n d
+U m b e n e n n u n g ei n er T eil str e c k e d er L 6 7 0 z ur L a n d e str a ß e L 4 7 2
+B e k. d. N L St B V G B W olf e n b ütt el v. 1 8. 1 2. 2 0 2 4 – 4 1/ 3 1 0 3 0 L 4 7 2/ L 6 7 0 –
+
+I.
+1.
+Di e i n d er G e m ar k u n g G e b h ar d s h a g e n i n d er St a dt S al z gitt er g el e g e n e n T eil str e c k e d er L a n d e str a ß e
+4 7 2 wir d g e m ä ß § 7 N Str G mit Wir k u n g v o m 0 1. 0 1. 2 0 2 5 z ur L a n d e str a ß e 6 7 0 u n d wi e f ol gt u m b e n a n nt :
+1. 1
+
+Di e T eil str e c k e v o m N K *) 3 8 2 8 0 0 6 n a c h N K 3 8 2 8 0 0 4, mit ei n er G e s a mtl ä n g e v o n 6 1 8 m.
+Tr ä g er d er Str a ß e n b a ul a st bl ei bt d a s L a n d Ni e d er s a c h s e n.
+A u s n a h m e v o n d e m Ü b er g a n g d er Str a ß e n b a ul a st i st:
+Di e Ort s d ur c hf a hrt S Z -G e b h ar d s h a g e n z wi s c h e n d e n N K 3 8 2 8 0 0 6 u n d N K 3 8 2 8 0 0 4 i n ei n er G e s a mtl ä n g e v o n 1 4 8 m di e – wi e bi s h er – i n d er B a ul a st d er St a dt S al z gitt er v er bl ei b e n wir d.
+
+2.
+Di e i n d er G e m ar k u n g G e b h ar d s h a g e n i n d er St a dt S al z gitt er g el e g e n e n T eil str e c k e d er L a nd e str a ß e 6 7 0 wir d, g e m ä ß § 7 N Str G mit Wir k u n g v o m 0 1. 0 1. 2 0 2 5 z ur L a n d e str a ß e 4 7 2 u n d wi e f ol gt u m b en a n nt :
+2. 1
+
+Di e T eil str e c k e v o m N K 3 8 2 8 0 0 4 n a c h N K 3 8 2 8 0 5 3, mit ei n er G e s a mtl ä n g e v o n 1 8 5 7 m .
+Tr ä g er d er Str a ß e n b a ul a st bl ei bt d a s L a n d Ni e d er s a c h s e n.
+II.
+
+G e g e n di e s e n B e s c h ei d k a n n i n n er h al b ei n e s M o n at s n a c h B e k a n nt m a c h u n g Kl a g e b ei m V er w alt u n g s g eri c ht Br a u n s c h w ei g, Wil h el m str a ß e 5 5, 3 8 1 0 0 Br a u n s c h w ei g, er h o b e n w er d e n.
+Di e Kl a g e i st g e g e n di e Ni e d er s ä c h si s c h e L a n d e s b e h ör d e f ür Str a ß e n b a u u n d V er k e hr, G ötti n g er C h a u ss e e 7 6 A, 3 0 4 5 3 H a n n o v er, z u ri c ht e n.
+
+*)
+
+N K = N et z k n ot e n.
+
+H er a us g e b er: Ni e d ers ä c hsis c h e St a ats k a n zl ei
+
+K21
+
+L670
+
+3
+2 8 0 5 053
+3 8 3828
+N KNK
+
+52
+
+L472
+
+L670
+
+6
+
+08
+8 2 8 0 008
+K 3 3828
+NNK
+
+14
+
+8
+6
+
+NK
+
+38
+
+28
+
+00
+
+L472
+
+38
+
+00
+
+42
+
+NK
+
+28
+
+40
+
+2037
+
+L670
+40
+
+L670
+
+8
+
+14
+
+L6
+70
+
+50
+
+04
+8 2 8 0004
+K 33828
+NNK
+
+L e g e n d e:
+Legende:
+
+N et z k n ot e n
+Netzknoten
+OD-Grenze
+O D- Gr e n z e
+L472
+L 4 7 2 zur
+z ur L670
+L670
+L670
+L 6 7 0 zur
+z ur L472
+L472
+
+UUmstufungskonzept
+m st uf u n g s k o n z e pt
+1t
+er Abschnitt
+A b s c h nitt
+1ter
+0
+
+100
+
+200
+
+300 m
+
+G e of a c h d at e n © N L S T B V 2 0 2 3
+
+M a ß st a b:
+1: 1 0 0 0 0
